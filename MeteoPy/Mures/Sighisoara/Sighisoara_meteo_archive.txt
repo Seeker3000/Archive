@@ -1,0 +1,956 @@
+Sighisoara: 04 \ luni \ 25:1:2021 \ 22:40:58
+[' Răsarit = 07:51:26 Apus = 17:14:33 Min (°C) = -1.56 Max (°C) =4.21 Presiune = 1003 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Sighisoara: 04 \ marți \ 26:1:2021 \ 09:58:03
+[' Răsarit = 07:50:26 Apus = 17:16:00 Min (°C) = -2.57 Max (°C) =0.71 Presiune = 1007 Umiditate (%) = 93 Index UV = 0.52 Viteza vântului = 0.71 Unghiul vântului = 304 Stare = zăpadă slabă']
+Sighisoara: 04 \ miercuri \ 27:1:2021 \ 19:19:01
+[' Răsarit = 07:49:24 Apus = 17:17:28 Min (°C) = -2.65 Max (°C) =0 Presiune = 1009 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 270 Stare = nori 50-85%']
+Sighisoara: 04 \ joi \ 28:1:2021 \ 19:33:48
+[' Răsarit = 07:48:20 Apus = 17:18:57 Min (°C) = -3.73 Max (°C) =-0.89 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = nori 50-85%']
+Sighisoara: 04 \ vineri \ 29:1:2021 \ 20:19:39
+[' Răsarit = 07:47:14 Apus = 17:20:26 Min (°C) = -3.9 Max (°C) =4.19 Presiune = 1000 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = nori 50-85%']
+Sighisoara: 04 \ sâmbătă \ 30:1:2021 \ 20:20:56
+[' Răsarit = 07:46:06 Apus = 17:21:56 Min (°C) = 2.02 Max (°C) =6.29 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 25-50%']
+Sighisoara: 04 \ duminică \ 31:1:2021 \ 19:18:38
+[' Răsarit = 07:44:56 Apus = 17:23:25 Min (°C) = 1.57 Max (°C) =5.97 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = nori 85-100%']
+Sighisoara: 05 \ luni \ 01:2:2021 \ 19:19:30
+[' Răsarit = 07:43:45 Apus = 17:24:55 Min (°C) = 0.74 Max (°C) =5 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 125 Stare = nori 85-100%']
+Sighisoara: 05 \ marți \ 02:2:2021 \ 20:49:41
+[' Răsarit = 07:42:31 Apus = 17:26:26 Min (°C) = 1.33 Max (°C) =8.66 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']
+Sighisoara: 05 \ miercuri \ 03:2:2021 \ 19:46:02
+[' Răsarit = 07:41:16 Apus = 17:27:56 Min (°C) = 1.73 Max (°C) =9.92 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = cer senin']
+Sighisoara: 05 \ joi \ 04:2:2021 \ 19:20:41
+[' Răsarit = 07:39:59 Apus = 17:29:27 Min (°C) = 3.81 Max (°C) =10.53 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = nori 25-50%']
+Sighisoara: 05 \ vineri \ 05:2:2021 \ 19:16:27
+[' Răsarit = 07:38:40 Apus = 17:30:57 Min (°C) = 3.55 Max (°C) =10.33 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = nori 50-85%']
+Sighisoara: 05 \ sâmbătă \ 06:2:2021 \ 19:45:10
+[' Răsarit = 07:37:19 Apus = 17:32:28 Min (°C) = 4.73 Max (°C) =12.39 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = ceață']
+Sighisoara: 05 \ duminică \ 07:2:2021 \ 19:20:36
+[' Răsarit = 07:35:57 Apus = 17:33:59 Min (°C) = 5.76 Max (°C) =11.82 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Sighisoara: 06 \ luni \ 08:2:2021 \ 21:02:34
+[' Răsarit = 07:34:33 Apus = 17:35:30 Min (°C) = 3.46 Max (°C) =12.23 Presiune = 994 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 190 Stare = ploaie ușoară']
+Sighisoara: 06 \ marți \ 09:2:2021 \ 19:17:47
+[' Răsarit = 07:33:08 Apus = 17:37:00 Min (°C) = 4.11 Max (°C) =11.87 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = cer senin']
+Sighisoara: 06 \ miercuri \ 10:2:2021 \ 19:18:33
+[' Răsarit = 07:31:41 Apus = 17:38:31 Min (°C) = 6.69 Max (°C) =11.12 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = nori 85-100%']
+Sighisoara: 06 \ joi \ 11:2:2021 \ 19:12:53
+[' Răsarit = 07:30:13 Apus = 17:40:01 Min (°C) = -7.46 Max (°C) =11.95 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = snow']
+Sighisoara: 06 \ vineri \ 12:2:2021 \ 20:52:57
+[' Răsarit = 07:28:43 Apus = 17:41:32 Min (°C) = -10.13 Max (°C) =-7.3 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 240 Stare = nori 50-85%']
+Sighisoara: 06 \ sâmbătă \ 13:2:2021 \ 19:17:40
+[' Răsarit = 07:27:12 Apus = 17:43:02 Min (°C) = -10.9 Max (°C) =-6.06 Presiune = 1030 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 50-85%']
+Sighisoara: 06 \ duminică \ 14:2:2021 \ 19:15:58
+[' Răsarit = 07:25:39 Apus = 17:44:32 Min (°C) = -10.11 Max (°C) =-2.89 Presiune = 1031 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = nori 50-85%']
+Sighisoara: 07 \ luni \ 15:2:2021 \ 20:12:58
+[' Răsarit = 07:24:05 Apus = 17:46:02 Min (°C) = -7.15 Max (°C) =-2 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = nori 50-85%']
+Sighisoara: 07 \ marți \ 16:2:2021 \ 19:08:40
+[' Răsarit = 07:22:30 Apus = 17:47:31 Min (°C) = -7.84 Max (°C) =-1.78 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 350 Stare = cer senin']
+Sighisoara: 07 \ miercuri \ 17:2:2021 \ 19:16:45
+[' Răsarit = 07:20:53 Apus = 17:49:00 Min (°C) = -7.1 Max (°C) =-0.1 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 60 Stare = nori 25-50%']
+Sighisoara: 07 \ joi \ 18:2:2021 \ 19:20:36
+[' Răsarit = 07:19:15 Apus = 17:50:29 Min (°C) = -3.21 Max (°C) =0.53 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 296 Stare = ceață']
+Sighisoara: 07 \ vineri \ 19:2:2021 \ 19:13:41
+[' Răsarit = 07:17:36 Apus = 17:51:58 Min (°C) = -4.05 Max (°C) =2.94 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 25-50%']
+Sighisoara: 07 \ sâmbătă \ 20:2:2021 \ 19:17:55
+[' Răsarit = 07:15:56 Apus = 17:53:27 Min (°C) = -0.7 Max (°C) =3.28 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = ceață']
+Sighisoara: 07 \ duminică \ 21:2:2021 \ 19:15:22
+[' Răsarit = 07:14:15 Apus = 17:54:55 Min (°C) = -0.37 Max (°C) =6.6 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 260 Stare = nori 85-100%']
+Sighisoara: 08 \ luni \ 22:2:2021 \ 19:19:55
+[' Răsarit = 07:12:32 Apus = 17:56:23 Min (°C) = -0.11 Max (°C) =8.47 Presiune = 1031 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Sighisoara: 08 \ marți \ 23:2:2021 \ 19:17:54
+[' Răsarit = 07:10:49 Apus = 17:57:50 Min (°C) = 1 Max (°C) =10.49 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = ceață']
+Sighisoara: 08 \ miercuri \ 24:2:2021 \ 19:18:29
+[' Răsarit = 07:09:05 Apus = 17:59:17 Min (°C) = 1.76 Max (°C) =10.84 Presiune = 1035 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 14 Stare = ceață']
+Sighisoara: 08 \ joi \ 25:2:2021 \ 19:16:30
+[' Răsarit = 07:07:19 Apus = 18:00:44 Min (°C) = 2.99 Max (°C) =13.56 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = nori 25-50%']
+Sighisoara: 08 \ vineri \ 26:2:2021 \ 19:17:16
+[' Răsarit = 07:05:33 Apus = 18:02:11 Min (°C) = 4.15 Max (°C) =15.01 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 4 Stare = cer senin']
+Sighisoara: 08 \ sâmbătă \ 27:2:2021 \ 19:15:20
+[' Răsarit = 07:03:46 Apus = 18:03:37 Min (°C) = 3.41 Max (°C) =10.21 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 250 Stare = nori 25-50%']
+Sighisoara: 08 \ duminică \ 28:2:2021 \ 19:18:42
+[' Răsarit = 07:01:58 Apus = 18:05:03 Min (°C) = 0.2 Max (°C) =6.45 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = cer senin']
+Sighisoara: 09 \ luni \ 01:3:2021 \ 19:12:58
+[' Răsarit = 07:00:09 Apus = 18:06:28 Min (°C) = 0.72 Max (°C) =6.6 Presiune = 1031 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = nori 50-85%']
+Sighisoara: 09 \ marți \ 02:3:2021 \ 19:21:30
+[' Răsarit = 06:58:19 Apus = 18:07:53 Min (°C) = -0.42 Max (°C) =8.32 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 299 Stare = cer senin']
+Sighisoara: 09 \ miercuri \ 03:3:2021 \ 19:16:57
+[' Răsarit = 06:56:29 Apus = 18:09:18 Min (°C) = 1.34 Max (°C) =10.44 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Sighisoara: 09 \ joi \ 04:3:2021 \ 19:17:43
+[' Răsarit = 06:54:38 Apus = 18:10:43 Min (°C) = 1.8 Max (°C) =13.71 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 303 Stare = nori 10-25%']
+Sighisoara: 09 \ vineri \ 05:3:2021 \ 19:15:45
+[' Răsarit = 06:52:46 Apus = 18:12:07 Min (°C) = 3.18 Max (°C) =12.59 Presiune = 1013 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = nori 50-85%']
+Sighisoara: 09 \ sâmbătă \ 06:3:2021 \ 19:16:37
+[' Răsarit = 06:50:54 Apus = 18:13:31 Min (°C) = -1.83 Max (°C) =3.66 Presiune = 1028 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = cer senin']
+Sighisoara: 09 \ duminică \ 07:3:2021 \ 19:17:44
+[' Răsarit = 06:49:01 Apus = 18:14:54 Min (°C) = -3.61 Max (°C) =4.51 Presiune = 1020 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 355 Stare = cer senin']
+Sighisoara: 10 \ luni \ 08:3:2021 \ 19:20:59
+[' Răsarit = 06:47:07 Apus = 18:16:17 Min (°C) = -2.65 Max (°C) =5.93 Presiune = 1015 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = nori 10-25%']
+Sighisoara: 10 \ marți \ 09:3:2021 \ 19:16:16
+[' Răsarit = 06:45:13 Apus = 18:17:40 Min (°C) = -1.35 Max (°C) =5.14 Presiune = 1017 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = nori 25-50%']
+Sighisoara: 10 \ miercuri \ 10:3:2021 \ 19:21:18
+[' Răsarit = 06:43:19 Apus = 18:19:03 Min (°C) = -0.29 Max (°C) =2.91 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = nori 50-85%']
+Sighisoara: 10 \ joi \ 11:3:2021 \ 19:17:54
+[' Răsarit = 06:41:23 Apus = 18:20:25 Min (°C) = -3.25 Max (°C) =4.63 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = cer senin']
+Sighisoara: 10 \ vineri \ 12:3:2021 \ 19:17:00
+[' Răsarit = 06:39:28 Apus = 18:21:47 Min (°C) = -1.37 Max (°C) =7.75 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = nori 10-25%']
+Sighisoara: 10 \ sâmbătă \ 13:3:2021 \ 19:17:17
+[' Răsarit = 06:37:32 Apus = 18:23:09 Min (°C) = 2.03 Max (°C) =8.14 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Sighisoara: 10 \ duminică \ 14:3:2021 \ 19:19:38
+[' Răsarit = 06:35:36 Apus = 18:24:31 Min (°C) = 0.44 Max (°C) =13.64 Presiune = 1006 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Sighisoara: 11 \ luni \ 15:3:2021 \ 19:19:05
+[' Răsarit = 06:33:39 Apus = 18:25:52 Min (°C) = 4.54 Max (°C) =9.83 Presiune = 998 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = ploaie ușoară']
+Sighisoara: 11 \ marți \ 16:3:2021 \ 19:17:35
+[' Răsarit = 06:31:43 Apus = 18:27:14 Min (°C) = 2.89 Max (°C) =6.21 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = ploaie ușoară']
+Sighisoara: 11 \ miercuri \ 17:3:2021 \ 19:18:00
+[' Răsarit = 06:29:46 Apus = 18:28:34 Min (°C) = 0.68 Max (°C) =3.94 Presiune = 1006 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 280 Stare = nori 25-50%']
+Sighisoara: 11 \ joi \ 18:3:2021 \ 19:17:12
+[' Răsarit = 06:27:48 Apus = 18:29:55 Min (°C) = 0.71 Max (°C) =5.82 Presiune = 1011 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = nori 50-85%']
+Sighisoara: 11 \ vineri \ 19:3:2021 \ 19:14:41
+[' Răsarit = 06:25:51 Apus = 18:31:16 Min (°C) = -1.96 Max (°C) =2.11 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 25-50%']
+Sighisoara: 11 \ sâmbătă \ 20:3:2021 \ 19:17:17
+[' Răsarit = 06:23:53 Apus = 18:32:36 Min (°C) = -3.71 Max (°C) =3.58 Presiune = 1019 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 90 Stare = cer senin']
+Sighisoara: 11 \ duminică \ 21:3:2021 \ 19:12:33
+[' Răsarit = 06:21:56 Apus = 18:33:57 Min (°C) = -4.51 Max (°C) =5.58 Presiune = 1011 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = nori 10-25%']
+Sighisoara: 12 \ luni \ 22:3:2021 \ 19:17:44
+[' Răsarit = 06:19:58 Apus = 18:35:17 Min (°C) = -3.01 Max (°C) =4.39 Presiune = 1008 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = cer senin']
+Sighisoara: 12 \ marți \ 23:3:2021 \ 19:19:35
+[' Răsarit = 06:18:00 Apus = 18:36:37 Min (°C) = -6.41 Max (°C) =4.21 Presiune = 1012 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 260 Stare = nori 50-85%']
+Sighisoara: 12 \ miercuri \ 24:3:2021 \ 19:18:04
+[' Răsarit = 06:16:03 Apus = 18:37:57 Min (°C) = -5.1 Max (°C) =3.94 Presiune = 1018 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Sighisoara: 12 \ joi \ 25:3:2021 \ 19:18:07
+[' Răsarit = 06:14:05 Apus = 18:39:17 Min (°C) = -3.87 Max (°C) =8 Presiune = 1019 Umiditate (%) = 31 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = cer senin']
+Sighisoara: 12 \ vineri \ 26:3:2021 \ 19:22:53
+[' Răsarit = 06:12:07 Apus = 18:40:36 Min (°C) = -3.79 Max (°C) =8.28 Presiune = 1023 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 240 Stare = cer senin']
+Sighisoara: 12 \ sâmbătă \ 27:3:2021 \ 19:22:38
+[' Răsarit = 06:10:10 Apus = 18:41:56 Min (°C) = -0.89 Max (°C) =11.72 Presiune = 1023 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Sighisoara: 12 \ duminică \ 28:3:2021 \ 19:18:20
+[' Răsarit = 07:08:12 Apus = 19:43:16 Min (°C) = 2.27 Max (°C) =12.01 Presiune = 1028 Umiditate (%) = 37 Index UV = 0.08 Viteza vântului = 8.23 Unghiul vântului = 290 Stare = nori 10-25%']
+Sighisoara: 13 \ luni \ 29:3:2021 \ 19:17:17
+[' Răsarit = 07:06:15 Apus = 19:44:35 Min (°C) = 0.05 Max (°C) =11 Presiune = 1030 Umiditate (%) = 37 Index UV = 0.1 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Sighisoara: 13 \ marți \ 30:3:2021 \ 19:16:11
+[' Răsarit = 07:04:18 Apus = 19:45:55 Min (°C) = 0.36 Max (°C) =14 Presiune = 1028 Umiditate (%) = 38 Index UV = 0.12 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Sighisoara: 13 \ miercuri \ 31:3:2021 \ 19:16:11
+[' Răsarit = 07:02:21 Apus = 19:47:14 Min (°C) = 3.61 Max (°C) =17 Presiune = 1022 Umiditate (%) = 45 Index UV = 0.07 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Sighisoara: 13 \ joi \ 01:4:2021 \ 19:16:44
+[' Răsarit = 07:00:25 Apus = 19:48:34 Min (°C) = 7.18 Max (°C) =19 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.14 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Sighisoara: 13 \ vineri \ 02:4:2021 \ 19:19:38
+[' Răsarit = 06:58:29 Apus = 19:49:53 Min (°C) = 7.54 Max (°C) =15.09 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = nori 25-50%']
+Sighisoara: 13 \ sâmbătă \ 03:4:2021 \ 20:41:04
+[' Răsarit = 06:56:33 Apus = 19:51:13 Min (°C) = 4.41 Max (°C) =10.2 Presiune = 1011 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 242 Stare = nori 50-85%']
+Sighisoara: 13 \ duminică \ 04:4:2021 \ 20:19:51
+[' Răsarit = 06:54:37 Apus = 19:52:32 Min (°C) = 1.52 Max (°C) =9.68 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = nori 50-85%']
+Sighisoara: 14 \ luni \ 05:4:2021 \ 14:47:43
+[' Răsarit = 06:52:42 Apus = 19:53:52 Min (°C) = -0.08 Max (°C) =10.24 Presiune = 1011 Umiditate (%) = 50 Index UV = 2.58 Viteza vântului = 3.6 Unghiul vântului = 210 Stare = nori 25-50%']
+Sighisoara: 14 \ luni \ 05:4:2021 \ 19:18:09
+[' Răsarit = 06:52:42 Apus = 19:53:52 Min (°C) = -0.08 Max (°C) =11.06 Presiune = 1008 Umiditate (%) = 40 Index UV = 0.15 Viteza vântului = 6.17 Unghiul vântului = 190 Stare = cer senin']
+Sighisoara: 14 \ marți \ 06:4:2021 \ 20:22:23
+[' Răsarit = 06:50:48 Apus = 19:55:11 Min (°C) = 0.5 Max (°C) =12.68 Presiune = 1002 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 290 Stare = cer senin']
+Sighisoara: 14 \ miercuri \ 07:4:2021 \ 19:16:39
+[' Răsarit = 06:48:54 Apus = 19:56:31 Min (°C) = -1.65 Max (°C) =6.06 Presiune = 1009 Umiditate (%) = 31 Index UV = 0.16 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = nori 10-25%']
+Sighisoara: 14 \ joi \ 08:4:2021 \ 19:16:36
+[' Răsarit = 06:47:00 Apus = 19:57:51 Min (°C) = -3.01 Max (°C) =6.37 Presiune = 1021 Umiditate (%) = 42 Index UV = 0.1 Viteza vântului = 4.63 Unghiul vântului = 240 Stare = nori 25-50%']
+Sighisoara: 14 \ vineri \ 09:4:2021 \ 19:16:48
+[' Răsarit = 06:45:07 Apus = 19:59:10 Min (°C) = -3.66 Max (°C) =10 Presiune = 1026 Umiditate (%) = 32 Index UV = 0.18 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Sighisoara: 14 \ sâmbătă \ 10:4:2021 \ 19:16:23
+[' Răsarit = 06:43:15 Apus = 20:00:30 Min (°C) = -0.7 Max (°C) =13.94 Presiune = 1021 Umiditate (%) = 26 Index UV = 0.19 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Sighisoara: 14 \ duminică \ 11:4:2021 \ 19:17:58
+[' Răsarit = 06:41:23 Apus = 20:01:50 Min (°C) = 2.16 Max (°C) =18 Presiune = 1020 Umiditate (%) = 27 Index UV = 0.2 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Sighisoara: 15 \ luni \ 12:4:2021 \ 22:01:49
+[' Răsarit = 06:39:32 Apus = 20:03:10 Min (°C) = 4.33 Max (°C) =18.47 Presiune = 1017 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 360 Stare = nori 10-25%']
+Sighisoara: 15 \ marți \ 13:4:2021 \ 19:17:32
+[' Răsarit = 06:37:41 Apus = 20:04:29 Min (°C) = 7.48 Max (°C) =18.22 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.05 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
+Sighisoara: 15 \ miercuri \ 14:4:2021 \ 19:17:41
+[' Răsarit = 06:35:51 Apus = 20:05:49 Min (°C) = 1.9 Max (°C) =8.95 Presiune = 1014 Umiditate (%) = 87 Index UV = 0.03 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = ploaie ușoară']
+Sighisoara: 15 \ joi \ 15:4:2021 \ 19:18:44
+[' Răsarit = 06:34:02 Apus = 20:07:09 Min (°C) = 0.66 Max (°C) =6.06 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.18 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = nori 10-25%']
+Sighisoara: 15 \ vineri \ 16:4:2021 \ 19:17:12
+[' Răsarit = 06:32:14 Apus = 20:08:29 Min (°C) = -0.59 Max (°C) =7.89 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.22 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = nori 10-25%']
+Sighisoara: 15 \ sâmbătă \ 17:4:2021 \ 19:17:00
+[' Răsarit = 06:30:27 Apus = 20:09:50 Min (°C) = -1.17 Max (°C) =12.36 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.21 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Sighisoara: 15 \ duminică \ 18:4:2021 \ 19:16:27
+[' Răsarit = 06:28:40 Apus = 20:11:10 Min (°C) = 3.62 Max (°C) =9.21 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.06 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = nori 25-50%']
+Sighisoara: 16 \ luni \ 19:4:2021 \ 19:17:16
+[' Răsarit = 06:26:54 Apus = 20:12:30 Min (°C) = 5.29 Max (°C) =11.21 Presiune = 1012 Umiditate (%) = 71 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = nori 25-50%']
+Sighisoara: 16 \ marți \ 20:4:2021 \ 19:16:43
+[' Răsarit = 06:25:09 Apus = 20:13:50 Min (°C) = 4.58 Max (°C) =10.32 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.16 Viteza vântului = 1.54 Unghiul vântului = 180 Stare = nori 25-50%']
+Sighisoara: 16 \ miercuri \ 21:4:2021 \ 19:16:47
+[' Răsarit = 06:23:25 Apus = 20:15:10 Min (°C) = 5.35 Max (°C) =12.89 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.25 Viteza vântului = 1.03 Unghiul vântului = 190 Stare = nori 10-25%']
+Sighisoara: 16 \ joi \ 22:4:2021 \ 19:17:20
+[' Răsarit = 06:21:43 Apus = 20:16:30 Min (°C) = 3.35 Max (°C) =15.88 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.29 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = nori 10-25%']
+Sighisoara: 16 \ vineri \ 23:4:2021 \ 19:16:37
+[' Răsarit = 06:20:01 Apus = 20:17:50 Min (°C) = 4.83 Max (°C) =12.11 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.29 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = nori 10-25%']
+Sighisoara: 16 \ sâmbătă \ 24:4:2021 \ 19:16:45
+[' Răsarit = 06:18:20 Apus = 20:19:11 Min (°C) = 2.16 Max (°C) =14 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.26 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = nori 10-25%']
+Sighisoara: 16 \ duminică \ 25:4:2021 \ 19:17:03
+[' Răsarit = 06:16:40 Apus = 20:20:31 Min (°C) = 4.09 Max (°C) =16 Presiune = 1014 Umiditate (%) = 31 Index UV = 0.23 Viteza vântului = 1.54 Unghiul vântului = 360 Stare = nori 10-25%']
+Sighisoara: 17 \ luni \ 26:4:2021 \ 19:16:37
+[' Răsarit = 06:15:01 Apus = 20:21:51 Min (°C) = 4.45 Max (°C) =13 Presiune = 1014 Umiditate (%) = 30 Index UV = 0.28 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = cer senin']
+Sighisoara: 17 \ marți \ 27:4:2021 \ 19:18:12
+[' Răsarit = 06:13:24 Apus = 20:23:11 Min (°C) = 4.21 Max (°C) =12.11 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.31 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = nori 10-25%']
+Sighisoara: 17 \ miercuri \ 28:4:2021 \ 19:16:50
+[' Răsarit = 06:11:48 Apus = 20:24:30 Min (°C) = 3.91 Max (°C) =16 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.35 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = cer senin']
+Sighisoara: 17 \ joi \ 29:4:2021 \ 19:09:03
+[' Răsarit = 06:10:13 Apus = 20:25:50 Min (°C) = 4.55 Max (°C) =21 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = cer senin']
+Sighisoara: 17 \ joi \ 29:4:2021 \ 19:27:11
+[' Răsarit = 06:10:13 Apus = 20:25:50 Min (°C) = 4.55 Max (°C) =21 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 1.03 Unghiul vântului = 200 Stare = nori 10-25%']
+Sighisoara: 17 \ vineri \ 30:4:2021 \ 19:16:47
+[' Răsarit = 06:08:39 Apus = 20:27:10 Min (°C) = 8.27 Max (°C) =21 Presiune = 1011 Umiditate (%) = 56 Index UV = 0.35 Viteza vântului = 3.6 Unghiul vântului = 180 Stare = nori 25-50%']
+Sighisoara: 17 \ sâmbătă \ 01:5:2021 \ 19:17:47
+[' Răsarit = 06:07:06 Apus = 20:28:29 Min (°C) = 10.16 Max (°C) =23.49 Presiune = 1009 Umiditate (%) = 56 Index UV = 0.32 Viteza vântului = 3.6 Unghiul vântului = 10 Stare = cer senin']
+Sighisoara: 17 \ duminică \ 02:5:2021 \ 20:24:11
+[' Răsarit = 06:05:35 Apus = 20:29:48 Min (°C) = 13.5 Max (°C) =22.63 Presiune = 1008 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 10-25%']
+Sighisoara: 18 \ luni \ 03:5:2021 \ 19:16:59
+[' Răsarit = 06:04:05 Apus = 20:31:07 Min (°C) = 8.5 Max (°C) =13.94 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 10-25%']
+Sighisoara: 18 \ marți \ 04:5:2021 \ 19:18:43
+[' Răsarit = 06:02:36 Apus = 20:32:26 Min (°C) = 2.88 Max (°C) =16.06 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.43 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = cer senin']
+Sighisoara: 18 \ miercuri \ 05:5:2021 \ 19:16:42
+[' Răsarit = 06:01:09 Apus = 20:33:44 Min (°C) = 4.84 Max (°C) =21 Presiune = 1005 Umiditate (%) = 40 Index UV = 0.45 Viteza vântului = 3.09 Unghiul vântului = 170 Stare = nori 25-50%']
+Sighisoara: 18 \ joi \ 06:5:2021 \ 19:17:42
+[' Răsarit = 05:59:44 Apus = 20:35:02 Min (°C) = 7.71 Max (°C) =16.06 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.39 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = nori 10-25%']
+Sighisoara: 18 \ vineri \ 07:5:2021 \ 19:16:17
+[' Răsarit = 05:58:20 Apus = 20:36:20 Min (°C) = 6.13 Max (°C) =19.23 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.1 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = nori 10-25%']
+Sighisoara: 18 \ sâmbătă \ 08:5:2021 \ 19:16:54
+[' Răsarit = 05:56:57 Apus = 20:37:37 Min (°C) = 5.51 Max (°C) =12.89 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.42 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = cer senin']
+Sighisoara: 18 \ duminică \ 09:5:2021 \ 19:16:35
+[' Răsarit = 05:55:36 Apus = 20:38:54 Min (°C) = 1.52 Max (°C) =17.89 Presiune = 1023 Umiditate (%) = 27 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Sighisoara: 19 \ luni \ 10:5:2021 \ 19:16:41
+[' Răsarit = 05:54:16 Apus = 20:40:11 Min (°C) = 4.61 Max (°C) =25 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.53 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Sighisoara: 19 \ marți \ 11:5:2021 \ 19:17:36
+[' Răsarit = 05:52:58 Apus = 20:41:27 Min (°C) = 8.18 Max (°C) =26 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.53 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Sighisoara: 19 \ miercuri \ 12:5:2021 \ 19:16:48
+[' Răsarit = 05:51:42 Apus = 20:42:42 Min (°C) = 8.43 Max (°C) =23.4 Presiune = 1005 Umiditate (%) = 63 Index UV = 0.55 Viteza vântului = 6.57 Unghiul vântului = 111 Stare = cer senin']
+Sighisoara: 19 \ joi \ 13:5:2021 \ 19:17:44
+[' Răsarit = 05:50:28 Apus = 20:43:57 Min (°C) = 10.6 Max (°C) =17.65 Presiune = 1004 Umiditate (%) = 91 Index UV = 0.5 Viteza vântului = 3.71 Unghiul vântului = 248 Stare = nori 25-50%']
+Sighisoara: 19 \ vineri \ 14:5:2021 \ 19:17:30
+[' Răsarit = 05:49:15 Apus = 20:45:11 Min (°C) = 9.76 Max (°C) =14 Presiune = 1010 Umiditate (%) = 82 Index UV = 0.53 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 50-85%']
+Sighisoara: 19 \ sâmbătă \ 15:5:2021 \ 19:16:59
+[' Răsarit = 05:48:04 Apus = 20:46:24 Min (°C) = 7.81 Max (°C) =20.09 Presiune = 1009 Umiditate (%) = 55 Index UV = 0.54 Viteza vântului = 5.14 Unghiul vântului = 120 Stare = ploaie ușoară']
+Sighisoara: 19 \ duminică \ 16:5:2021 \ 19:17:34
+[' Răsarit = 05:46:55 Apus = 20:47:37 Min (°C) = 9.69 Max (°C) =18.47 Presiune = 1008 Umiditate (%) = 72 Index UV = 0.21 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 10-25%']
+Sighisoara: 20 \ luni \ 17:5:2021 \ 19:18:08
+[' Răsarit = 05:45:47 Apus = 20:48:49 Min (°C) = 9.76 Max (°C) =20 Presiune = 1003 Umiditate (%) = 49 Index UV = 0.35 Viteza vântului = 5.14 Unghiul vântului = 200 Stare = nori 10-25%']
+Sighisoara: 20 \ marți \ 18:5:2021 \ 19:17:32
+[' Răsarit = 05:44:42 Apus = 20:50:00 Min (°C) = 8.13 Max (°C) =12.27 Presiune = 1009 Umiditate (%) = 92 Index UV = 0.08 Viteza vântului = 8.01 Unghiul vântului = 295 Stare = nori 85-100%']
+Sighisoara: 20 \ miercuri \ 19:5:2021 \ 19:16:28
+[' Răsarit = 05:43:38 Apus = 20:51:10 Min (°C) = 8.61 Max (°C) =17.31 Presiune = 1009 Umiditate (%) = 70 Index UV = 0.57 Viteza vântului = 0.66 Unghiul vântului = 334 Stare = nori 85-100%']
+Sighisoara: 20 \ joi \ 20:5:2021 \ 19:17:03
+[' Răsarit = 05:42:36 Apus = 20:52:20 Min (°C) = 8.33 Max (°C) =11.62 Presiune = 1011 Umiditate (%) = 97 Index UV = 0.09 Viteza vântului = 1.45 Unghiul vântului = 251 Stare = nori 85-100%']
+Sighisoara: 20 \ vineri \ 21:5:2021 \ 19:17:51
+[' Răsarit = 05:41:36 Apus = 20:53:28 Min (°C) = 8.24 Max (°C) =18.29 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.64 Viteza vântului = 3.08 Unghiul vântului = 289 Stare = cer senin']
+Sighisoara: 20 \ sâmbătă \ 22:5:2021 \ 19:17:46
+[' Răsarit = 05:40:39 Apus = 20:54:35 Min (°C) = 7.21 Max (°C) =21.27 Presiune = 1014 Umiditate (%) = 69 Index UV = 0.56 Viteza vântului = 2.18 Unghiul vântului = 271 Stare = nori 50-85%']
+Sighisoara: 20 \ duminică \ 23:5:2021 \ 19:17:55
+[' Răsarit = 05:39:43 Apus = 20:55:42 Min (°C) = 11.16 Max (°C) =23.29 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.62 Viteza vântului = 0.8 Unghiul vântului = 199 Stare = nori 85-100%']
+Sighisoara: 21 \ luni \ 24:5:2021 \ 19:16:39
+[' Răsarit = 05:38:49 Apus = 20:56:47 Min (°C) = 10.47 Max (°C) =19.4 Presiune = 1022 Umiditate (%) = 67 Index UV = 0.7 Viteza vântului = 0.84 Unghiul vântului = 94 Stare = nori 50-85%']
+Sighisoara: 21 \ marți \ 25:5:2021 \ 19:16:32
+[' Răsarit = 05:37:57 Apus = 20:57:51 Min (°C) = 10.4 Max (°C) =27.27 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.69 Viteza vântului = 2.73 Unghiul vântului = 247 Stare = cer senin']
+Sighisoara: 21 \ miercuri \ 26:5:2021 \ 19:19:02
+[' Răsarit = 05:37:08 Apus = 20:58:53 Min (°C) = 12.52 Max (°C) =20.51 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.44 Viteza vântului = 2.08 Unghiul vântului = 351 Stare = nori 10-25%']
+Sighisoara: 21 \ joi \ 27:5:2021 \ 19:16:48
+[' Răsarit = 05:36:20 Apus = 20:59:55 Min (°C) = 11.93 Max (°C) =22.41 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.57 Viteza vântului = 1.24 Unghiul vântului = 358 Stare = nori 50-85%']
+Sighisoara: 21 \ vineri \ 28:5:2021 \ 19:16:51
+[' Răsarit = 05:35:35 Apus = 21:00:55 Min (°C) = 12.31 Max (°C) =15.51 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.09 Viteza vântului = 1.88 Unghiul vântului = 265 Stare = nori 85-100%']
+Sighisoara: 21 \ sâmbătă \ 29:5:2021 \ 19:16:28
+[' Răsarit = 05:34:52 Apus = 21:01:53 Min (°C) = 9.55 Max (°C) =17.98 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.56 Viteza vântului = 4.53 Unghiul vântului = 316 Stare = nori 50-85%']
+Sighisoara: 21 \ duminică \ 30:5:2021 \ 19:16:13
+[' Răsarit = 05:34:11 Apus = 21:02:51 Min (°C) = 9.17 Max (°C) =15.51 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.49 Viteza vântului = 3.45 Unghiul vântului = 333 Stare = nori 50-85%']
+Sighisoara: 22 \ marți \ 01:6:2021 \ 19:17:23
+[' Răsarit = 05:32:56 Apus = 21:04:40 Min (°C) = 8.5 Max (°C) =14.27 Presiune = 1017 Umiditate (%) = 97 Index UV = 0.39 Viteza vântului = 1.31 Unghiul vântului = 253 Stare = nori 85-100%']
+Sighisoara: 22 \ miercuri \ 02:6:2021 \ 19:14:34
+[' Răsarit = 05:32:22 Apus = 21:05:33 Min (°C) = 8.45 Max (°C) =16.62 Presiune = 1019 Umiditate (%) = 74 Index UV = 0.31 Viteza vântului = 3.23 Unghiul vântului = 325 Stare = nori 85-100%']
+Sighisoara: 22 \ joi \ 03:6:2021 \ 19:15:02
+[' Răsarit = 05:31:51 Apus = 21:06:24 Min (°C) = 7.84 Max (°C) =18.27 Presiune = 1023 Umiditate (%) = 74 Index UV = 0.31 Viteza vântului = 2.83 Unghiul vântului = 282 Stare = nori 50-85%']
+Sighisoara: 22 \ vineri \ 04:6:2021 \ 19:22:38
+[' Răsarit = 05:31:21 Apus = 21:07:13 Min (°C) = 8.19 Max (°C) =21.62 Presiune = 1022 Umiditate (%) = 67 Index UV = 0.7 Viteza vântului = 2.05 Unghiul vântului = 342 Stare = nori 85-100%']
+Sighisoara: 22 \ sâmbătă \ 05:6:2021 \ 19:18:19
+[' Răsarit = 05:30:54 Apus = 21:08:00 Min (°C) = 8.65 Max (°C) =21.27 Presiune = 1018 Umiditate (%) = 72 Index UV = 0.4 Viteza vântului = 2.23 Unghiul vântului = 5 Stare = nori 50-85%']
+Sighisoara: 22 \ duminică \ 06:6:2021 \ 19:17:18
+[' Răsarit = 05:30:29 Apus = 21:08:46 Min (°C) = 10.4 Max (°C) =22.18 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.73 Viteza vântului = 2.34 Unghiul vântului = 353 Stare = nori 10-25%']
+Sighisoara: 23 \ luni \ 07:6:2021 \ 19:17:09
+[' Răsarit = 05:30:07 Apus = 21:09:30 Min (°C) = 10.36 Max (°C) =22.18 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.7 Viteza vântului = 2.55 Unghiul vântului = 356 Stare = cer senin']
+Sighisoara: 23 \ marți \ 08:6:2021 \ 19:16:36
+[' Răsarit = 05:29:47 Apus = 21:10:11 Min (°C) = 11.14 Max (°C) =23.29 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.76 Viteza vântului = 2.4 Unghiul vântului = 344 Stare = nori 10-25%']
+Sighisoara: 23 \ miercuri \ 09:6:2021 \ 19:17:39
+[' Răsarit = 05:29:29 Apus = 21:10:51 Min (°C) = 11.05 Max (°C) =22.4 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.74 Viteza vântului = 2.79 Unghiul vântului = 25 Stare = cer senin']
+Sighisoara: 23 \ joi \ 10:6:2021 \ 19:16:38
+[' Răsarit = 05:29:14 Apus = 21:11:29 Min (°C) = 11.03 Max (°C) =22.18 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.73 Viteza vântului = 3.16 Unghiul vântului = 336 Stare = nori 10-25%']
+Sighisoara: 23 \ vineri \ 11:6:2021 \ 19:16:41
+[' Răsarit = 05:29:01 Apus = 21:12:05 Min (°C) = 11.2 Max (°C) =20.5 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.65 Viteza vântului = 1.04 Unghiul vântului = 286 Stare = nori 50-85%']
+Sighisoara: 23 \ sâmbătă \ 12:6:2021 \ 19:16:54
+[' Răsarit = 05:28:51 Apus = 21:12:39 Min (°C) = 12.61 Max (°C) =23.29 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.74 Viteza vântului = 2.39 Unghiul vântului = 354 Stare = nori 10-25%']
+Sighisoara: 23 \ duminică \ 13:6:2021 \ 19:22:18
+[' Răsarit = 05:28:43 Apus = 21:13:10 Min (°C) = 11.03 Max (°C) =18.29 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.68 Viteza vântului = 6.72 Unghiul vântului = 310 Stare = nori 25-50%']
+Sighisoara: 24 \ luni \ 14:6:2021 \ 19:16:47
+[' Răsarit = 05:28:37 Apus = 21:13:40 Min (°C) = 8.11 Max (°C) =14.31 Presiune = 1015 Umiditate (%) = 88 Index UV = 0.63 Viteza vântului = 3.24 Unghiul vântului = 315 Stare = nori 85-100%']
+Sighisoara: 24 \ marți \ 15:6:2021 \ 19:19:01
+[' Răsarit = 05:28:34 Apus = 21:14:07 Min (°C) = 7.31 Max (°C) =18.41 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.72 Viteza vântului = 3.33 Unghiul vântului = 292 Stare = nori 85-100%']
+Sighisoara: 24 \ miercuri \ 16:6:2021 \ 19:18:18
+[' Răsarit = 05:28:33 Apus = 21:14:32 Min (°C) = 12.23 Max (°C) =24.4 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.76 Viteza vântului = 1.06 Unghiul vântului = 318 Stare = nori 85-100%']
+Sighisoara: 24 \ joi \ 17:6:2021 \ 19:17:12
+[' Răsarit = 05:28:34 Apus = 21:14:55 Min (°C) = 12.17 Max (°C) =23.29 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.53 Viteza vântului = 0.64 Unghiul vântului = 350 Stare = nori 85-100%']
+Sighisoara: 24 \ vineri \ 18:6:2021 \ 19:17:47
+[' Răsarit = 05:28:38 Apus = 21:15:15 Min (°C) = 15.36 Max (°C) =25.51 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.18 Viteza vântului = 0.77 Unghiul vântului = 173 Stare = nori 85-100%']
+Sighisoara: 24 \ sâmbătă \ 19:6:2021 \ 19:17:08
+[' Răsarit = 05:28:45 Apus = 21:15:33 Min (°C) = 13.33 Max (°C) =22.18 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.37 Viteza vântului = 3.97 Unghiul vântului = 113 Stare = nori 85-100%']
+Sighisoara: 24 \ duminică \ 20:6:2021 \ 19:17:53
+[' Răsarit = 05:28:53 Apus = 21:15:49 Min (°C) = 12.34 Max (°C) =23.1 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.57 Viteza vântului = 1.88 Unghiul vântului = 351 Stare = ploaie ușoară']
+Sighisoara: 25 \ luni \ 21:6:2021 \ 19:18:31
+[' Răsarit = 05:29:04 Apus = 21:16:02 Min (°C) = 13.36 Max (°C) =27.18 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.78 Viteza vântului = 0.84 Unghiul vântului = 254 Stare = nori 10-25%']
+Sighisoara: 25 \ marți \ 22:6:2021 \ 19:17:59
+[' Răsarit = 05:29:17 Apus = 21:16:14 Min (°C) = 14.91 Max (°C) =30.27 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.81 Viteza vântului = 1.18 Unghiul vântului = 298 Stare = cer senin']
+Sighisoara: 25 \ miercuri \ 23:6:2021 \ 19:17:12
+[' Răsarit = 05:29:33 Apus = 21:16:22 Min (°C) = 16.81 Max (°C) =31.27 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.79 Viteza vântului = 2.15 Unghiul vântului = 309 Stare = nori 10-25%']
+Sighisoara: 25 \ joi \ 24:6:2021 \ 19:17:54
+[' Răsarit = 05:29:51 Apus = 21:16:28 Min (°C) = 16.7 Max (°C) =33.29 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.84 Viteza vântului = 1.04 Unghiul vântului = 319 Stare = cer senin']
+Sighisoara: 25 \ vineri \ 25:6:2021 \ 19:17:23
+[' Răsarit = 05:30:11 Apus = 21:16:32 Min (°C) = 19.39 Max (°C) =31.46 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.47 Viteza vântului = 1.25 Unghiul vântului = 171 Stare = nori 85-100%']
+Sighisoara: 25 \ sâmbătă \ 26:6:2021 \ 19:16:51
+[' Răsarit = 05:30:33 Apus = 21:16:34 Min (°C) = 15.8 Max (°C) =26.28 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.77 Viteza vântului = 1.86 Unghiul vântului = 181 Stare = nori 85-100%']
+Sighisoara: 25 \ duminică \ 27:6:2021 \ 19:16:47
+[' Răsarit = 05:30:58 Apus = 21:16:33 Min (°C) = 15.13 Max (°C) =26.27 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.77 Viteza vântului = 4 Unghiul vântului = 317 Stare = nori 25-50%']
+Sighisoara: 26 \ luni \ 28:6:2021 \ 19:19:40
+[' Răsarit = 05:31:24 Apus = 21:16:29 Min (°C) = 15.22 Max (°C) =27.18 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.63 Viteza vântului = 2.24 Unghiul vântului = 300 Stare = nori 25-50%']
+Sighisoara: 26 \ marți \ 29:6:2021 \ 19:18:32
+[' Răsarit = 05:31:53 Apus = 21:16:23 Min (°C) = 15.66 Max (°C) =30.39 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.82 Viteza vântului = 0.73 Unghiul vântului = 32 Stare = cer senin']
+Sighisoara: 26 \ miercuri \ 30:6:2021 \ 19:17:34
+[' Răsarit = 05:32:24 Apus = 21:16:15 Min (°C) = 17.06 Max (°C) =30.83 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.49 Viteza vântului = 7.68 Unghiul vântului = 262 Stare = nori 50-85%']
+Sighisoara: 26 \ joi \ 01:7:2021 \ 19:18:28
+[' Răsarit = 05:32:57 Apus = 21:16:04 Min (°C) = 16.69 Max (°C) =26.91 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.65 Viteza vântului = 1.24 Unghiul vântului = 152 Stare = nori 85-100%']
+Sighisoara: 26 \ vineri \ 02:7:2021 \ 19:16:56
+[' Răsarit = 05:33:32 Apus = 21:15:51 Min (°C) = 13.85 Max (°C) =19.51 Presiune = 1012 Umiditate (%) = 89 Index UV = 0.71 Viteza vântului = 0.98 Unghiul vântului = 319 Stare = nori 50-85%']
+Sighisoara: 26 \ sâmbătă \ 03:7:2021 \ 19:17:11
+[' Răsarit = 05:34:09 Apus = 21:15:35 Min (°C) = 11.4 Max (°C) =16.76 Presiune = 1013 Umiditate (%) = 93 Index UV = 0.68 Viteza vântului = 4.13 Unghiul vântului = 288 Stare = nori 85-100%']
+Sighisoara: 26 \ duminică \ 04:7:2021 \ 19:16:49
+[' Răsarit = 05:34:47 Apus = 21:15:17 Min (°C) = 12.86 Max (°C) =20.51 Presiune = 1011 Umiditate (%) = 88 Index UV = 0.42 Viteza vântului = 3.42 Unghiul vântului = 296 Stare = nori 85-100%']
+Sighisoara: 27 \ luni \ 05:7:2021 \ 19:17:19
+[' Răsarit = 05:35:28 Apus = 21:14:56 Min (°C) = 12.86 Max (°C) =26.27 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.72 Viteza vântului = 2.85 Unghiul vântului = 326 Stare = nori 85-100%']
+Sighisoara: 27 \ marți \ 06:7:2021 \ 19:18:00
+[' Răsarit = 05:36:10 Apus = 21:14:33 Min (°C) = 14.75 Max (°C) =28.28 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.79 Viteza vântului = 2.42 Unghiul vântului = 324 Stare = cer senin']
+Sighisoara: 27 \ miercuri \ 07:7:2021 \ 19:16:50
+[' Răsarit = 05:36:55 Apus = 21:14:07 Min (°C) = 16.15 Max (°C) =30.27 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.79 Viteza vântului = 1.56 Unghiul vântului = 2 Stare = cer senin']
+Sighisoara: 27 \ joi \ 08:7:2021 \ 19:17:54
+[' Răsarit = 05:37:41 Apus = 21:13:40 Min (°C) = 16.89 Max (°C) =29.34 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.78 Viteza vântului = 5.67 Unghiul vântului = 114 Stare = nori 10-25%']
+Sighisoara: 27 \ vineri \ 09:7:2021 \ 19:17:31
+[' Răsarit = 05:38:28 Apus = 21:13:09 Min (°C) = 16.2 Max (°C) =30.27 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.76 Viteza vântului = 3.93 Unghiul vântului = 116 Stare = cer senin']
+Sighisoara: 27 \ sâmbătă \ 10:7:2021 \ 19:16:53
+[' Răsarit = 05:39:18 Apus = 21:12:37 Min (°C) = 15.71 Max (°C) =28.67 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.74 Viteza vântului = 1.27 Unghiul vântului = 70 Stare = cer senin']
+Sighisoara: 27 \ duminică \ 11:7:2021 \ 19:17:02
+[' Răsarit = 05:40:08 Apus = 21:12:02 Min (°C) = 15.68 Max (°C) =30.27 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.73 Viteza vântului = 2.37 Unghiul vântului = 106 Stare = cer senin']
+Sighisoara: 28 \ luni \ 12:7:2021 \ 19:17:47
+[' Răsarit = 05:41:01 Apus = 21:11:25 Min (°C) = 15.09 Max (°C) =28.67 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.73 Viteza vântului = 1.09 Unghiul vântului = 322 Stare = cer senin']
+Sighisoara: 28 \ marți \ 13:7:2021 \ 19:17:42
+[' Răsarit = 05:41:55 Apus = 21:10:45 Min (°C) = 15.82 Max (°C) =31.62 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.76 Viteza vântului = 1.76 Unghiul vântului = 130 Stare = cer senin']
+Sighisoara: 28 \ miercuri \ 14:7:2021 \ 19:17:09
+[' Răsarit = 05:42:50 Apus = 21:10:03 Min (°C) = 16.75 Max (°C) =32.18 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.77 Viteza vântului = 4.41 Unghiul vântului = 99 Stare = cer senin']
+Sighisoara: 28 \ joi \ 15:7:2021 \ 19:17:03
+[' Răsarit = 05:43:47 Apus = 21:09:19 Min (°C) = 16.97 Max (°C) =31.19 Presiune = 1009 Umiditate (%) = 51 Index UV = 0.74 Viteza vântului = 2.11 Unghiul vântului = 101 Stare = cer senin']
+Sighisoara: 28 \ vineri \ 16:7:2021 \ 19:17:08
+[' Răsarit = 05:44:45 Apus = 21:08:33 Min (°C) = 17.99 Max (°C) =30.23 Presiune = 1009 Umiditate (%) = 47 Index UV = 0.72 Viteza vântului = 3.58 Unghiul vântului = 126 Stare = nori 25-50%']
+Sighisoara: 28 \ sâmbătă \ 17:7:2021 \ 19:17:29
+[' Răsarit = 05:45:44 Apus = 21:07:45 Min (°C) = 15.96 Max (°C) =30.72 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.68 Viteza vântului = 3.19 Unghiul vântului = 97 Stare = cer senin']
+Sighisoara: 28 \ duminică \ 18:7:2021 \ 19:17:58
+[' Răsarit = 05:46:44 Apus = 21:06:54 Min (°C) = 17.01 Max (°C) =31.45 Presiune = 1007 Umiditate (%) = 49 Index UV = 0.68 Viteza vântului = 2.26 Unghiul vântului = 33 Stare = nori 10-25%']
+Sighisoara: 29 \ luni \ 19:7:2021 \ 19:17:20
+[' Răsarit = 05:47:46 Apus = 21:06:01 Min (°C) = 17.64 Max (°C) =31.56 Presiune = 1008 Umiditate (%) = 87 Index UV = 0.64 Viteza vântului = 3.56 Unghiul vântului = 102 Stare = nori 25-50%']
+Sighisoara: 29 \ marți \ 20:7:2021 \ 19:17:13
+[' Răsarit = 05:48:49 Apus = 21:05:07 Min (°C) = 16.55 Max (°C) =23.81 Presiune = 1011 Umiditate (%) = 90 Index UV = 0.71 Viteza vântului = 5.21 Unghiul vântului = 308 Stare = nori 85-100%']
+Sighisoara: 29 \ miercuri \ 21:7:2021 \ 19:16:38
+[' Răsarit = 05:49:53 Apus = 21:04:10 Min (°C) = 14.52 Max (°C) =19.42 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.62 Viteza vântului = 4.66 Unghiul vântului = 328 Stare = nori 50-85%']
+Sighisoara: 29 \ joi \ 22:7:2021 \ 19:16:36
+[' Răsarit = 05:50:57 Apus = 21:03:11 Min (°C) = 13.15 Max (°C) =24.4 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.64 Viteza vântului = 3.71 Unghiul vântului = 319 Stare = nori 50-85%']
+Sighisoara: 29 \ vineri \ 23:7:2021 \ 19:16:53
+[' Răsarit = 05:52:03 Apus = 21:02:10 Min (°C) = 13.98 Max (°C) =24.62 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.65 Viteza vântului = 0.55 Unghiul vântului = 21 Stare = nori 50-85%']
+Sighisoara: 29 \ sâmbătă \ 24:7:2021 \ 19:24:01
+[' Răsarit = 05:53:10 Apus = 21:01:07 Min (°C) = 15.57 Max (°C) =26.62 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.63 Viteza vântului = 1.24 Unghiul vântului = 77 Stare = nori 50-85%']
+Sighisoara: 29 \ duminică \ 25:7:2021 \ 19:17:32
+[' Răsarit = 05:54:17 Apus = 21:00:02 Min (°C) = 13.86 Max (°C) =28.29 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.63 Viteza vântului = 2.34 Unghiul vântului = 146 Stare = nori 10-25%']
+Sighisoara: 30 \ luni \ 26:7:2021 \ 19:17:26
+[' Răsarit = 05:55:25 Apus = 20:58:56 Min (°C) = 15.72 Max (°C) =30.24 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.58 Viteza vântului = 0.28 Unghiul vântului = 175 Stare = nori 50-85%']
+Sighisoara: 30 \ marți \ 27:7:2021 \ 19:18:55
+[' Răsarit = 05:56:34 Apus = 20:57:47 Min (°C) = 18.47 Max (°C) =32.57 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.61 Viteza vântului = 3.16 Unghiul vântului = 240 Stare = nori 10-25%']
+Sighisoara: 30 \ miercuri \ 28:7:2021 \ 19:19:48
+[' Răsarit = 05:57:44 Apus = 20:56:37 Min (°C) = 18.16 Max (°C) =33.74 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.19 Viteza vântului = 2.94 Unghiul vântului = 32 Stare = nori 50-85%']
+Sighisoara: 30 \ joi \ 29:7:2021 \ 19:18:40
+[' Răsarit = 05:58:55 Apus = 20:55:24 Min (°C) = 16.48 Max (°C) =33.12 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.59 Viteza vântului = 5.92 Unghiul vântului = 312 Stare = cer senin']
+Sighisoara: 30 \ vineri \ 30:7:2021 \ 19:16:53
+[' Răsarit = 06:00:06 Apus = 20:54:10 Min (°C) = 17.29 Max (°C) =31.61 Presiune = 1010 Umiditate (%) = 41 Index UV = 0.59 Viteza vântului = 2.14 Unghiul vântului = 229 Stare = cer senin']
+Sighisoara: 30 \ sâmbătă \ 31:7:2021 \ 19:16:45
+[' Răsarit = 06:01:17 Apus = 20:52:55 Min (°C) = 17.18 Max (°C) =32.44 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.57 Viteza vântului = 2.49 Unghiul vântului = 148 Stare = nori 25-50%']
+Sighisoara: 30 \ duminică \ 01:8:2021 \ 19:17:14
+[' Răsarit = 06:02:29 Apus = 20:51:37 Min (°C) = 17.21 Max (°C) =33.94 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.13 Viteza vântului = 4.16 Unghiul vântului = 149 Stare = cer senin']
+Sighisoara: 31 \ luni \ 02:8:2021 \ 19:16:28
+[' Răsarit = 06:03:42 Apus = 20:50:18 Min (°C) = 18.99 Max (°C) =31.74 Presiune = 1012 Umiditate (%) = 79 Index UV = 0.54 Viteza vântului = 1.14 Unghiul vântului = 357 Stare = nori 50-85%']
+Sighisoara: 31 \ marți \ 03:8:2021 \ 19:17:04
+[' Răsarit = 06:04:55 Apus = 20:48:57 Min (°C) = 14.21 Max (°C) =27.93 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.44 Viteza vântului = 1.13 Unghiul vântului = 15 Stare = nori 50-85%']
+Sighisoara: 31 \ miercuri \ 04:8:2021 \ 19:15:56
+[' Răsarit = 06:06:09 Apus = 20:47:35 Min (°C) = 14.96 Max (°C) =30.64 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.23 Viteza vântului = 0.56 Unghiul vântului = 22 Stare = nori 50-85%']
+Sighisoara: 31 \ joi \ 05:8:2021 \ 19:14:24
+[' Răsarit = 06:07:22 Apus = 20:46:11 Min (°C) = 15.34 Max (°C) =34.03 Presiune = 1005 Umiditate (%) = 55 Index UV = 0.14 Viteza vântului = 2.35 Unghiul vântului = 100 Stare = nori 50-85%']
+Sighisoara: 31 \ vineri \ 06:8:2021 \ 19:17:00
+[' Răsarit = 06:08:37 Apus = 20:44:46 Min (°C) = 14.91 Max (°C) =25.05 Presiune = 1006 Umiditate (%) = 40 Index UV = 0.29 Viteza vântului = 3.69 Unghiul vântului = 294 Stare = nori 50-85%']
+Sighisoara: 31 \ sâmbătă \ 07:8:2021 \ 19:16:42
+[' Răsarit = 06:09:51 Apus = 20:43:19 Min (°C) = 11.79 Max (°C) =26.97 Presiune = 1012 Umiditate (%) = 32 Index UV = 0.48 Viteza vântului = 2.55 Unghiul vântului = 334 Stare = cer senin']
+Sighisoara: 31 \ duminică \ 08:8:2021 \ 19:16:38
+[' Răsarit = 06:11:06 Apus = 20:41:50 Min (°C) = 12.52 Max (°C) =32.03 Presiune = 1014 Umiditate (%) = 28 Index UV = 0.47 Viteza vântului = 2.23 Unghiul vântului = 18 Stare = cer senin']
+Sighisoara: 32 \ luni \ 09:8:2021 \ 19:17:49
+[' Răsarit = 06:12:21 Apus = 20:40:21 Min (°C) = 16.57 Max (°C) =33.55 Presiune = 1015 Umiditate (%) = 30 Index UV = 0.44 Viteza vântului = 1.85 Unghiul vântului = 20 Stare = nori 10-25%']
+Sighisoara: 32 \ marți \ 10:8:2021 \ 19:17:56
+[' Răsarit = 06:13:36 Apus = 20:38:49 Min (°C) = 15.81 Max (°C) =31.95 Presiune = 1015 Umiditate (%) = 29 Index UV = 0.41 Viteza vântului = 3.96 Unghiul vântului = 335 Stare = nori 50-85%']
+Sighisoara: 32 \ miercuri \ 11:8:2021 \ 19:14:05
+[' Răsarit = 06:14:52 Apus = 20:37:17 Min (°C) = 14.59 Max (°C) =31.41 Presiune = 1014 Umiditate (%) = 25 Index UV = 0.43 Viteza vântului = 5.09 Unghiul vântului = 313 Stare = nori 10-25%']
+Sighisoara: 32 \ joi \ 12:8:2021 \ 19:15:35
+[' Răsarit = 06:16:07 Apus = 20:35:43 Min (°C) = 15.06 Max (°C) =27.73 Presiune = 1018 Umiditate (%) = 28 Index UV = 0.42 Viteza vântului = 4.94 Unghiul vântului = 309 Stare = nori 10-25%']
+Sighisoara: 32 \ vineri \ 13:8:2021 \ 19:14:12
+[' Răsarit = 06:17:23 Apus = 20:34:08 Min (°C) = 12.44 Max (°C) =29.03 Presiune = 1021 Umiditate (%) = 24 Index UV = 0.42 Viteza vântului = 3.25 Unghiul vântului = 6 Stare = nori 25-50%']
+Sighisoara: 32 \ sâmbătă \ 14:8:2021 \ 19:15:55
+[' Răsarit = 06:18:39 Apus = 20:32:31 Min (°C) = 13.04 Max (°C) =30.45 Presiune = 1019 Umiditate (%) = 24 Index UV = 0.41 Viteza vântului = 2.46 Unghiul vântului = 11 Stare = cer senin']
+Sighisoara: 32 \ duminică \ 15:8:2021 \ 19:14:34
+[' Răsarit = 06:19:55 Apus = 20:30:54 Min (°C) = 14.87 Max (°C) =32.46 Presiune = 1014 Umiditate (%) = 25 Index UV = 0.41 Viteza vântului = 0.93 Unghiul vântului = 5 Stare = cer senin']
+Sighisoara: 33 \ luni \ 16:8:2021 \ 19:14:12
+[' Răsarit = 06:21:11 Apus = 20:29:15 Min (°C) = 16.91 Max (°C) =35.23 Presiune = 1010 Umiditate (%) = 34 Index UV = 0.18 Viteza vântului = 2.01 Unghiul vântului = 213 Stare = nori 50-85%']
+Sighisoara: 33 \ marți \ 17:8:2021 \ 19:14:43
+[' Răsarit = 06:22:27 Apus = 20:27:35 Min (°C) = 18.09 Max (°C) =36.54 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.33 Viteza vântului = 1.88 Unghiul vântului = 39 Stare = nori 85-100%']
+Sighisoara: 33 \ miercuri \ 18:8:2021 \ 19:14:29
+[' Răsarit = 06:23:43 Apus = 20:25:54 Min (°C) = 14.53 Max (°C) =18.56 Presiune = 1014 Umiditate (%) = 96 Index UV = 0.11 Viteza vântului = 0.37 Unghiul vântului = 248 Stare = ploaie ușoară']
+Sighisoara: 33 \ joi \ 19:8:2021 \ 19:14:12
+[' Răsarit = 06:24:59 Apus = 20:24:12 Min (°C) = 10.54 Max (°C) =23.55 Presiune = 1014 Umiditate (%) = 33 Index UV = 0.35 Viteza vântului = 1.53 Unghiul vântului = 304 Stare = cer senin']
+Sighisoara: 33 \ vineri \ 20:8:2021 \ 19:14:22
+[' Răsarit = 06:26:15 Apus = 20:22:28 Min (°C) = 10.18 Max (°C) =26.27 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.35 Viteza vântului = 1.51 Unghiul vântului = 15 Stare = cer senin']
+Sighisoara: 33 \ sâmbătă \ 21:8:2021 \ 19:15:35
+[' Răsarit = 06:27:31 Apus = 20:20:44 Min (°C) = 12.37 Max (°C) =26.82 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.3 Viteza vântului = 2.04 Unghiul vântului = 353 Stare = nori 50-85%']
+Sighisoara: 33 \ duminică \ 22:8:2021 \ 19:14:33
+[' Răsarit = 06:28:47 Apus = 20:18:59 Min (°C) = 13.38 Max (°C) =28.36 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.2 Viteza vântului = 2.58 Unghiul vântului = 193 Stare = nori 50-85%']
+Sighisoara: 34 \ luni \ 23:8:2021 \ 19:14:22
+[' Răsarit = 06:30:03 Apus = 20:17:13 Min (°C) = 14.91 Max (°C) =30.69 Presiune = 1014 Umiditate (%) = 29 Index UV = 0.3 Viteza vântului = 4.32 Unghiul vântului = 211 Stare = nori 25-50%']
+Sighisoara: 34 \ marți \ 24:8:2021 \ 19:14:21
+[' Răsarit = 06:31:18 Apus = 20:15:26 Min (°C) = 15.27 Max (°C) =27.53 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.21 Viteza vântului = 3.83 Unghiul vântului = 327 Stare = nori 85-100%']
+Sighisoara: 34 \ miercuri \ 25:8:2021 \ 19:14:24
+[' Răsarit = 06:32:34 Apus = 20:13:38 Min (°C) = 14.51 Max (°C) =24.73 Presiune = 1013 Umiditate (%) = 93 Index UV = 0.04 Viteza vântului = 3.58 Unghiul vântului = 335 Stare = nori 85-100%']
+Sighisoara: 34 \ joi \ 26:8:2021 \ 19:15:40
+[' Răsarit = 06:33:50 Apus = 20:11:49 Min (°C) = 13.32 Max (°C) =22.25 Presiune = 1009 Umiditate (%) = 43 Index UV = 0.21 Viteza vântului = 0.16 Unghiul vântului = 96 Stare = nori 85-100%']
+Sighisoara: 34 \ vineri \ 27:8:2021 \ 19:17:28
+[' Răsarit = 06:35:06 Apus = 20:09:59 Min (°C) = 10.53 Max (°C) =25.23 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.12 Viteza vântului = 2.66 Unghiul vântului = 344 Stare = nori 85-100%']
+Sighisoara: 34 \ sâmbătă \ 28:8:2021 \ 19:18:44
+[' Răsarit = 06:36:21 Apus = 20:08:09 Min (°C) = 11.7 Max (°C) =22.18 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.2 Viteza vântului = 2.21 Unghiul vântului = 359 Stare = nori 85-100%']
+Sighisoara: 34 \ duminică \ 29:8:2021 \ 19:17:53
+[' Răsarit = 06:37:37 Apus = 20:06:18 Min (°C) = 13.64 Max (°C) =18.27 Presiune = 1009 Umiditate (%) = 82 Index UV = 0.1 Viteza vântului = 1.46 Unghiul vântului = 347 Stare = nori 85-100%']
+Sighisoara: 35 \ luni \ 30:8:2021 \ 19:17:49
+[' Răsarit = 06:38:52 Apus = 20:04:26 Min (°C) = 13.2 Max (°C) =20.91 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.07 Viteza vântului = 4.54 Unghiul vântului = 279 Stare = nori 25-50%']
+Sighisoara: 35 \ marți \ 31:8:2021 \ 19:17:49
+[' Răsarit = 06:40:08 Apus = 20:02:33 Min (°C) = 9.5 Max (°C) =21.45 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.21 Viteza vântului = 4.12 Unghiul vântului = 266 Stare = nori 50-85%']
+Sighisoara: 35 \ miercuri \ 01:9:2021 \ 19:17:25
+[' Răsarit = 06:41:23 Apus = 20:00:40 Min (°C) = 10.04 Max (°C) =17.27 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.19 Viteza vântului = 6.21 Unghiul vântului = 293 Stare = nori 50-85%']
+Sighisoara: 35 \ joi \ 02:9:2021 \ 19:21:21
+[' Răsarit = 06:42:38 Apus = 19:58:46 Min (°C) = 11.15 Max (°C) =17.55 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.18 Viteza vântului = 5.53 Unghiul vântului = 303 Stare = nori 50-85%']
+Sighisoara: 35 \ vineri \ 03:9:2021 \ 19:16:57
+[' Răsarit = 06:43:54 Apus = 19:56:51 Min (°C) = 7.27 Max (°C) =20 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.2 Viteza vântului = 2.31 Unghiul vântului = 306 Stare = cer senin']
+Sighisoara: 35 \ sâmbătă \ 04:9:2021 \ 19:16:12
+[' Răsarit = 06:45:09 Apus = 19:54:56 Min (°C) = 8.65 Max (°C) =21.49 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.19 Viteza vântului = 1.35 Unghiul vântului = 323 Stare = cer senin']
+Sighisoara: 35 \ duminică \ 05:9:2021 \ 19:17:36
+[' Răsarit = 06:46:24 Apus = 19:53:01 Min (°C) = 9.31 Max (°C) =22.34 Presiune = 1020 Umiditate (%) = 53 Index UV = 0.17 Viteza vântului = 2.94 Unghiul vântului = 75 Stare = nori 50-85%']
+Sighisoara: 36 \ luni \ 06:9:2021 \ 19:18:25
+[' Răsarit = 06:47:39 Apus = 19:51:05 Min (°C) = 11.24 Max (°C) =22.88 Presiune = 1022 Umiditate (%) = 45 Index UV = 0.16 Viteza vântului = 1.39 Unghiul vântului = 339 Stare = cer senin']
+Sighisoara: 36 \ marți \ 07:9:2021 \ 19:18:33
+[' Răsarit = 06:48:54 Apus = 19:49:08 Min (°C) = 9.17 Max (°C) =23.53 Presiune = 1023 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 2.21 Unghiul vântului = 324 Stare = cer senin']
+Sighisoara: 36 \ miercuri \ 08:9:2021 \ 19:17:59
+[' Răsarit = 06:50:09 Apus = 19:47:11 Min (°C) = 8.73 Max (°C) =23.56 Presiune = 1022 Umiditate (%) = 40 Index UV = 0.15 Viteza vântului = 1.52 Unghiul vântului = 114 Stare = cer senin']
+Sighisoara: 36 \ joi \ 09:9:2021 \ 19:18:53
+[' Răsarit = 06:51:23 Apus = 19:45:14 Min (°C) = 8.27 Max (°C) =23.61 Presiune = 1018 Umiditate (%) = 32 Index UV = 0.14 Viteza vântului = 1.8 Unghiul vântului = 113 Stare = nori 50-85%']
+Sighisoara: 36 \ vineri \ 10:9:2021 \ 19:19:44
+[' Răsarit = 06:52:38 Apus = 19:43:16 Min (°C) = 8.04 Max (°C) =24.47 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.13 Viteza vântului = 1.53 Unghiul vântului = 357 Stare = nori 25-50%']
+Sighisoara: 36 \ sâmbătă \ 11:9:2021 \ 19:17:06
+[' Răsarit = 06:53:53 Apus = 19:41:18 Min (°C) = 10.08 Max (°C) =25.33 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.12 Viteza vântului = 2.03 Unghiul vântului = 356 Stare = nori 50-85%']
+Sighisoara: 36 \ duminică \ 12:9:2021 \ 19:17:21
+[' Răsarit = 06:55:08 Apus = 19:39:20 Min (°C) = 10.53 Max (°C) =25.6 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.12 Viteza vântului = 1.58 Unghiul vântului = 353 Stare = cer senin']
+Sighisoara: 37 \ luni \ 13:9:2021 \ 19:17:55
+[' Răsarit = 06:56:23 Apus = 19:37:21 Min (°C) = 11.56 Max (°C) =24.97 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.12 Viteza vântului = 0.86 Unghiul vântului = 325 Stare = nori 50-85%']
+Sighisoara: 37 \ marți \ 14:9:2021 \ 19:19:13
+[' Răsarit = 06:57:38 Apus = 19:35:22 Min (°C) = 11.47 Max (°C) =25.87 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.06 Viteza vântului = 2.47 Unghiul vântului = 318 Stare = nori 25-50%']
+Sighisoara: 37 \ joi \ 16:9:2021 \ 19:17:34
+[' Răsarit = 07:00:07 Apus = 19:31:24 Min (°C) = 12.7 Max (°C) =27.93 Presiune = 1015 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 8 Stare = nori 85-100%']
+Sighisoara: 37 \ vineri \ 17:9:2021 \ 19:19:15
+[' Răsarit = 07:01:22 Apus = 19:29:25 Min (°C) = 16.38 Max (°C) =24.13 Presiune = 1008 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 112 Stare = nori 85-100%']
+Sighisoara: 37 \ sâmbătă \ 18:9:2021 \ 19:19:33
+[' Răsarit = 07:02:37 Apus = 19:27:25 Min (°C) = 12.35 Max (°C) =16.32 Presiune = 1011 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 264 Stare = ploaie ușoară']
+Sighisoara: 37 \ duminică \ 19:9:2021 \ 19:18:15
+[' Răsarit = 07:03:52 Apus = 19:25:26 Min (°C) = 10.82 Max (°C) =18.19 Presiune = 1013 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 10 Stare = nori 25-50%']
+Sighisoara: 38 \ luni \ 20:9:2021 \ 19:18:41
+[' Răsarit = 07:05:08 Apus = 19:23:26 Min (°C) = 8.46 Max (°C) =15.37 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 310 Stare = ploaie ușoară']
+Sighisoara: 38 \ marți \ 21:9:2021 \ 19:17:28
+[' Răsarit = 07:06:23 Apus = 19:21:27 Min (°C) = 4.33 Max (°C) =13.93 Presiune = 1023 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 4.19 Unghiul vântului = 331 Stare = nori 25-50%']
+Sighisoara: 38 \ miercuri \ 22:9:2021 \ 19:18:13
+[' Răsarit = 07:07:38 Apus = 19:19:27 Min (°C) = 5.39 Max (°C) =11.02 Presiune = 1020 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 350 Stare = nori 85-100%']
+Sighisoara: 38 \ joi \ 23:9:2021 \ 19:16:48
+[' Răsarit = 07:08:54 Apus = 19:17:28 Min (°C) = 5.29 Max (°C) =11.7 Presiune = 1020 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.97 Unghiul vântului = 292 Stare = nori 85-100%']
+Sighisoara: 39 \ luni \ 27:9:2021 \ 19:16:33
+[' Răsarit = 07:13:58 Apus = 19:09:32 Min (°C) = 10.34 Max (°C) =24.1 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 25 Stare = cer senin']
+Sighisoara: 39 \ marți \ 28:9:2021 \ 19:19:07
+[' Răsarit = 07:15:15 Apus = 19:07:33 Min (°C) = 12.32 Max (°C) =16.83 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.72 Unghiul vântului = 108 Stare = ploaie ușoară']
+Sighisoara: 39 \ miercuri \ 29:9:2021 \ 19:19:48
+[' Răsarit = 07:16:31 Apus = 19:05:35 Min (°C) = 10.23 Max (°C) =14.34 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.72 Unghiul vântului = 126 Stare = nori 85-100%']
+Sighisoara: 39 \ joi \ 30:9:2021 \ 19:17:24
+[' Răsarit = 07:17:48 Apus = 19:03:37 Min (°C) = 6.47 Max (°C) =17.31 Presiune = 1025 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 118 Stare = nori 85-100%']
+Sighisoara: 39 \ vineri \ 01:10:2021 \ 19:18:37
+[' Răsarit = 07:19:05 Apus = 19:01:39 Min (°C) = 6.79 Max (°C) =17.56 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 122 Stare = nori 85-100%']
+Sighisoara: 39 \ sâmbătă \ 02:10:2021 \ 19:17:20
+[' Răsarit = 07:20:23 Apus = 18:59:42 Min (°C) = 4.32 Max (°C) =17.29 Presiune = 1022 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 135 Stare = cer senin']
+Sighisoara: 39 \ duminică \ 03:10:2021 \ 19:16:51
+[' Răsarit = 07:21:41 Apus = 18:57:45 Min (°C) = 4.66 Max (°C) =18.73 Presiune = 1022 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 129 Stare = cer senin']
+Sighisoara: 40 \ luni \ 04:10:2021 \ 19:21:33
+[' Răsarit = 07:22:59 Apus = 18:55:49 Min (°C) = 5.47 Max (°C) =19.25 Presiune = 1021 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 116 Stare = nori 50-85%']
+Sighisoara: 40 \ marți \ 05:10:2021 \ 19:19:04
+[' Răsarit = 07:24:17 Apus = 18:53:53 Min (°C) = 6.78 Max (°C) =19.26 Presiune = 1023 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 8.17 Unghiul vântului = 110 Stare = cer senin']
+Sighisoara: 40 \ miercuri \ 06:10:2021 \ 19:16:59
+[' Răsarit = 07:25:36 Apus = 18:51:58 Min (°C) = 6.68 Max (°C) =17.39 Presiune = 1022 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 8.09 Unghiul vântului = 109 Stare = nori 85-100%']
+Sighisoara: 40 \ joi \ 07:10:2021 \ 19:19:25
+[' Răsarit = 07:26:55 Apus = 18:50:03 Min (°C) = 7.79 Max (°C) =14.16 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 8.86 Unghiul vântului = 96 Stare = nori 85-100%']
+Sighisoara: 40 \ vineri \ 08:10:2021 \ 19:18:47
+[' Răsarit = 07:28:14 Apus = 18:48:09 Min (°C) = 5.02 Max (°C) =12.74 Presiune = 1028 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 6.29 Unghiul vântului = 101 Stare = nori 85-100%']
+Sighisoara: 40 \ sâmbătă \ 09:10:2021 \ 19:16:46
+[' Răsarit = 07:29:33 Apus = 18:46:15 Min (°C) = 3.14 Max (°C) =12.71 Presiune = 1028 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 4.83 Unghiul vântului = 102 Stare = nori 50-85%']
+Sighisoara: 40 \ duminică \ 10:10:2021 \ 19:18:04
+[' Răsarit = 07:30:53 Apus = 18:44:22 Min (°C) = 1.51 Max (°C) =15.53 Presiune = 1024 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.35 Unghiul vântului = 110 Stare = nori 25-50%']
+Sighisoara: 41 \ luni \ 11:10:2021 \ 19:17:57
+[' Răsarit = 07:32:14 Apus = 18:42:30 Min (°C) = 3.41 Max (°C) =16.48 Presiune = 1016 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 223 Stare = nori 85-100%']
+Sighisoara: 41 \ marți \ 12:10:2021 \ 19:18:03
+[' Răsarit = 07:33:34 Apus = 18:40:39 Min (°C) = 7.07 Max (°C) =8.54 Presiune = 1014 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 307 Stare = nori 85-100%']
+Sighisoara: 41 \ miercuri \ 13:10:2021 \ 19:18:03
+[' Răsarit = 07:34:55 Apus = 18:38:48 Min (°C) = 4.15 Max (°C) =9.4 Presiune = 1016 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 140 Stare = nori 85-100%']
+Sighisoara: 41 \ joi \ 14:10:2021 \ 19:17:43
+[' Răsarit = 07:36:17 Apus = 18:36:58 Min (°C) = 5.77 Max (°C) =10.17 Presiune = 1023 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 149 Stare = nori 85-100%']
+Sighisoara: 41 \ vineri \ 15:10:2021 \ 19:16:55
+[' Răsarit = 07:37:38 Apus = 18:35:09 Min (°C) = 2.69 Max (°C) =13.13 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 132 Stare = nori 85-100%']
+Sighisoara: 41 \ sâmbătă \ 16:10:2021 \ 19:17:08
+[' Răsarit = 07:39:01 Apus = 18:33:21 Min (°C) = 7.32 Max (°C) =9.59 Presiune = 1019 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.06 Unghiul vântului = 144 Stare = nori 85-100%']
+Sighisoara: 41 \ duminică \ 17:10:2021 \ 19:16:20
+[' Răsarit = 07:40:23 Apus = 18:31:33 Min (°C) = 7.35 Max (°C) =12.69 Presiune = 1021 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 323 Stare = nori 85-100%']
+Sighisoara: 42 \ luni \ 18:10:2021 \ 19:16:18
+[' Răsarit = 07:41:46 Apus = 18:29:47 Min (°C) = 7.09 Max (°C) =13.06 Presiune = 1025 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 346 Stare = nori 85-100%']
+Sighisoara: 42 \ marți \ 19:10:2021 \ 19:18:05
+[' Răsarit = 07:43:09 Apus = 18:28:02 Min (°C) = 5.97 Max (°C) =12.7 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 31 Stare = nori 10-25%']
+Sighisoara: 42 \ miercuri \ 20:10:2021 \ 19:15:47
+[' Răsarit = 07:44:33 Apus = 18:26:17 Min (°C) = 4.21 Max (°C) =15.23 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 103 Stare = nori 25-50%']
+Sighisoara: 42 \ joi \ 21:10:2021 \ 19:17:47
+[' Răsarit = 07:45:57 Apus = 18:24:34 Min (°C) = 6.06 Max (°C) =19.45 Presiune = 1014 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 233 Stare = nori 50-85%']
+Sighisoara: 42 \ vineri \ 22:10:2021 \ 19:14:50
+[' Răsarit = 07:47:21 Apus = 18:22:52 Min (°C) = 11.36 Max (°C) =15.83 Presiune = 1017 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 73 Stare = nori 85-100%']
+Sighisoara: 42 \ sâmbătă \ 23:10:2021 \ 19:16:31
+[' Răsarit = 07:48:45 Apus = 18:21:11 Min (°C) = 8.18 Max (°C) =13.02 Presiune = 1023 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 4.28 Unghiul vântului = 328 Stare = nori 85-100%']
+Sighisoara: 42 \ duminică \ 24:10:2021 \ 19:16:20
+[' Răsarit = 07:50:10 Apus = 18:19:31 Min (°C) = 2.66 Max (°C) =10.27 Presiune = 1032 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 323 Stare = cer senin']
+Sighisoara: 43 \ luni \ 25:10:2021 \ 19:15:42
+[' Răsarit = 07:51:35 Apus = 18:17:52 Min (°C) = 0.32 Max (°C) =11.4 Presiune = 1029 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 116 Stare = cer senin']
+Sighisoara: 43 \ marți \ 26:10:2021 \ 19:15:01
+[' Răsarit = 07:53:01 Apus = 18:16:15 Min (°C) = 0.95 Max (°C) =13.38 Presiune = 1023 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 217 Stare = cer senin']
+Sighisoara: 43 \ miercuri \ 27:10:2021 \ 19:17:27
+[' Răsarit = 07:54:27 Apus = 18:14:39 Min (°C) = 1.86 Max (°C) =11.9 Presiune = 1027 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 337 Stare = cer senin']
+Sighisoara: 43 \ joi \ 28:10:2021 \ 19:15:19
+[' Răsarit = 07:55:53 Apus = 18:13:04 Min (°C) = 1.88 Max (°C) =13.36 Presiune = 1026 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 74 Stare = nori 50-85%']
+Sighisoara: 43 \ vineri \ 29:10:2021 \ 19:15:52
+[' Răsarit = 07:57:19 Apus = 18:11:30 Min (°C) = 4.37 Max (°C) =18.02 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 115 Stare = nori 10-25%']
+Sighisoara: 43 \ sâmbătă \ 30:10:2021 \ 19:15:33
+[' Răsarit = 07:58:46 Apus = 18:09:58 Min (°C) = 4.51 Max (°C) =16.35 Presiune = 1022 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.89 Unghiul vântului = 113 Stare = cer senin']
+Sighisoara: 43 \ duminică \ 31:10:2021 \ 19:15:28
+[' Răsarit = 07:00:12 Apus = 17:08:28 Min (°C) = 2.27 Max (°C) =15.23 Presiune = 1019 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 136 Stare = cer senin']
+Sighisoara: 44 \ luni \ 01:11:2021 \ 19:15:48
+[' Răsarit = 07:01:39 Apus = 17:06:58 Min (°C) = 1.91 Max (°C) =13.47 Presiune = 1012 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 109 Stare = cer senin']
+Sighisoara: 44 \ marți \ 02:11:2021 \ 19:16:04
+[' Răsarit = 07:03:06 Apus = 17:05:31 Min (°C) = 1.7 Max (°C) =13.75 Presiune = 1006 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.23 Unghiul vântului = 246 Stare = nori 85-100%']
+Sighisoara: 44 \ miercuri \ 03:11:2021 \ 19:15:40
+[' Răsarit = 07:04:33 Apus = 17:04:05 Min (°C) = 4.56 Max (°C) =13.4 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 97 Stare = nori 50-85%']
+Sighisoara: 44 \ joi \ 04:11:2021 \ 19:14:08
+[' Răsarit = 07:06:01 Apus = 17:02:40 Min (°C) = 8.97 Max (°C) =23.4 Presiune = 1014 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 150 Stare = nori 10-25%']
+Sighisoara: 44 \ vineri \ 05:11:2021 \ 19:19:20
+[' Răsarit = 07:07:28 Apus = 17:01:17 Min (°C) = 10.49 Max (°C) =21.67 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 303 Stare = nori 85-100%']
+Sighisoara: 44 \ sâmbătă \ 06:11:2021 \ 19:17:10
+[' Răsarit = 07:08:55 Apus = 16:59:56 Min (°C) = 8.29 Max (°C) =10.84 Presiune = 1028 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 324 Stare = nori 85-100%']
+Sighisoara: 44 \ duminică \ 07:11:2021 \ 19:17:11
+[' Răsarit = 07:10:23 Apus = 16:58:36 Min (°C) = 8.56 Max (°C) =15.9 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 277 Stare = nori 50-85%']
+Sighisoara: 45 \ luni \ 08:11:2021 \ 19:16:57
+[' Răsarit = 07:11:50 Apus = 16:57:18 Min (°C) = 8.12 Max (°C) =11.31 Presiune = 1020 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 322 Stare = nori 85-100%']
+Sighisoara: 45 \ marți \ 09:11:2021 \ 19:13:02
+[' Răsarit = 07:13:17 Apus = 16:56:02 Min (°C) = 3.29 Max (°C) =8.29 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 260 Stare = nori 85-100%']
+Sighisoara: 45 \ miercuri \ 10:11:2021 \ 19:16:59
+[' Răsarit = 07:14:44 Apus = 16:54:48 Min (°C) = 1.27 Max (°C) =10.75 Presiune = 1033 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 133 Stare = cer senin']
+Sighisoara: 45 \ joi \ 11:11:2021 \ 19:17:34
+[' Răsarit = 07:16:11 Apus = 16:53:36 Min (°C) = 0.27 Max (°C) =11.49 Presiune = 1026 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 50 Stare = nori 85-100%']
+Sighisoara: 45 \ vineri \ 12:11:2021 \ 19:16:45
+[' Răsarit = 07:17:38 Apus = 16:52:25 Min (°C) = 0.27 Max (°C) =12.32 Presiune = 1022 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 74 Stare = nori 10-25%']
+Sighisoara: 45 \ sâmbătă \ 13:11:2021 \ 19:16:41
+[' Răsarit = 07:19:04 Apus = 16:51:16 Min (°C) = -0.73 Max (°C) =13.68 Presiune = 1020 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 107 Stare = nori 85-100%']
+Sighisoara: 45 \ duminică \ 14:11:2021 \ 19:18:48
+[' Răsarit = 07:20:30 Apus = 16:50:10 Min (°C) = -1.73 Max (°C) =12.4 Presiune = 1022 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 93 Stare = nori 50-85%']
+Sighisoara: 46 \ luni \ 15:11:2021 \ 19:17:54
+[' Răsarit = 07:21:56 Apus = 16:49:05 Min (°C) = 2.38 Max (°C) =12.33 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.9 Unghiul vântului = 110 Stare = cer senin']
+Sighisoara: 46 \ marți \ 16:11:2021 \ 19:17:27
+[' Răsarit = 07:23:21 Apus = 16:48:03 Min (°C) = 1.27 Max (°C) =10.74 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 123 Stare = cer senin']
+Sighisoara: 46 \ miercuri \ 17:11:2021 \ 19:17:26
+[' Răsarit = 07:24:46 Apus = 16:47:02 Min (°C) = -0.73 Max (°C) =8.25 Presiune = 1023 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 26 Stare = nori 50-85%']
+Sighisoara: 46 \ joi \ 18:11:2021 \ 19:14:41
+[' Răsarit = 07:26:10 Apus = 16:46:04 Min (°C) = 2.04 Max (°C) =7.55 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 313 Stare = nori 50-85%']
+Sighisoara: 46 \ vineri \ 19:11:2021 \ 19:14:47
+[' Răsarit = 07:27:34 Apus = 16:45:08 Min (°C) = 1.59 Max (°C) =6.75 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 300 Stare = ploaie ușoară']
+Sighisoara: 46 \ sâmbătă \ 20:11:2021 \ 19:14:34
+[' Răsarit = 07:28:57 Apus = 16:44:14 Min (°C) = 3.82 Max (°C) =6.72 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 273 Stare = nori 85-100%']
+Sighisoara: 46 \ duminică \ 21:11:2021 \ 19:14:22
+[' Răsarit = 07:30:19 Apus = 16:43:22 Min (°C) = 3.63 Max (°C) =10.18 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 95 Stare = cer senin']
+Sighisoara: 47 \ luni \ 22:11:2021 \ 19:14:44
+[' Răsarit = 07:31:41 Apus = 16:42:33 Min (°C) = 2.37 Max (°C) =10.31 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 283 Stare = nori 85-100%']
+Sighisoara: 47 \ marți \ 23:11:2021 \ 19:14:37
+[' Răsarit = 07:33:01 Apus = 16:41:46 Min (°C) = 0.46 Max (°C) =5.09 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 281 Stare = nori 50-85%']
+Sighisoara: 47 \ miercuri \ 24:11:2021 \ 19:16:55
+[' Răsarit = 07:34:21 Apus = 16:41:01 Min (°C) = -2.73 Max (°C) =4.8 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 106 Stare = cer senin']
+Sighisoara: 47 \ joi \ 25:11:2021 \ 19:14:20
+[' Răsarit = 07:35:40 Apus = 16:40:18 Min (°C) = -1.8 Max (°C) =6.4 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 119 Stare = cer senin']
+Sighisoara: 47 \ vineri \ 26:11:2021 \ 19:14:26
+[' Răsarit = 07:36:58 Apus = 16:39:38 Min (°C) = -0.25 Max (°C) =9.93 Presiune = 999 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 114 Stare = nori 85-100%']
+Sighisoara: 47 \ sâmbătă \ 27:11:2021 \ 19:14:23
+[' Răsarit = 07:38:15 Apus = 16:39:01 Min (°C) = 3.1 Max (°C) =10.07 Presiune = 1004 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 109 Stare = nori 25-50%']
+Sighisoara: 47 \ duminică \ 28:11:2021 \ 19:14:57
+[' Răsarit = 07:39:30 Apus = 16:38:26 Min (°C) = 3.79 Max (°C) =12.92 Presiune = 998 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 124 Stare = nori 50-85%']
+Sighisoara: 48 \ luni \ 29:11:2021 \ 19:16:34
+[' Răsarit = 07:40:44 Apus = 16:37:53 Min (°C) = 1.59 Max (°C) =7.5 Presiune = 1000 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 294 Stare = nori 85-100%']
+Sighisoara: 48 \ marți \ 30:11:2021 \ 19:14:57
+[' Răsarit = 07:41:57 Apus = 16:37:23 Min (°C) = -0.85 Max (°C) =2.18 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 6.62 Unghiul vântului = 253 Stare = nori 50-85%']
+Sighisoara: 48 \ miercuri \ 01:12:2021 \ 19:15:13
+[' Răsarit = 07:43:09 Apus = 16:36:56 Min (°C) = -0.79 Max (°C) =3.29 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 224 Stare = nori 85-100%']
+Sighisoara: 48 \ joi \ 02:12:2021 \ 19:14:35
+[' Răsarit = 07:44:19 Apus = 16:36:31 Min (°C) = 1.42 Max (°C) =9.9 Presiune = 1006 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 132 Stare = nori 50-85%']
+Sighisoara: 48 \ vineri \ 03:12:2021 \ 19:14:45
+[' Răsarit = 07:45:28 Apus = 16:36:08 Min (°C) = -0.52 Max (°C) =7.31 Presiune = 1014 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 308 Stare = nori 85-100%']
+Sighisoara: 48 \ sâmbătă \ 04:12:2021 \ 19:15:15
+[' Răsarit = 07:46:35 Apus = 16:35:49 Min (°C) = -2.73 Max (°C) =4.89 Presiune = 1011 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 120 Stare = nori 50-85%']
+Sighisoara: 48 \ duminică \ 05:12:2021 \ 19:14:58
+[' Răsarit = 07:47:40 Apus = 16:35:32 Min (°C) = 0.09 Max (°C) =6.33 Presiune = 1008 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 112 Stare = nori 85-100%']
+Sighisoara: 49 \ luni \ 06:12:2021 \ 19:14:48
+[' Răsarit = 07:48:44 Apus = 16:35:17 Min (°C) = 1.2 Max (°C) =8.01 Presiune = 1007 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 265 Stare = nori 85-100%']
+Sighisoara: 49 \ marți \ 07:12:2021 \ 19:14:47
+[' Răsarit = 07:49:46 Apus = 16:35:06 Min (°C) = 1.62 Max (°C) =4.84 Presiune = 1007 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 254 Stare = ploaie ușoară']
+Sighisoara: 49 \ miercuri \ 08:12:2021 \ 19:14:46
+[' Răsarit = 07:50:47 Apus = 16:34:57 Min (°C) = 1.26 Max (°C) =2.22 Presiune = 1012 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 184 Stare = nori 85-100%']
+Sighisoara: 49 \ joi \ 09:12:2021 \ 19:14:50
+[' Răsarit = 07:51:45 Apus = 16:34:51 Min (°C) = -0.32 Max (°C) =7.69 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 108 Stare = nori 50-85%']
+Sighisoara: 49 \ vineri \ 10:12:2021 \ 19:17:02
+[' Răsarit = 07:52:41 Apus = 16:34:47 Min (°C) = 2.34 Max (°C) =5.74 Presiune = 1005 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 89 Stare = nori 85-100%']
+Sighisoara: 49 \ sâmbătă \ 11:12:2021 \ 19:16:36
+[' Răsarit = 07:53:36 Apus = 16:34:46 Min (°C) = 1.3 Max (°C) =8.33 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.86 Unghiul vântului = 106 Stare = nori 85-100%']
+Sighisoara: 49 \ duminică \ 12:12:2021 \ 19:16:52
+[' Răsarit = 07:54:28 Apus = 16:34:48 Min (°C) = 4.92 Max (°C) =12.17 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 32 Stare = nori 50-85%']
+Sighisoara: 50 \ luni \ 13:12:2021 \ 19:16:31
+[' Răsarit = 07:55:18 Apus = 16:34:53 Min (°C) = 2.12 Max (°C) =5.24 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 292 Stare = ploaie ușoară']
+Sighisoara: 50 \ marți \ 14:12:2021 \ 19:18:53
+[' Răsarit = 07:56:06 Apus = 16:35:00 Min (°C) = 1.13 Max (°C) =2.26 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 279 Stare = nori 85-100%']
+Sighisoara: 50 \ miercuri \ 15:12:2021 \ 19:17:02
+[' Răsarit = 07:56:52 Apus = 16:35:10 Min (°C) = 0.12 Max (°C) =2.22 Presiune = 1029 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 277 Stare = nori 85-100%']
+Sighisoara: 50 \ joi \ 16:12:2021 \ 19:16:29
+[' Răsarit = 07:57:35 Apus = 16:35:23 Min (°C) = -2.52 Max (°C) =1.92 Presiune = 1029 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 268 Stare = zăpadă slabă']
+Sighisoara: 50 \ vineri \ 17:12:2021 \ 19:19:46
+[' Răsarit = 07:58:16 Apus = 16:35:39 Min (°C) = -0.56 Max (°C) =3.29 Presiune = 1023 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 4.56 Unghiul vântului = 312 Stare = nori 85-100%']
+Sighisoara: 50 \ sâmbătă \ 18:12:2021 \ 19:16:00
+[' Răsarit = 07:58:55 Apus = 16:35:57 Min (°C) = -0.79 Max (°C) =2.47 Presiune = 1027 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 281 Stare = nori 85-100%']
+Sighisoara: 50 \ duminică \ 19:12:2021 \ 19:16:22
+[' Răsarit = 07:59:32 Apus = 16:36:18 Min (°C) = -1.56 Max (°C) =1.31 Presiune = 1013 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 280 Stare = zăpadă slabă']
+Sighisoara: 51 \ luni \ 20:12:2021 \ 19:16:46
+[' Răsarit = 08:00:06 Apus = 16:36:41 Min (°C) = -1.35 Max (°C) =0.45 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 283 Stare = nori 85-100%']
+Sighisoara: 51 \ marți \ 21:12:2021 \ 19:18:29
+[' Răsarit = 08:00:37 Apus = 16:37:07 Min (°C) = -5.34 Max (°C) =-1.19 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.28 Unghiul vântului = 302 Stare = nori 25-50%']
+Sighisoara: 51 \ miercuri \ 22:12:2021 \ 19:16:48
+[' Răsarit = 08:01:06 Apus = 16:37:36 Min (°C) = -9.73 Max (°C) =-3.46 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 232 Stare = nori 25-50%']
+Sighisoara: 51 \ joi \ 23:12:2021 \ 19:17:14
+[' Răsarit = 08:01:32 Apus = 16:38:08 Min (°C) = -11.81 Max (°C) =-5.2 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 106 Stare = nori 85-100%']
+Sighisoara: 51 \ vineri \ 24:12:2021 \ 19:17:11
+[' Răsarit = 08:01:56 Apus = 16:38:42 Min (°C) = -7.15 Max (°C) =4.28 Presiune = 1008 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 7.59 Unghiul vântului = 256 Stare = nori 85-100%']
+Sighisoara: 51 \ sâmbătă \ 25:12:2021 \ 19:17:30
+[' Răsarit = 08:02:18 Apus = 16:39:18 Min (°C) = 5.04 Max (°C) =8.28 Presiune = 1008 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 213 Stare = nori 85-100%']
+Sighisoara: 51 \ duminică \ 26:12:2021 \ 19:18:35
+[' Răsarit = 08:02:36 Apus = 16:39:57 Min (°C) = 2.22 Max (°C) =8.55 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 90 Stare = nori 85-100%']
+Sighisoara: 52 \ luni \ 27:12:2021 \ 19:16:46
+[' Răsarit = 08:02:52 Apus = 16:40:38 Min (°C) = 2.18 Max (°C) =3.54 Presiune = 1011 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 114 Stare = nori 85-100%']
+Sighisoara: 52 \ marți \ 28:12:2021 \ 19:17:32
+[' Răsarit = 08:03:05 Apus = 16:41:22 Min (°C) = 1.04 Max (°C) =2.31 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 108 Stare = nori 85-100%']
+Sighisoara: 52 \ miercuri \ 29:12:2021 \ 19:16:46
+[' Răsarit = 08:03:16 Apus = 16:42:08 Min (°C) = 0.5 Max (°C) =5.78 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 272 Stare = nori 85-100%']
+Sighisoara: 52 \ joi \ 30:12:2021 \ 19:17:30
+[' Răsarit = 08:03:24 Apus = 16:42:57 Min (°C) = 1.9 Max (°C) =4.4 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 240 Stare = nori 85-100%']
+Sighisoara: 52 \ vineri \ 31:12:2021 \ 19:14:48
+[' Răsarit = 08:03:29 Apus = 16:43:47 Min (°C) = 2.91 Max (°C) =4.65 Presiune = 1022 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 271 Stare = nori 85-100%']
+Sighisoara: 00 \ sâmbătă \ 01:1:2022 \ 19:15:32
+[' Răsarit = 08:03:32 Apus = 16:44:40 Min (°C) = 4.94 Max (°C) =9.27 Presiune = 1022 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 266 Stare = nori 85-100%']
+Sighisoara: 00 \ duminică \ 02:1:2022 \ 19:14:20
+[' Răsarit = 08:03:32 Apus = 16:45:35 Min (°C) = 4.34 Max (°C) =8.1 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 86 Stare = nori 50-85%']
+Sighisoara: 01 \ luni \ 03:1:2022 \ 19:14:07
+[' Răsarit = 08:03:29 Apus = 16:46:32 Min (°C) = 2.94 Max (°C) =9.16 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.87 Unghiul vântului = 256 Stare = nori 85-100%']
+Sighisoara: 01 \ marți \ 04:1:2022 \ 19:14:12
+[' Răsarit = 08:03:24 Apus = 16:47:32 Min (°C) = 4.26 Max (°C) =10.06 Presiune = 1009 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 173 Stare = nori 85-100%']
+Sighisoara: 01 \ miercuri \ 05:1:2022 \ 19:15:29
+[' Răsarit = 08:03:16 Apus = 16:48:33 Min (°C) = 4.83 Max (°C) =12.52 Presiune = 1004 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 163 Stare = nori 10-25%']
+Sighisoara: 01 \ joi \ 06:1:2022 \ 19:14:32
+[' Răsarit = 08:03:05 Apus = 16:49:36 Min (°C) = 2.01 Max (°C) =8.48 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.43 Unghiul vântului = 273 Stare = nori 85-100%']
+Sighisoara: 01 \ vineri \ 07:1:2022 \ 19:15:45
+[' Răsarit = 08:02:51 Apus = 16:50:41 Min (°C) = -2.82 Max (°C) =1.61 Presiune = 1022 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 75 Stare = cer senin']
+Sighisoara: 01 \ sâmbătă \ 08:1:2022 \ 19:15:12
+[' Răsarit = 08:02:35 Apus = 16:51:47 Min (°C) = -1.25 Max (°C) =5.01 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 89 Stare = nori 85-100%']
+Sighisoara: 01 \ duminică \ 09:1:2022 \ 19:14:42
+[' Răsarit = 08:02:17 Apus = 16:52:56 Min (°C) = 0.47 Max (°C) =2.22 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 336 Stare = nori 85-100%']
+Sighisoara: 02 \ luni \ 10:1:2022 \ 19:14:43
+[' Răsarit = 08:01:55 Apus = 16:54:06 Min (°C) = 0.03 Max (°C) =4.86 Presiune = 1015 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 34 Stare = nori 85-100%']
+Sighisoara: 02 \ marți \ 11:1:2022 \ 19:16:11
+[' Răsarit = 08:01:31 Apus = 16:55:18 Min (°C) = -3.05 Max (°C) =1.74 Presiune = 1027 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 60 Stare = nori 10-25%']
+Sighisoara: 02 \ miercuri \ 12:1:2022 \ 19:14:44
+[' Răsarit = 08:01:05 Apus = 16:56:31 Min (°C) = -5.6 Max (°C) =-1.17 Presiune = 1033 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 306 Stare = cer senin']
+Sighisoara: 02 \ joi \ 13:1:2022 \ 19:15:41
+[' Răsarit = 08:00:36 Apus = 16:57:46 Min (°C) = -7.71 Max (°C) =-3.03 Presiune = 1037 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 313 Stare = nori 50-85%']
+Sighisoara: 02 \ vineri \ 14:1:2022 \ 19:15:03
+[' Răsarit = 08:00:05 Apus = 16:59:02 Min (°C) = -4.44 Max (°C) =-0.18 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 288 Stare = nori 25-50%']
+Sighisoara: 02 \ sâmbătă \ 15:1:2022 \ 19:14:44
+[' Răsarit = 07:59:31 Apus = 17:00:19 Min (°C) = -3.38 Max (°C) =1.19 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 301 Stare = nori 10-25%']
+Sighisoara: 02 \ duminică \ 16:1:2022 \ 19:14:15
+[' Răsarit = 07:58:54 Apus = 17:01:37 Min (°C) = -3.38 Max (°C) =0.93 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 50 Stare = nori 50-85%']
+Sighisoara: 03 \ luni \ 17:1:2022 \ 19:14:22
+[' Răsarit = 07:58:15 Apus = 17:02:57 Min (°C) = -3.54 Max (°C) =1.44 Presiune = 1011 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 8 Unghiul vântului = 260 Stare = zăpadă slabă']
+Sighisoara: 03 \ marți \ 18:1:2022 \ 19:14:23
+[' Răsarit = 07:57:34 Apus = 17:04:18 Min (°C) = -3.65 Max (°C) =-1.62 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 6.89 Unghiul vântului = 302 Stare = nori 85-100%']
+Sighisoara: 03 \ miercuri \ 19:1:2022 \ 19:14:34
+[' Răsarit = 07:56:50 Apus = 17:05:40 Min (°C) = -8.81 Max (°C) =-1.68 Presiune = 1030 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 150 Stare = nori 50-85%']
+Sighisoara: 03 \ joi \ 20:1:2022 \ 19:14:45
+[' Răsarit = 07:56:04 Apus = 17:07:03 Min (°C) = -10.81 Max (°C) =0.07 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.14 Unghiul vântului = 260 Stare = nori 50-85%']
+Sighisoara: 03 \ vineri \ 21:1:2022 \ 19:14:27
+[' Răsarit = 07:55:16 Apus = 17:08:27 Min (°C) = -9.24 Max (°C) =0.05 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 270 Stare = nori 50-85%']
+Sighisoara: 03 \ sâmbătă \ 22:1:2022 \ 19:16:39
+[' Răsarit = 07:54:25 Apus = 17:09:52 Min (°C) = -8.61 Max (°C) =-4.14 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 301 Stare = zăpadă slabă']
+Sighisoara: 03 \ duminică \ 23:1:2022 \ 19:16:51
+[' Răsarit = 07:53:33 Apus = 17:11:17 Min (°C) = -13.63 Max (°C) =-5.1 Presiune = 1028 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 348 Stare = nori 85-100%']
+Sighisoara: 04 \ luni \ 24:1:2022 \ 19:17:24
+[' Răsarit = 07:52:38 Apus = 17:12:43 Min (°C) = -17.05 Max (°C) =-6.73 Presiune = 1038 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 216 Stare = nori 50-85%']
+Sighisoara: 04 \ marți \ 25:1:2022 \ 19:17:19
+[' Răsarit = 07:51:41 Apus = 17:14:10 Min (°C) = -18.84 Max (°C) =-7.7 Presiune = 1032 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 258 Stare = nori 85-100%']
+Sighisoara: 04 \ miercuri \ 26:1:2022 \ 19:17:15
+[' Răsarit = 07:50:41 Apus = 17:15:38 Min (°C) = -10.98 Max (°C) =-4.58 Presiune = 1029 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 232 Stare = zăpadă slabă']
+Sighisoara: 04 \ joi \ 27:1:2022 \ 19:17:13
+[' Răsarit = 07:49:40 Apus = 17:17:06 Min (°C) = -8.54 Max (°C) =-0.67 Presiune = 1023 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 199 Stare = nori 85-100%']
+Sighisoara: 04 \ vineri \ 28:1:2022 \ 19:17:04
+[' Răsarit = 07:48:36 Apus = 17:18:34 Min (°C) = -6.3 Max (°C) =1.27 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 4.88 Unghiul vântului = 256 Stare = zăpadă slabă']
+Sighisoara: 04 \ sâmbătă \ 29:1:2022 \ 19:17:00
+[' Răsarit = 07:47:31 Apus = 17:20:03 Min (°C) = -8.01 Max (°C) =-0.79 Presiune = 1028 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 179 Stare = nori 50-85%']
+Sighisoara: 04 \ duminică \ 30:1:2022 \ 19:14:46
+[' Răsarit = 07:46:24 Apus = 17:21:33 Min (°C) = -9.05 Max (°C) =2.33 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.57 Unghiul vântului = 288 Stare = nori 85-100%']
+Sighisoara: 05 \ luni \ 31:1:2022 \ 19:14:46
+[' Răsarit = 07:45:14 Apus = 17:23:02 Min (°C) = -2.55 Max (°C) =0.96 Presiune = 1010 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 131 Stare = nori 85-100%']
+Sighisoara: 05 \ marți \ 01:2:2022 \ 19:14:36
+[' Răsarit = 07:44:03 Apus = 17:24:32 Min (°C) = -7.18 Max (°C) =0.27 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 294 Stare = nori 85-100%']
+Sighisoara: 05 \ miercuri \ 02:2:2022 \ 19:14:48
+[' Răsarit = 07:42:50 Apus = 17:26:02 Min (°C) = -6.25 Max (°C) =0.72 Presiune = 1010 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 179 Stare = nori 85-100%']
+Sighisoara: 05 \ joi \ 03:2:2022 \ 19:14:33
+[' Răsarit = 07:41:35 Apus = 17:27:33 Min (°C) = -6.54 Max (°C) =-0.42 Presiune = 1024 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 290 Stare = nori 25-50%']
+Sighisoara: 05 \ vineri \ 04:2:2022 \ 19:14:50
+[' Răsarit = 07:40:19 Apus = 17:29:03 Min (°C) = -8.07 Max (°C) =2.57 Presiune = 1020 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 126 Stare = nori 50-85%']
+Sighisoara: 05 \ sâmbătă \ 05:2:2022 \ 19:14:34
+[' Răsarit = 07:39:00 Apus = 17:30:34 Min (°C) = -6.41 Max (°C) =2.75 Presiune = 1020 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 238 Stare = nori 50-85%']
+Sighisoara: 05 \ duminică \ 06:2:2022 \ 19:14:42
+[' Răsarit = 07:37:40 Apus = 17:32:05 Min (°C) = -4.99 Max (°C) =2.67 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 140 Stare = nori 85-100%']
+Sighisoara: 06 \ luni \ 07:2:2022 \ 19:14:41
+[' Răsarit = 07:36:18 Apus = 17:33:36 Min (°C) = -3.24 Max (°C) =5.27 Presiune = 1006 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 8.69 Unghiul vântului = 294 Stare = ploaie ușoară']
+Sighisoara: 06 \ marți \ 08:2:2022 \ 19:14:31
+[' Răsarit = 07:34:55 Apus = 17:35:06 Min (°C) = -1.62 Max (°C) =2.16 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.36 Unghiul vântului = 298 Stare = nori 50-85%']
+Sighisoara: 06 \ miercuri \ 09:2:2022 \ 19:16:48
+[' Răsarit = 07:33:30 Apus = 17:36:37 Min (°C) = -1.78 Max (°C) =2.18 Presiune = 1030 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 267 Stare = nori 85-100%']
+Sighisoara: 06 \ joi \ 10:2:2022 \ 19:17:51
+[' Răsarit = 07:32:03 Apus = 17:38:08 Min (°C) = -0.2 Max (°C) =6.26 Presiune = 1026 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 98 Stare = cer senin']
+Sighisoara: 06 \ vineri \ 11:2:2022 \ 19:16:51
+[' Răsarit = 07:30:35 Apus = 17:39:38 Min (°C) = -0.67 Max (°C) =6.8 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 44 Stare = cer senin']
+Sighisoara: 06 \ sâmbătă \ 12:2:2022 \ 19:17:03
+[' Răsarit = 07:29:06 Apus = 17:41:08 Min (°C) = -1.98 Max (°C) =3.4 Presiune = 1035 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 89 Stare = nori 10-25%']
+Sighisoara: 06 \ duminică \ 13:2:2022 \ 19:17:10
+[' Răsarit = 07:27:35 Apus = 17:42:39 Min (°C) = -3.3 Max (°C) =3.13 Presiune = 1028 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 104 Stare = nori 85-100%']
+Sighisoara: 07 \ luni \ 14:2:2022 \ 19:17:04
+[' Răsarit = 07:26:03 Apus = 17:44:09 Min (°C) = -2.59 Max (°C) =3.59 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 105 Stare = nori 85-100%']
+Sighisoara: 07 \ marți \ 15:2:2022 \ 19:16:28
+[' Răsarit = 07:24:29 Apus = 17:45:39 Min (°C) = -1.27 Max (°C) =6.97 Presiune = 1020 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 104 Stare = nori 50-85%']
+Sighisoara: 07 \ miercuri \ 16:2:2022 \ 19:17:32
+[' Răsarit = 07:22:54 Apus = 17:47:08 Min (°C) = 0.59 Max (°C) =8.21 Presiune = 1015 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.26 Unghiul vântului = 11 Stare = nori 85-100%']
+Sighisoara: 07 \ joi \ 17:2:2022 \ 19:18:05
+[' Răsarit = 07:21:18 Apus = 17:48:37 Min (°C) = 1.03 Max (°C) =9.65 Presiune = 1003 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 9.4 Unghiul vântului = 260 Stare = nori 50-85%']
+Sighisoara: 07 \ vineri \ 18:2:2022 \ 19:17:00
+[' Răsarit = 07:19:40 Apus = 17:50:07 Min (°C) = 2.22 Max (°C) =7.42 Presiune = 1017 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 256 Stare = nori 50-85%']
+Sighisoara: 07 \ sâmbătă \ 19:2:2022 \ 19:17:15
+[' Răsarit = 07:18:02 Apus = 17:51:35 Min (°C) = 1.06 Max (°C) =10.27 Presiune = 1019 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 250 Stare = nori 50-85%']
+Sighisoara: 07 \ duminică \ 20:2:2022 \ 19:18:24
+[' Răsarit = 07:16:22 Apus = 17:53:04 Min (°C) = 2.72 Max (°C) =7.7 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 341 Stare = nori 50-85%']
+Sighisoara: 08 \ luni \ 21:2:2022 \ 19:16:52
+[' Răsarit = 07:14:41 Apus = 17:54:32 Min (°C) = 0.59 Max (°C) =9.76 Presiune = 1005 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 153 Stare = nori 85-100%']
+Sighisoara: 08 \ marți \ 22:2:2022 \ 19:17:53
+[' Răsarit = 07:12:59 Apus = 17:56:00 Min (°C) = 2.49 Max (°C) =7.45 Presiune = 1014 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 279 Stare = nori 85-100%']
+Sighisoara: 08 \ miercuri \ 23:2:2022 \ 19:17:15
+[' Răsarit = 07:11:16 Apus = 17:57:28 Min (°C) = 1.11 Max (°C) =6.8 Presiune = 1022 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 322 Stare = zăpadă slabă']
+Sighisoara: 08 \ joi \ 24:2:2022 \ 19:17:05
+[' Răsarit = 07:09:32 Apus = 17:58:55 Min (°C) = 0.08 Max (°C) =3.71 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 149 Stare = nori 50-85%']
+Sighisoara: 08 \ vineri \ 25:2:2022 \ 19:17:11
+[' Răsarit = 07:07:46 Apus = 18:00:22 Min (°C) = -1.53 Max (°C) =6.36 Presiune = 1020 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 300 Stare = nori 50-85%']
+Sighisoara: 08 \ sâmbătă \ 26:2:2022 \ 19:17:29
+[' Răsarit = 07:06:00 Apus = 18:01:48 Min (°C) = 0.57 Max (°C) =6.92 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.85 Unghiul vântului = 101 Stare = nori 85-100%']
+Sighisoara: 08 \ duminică \ 27:2:2022 \ 19:16:47
+[' Răsarit = 07:04:13 Apus = 18:03:15 Min (°C) = -0.64 Max (°C) =6.4 Presiune = 1027 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.85 Unghiul vântului = 86 Stare = nori 50-85%']
+Sighisoara: 09 \ luni \ 28:2:2022 \ 19:17:21
+[' Răsarit = 07:02:26 Apus = 18:04:41 Min (°C) = -1.02 Max (°C) =3.61 Presiune = 1028 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 76 Stare = nori 85-100%']
+Sighisoara: 09 \ marți \ 01:3:2022 \ 19:17:28
+[' Răsarit = 07:00:37 Apus = 18:06:06 Min (°C) = -1.27 Max (°C) =3.66 Presiune = 1024 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 322 Stare = nori 85-100%']
+Sighisoara: 09 \ miercuri \ 02:3:2022 \ 19:16:45
+[' Răsarit = 06:58:48 Apus = 18:07:31 Min (°C) = -1.5 Max (°C) =3.29 Presiune = 1017 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 302 Stare = nori 85-100%']
+Sighisoara: 09 \ joi \ 03:3:2022 \ 19:17:11
+[' Răsarit = 06:56:57 Apus = 18:08:56 Min (°C) = -1.49 Max (°C) =3.65 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 253 Stare = nori 85-100%']
+Sighisoara: 09 \ vineri \ 04:3:2022 \ 19:16:57
+[' Răsarit = 06:55:06 Apus = 18:10:21 Min (°C) = -0.82 Max (°C) =2.9 Presiune = 1016 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 305 Stare = nori 85-100%']
+Sighisoara: 09 \ sâmbătă \ 05:3:2022 \ 19:14:57
+[' Răsarit = 06:53:15 Apus = 18:11:45 Min (°C) = -1.68 Max (°C) =4.04 Presiune = 1019 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 359 Stare = nori 50-85%']
+Sighisoara: 09 \ duminică \ 06:3:2022 \ 19:14:44
+[' Răsarit = 06:51:23 Apus = 18:13:09 Min (°C) = -5.36 Max (°C) =4.91 Presiune = 1018 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 105 Stare = nori 50-85%']
+Sighisoara: 10 \ luni \ 07:3:2022 \ 19:14:28
+[' Răsarit = 06:49:30 Apus = 18:14:33 Min (°C) = -1.75 Max (°C) =1.65 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 291 Stare = nori 85-100%']
+Sighisoara: 10 \ marți \ 08:3:2022 \ 19:14:16
+[' Răsarit = 06:47:36 Apus = 18:15:56 Min (°C) = -3.45 Max (°C) =2.49 Presiune = 1018 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 264 Stare = nori 50-85%']
+Sighisoara: 10 \ miercuri \ 09:3:2022 \ 19:14:26
+[' Răsarit = 06:45:42 Apus = 18:17:19 Min (°C) = -4.11 Max (°C) =2.1 Presiune = 1021 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 117 Stare = nori 85-100%']
+Sighisoara: 10 \ joi \ 10:3:2022 \ 19:14:25
+[' Răsarit = 06:43:48 Apus = 18:18:42 Min (°C) = -4.67 Max (°C) =0.42 Presiune = 1028 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 81 Stare = nori 85-100%']
+Sighisoara: 10 \ vineri \ 11:3:2022 \ 19:14:22
+[' Răsarit = 06:41:53 Apus = 18:20:04 Min (°C) = -7.9 Max (°C) =-0.6 Presiune = 1030 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 4.1 Unghiul vântului = 66 Stare = nori 50-85%']
+Sighisoara: 10 \ sâmbătă \ 12:3:2022 \ 19:14:16
+[' Răsarit = 06:39:58 Apus = 18:21:26 Min (°C) = -7.93 Max (°C) =0.2 Presiune = 1031 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 237 Stare = cer senin']
+Sighisoara: 10 \ duminică \ 13:3:2022 \ 19:14:27
+[' Răsarit = 06:38:02 Apus = 18:22:48 Min (°C) = -3.28 Max (°C) =3.73 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 168 Stare = nori 10-25%']
+Sighisoara: 11 \ luni \ 14:3:2022 \ 19:14:16
+[' Răsarit = 06:36:06 Apus = 18:24:10 Min (°C) = -3.75 Max (°C) =5.91 Presiune = 1036 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 127 Stare = cer senin']
+Sighisoara: 11 \ marți \ 15:3:2022 \ 19:14:24
+[' Răsarit = 06:34:09 Apus = 18:25:31 Min (°C) = -1.53 Max (°C) =7.08 Presiune = 1032 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 66 Stare = nori 85-100%']
+Sighisoara: 11 \ miercuri \ 16:3:2022 \ 19:14:29
+[' Răsarit = 06:32:13 Apus = 18:26:53 Min (°C) = 0.15 Max (°C) =6.38 Presiune = 1024 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 67 Stare = nori 85-100%']
+Sighisoara: 11 \ joi \ 17:3:2022 \ 19:14:27
+[' Răsarit = 06:30:16 Apus = 18:28:14 Min (°C) = -1.28 Max (°C) =5.97 Presiune = 1035 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.61 Unghiul vântului = 105 Stare = nori 85-100%']
+Sighisoara: 11 \ vineri \ 18:3:2022 \ 19:14:33
+[' Răsarit = 06:28:18 Apus = 18:29:35 Min (°C) = -4.42 Max (°C) =4.3 Presiune = 1041 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 103 Stare = nori 50-85%']
+Sighisoara: 11 \ sâmbătă \ 19:3:2022 \ 19:14:38
+[' Răsarit = 06:26:21 Apus = 18:30:55 Min (°C) = -3.58 Max (°C) =4.53 Presiune = 1042 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.94 Unghiul vântului = 92 Stare = nori 50-85%']
+Sighisoara: 11 \ duminică \ 20:3:2022 \ 19:14:32
+[' Răsarit = 06:24:24 Apus = 18:32:16 Min (°C) = -4.27 Max (°C) =5.69 Presiune = 1040 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 88 Stare = nori 25-50%']
+Sighisoara: 12 \ luni \ 21:3:2022 \ 19:14:51
+[' Răsarit = 06:22:26 Apus = 18:33:36 Min (°C) = -2.13 Max (°C) =9.01 Presiune = 1036 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 38 Stare = nori 25-50%']
+Sighisoara: 12 \ marți \ 22:3:2022 \ 19:14:34
+[' Răsarit = 06:20:28 Apus = 18:34:56 Min (°C) = 0.18 Max (°C) =13.82 Presiune = 1034 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.15 Unghiul vântului = 104 Stare = cer senin']
+Sighisoara: 12 \ miercuri \ 23:3:2022 \ 19:14:21
+[' Răsarit = 06:18:31 Apus = 18:36:16 Min (°C) = 1.73 Max (°C) =13.73 Presiune = 1028 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 325 Stare = cer senin']
+Sighisoara: 12 \ joi \ 24:3:2022 \ 19:14:29
+[' Răsarit = 06:16:33 Apus = 18:37:36 Min (°C) = 3.1 Max (°C) =15.73 Presiune = 1020 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.88 Unghiul vântului = 320 Stare = cer senin']
+Sighisoara: 12 \ vineri \ 25:3:2022 \ 19:14:27
+[' Răsarit = 06:14:35 Apus = 18:38:56 Min (°C) = 2.07 Max (°C) =10.91 Presiune = 1025 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 95 Stare = nori 10-25%']
+Sighisoara: 12 \ sâmbătă \ 26:3:2022 \ 19:14:40
+[' Răsarit = 06:12:37 Apus = 18:40:16 Min (°C) = 0.01 Max (°C) =13.04 Presiune = 1024 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.9 Unghiul vântului = 265 Stare = nori 25-50%']
+Sighisoara: 12 \ duminică \ 27:3:2022 \ 19:14:35
+[' Răsarit = 07:10:40 Apus = 19:41:36 Min (°C) = 6.11 Max (°C) =13.27 Presiune = 1027 Umiditate (%) = 34 Index UV = 0.1 Viteza vântului = 4.4 Unghiul vântului = 317 Stare = nori 10-25%']
+Sighisoara: 13 \ luni \ 28:3:2022 \ 19:14:50
+[' Răsarit = 07:08:42 Apus = 19:42:55 Min (°C) = 1.85 Max (°C) =15.51 Presiune = 1021 Umiditate (%) = 37 Index UV = 0.11 Viteza vântului = 1.53 Unghiul vântului = 332 Stare = cer senin']
+Sighisoara: 13 \ marți \ 29:3:2022 \ 19:14:37
+[' Răsarit = 07:06:45 Apus = 19:44:15 Min (°C) = 4.94 Max (°C) =18.29 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.12 Viteza vântului = 3.83 Unghiul vântului = 233 Stare = nori 50-85%']
+Sighisoara: 13 \ miercuri \ 30:3:2022 \ 19:14:33
+[' Răsarit = 07:04:48 Apus = 19:45:34 Min (°C) = 7.55 Max (°C) =18.06 Presiune = 1005 Umiditate (%) = 42 Index UV = 0.11 Viteza vântului = 2.45 Unghiul vântului = 294 Stare = nori 50-85%']
+Sighisoara: 13 \ joi \ 31:3:2022 \ 19:14:54
+[' Răsarit = 07:02:51 Apus = 19:46:54 Min (°C) = 7.24 Max (°C) =16.52 Presiune = 998 Umiditate (%) = 71 Index UV = 0.03 Viteza vântului = 1.33 Unghiul vântului = 174 Stare = nori 85-100%']
+Sighisoara: 13 \ vineri \ 01:4:2022 \ 19:17:31
+[' Răsarit = 07:00:55 Apus = 19:48:13 Min (°C) = 9.49 Max (°C) =19.79 Presiune = 994 Umiditate (%) = 74 Index UV = 0.13 Viteza vântului = 1.03 Unghiul vântului = 282 Stare = nori 50-85%']
+Sighisoara: 13 \ sâmbătă \ 02:4:2022 \ 19:17:07
+[' Răsarit = 06:58:58 Apus = 19:49:33 Min (°C) = 6.55 Max (°C) =10.92 Presiune = 999 Umiditate (%) = 82 Index UV = 0.1 Viteza vântului = 2.98 Unghiul vântului = 329 Stare = ploaie moderată']
+Sighisoara: 13 \ duminică \ 03:4:2022 \ 19:50:50
+[' Răsarit = 06:57:03 Apus = 19:50:52 Min (°C) = 0.67 Max (°C) =5.46 Presiune = 1013 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 5.43 Unghiul vântului = 295 Stare = zăpadă slabă']
+Sighisoara: 14 \ luni \ 04:4:2022 \ 19:17:06
+[' Răsarit = 06:55:07 Apus = 19:52:12 Min (°C) = -3.44 Max (°C) =6.42 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.14 Viteza vântului = 4.69 Unghiul vântului = 299 Stare = nori 50-85%']
+Sighisoara: 14 \ marți \ 05:4:2022 \ 19:18:46
+[' Răsarit = 06:53:12 Apus = 19:53:31 Min (°C) = -2.74 Max (°C) =11.88 Presiune = 1009 Umiditate (%) = 52 Index UV = 0.16 Viteza vântului = 6.22 Unghiul vântului = 266 Stare = nori 10-25%']
+Sighisoara: 14 \ miercuri \ 06:4:2022 \ 19:17:14
+[' Răsarit = 06:51:17 Apus = 19:54:51 Min (°C) = 5.8 Max (°C) =17.27 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.17 Viteza vântului = 1.99 Unghiul vântului = 28 Stare = nori 10-25%']
+Sighisoara: 14 \ joi \ 07:4:2022 \ 19:17:25
+[' Răsarit = 06:49:23 Apus = 19:56:10 Min (°C) = 5.32 Max (°C) =16.46 Presiune = 999 Umiditate (%) = 85 Index UV = 0.09 Viteza vântului = 4.09 Unghiul vântului = 244 Stare = nori 85-100%']
+Sighisoara: 14 \ vineri \ 08:4:2022 \ 19:16:56
+[' Răsarit = 06:47:29 Apus = 19:57:30 Min (°C) = 5.05 Max (°C) =15.27 Presiune = 1006 Umiditate (%) = 73 Index UV = 0.07 Viteza vântului = 1.69 Unghiul vântului = 198 Stare = nori 85-100%']
+Sighisoara: 14 \ sâmbătă \ 09:4:2022 \ 19:17:12
+[' Răsarit = 06:45:36 Apus = 19:58:50 Min (°C) = 7.56 Max (°C) =17.04 Presiune = 1002 Umiditate (%) = 86 Index UV = 0.12 Viteza vântului = 1.24 Unghiul vântului = 175 Stare = nori 85-100%']
+Sighisoara: 14 \ duminică \ 10:4:2022 \ 19:18:35
+[' Răsarit = 06:43:43 Apus = 20:00:09 Min (°C) = 1.99 Max (°C) =10.7 Presiune = 1012 Umiditate (%) = 99 Index UV = 0.04 Viteza vântului = 0.67 Unghiul vântului = 35 Stare = nori 85-100%']
+Sighisoara: 15 \ luni \ 11:4:2022 \ 19:17:16
+[' Răsarit = 06:41:51 Apus = 20:01:29 Min (°C) = 1.18 Max (°C) =8.68 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.19 Viteza vântului = 6.48 Unghiul vântului = 319 Stare = nori 50-85%']
+Sighisoara: 15 \ marți \ 12:4:2022 \ 19:16:23
+[' Răsarit = 06:40:00 Apus = 20:02:49 Min (°C) = -0.79 Max (°C) =10.51 Presiune = 1020 Umiditate (%) = 50 Index UV = 0.21 Viteza vântului = 3.56 Unghiul vântului = 321 Stare = nori 50-85%']
+Sighisoara: 15 \ miercuri \ 13:4:2022 \ 19:16:50
+[' Răsarit = 06:38:09 Apus = 20:04:09 Min (°C) = -0.59 Max (°C) =13.27 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.2 Viteza vântului = 2.27 Unghiul vântului = 316 Stare = cer senin']
+Sighisoara: 15 \ joi \ 14:4:2022 \ 19:17:33
+[' Răsarit = 06:36:19 Apus = 20:05:29 Min (°C) = 2.2 Max (°C) =16.65 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.24 Viteza vântului = 0.93 Unghiul vântului = 339 Stare = cer senin']
+Sighisoara: 15 \ vineri \ 15:4:2022 \ 19:17:50
+[' Răsarit = 06:34:30 Apus = 20:06:49 Min (°C) = 5.75 Max (°C) =20.27 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.22 Viteza vântului = 2.28 Unghiul vântului = 347 Stare = nori 50-85%']
+Sighisoara: 15 \ sâmbătă \ 16:4:2022 \ 19:18:08
+[' Răsarit = 06:32:42 Apus = 20:08:09 Min (°C) = 8.37 Max (°C) =15.87 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.2 Viteza vântului = 4.97 Unghiul vântului = 327 Stare = nori 25-50%']
+Sighisoara: 15 \ duminică \ 17:4:2022 \ 19:17:31
+[' Răsarit = 06:30:54 Apus = 20:09:29 Min (°C) = 3.04 Max (°C) =8.34 Presiune = 1017 Umiditate (%) = 66 Index UV = 0.24 Viteza vântului = 1.48 Unghiul vântului = 48 Stare = nori 85-100%']
+Sighisoara: 16 \ luni \ 18:4:2022 \ 19:18:16
+[' Răsarit = 06:29:07 Apus = 20:10:49 Min (°C) = -1.95 Max (°C) =8.56 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.24 Viteza vântului = 1.69 Unghiul vântului = 323 Stare = nori 50-85%']
+Sighisoara: 16 \ marți \ 19:4:2022 \ 19:18:26
+[' Răsarit = 06:27:21 Apus = 20:12:09 Min (°C) = -1.79 Max (°C) =9.11 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.22 Viteza vântului = 2.11 Unghiul vântului = 319 Stare = nori 85-100%']
+Sighisoara: 16 \ miercuri \ 20:4:2022 \ 19:17:28
+[' Răsarit = 06:25:36 Apus = 20:13:29 Min (°C) = -0.53 Max (°C) =11.62 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.24 Viteza vântului = 2.8 Unghiul vântului = 343 Stare = nori 85-100%']
+Sighisoara: 16 \ joi \ 21:4:2022 \ 19:17:56
+[' Răsarit = 06:23:52 Apus = 20:14:50 Min (°C) = 1.54 Max (°C) =13.29 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.28 Viteza vântului = 3.29 Unghiul vântului = 344 Stare = nori 50-85%']
+Sighisoara: 16 \ vineri \ 22:4:2022 \ 19:15:14
+[' Răsarit = 06:22:09 Apus = 20:16:10 Min (°C) = 2.65 Max (°C) =17.45 Presiune = 1005 Umiditate (%) = 65 Index UV = 0.29 Viteza vântului = 2.08 Unghiul vântului = 141 Stare = nori 50-85%']
+Sighisoara: 16 \ sâmbătă \ 23:4:2022 \ 19:15:13
+[' Răsarit = 06:20:27 Apus = 20:17:30 Min (°C) = 7.5 Max (°C) =13.56 Presiune = 1006 Umiditate (%) = 75 Index UV = 0.29 Viteza vântului = 2.17 Unghiul vântului = 261 Stare = nori 50-85%']
+Sighisoara: 16 \ duminică \ 24:4:2022 \ 19:14:45
+[' Răsarit = 06:18:46 Apus = 20:18:50 Min (°C) = 7.05 Max (°C) =21.03 Presiune = 1006 Umiditate (%) = 58 Index UV = 0.31 Viteza vântului = 3.21 Unghiul vântului = 110 Stare = nori 85-100%']
+Sighisoara: 17 \ luni \ 25:4:2022 \ 19:14:41
+[' Răsarit = 06:17:06 Apus = 20:20:10 Min (°C) = 9.28 Max (°C) =19.14 Presiune = 1008 Umiditate (%) = 72 Index UV = 0.15 Viteza vântului = 5.59 Unghiul vântului = 292 Stare = nori 50-85%']
+Sighisoara: 17 \ marți \ 26:4:2022 \ 19:14:43
+[' Răsarit = 06:15:27 Apus = 20:21:30 Min (°C) = 6.52 Max (°C) =18.29 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.29 Viteza vântului = 2.34 Unghiul vântului = 17 Stare = nori 50-85%']
+Sighisoara: 17 \ miercuri \ 27:4:2022 \ 19:14:46
+[' Răsarit = 06:13:49 Apus = 20:22:50 Min (°C) = 7.64 Max (°C) =18.45 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.34 Viteza vântului = 2.23 Unghiul vântului = 132 Stare = nori 85-100%']
+Sighisoara: 17 \ joi \ 28:4:2022 \ 19:14:49
+[' Răsarit = 06:12:12 Apus = 20:24:10 Min (°C) = 8.05 Max (°C) =10.54 Presiune = 1020 Umiditate (%) = 95 Index UV = 0.1 Viteza vântului = 1.6 Unghiul vântului = 175 Stare = ploaie ușoară']
+Sighisoara: 17 \ vineri \ 29:4:2022 \ 19:17:40
+[' Răsarit = 06:10:37 Apus = 20:25:30 Min (°C) = 8.25 Max (°C) =15.51 Presiune = 1022 Umiditate (%) = 70 Index UV = 0.27 Viteza vântului = 3.78 Unghiul vântului = 106 Stare = nori 50-85%']
+Sighisoara: 17 \ sâmbătă \ 30:4:2022 \ 19:14:27
+[' Răsarit = 06:09:03 Apus = 20:26:49 Min (°C) = 4.29 Max (°C) =17.28 Presiune = 1019 Umiditate (%) = 61 Index UV = 0.37 Viteza vântului = 2.68 Unghiul vântului = 61 Stare = nori 25-50%']
+Sighisoara: 17 \ duminică \ 01:5:2022 \ 19:14:34
+[' Răsarit = 06:07:30 Apus = 20:28:09 Min (°C) = 4.86 Max (°C) =18.29 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.38 Viteza vântului = 3.79 Unghiul vântului = 125 Stare = nori 50-85%']
+Sighisoara: 18 \ marți \ 03:5:2022 \ 20:15:01
+[' Răsarit = 06:04:28 Apus = 20:30:47 Min (°C) = 6.15 Max (°C) =17.66 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.07 Viteza vântului = 1.22 Unghiul vântului = 329 Stare = nori 85-100%']
+Sighisoara: 18 \ miercuri \ 04:5:2022 \ 19:19:22
+[' Răsarit = 06:02:59 Apus = 20:32:06 Min (°C) = 6.57 Max (°C) =16.65 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.38 Viteza vântului = 1.77 Unghiul vântului = 55 Stare = nori 85-100%']
+Sighisoara: 18 \ joi \ 05:5:2022 \ 19:18:03
+[' Răsarit = 06:01:32 Apus = 20:33:24 Min (°C) = 7.59 Max (°C) =19.4 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.42 Viteza vântului = 0.99 Unghiul vântului = 341 Stare = nori 50-85%']
+Sighisoara: 18 \ vineri \ 06:5:2022 \ 19:15:44
+[' Răsarit = 06:00:06 Apus = 20:34:42 Min (°C) = 6.81 Max (°C) =21.62 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.42 Viteza vântului = 1.14 Unghiul vântului = 152 Stare = nori 25-50%']
+Sighisoara: 18 \ sâmbătă \ 07:5:2022 \ 19:15:04
+[' Răsarit = 05:58:41 Apus = 20:36:00 Min (°C) = 7.64 Max (°C) =21.62 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.41 Viteza vântului = 0.94 Unghiul vântului = 13 Stare = nori 25-50%']
+Sighisoara: 18 \ duminică \ 08:5:2022 \ 19:15:48
+[' Răsarit = 05:57:18 Apus = 20:37:18 Min (°C) = 8.04 Max (°C) =21.83 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.46 Viteza vântului = 1.62 Unghiul vântului = 17 Stare = nori 50-85%']
+Sighisoara: 19 \ luni \ 09:5:2022 \ 19:15:21
+[' Răsarit = 05:55:56 Apus = 20:38:35 Min (°C) = 8.45 Max (°C) =20.02 Presiune = 1021 Umiditate (%) = 75 Index UV = 0.32 Viteza vântului = 2.99 Unghiul vântului = 103 Stare = nori 50-85%']
+Sighisoara: 19 \ marți \ 10:5:2022 \ 19:15:37
+[' Răsarit = 05:54:37 Apus = 20:39:51 Min (°C) = 9.95 Max (°C) =18.31 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.23 Viteza vântului = 3.17 Unghiul vântului = 135 Stare = nori 50-85%']
+Sighisoara: 19 \ miercuri \ 11:5:2022 \ 19:15:22
+[' Răsarit = 05:53:18 Apus = 20:41:07 Min (°C) = 8.15 Max (°C) =22.27 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.55 Unghiul vântului = 323 Stare = nori 50-85%']
+Sighisoara: 19 \ joi \ 12:5:2022 \ 19:15:31
+[' Răsarit = 05:52:02 Apus = 20:42:23 Min (°C) = 10.43 Max (°C) =25.51 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.53 Viteza vântului = 1.56 Unghiul vântului = 317 Stare = cer senin']
+Sighisoara: 19 \ vineri \ 13:5:2022 \ 19:15:02
+[' Răsarit = 05:50:47 Apus = 20:43:38 Min (°C) = 12.11 Max (°C) =25.28 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.47 Viteza vântului = 1.49 Unghiul vântului = 283 Stare = nori 50-85%']
+Sighisoara: 19 \ sâmbătă \ 14:5:2022 \ 19:15:08
+[' Răsarit = 05:49:33 Apus = 20:44:52 Min (°C) = 11.44 Max (°C) =21.82 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.33 Viteza vântului = 4.18 Unghiul vântului = 332 Stare = nori 25-50%']
+Sighisoara: 19 \ duminică \ 15:5:2022 \ 19:15:08
+[' Răsarit = 05:48:22 Apus = 20:46:06 Min (°C) = 9.84 Max (°C) =22.27 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.44 Viteza vântului = 2.32 Unghiul vântului = 334 Stare = nori 85-100%']
+Sighisoara: 20 \ luni \ 16:5:2022 \ 19:16:20
+[' Răsarit = 05:47:12 Apus = 20:47:19 Min (°C) = 10.55 Max (°C) =24.27 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 2.1 Unghiul vântului = 334 Stare = nori 50-85%']
+Sighisoara: 20 \ marți \ 17:5:2022 \ 19:18:12
+[' Răsarit = 05:46:04 Apus = 20:48:31 Min (°C) = 11.06 Max (°C) =20.93 Presiune = 1014 Umiditate (%) = 90 Index UV = 0.04 Viteza vântului = 1.57 Unghiul vântului = 130 Stare = nori 85-100%']
+Sighisoara: 20 \ miercuri \ 18:5:2022 \ 19:15:18
+[' Răsarit = 05:44:58 Apus = 20:49:42 Min (°C) = 8.27 Max (°C) =16.62 Presiune = 1024 Umiditate (%) = 53 Index UV = 0.53 Viteza vântului = 4.43 Unghiul vântului = 307 Stare = nori 25-50%']
+Sighisoara: 20 \ joi \ 19:5:2022 \ 20:20:09
+[' Răsarit = 05:43:54 Apus = 20:50:52 Min (°C) = 4.47 Max (°C) =19.27 Presiune = 1027 Umiditate (%) = 70 Index UV = 0.16 Viteza vântului = 1.7 Unghiul vântului = 303 Stare = cer senin']
+Sighisoara: 20 \ vineri \ 20:5:2022 \ 19:15:08
+[' Răsarit = 05:42:52 Apus = 20:52:02 Min (°C) = 6.64 Max (°C) =24.27 Presiune = 1021 Umiditate (%) = 59 Index UV = 0.59 Viteza vântului = 2.34 Unghiul vântului = 335 Stare = nori 25-50%']
+Sighisoara: 20 \ sâmbătă \ 21:5:2022 \ 19:17:23
+[' Răsarit = 05:41:52 Apus = 20:53:11 Min (°C) = 10.1 Max (°C) =24.96 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.61 Viteza vântului = 4.84 Unghiul vântului = 333 Stare = nori 85-100%']

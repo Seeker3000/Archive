@@ -1,0 +1,954 @@
+Negresti_Oas: 04 \ luni \ 25:1:2021 \ 22:44:16
+[' Răsarit = 08:01:57 Apus = 17:14:59 Min (°C) = -0.04 Max (°C) =4.84 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = zăpadă slabă']
+Negresti_Oas: 04 \ marți \ 26:1:2021 \ 10:01:08
+[' Răsarit = 08:00:52 Apus = 17:16:32 Min (°C) = -3.87 Max (°C) =0.49 Presiune = 1008 Umiditate (%) = 86 Index UV = 0.39 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Negresti_Oas: 04 \ miercuri \ 27:1:2021 \ 19:21:46
+[' Răsarit = 07:59:45 Apus = 17:18:05 Min (°C) = -5.21 Max (°C) =0.36 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 25-50%']
+Negresti_Oas: 04 \ joi \ 28:1:2021 \ 19:36:28
+[' Răsarit = 07:58:36 Apus = 17:19:39 Min (°C) = -3.82 Max (°C) =0 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 198 Stare = nori 50-85%']
+Negresti_Oas: 04 \ vineri \ 29:1:2021 \ 20:22:17
+[' Răsarit = 07:57:25 Apus = 17:21:13 Min (°C) = -2.07 Max (°C) =0.84 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = zăpadă slabă']
+Negresti_Oas: 04 \ sâmbătă \ 30:1:2021 \ 20:24:03
+[' Răsarit = 07:56:12 Apus = 17:22:48 Min (°C) = 0.12 Max (°C) =4.07 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = ploaie moderată']
+Negresti_Oas: 04 \ duminică \ 31:1:2021 \ 19:21:19
+[' Răsarit = 07:54:56 Apus = 17:24:23 Min (°C) = -0.88 Max (°C) =1.74 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 75 Stare = ceață']
+Negresti_Oas: 05 \ luni \ 01:2:2021 \ 19:22:22
+[' Răsarit = 07:53:39 Apus = 17:25:59 Min (°C) = -0.43 Max (°C) =2.47 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 222 Stare = ceață']
+Negresti_Oas: 05 \ marți \ 02:2:2021 \ 20:53:07
+[' Răsarit = 07:52:20 Apus = 17:27:34 Min (°C) = 1.18 Max (°C) =4.2 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = nori 85-100%']
+Negresti_Oas: 05 \ miercuri \ 03:2:2021 \ 19:48:46
+[' Răsarit = 07:51:00 Apus = 17:29:10 Min (°C) = 2.89 Max (°C) =6.07 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 85-100%']
+Negresti_Oas: 05 \ joi \ 04:2:2021 \ 19:23:25
+[' Răsarit = 07:49:37 Apus = 17:30:46 Min (°C) = 4.84 Max (°C) =8.87 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = nori 25-50%']
+Negresti_Oas: 05 \ vineri \ 05:2:2021 \ 19:19:09
+[' Răsarit = 07:48:13 Apus = 17:32:23 Min (°C) = 2.76 Max (°C) =6.53 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = nori 85-100%']
+Negresti_Oas: 05 \ sâmbătă \ 06:2:2021 \ 19:47:54
+[' Răsarit = 07:46:46 Apus = 17:33:59 Min (°C) = 3.62 Max (°C) =4.74 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 50-85%']
+Negresti_Oas: 05 \ duminică \ 07:2:2021 \ 19:23:26
+[' Răsarit = 07:45:19 Apus = 17:35:35 Min (°C) = 2.89 Max (°C) =8.86 Presiune = 1003 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
+Negresti_Oas: 06 \ luni \ 08:2:2021 \ 21:05:37
+[' Răsarit = 07:43:49 Apus = 17:37:12 Min (°C) = 6.6 Max (°C) =8.04 Presiune = 994 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ploaie moderată']
+Negresti_Oas: 06 \ marți \ 09:2:2021 \ 19:20:30
+[' Răsarit = 07:42:18 Apus = 17:38:48 Min (°C) = 0.98 Max (°C) =7.09 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Negresti_Oas: 06 \ miercuri \ 10:2:2021 \ 19:21:15
+[' Răsarit = 07:40:46 Apus = 17:40:24 Min (°C) = 3.33 Max (°C) =6.74 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = ploaie moderată']
+Negresti_Oas: 06 \ joi \ 11:2:2021 \ 19:15:18
+[' Răsarit = 07:39:11 Apus = 17:42:00 Min (°C) = -7.65 Max (°C) =6.91 Presiune = 1012 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 270 Stare = zăpadă slabă']
+Negresti_Oas: 06 \ vineri \ 12:2:2021 \ 20:55:47
+[' Răsarit = 07:37:36 Apus = 17:43:37 Min (°C) = -11.43 Max (°C) =-7.92 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = nori 50-85%']
+Negresti_Oas: 06 \ sâmbătă \ 13:2:2021 \ 19:20:22
+[' Răsarit = 07:35:59 Apus = 17:45:13 Min (°C) = -12.27 Max (°C) =-5.69 Presiune = 1032 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = zăpadă slabă']
+Negresti_Oas: 06 \ duminică \ 14:2:2021 \ 19:18:17
+[' Răsarit = 07:34:20 Apus = 17:46:48 Min (°C) = -9.65 Max (°C) =-2.66 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 190 Stare = nori 50-85%']
+Negresti_Oas: 07 \ luni \ 15:2:2021 \ 20:15:46
+[' Răsarit = 07:32:40 Apus = 17:48:24 Min (°C) = -8.35 Max (°C) =-2.03 Presiune = 1031 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 10-25%']
+Negresti_Oas: 07 \ marți \ 16:2:2021 \ 19:11:14
+[' Răsarit = 07:30:59 Apus = 17:49:59 Min (°C) = -8.6 Max (°C) =-1.85 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 07 \ miercuri \ 17:2:2021 \ 19:19:20
+[' Răsarit = 07:29:17 Apus = 17:51:34 Min (°C) = -4.81 Max (°C) =0.06 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 123 Stare = snow']
+Negresti_Oas: 07 \ joi \ 18:2:2021 \ 19:23:12
+[' Răsarit = 07:27:33 Apus = 17:53:09 Min (°C) = -3.71 Max (°C) =0.39 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Negresti_Oas: 07 \ vineri \ 19:2:2021 \ 19:16:18
+[' Răsarit = 07:25:48 Apus = 17:54:44 Min (°C) = -4.67 Max (°C) =2.63 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = nori 50-85%']
+Negresti_Oas: 07 \ sâmbătă \ 20:2:2021 \ 19:20:30
+[' Răsarit = 07:24:02 Apus = 17:56:18 Min (°C) = 0.49 Max (°C) =4.25 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 30 Stare = ceață']
+Negresti_Oas: 07 \ duminică \ 21:2:2021 \ 19:18:01
+[' Răsarit = 07:22:15 Apus = 17:57:52 Min (°C) = -0.5 Max (°C) =5.33 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 130 Stare = cer senin']
+Negresti_Oas: 08 \ luni \ 22:2:2021 \ 19:22:47
+[' Răsarit = 07:20:27 Apus = 17:59:26 Min (°C) = 0.28 Max (°C) =8.25 Presiune = 1030 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = cer senin']
+Negresti_Oas: 08 \ marți \ 23:2:2021 \ 19:20:33
+[' Răsarit = 07:18:38 Apus = 18:00:59 Min (°C) = 2.22 Max (°C) =10.09 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = cer senin']
+Negresti_Oas: 08 \ miercuri \ 24:2:2021 \ 19:21:07
+[' Răsarit = 07:16:48 Apus = 18:02:32 Min (°C) = 2.65 Max (°C) =10.97 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Negresti_Oas: 08 \ joi \ 25:2:2021 \ 19:19:07
+[' Răsarit = 07:14:56 Apus = 18:04:05 Min (°C) = 3.99 Max (°C) =13.36 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']
+Negresti_Oas: 08 \ vineri \ 26:2:2021 \ 19:19:56
+[' Răsarit = 07:13:04 Apus = 18:05:37 Min (°C) = 5.54 Max (°C) =14.23 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Negresti_Oas: 08 \ sâmbătă \ 27:2:2021 \ 19:18:18
+[' Răsarit = 07:11:11 Apus = 18:07:09 Min (°C) = 1.83 Max (°C) =8.47 Presiune = 1028 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 280 Stare = nori 25-50%']
+Negresti_Oas: 08 \ duminică \ 28:2:2021 \ 19:21:22
+[' Răsarit = 07:09:17 Apus = 18:08:41 Min (°C) = 0.4 Max (°C) =6.13 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 279 Stare = nori 10-25%']
+Negresti_Oas: 09 \ luni \ 01:3:2021 \ 19:15:36
+[' Răsarit = 07:07:22 Apus = 18:10:13 Min (°C) = 0.55 Max (°C) =8.96 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 09 \ marți \ 02:3:2021 \ 19:24:08
+[' Răsarit = 07:05:27 Apus = 18:11:44 Min (°C) = 0.66 Max (°C) =7.75 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 09 \ miercuri \ 03:3:2021 \ 19:19:40
+[' Răsarit = 07:03:31 Apus = 18:13:14 Min (°C) = 1.55 Max (°C) =10.13 Presiune = 1028 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Negresti_Oas: 09 \ joi \ 04:3:2021 \ 19:20:23
+[' Răsarit = 07:01:34 Apus = 18:14:45 Min (°C) = 3.38 Max (°C) =12.22 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = cer senin']
+Negresti_Oas: 09 \ vineri \ 05:3:2021 \ 19:18:27
+[' Răsarit = 06:59:36 Apus = 18:16:15 Min (°C) = 2.2 Max (°C) =7.31 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = ceață']
+Negresti_Oas: 09 \ sâmbătă \ 06:3:2021 \ 19:19:15
+[' Răsarit = 06:57:38 Apus = 18:17:45 Min (°C) = -1.15 Max (°C) =3.69 Presiune = 1030 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 50-85%']
+Negresti_Oas: 09 \ duminică \ 07:3:2021 \ 19:20:25
+[' Răsarit = 06:55:39 Apus = 18:19:14 Min (°C) = -2.07 Max (°C) =4.34 Presiune = 1020 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 10 Stare = cer senin']
+Negresti_Oas: 10 \ luni \ 08:3:2021 \ 19:23:38
+[' Răsarit = 06:53:39 Apus = 18:20:43 Min (°C) = -1.22 Max (°C) =5.15 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Negresti_Oas: 10 \ marți \ 09:3:2021 \ 19:19:15
+[' Răsarit = 06:51:39 Apus = 18:22:12 Min (°C) = -2.42 Max (°C) =4.72 Presiune = 1018 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = cer senin']
+Negresti_Oas: 10 \ miercuri \ 10:3:2021 \ 19:23:59
+[' Răsarit = 06:49:39 Apus = 18:23:41 Min (°C) = -1.09 Max (°C) =4.07 Presiune = 1018 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = cer senin']
+Negresti_Oas: 10 \ joi \ 11:3:2021 \ 19:20:37
+[' Răsarit = 06:47:38 Apus = 18:25:09 Min (°C) = -2.26 Max (°C) =4.59 Presiune = 1018 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 20 Stare = cer senin']
+Negresti_Oas: 10 \ vineri \ 12:3:2021 \ 19:19:41
+[' Răsarit = 06:45:36 Apus = 18:26:37 Min (°C) = -0.29 Max (°C) =3.71 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 25-50%']
+Negresti_Oas: 10 \ sâmbătă \ 13:3:2021 \ 19:19:57
+[' Răsarit = 06:43:35 Apus = 18:28:05 Min (°C) = 1.94 Max (°C) =9.79 Presiune = 1012 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 50-85%']
+Negresti_Oas: 10 \ duminică \ 14:3:2021 \ 19:22:19
+[' Răsarit = 06:41:32 Apus = 18:29:32 Min (°C) = 3.63 Max (°C) =7.8 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = nori 85-100%']
+Negresti_Oas: 11 \ luni \ 15:3:2021 \ 19:21:44
+[' Răsarit = 06:39:30 Apus = 18:31:00 Min (°C) = 3.59 Max (°C) =6.37 Presiune = 1000 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ploaie ușoară']
+Negresti_Oas: 11 \ marți \ 16:3:2021 \ 19:20:19
+[' Răsarit = 06:37:27 Apus = 18:32:27 Min (°C) = 3.14 Max (°C) =7.52 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 85-100%']
+Negresti_Oas: 11 \ miercuri \ 17:3:2021 \ 19:20:43
+[' Răsarit = 06:35:24 Apus = 18:33:54 Min (°C) = 2.46 Max (°C) =7.28 Presiune = 1008 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = nori 50-85%']
+Negresti_Oas: 11 \ joi \ 18:3:2021 \ 19:19:56
+[' Răsarit = 06:33:21 Apus = 18:35:20 Min (°C) = 1.01 Max (°C) =6.73 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 330 Stare = nori 50-85%']
+Negresti_Oas: 11 \ vineri \ 19:3:2021 \ 19:17:22
+[' Răsarit = 06:31:18 Apus = 18:36:47 Min (°C) = 0 Max (°C) =4.6 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 240 Stare = nori 10-25%']
+Negresti_Oas: 11 \ sâmbătă \ 20:3:2021 \ 19:19:57
+[' Răsarit = 06:29:14 Apus = 18:38:13 Min (°C) = -2.17 Max (°C) =4.49 Presiune = 1020 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 11 \ duminică \ 21:3:2021 \ 19:15:06
+[' Răsarit = 06:27:11 Apus = 18:39:39 Min (°C) = -2.29 Max (°C) =6.05 Presiune = 1011 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Negresti_Oas: 12 \ luni \ 22:3:2021 \ 19:20:20
+[' Răsarit = 06:25:07 Apus = 18:41:05 Min (°C) = -1.75 Max (°C) =5.72 Presiune = 1010 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = cer senin']
+Negresti_Oas: 12 \ marți \ 23:3:2021 \ 19:22:13
+[' Răsarit = 06:23:04 Apus = 18:42:31 Min (°C) = -3.06 Max (°C) =6.52 Presiune = 1014 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 50-85%']
+Negresti_Oas: 12 \ miercuri \ 24:3:2021 \ 19:20:41
+[' Răsarit = 06:21:00 Apus = 18:43:57 Min (°C) = -2.86 Max (°C) =5.88 Presiune = 1019 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Negresti_Oas: 12 \ joi \ 25:3:2021 \ 19:20:45
+[' Răsarit = 06:18:56 Apus = 18:45:23 Min (°C) = -2.27 Max (°C) =7.91 Presiune = 1019 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 230 Stare = cer senin']
+Negresti_Oas: 12 \ vineri \ 26:3:2021 \ 19:25:35
+[' Răsarit = 06:16:53 Apus = 18:46:48 Min (°C) = -1.19 Max (°C) =10.02 Presiune = 1023 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 12 \ sâmbătă \ 27:3:2021 \ 19:25:19
+[' Răsarit = 06:14:49 Apus = 18:48:14 Min (°C) = 2.46 Max (°C) =13.31 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 20 Stare = nori 10-25%']
+Negresti_Oas: 12 \ duminică \ 28:3:2021 \ 19:20:56
+[' Răsarit = 07:12:46 Apus = 19:49:40 Min (°C) = 3.84 Max (°C) =9.81 Presiune = 1030 Umiditate (%) = 43 Index UV = 0.12 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = nori 10-25%']
+Negresti_Oas: 13 \ luni \ 29:3:2021 \ 19:19:49
+[' Răsarit = 07:10:43 Apus = 19:51:05 Min (°C) = 1.43 Max (°C) =11.27 Presiune = 1031 Umiditate (%) = 43 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = cer senin']
+Negresti_Oas: 13 \ marți \ 30:3:2021 \ 19:18:46
+[' Răsarit = 07:08:40 Apus = 19:52:30 Min (°C) = 5.43 Max (°C) =14 Presiune = 1028 Umiditate (%) = 47 Index UV = 0.04 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Negresti_Oas: 13 \ miercuri \ 31:3:2021 \ 19:18:54
+[' Răsarit = 07:06:37 Apus = 19:53:56 Min (°C) = 8.01 Max (°C) =16.07 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.15 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = cer senin']
+Negresti_Oas: 13 \ joi \ 01:4:2021 \ 19:19:18
+[' Răsarit = 07:04:35 Apus = 19:55:21 Min (°C) = 8.37 Max (°C) =19 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.04 Viteza vântului = 0.29 Unghiul vântului = 140 Stare = nori 10-25%']
+Negresti_Oas: 13 \ vineri \ 02:4:2021 \ 19:22:11
+[' Răsarit = 07:02:33 Apus = 19:56:47 Min (°C) = 6.14 Max (°C) =14.46 Presiune = 1009 Umiditate (%) = 71 Index UV = 0.15 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 25-50%']
+Negresti_Oas: 13 \ sâmbătă \ 03:4:2021 \ 20:43:49
+[' Răsarit = 07:00:31 Apus = 19:58:12 Min (°C) = 3.65 Max (°C) =9.72 Presiune = 1012 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = nori 50-85%']
+Negresti_Oas: 13 \ duminică \ 04:4:2021 \ 20:22:30
+[' Răsarit = 06:58:30 Apus = 19:59:38 Min (°C) = 1.34 Max (°C) =9.61 Presiune = 1015 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 85-100%']
+Negresti_Oas: 14 \ luni \ 05:4:2021 \ 14:50:48
+[' Răsarit = 06:56:29 Apus = 20:01:03 Min (°C) = -0.59 Max (°C) =10.55 Presiune = 1011 Umiditate (%) = 43 Index UV = 3.26 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 25-50%']
+Negresti_Oas: 14 \ luni \ 05:4:2021 \ 19:20:40
+[' Răsarit = 06:56:29 Apus = 20:01:03 Min (°C) = -0.59 Max (°C) =10.88 Presiune = 1008 Umiditate (%) = 40 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = cer senin']
+Negresti_Oas: 14 \ marți \ 06:4:2021 \ 20:25:14
+[' Răsarit = 06:54:28 Apus = 20:02:28 Min (°C) = 1.09 Max (°C) =7.5 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 85-100%']
+Negresti_Oas: 14 \ miercuri \ 07:4:2021 \ 19:19:21
+[' Răsarit = 06:52:28 Apus = 20:03:54 Min (°C) = -1.14 Max (°C) =6.24 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.17 Viteza vântului = 6.17 Unghiul vântului = 260 Stare = nori 25-50%']
+Negresti_Oas: 14 \ joi \ 08:4:2021 \ 19:19:26
+[' Răsarit = 06:50:29 Apus = 20:05:19 Min (°C) = -2.71 Max (°C) =6.26 Presiune = 1021 Umiditate (%) = 87 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
+Negresti_Oas: 14 \ vineri \ 09:4:2021 \ 19:19:32
+[' Răsarit = 06:48:30 Apus = 20:06:45 Min (°C) = -1.51 Max (°C) =10.69 Presiune = 1026 Umiditate (%) = 37 Index UV = 0.21 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Negresti_Oas: 14 \ sâmbătă \ 10:4:2021 \ 19:19:05
+[' Răsarit = 06:46:32 Apus = 20:08:11 Min (°C) = 1.36 Max (°C) =16.49 Presiune = 1021 Umiditate (%) = 27 Index UV = 0.22 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Negresti_Oas: 14 \ duminică \ 11:4:2021 \ 19:20:45
+[' Răsarit = 06:44:34 Apus = 20:09:36 Min (°C) = 4.71 Max (°C) =19 Presiune = 1020 Umiditate (%) = 26 Index UV = 0.23 Viteza vântului = 1.54 Unghiul vântului = 150 Stare = nori 10-25%']
+Negresti_Oas: 15 \ luni \ 12:4:2021 \ 22:04:55
+[' Răsarit = 06:42:37 Apus = 20:11:02 Min (°C) = 9.75 Max (°C) =18.68 Presiune = 1016 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 25-50%']
+Negresti_Oas: 15 \ marți \ 13:4:2021 \ 19:20:32
+[' Răsarit = 06:40:41 Apus = 20:12:28 Min (°C) = 7.77 Max (°C) =16.04 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.07 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = ploaie ușoară']
+Negresti_Oas: 15 \ miercuri \ 14:4:2021 \ 19:20:26
+[' Răsarit = 06:38:45 Apus = 20:13:54 Min (°C) = 2.79 Max (°C) =6.2 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.04 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 85-100%']
+Negresti_Oas: 15 \ joi \ 15:4:2021 \ 19:22:01
+[' Răsarit = 06:36:50 Apus = 20:15:20 Min (°C) = 1.45 Max (°C) =5.38 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 50-85%']
+Negresti_Oas: 15 \ vineri \ 16:4:2021 \ 19:19:58
+[' Răsarit = 06:34:56 Apus = 20:16:45 Min (°C) = 2.14 Max (°C) =6.39 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.12 Viteza vântului = 5.14 Unghiul vântului = 250 Stare = ploaie ușoară']
+Negresti_Oas: 15 \ sâmbătă \ 17:4:2021 \ 19:19:50
+[' Răsarit = 06:33:03 Apus = 20:18:11 Min (°C) = 0.71 Max (°C) =11.77 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.27 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 10-25%']
+Negresti_Oas: 15 \ duminică \ 18:4:2021 \ 19:19:12
+[' Răsarit = 06:31:10 Apus = 20:19:37 Min (°C) = 3.68 Max (°C) =12.73 Presiune = 1016 Umiditate (%) = 81 Index UV = 0.13 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 50-85%']
+Negresti_Oas: 16 \ luni \ 19:4:2021 \ 19:20:03
+[' Răsarit = 06:29:18 Apus = 20:21:03 Min (°C) = 6.57 Max (°C) =10.38 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 210 Stare = nori 10-25%']
+Negresti_Oas: 16 \ marți \ 20:4:2021 \ 19:19:31
+[' Răsarit = 06:27:28 Apus = 20:22:29 Min (°C) = 4.94 Max (°C) =11.43 Presiune = 1011 Umiditate (%) = 71 Index UV = 0.22 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = cer senin']
+Negresti_Oas: 16 \ miercuri \ 21:4:2021 \ 19:19:31
+[' Răsarit = 06:25:38 Apus = 20:23:55 Min (°C) = 3.9 Max (°C) =12.5 Presiune = 1016 Umiditate (%) = 76 Index UV = 0.29 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = nori 10-25%']
+Negresti_Oas: 16 \ joi \ 22:4:2021 \ 19:20:04
+[' Răsarit = 06:23:49 Apus = 20:25:21 Min (°C) = 6 Max (°C) =13.51 Presiune = 1015 Umiditate (%) = 76 Index UV = 0.27 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = ploaie ușoară']
+Negresti_Oas: 16 \ vineri \ 23:4:2021 \ 19:19:23
+[' Răsarit = 06:22:02 Apus = 20:26:47 Min (°C) = 5.72 Max (°C) =12.15 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.32 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = nori 25-50%']
+Negresti_Oas: 16 \ sâmbătă \ 24:4:2021 \ 19:19:30
+[' Răsarit = 06:20:15 Apus = 20:28:13 Min (°C) = 2.16 Max (°C) =12.85 Presiune = 1021 Umiditate (%) = 35 Index UV = 0.38 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = nori 50-85%']
+Negresti_Oas: 16 \ duminică \ 25:4:2021 \ 19:19:48
+[' Răsarit = 06:18:30 Apus = 20:29:39 Min (°C) = 3.97 Max (°C) =12.68 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.28 Viteza vântului = 0.51 Unghiul vântului = 230 Stare = ploaie ușoară']
+Negresti_Oas: 17 \ luni \ 26:4:2021 \ 19:19:22
+[' Răsarit = 06:16:45 Apus = 20:31:05 Min (°C) = 0.8 Max (°C) =10.19 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.32 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = cer senin']
+Negresti_Oas: 17 \ marți \ 27:4:2021 \ 19:21:05
+[' Răsarit = 06:15:02 Apus = 20:32:30 Min (°C) = 0.77 Max (°C) =12.34 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.32 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']
+Negresti_Oas: 17 \ miercuri \ 28:4:2021 \ 19:19:33
+[' Răsarit = 06:13:20 Apus = 20:33:56 Min (°C) = 2.66 Max (°C) =16.49 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.4 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = nori 10-25%']
+Negresti_Oas: 17 \ joi \ 29:4:2021 \ 19:11:58
+[' Răsarit = 06:11:39 Apus = 20:35:21 Min (°C) = 9.44 Max (°C) =19.49 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.28 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 25-50%']
+Negresti_Oas: 17 \ joi \ 29:4:2021 \ 19:29:46
+[' Răsarit = 06:11:39 Apus = 20:35:21 Min (°C) = 9.44 Max (°C) =20 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.28 Viteza vântului = 2.06 Unghiul vântului = 190 Stare = nori 10-25%']
+Negresti_Oas: 17 \ vineri \ 30:4:2021 \ 19:19:28
+[' Răsarit = 06:10:00 Apus = 20:36:47 Min (°C) = 10.54 Max (°C) =16.45 Presiune = 1011 Umiditate (%) = 94 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = nori 25-50%']
+Negresti_Oas: 17 \ sâmbătă \ 01:5:2021 \ 19:20:45
+[' Răsarit = 06:08:21 Apus = 20:38:12 Min (°C) = 11.17 Max (°C) =21.26 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.41 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = nori 50-85%']
+Negresti_Oas: 17 \ duminică \ 02:5:2021 \ 20:27:11
+[' Răsarit = 06:06:44 Apus = 20:39:37 Min (°C) = 12.65 Max (°C) =19.32 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.08 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 10-25%']
+Negresti_Oas: 18 \ luni \ 03:5:2021 \ 19:19:42
+[' Răsarit = 06:05:09 Apus = 20:41:01 Min (°C) = 6.75 Max (°C) =12.33 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.46 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = nori 25-50%']
+Negresti_Oas: 18 \ marți \ 04:5:2021 \ 19:21:56
+[' Răsarit = 06:03:35 Apus = 20:42:25 Min (°C) = 3.09 Max (°C) =17.58 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.49 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = cer senin']
+Negresti_Oas: 18 \ miercuri \ 05:5:2021 \ 19:19:27
+[' Răsarit = 06:02:02 Apus = 20:43:49 Min (°C) = 5.88 Max (°C) =21 Presiune = 1005 Umiditate (%) = 32 Index UV = 0.42 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Negresti_Oas: 18 \ joi \ 06:5:2021 \ 19:20:32
+[' Răsarit = 06:00:31 Apus = 20:45:13 Min (°C) = 5.27 Max (°C) =15 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.42 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Negresti_Oas: 18 \ vineri \ 07:5:2021 \ 19:19:02
+[' Răsarit = 05:59:01 Apus = 20:46:36 Min (°C) = 5.81 Max (°C) =11.07 Presiune = 1010 Umiditate (%) = 93 Index UV = 0.13 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = ploaie moderată']
+Negresti_Oas: 18 \ sâmbătă \ 08:5:2021 \ 19:19:39
+[' Răsarit = 05:57:33 Apus = 20:47:59 Min (°C) = 3.69 Max (°C) =12.85 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.48 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = nori 50-85%']
+Negresti_Oas: 18 \ duminică \ 09:5:2021 \ 19:19:17
+[' Răsarit = 05:56:07 Apus = 20:49:21 Min (°C) = 3.69 Max (°C) =19.49 Presiune = 1022 Umiditate (%) = 32 Index UV = 0.58 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Negresti_Oas: 19 \ luni \ 10:5:2021 \ 19:19:28
+[' Răsarit = 05:54:42 Apus = 20:50:43 Min (°C) = 6.94 Max (°C) =26 Presiune = 1017 Umiditate (%) = 29 Index UV = 0.6 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = cer senin']
+Negresti_Oas: 19 \ marți \ 11:5:2021 \ 19:20:23
+[' Răsarit = 05:53:19 Apus = 20:52:04 Min (°C) = 11 Max (°C) =28 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.61 Viteza vântului = 1.03 Unghiul vântului = 200 Stare = cer senin']
+Negresti_Oas: 19 \ miercuri \ 12:5:2021 \ 19:19:37
+[' Răsarit = 05:51:58 Apus = 20:53:25 Min (°C) = 12.75 Max (°C) =22.82 Presiune = 1004 Umiditate (%) = 74 Index UV = 0.56 Viteza vântului = 1.43 Unghiul vântului = 167 Stare = nori 25-50%']
+Negresti_Oas: 19 \ joi \ 13:5:2021 \ 19:20:34
+[' Răsarit = 05:50:38 Apus = 20:54:45 Min (°C) = 11.31 Max (°C) =15.66 Presiune = 1004 Umiditate (%) = 92 Index UV = 0.48 Viteza vântului = 1.98 Unghiul vântului = 230 Stare = nori 85-100%']
+Negresti_Oas: 19 \ vineri \ 14:5:2021 \ 19:20:17
+[' Răsarit = 05:49:20 Apus = 20:56:04 Min (°C) = 10.53 Max (°C) =14.29 Presiune = 1009 Umiditate (%) = 82 Index UV = 0.05 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = nori 50-85%']
+Negresti_Oas: 19 \ sâmbătă \ 15:5:2021 \ 19:19:45
+[' Răsarit = 05:48:04 Apus = 20:57:22 Min (°C) = 9.74 Max (°C) =20.36 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.63 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 50-85%']
+Negresti_Oas: 19 \ duminică \ 16:5:2021 \ 19:20:21
+[' Răsarit = 05:46:50 Apus = 20:58:40 Min (°C) = 9.58 Max (°C) =18.13 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.57 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 50-85%']
+Negresti_Oas: 20 \ luni \ 17:5:2021 \ 19:20:57
+[' Răsarit = 05:45:37 Apus = 20:59:57 Min (°C) = 9.93 Max (°C) =20 Presiune = 1003 Umiditate (%) = 56 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 10-25%']
+Negresti_Oas: 20 \ marți \ 18:5:2021 \ 19:20:26
+[' Răsarit = 05:44:27 Apus = 21:01:13 Min (°C) = 9.96 Max (°C) =11.99 Presiune = 1008 Umiditate (%) = 98 Index UV = 0.1 Viteza vântului = 4.6 Unghiul vântului = 288 Stare = ploaie ușoară']
+Negresti_Oas: 20 \ miercuri \ 19:5:2021 \ 19:19:11
+[' Răsarit = 05:43:18 Apus = 21:02:28 Min (°C) = 8.71 Max (°C) =16.94 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.56 Viteza vântului = 1.23 Unghiul vântului = 319 Stare = nori 85-100%']
+Negresti_Oas: 20 \ joi \ 20:5:2021 \ 19:19:49
+[' Răsarit = 05:42:12 Apus = 21:03:42 Min (°C) = 8.23 Max (°C) =15.31 Presiune = 1011 Umiditate (%) = 76 Index UV = 0.51 Viteza vântului = 2.33 Unghiul vântului = 7 Stare = nori 85-100%']
+Negresti_Oas: 20 \ vineri \ 21:5:2021 \ 19:20:23
+[' Răsarit = 05:41:07 Apus = 21:04:55 Min (°C) = 6.79 Max (°C) =19.6 Presiune = 1016 Umiditate (%) = 65 Index UV = 0.69 Viteza vântului = 1.05 Unghiul vântului = 228 Stare = nori 25-50%']
+Negresti_Oas: 20 \ sâmbătă \ 22:5:2021 \ 19:20:36
+[' Răsarit = 05:40:05 Apus = 21:06:07 Min (°C) = 9.22 Max (°C) =17.87 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.44 Viteza vântului = 2.29 Unghiul vântului = 137 Stare = nori 85-100%']
+Negresti_Oas: 20 \ duminică \ 23:5:2021 \ 19:20:42
+[' Răsarit = 05:39:05 Apus = 21:07:17 Min (°C) = 9.56 Max (°C) =20.55 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.43 Viteza vântului = 1.95 Unghiul vântului = 28 Stare = nori 85-100%']
+Negresti_Oas: 21 \ luni \ 24:5:2021 \ 19:19:25
+[' Răsarit = 05:38:07 Apus = 21:08:27 Min (°C) = 9.16 Max (°C) =19.59 Presiune = 1021 Umiditate (%) = 77 Index UV = 0.5 Viteza vântului = 0.55 Unghiul vântului = 214 Stare = nori 50-85%']
+Negresti_Oas: 21 \ marți \ 25:5:2021 \ 19:19:28
+[' Răsarit = 05:37:11 Apus = 21:09:35 Min (°C) = 12.76 Max (°C) =23.07 Presiune = 1015 Umiditate (%) = 88 Index UV = 0.77 Viteza vântului = 2.56 Unghiul vântului = 237 Stare = nori 25-50%']
+Negresti_Oas: 21 \ miercuri \ 26:5:2021 \ 19:22:10
+[' Răsarit = 05:36:17 Apus = 21:10:42 Min (°C) = 9.77 Max (°C) =20.66 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.75 Viteza vântului = 1.42 Unghiul vântului = 296 Stare = cer senin']
+Negresti_Oas: 21 \ joi \ 27:5:2021 \ 19:19:36
+[' Răsarit = 05:35:26 Apus = 21:11:47 Min (°C) = 10.69 Max (°C) =22.61 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.73 Viteza vântului = 1.77 Unghiul vântului = 292 Stare = nori 25-50%']
+Negresti_Oas: 21 \ vineri \ 28:5:2021 \ 19:19:35
+[' Răsarit = 05:34:37 Apus = 21:12:51 Min (°C) = 12.24 Max (°C) =20.61 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.57 Viteza vântului = 2.61 Unghiul vântului = 334 Stare = nori 85-100%']
+Negresti_Oas: 21 \ sâmbătă \ 29:5:2021 \ 19:19:14
+[' Răsarit = 05:33:50 Apus = 21:13:54 Min (°C) = 9.37 Max (°C) =16.61 Presiune = 1015 Umiditate (%) = 82 Index UV = 0.63 Viteza vântului = 2.86 Unghiul vântului = 285 Stare = nori 85-100%']
+Negresti_Oas: 21 \ duminică \ 30:5:2021 \ 19:18:59
+[' Răsarit = 05:33:05 Apus = 21:14:55 Min (°C) = 8.99 Max (°C) =13.14 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.29 Viteza vântului = 2.63 Unghiul vântului = 325 Stare = nori 50-85%']
+Negresti_Oas: 22 \ marți \ 01:6:2021 \ 19:20:27
+[' Răsarit = 05:31:43 Apus = 21:16:51 Min (°C) = 6.93 Max (°C) =17.94 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.67 Viteza vântului = 1.18 Unghiul vântului = 349 Stare = nori 50-85%']
+Negresti_Oas: 22 \ miercuri \ 02:6:2021 \ 19:16:59
+[' Răsarit = 05:31:06 Apus = 21:17:47 Min (°C) = 7.79 Max (°C) =18.55 Presiune = 1020 Umiditate (%) = 62 Index UV = 0.45 Viteza vântului = 3.83 Unghiul vântului = 40 Stare = nori 85-100%']
+Negresti_Oas: 22 \ joi \ 03:6:2021 \ 19:17:27
+[' Răsarit = 05:30:31 Apus = 21:18:41 Min (°C) = 9.15 Max (°C) =21.63 Presiune = 1023 Umiditate (%) = 61 Index UV = 0.77 Viteza vântului = 1.38 Unghiul vântului = 32 Stare = nori 50-85%']
+Negresti_Oas: 22 \ vineri \ 04:6:2021 \ 19:26:10
+[' Răsarit = 05:29:59 Apus = 21:19:33 Min (°C) = 9.99 Max (°C) =23.61 Presiune = 1023 Umiditate (%) = 70 Index UV = 0.79 Viteza vântului = 1.66 Unghiul vântului = 321 Stare = nori 25-50%']
+Negresti_Oas: 22 \ sâmbătă \ 05:6:2021 \ 19:21:27
+[' Răsarit = 05:29:29 Apus = 21:20:23 Min (°C) = 11.37 Max (°C) =18.55 Presiune = 1019 Umiditate (%) = 87 Index UV = 0.26 Viteza vântului = 0.41 Unghiul vântului = 70 Stare = nori 85-100%']
+Negresti_Oas: 22 \ duminică \ 06:6:2021 \ 19:20:06
+[' Răsarit = 05:29:01 Apus = 21:21:12 Min (°C) = 10.03 Max (°C) =21.48 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.84 Viteza vântului = 1.86 Unghiul vântului = 304 Stare = cer senin']
+Negresti_Oas: 23 \ luni \ 07:6:2021 \ 19:19:54
+[' Răsarit = 05:28:36 Apus = 21:21:58 Min (°C) = 11.37 Max (°C) =23.02 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.73 Viteza vântului = 1.74 Unghiul vântului = 330 Stare = nori 50-85%']
+Negresti_Oas: 23 \ marți \ 08:6:2021 \ 19:19:08
+[' Răsarit = 05:28:14 Apus = 21:22:42 Min (°C) = 12.08 Max (°C) =26.61 Presiune = 1014 Umiditate (%) = 69 Index UV = 0.85 Viteza vântului = 1.54 Unghiul vântului = 328 Stare = nori 10-25%']
+Negresti_Oas: 23 \ miercuri \ 09:6:2021 \ 19:20:34
+[' Răsarit = 05:27:54 Apus = 21:23:24 Min (°C) = 13.19 Max (°C) =25.61 Presiune = 1013 Umiditate (%) = 69 Index UV = 0.82 Viteza vântului = 2.21 Unghiul vântului = 329 Stare = nori 25-50%']
+Negresti_Oas: 23 \ joi \ 10:6:2021 \ 19:19:21
+[' Răsarit = 05:27:37 Apus = 21:24:04 Min (°C) = 12.54 Max (°C) =23.58 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.8 Viteza vântului = 2.25 Unghiul vântului = 343 Stare = nori 85-100%']
+Negresti_Oas: 23 \ vineri \ 11:6:2021 \ 19:19:27
+[' Răsarit = 05:27:22 Apus = 21:24:42 Min (°C) = 12.16 Max (°C) =25.58 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.66 Viteza vântului = 1.12 Unghiul vântului = 304 Stare = nori 50-85%']
+Negresti_Oas: 23 \ sâmbătă \ 12:6:2021 \ 19:19:41
+[' Răsarit = 05:27:10 Apus = 21:25:17 Min (°C) = 12.43 Max (°C) =25.59 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.86 Viteza vântului = 1.49 Unghiul vântului = 296 Stare = nori 10-25%']
+Negresti_Oas: 23 \ duminică \ 13:6:2021 \ 19:25:22
+[' Răsarit = 05:27:00 Apus = 21:25:50 Min (°C) = 13.25 Max (°C) =19.05 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.77 Viteza vântului = 5.59 Unghiul vântului = 321 Stare = nori 10-25%']
+Negresti_Oas: 24 \ luni \ 14:6:2021 \ 19:19:36
+[' Răsarit = 05:26:53 Apus = 21:26:21 Min (°C) = 10.9 Max (°C) =15.77 Presiune = 1018 Umiditate (%) = 85 Index UV = 0.79 Viteza vântului = 2.02 Unghiul vântului = 348 Stare = nori 85-100%']
+Negresti_Oas: 24 \ marți \ 15:6:2021 \ 19:21:55
+[' Răsarit = 05:26:49 Apus = 21:26:49 Min (°C) = 10.67 Max (°C) =21.91 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.85 Viteza vântului = 2.15 Unghiul vântului = 306 Stare = nori 10-25%']
+Negresti_Oas: 24 \ miercuri \ 16:6:2021 \ 19:21:12
+[' Răsarit = 05:26:47 Apus = 21:27:15 Min (°C) = 12.91 Max (°C) =27.61 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.85 Viteza vântului = 1.95 Unghiul vântului = 37 Stare = nori 25-50%']
+Negresti_Oas: 24 \ joi \ 17:6:2021 \ 19:20:04
+[' Răsarit = 05:26:48 Apus = 21:27:39 Min (°C) = 14.14 Max (°C) =27.2 Presiune = 1017 Umiditate (%) = 66 Index UV = 0.74 Viteza vântului = 1.01 Unghiul vântului = 355 Stare = nori 85-100%']
+Negresti_Oas: 24 \ vineri \ 18:6:2021 \ 19:20:37
+[' Răsarit = 05:26:51 Apus = 21:28:00 Min (°C) = 15.72 Max (°C) =29.61 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.9 Viteza vântului = 3.91 Unghiul vântului = 46 Stare = nori 25-50%']
+Negresti_Oas: 24 \ sâmbătă \ 19:6:2021 \ 19:20:06
+[' Răsarit = 05:26:57 Apus = 21:28:19 Min (°C) = 16.33 Max (°C) =25.66 Presiune = 1014 Umiditate (%) = 73 Index UV = 0.74 Viteza vântului = 1.88 Unghiul vântului = 152 Stare = nori 25-50%']
+Negresti_Oas: 24 \ duminică \ 20:6:2021 \ 19:20:49
+[' Răsarit = 05:27:05 Apus = 21:28:35 Min (°C) = 14.96 Max (°C) =26.61 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.54 Viteza vântului = 1.56 Unghiul vântului = 55 Stare = nori 85-100%']
+Negresti_Oas: 25 \ luni \ 21:6:2021 \ 19:21:26
+[' Răsarit = 05:27:16 Apus = 21:28:48 Min (°C) = 15.54 Max (°C) =28.55 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.89 Viteza vântului = 0.95 Unghiul vântului = 140 Stare = nori 25-50%']
+Negresti_Oas: 25 \ marți \ 22:6:2021 \ 19:20:59
+[' Răsarit = 05:27:30 Apus = 21:28:59 Min (°C) = 17.66 Max (°C) =31.61 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.91 Viteza vântului = 0.67 Unghiul vântului = 236 Stare = nori 85-100%']
+Negresti_Oas: 25 \ miercuri \ 23:6:2021 \ 19:20:03
+[' Răsarit = 05:27:46 Apus = 21:29:08 Min (°C) = 19.1 Max (°C) =33.61 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.89 Viteza vântului = 1.01 Unghiul vântului = 9 Stare = nori 10-25%']
+Negresti_Oas: 25 \ joi \ 24:6:2021 \ 19:20:40
+[' Răsarit = 05:28:04 Apus = 21:29:13 Min (°C) = 19.85 Max (°C) =34.61 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.93 Viteza vântului = 1.03 Unghiul vântului = 104 Stare = cer senin']
+Negresti_Oas: 25 \ vineri \ 25:6:2021 \ 19:20:11
+[' Răsarit = 05:28:25 Apus = 21:29:17 Min (°C) = 21.3 Max (°C) =33.61 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.86 Viteza vântului = 1.38 Unghiul vântului = 256 Stare = nori 10-25%']
+Negresti_Oas: 25 \ sâmbătă \ 26:6:2021 \ 19:19:38
+[' Răsarit = 05:28:48 Apus = 21:29:17 Min (°C) = 16.63 Max (°C) =27.6 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.89 Viteza vântului = 1.33 Unghiul vântului = 354 Stare = cer senin']
+Negresti_Oas: 25 \ duminică \ 27:6:2021 \ 19:19:30
+[' Răsarit = 05:29:13 Apus = 21:29:15 Min (°C) = 14.98 Max (°C) =26.73 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.88 Viteza vântului = 1.76 Unghiul vântului = 308 Stare = nori 25-50%']
+Negresti_Oas: 26 \ luni \ 28:6:2021 \ 19:22:44
+[' Răsarit = 05:29:41 Apus = 21:29:10 Min (°C) = 15.97 Max (°C) =28.55 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.79 Viteza vântului = 1.86 Unghiul vântului = 321 Stare = nori 25-50%']
+Negresti_Oas: 26 \ marți \ 29:6:2021 \ 19:21:33
+[' Răsarit = 05:30:11 Apus = 21:29:03 Min (°C) = 17.31 Max (°C) =30.65 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.93 Viteza vântului = 1.14 Unghiul vântului = 113 Stare = nori 50-85%']
+Negresti_Oas: 26 \ miercuri \ 30:6:2021 \ 19:20:25
+[' Răsarit = 05:30:44 Apus = 21:28:53 Min (°C) = 18.6 Max (°C) =30.59 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.91 Viteza vântului = 2.52 Unghiul vântului = 167 Stare = ploaie intensă']
+Negresti_Oas: 26 \ joi \ 01:7:2021 \ 19:21:16
+[' Răsarit = 05:31:18 Apus = 21:28:41 Min (°C) = 17.47 Max (°C) =23.11 Presiune = 1010 Umiditate (%) = 71 Index UV = 0.68 Viteza vântului = 1.2 Unghiul vântului = 43 Stare = nori 50-85%']
+Negresti_Oas: 26 \ vineri \ 02:7:2021 \ 19:19:44
+[' Răsarit = 05:31:55 Apus = 21:28:25 Min (°C) = 14.33 Max (°C) =21.24 Presiune = 1011 Umiditate (%) = 82 Index UV = 0.62 Viteza vântului = 1 Unghiul vântului = 327 Stare = nori 85-100%']
+Negresti_Oas: 26 \ sâmbătă \ 03:7:2021 \ 19:20:00
+[' Răsarit = 05:32:34 Apus = 21:28:08 Min (°C) = 13.85 Max (°C) =18.55 Presiune = 1012 Umiditate (%) = 97 Index UV = 0.5 Viteza vântului = 0.9 Unghiul vântului = 201 Stare = nori 85-100%']
+Negresti_Oas: 26 \ duminică \ 04:7:2021 \ 19:19:36
+[' Răsarit = 05:33:15 Apus = 21:27:47 Min (°C) = 14.79 Max (°C) =21.72 Presiune = 1010 Umiditate (%) = 85 Index UV = 0.82 Viteza vântului = 1.51 Unghiul vântului = 308 Stare = nori 50-85%']
+Negresti_Oas: 27 \ luni \ 05:7:2021 \ 19:20:06
+[' Răsarit = 05:33:58 Apus = 21:27:24 Min (°C) = 13.95 Max (°C) =26.72 Presiune = 1010 Umiditate (%) = 69 Index UV = 0.83 Viteza vântului = 2.14 Unghiul vântului = 314 Stare = nori 85-100%']
+Negresti_Oas: 27 \ marți \ 06:7:2021 \ 19:20:56
+[' Răsarit = 05:34:43 Apus = 21:26:59 Min (°C) = 15.87 Max (°C) =28.56 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.89 Viteza vântului = 1.61 Unghiul vântului = 326 Stare = nori 10-25%']
+Negresti_Oas: 27 \ miercuri \ 07:7:2021 \ 19:19:36
+[' Răsarit = 05:35:30 Apus = 21:26:30 Min (°C) = 17.9 Max (°C) =31.72 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.91 Viteza vântului = 0.91 Unghiul vântului = 297 Stare = cer senin']
+Negresti_Oas: 27 \ joi \ 08:7:2021 \ 19:20:58
+[' Răsarit = 05:36:18 Apus = 21:26:00 Min (°C) = 19.51 Max (°C) =30.67 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.9 Viteza vântului = 1.5 Unghiul vântului = 180 Stare = cer senin']
+Negresti_Oas: 27 \ sâmbătă \ 10:7:2021 \ 19:19:36
+[' Răsarit = 05:38:01 Apus = 21:24:51 Min (°C) = 18.67 Max (°C) =28.82 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.56 Viteza vântului = 1.8 Unghiul vântului = 70 Stare = nori 25-50%']
+Negresti_Oas: 27 \ duminică \ 11:7:2021 \ 19:19:50
+[' Răsarit = 05:38:56 Apus = 21:24:13 Min (°C) = 17.68 Max (°C) =30.65 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.82 Viteza vântului = 0.57 Unghiul vântului = 274 Stare = cer senin']
+Negresti_Oas: 28 \ luni \ 12:7:2021 \ 19:20:35
+[' Răsarit = 05:39:51 Apus = 21:23:32 Min (°C) = 17.16 Max (°C) =31.61 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.81 Viteza vântului = 0.9 Unghiul vântului = 189 Stare = cer senin']
+Negresti_Oas: 28 \ marți \ 13:7:2021 \ 19:20:27
+[' Răsarit = 05:40:49 Apus = 21:22:49 Min (°C) = 18.31 Max (°C) =30.68 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.86 Viteza vântului = 1.26 Unghiul vântului = 160 Stare = cer senin']
+Negresti_Oas: 28 \ miercuri \ 14:7:2021 \ 19:19:52
+[' Răsarit = 05:41:48 Apus = 21:22:04 Min (°C) = 20.41 Max (°C) =32.87 Presiune = 1010 Umiditate (%) = 50 Index UV = 0.84 Viteza vântului = 3.35 Unghiul vântului = 127 Stare = cer senin']
+Negresti_Oas: 28 \ joi \ 15:7:2021 \ 19:19:32
+[' Răsarit = 05:42:48 Apus = 21:21:16 Min (°C) = 20.81 Max (°C) =31.14 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.82 Viteza vântului = 0.54 Unghiul vântului = 286 Stare = nori 10-25%']
+Negresti_Oas: 28 \ vineri \ 16:7:2021 \ 19:19:56
+[' Răsarit = 05:43:50 Apus = 21:20:26 Min (°C) = 18.14 Max (°C) =29.61 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.67 Viteza vântului = 1.04 Unghiul vântului = 13 Stare = nori 25-50%']
+Negresti_Oas: 28 \ sâmbătă \ 17:7:2021 \ 19:20:25
+[' Răsarit = 05:44:53 Apus = 21:19:33 Min (°C) = 18.85 Max (°C) =31.73 Presiune = 1009 Umiditate (%) = 52 Index UV = 0.77 Viteza vântului = 1.12 Unghiul vântului = 329 Stare = cer senin']
+Negresti_Oas: 28 \ duminică \ 18:7:2021 \ 19:20:45
+[' Răsarit = 05:45:58 Apus = 21:18:39 Min (°C) = 19.85 Max (°C) =31.46 Presiune = 1007 Umiditate (%) = 48 Index UV = 0.77 Viteza vântului = 0.76 Unghiul vântului = 37 Stare = cer senin']
+Negresti_Oas: 29 \ luni \ 19:7:2021 \ 19:20:03
+[' Răsarit = 05:47:04 Apus = 21:17:42 Min (°C) = 19.58 Max (°C) =29.29 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.46 Viteza vântului = 2.43 Unghiul vântului = 309 Stare = nori 85-100%']
+Negresti_Oas: 29 \ marți \ 20:7:2021 \ 19:20:06
+[' Răsarit = 05:48:11 Apus = 21:16:43 Min (°C) = 17.42 Max (°C) =20.59 Presiune = 1012 Umiditate (%) = 96 Index UV = 0.77 Viteza vântului = 2.3 Unghiul vântului = 336 Stare = ploaie ușoară']
+Negresti_Oas: 29 \ miercuri \ 21:7:2021 \ 19:19:24
+[' Răsarit = 05:49:19 Apus = 21:15:41 Min (°C) = 14.43 Max (°C) =22.62 Presiune = 1018 Umiditate (%) = 85 Index UV = 0.72 Viteza vântului = 1.73 Unghiul vântului = 5 Stare = nori 85-100%']
+Negresti_Oas: 29 \ joi \ 22:7:2021 \ 19:19:28
+[' Răsarit = 05:50:28 Apus = 21:14:38 Min (°C) = 14.67 Max (°C) =24.1 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.69 Viteza vântului = 1.74 Unghiul vântului = 335 Stare = nori 25-50%']
+Negresti_Oas: 29 \ vineri \ 23:7:2021 \ 19:19:41
+[' Răsarit = 05:51:38 Apus = 21:13:33 Min (°C) = 14.71 Max (°C) =25.61 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.66 Viteza vântului = 0.86 Unghiul vântului = 338 Stare = nori 50-85%']
+Negresti_Oas: 29 \ sâmbătă \ 24:7:2021 \ 19:26:51
+[' Răsarit = 05:52:50 Apus = 21:12:25 Min (°C) = 15.8 Max (°C) =27.61 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.68 Viteza vântului = 0.91 Unghiul vântului = 99 Stare = nori 50-85%']
+Negresti_Oas: 29 \ duminică \ 25:7:2021 \ 19:20:23
+[' Răsarit = 05:54:02 Apus = 21:11:16 Min (°C) = 16.17 Max (°C) =27.86 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.68 Viteza vântului = 1.56 Unghiul vântului = 146 Stare = nori 25-50%']
+Negresti_Oas: 30 \ luni \ 26:7:2021 \ 19:20:18
+[' Răsarit = 05:55:15 Apus = 21:10:04 Min (°C) = 18.83 Max (°C) =30.72 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.64 Viteza vântului = 2.91 Unghiul vântului = 183 Stare = nori 50-85%']
+Negresti_Oas: 30 \ marți \ 27:7:2021 \ 19:22:09
+[' Răsarit = 05:56:29 Apus = 21:08:50 Min (°C) = 20.17 Max (°C) =32.63 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.64 Viteza vântului = 2.95 Unghiul vântului = 263 Stare = nori 25-50%']
+Negresti_Oas: 30 \ miercuri \ 28:7:2021 \ 19:22:36
+[' Răsarit = 05:57:44 Apus = 21:07:35 Min (°C) = 19.84 Max (°C) =31.8 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.64 Viteza vântului = 1.91 Unghiul vântului = 156 Stare = nori 50-85%']
+Negresti_Oas: 30 \ joi \ 29:7:2021 \ 19:21:29
+[' Răsarit = 05:58:59 Apus = 21:06:18 Min (°C) = 18.83 Max (°C) =29.29 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.62 Viteza vântului = 3.47 Unghiul vântului = 275 Stare = nori 10-25%']
+Negresti_Oas: 30 \ vineri \ 30:7:2021 \ 19:19:45
+[' Răsarit = 06:00:15 Apus = 21:04:59 Min (°C) = 18.26 Max (°C) =30.66 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.66 Viteza vântului = 0.49 Unghiul vântului = 144 Stare = cer senin']
+Negresti_Oas: 30 \ sâmbătă \ 31:7:2021 \ 19:19:31
+[' Răsarit = 06:01:32 Apus = 21:03:38 Min (°C) = 18.61 Max (°C) =31.78 Presiune = 1008 Umiditate (%) = 61 Index UV = 0.38 Viteza vântului = 2.18 Unghiul vântului = 112 Stare = nori 50-85%']
+Negresti_Oas: 30 \ duminică \ 01:8:2021 \ 19:20:09
+[' Răsarit = 06:02:49 Apus = 21:02:15 Min (°C) = 16.89 Max (°C) =30.91 Presiune = 1004 Umiditate (%) = 45 Index UV = 0.4 Viteza vântului = 4.95 Unghiul vântului = 126 Stare = ploaie ușoară']
+Negresti_Oas: 31 \ luni \ 02:8:2021 \ 19:19:16
+[' Răsarit = 06:04:07 Apus = 21:00:51 Min (°C) = 18.28 Max (°C) =26.97 Presiune = 1011 Umiditate (%) = 52 Index UV = 0.58 Viteza vântului = 4.04 Unghiul vântului = 306 Stare = cer senin']
+Negresti_Oas: 31 \ marți \ 03:8:2021 \ 19:19:55
+[' Răsarit = 06:05:25 Apus = 20:59:25 Min (°C) = 14.71 Max (°C) =26.58 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.56 Viteza vântului = 0.45 Unghiul vântului = 305 Stare = nori 50-85%']
+Negresti_Oas: 31 \ miercuri \ 04:8:2021 \ 19:17:58
+[' Răsarit = 06:06:44 Apus = 20:57:57 Min (°C) = 16.67 Max (°C) =27.93 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.26 Viteza vântului = 1.65 Unghiul vântului = 158 Stare = nori 85-100%']
+Negresti_Oas: 31 \ joi \ 05:8:2021 \ 19:16:44
+[' Răsarit = 06:08:03 Apus = 20:56:28 Min (°C) = 17.14 Max (°C) =30.32 Presiune = 1006 Umiditate (%) = 85 Index UV = 0.32 Viteza vântului = 2.94 Unghiul vântului = 133 Stare = ploaie moderată']
+Negresti_Oas: 31 \ vineri \ 06:8:2021 \ 19:19:47
+[' Răsarit = 06:09:23 Apus = 20:54:57 Min (°C) = 14.92 Max (°C) =19.59 Presiune = 1006 Umiditate (%) = 76 Index UV = 0.45 Viteza vântului = 1.75 Unghiul vântului = 336 Stare = nori 85-100%']
+Negresti_Oas: 31 \ sâmbătă \ 07:8:2021 \ 19:19:30
+[' Răsarit = 06:10:43 Apus = 20:53:25 Min (°C) = 12.7 Max (°C) =27.11 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.56 Viteza vântului = 0.41 Unghiul vântului = 93 Stare = nori 10-25%']
+Negresti_Oas: 31 \ duminică \ 08:8:2021 \ 19:19:20
+[' Răsarit = 06:12:03 Apus = 20:51:51 Min (°C) = 15.79 Max (°C) =31.05 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.54 Viteza vântului = 2.94 Unghiul vântului = 110 Stare = cer senin']
+Negresti_Oas: 32 \ luni \ 09:8:2021 \ 19:20:41
+[' Răsarit = 06:13:24 Apus = 20:50:16 Min (°C) = 18.86 Max (°C) =30.68 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.53 Viteza vântului = 3.4 Unghiul vântului = 344 Stare = nori 25-50%']
+Negresti_Oas: 32 \ marți \ 10:8:2021 \ 19:20:49
+[' Răsarit = 06:14:45 Apus = 20:48:39 Min (°C) = 16.96 Max (°C) =29.47 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.48 Viteza vântului = 1.59 Unghiul vântului = 9 Stare = cer senin']
+Negresti_Oas: 32 \ miercuri \ 11:8:2021 \ 19:16:28
+[' Răsarit = 06:16:05 Apus = 20:47:01 Min (°C) = 17.11 Max (°C) =30.59 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.35 Viteza vântului = 1.78 Unghiul vântului = 21 Stare = nori 50-85%']
+Negresti_Oas: 32 \ joi \ 12:8:2021 \ 19:18:01
+[' Răsarit = 06:17:27 Apus = 20:45:21 Min (°C) = 15.54 Max (°C) =27.3 Presiune = 1020 Umiditate (%) = 35 Index UV = 0.47 Viteza vântului = 2.92 Unghiul vântului = 319 Stare = nori 10-25%']
+Negresti_Oas: 32 \ vineri \ 13:8:2021 \ 19:16:35
+[' Răsarit = 06:18:48 Apus = 20:43:41 Min (°C) = 13.36 Max (°C) =27.7 Presiune = 1022 Umiditate (%) = 39 Index UV = 0.45 Viteza vântului = 1.22 Unghiul vântului = 354 Stare = nori 25-50%']
+Negresti_Oas: 32 \ sâmbătă \ 14:8:2021 \ 19:18:31
+[' Răsarit = 06:20:09 Apus = 20:41:59 Min (°C) = 15.62 Max (°C) =30.51 Presiune = 1019 Umiditate (%) = 39 Index UV = 0.47 Viteza vântului = 1.19 Unghiul vântului = 35 Stare = nori 10-25%']
+Negresti_Oas: 32 \ duminică \ 15:8:2021 \ 19:16:58
+[' Răsarit = 06:21:31 Apus = 20:40:15 Min (°C) = 18.36 Max (°C) =32.44 Presiune = 1013 Umiditate (%) = 35 Index UV = 0.38 Viteza vântului = 1.85 Unghiul vântului = 86 Stare = cer senin']
+Negresti_Oas: 33 \ luni \ 16:8:2021 \ 19:16:35
+[' Răsarit = 06:22:53 Apus = 20:38:31 Min (°C) = 17.93 Max (°C) =33.35 Presiune = 1010 Umiditate (%) = 70 Index UV = 0.17 Viteza vântului = 3.34 Unghiul vântului = 84 Stare = nori 50-85%']
+Negresti_Oas: 33 \ marți \ 17:8:2021 \ 19:17:06
+[' Răsarit = 06:24:14 Apus = 20:36:45 Min (°C) = 16.51 Max (°C) =29.86 Presiune = 1012 Umiditate (%) = 67 Index UV = 0.4 Viteza vântului = 2.88 Unghiul vântului = 292 Stare = ploaie ușoară']
+Negresti_Oas: 33 \ miercuri \ 18:8:2021 \ 19:16:52
+[' Răsarit = 06:25:36 Apus = 20:34:58 Min (°C) = 13.12 Max (°C) =21.9 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.38 Viteza vântului = 1 Unghiul vântului = 308 Stare = nori 85-100%']
+Negresti_Oas: 33 \ joi \ 19:8:2021 \ 19:16:35
+[' Răsarit = 06:26:58 Apus = 20:33:10 Min (°C) = 11.11 Max (°C) =23.66 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.39 Viteza vântului = 2.04 Unghiul vântului = 334 Stare = cer senin']
+Negresti_Oas: 33 \ vineri \ 20:8:2021 \ 19:16:44
+[' Răsarit = 06:28:19 Apus = 20:31:21 Min (°C) = 12.07 Max (°C) =26.48 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.39 Viteza vântului = 1.84 Unghiul vântului = 307 Stare = cer senin']
+Negresti_Oas: 33 \ sâmbătă \ 21:8:2021 \ 19:18:00
+[' Răsarit = 06:29:41 Apus = 20:29:31 Min (°C) = 13.51 Max (°C) =26.91 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.36 Viteza vântului = 2.44 Unghiul vântului = 25 Stare = nori 50-85%']
+Negresti_Oas: 33 \ duminică \ 22:8:2021 \ 19:16:56
+[' Răsarit = 06:31:03 Apus = 20:27:41 Min (°C) = 15.85 Max (°C) =26.82 Presiune = 1017 Umiditate (%) = 41 Index UV = 0.27 Viteza vântului = 3.04 Unghiul vântului = 35 Stare = nori 25-50%']
+Negresti_Oas: 34 \ luni \ 23:8:2021 \ 19:16:45
+[' Răsarit = 06:32:25 Apus = 20:25:49 Min (°C) = 16.09 Max (°C) =30.48 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.08 Viteza vântului = 2.35 Unghiul vântului = 277 Stare = nori 85-100%']
+Negresti_Oas: 34 \ marți \ 24:8:2021 \ 19:16:47
+[' Răsarit = 06:33:46 Apus = 20:23:56 Min (°C) = 16.48 Max (°C) =20.75 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.06 Viteza vântului = 1.6 Unghiul vântului = 123 Stare = nori 25-50%']
+Negresti_Oas: 34 \ miercuri \ 25:8:2021 \ 19:16:49
+[' Răsarit = 06:35:08 Apus = 20:22:02 Min (°C) = 13.68 Max (°C) =22.68 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.21 Viteza vântului = 2.42 Unghiul vântului = 293 Stare = nori 85-100%']
+Negresti_Oas: 34 \ joi \ 26:8:2021 \ 19:18:15
+[' Răsarit = 06:36:29 Apus = 20:20:07 Min (°C) = 11.49 Max (°C) =22.09 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.28 Viteza vântului = 2.25 Unghiul vântului = 211 Stare = cer senin']
+Negresti_Oas: 34 \ vineri \ 27:8:2021 \ 19:20:23
+[' Răsarit = 06:37:51 Apus = 20:18:12 Min (°C) = 12.19 Max (°C) =18.55 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.22 Viteza vântului = 1.09 Unghiul vântului = 252 Stare = nori 85-100%']
+Negresti_Oas: 34 \ sâmbătă \ 28:8:2021 \ 19:21:45
+[' Răsarit = 06:39:12 Apus = 20:16:16 Min (°C) = 10.29 Max (°C) =20.84 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.07 Viteza vântului = 1.32 Unghiul vântului = 19 Stare = nori 85-100%']
+Negresti_Oas: 34 \ duminică \ 29:8:2021 \ 19:20:54
+[' Răsarit = 06:40:34 Apus = 20:14:19 Min (°C) = 12.51 Max (°C) =16.69 Presiune = 1010 Umiditate (%) = 81 Index UV = 0.23 Viteza vântului = 0.14 Unghiul vântului = 299 Stare = nori 85-100%']
+Negresti_Oas: 35 \ luni \ 30:8:2021 \ 19:20:49
+[' Răsarit = 06:41:55 Apus = 20:12:21 Min (°C) = 11.11 Max (°C) =17.61 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.21 Viteza vântului = 1.52 Unghiul vântului = 218 Stare = nori 85-100%']
+Negresti_Oas: 35 \ marți \ 31:8:2021 \ 19:20:54
+[' Răsarit = 06:43:16 Apus = 20:10:23 Min (°C) = 12.51 Max (°C) =17.17 Presiune = 1014 Umiditate (%) = 87 Index UV = 0.19 Viteza vântului = 3.77 Unghiul vântului = 213 Stare = nori 50-85%']
+Negresti_Oas: 35 \ miercuri \ 01:9:2021 \ 19:20:26
+[' Răsarit = 06:44:37 Apus = 20:08:23 Min (°C) = 13.13 Max (°C) =18.35 Presiune = 1015 Umiditate (%) = 80 Index UV = 0.22 Viteza vântului = 3.44 Unghiul vântului = 311 Stare = nori 25-50%']
+Negresti_Oas: 35 \ joi \ 02:9:2021 \ 19:24:38
+[' Răsarit = 06:45:58 Apus = 20:06:24 Min (°C) = 9.59 Max (°C) =18.61 Presiune = 1022 Umiditate (%) = 63 Index UV = 0.22 Viteza vântului = 2.82 Unghiul vântului = 347 Stare = nori 25-50%']
+Negresti_Oas: 35 \ vineri \ 03:9:2021 \ 19:19:42
+[' Răsarit = 06:47:19 Apus = 20:04:23 Min (°C) = 9.25 Max (°C) =20.22 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.22 Viteza vântului = 1.37 Unghiul vântului = 72 Stare = nori 85-100%']
+Negresti_Oas: 35 \ sâmbătă \ 04:9:2021 \ 19:18:55
+[' Răsarit = 06:48:40 Apus = 20:02:23 Min (°C) = 12.24 Max (°C) =21.66 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.21 Viteza vântului = 1.3 Unghiul vântului = 359 Stare = cer senin']
+Negresti_Oas: 35 \ duminică \ 05:9:2021 \ 19:20:25
+[' Răsarit = 06:50:01 Apus = 20:00:21 Min (°C) = 12.62 Max (°C) =21.38 Presiune = 1021 Umiditate (%) = 58 Index UV = 0.18 Viteza vântului = 1.31 Unghiul vântului = 55 Stare = nori 85-100%']
+Negresti_Oas: 36 \ luni \ 06:9:2021 \ 19:21:24
+[' Răsarit = 06:51:22 Apus = 19:58:19 Min (°C) = 8.14 Max (°C) =21.61 Presiune = 1023 Umiditate (%) = 58 Index UV = 0.19 Viteza vântului = 1.47 Unghiul vântului = 335 Stare = nori 10-25%']
+Negresti_Oas: 36 \ marți \ 07:9:2021 \ 19:21:35
+[' Răsarit = 06:52:43 Apus = 19:56:17 Min (°C) = 9.58 Max (°C) =21.55 Presiune = 1025 Umiditate (%) = 53 Index UV = 0.14 Viteza vântului = 1.7 Unghiul vântului = 348 Stare = nori 85-100%']
+Negresti_Oas: 36 \ miercuri \ 08:9:2021 \ 19:20:52
+[' Răsarit = 06:54:03 Apus = 19:54:14 Min (°C) = 10.02 Max (°C) =22.74 Presiune = 1022 Umiditate (%) = 53 Index UV = 0.18 Viteza vântului = 0.79 Unghiul vântului = 320 Stare = nori 10-25%']
+Negresti_Oas: 36 \ joi \ 09:9:2021 \ 19:22:08
+[' Răsarit = 06:55:24 Apus = 19:52:11 Min (°C) = 11.43 Max (°C) =24.07 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.17 Viteza vântului = 0.68 Unghiul vântului = 333 Stare = nori 25-50%']
+Negresti_Oas: 36 \ vineri \ 10:9:2021 \ 19:22:38
+[' Răsarit = 06:56:45 Apus = 19:50:08 Min (°C) = 11.43 Max (°C) =23.68 Presiune = 1018 Umiditate (%) = 51 Index UV = 0.16 Viteza vântului = 1.05 Unghiul vântului = 341 Stare = nori 50-85%']
+Negresti_Oas: 36 \ sâmbătă \ 11:9:2021 \ 19:19:57
+[' Răsarit = 06:58:05 Apus = 19:48:04 Min (°C) = 12.24 Max (°C) =23.93 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.15 Viteza vântului = 1.2 Unghiul vântului = 357 Stare = nori 85-100%']
+Negresti_Oas: 36 \ duminică \ 12:9:2021 \ 19:20:20
+[' Răsarit = 06:59:26 Apus = 19:45:59 Min (°C) = 13.59 Max (°C) =24.14 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.14 Viteza vântului = 0.71 Unghiul vântului = 319 Stare = nori 50-85%']
+Negresti_Oas: 37 \ luni \ 13:9:2021 \ 19:20:49
+[' Răsarit = 07:00:47 Apus = 19:43:55 Min (°C) = 13.43 Max (°C) =25.12 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.13 Viteza vântului = 1.37 Unghiul vântului = 4 Stare = nori 10-25%']
+Negresti_Oas: 37 \ marți \ 14:9:2021 \ 19:22:10
+[' Răsarit = 07:02:07 Apus = 19:41:50 Min (°C) = 14.33 Max (°C) =24.23 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.14 Viteza vântului = 0.8 Unghiul vântului = 5 Stare = nori 10-25%']
+Negresti_Oas: 37 \ joi \ 16:9:2021 \ 19:20:27
+[' Răsarit = 07:04:49 Apus = 19:37:41 Min (°C) = 15.63 Max (°C) =26.47 Presiune = 1014 Umiditate (%) = 73 Index UV = 0.03 Viteza vântului = 2.22 Unghiul vântului = 94 Stare = nori 85-100%']
+Negresti_Oas: 37 \ vineri \ 17:9:2021 \ 19:22:16
+[' Răsarit = 07:06:09 Apus = 19:35:35 Min (°C) = 14.98 Max (°C) =19.92 Presiune = 1008 Umiditate (%) = 96 Index UV = 0.01 Viteza vântului = 3.16 Unghiul vântului = 261 Stare = nori 85-100%']
+Negresti_Oas: 37 \ sâmbătă \ 18:9:2021 \ 19:22:30
+[' Răsarit = 07:07:30 Apus = 19:33:30 Min (°C) = 13.15 Max (°C) =16.86 Presiune = 1010 Umiditate (%) = 83 Index UV = 0.09 Viteza vântului = 1.08 Unghiul vântului = 165 Stare = nori 50-85%']
+Negresti_Oas: 37 \ duminică \ 19:9:2021 \ 19:21:13
+[' Răsarit = 07:08:51 Apus = 19:31:25 Min (°C) = 9.7 Max (°C) =13.3 Presiune = 1013 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 6 Stare = nori 85-100%']
+Negresti_Oas: 38 \ luni \ 20:9:2021 \ 19:21:45
+[' Răsarit = 07:10:12 Apus = 19:29:20 Min (°C) = 5.91 Max (°C) =15.19 Presiune = 1016 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 296 Stare = nori 85-100%']
+Negresti_Oas: 38 \ marți \ 21:9:2021 \ 19:20:17
+[' Răsarit = 07:11:33 Apus = 19:27:14 Min (°C) = 3.53 Max (°C) =13.77 Presiune = 1023 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 288 Stare = nori 10-25%']
+Negresti_Oas: 38 \ miercuri \ 22:9:2021 \ 19:21:16
+[' Răsarit = 07:12:55 Apus = 19:25:09 Min (°C) = 6 Max (°C) =9.61 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 303 Stare = nori 85-100%']
+Negresti_Oas: 38 \ joi \ 23:9:2021 \ 19:19:36
+[' Răsarit = 07:14:16 Apus = 19:23:04 Min (°C) = 3.57 Max (°C) =13.36 Presiune = 1019 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 211 Stare = nori 85-100%']
+Negresti_Oas: 39 \ luni \ 27:9:2021 \ 19:19:15
+[' Răsarit = 07:19:43 Apus = 19:14:44 Min (°C) = 12.3 Max (°C) =23.33 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 31 Stare = cer senin']
+Negresti_Oas: 39 \ marți \ 28:9:2021 \ 19:22:08
+[' Răsarit = 07:21:06 Apus = 19:12:40 Min (°C) = 14.06 Max (°C) =18.86 Presiune = 1019 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 145 Stare = nori 50-85%']
+Negresti_Oas: 39 \ miercuri \ 29:9:2021 \ 19:22:54
+[' Răsarit = 07:22:28 Apus = 19:10:36 Min (°C) = 12.29 Max (°C) =17.01 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 147 Stare = nori 50-85%']
+Negresti_Oas: 39 \ joi \ 30:9:2021 \ 19:20:09
+[' Răsarit = 07:23:51 Apus = 19:08:32 Min (°C) = 11.12 Max (°C) =17.01 Presiune = 1026 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 312 Stare = nori 85-100%']
+Negresti_Oas: 39 \ vineri \ 01:10:2021 \ 19:21:36
+[' Răsarit = 07:25:14 Apus = 19:06:29 Min (°C) = 10.07 Max (°C) =13.78 Presiune = 1026 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.12 Unghiul vântului = 142 Stare = nori 50-85%']
+Negresti_Oas: 39 \ sâmbătă \ 02:10:2021 \ 19:20:26
+[' Răsarit = 07:26:37 Apus = 19:04:26 Min (°C) = 8.12 Max (°C) =18.07 Presiune = 1022 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 114 Stare = cer senin']
+Negresti_Oas: 39 \ duminică \ 03:10:2021 \ 19:19:35
+[' Răsarit = 07:28:01 Apus = 19:02:23 Min (°C) = 8.21 Max (°C) =19.13 Presiune = 1021 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 110 Stare = nori 25-50%']
+Negresti_Oas: 40 \ luni \ 04:10:2021 \ 19:24:27
+[' Răsarit = 07:29:25 Apus = 19:00:21 Min (°C) = 9.23 Max (°C) =20.5 Presiune = 1021 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 103 Stare = cer senin']
+Negresti_Oas: 40 \ marți \ 05:10:2021 \ 19:22:05
+[' Răsarit = 07:30:49 Apus = 18:58:19 Min (°C) = 10.55 Max (°C) =21.36 Presiune = 1021 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 131 Stare = cer senin']
+Negresti_Oas: 40 \ miercuri \ 06:10:2021 \ 19:19:48
+[' Răsarit = 07:32:13 Apus = 18:56:18 Min (°C) = 8.87 Max (°C) =18.57 Presiune = 1021 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 115 Stare = nori 85-100%']
+Negresti_Oas: 40 \ joi \ 07:10:2021 \ 19:22:15
+[' Răsarit = 07:33:38 Apus = 18:54:17 Min (°C) = 8.17 Max (°C) =16.7 Presiune = 1024 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 117 Stare = nori 85-100%']
+Negresti_Oas: 40 \ vineri \ 08:10:2021 \ 19:21:46
+[' Răsarit = 07:35:03 Apus = 18:52:17 Min (°C) = 4.62 Max (°C) =15.69 Presiune = 1028 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 3.94 Unghiul vântului = 77 Stare = nori 25-50%']
+Negresti_Oas: 40 \ sâmbătă \ 09:10:2021 \ 19:19:42
+[' Răsarit = 07:36:29 Apus = 18:50:18 Min (°C) = 2.35 Max (°C) =13.79 Presiune = 1028 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 83 Stare = nori 50-85%']
+Negresti_Oas: 40 \ duminică \ 10:10:2021 \ 19:20:57
+[' Răsarit = 07:37:54 Apus = 18:48:19 Min (°C) = 3.13 Max (°C) =15.56 Presiune = 1024 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 66 Stare = nori 10-25%']
+Negresti_Oas: 41 \ luni \ 11:10:2021 \ 19:21:02
+[' Răsarit = 07:39:21 Apus = 18:46:21 Min (°C) = 6.64 Max (°C) =15.96 Presiune = 1017 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 240 Stare = nori 85-100%']
+Negresti_Oas: 41 \ marți \ 12:10:2021 \ 19:21:00
+[' Răsarit = 07:40:47 Apus = 18:44:24 Min (°C) = 7.19 Max (°C) =10.04 Presiune = 1014 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 153 Stare = nori 85-100%']
+Negresti_Oas: 41 \ miercuri \ 13:10:2021 \ 19:21:00
+[' Răsarit = 07:42:14 Apus = 18:42:27 Min (°C) = 4.7 Max (°C) =12.18 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 316 Stare = nori 85-100%']
+Negresti_Oas: 41 \ joi \ 14:10:2021 \ 19:20:43
+[' Răsarit = 07:43:41 Apus = 18:40:32 Min (°C) = 6.38 Max (°C) =10.99 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 311 Stare = nori 50-85%']
+Negresti_Oas: 41 \ vineri \ 15:10:2021 \ 19:19:40
+[' Răsarit = 07:45:09 Apus = 18:38:37 Min (°C) = 3.12 Max (°C) =13.17 Presiune = 1019 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 21 Stare = cer senin']
+Negresti_Oas: 41 \ sâmbătă \ 16:10:2021 \ 19:19:55
+[' Răsarit = 07:46:37 Apus = 18:36:43 Min (°C) = 6.05 Max (°C) =14.55 Presiune = 1019 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 152 Stare = nori 85-100%']
+Negresti_Oas: 41 \ duminică \ 17:10:2021 \ 19:19:10
+[' Răsarit = 07:48:05 Apus = 18:34:50 Min (°C) = 5.05 Max (°C) =13.47 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 259 Stare = cer senin']
+Negresti_Oas: 42 \ luni \ 18:10:2021 \ 19:19:13
+[' Răsarit = 07:49:34 Apus = 18:32:57 Min (°C) = 4.86 Max (°C) =10.96 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 50-85%']
+Negresti_Oas: 42 \ marți \ 19:10:2021 \ 19:20:56
+[' Răsarit = 07:51:03 Apus = 18:31:06 Min (°C) = 5.5 Max (°C) =12.63 Presiune = 1029 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 71 Stare = nori 85-100%']
+Negresti_Oas: 42 \ miercuri \ 20:10:2021 \ 19:18:39
+[' Răsarit = 07:52:32 Apus = 18:29:16 Min (°C) = 6.32 Max (°C) =14.66 Presiune = 1022 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 120 Stare = nori 50-85%']
+Negresti_Oas: 42 \ joi \ 21:10:2021 \ 19:20:40
+[' Răsarit = 07:54:02 Apus = 18:27:27 Min (°C) = 8.48 Max (°C) =18.34 Presiune = 1011 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.79 Unghiul vântului = 232 Stare = nori 85-100%']
+Negresti_Oas: 42 \ vineri \ 22:10:2021 \ 19:17:18
+[' Răsarit = 07:55:32 Apus = 18:25:39 Min (°C) = 9.64 Max (°C) =16.8 Presiune = 1017 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 238 Stare = nori 85-100%']
+Negresti_Oas: 42 \ sâmbătă \ 23:10:2021 \ 19:19:06
+[' Răsarit = 07:57:02 Apus = 18:23:52 Min (°C) = 6.47 Max (°C) =11.95 Presiune = 1024 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 67 Stare = nori 85-100%']
+Negresti_Oas: 42 \ duminică \ 24:10:2021 \ 19:18:57
+[' Răsarit = 07:58:33 Apus = 18:22:07 Min (°C) = 2.33 Max (°C) =10.29 Presiune = 1033 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 360 Stare = nori 10-25%']
+Negresti_Oas: 43 \ luni \ 25:10:2021 \ 19:18:17
+[' Răsarit = 08:00:04 Apus = 18:20:22 Min (°C) = 1.81 Max (°C) =11.72 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 94 Stare = cer senin']
+Negresti_Oas: 43 \ marți \ 26:10:2021 \ 19:17:31
+[' Răsarit = 08:01:35 Apus = 18:18:39 Min (°C) = 3.64 Max (°C) =13.39 Presiune = 1024 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 27 Stare = cer senin']
+Negresti_Oas: 43 \ miercuri \ 27:10:2021 \ 19:20:14
+[' Răsarit = 08:03:06 Apus = 18:16:57 Min (°C) = 3.5 Max (°C) =12.35 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 52 Stare = nori 25-50%']
+Negresti_Oas: 43 \ joi \ 28:10:2021 \ 19:17:54
+[' Răsarit = 08:04:38 Apus = 18:15:16 Min (°C) = 4.7 Max (°C) =14.36 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 71 Stare = nori 25-50%']
+Negresti_Oas: 43 \ vineri \ 29:10:2021 \ 19:18:27
+[' Răsarit = 08:06:10 Apus = 18:13:37 Min (°C) = 6.97 Max (°C) =17.75 Presiune = 1022 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 96 Stare = nori 50-85%']
+Negresti_Oas: 43 \ sâmbătă \ 30:10:2021 \ 19:18:08
+[' Răsarit = 08:07:42 Apus = 18:11:59 Min (°C) = 8.08 Max (°C) =17.21 Presiune = 1021 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 103 Stare = nori 25-50%']
+Negresti_Oas: 43 \ duminică \ 31:10:2021 \ 19:18:02
+[' Răsarit = 07:09:15 Apus = 17:10:23 Min (°C) = 6.57 Max (°C) =16.03 Presiune = 1018 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 99 Stare = cer senin']
+Negresti_Oas: 44 \ luni \ 01:11:2021 \ 19:18:22
+[' Răsarit = 07:10:47 Apus = 17:08:48 Min (°C) = 4.37 Max (°C) =12.95 Presiune = 1012 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 102 Stare = cer senin']
+Negresti_Oas: 44 \ marți \ 02:11:2021 \ 19:18:37
+[' Răsarit = 07:12:20 Apus = 17:07:15 Min (°C) = 4.25 Max (°C) =13.25 Presiune = 1006 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 138 Stare = ploaie ușoară']
+Negresti_Oas: 44 \ miercuri \ 03:11:2021 \ 19:18:11
+[' Răsarit = 07:13:53 Apus = 17:05:43 Min (°C) = 6.79 Max (°C) =12.52 Presiune = 1014 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 95 Stare = nori 85-100%']
+Negresti_Oas: 44 \ joi \ 04:11:2021 \ 19:16:27
+[' Răsarit = 07:15:26 Apus = 17:04:13 Min (°C) = 10.08 Max (°C) =16.96 Presiune = 1013 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 85 Stare = ploaie ușoară']
+Negresti_Oas: 44 \ vineri \ 05:11:2021 \ 19:22:31
+[' Răsarit = 07:16:58 Apus = 17:02:45 Min (°C) = 9.94 Max (°C) =13.42 Presiune = 1021 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 274 Stare = nori 85-100%']
+Negresti_Oas: 44 \ sâmbătă \ 06:11:2021 \ 19:20:06
+[' Răsarit = 07:18:31 Apus = 17:01:18 Min (°C) = 6.39 Max (°C) =11.72 Presiune = 1028 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 114 Stare = nori 85-100%']
+Negresti_Oas: 44 \ duminică \ 07:11:2021 \ 19:20:01
+[' Răsarit = 07:20:04 Apus = 16:59:53 Min (°C) = 6.15 Max (°C) =7.92 Presiune = 1019 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 177 Stare = nori 85-100%']
+Negresti_Oas: 45 \ luni \ 08:11:2021 \ 19:19:47
+[' Răsarit = 07:21:37 Apus = 16:58:29 Min (°C) = 6.38 Max (°C) =8.85 Presiune = 1021 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.24 Unghiul vântului = 315 Stare = nori 85-100%']
+Negresti_Oas: 45 \ marți \ 09:11:2021 \ 19:15:13
+[' Răsarit = 07:23:09 Apus = 16:57:08 Min (°C) = 2.52 Max (°C) =9.46 Presiune = 1034 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 29 Stare = cer senin']
+Negresti_Oas: 45 \ miercuri \ 10:11:2021 \ 19:19:46
+[' Răsarit = 07:24:42 Apus = 16:55:48 Min (°C) = 2.7 Max (°C) =10.05 Presiune = 1033 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 98 Stare = cer senin']
+Negresti_Oas: 45 \ joi \ 11:11:2021 \ 19:20:19
+[' Răsarit = 07:26:14 Apus = 16:54:31 Min (°C) = 2.81 Max (°C) =10.5 Presiune = 1026 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 83 Stare = nori 50-85%']
+Negresti_Oas: 45 \ vineri \ 12:11:2021 \ 19:19:31
+[' Răsarit = 07:27:46 Apus = 16:53:15 Min (°C) = 2.67 Max (°C) =11.59 Presiune = 1022 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 88 Stare = cer senin']
+Negresti_Oas: 45 \ sâmbătă \ 13:11:2021 \ 19:19:27
+[' Răsarit = 07:29:18 Apus = 16:52:01 Min (°C) = 2.65 Max (°C) =11.3 Presiune = 1021 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 97 Stare = nori 50-85%']
+Negresti_Oas: 45 \ duminică \ 14:11:2021 \ 19:21:54
+[' Răsarit = 07:30:49 Apus = 16:50:49 Min (°C) = 4.63 Max (°C) =12.54 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 71 Stare = nori 10-25%']
+Negresti_Oas: 46 \ luni \ 15:11:2021 \ 19:20:45
+[' Răsarit = 07:32:20 Apus = 16:49:40 Min (°C) = 4.63 Max (°C) =12.52 Presiune = 1028 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 91 Stare = nori 10-25%']
+Negresti_Oas: 46 \ marți \ 16:11:2021 \ 19:20:28
+[' Răsarit = 07:33:50 Apus = 16:48:32 Min (°C) = 4.18 Max (°C) =10.96 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 92 Stare = nori 10-25%']
+Negresti_Oas: 46 \ miercuri \ 17:11:2021 \ 19:20:11
+[' Răsarit = 07:35:20 Apus = 16:47:27 Min (°C) = 2.51 Max (°C) =8.65 Presiune = 1023 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 99 Stare = cer senin']
+Negresti_Oas: 46 \ joi \ 18:11:2021 \ 19:17:03
+[' Răsarit = 07:36:49 Apus = 16:46:23 Min (°C) = 1.7 Max (°C) =4.07 Presiune = 1027 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 267 Stare = nori 85-100%']
+Negresti_Oas: 46 \ vineri \ 19:11:2021 \ 19:17:15
+[' Răsarit = 07:38:17 Apus = 16:45:23 Min (°C) = 3.01 Max (°C) =4.54 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 153 Stare = nori 85-100%']
+Negresti_Oas: 46 \ sâmbătă \ 20:11:2021 \ 19:16:59
+[' Răsarit = 07:39:45 Apus = 16:44:24 Min (°C) = 4.19 Max (°C) =6.15 Presiune = 1022 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 53 Stare = nori 85-100%']
+Negresti_Oas: 46 \ duminică \ 21:11:2021 \ 19:16:45
+[' Răsarit = 07:41:12 Apus = 16:43:27 Min (°C) = 4.62 Max (°C) =9.4 Presiune = 1013 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 98 Stare = nori 50-85%']
+Negresti_Oas: 47 \ luni \ 22:11:2021 \ 19:17:09
+[' Răsarit = 07:42:38 Apus = 16:42:33 Min (°C) = 3.37 Max (°C) =8.7 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 352 Stare = nori 85-100%']
+Negresti_Oas: 47 \ marți \ 23:11:2021 \ 19:17:02
+[' Răsarit = 07:44:03 Apus = 16:41:42 Min (°C) = 0.68 Max (°C) =7.18 Presiune = 1025 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 265 Stare = nori 25-50%']
+Negresti_Oas: 47 \ miercuri \ 24:11:2021 \ 19:19:19
+[' Răsarit = 07:45:27 Apus = 16:40:53 Min (°C) = -0.44 Max (°C) =5.37 Presiune = 1026 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 99 Stare = cer senin']
+Negresti_Oas: 47 \ joi \ 25:11:2021 \ 19:16:43
+[' Răsarit = 07:46:51 Apus = 16:40:06 Min (°C) = 0.01 Max (°C) =6.98 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 116 Stare = cer senin']
+Negresti_Oas: 47 \ vineri \ 26:11:2021 \ 19:16:48
+[' Răsarit = 07:48:13 Apus = 16:39:22 Min (°C) = 1.87 Max (°C) =9.59 Presiune = 997 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 150 Stare = ploaie moderată']
+Negresti_Oas: 47 \ sâmbătă \ 27:11:2021 \ 19:16:47
+[' Răsarit = 07:49:33 Apus = 16:38:40 Min (°C) = 3.61 Max (°C) =5.9 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 99 Stare = nori 85-100%']
+Negresti_Oas: 47 \ duminică \ 28:11:2021 \ 19:17:20
+[' Răsarit = 07:50:53 Apus = 16:38:01 Min (°C) = 5.56 Max (°C) =11.61 Presiune = 996 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 109 Stare = nori 50-85%']
+Negresti_Oas: 48 \ luni \ 29:11:2021 \ 19:19:07
+[' Răsarit = 07:52:11 Apus = 16:37:25 Min (°C) = 0.64 Max (°C) =8.98 Presiune = 1000 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 251 Stare = nori 85-100%']
+Negresti_Oas: 48 \ marți \ 30:11:2021 \ 19:17:26
+[' Răsarit = 07:53:28 Apus = 16:36:51 Min (°C) = -0.84 Max (°C) =1.87 Presiune = 1007 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 6.04 Unghiul vântului = 227 Stare = nori 85-100%']
+Negresti_Oas: 48 \ miercuri \ 01:12:2021 \ 19:17:41
+[' Răsarit = 07:54:43 Apus = 16:36:20 Min (°C) = -0.35 Max (°C) =2.92 Presiune = 1009 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 152 Stare = nori 85-100%']
+Negresti_Oas: 48 \ joi \ 02:12:2021 \ 19:17:02
+[' Răsarit = 07:55:56 Apus = 16:35:52 Min (°C) = 2.7 Max (°C) =6.72 Presiune = 1002 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 121 Stare = nori 85-100%']
+Negresti_Oas: 48 \ vineri \ 03:12:2021 \ 19:17:10
+[' Răsarit = 07:57:08 Apus = 16:35:26 Min (°C) = -0.57 Max (°C) =6.95 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 312 Stare = nori 85-100%']
+Negresti_Oas: 48 \ sâmbătă \ 04:12:2021 \ 19:17:41
+[' Răsarit = 07:58:19 Apus = 16:35:03 Min (°C) = -1.45 Max (°C) =3.81 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 103 Stare = nori 85-100%']
+Negresti_Oas: 48 \ duminică \ 05:12:2021 \ 19:17:24
+[' Răsarit = 07:59:27 Apus = 16:34:43 Min (°C) = 0.1 Max (°C) =4.42 Presiune = 1008 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 109 Stare = nori 85-100%']
+Negresti_Oas: 49 \ luni \ 06:12:2021 \ 19:17:17
+[' Răsarit = 08:00:34 Apus = 16:34:26 Min (°C) = 2.77 Max (°C) =4.6 Presiune = 1008 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 138 Stare = nori 85-100%']
+Negresti_Oas: 49 \ marți \ 07:12:2021 \ 19:17:15
+[' Răsarit = 08:01:39 Apus = 16:34:12 Min (°C) = 1.72 Max (°C) =4.16 Presiune = 1008 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 53 Stare = nori 85-100%']
+Negresti_Oas: 49 \ miercuri \ 08:12:2021 \ 19:17:14
+[' Răsarit = 08:02:41 Apus = 16:34:00 Min (°C) = -0.65 Max (°C) =2.68 Presiune = 1012 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 180 Stare = nori 50-85%']
+Negresti_Oas: 49 \ joi \ 09:12:2021 \ 19:17:17
+[' Răsarit = 08:03:42 Apus = 16:33:51 Min (°C) = -1.04 Max (°C) =7.45 Presiune = 1007 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 97 Stare = nori 85-100%']
+Negresti_Oas: 49 \ vineri \ 10:12:2021 \ 19:19:47
+[' Răsarit = 08:04:41 Apus = 16:33:46 Min (°C) = 2.49 Max (°C) =5.07 Presiune = 1006 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 76 Stare = nori 85-100%']
+Negresti_Oas: 49 \ sâmbătă \ 11:12:2021 \ 19:19:18
+[' Răsarit = 08:05:37 Apus = 16:33:43 Min (°C) = 2.49 Max (°C) =7.44 Presiune = 1012 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 58 Stare = nori 85-100%']
+Negresti_Oas: 49 \ duminică \ 12:12:2021 \ 19:19:39
+[' Răsarit = 08:06:31 Apus = 16:33:43 Min (°C) = 3.6 Max (°C) =5.66 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 34 Stare = nori 85-100%']
+Negresti_Oas: 50 \ luni \ 13:12:2021 \ 19:20:01
+[' Răsarit = 08:07:23 Apus = 16:33:46 Min (°C) = -0.4 Max (°C) =3.64 Presiune = 1025 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 287 Stare = nori 85-100%']
+Negresti_Oas: 50 \ marți \ 14:12:2021 \ 19:21:45
+[' Răsarit = 08:08:13 Apus = 16:33:52 Min (°C) = -0.4 Max (°C) =2.91 Presiune = 1028 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 302 Stare = nori 50-85%']
+Negresti_Oas: 50 \ miercuri \ 15:12:2021 \ 19:19:48
+[' Răsarit = 08:09:00 Apus = 16:34:00 Min (°C) = -1.73 Max (°C) =3 Presiune = 1030 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 99 Stare = nori 50-85%']
+Negresti_Oas: 50 \ joi \ 16:12:2021 \ 19:19:14
+[' Răsarit = 08:09:44 Apus = 16:34:12 Min (°C) = -1.33 Max (°C) =2.77 Presiune = 1029 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 200 Stare = zăpadă slabă']
+Negresti_Oas: 50 \ vineri \ 17:12:2021 \ 19:23:04
+[' Răsarit = 08:10:26 Apus = 16:34:27 Min (°C) = -0.09 Max (°C) =4.35 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 310 Stare = nori 25-50%']
+Negresti_Oas: 50 \ sâmbătă \ 18:12:2021 \ 19:18:39
+[' Răsarit = 08:11:06 Apus = 16:34:44 Min (°C) = -0.83 Max (°C) =3.86 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 322 Stare = zăpadă slabă']
+Negresti_Oas: 50 \ duminică \ 19:12:2021 \ 19:19:05
+[' Răsarit = 08:11:43 Apus = 16:35:04 Min (°C) = -0.25 Max (°C) =0.72 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 198 Stare = zăpadă slabă']
+Negresti_Oas: 51 \ luni \ 20:12:2021 \ 19:19:31
+[' Răsarit = 08:12:17 Apus = 16:35:28 Min (°C) = -3.89 Max (°C) =0.98 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.62 Unghiul vântului = 285 Stare = zăpadă slabă']
+Negresti_Oas: 51 \ marți \ 21:12:2021 \ 19:21:35
+[' Răsarit = 08:12:49 Apus = 16:35:54 Min (°C) = -7.13 Max (°C) =-1.69 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 5 Stare = nori 50-85%']
+Negresti_Oas: 51 \ miercuri \ 22:12:2021 \ 19:19:38
+[' Răsarit = 08:13:18 Apus = 16:36:22 Min (°C) = -9.64 Max (°C) =-3.96 Presiune = 1031 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 96 Stare = nori 10-25%']
+Negresti_Oas: 51 \ joi \ 23:12:2021 \ 19:19:58
+[' Răsarit = 08:13:44 Apus = 16:36:54 Min (°C) = -9.34 Max (°C) =-4.29 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 126 Stare = nori 85-100%']
+Negresti_Oas: 51 \ vineri \ 24:12:2021 \ 19:20:04
+[' Răsarit = 08:14:08 Apus = 16:37:28 Min (°C) = -5.34 Max (°C) =2.12 Presiune = 1006 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 162 Stare = zăpadă slabă']
+Negresti_Oas: 51 \ sâmbătă \ 25:12:2021 \ 19:20:16
+[' Răsarit = 08:14:28 Apus = 16:38:05 Min (°C) = 0.4 Max (°C) =3.43 Presiune = 1008 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 354 Stare = zăpadă slabă']
+Negresti_Oas: 51 \ duminică \ 26:12:2021 \ 19:21:30
+[' Răsarit = 08:14:46 Apus = 16:38:45 Min (°C) = -3.02 Max (°C) =0.42 Presiune = 1015 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 82 Stare = nori 85-100%']
+Negresti_Oas: 52 \ luni \ 27:12:2021 \ 19:19:32
+[' Răsarit = 08:15:01 Apus = 16:39:27 Min (°C) = -2.01 Max (°C) =2.39 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 104 Stare = zăpadă slabă']
+Negresti_Oas: 52 \ marți \ 28:12:2021 \ 19:20:19
+[' Răsarit = 08:15:13 Apus = 16:40:12 Min (°C) = 0 Max (°C) =1.24 Presiune = 1013 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 90 Stare = nori 85-100%']
+Negresti_Oas: 52 \ miercuri \ 29:12:2021 \ 19:19:32
+[' Răsarit = 08:15:23 Apus = 16:41:00 Min (°C) = 0.72 Max (°C) =2.2 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 158 Stare = ploaie ușoară']
+Negresti_Oas: 52 \ joi \ 30:12:2021 \ 19:20:28
+[' Răsarit = 08:15:29 Apus = 16:41:50 Min (°C) = 1.5 Max (°C) =3.02 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 169 Stare = nori 85-100%']
+Negresti_Oas: 52 \ vineri \ 31:12:2021 \ 19:17:10
+[' Răsarit = 08:15:33 Apus = 16:42:42 Min (°C) = 1.5 Max (°C) =3.11 Presiune = 1022 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 116 Stare = nori 85-100%']
+Negresti_Oas: 00 \ sâmbătă \ 01:1:2022 \ 19:17:54
+[' Răsarit = 08:15:33 Apus = 16:43:37 Min (°C) = 3.33 Max (°C) =4.6 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 90 Stare = nori 85-100%']
+Negresti_Oas: 00 \ duminică \ 02:1:2022 \ 19:16:43
+[' Răsarit = 08:15:31 Apus = 16:44:34 Min (°C) = 3.22 Max (°C) =5.6 Presiune = 1022 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 103 Stare = nori 85-100%']
+Negresti_Oas: 01 \ luni \ 03:1:2022 \ 19:16:30
+[' Răsarit = 08:15:26 Apus = 16:45:34 Min (°C) = 3.97 Max (°C) =6.25 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 244 Stare = nori 85-100%']
+Negresti_Oas: 01 \ marți \ 04:1:2022 \ 19:16:35
+[' Răsarit = 08:15:18 Apus = 16:46:35 Min (°C) = 3.75 Max (°C) =7.84 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 197 Stare = ploaie moderată']
+Negresti_Oas: 01 \ miercuri \ 05:1:2022 \ 19:18:06
+[' Răsarit = 08:15:08 Apus = 16:47:39 Min (°C) = 6.85 Max (°C) =9.9 Presiune = 1003 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.32 Unghiul vântului = 235 Stare = ploaie ușoară']
+Negresti_Oas: 01 \ joi \ 06:1:2022 \ 19:16:57
+[' Răsarit = 08:14:54 Apus = 16:48:45 Min (°C) = 1.57 Max (°C) =7.04 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 206 Stare = nori 85-100%']
+Negresti_Oas: 01 \ vineri \ 07:1:2022 \ 19:18:18
+[' Răsarit = 08:14:38 Apus = 16:49:52 Min (°C) = -2.5 Max (°C) =0.96 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 86 Stare = cer senin']
+Negresti_Oas: 01 \ sâmbătă \ 08:1:2022 \ 19:17:40
+[' Răsarit = 08:14:19 Apus = 16:51:02 Min (°C) = -2.04 Max (°C) =2.5 Presiune = 1014 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 52 Stare = snow']
+Negresti_Oas: 01 \ duminică \ 09:1:2022 \ 19:17:09
+[' Răsarit = 08:13:57 Apus = 16:52:14 Min (°C) = -3.06 Max (°C) =0.3 Presiune = 1009 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 332 Stare = nori 85-100%']
+Negresti_Oas: 02 \ luni \ 10:1:2022 \ 19:17:10
+[' Răsarit = 08:13:32 Apus = 16:53:27 Min (°C) = -6.33 Max (°C) =1.99 Presiune = 1017 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 69 Stare = nori 50-85%']
+Negresti_Oas: 02 \ marți \ 11:1:2022 \ 19:18:37
+[' Răsarit = 08:13:05 Apus = 16:54:42 Min (°C) = -6.1 Max (°C) =0.83 Presiune = 1029 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 67 Stare = cer senin']
+Negresti_Oas: 02 \ miercuri \ 12:1:2022 \ 19:17:11
+[' Răsarit = 08:12:35 Apus = 16:55:59 Min (°C) = -10.4 Max (°C) =-3.32 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 90 Stare = cer senin']
+Negresti_Oas: 02 \ joi \ 13:1:2022 \ 19:18:12
+[' Răsarit = 08:12:02 Apus = 16:57:18 Min (°C) = -10.59 Max (°C) =-4.31 Presiune = 1037 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 215 Stare = nori 85-100%']
+Negresti_Oas: 02 \ vineri \ 14:1:2022 \ 19:17:31
+[' Răsarit = 08:11:27 Apus = 16:58:37 Min (°C) = -4.39 Max (°C) =-1.91 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 265 Stare = zăpadă slabă']
+Negresti_Oas: 02 \ sâmbătă \ 15:1:2022 \ 19:17:16
+[' Răsarit = 08:10:49 Apus = 16:59:59 Min (°C) = -6.15 Max (°C) =-1.01 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 84 Stare = nori 10-25%']
+Negresti_Oas: 02 \ duminică \ 16:1:2022 \ 19:16:38
+[' Răsarit = 08:10:08 Apus = 17:01:21 Min (°C) = -5.82 Max (°C) =-0.52 Presiune = 1027 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 105 Stare = nori 85-100%']
+Negresti_Oas: 03 \ luni \ 17:1:2022 \ 19:16:45
+[' Răsarit = 08:09:25 Apus = 17:02:45 Min (°C) = -4.65 Max (°C) =1.72 Presiune = 1011 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 300 Stare = snow']
+Negresti_Oas: 03 \ marți \ 18:1:2022 \ 19:16:47
+[' Răsarit = 08:08:39 Apus = 17:04:11 Min (°C) = -7.72 Max (°C) =-0.18 Presiune = 1032 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 304 Stare = nori 50-85%']
+Negresti_Oas: 03 \ miercuri \ 19:1:2022 \ 19:16:58
+[' Răsarit = 08:07:51 Apus = 17:05:37 Min (°C) = -6.22 Max (°C) =-1.49 Presiune = 1030 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 100 Stare = nori 50-85%']
+Negresti_Oas: 03 \ joi \ 20:1:2022 \ 19:17:15
+[' Răsarit = 08:07:01 Apus = 17:07:05 Min (°C) = -7 Max (°C) =-0.87 Presiune = 1013 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 5.53 Unghiul vântului = 235 Stare = zăpadă slabă']
+Negresti_Oas: 03 \ vineri \ 21:1:2022 \ 19:16:49
+[' Răsarit = 08:06:08 Apus = 17:08:33 Min (°C) = -9.74 Max (°C) =-3.08 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 174 Stare = zăpadă slabă']
+Negresti_Oas: 03 \ sâmbătă \ 22:1:2022 \ 19:19:26
+[' Răsarit = 08:05:13 Apus = 17:10:02 Min (°C) = -9.28 Max (°C) =-3.97 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 24 Stare = zăpadă slabă']
+Negresti_Oas: 03 \ duminică \ 23:1:2022 \ 19:19:39
+[' Răsarit = 08:04:15 Apus = 17:11:33 Min (°C) = -11.33 Max (°C) =-3.02 Presiune = 1030 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 38 Stare = nori 10-25%']
+Negresti_Oas: 04 \ luni \ 24:1:2022 \ 19:20:13
+[' Răsarit = 08:03:15 Apus = 17:13:04 Min (°C) = -13.1 Max (°C) =-5 Presiune = 1038 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 87 Stare = nori 10-25%']
+Negresti_Oas: 04 \ marți \ 25:1:2022 \ 19:20:13
+[' Răsarit = 08:02:13 Apus = 17:14:36 Min (°C) = -14.08 Max (°C) =-6.45 Presiune = 1032 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 104 Stare = nori 85-100%']
+Negresti_Oas: 04 \ miercuri \ 26:1:2022 \ 19:20:00
+[' Răsarit = 08:01:09 Apus = 17:16:08 Min (°C) = -8.96 Max (°C) =-3.83 Presiune = 1029 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 107 Stare = zăpadă slabă']
+Negresti_Oas: 04 \ joi \ 27:1:2022 \ 19:19:57
+[' Răsarit = 08:00:02 Apus = 17:17:41 Min (°C) = -5.76 Max (°C) =-0.61 Presiune = 1022 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 158 Stare = zăpadă slabă']
+Negresti_Oas: 04 \ vineri \ 28:1:2022 \ 19:19:49
+[' Răsarit = 07:58:54 Apus = 17:19:15 Min (°C) = -1.87 Max (°C) =0.95 Presiune = 1018 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.35 Unghiul vântului = 274 Stare = nori 85-100%']
+Negresti_Oas: 04 \ sâmbătă \ 29:1:2022 \ 19:19:48
+[' Răsarit = 07:57:43 Apus = 17:20:49 Min (°C) = -6.95 Max (°C) =-0.39 Presiune = 1026 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 116 Stare = nori 50-85%']
+Negresti_Oas: 04 \ duminică \ 30:1:2022 \ 19:17:15
+[' Răsarit = 07:56:31 Apus = 17:22:24 Min (°C) = -3.29 Max (°C) =2.07 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.87 Unghiul vântului = 272 Stare = zăpadă slabă']
+Negresti_Oas: 05 \ luni \ 31:1:2022 \ 19:17:14
+[' Răsarit = 07:55:16 Apus = 17:23:59 Min (°C) = -3.74 Max (°C) =0.96 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 152 Stare = nori 85-100%']
+Negresti_Oas: 05 \ marți \ 01:2:2022 \ 19:17:02
+[' Răsarit = 07:53:59 Apus = 17:25:34 Min (°C) = -3.79 Max (°C) =0.44 Presiune = 1012 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 145 Stare = nori 50-85%']
+Negresti_Oas: 05 \ miercuri \ 02:2:2022 \ 19:17:16
+[' Răsarit = 07:52:41 Apus = 17:27:10 Min (°C) = -4.78 Max (°C) =-0.25 Presiune = 1009 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 126 Stare = zăpadă slabă']
+Negresti_Oas: 05 \ joi \ 03:2:2022 \ 19:16:59
+[' Răsarit = 07:51:20 Apus = 17:28:46 Min (°C) = -6.38 Max (°C) =0.06 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 98 Stare = nori 10-25%']
+Negresti_Oas: 05 \ vineri \ 04:2:2022 \ 19:17:16
+[' Răsarit = 07:49:58 Apus = 17:30:22 Min (°C) = -5.46 Max (°C) =1.61 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 98 Stare = nori 85-100%']
+Negresti_Oas: 05 \ sâmbătă \ 05:2:2022 \ 19:17:01
+[' Răsarit = 07:48:34 Apus = 17:31:58 Min (°C) = -2.45 Max (°C) =0.97 Presiune = 1021 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 264 Stare = nori 85-100%']
+Negresti_Oas: 05 \ duminică \ 06:2:2022 \ 19:17:08
+[' Răsarit = 07:47:09 Apus = 17:33:34 Min (°C) = -3.89 Max (°C) =1.72 Presiune = 1017 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 134 Stare = nori 85-100%']
+Negresti_Oas: 06 \ luni \ 07:2:2022 \ 19:17:08
+[' Răsarit = 07:45:41 Apus = 17:35:11 Min (°C) = -1.86 Max (°C) =1.72 Presiune = 1008 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 293 Stare = zăpadă slabă']
+Negresti_Oas: 06 \ marți \ 08:2:2022 \ 19:16:58
+[' Răsarit = 07:44:12 Apus = 17:36:47 Min (°C) = -4.94 Max (°C) =3.15 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 213 Stare = nori 25-50%']
+Negresti_Oas: 06 \ miercuri \ 09:2:2022 \ 19:19:34
+[' Răsarit = 07:42:42 Apus = 17:38:23 Min (°C) = -1.18 Max (°C) =2.49 Presiune = 1029 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 93 Stare = nori 85-100%']
+Negresti_Oas: 06 \ joi \ 10:2:2022 \ 19:20:45
+[' Răsarit = 07:41:09 Apus = 17:40:00 Min (°C) = 1.2 Max (°C) =5.2 Presiune = 1025 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 115 Stare = nori 85-100%']
+Negresti_Oas: 06 \ vineri \ 11:2:2022 \ 19:19:39
+[' Răsarit = 07:39:36 Apus = 17:41:36 Min (°C) = 0.37 Max (°C) =5.14 Presiune = 1022 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 131 Stare = ploaie ușoară']
+Negresti_Oas: 06 \ sâmbătă \ 12:2:2022 \ 19:19:53
+[' Răsarit = 07:38:00 Apus = 17:43:12 Min (°C) = -2.65 Max (°C) =3.63 Presiune = 1035 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 59 Stare = cer senin']
+Negresti_Oas: 06 \ duminică \ 13:2:2022 \ 19:19:59
+[' Răsarit = 07:36:24 Apus = 17:44:48 Min (°C) = -4.55 Max (°C) =4.04 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 102 Stare = cer senin']
+Negresti_Oas: 07 \ luni \ 14:2:2022 \ 19:19:51
+[' Răsarit = 07:34:46 Apus = 17:46:24 Min (°C) = -4.05 Max (°C) =4.23 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 106 Stare = nori 25-50%']
+Negresti_Oas: 07 \ marți \ 15:2:2022 \ 19:19:07
+[' Răsarit = 07:33:06 Apus = 17:47:59 Min (°C) = -1.62 Max (°C) =3.55 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 99 Stare = nori 85-100%']
+Negresti_Oas: 07 \ miercuri \ 16:2:2022 \ 19:20:25
+[' Răsarit = 07:31:25 Apus = 17:49:35 Min (°C) = 1.92 Max (°C) =4.76 Presiune = 1015 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 144 Stare = nori 85-100%']
+Negresti_Oas: 07 \ joi \ 17:2:2022 \ 19:20:58
+[' Răsarit = 07:29:43 Apus = 17:51:10 Min (°C) = 3.23 Max (°C) =8.68 Presiune = 1001 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 6.15 Unghiul vântului = 271 Stare = nori 85-100%']
+Negresti_Oas: 07 \ vineri \ 18:2:2022 \ 19:19:50
+[' Răsarit = 07:28:00 Apus = 17:52:45 Min (°C) = 1.77 Max (°C) =6.9 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 146 Stare = cer senin']
+Negresti_Oas: 07 \ sâmbătă \ 19:2:2022 \ 19:20:05
+[' Răsarit = 07:26:15 Apus = 17:54:20 Min (°C) = 2.13 Max (°C) =8.38 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 224 Stare = nori 85-100%']
+Negresti_Oas: 07 \ duminică \ 20:2:2022 \ 19:21:20
+[' Răsarit = 07:24:30 Apus = 17:55:54 Min (°C) = 1.19 Max (°C) =7.03 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 236 Stare = nori 85-100%']
+Negresti_Oas: 08 \ luni \ 21:2:2022 \ 19:19:38
+[' Răsarit = 07:22:43 Apus = 17:57:28 Min (°C) = 2.81 Max (°C) =8.11 Presiune = 1005 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 157 Stare = nori 85-100%']
+Negresti_Oas: 08 \ marți \ 22:2:2022 \ 19:20:54
+[' Răsarit = 07:20:55 Apus = 17:59:02 Min (°C) = 3.11 Max (°C) =7.49 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 307 Stare = nori 50-85%']
+Negresti_Oas: 08 \ miercuri \ 23:2:2022 \ 19:20:07
+[' Răsarit = 07:19:06 Apus = 18:00:35 Min (°C) = 0.66 Max (°C) =4.96 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 264 Stare = nori 85-100%']
+Negresti_Oas: 08 \ joi \ 24:2:2022 \ 19:19:56
+[' Răsarit = 07:17:16 Apus = 18:02:08 Min (°C) = -0.16 Max (°C) =5.19 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 124 Stare = nori 50-85%']
+Negresti_Oas: 08 \ vineri \ 25:2:2022 \ 19:20:01
+[' Răsarit = 07:15:25 Apus = 18:03:41 Min (°C) = 0.31 Max (°C) =7.15 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 30 Stare = nori 50-85%']
+Negresti_Oas: 08 \ sâmbătă \ 26:2:2022 \ 19:20:27
+[' Răsarit = 07:13:33 Apus = 18:05:14 Min (°C) = 1.66 Max (°C) =4.58 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 46 Stare = nori 85-100%']
+Negresti_Oas: 08 \ duminică \ 27:2:2022 \ 19:19:34
+[' Răsarit = 07:11:40 Apus = 18:06:46 Min (°C) = 0.09 Max (°C) =7.01 Presiune = 1028 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 50-85%']
+Negresti_Oas: 09 \ luni \ 28:2:2022 \ 19:20:08
+[' Răsarit = 07:09:46 Apus = 18:08:18 Min (°C) = -0.56 Max (°C) =5.32 Presiune = 1030 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.22 Unghiul vântului = 65 Stare = nori 85-100%']
+Negresti_Oas: 09 \ marți \ 01:3:2022 \ 19:20:24
+[' Răsarit = 07:07:52 Apus = 18:09:49 Min (°C) = -0.86 Max (°C) =4.72 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 43 Stare = nori 85-100%']
+Negresti_Oas: 09 \ miercuri \ 02:3:2022 \ 19:19:29
+[' Răsarit = 07:05:57 Apus = 18:11:20 Min (°C) = -1.93 Max (°C) =5.1 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 343 Stare = nori 50-85%']
+Negresti_Oas: 09 \ joi \ 03:3:2022 \ 19:20:00
+[' Răsarit = 07:04:00 Apus = 18:12:51 Min (°C) = -1.3 Max (°C) =4.85 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 267 Stare = nori 85-100%']
+Negresti_Oas: 09 \ vineri \ 04:3:2022 \ 19:19:51
+[' Răsarit = 07:02:04 Apus = 18:14:22 Min (°C) = -0.2 Max (°C) =3.87 Presiune = 1016 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 309 Stare = nori 85-100%']
+Negresti_Oas: 09 \ sâmbătă \ 05:3:2022 \ 19:17:22
+[' Răsarit = 07:00:06 Apus = 18:15:52 Min (°C) = -1.36 Max (°C) =5.39 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 37 Stare = nori 50-85%']
+Negresti_Oas: 09 \ duminică \ 06:3:2022 \ 19:17:12
+[' Răsarit = 06:58:08 Apus = 18:17:22 Min (°C) = -1.29 Max (°C) =6.42 Presiune = 1018 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 6 Stare = nori 10-25%']
+Negresti_Oas: 10 \ luni \ 07:3:2022 \ 19:16:52
+[' Răsarit = 06:56:09 Apus = 18:18:51 Min (°C) = -1.21 Max (°C) =3.37 Presiune = 1016 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 347 Stare = nori 85-100%']
+Negresti_Oas: 10 \ marți \ 08:3:2022 \ 19:16:39
+[' Răsarit = 06:54:10 Apus = 18:20:20 Min (°C) = -3.06 Max (°C) =4.8 Presiune = 1019 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 352 Stare = nori 50-85%']
+Negresti_Oas: 10 \ miercuri \ 09:3:2022 \ 19:16:49
+[' Răsarit = 06:52:10 Apus = 18:21:49 Min (°C) = -3.19 Max (°C) =3.62 Presiune = 1021 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 65 Stare = nori 25-50%']
+Negresti_Oas: 10 \ joi \ 10:3:2022 \ 19:16:50
+[' Răsarit = 06:50:10 Apus = 18:23:18 Min (°C) = -3.72 Max (°C) =2.29 Presiune = 1031 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 44 Stare = nori 50-85%']
+Negresti_Oas: 10 \ vineri \ 11:3:2022 \ 19:16:46
+[' Răsarit = 06:48:09 Apus = 18:24:46 Min (°C) = -6.32 Max (°C) =1.48 Presiune = 1032 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.89 Unghiul vântului = 39 Stare = cer senin']
+Negresti_Oas: 10 \ sâmbătă \ 12:3:2022 \ 19:16:39
+[' Răsarit = 06:46:07 Apus = 18:26:14 Min (°C) = -5.12 Max (°C) =2.91 Presiune = 1031 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 303 Stare = nori 25-50%']
+Negresti_Oas: 10 \ duminică \ 13:3:2022 \ 19:16:52
+[' Răsarit = 06:44:06 Apus = 18:27:42 Min (°C) = -2.01 Max (°C) =5.89 Presiune = 1029 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 139 Stare = cer senin']
+Negresti_Oas: 11 \ luni \ 14:3:2022 \ 19:16:39
+[' Răsarit = 06:42:04 Apus = 18:29:10 Min (°C) = -0.95 Max (°C) =7.88 Presiune = 1036 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 99 Stare = cer senin']
+Negresti_Oas: 11 \ marți \ 15:3:2022 \ 19:16:48
+[' Răsarit = 06:40:01 Apus = 18:30:37 Min (°C) = 0.47 Max (°C) =8.88 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 91 Stare = nori 85-100%']
+Negresti_Oas: 11 \ miercuri \ 16:3:2022 \ 19:16:55
+[' Răsarit = 06:37:59 Apus = 18:32:04 Min (°C) = 2.33 Max (°C) =6.15 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 226 Stare = nori 85-100%']
+Negresti_Oas: 11 \ joi \ 17:3:2022 \ 19:16:52
+[' Răsarit = 06:35:56 Apus = 18:33:31 Min (°C) = 0.33 Max (°C) =8.91 Presiune = 1034 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 93 Stare = nori 50-85%']
+Negresti_Oas: 11 \ vineri \ 18:3:2022 \ 19:16:59
+[' Răsarit = 06:33:53 Apus = 18:34:58 Min (°C) = -1.95 Max (°C) =7.22 Presiune = 1040 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 10 Stare = cer senin']
+Negresti_Oas: 11 \ sâmbătă \ 19:3:2022 \ 19:17:06
+[' Răsarit = 06:31:50 Apus = 18:36:25 Min (°C) = -1.6 Max (°C) =7.28 Presiune = 1041 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 87 Stare = nori 25-50%']
+Negresti_Oas: 11 \ duminică \ 20:3:2022 \ 19:16:57
+[' Răsarit = 06:29:46 Apus = 18:37:51 Min (°C) = -2.26 Max (°C) =7.63 Presiune = 1041 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 34 Stare = cer senin']
+Negresti_Oas: 12 \ luni \ 21:3:2022 \ 19:17:18
+[' Răsarit = 06:27:43 Apus = 18:39:17 Min (°C) = -0.75 Max (°C) =10.61 Presiune = 1037 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 35 Stare = cer senin']
+Negresti_Oas: 12 \ marți \ 22:3:2022 \ 19:17:00
+[' Răsarit = 06:25:39 Apus = 18:40:43 Min (°C) = 1.54 Max (°C) =16.47 Presiune = 1034 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 67 Stare = cer senin']
+Negresti_Oas: 12 \ miercuri \ 23:3:2022 \ 19:16:46
+[' Răsarit = 06:23:35 Apus = 18:42:09 Min (°C) = 3.39 Max (°C) =16.42 Presiune = 1028 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 351 Stare = cer senin']
+Negresti_Oas: 12 \ joi \ 24:3:2022 \ 19:16:53
+[' Răsarit = 06:21:32 Apus = 18:43:35 Min (°C) = 4.53 Max (°C) =15.26 Presiune = 1023 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.9 Unghiul vântului = 356 Stare = cer senin']
+Negresti_Oas: 12 \ vineri \ 25:3:2022 \ 19:16:52
+[' Răsarit = 06:19:28 Apus = 18:45:01 Min (°C) = 1.73 Max (°C) =12.5 Presiune = 1026 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 49 Stare = cer senin']
+Negresti_Oas: 12 \ sâmbătă \ 26:3:2022 \ 19:17:06
+[' Răsarit = 06:17:24 Apus = 18:46:27 Min (°C) = 2.54 Max (°C) =13.91 Presiune = 1023 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 245 Stare = nori 50-85%']
+Negresti_Oas: 12 \ duminică \ 27:3:2022 \ 19:17:01
+[' Răsarit = 07:15:21 Apus = 19:47:52 Min (°C) = 4.11 Max (°C) =11.61 Presiune = 1029 Umiditate (%) = 40 Index UV = 0.12 Viteza vântului = 2.65 Unghiul vântului = 318 Stare = cer senin']
+Negresti_Oas: 13 \ luni \ 28:3:2022 \ 19:17:17
+[' Răsarit = 07:13:18 Apus = 19:49:18 Min (°C) = 2.03 Max (°C) =16.61 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.13 Viteza vântului = 0.53 Unghiul vântului = 254 Stare = cer senin']
+Negresti_Oas: 13 \ marți \ 29:3:2022 \ 19:17:04
+[' Răsarit = 07:11:15 Apus = 19:50:43 Min (°C) = 6.78 Max (°C) =17.49 Presiune = 1007 Umiditate (%) = 50 Index UV = 0.12 Viteza vântului = 4.37 Unghiul vântului = 222 Stare = nori 85-100%']
+Negresti_Oas: 13 \ miercuri \ 30:3:2022 \ 19:16:59
+[' Răsarit = 07:09:12 Apus = 19:52:09 Min (°C) = 8.77 Max (°C) =16.44 Presiune = 1003 Umiditate (%) = 61 Index UV = 0.14 Viteza vântului = 2.09 Unghiul vântului = 203 Stare = nori 85-100%']
+Negresti_Oas: 13 \ joi \ 31:3:2022 \ 19:17:21
+[' Răsarit = 07:07:09 Apus = 19:53:34 Min (°C) = 9.22 Max (°C) =14.61 Presiune = 997 Umiditate (%) = 88 Index UV = 0.01 Viteza vântului = 2.37 Unghiul vântului = 98 Stare = nori 85-100%']
+Negresti_Oas: 13 \ vineri \ 01:4:2022 \ 19:20:24
+[' Răsarit = 07:05:06 Apus = 19:54:59 Min (°C) = 10.01 Max (°C) =13.7 Presiune = 993 Umiditate (%) = 91 Index UV = 0.07 Viteza vântului = 2.72 Unghiul vântului = 185 Stare = ploaie ușoară']
+Negresti_Oas: 13 \ sâmbătă \ 02:4:2022 \ 19:19:59
+[' Răsarit = 07:03:04 Apus = 19:56:25 Min (°C) = 3.75 Max (°C) =9.6 Presiune = 1001 Umiditate (%) = 97 Index UV = 0.03 Viteza vântului = 1.41 Unghiul vântului = 267 Stare = ploaie ușoară']
+Negresti_Oas: 13 \ duminică \ 03:4:2022 \ 19:53:47
+[' Răsarit = 07:01:02 Apus = 19:57:50 Min (°C) = 0.21 Max (°C) =3.14 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 321 Stare = nori 85-100%']
+Negresti_Oas: 14 \ luni \ 04:4:2022 \ 19:20:01
+[' Răsarit = 06:59:01 Apus = 19:59:16 Min (°C) = -4.24 Max (°C) =2.9 Presiune = 1018 Umiditate (%) = 77 Index UV = 0.17 Viteza vântului = 2.97 Unghiul vântului = 233 Stare = nori 85-100%']
+Negresti_Oas: 14 \ marți \ 05:4:2022 \ 19:21:54
+[' Răsarit = 06:57:00 Apus = 20:00:41 Min (°C) = -2.29 Max (°C) =9.59 Presiune = 1009 Umiditate (%) = 87 Index UV = 0.14 Viteza vântului = 3.25 Unghiul vântului = 259 Stare = nori 85-100%']
+Negresti_Oas: 14 \ miercuri \ 06:4:2022 \ 19:20:04
+[' Răsarit = 06:54:59 Apus = 20:02:06 Min (°C) = 4.48 Max (°C) =15.61 Presiune = 1010 Umiditate (%) = 82 Index UV = 0.08 Viteza vântului = 1.69 Unghiul vântului = 133 Stare = nori 85-100%']
+Negresti_Oas: 14 \ joi \ 07:4:2022 \ 19:20:15
+[' Răsarit = 06:52:59 Apus = 20:03:32 Min (°C) = 6.88 Max (°C) =14.29 Presiune = 999 Umiditate (%) = 87 Index UV = 0.16 Viteza vântului = 3.3 Unghiul vântului = 258 Stare = nori 85-100%']
+Negresti_Oas: 14 \ vineri \ 08:4:2022 \ 19:19:51
+[' Răsarit = 06:51:00 Apus = 20:04:58 Min (°C) = 7.06 Max (°C) =16.61 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.18 Viteza vântului = 4.4 Unghiul vântului = 242 Stare = nori 85-100%']
+Negresti_Oas: 14 \ sâmbătă \ 09:4:2022 \ 19:20:04
+[' Răsarit = 06:49:01 Apus = 20:06:23 Min (°C) = 6.47 Max (°C) =11.88 Presiune = 1001 Umiditate (%) = 98 Index UV = 0.06 Viteza vântului = 1.58 Unghiul vântului = 187 Stare = nori 85-100%']
+Negresti_Oas: 14 \ duminică \ 10:4:2022 \ 19:21:34
+[' Răsarit = 06:47:02 Apus = 20:07:49 Min (°C) = 3.84 Max (°C) =8.56 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.21 Viteza vântului = 2.51 Unghiul vântului = 24 Stare = nori 85-100%']
+Negresti_Oas: 15 \ luni \ 11:4:2022 \ 19:20:07
+[' Răsarit = 06:45:04 Apus = 20:09:14 Min (°C) = 0.08 Max (°C) =8.84 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.22 Viteza vântului = 4.31 Unghiul vântului = 301 Stare = nori 50-85%']
+Negresti_Oas: 15 \ marți \ 12:4:2022 \ 19:19:22
+[' Răsarit = 06:43:07 Apus = 20:10:40 Min (°C) = 1.01 Max (°C) =10.66 Presiune = 1021 Umiditate (%) = 61 Index UV = 0.25 Viteza vântului = 2.3 Unghiul vântului = 292 Stare = nori 50-85%']
+Negresti_Oas: 15 \ miercuri \ 13:4:2022 \ 19:19:42
+[' Răsarit = 06:41:10 Apus = 20:12:06 Min (°C) = 0.41 Max (°C) =13.55 Presiune = 1021 Umiditate (%) = 57 Index UV = 0.23 Viteza vântului = 1.54 Unghiul vântului = 312 Stare = cer senin']
+Negresti_Oas: 15 \ joi \ 14:4:2022 \ 19:20:30
+[' Răsarit = 06:39:14 Apus = 20:13:32 Min (°C) = 3.74 Max (°C) =18.61 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.28 Viteza vântului = 0.74 Unghiul vântului = 274 Stare = cer senin']
+Negresti_Oas: 15 \ vineri \ 15:4:2022 \ 19:20:49
+[' Răsarit = 06:37:19 Apus = 20:14:58 Min (°C) = 6.91 Max (°C) =18.57 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.14 Viteza vântului = 1.47 Unghiul vântului = 325 Stare = nori 85-100%']
+Negresti_Oas: 15 \ sâmbătă \ 16:4:2022 \ 19:21:05
+[' Răsarit = 06:35:25 Apus = 20:16:23 Min (°C) = 5.6 Max (°C) =13.2 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.24 Viteza vântului = 4.45 Unghiul vântului = 24 Stare = ploaie ușoară']
+Negresti_Oas: 15 \ duminică \ 17:4:2022 \ 19:20:28
+[' Răsarit = 06:33:31 Apus = 20:17:49 Min (°C) = 0.18 Max (°C) =10.59 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.26 Viteza vântului = 4.52 Unghiul vântului = 39 Stare = nori 50-85%']
+Negresti_Oas: 16 \ luni \ 18:4:2022 \ 19:21:18
+[' Răsarit = 06:31:39 Apus = 20:19:15 Min (°C) = -0.84 Max (°C) =8.57 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.26 Viteza vântului = 2.05 Unghiul vântului = 308 Stare = nori 50-85%']
+Negresti_Oas: 16 \ marți \ 19:4:2022 \ 19:21:29
+[' Răsarit = 06:29:47 Apus = 20:20:41 Min (°C) = -1.11 Max (°C) =10.66 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.28 Viteza vântului = 1.92 Unghiul vântului = 296 Stare = nori 50-85%']
+Negresti_Oas: 16 \ miercuri \ 20:4:2022 \ 19:20:19
+[' Răsarit = 06:27:56 Apus = 20:22:07 Min (°C) = 0.68 Max (°C) =11.72 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.28 Viteza vântului = 1.96 Unghiul vântului = 308 Stare = nori 85-100%']
+Negresti_Oas: 16 \ joi \ 21:4:2022 \ 19:20:41
+[' Răsarit = 06:26:06 Apus = 20:23:33 Min (°C) = 2.28 Max (°C) =12.49 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.18 Viteza vântului = 1.88 Unghiul vântului = 223 Stare = nori 85-100%']
+Negresti_Oas: 16 \ vineri \ 22:4:2022 \ 19:17:43
+[' Răsarit = 06:24:17 Apus = 20:24:59 Min (°C) = 4.23 Max (°C) =14.6 Presiune = 1006 Umiditate (%) = 73 Index UV = 0.26 Viteza vântului = 2.46 Unghiul vântului = 78 Stare = nori 85-100%']
+Negresti_Oas: 16 \ sâmbătă \ 23:4:2022 \ 19:17:41
+[' Răsarit = 06:22:29 Apus = 20:26:25 Min (°C) = 8.81 Max (°C) =12.96 Presiune = 1007 Umiditate (%) = 89 Index UV = 0.21 Viteza vântului = 2.09 Unghiul vântului = 242 Stare = nori 85-100%']
+Negresti_Oas: 16 \ duminică \ 24:4:2022 \ 19:17:12
+[' Răsarit = 06:20:42 Apus = 20:27:51 Min (°C) = 5.98 Max (°C) =19.6 Presiune = 1005 Umiditate (%) = 69 Index UV = 0.14 Viteza vântului = 3.15 Unghiul vântului = 142 Stare = nori 25-50%']
+Negresti_Oas: 17 \ luni \ 25:4:2022 \ 19:17:08
+[' Răsarit = 06:18:57 Apus = 20:29:17 Min (°C) = 9.28 Max (°C) =15.57 Presiune = 1009 Umiditate (%) = 86 Index UV = 0.26 Viteza vântului = 1.71 Unghiul vântului = 219 Stare = nori 85-100%']
+Negresti_Oas: 17 \ marți \ 26:4:2022 \ 19:17:10
+[' Răsarit = 06:17:12 Apus = 20:30:43 Min (°C) = 7.37 Max (°C) =17.61 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.32 Viteza vântului = 2.2 Unghiul vântului = 321 Stare = nori 25-50%']
+Negresti_Oas: 17 \ miercuri \ 27:4:2022 \ 19:17:14
+[' Răsarit = 06:15:28 Apus = 20:32:09 Min (°C) = 7.12 Max (°C) =18.16 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.37 Viteza vântului = 1.33 Unghiul vântului = 24 Stare = nori 85-100%']
+Negresti_Oas: 17 \ joi \ 28:4:2022 \ 19:17:16
+[' Răsarit = 06:13:46 Apus = 20:33:34 Min (°C) = 8.57 Max (°C) =11.73 Presiune = 1022 Umiditate (%) = 92 Index UV = 0.07 Viteza vântului = 1.63 Unghiul vântului = 35 Stare = nori 85-100%']
+Negresti_Oas: 17 \ vineri \ 29:4:2022 \ 19:20:09
+[' Răsarit = 06:12:05 Apus = 20:35:00 Min (°C) = 7.07 Max (°C) =16.72 Presiune = 1022 Umiditate (%) = 75 Index UV = 0.18 Viteza vântului = 0.41 Unghiul vântului = 218 Stare = nori 85-100%']
+Negresti_Oas: 17 \ sâmbătă \ 30:4:2022 \ 19:16:52
+[' Răsarit = 06:10:25 Apus = 20:36:25 Min (°C) = 7.53 Max (°C) =18.55 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.43 Viteza vântului = 1.61 Unghiul vântului = 312 Stare = nori 25-50%']
+Negresti_Oas: 17 \ duminică \ 01:5:2022 \ 19:16:59
+[' Răsarit = 06:08:46 Apus = 20:37:50 Min (°C) = 8.17 Max (°C) =20.61 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.43 Viteza vântului = 1.03 Unghiul vântului = 305 Stare = nori 50-85%']
+Negresti_Oas: 18 \ marți \ 03:5:2022 \ 20:17:12
+[' Răsarit = 06:05:33 Apus = 20:40:39 Min (°C) = 8.72 Max (°C) =18.79 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.1 Viteza vântului = 1.26 Unghiul vântului = 51 Stare = nori 25-50%']
+Negresti_Oas: 18 \ miercuri \ 04:5:2022 \ 19:22:15
+[' Răsarit = 06:03:59 Apus = 20:42:04 Min (°C) = 7.49 Max (°C) =19.61 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.43 Viteza vântului = 1.83 Unghiul vântului = 306 Stare = nori 85-100%']
+Negresti_Oas: 18 \ joi \ 05:5:2022 \ 19:20:39
+[' Răsarit = 06:02:26 Apus = 20:43:28 Min (°C) = 7.91 Max (°C) =19.61 Presiune = 1021 Umiditate (%) = 69 Index UV = 0.5 Viteza vântului = 1.02 Unghiul vântului = 127 Stare = nori 50-85%']
+Negresti_Oas: 18 \ vineri \ 06:5:2022 \ 19:18:20
+[' Răsarit = 06:00:54 Apus = 20:44:51 Min (°C) = 10.38 Max (°C) =22.49 Presiune = 1020 Umiditate (%) = 71 Index UV = 0.5 Viteza vântului = 0.86 Unghiul vântului = 57 Stare = nori 50-85%']
+Negresti_Oas: 18 \ sâmbătă \ 07:5:2022 \ 19:17:34
+[' Răsarit = 05:59:24 Apus = 20:46:15 Min (°C) = 10.28 Max (°C) =21.72 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.53 Viteza vântului = 0.42 Unghiul vântului = 306 Stare = nori 85-100%']
+Negresti_Oas: 18 \ duminică \ 08:5:2022 \ 19:18:22
+[' Răsarit = 05:57:56 Apus = 20:47:38 Min (°C) = 10.05 Max (°C) =21.71 Presiune = 1019 Umiditate (%) = 73 Index UV = 0.52 Viteza vântului = 1.67 Unghiul vântului = 322 Stare = nori 85-100%']
+Negresti_Oas: 19 \ luni \ 09:5:2022 \ 19:17:58
+[' Răsarit = 05:56:29 Apus = 20:49:00 Min (°C) = 10.77 Max (°C) =21.35 Presiune = 1021 Umiditate (%) = 73 Index UV = 0.52 Viteza vântului = 1.68 Unghiul vântului = 86 Stare = nori 50-85%']
+Negresti_Oas: 19 \ marți \ 10:5:2022 \ 19:18:09
+[' Răsarit = 05:55:04 Apus = 20:50:22 Min (°C) = 11.88 Max (°C) =21.61 Presiune = 1018 Umiditate (%) = 70 Index UV = 0.55 Viteza vântului = 1.93 Unghiul vântului = 294 Stare = ploaie ușoară']
+Negresti_Oas: 19 \ miercuri \ 11:5:2022 \ 19:17:54
+[' Răsarit = 05:53:40 Apus = 20:51:43 Min (°C) = 9.75 Max (°C) =23.61 Presiune = 1018 Umiditate (%) = 70 Index UV = 0.51 Viteza vântului = 0.34 Unghiul vântului = 175 Stare = nori 85-100%']
+Negresti_Oas: 19 \ joi \ 12:5:2022 \ 19:18:06
+[' Răsarit = 05:52:18 Apus = 20:53:04 Min (°C) = 12.34 Max (°C) =26.61 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.61 Viteza vântului = 3.03 Unghiul vântului = 218 Stare = nori 10-25%']
+Negresti_Oas: 19 \ vineri \ 13:5:2022 \ 19:17:33
+[' Răsarit = 05:50:58 Apus = 20:54:24 Min (°C) = 14.36 Max (°C) =23.51 Presiune = 1015 Umiditate (%) = 91 Index UV = 0.55 Viteza vântului = 0.59 Unghiul vântului = 8 Stare = nori 85-100%']
+Negresti_Oas: 19 \ sâmbătă \ 14:5:2022 \ 19:17:40
+[' Răsarit = 05:49:40 Apus = 20:55:44 Min (°C) = 12.35 Max (°C) =21.61 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.6 Viteza vântului = 2.58 Unghiul vântului = 294 Stare = nori 10-25%']
+Negresti_Oas: 19 \ duminică \ 15:5:2022 \ 19:17:39
+[' Răsarit = 05:48:23 Apus = 20:57:02 Min (°C) = 11.5 Max (°C) =22.61 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.6 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = nori 25-50%']
+Negresti_Oas: 20 \ luni \ 16:5:2022 \ 19:18:54
+[' Răsarit = 05:47:08 Apus = 20:58:20 Min (°C) = 13.32 Max (°C) =23.61 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.55 Viteza vântului = 2.49 Unghiul vântului = 305 Stare = nori 50-85%']
+Negresti_Oas: 20 \ marți \ 17:5:2022 \ 19:20:44
+[' Răsarit = 05:45:56 Apus = 20:59:37 Min (°C) = 11.82 Max (°C) =18.84 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.42 Viteza vântului = 1.85 Unghiul vântului = 351 Stare = nori 85-100%']
+Negresti_Oas: 20 \ miercuri \ 18:5:2022 \ 19:17:49
+[' Răsarit = 05:44:45 Apus = 21:00:54 Min (°C) = 6.45 Max (°C) =18.61 Presiune = 1025 Umiditate (%) = 54 Index UV = 0.6 Viteza vântului = 3.83 Unghiul vântului = 341 Stare = cer senin']
+Negresti_Oas: 20 \ joi \ 19:5:2022 \ 20:22:37
+[' Răsarit = 05:43:36 Apus = 21:02:09 Min (°C) = 5.55 Max (°C) =20.61 Presiune = 1027 Umiditate (%) = 68 Index UV = 0.19 Viteza vântului = 0.47 Unghiul vântului = 274 Stare = nori 10-25%']
+Negresti_Oas: 20 \ vineri \ 20:5:2022 \ 19:17:40
+[' Răsarit = 05:42:29 Apus = 21:03:23 Min (°C) = 9.52 Max (°C) =22.49 Presiune = 1022 Umiditate (%) = 61 Index UV = 0.65 Viteza vântului = 1.05 Unghiul vântului = 220 Stare = nori 85-100%']
+Negresti_Oas: 20 \ sâmbătă \ 21:5:2022 \ 19:20:02
+[' Răsarit = 05:41:24 Apus = 21:04:36 Min (°C) = 13.1 Max (°C) =25.61 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.68 Viteza vântului = 3.02 Unghiul vântului = 302 Stare = nori 85-100%']

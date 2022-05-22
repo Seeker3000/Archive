@@ -1,0 +1,954 @@
+Abrud: 04 \ luni \ 25:1:2021 \ 22:23:10
+[' Răsarit = 07:58:31 Apus = 17:21:20 Min (°C) = -4.37 Max (°C) =2.68 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = nori 50-85%']
+Abrud: 04 \ marți \ 26:1:2021 \ 09:42:34
+[' Răsarit = 07:57:31 Apus = 17:22:48 Min (°C) = -5.15 Max (°C) =0.19 Presiune = 1007 Umiditate (%) = 100 Index UV = 0.57 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = zăpadă slabă']
+Abrud: 04 \ miercuri \ 27:1:2021 \ 19:02:08
+[' Răsarit = 07:56:29 Apus = 17:24:16 Min (°C) = -5.33 Max (°C) =0 Presiune = 1009 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 50-85%']
+Abrud: 04 \ joi \ 28:1:2021 \ 19:19:02
+[' Răsarit = 07:55:25 Apus = 17:25:45 Min (°C) = -6.3 Max (°C) =-1 Presiune = 1008 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 25-50%']
+Abrud: 04 \ vineri \ 29:1:2021 \ 20:04:03
+[' Răsarit = 07:54:18 Apus = 17:27:14 Min (°C) = -5.11 Max (°C) =1.48 Presiune = 1000 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = zăpadă slabă']
+Abrud: 04 \ sâmbătă \ 30:1:2021 \ 20:03:48
+[' Răsarit = 07:53:10 Apus = 17:28:44 Min (°C) = 1.19 Max (°C) =5 Presiune = 999 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 180 Stare = nori 50-85%']
+Abrud: 04 \ duminică \ 31:1:2021 \ 19:04:05
+[' Răsarit = 07:52:00 Apus = 17:30:14 Min (°C) = 1.03 Max (°C) =2.61 Presiune = 1002 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = zăpadă slabă']
+Abrud: 05 \ luni \ 01:2:2021 \ 19:04:11
+[' Răsarit = 07:50:49 Apus = 17:31:44 Min (°C) = -0.24 Max (°C) =2.92 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = ceață']
+Abrud: 05 \ marți \ 02:2:2021 \ 20:31:36
+[' Răsarit = 07:49:35 Apus = 17:33:14 Min (°C) = -0.52 Max (°C) =3.35 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = ceață']
+Abrud: 05 \ miercuri \ 03:2:2021 \ 19:29:20
+[' Răsarit = 07:48:19 Apus = 17:34:45 Min (°C) = 0.24 Max (°C) =6 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Abrud: 05 \ joi \ 04:2:2021 \ 19:05:39
+[' Răsarit = 07:47:02 Apus = 17:36:16 Min (°C) = 1.37 Max (°C) =7.09 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 10-25%']
+Abrud: 05 \ vineri \ 05:2:2021 \ 19:01:25
+[' Răsarit = 07:45:43 Apus = 17:37:47 Min (°C) = 1.57 Max (°C) =7.1 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = nori 85-100%']
+Abrud: 05 \ sâmbătă \ 06:2:2021 \ 19:30:16
+[' Răsarit = 07:44:22 Apus = 17:39:18 Min (°C) = 4.37 Max (°C) =6.29 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = nori 85-100%']
+Abrud: 05 \ duminică \ 07:2:2021 \ 19:05:03
+[' Răsarit = 07:43:00 Apus = 17:40:48 Min (°C) = 4.18 Max (°C) =11.15 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Abrud: 06 \ luni \ 08:2:2021 \ 20:46:14
+[' Răsarit = 07:41:36 Apus = 17:42:19 Min (°C) = 4.84 Max (°C) =10 Presiune = 994 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = ploaie ușoară']
+Abrud: 06 \ marți \ 09:2:2021 \ 19:02:51
+[' Răsarit = 07:40:10 Apus = 17:43:50 Min (°C) = 1.62 Max (°C) =9.41 Presiune = 1002 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 120 Stare = ploaie ușoară']
+Abrud: 06 \ miercuri \ 10:2:2021 \ 19:03:35
+[' Răsarit = 07:38:43 Apus = 17:45:21 Min (°C) = 4.53 Max (°C) =9.38 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 160 Stare = nori 85-100%']
+Abrud: 06 \ joi \ 11:2:2021 \ 18:59:18
+[' Răsarit = 07:37:15 Apus = 17:46:52 Min (°C) = -7.72 Max (°C) =5.6 Presiune = 1008 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 340 Stare = snow']
+Abrud: 06 \ vineri \ 12:2:2021 \ 20:37:07
+[' Răsarit = 07:35:45 Apus = 17:48:22 Min (°C) = -11.16 Max (°C) =-7.8 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 50-85%']
+Abrud: 06 \ sâmbătă \ 13:2:2021 \ 19:02:50
+[' Răsarit = 07:34:13 Apus = 17:49:52 Min (°C) = -13.53 Max (°C) =-5.71 Presiune = 1030 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 50-85%']
+Abrud: 06 \ duminică \ 14:2:2021 \ 19:03:13
+[' Răsarit = 07:32:40 Apus = 17:51:23 Min (°C) = -11.17 Max (°C) =-2.08 Presiune = 1031 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = nori 50-85%']
+Abrud: 07 \ luni \ 15:2:2021 \ 19:57:19
+[' Răsarit = 07:31:06 Apus = 17:52:53 Min (°C) = -9.3 Max (°C) =-1.41 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 50-85%']
+Abrud: 07 \ marți \ 16:2:2021 \ 18:54:26
+[' Răsarit = 07:29:31 Apus = 17:54:22 Min (°C) = -8.18 Max (°C) =-1.48 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 110 Stare = cer senin']
+Abrud: 07 \ miercuri \ 17:2:2021 \ 19:02:16
+[' Răsarit = 07:27:54 Apus = 17:55:52 Min (°C) = -5.47 Max (°C) =0.82 Presiune = 1016 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = zăpadă slabă']
+Abrud: 07 \ joi \ 18:2:2021 \ 19:06:19
+[' Răsarit = 07:26:16 Apus = 17:57:21 Min (°C) = -2.97 Max (°C) =2.78 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = nori 50-85%']
+Abrud: 07 \ vineri \ 19:2:2021 \ 18:58:51
+[' Răsarit = 07:24:37 Apus = 17:58:50 Min (°C) = -1.91 Max (°C) =4.3 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Abrud: 07 \ sâmbătă \ 20:2:2021 \ 19:03:36
+[' Răsarit = 07:22:57 Apus = 18:00:18 Min (°C) = -0.03 Max (°C) =3.76 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 50-85%']
+Abrud: 07 \ duminică \ 21:2:2021 \ 19:00:52
+[' Răsarit = 07:21:15 Apus = 18:01:47 Min (°C) = -1.4 Max (°C) =7.7 Presiune = 1031 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 120 Stare = nori 85-100%']
+Abrud: 08 \ luni \ 22:2:2021 \ 19:05:26
+[' Răsarit = 07:19:33 Apus = 18:03:15 Min (°C) = 0 Max (°C) =9.97 Presiune = 1031 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = ceață']
+Abrud: 08 \ marți \ 23:2:2021 \ 19:03:17
+[' Răsarit = 07:17:49 Apus = 18:04:42 Min (°C) = 1 Max (°C) =11.65 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Abrud: 08 \ miercuri \ 24:2:2021 \ 19:03:46
+[' Răsarit = 07:16:04 Apus = 18:06:10 Min (°C) = 2.59 Max (°C) =12.82 Presiune = 1036 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = cer senin']
+Abrud: 08 \ joi \ 25:2:2021 \ 19:01:59
+[' Răsarit = 07:14:19 Apus = 18:07:37 Min (°C) = 4.73 Max (°C) =15.28 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = cer senin']
+Abrud: 08 \ vineri \ 26:2:2021 \ 19:02:35
+[' Răsarit = 07:12:32 Apus = 18:09:04 Min (°C) = 5.73 Max (°C) =15.76 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Abrud: 08 \ sâmbătă \ 27:2:2021 \ 18:59:12
+[' Răsarit = 07:10:45 Apus = 18:10:30 Min (°C) = 0.38 Max (°C) =10.19 Presiune = 1025 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = nori 10-25%']
+Abrud: 08 \ duminică \ 28:2:2021 \ 19:04:11
+[' Răsarit = 07:08:57 Apus = 18:11:56 Min (°C) = -0.54 Max (°C) =7.66 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 50-85%']
+Abrud: 09 \ luni \ 01:3:2021 \ 18:58:22
+[' Răsarit = 07:07:08 Apus = 18:13:22 Min (°C) = -0.81 Max (°C) =7.1 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 50-85%']
+Abrud: 09 \ marți \ 02:3:2021 \ 19:06:54
+[' Răsarit = 07:05:18 Apus = 18:14:47 Min (°C) = -0.66 Max (°C) =8.28 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = cer senin']
+Abrud: 09 \ miercuri \ 03:3:2021 \ 19:02:16
+[' Răsarit = 07:03:28 Apus = 18:16:12 Min (°C) = 0.77 Max (°C) =10.86 Presiune = 1028 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Abrud: 09 \ joi \ 04:3:2021 \ 19:03:04
+[' Răsarit = 07:01:36 Apus = 18:17:37 Min (°C) = 1.87 Max (°C) =10.78 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = nori 50-85%']
+Abrud: 09 \ vineri \ 05:3:2021 \ 19:00:57
+[' Răsarit = 06:59:44 Apus = 18:19:01 Min (°C) = 1.99 Max (°C) =10 Presiune = 1012 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = nori 50-85%']
+Abrud: 09 \ sâmbătă \ 06:3:2021 \ 19:01:59
+[' Răsarit = 06:57:52 Apus = 18:20:25 Min (°C) = -3.24 Max (°C) =2.31 Presiune = 1028 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 320 Stare = nori 25-50%']
+Abrud: 09 \ duminică \ 07:3:2021 \ 19:02:56
+[' Răsarit = 06:55:59 Apus = 18:21:49 Min (°C) = -4.05 Max (°C) =3.95 Presiune = 1020 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Abrud: 10 \ luni \ 08:3:2021 \ 19:05:54
+[' Răsarit = 06:54:05 Apus = 18:23:12 Min (°C) = -3.21 Max (°C) =4.66 Presiune = 1015 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 10-25%']
+Abrud: 10 \ marți \ 09:3:2021 \ 18:59:30
+[' Răsarit = 06:52:11 Apus = 18:24:35 Min (°C) = -2.91 Max (°C) =5 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 85-100%']
+Abrud: 10 \ miercuri \ 10:3:2021 \ 19:06:32
+[' Răsarit = 06:50:16 Apus = 18:25:58 Min (°C) = -1.96 Max (°C) =3.36 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = nori 50-85%']
+Abrud: 10 \ joi \ 11:3:2021 \ 19:01:41
+[' Răsarit = 06:48:21 Apus = 18:27:21 Min (°C) = -3.54 Max (°C) =6.05 Presiune = 1017 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = nori 10-25%']
+Abrud: 10 \ vineri \ 12:3:2021 \ 19:02:41
+[' Răsarit = 06:46:25 Apus = 18:28:43 Min (°C) = -1.77 Max (°C) =6.46 Presiune = 1013 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 150 Stare = nori 10-25%']
+Abrud: 10 \ sâmbătă \ 13:3:2021 \ 19:02:29
+[' Răsarit = 06:44:29 Apus = 18:30:05 Min (°C) = 0.95 Max (°C) =8.95 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = nori 50-85%']
+Abrud: 10 \ duminică \ 14:3:2021 \ 19:04:39
+[' Răsarit = 06:42:32 Apus = 18:31:27 Min (°C) = 0.72 Max (°C) =9.87 Presiune = 1006 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 85-100%']
+Abrud: 11 \ luni \ 15:3:2021 \ 19:04:16
+[' Răsarit = 06:40:36 Apus = 18:32:48 Min (°C) = 3.86 Max (°C) =7 Presiune = 998 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 85-100%']
+Abrud: 11 \ marți \ 16:3:2021 \ 19:02:37
+[' Răsarit = 06:38:39 Apus = 18:34:10 Min (°C) = 1.16 Max (°C) =3.56 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = nori 85-100%']
+Abrud: 11 \ miercuri \ 17:3:2021 \ 19:03:27
+[' Răsarit = 06:36:42 Apus = 18:35:31 Min (°C) = -0.12 Max (°C) =4.16 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = nori 85-100%']
+Abrud: 11 \ joi \ 18:3:2021 \ 19:02:06
+[' Răsarit = 06:34:44 Apus = 18:36:52 Min (°C) = -0.61 Max (°C) =2.9 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 85-100%']
+Abrud: 11 \ vineri \ 19:3:2021 \ 18:59:59
+[' Răsarit = 06:32:47 Apus = 18:38:13 Min (°C) = -6.13 Max (°C) =1.05 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = snow']
+Abrud: 11 \ sâmbătă \ 20:3:2021 \ 19:02:28
+[' Răsarit = 06:30:49 Apus = 18:39:33 Min (°C) = -8.28 Max (°C) =2 Presiune = 1019 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 230 Stare = nori 25-50%']
+Abrud: 11 \ duminică \ 21:3:2021 \ 18:58:24
+[' Răsarit = 06:28:51 Apus = 18:40:54 Min (°C) = -6.98 Max (°C) =6 Presiune = 1011 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 190 Stare = nori 50-85%']
+Abrud: 12 \ luni \ 22:3:2021 \ 19:03:40
+[' Răsarit = 06:26:53 Apus = 18:42:14 Min (°C) = -5.09 Max (°C) =3.1 Presiune = 1008 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 300 Stare = nori 85-100%']
+Abrud: 12 \ marți \ 23:3:2021 \ 19:05:11
+[' Răsarit = 06:24:55 Apus = 18:43:34 Min (°C) = -7.94 Max (°C) =3.4 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 300 Stare = nori 85-100%']
+Abrud: 12 \ miercuri \ 24:3:2021 \ 19:03:42
+[' Răsarit = 06:22:57 Apus = 18:44:54 Min (°C) = -6.57 Max (°C) =3.77 Presiune = 1018 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 10 Stare = nori 10-25%']
+Abrud: 12 \ joi \ 25:3:2021 \ 19:03:23
+[' Răsarit = 06:20:59 Apus = 18:46:14 Min (°C) = -6.89 Max (°C) =7.9 Presiune = 1019 Umiditate (%) = 29 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Abrud: 12 \ vineri \ 26:3:2021 \ 19:08:19
+[' Răsarit = 06:19:02 Apus = 18:47:34 Min (°C) = -5.51 Max (°C) =8.14 Presiune = 1023 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = cer senin']
+Abrud: 12 \ sâmbătă \ 27:3:2021 \ 19:07:53
+[' Răsarit = 06:17:04 Apus = 18:48:54 Min (°C) = -2.43 Max (°C) =13.03 Presiune = 1023 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = cer senin']
+Abrud: 12 \ duminică \ 28:3:2021 \ 19:04:02
+[' Răsarit = 07:15:06 Apus = 19:50:14 Min (°C) = 0.83 Max (°C) =10.43 Presiune = 1029 Umiditate (%) = 43 Index UV = 0.11 Viteza vântului = 7.2 Unghiul vântului = 320 Stare = nori 25-50%']
+Abrud: 13 \ luni \ 29:3:2021 \ 19:02:56
+[' Răsarit = 07:13:09 Apus = 19:51:34 Min (°C) = -2.99 Max (°C) =11 Presiune = 1030 Umiditate (%) = 40 Index UV = 0.11 Viteza vântului = 5.14 Unghiul vântului = 340 Stare = nori 25-50%']
+Abrud: 13 \ marți \ 30:3:2021 \ 19:02:11
+[' Răsarit = 07:11:12 Apus = 19:52:53 Min (°C) = -1.04 Max (°C) =14 Presiune = 1028 Umiditate (%) = 38 Index UV = 0.09 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = nori 25-50%']
+Abrud: 13 \ miercuri \ 31:3:2021 \ 19:01:09
+[' Răsarit = 07:09:15 Apus = 19:54:13 Min (°C) = 2.43 Max (°C) =17 Presiune = 1023 Umiditate (%) = 45 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 50-85%']
+Abrud: 13 \ joi \ 01:4:2021 \ 19:02:20
+[' Răsarit = 07:07:18 Apus = 19:55:33 Min (°C) = 5.16 Max (°C) =18 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.16 Viteza vântului = 1.61 Unghiul vântului = 262 Stare = nori 25-50%']
+Abrud: 13 \ vineri \ 02:4:2021 \ 19:05:04
+[' Răsarit = 07:05:22 Apus = 19:56:52 Min (°C) = 5.9 Max (°C) =13.08 Presiune = 1009 Umiditate (%) = 82 Index UV = 0.03 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Abrud: 13 \ sâmbătă \ 03:4:2021 \ 20:25:57
+[' Răsarit = 07:03:26 Apus = 19:58:12 Min (°C) = 1.74 Max (°C) =7.7 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = nori 50-85%']
+Abrud: 13 \ duminică \ 04:4:2021 \ 20:05:08
+[' Răsarit = 07:01:30 Apus = 19:59:32 Min (°C) = 0.78 Max (°C) =6.01 Presiune = 1014 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 310 Stare = nori 85-100%']
+Abrud: 14 \ luni \ 05:4:2021 \ 14:31:36
+[' Răsarit = 06:59:35 Apus = 20:00:51 Min (°C) = -1.79 Max (°C) =8.95 Presiune = 1012 Umiditate (%) = 46 Index UV = 3.7 Viteza vântului = 4.63 Unghiul vântului = 150 Stare = nori 50-85%']
+Abrud: 14 \ luni \ 05:4:2021 \ 19:03:28
+[' Răsarit = 06:59:35 Apus = 20:00:51 Min (°C) = -1.79 Max (°C) =11.47 Presiune = 1008 Umiditate (%) = 35 Index UV = 0.19 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Abrud: 14 \ marți \ 06:4:2021 \ 20:06:42
+[' Răsarit = 06:57:40 Apus = 20:02:11 Min (°C) = 0.09 Max (°C) =7.15 Presiune = 1003 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 330 Stare = nori 85-100%']
+Abrud: 14 \ miercuri \ 07:4:2021 \ 19:01:33
+[' Răsarit = 06:55:46 Apus = 20:03:31 Min (°C) = -5.88 Max (°C) =7.1 Presiune = 1009 Umiditate (%) = 29 Index UV = 0.14 Viteza vântului = 4.63 Unghiul vântului = 300 Stare = nori 25-50%']
+Abrud: 14 \ joi \ 08:4:2021 \ 19:01:19
+[' Răsarit = 06:53:52 Apus = 20:04:51 Min (°C) = -7.55 Max (°C) =6.05 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.15 Viteza vântului = 4.63 Unghiul vântului = 270 Stare = nori 50-85%']
+Abrud: 14 \ vineri \ 09:4:2021 \ 19:01:34
+[' Răsarit = 06:51:59 Apus = 20:06:11 Min (°C) = -3.56 Max (°C) =10 Presiune = 1026 Umiditate (%) = 34 Index UV = 0.21 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = nori 10-25%']
+Abrud: 14 \ sâmbătă \ 10:4:2021 \ 19:01:28
+[' Răsarit = 06:50:06 Apus = 20:07:31 Min (°C) = -0.93 Max (°C) =15 Presiune = 1021 Umiditate (%) = 26 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
+Abrud: 14 \ duminică \ 11:4:2021 \ 19:02:43
+[' Răsarit = 06:48:14 Apus = 20:08:50 Min (°C) = 2.33 Max (°C) =17.3 Presiune = 1020 Umiditate (%) = 34 Index UV = 0.24 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = nori 25-50%']
+Abrud: 15 \ luni \ 12:4:2021 \ 21:46:30
+[' Răsarit = 06:46:23 Apus = 20:10:11 Min (°C) = 6.67 Max (°C) =17.6 Presiune = 1017 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = nori 10-25%']
+Abrud: 15 \ marți \ 13:4:2021 \ 19:01:31
+[' Răsarit = 06:44:32 Apus = 20:11:31 Min (°C) = 8.36 Max (°C) =16.05 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.02 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = ploaie ușoară']
+Abrud: 15 \ miercuri \ 14:4:2021 \ 19:02:06
+[' Răsarit = 06:42:42 Apus = 20:12:51 Min (°C) = 0.86 Max (°C) =5.71 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.16 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = nori 85-100%']
+Abrud: 15 \ joi \ 15:4:2021 \ 19:01:24
+[' Răsarit = 06:40:53 Apus = 20:14:11 Min (°C) = -0.85 Max (°C) =3.95 Presiune = 1018 Umiditate (%) = 81 Index UV = 0.21 Viteza vântului = 1.03 Unghiul vântului = 90 Stare = nori 85-100%']
+Abrud: 15 \ vineri \ 16:4:2021 \ 19:01:21
+[' Răsarit = 06:39:05 Apus = 20:15:31 Min (°C) = -1.14 Max (°C) =7.1 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.23 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 50-85%']
+Abrud: 15 \ sâmbătă \ 17:4:2021 \ 19:01:18
+[' Răsarit = 06:37:17 Apus = 20:16:51 Min (°C) = -3.56 Max (°C) =11.05 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.26 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 50-85%']
+Abrud: 15 \ duminică \ 18:4:2021 \ 19:01:28
+[' Răsarit = 06:35:30 Apus = 20:18:12 Min (°C) = 2.62 Max (°C) =10 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.03 Viteza vântului = 2.06 Unghiul vântului = 190 Stare = nori 85-100%']
+Abrud: 16 \ luni \ 19:4:2021 \ 19:01:25
+[' Răsarit = 06:33:44 Apus = 20:19:32 Min (°C) = 3.33 Max (°C) =10 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.15 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 85-100%']
+Abrud: 16 \ marți \ 20:4:2021 \ 19:01:27
+[' Răsarit = 06:31:59 Apus = 20:20:52 Min (°C) = 3.51 Max (°C) =8.95 Presiune = 1011 Umiditate (%) = 87 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 50-85%']
+Abrud: 16 \ miercuri \ 21:4:2021 \ 19:01:44
+[' Răsarit = 06:30:15 Apus = 20:22:13 Min (°C) = 2.42 Max (°C) =11.05 Presiune = 1016 Umiditate (%) = 66 Index UV = 0.31 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 25-50%']
+Abrud: 16 \ joi \ 22:4:2021 \ 19:02:09
+[' Răsarit = 06:28:32 Apus = 20:23:33 Min (°C) = 2.64 Max (°C) =13.95 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.36 Viteza vântului = 10.29 Unghiul vântului = 300 Stare = nori 50-85%']
+Abrud: 16 \ vineri \ 23:4:2021 \ 19:01:38
+[' Răsarit = 06:26:50 Apus = 20:24:53 Min (°C) = 2.62 Max (°C) =10.1 Presiune = 1021 Umiditate (%) = 50 Index UV = 0.35 Viteza vântului = 3.98 Unghiul vântului = 293 Stare = nori 50-85%']
+Abrud: 16 \ sâmbătă \ 24:4:2021 \ 19:01:30
+[' Răsarit = 06:25:09 Apus = 20:26:14 Min (°C) = 0.27 Max (°C) =13.95 Presiune = 1021 Umiditate (%) = 35 Index UV = 0.3 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = nori 25-50%']
+Abrud: 16 \ duminică \ 25:4:2021 \ 19:01:30
+[' Răsarit = 06:23:29 Apus = 20:27:34 Min (°C) = 1.53 Max (°C) =15 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.4 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = nori 50-85%']
+Abrud: 17 \ luni \ 26:4:2021 \ 19:01:18
+[' Răsarit = 06:21:50 Apus = 20:28:54 Min (°C) = 2.97 Max (°C) =12.1 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.31 Viteza vântului = 3.6 Unghiul vântului = 10 Stare = ploaie ușoară']
+Abrud: 17 \ marți \ 27:4:2021 \ 19:01:35
+[' Răsarit = 06:20:13 Apus = 20:30:14 Min (°C) = 1.78 Max (°C) =9.39 Presiune = 1012 Umiditate (%) = 85 Index UV = 0.14 Viteza vântului = 1.15 Unghiul vântului = 68 Stare = nori 85-100%']
+Abrud: 17 \ miercuri \ 28:4:2021 \ 19:01:39
+[' Răsarit = 06:18:36 Apus = 20:31:34 Min (°C) = 4.18 Max (°C) =14 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.24 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 25-50%']
+Abrud: 17 \ joi \ 29:4:2021 \ 19:11:53
+[' Răsarit = 06:17:01 Apus = 20:32:54 Min (°C) = 7.24 Max (°C) =17.9 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.45 Viteza vântului = 4.12 Unghiul vântului = 360 Stare = nori 50-85%']
+Abrud: 17 \ vineri \ 30:4:2021 \ 19:01:47
+[' Răsarit = 06:15:27 Apus = 20:34:14 Min (°C) = 8.09 Max (°C) =23 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.42 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 50-85%']
+Abrud: 17 \ sâmbătă \ 01:5:2021 \ 19:01:40
+[' Răsarit = 06:13:54 Apus = 20:35:33 Min (°C) = 10.04 Max (°C) =22.9 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.4 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = nori 50-85%']
+Abrud: 17 \ duminică \ 02:5:2021 \ 20:07:38
+[' Răsarit = 06:12:23 Apus = 20:36:53 Min (°C) = 12.57 Max (°C) =20 Presiune = 1007 Umiditate (%) = 68 Index UV = 0.11 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = nori 25-50%']
+Abrud: 18 \ luni \ 03:5:2021 \ 19:01:23
+[' Răsarit = 06:10:53 Apus = 20:38:12 Min (°C) = 5.27 Max (°C) =15 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.44 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 50-85%']
+Abrud: 18 \ marți \ 04:5:2021 \ 19:01:41
+[' Răsarit = 06:09:24 Apus = 20:39:31 Min (°C) = 0.76 Max (°C) =16.05 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.52 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Abrud: 18 \ miercuri \ 05:5:2021 \ 19:01:43
+[' Răsarit = 06:07:57 Apus = 20:40:49 Min (°C) = 5.06 Max (°C) =21.05 Presiune = 1006 Umiditate (%) = 43 Index UV = 0.32 Viteza vântului = 4.63 Unghiul vântului = 160 Stare = nori 50-85%']
+Abrud: 18 \ joi \ 06:5:2021 \ 19:01:32
+[' Răsarit = 06:06:31 Apus = 20:42:07 Min (°C) = 5.01 Max (°C) =15 Presiune = 1014 Umiditate (%) = 51 Index UV = 0.44 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = nori 50-85%']
+Abrud: 18 \ vineri \ 07:5:2021 \ 19:01:14
+[' Răsarit = 06:05:07 Apus = 20:43:25 Min (°C) = 5.29 Max (°C) =14.15 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.07 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = nori 85-100%']
+Abrud: 18 \ sâmbătă \ 08:5:2021 \ 19:01:21
+[' Răsarit = 06:03:44 Apus = 20:44:43 Min (°C) = 4.31 Max (°C) =12.9 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.53 Viteza vântului = 10.29 Unghiul vântului = 340 Stare = nori 25-50%']
+Abrud: 18 \ duminică \ 09:5:2021 \ 19:01:29
+[' Răsarit = 06:02:23 Apus = 20:46:00 Min (°C) = 0.88 Max (°C) =17.9 Presiune = 1023 Umiditate (%) = 25 Index UV = 0.61 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = cer senin']
+Abrud: 19 \ luni \ 10:5:2021 \ 19:01:22
+[' Răsarit = 06:01:03 Apus = 20:47:16 Min (°C) = 5.4 Max (°C) =23.95 Presiune = 1018 Umiditate (%) = 31 Index UV = 0.62 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = cer senin']
+Abrud: 19 \ marți \ 11:5:2021 \ 19:01:53
+[' Răsarit = 05:59:45 Apus = 20:48:32 Min (°C) = 9.46 Max (°C) =26.05 Presiune = 1013 Umiditate (%) = 31 Index UV = 0.6 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = cer senin']
+Abrud: 19 \ miercuri \ 12:5:2021 \ 19:01:22
+[' Răsarit = 05:58:29 Apus = 20:49:48 Min (°C) = 9.73 Max (°C) =21.79 Presiune = 1005 Umiditate (%) = 84 Index UV = 0.34 Viteza vântului = 0.68 Unghiul vântului = 252 Stare = nori 50-85%']
+Abrud: 19 \ joi \ 13:5:2021 \ 19:01:48
+[' Răsarit = 05:57:14 Apus = 20:51:03 Min (°C) = 9.6 Max (°C) =14.86 Presiune = 1004 Umiditate (%) = 88 Index UV = 0.55 Viteza vântului = 2.39 Unghiul vântului = 250 Stare = nori 85-100%']
+Abrud: 19 \ vineri \ 14:5:2021 \ 19:01:27
+[' Răsarit = 05:56:01 Apus = 20:52:17 Min (°C) = 8.6 Max (°C) =15 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.37 Viteza vântului = 7.72 Unghiul vântului = 120 Stare = nori 50-85%']
+Abrud: 19 \ sâmbătă \ 15:5:2021 \ 19:01:26
+[' Răsarit = 05:54:50 Apus = 20:53:31 Min (°C) = 7.53 Max (°C) =21.05 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.5 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = nori 50-85%']
+Abrud: 19 \ duminică \ 16:5:2021 \ 19:01:52
+[' Răsarit = 05:53:40 Apus = 20:54:44 Min (°C) = 7.73 Max (°C) =15 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.43 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = nori 85-100%']
+Abrud: 20 \ luni \ 17:5:2021 \ 19:01:58
+[' Răsarit = 05:52:33 Apus = 20:55:56 Min (°C) = 6.11 Max (°C) =20 Presiune = 1003 Umiditate (%) = 49 Index UV = 0.1 Viteza vântului = 5.66 Unghiul vântului = 170 Stare = nori 50-85%']
+Abrud: 20 \ marți \ 18:5:2021 \ 19:01:44
+[' Răsarit = 05:51:27 Apus = 20:57:07 Min (°C) = 6.42 Max (°C) =8.98 Presiune = 1009 Umiditate (%) = 96 Index UV = 0.13 Viteza vântului = 3.55 Unghiul vântului = 280 Stare = ploaie ușoară']
+Abrud: 20 \ miercuri \ 19:5:2021 \ 19:01:17
+[' Răsarit = 05:50:23 Apus = 20:58:17 Min (°C) = 5.94 Max (°C) =15 Presiune = 1009 Umiditate (%) = 64 Index UV = 0.44 Viteza vântului = 0.51 Unghiul vântului = 145 Stare = nori 85-100%']
+Abrud: 20 \ joi \ 20:5:2021 \ 19:01:38
+[' Răsarit = 05:49:22 Apus = 20:59:27 Min (°C) = 7.22 Max (°C) =10.86 Presiune = 1012 Umiditate (%) = 97 Index UV = 0.05 Viteza vântului = 0.4 Unghiul vântului = 31 Stare = ploaie ușoară']
+Abrud: 20 \ vineri \ 21:5:2021 \ 19:02:37
+[' Răsarit = 05:48:22 Apus = 21:00:35 Min (°C) = 5.7 Max (°C) =15.83 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.64 Viteza vântului = 2.23 Unghiul vântului = 256 Stare = nori 50-85%']
+Abrud: 20 \ sâmbătă \ 22:5:2021 \ 19:01:32
+[' Răsarit = 05:47:24 Apus = 21:01:43 Min (°C) = 6.4 Max (°C) =18.51 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.68 Viteza vântului = 0.68 Unghiul vântului = 274 Stare = nori 85-100%']
+Abrud: 20 \ duminică \ 23:5:2021 \ 19:01:21
+[' Răsarit = 05:46:28 Apus = 21:02:49 Min (°C) = 9 Max (°C) =20.97 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.76 Viteza vântului = 4.17 Unghiul vântului = 243 Stare = nori 85-100%']
+Abrud: 21 \ luni \ 24:5:2021 \ 19:01:15
+[' Răsarit = 05:45:34 Apus = 21:03:54 Min (°C) = 8.47 Max (°C) =18.52 Presiune = 1020 Umiditate (%) = 67 Index UV = 0.61 Viteza vântului = 1.19 Unghiul vântului = 118 Stare = ploaie ușoară']
+Abrud: 21 \ marți \ 25:5:2021 \ 19:01:16
+[' Răsarit = 05:44:42 Apus = 21:04:58 Min (°C) = 11.35 Max (°C) =23.66 Presiune = 1015 Umiditate (%) = 79 Index UV = 0.79 Viteza vântului = 2.29 Unghiul vântului = 273 Stare = nori 10-25%']
+Abrud: 21 \ miercuri \ 26:5:2021 \ 19:01:46
+[' Răsarit = 05:43:52 Apus = 21:06:01 Min (°C) = 10.19 Max (°C) =19.41 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.79 Viteza vântului = 1.45 Unghiul vântului = 190 Stare = nori 50-85%']
+Abrud: 21 \ joi \ 27:5:2021 \ 19:01:26
+[' Răsarit = 05:43:05 Apus = 21:07:03 Min (°C) = 10.35 Max (°C) =20.55 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.7 Viteza vântului = 1.74 Unghiul vântului = 201 Stare = nori 50-85%']
+Abrud: 21 \ vineri \ 28:5:2021 \ 19:01:24
+[' Răsarit = 05:42:20 Apus = 21:08:03 Min (°C) = 10.34 Max (°C) =15.69 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.59 Viteza vântului = 1.5 Unghiul vântului = 298 Stare = nori 85-100%']
+Abrud: 21 \ sâmbătă \ 29:5:2021 \ 19:01:13
+[' Răsarit = 05:41:36 Apus = 21:09:02 Min (°C) = 6.96 Max (°C) =15.69 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.64 Viteza vântului = 3.24 Unghiul vântului = 272 Stare = nori 50-85%']
+Abrud: 21 \ duminică \ 30:5:2021 \ 19:01:16
+[' Răsarit = 05:40:56 Apus = 21:09:59 Min (°C) = 5.74 Max (°C) =15.52 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.59 Viteza vântului = 0.73 Unghiul vântului = 290 Stare = nori 25-50%']
+Abrud: 22 \ marți \ 01:6:2021 \ 19:01:53
+[' Răsarit = 05:39:40 Apus = 21:11:49 Min (°C) = 7.2 Max (°C) =12.95 Presiune = 1017 Umiditate (%) = 92 Index UV = 0.58 Viteza vântului = 1.12 Unghiul vântului = 86 Stare = nori 85-100%']
+Abrud: 22 \ miercuri \ 02:6:2021 \ 19:01:06
+[' Răsarit = 05:39:06 Apus = 21:12:42 Min (°C) = 6.16 Max (°C) =14.07 Presiune = 1019 Umiditate (%) = 86 Index UV = 0.59 Viteza vântului = 1.21 Unghiul vântului = 131 Stare = nori 85-100%']
+Abrud: 22 \ joi \ 03:6:2021 \ 19:01:38
+[' Răsarit = 05:38:34 Apus = 21:13:33 Min (°C) = 5.49 Max (°C) =15.4 Presiune = 1023 Umiditate (%) = 78 Index UV = 0.58 Viteza vântului = 0.77 Unghiul vântului = 276 Stare = nori 85-100%']
+Abrud: 22 \ vineri \ 04:6:2021 \ 19:04:14
+[' Răsarit = 05:38:05 Apus = 21:14:22 Min (°C) = 7.66 Max (°C) =17.99 Presiune = 1023 Umiditate (%) = 64 Index UV = 0.7 Viteza vântului = 0.72 Unghiul vântului = 356 Stare = nori 85-100%']
+Abrud: 22 \ sâmbătă \ 05:6:2021 \ 19:01:44
+[' Răsarit = 05:37:38 Apus = 21:15:09 Min (°C) = 8.32 Max (°C) =21.17 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.81 Viteza vântului = 1 Unghiul vântului = 237 Stare = nori 85-100%']
+Abrud: 22 \ duminică \ 06:6:2021 \ 19:01:30
+[' Răsarit = 05:37:13 Apus = 21:15:55 Min (°C) = 10.26 Max (°C) =20.53 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.83 Viteza vântului = 0.88 Unghiul vântului = 68 Stare = nori 50-85%']
+Abrud: 23 \ luni \ 07:6:2021 \ 19:01:46
+[' Răsarit = 05:36:50 Apus = 21:16:39 Min (°C) = 9.52 Max (°C) =20.21 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.85 Viteza vântului = 1.54 Unghiul vântului = 39 Stare = nori 85-100%']
+Abrud: 23 \ marți \ 08:6:2021 \ 19:02:05
+[' Răsarit = 05:36:30 Apus = 21:17:20 Min (°C) = 9.84 Max (°C) =21.01 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.85 Viteza vântului = 1.23 Unghiul vântului = 33 Stare = nori 25-50%']
+Abrud: 23 \ miercuri \ 09:6:2021 \ 19:01:53
+[' Răsarit = 05:36:13 Apus = 21:18:00 Min (°C) = 10.6 Max (°C) =20.69 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.86 Viteza vântului = 1.3 Unghiul vântului = 23 Stare = nori 50-85%']
+Abrud: 23 \ joi \ 10:6:2021 \ 19:01:20
+[' Răsarit = 05:35:57 Apus = 21:18:38 Min (°C) = 10.45 Max (°C) =22.95 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.74 Viteza vântului = 1.4 Unghiul vântului = 31 Stare = ploaie ușoară']
+Abrud: 23 \ vineri \ 11:6:2021 \ 19:01:23
+[' Răsarit = 05:35:44 Apus = 21:19:14 Min (°C) = 9.41 Max (°C) =19.03 Presiune = 1014 Umiditate (%) = 94 Index UV = 0.48 Viteza vântului = 1.74 Unghiul vântului = 1 Stare = nori 85-100%']
+Abrud: 23 \ sâmbătă \ 12:6:2021 \ 19:01:28
+[' Răsarit = 05:35:34 Apus = 21:19:48 Min (°C) = 10.05 Max (°C) =20.34 Presiune = 1014 Umiditate (%) = 83 Index UV = 0.84 Viteza vântului = 0.82 Unghiul vântului = 339 Stare = nori 50-85%']
+Abrud: 23 \ duminică \ 13:6:2021 \ 19:04:37
+[' Răsarit = 05:35:26 Apus = 21:20:19 Min (°C) = 9.36 Max (°C) =18.44 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.79 Viteza vântului = 3.78 Unghiul vântului = 340 Stare = cer senin']
+Abrud: 24 \ luni \ 14:6:2021 \ 19:01:17
+[' Răsarit = 05:35:20 Apus = 21:20:49 Min (°C) = 6.32 Max (°C) =12.86 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 8 Stare = nori 85-100%']
+Abrud: 24 \ marți \ 15:6:2021 \ 19:02:56
+[' Răsarit = 05:35:17 Apus = 21:21:16 Min (°C) = 6.58 Max (°C) =20.14 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.78 Viteza vântului = 0.95 Unghiul vântului = 294 Stare = nori 25-50%']
+Abrud: 24 \ miercuri \ 16:6:2021 \ 19:02:04
+[' Răsarit = 05:35:16 Apus = 21:21:41 Min (°C) = 11.21 Max (°C) =20.58 Presiune = 1015 Umiditate (%) = 88 Index UV = 0.9 Viteza vântului = 0.79 Unghiul vântului = 40 Stare = nori 25-50%']
+Abrud: 24 \ joi \ 17:6:2021 \ 19:01:27
+[' Răsarit = 05:35:18 Apus = 21:22:04 Min (°C) = 11.94 Max (°C) =23.37 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.8 Viteza vântului = 1.78 Unghiul vântului = 50 Stare = nori 85-100%']
+Abrud: 24 \ vineri \ 18:6:2021 \ 19:02:16
+[' Răsarit = 05:35:21 Apus = 21:22:24 Min (°C) = 13.39 Max (°C) =25.29 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.54 Viteza vântului = 0.73 Unghiul vântului = 326 Stare = nori 50-85%']
+Abrud: 24 \ sâmbătă \ 19:6:2021 \ 19:01:26
+[' Răsarit = 05:35:28 Apus = 21:22:43 Min (°C) = 13.27 Max (°C) =23.31 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.91 Viteza vântului = 2.78 Unghiul vântului = 94 Stare = nori 50-85%']
+Abrud: 24 \ duminică \ 20:6:2021 \ 19:02:09
+[' Răsarit = 05:35:36 Apus = 21:22:58 Min (°C) = 11.65 Max (°C) =24.4 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.88 Viteza vântului = 0.67 Unghiul vântului = 1 Stare = nori 50-85%']
+Abrud: 25 \ luni \ 21:6:2021 \ 19:02:20
+[' Răsarit = 05:35:47 Apus = 21:23:12 Min (°C) = 13.3 Max (°C) =22.82 Presiune = 1010 Umiditate (%) = 84 Index UV = 0.93 Viteza vântului = 0.5 Unghiul vântului = 120 Stare = ploaie ușoară']
+Abrud: 25 \ marți \ 22:6:2021 \ 19:02:22
+[' Răsarit = 05:36:01 Apus = 21:23:23 Min (°C) = 15.03 Max (°C) =27.82 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.96 Viteza vântului = 1.53 Unghiul vântului = 271 Stare = nori 50-85%']
+Abrud: 25 \ miercuri \ 23:6:2021 \ 19:01:50
+[' Răsarit = 05:36:16 Apus = 21:23:32 Min (°C) = 17.25 Max (°C) =29.91 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.99 Viteza vântului = 2.73 Unghiul vântului = 292 Stare = cer senin']
+Abrud: 25 \ joi \ 24:6:2021 \ 19:01:57
+[' Răsarit = 05:36:34 Apus = 21:23:38 Min (°C) = 17.69 Max (°C) =31.62 Presiune = 1016 Umiditate (%) = 61 Index UV = 0.97 Viteza vântului = 1.81 Unghiul vântului = 154 Stare = cer senin']
+Abrud: 25 \ vineri \ 25:6:2021 \ 19:01:41
+[' Răsarit = 05:36:54 Apus = 21:23:42 Min (°C) = 19.51 Max (°C) =31.08 Presiune = 1012 Umiditate (%) = 58 Index UV = 1 Viteza vântului = 0.92 Unghiul vântului = 280 Stare = nori 25-50%']
+Abrud: 25 \ sâmbătă \ 26:6:2021 \ 19:01:18
+[' Răsarit = 05:37:17 Apus = 21:23:43 Min (°C) = 15.44 Max (°C) =23.38 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.9 Viteza vântului = 2.64 Unghiul vântului = 295 Stare = nori 50-85%']
+Abrud: 25 \ duminică \ 27:6:2021 \ 19:01:20
+[' Răsarit = 05:37:41 Apus = 21:23:42 Min (°C) = 13.75 Max (°C) =24.41 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.91 Viteza vântului = 1.24 Unghiul vântului = 13 Stare = nori 50-85%']
+Abrud: 26 \ luni \ 28:6:2021 \ 19:02:05
+[' Răsarit = 05:38:08 Apus = 21:23:38 Min (°C) = 14.17 Max (°C) =25.82 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.77 Viteza vântului = 0.89 Unghiul vântului = 10 Stare = nori 25-50%']
+Abrud: 26 \ marți \ 29:6:2021 \ 19:02:12
+[' Răsarit = 05:38:37 Apus = 21:23:32 Min (°C) = 15.61 Max (°C) =28.41 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.96 Viteza vântului = 1.4 Unghiul vântului = 191 Stare = cer senin']
+Abrud: 26 \ miercuri \ 30:6:2021 \ 19:01:43
+[' Răsarit = 05:39:08 Apus = 21:23:24 Min (°C) = 16.7 Max (°C) =30.45 Presiune = 1011 Umiditate (%) = 91 Index UV = 0.11 Viteza vântului = 3.17 Unghiul vântului = 85 Stare = nori 85-100%']
+Abrud: 26 \ joi \ 01:7:2021 \ 19:02:27
+[' Răsarit = 05:39:40 Apus = 21:23:13 Min (°C) = 15.86 Max (°C) =23.74 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.85 Viteza vântului = 2.38 Unghiul vântului = 301 Stare = nori 25-50%']
+Abrud: 26 \ vineri \ 02:7:2021 \ 19:01:28
+[' Răsarit = 05:40:15 Apus = 21:22:59 Min (°C) = 12.4 Max (°C) =20.74 Presiune = 1012 Umiditate (%) = 69 Index UV = 0.61 Viteza vântului = 2.89 Unghiul vântului = 258 Stare = nori 85-100%']
+Abrud: 26 \ sâmbătă \ 03:7:2021 \ 19:01:18
+[' Răsarit = 05:40:52 Apus = 21:22:44 Min (°C) = 9.81 Max (°C) =16.18 Presiune = 1013 Umiditate (%) = 90 Index UV = 0.83 Viteza vântului = 1.06 Unghiul vântului = 262 Stare = nori 85-100%']
+Abrud: 26 \ duminică \ 04:7:2021 \ 19:01:30
+[' Răsarit = 05:41:31 Apus = 21:22:25 Min (°C) = 11.47 Max (°C) =18.95 Presiune = 1011 Umiditate (%) = 90 Index UV = 0.78 Viteza vântului = 0.98 Unghiul vântului = 299 Stare = nori 85-100%']
+Abrud: 27 \ luni \ 05:7:2021 \ 19:01:49
+[' Răsarit = 05:42:12 Apus = 21:22:05 Min (°C) = 11.47 Max (°C) =23.22 Presiune = 1010 Umiditate (%) = 74 Index UV = 0.72 Viteza vântului = 0.19 Unghiul vântului = 206 Stare = nori 50-85%']
+Abrud: 27 \ marți \ 06:7:2021 \ 19:01:37
+[' Răsarit = 05:42:54 Apus = 21:21:41 Min (°C) = 13.21 Max (°C) =27.35 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.67 Viteza vântului = 1.31 Unghiul vântului = 127 Stare = nori 85-100%']
+Abrud: 27 \ miercuri \ 07:7:2021 \ 19:01:31
+[' Răsarit = 05:43:39 Apus = 21:21:16 Min (°C) = 14.93 Max (°C) =28.36 Presiune = 1016 Umiditate (%) = 66 Index UV = 0.82 Viteza vântului = 1.71 Unghiul vântului = 94 Stare = nori 25-50%']
+Abrud: 27 \ joi \ 08:7:2021 \ 19:01:38
+[' Răsarit = 05:44:25 Apus = 21:20:48 Min (°C) = 17.09 Max (°C) =28.94 Presiune = 1020 Umiditate (%) = 65 Index UV = 0.89 Viteza vântului = 3.11 Unghiul vântului = 90 Stare = nori 25-50%']
+Abrud: 27 \ vineri \ 09:7:2021 \ 19:01:52
+[' Răsarit = 05:45:13 Apus = 21:20:18 Min (°C) = 16.2 Max (°C) =28.52 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.91 Viteza vântului = 2.2 Unghiul vântului = 113 Stare = nori 50-85%']
+Abrud: 27 \ sâmbătă \ 10:7:2021 \ 19:01:19
+[' Răsarit = 05:46:02 Apus = 21:19:45 Min (°C) = 17.6 Max (°C) =23.96 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.59 Viteza vântului = 0.67 Unghiul vântului = 48 Stare = nori 85-100%']
+Abrud: 27 \ duminică \ 11:7:2021 \ 19:01:20
+[' Răsarit = 05:46:53 Apus = 21:19:10 Min (°C) = 15.79 Max (°C) =27.21 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.6 Viteza vântului = 2.23 Unghiul vântului = 100 Stare = nori 10-25%']
+Abrud: 28 \ luni \ 12:7:2021 \ 19:01:59
+[' Răsarit = 05:47:45 Apus = 21:18:33 Min (°C) = 15.72 Max (°C) =26.86 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.83 Viteza vântului = 1.07 Unghiul vântului = 51 Stare = nori 50-85%']
+Abrud: 28 \ marți \ 13:7:2021 \ 19:01:51
+[' Răsarit = 05:48:39 Apus = 21:17:53 Min (°C) = 16.52 Max (°C) =29.04 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.88 Viteza vântului = 2.15 Unghiul vântului = 129 Stare = cer senin']
+Abrud: 28 \ miercuri \ 14:7:2021 \ 19:01:47
+[' Răsarit = 05:49:35 Apus = 21:17:11 Min (°C) = 17.68 Max (°C) =30.48 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.87 Viteza vântului = 3.01 Unghiul vântului = 105 Stare = cer senin']
+Abrud: 28 \ joi \ 15:7:2021 \ 19:01:42
+[' Răsarit = 05:50:32 Apus = 21:16:27 Min (°C) = 18.62 Max (°C) =30.15 Presiune = 1009 Umiditate (%) = 58 Index UV = 0.68 Viteza vântului = 2.92 Unghiul vântului = 106 Stare = nori 25-50%']
+Abrud: 28 \ vineri \ 16:7:2021 \ 19:01:30
+[' Răsarit = 05:51:30 Apus = 21:15:41 Min (°C) = 17.29 Max (°C) =28.66 Presiune = 1010 Umiditate (%) = 72 Index UV = 0.78 Viteza vântului = 3.75 Unghiul vântului = 65 Stare = ploaie ușoară']
+Abrud: 28 \ sâmbătă \ 17:7:2021 \ 19:01:29
+[' Răsarit = 05:52:29 Apus = 21:14:52 Min (°C) = 16.04 Max (°C) =27.59 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.75 Viteza vântului = 2.73 Unghiul vântului = 82 Stare = cer senin']
+Abrud: 28 \ duminică \ 18:7:2021 \ 19:01:47
+[' Răsarit = 05:53:30 Apus = 21:14:01 Min (°C) = 17.32 Max (°C) =29.69 Presiune = 1008 Umiditate (%) = 53 Index UV = 0.72 Viteza vântului = 2.56 Unghiul vântului = 65 Stare = ploaie ușoară']
+Abrud: 29 \ luni \ 19:7:2021 \ 19:01:38
+[' Răsarit = 05:54:31 Apus = 21:13:09 Min (°C) = 16.48 Max (°C) =25.93 Presiune = 1010 Umiditate (%) = 95 Index UV = 0.61 Viteza vântului = 2.96 Unghiul vântului = 13 Stare = ploaie ușoară']
+Abrud: 29 \ marți \ 20:7:2021 \ 19:01:25
+[' Răsarit = 05:55:34 Apus = 21:12:14 Min (°C) = 15.41 Max (°C) =18.43 Presiune = 1012 Umiditate (%) = 91 Index UV = 0.72 Viteza vântului = 1.64 Unghiul vântului = 250 Stare = ploaie ușoară']
+Abrud: 29 \ miercuri \ 21:7:2021 \ 19:01:34
+[' Răsarit = 05:56:38 Apus = 21:11:17 Min (°C) = 11.96 Max (°C) =18.97 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.76 Viteza vântului = 3.33 Unghiul vântului = 7 Stare = nori 25-50%']
+Abrud: 29 \ joi \ 22:7:2021 \ 19:01:16
+[' Răsarit = 05:57:43 Apus = 21:10:18 Min (°C) = 11.01 Max (°C) =21.18 Presiune = 1018 Umiditate (%) = 70 Index UV = 0.49 Viteza vântului = 1.04 Unghiul vântului = 42 Stare = nori 85-100%']
+Abrud: 29 \ vineri \ 23:7:2021 \ 19:01:45
+[' Răsarit = 05:58:49 Apus = 21:09:17 Min (°C) = 11.85 Max (°C) =22.48 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.51 Viteza vântului = 1.2 Unghiul vântului = 34 Stare = nori 85-100%']
+Abrud: 29 \ sâmbătă \ 24:7:2021 \ 19:03:31
+[' Răsarit = 05:59:56 Apus = 21:08:14 Min (°C) = 15.8 Max (°C) =23.75 Presiune = 1016 Umiditate (%) = 65 Index UV = 0.43 Viteza vântului = 0.99 Unghiul vântului = 57 Stare = nori 85-100%']
+Abrud: 29 \ duminică \ 25:7:2021 \ 19:01:39
+[' Răsarit = 06:01:03 Apus = 21:07:09 Min (°C) = 13.8 Max (°C) =26.17 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.71 Viteza vântului = 1.04 Unghiul vântului = 144 Stare = cer senin']
+Abrud: 30 \ luni \ 26:7:2021 \ 19:01:48
+[' Răsarit = 06:02:12 Apus = 21:06:02 Min (°C) = 16.14 Max (°C) =28.9 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.71 Viteza vântului = 1.2 Unghiul vântului = 265 Stare = nori 50-85%']
+Abrud: 30 \ marți \ 27:7:2021 \ 19:02:09
+[' Răsarit = 06:03:21 Apus = 21:04:53 Min (°C) = 18.21 Max (°C) =29.78 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.69 Viteza vântului = 1.66 Unghiul vântului = 242 Stare = nori 50-85%']
+Abrud: 30 \ miercuri \ 28:7:2021 \ 19:03:36
+[' Răsarit = 06:04:31 Apus = 21:03:42 Min (°C) = 17.68 Max (°C) =31.57 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.47 Viteza vântului = 2.19 Unghiul vântului = 97 Stare = nori 50-85%']
+Abrud: 30 \ joi \ 29:7:2021 \ 19:01:25
+[' Răsarit = 06:05:41 Apus = 21:02:30 Min (°C) = 17.62 Max (°C) =29.14 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.69 Viteza vântului = 3.9 Unghiul vântului = 275 Stare = cer senin']
+Abrud: 30 \ vineri \ 30:7:2021 \ 19:01:17
+[' Răsarit = 06:06:53 Apus = 21:01:16 Min (°C) = 16.65 Max (°C) =28.21 Presiune = 1011 Umiditate (%) = 52 Index UV = 0.69 Viteza vântului = 1.87 Unghiul vântului = 306 Stare = cer senin']
+Abrud: 30 \ sâmbătă \ 31:7:2021 \ 19:01:18
+[' Răsarit = 06:08:04 Apus = 21:00:00 Min (°C) = 16.7 Max (°C) =29.58 Presiune = 1009 Umiditate (%) = 50 Index UV = 0.66 Viteza vântului = 1.25 Unghiul vântului = 270 Stare = nori 25-50%']
+Abrud: 30 \ duminică \ 01:8:2021 \ 19:01:30
+[' Răsarit = 06:09:17 Apus = 20:58:42 Min (°C) = 16.37 Max (°C) =31.76 Presiune = 1007 Umiditate (%) = 37 Index UV = 0.41 Viteza vântului = 3.6 Unghiul vântului = 184 Stare = nori 25-50%']
+Abrud: 31 \ luni \ 02:8:2021 \ 19:01:17
+[' Răsarit = 06:10:29 Apus = 20:57:23 Min (°C) = 16.57 Max (°C) =26.19 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.63 Viteza vântului = 2.72 Unghiul vântului = 291 Stare = cer senin']
+Abrud: 31 \ marți \ 03:8:2021 \ 19:01:15
+[' Răsarit = 06:11:43 Apus = 20:56:02 Min (°C) = 13.06 Max (°C) =24.11 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.58 Viteza vântului = 1.53 Unghiul vântului = 308 Stare = nori 85-100%']
+Abrud: 31 \ miercuri \ 04:8:2021 \ 19:04:36
+[' Răsarit = 06:12:56 Apus = 20:54:40 Min (°C) = 14.3 Max (°C) =26.31 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.6 Viteza vântului = 0.86 Unghiul vântului = 111 Stare = nori 50-85%']
+Abrud: 31 \ joi \ 05:8:2021 \ 19:01:08
+[' Răsarit = 06:14:10 Apus = 20:53:16 Min (°C) = 15.18 Max (°C) =29.36 Presiune = 1006 Umiditate (%) = 93 Index UV = 0.29 Viteza vântului = 0.61 Unghiul vântului = 216 Stare = ploaie ușoară']
+Abrud: 31 \ vineri \ 06:8:2021 \ 19:01:15
+[' Răsarit = 06:15:25 Apus = 20:51:50 Min (°C) = 13.5 Max (°C) =21.65 Presiune = 1007 Umiditate (%) = 47 Index UV = 0.55 Viteza vântului = 4.56 Unghiul vântului = 284 Stare = nori 10-25%']
+Abrud: 31 \ sâmbătă \ 07:8:2021 \ 19:01:34
+[' Răsarit = 06:16:39 Apus = 20:50:23 Min (°C) = 10.54 Max (°C) =24.51 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.55 Viteza vântului = 0.31 Unghiul vântului = 203 Stare = nori 10-25%']
+Abrud: 31 \ duminică \ 08:8:2021 \ 19:01:14
+[' Răsarit = 06:17:54 Apus = 20:48:54 Min (°C) = 13.63 Max (°C) =29.08 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.56 Viteza vântului = 0.25 Unghiul vântului = 341 Stare = cer senin']
+Abrud: 32 \ luni \ 09:8:2021 \ 19:02:06
+[' Răsarit = 06:19:10 Apus = 20:47:24 Min (°C) = 17.44 Max (°C) =29.45 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.53 Viteza vântului = 1.61 Unghiul vântului = 286 Stare = cer senin']
+Abrud: 32 \ marți \ 10:8:2021 \ 19:02:07
+[' Răsarit = 06:20:25 Apus = 20:45:53 Min (°C) = 16.46 Max (°C) =27.46 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.36 Viteza vântului = 1.61 Unghiul vântului = 277 Stare = nori 25-50%']
+Abrud: 32 \ miercuri \ 11:8:2021 \ 19:01:03
+[' Răsarit = 06:21:41 Apus = 20:44:20 Min (°C) = 15.48 Max (°C) =28.56 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.5 Viteza vântului = 0.62 Unghiul vântului = 310 Stare = nori 25-50%']
+Abrud: 32 \ joi \ 12:8:2021 \ 19:01:41
+[' Răsarit = 06:22:56 Apus = 20:42:46 Min (°C) = 14.88 Max (°C) =25.61 Presiune = 1020 Umiditate (%) = 49 Index UV = 0.48 Viteza vântului = 1.17 Unghiul vântului = 339 Stare = nori 25-50%']
+Abrud: 32 \ vineri \ 13:8:2021 \ 19:01:04
+[' Răsarit = 06:24:12 Apus = 20:41:11 Min (°C) = 13.12 Max (°C) =26.54 Presiune = 1022 Umiditate (%) = 47 Index UV = 0.49 Viteza vântului = 0.75 Unghiul vântului = 243 Stare = nori 10-25%']
+Abrud: 32 \ sâmbătă \ 14:8:2021 \ 19:01:22
+[' Răsarit = 06:25:28 Apus = 20:39:34 Min (°C) = 14.78 Max (°C) =27.55 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.41 Viteza vântului = 0.51 Unghiul vântului = 54 Stare = nori 85-100%']
+Abrud: 32 \ duminică \ 15:8:2021 \ 19:01:09
+[' Răsarit = 06:26:44 Apus = 20:37:56 Min (°C) = 16.83 Max (°C) =28.97 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.45 Viteza vântului = 0.35 Unghiul vântului = 75 Stare = nori 50-85%']
+Abrud: 33 \ luni \ 16:8:2021 \ 19:01:04
+[' Răsarit = 06:28:00 Apus = 20:36:17 Min (°C) = 18.51 Max (°C) =30.87 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.47 Viteza vântului = 1.29 Unghiul vântului = 65 Stare = nori 25-50%']
+Abrud: 33 \ marți \ 17:8:2021 \ 19:01:31
+[' Răsarit = 06:29:16 Apus = 20:34:37 Min (°C) = 17.4 Max (°C) =29.14 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.45 Viteza vântului = 3.02 Unghiul vântului = 270 Stare = nori 25-50%']
+Abrud: 33 \ miercuri \ 18:8:2021 \ 19:01:17
+[' Răsarit = 06:30:33 Apus = 20:32:56 Min (°C) = 12.99 Max (°C) =20.39 Presiune = 1014 Umiditate (%) = 48 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 295 Stare = nori 85-100%']
+Abrud: 33 \ joi \ 19:8:2021 \ 19:01:05
+[' Răsarit = 06:31:49 Apus = 20:31:14 Min (°C) = 8.81 Max (°C) =21.32 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.41 Viteza vântului = 1.05 Unghiul vântului = 242 Stare = cer senin']
+Abrud: 33 \ vineri \ 20:8:2021 \ 19:01:12
+[' Răsarit = 06:33:05 Apus = 20:29:30 Min (°C) = 10.49 Max (°C) =23.91 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.4 Viteza vântului = 0.95 Unghiul vântului = 208 Stare = cer senin']
+Abrud: 33 \ sâmbătă \ 21:8:2021 \ 19:01:38
+[' Răsarit = 06:34:21 Apus = 20:27:46 Min (°C) = 12.37 Max (°C) =24.47 Presiune = 1018 Umiditate (%) = 51 Index UV = 0.12 Viteza vântului = 1.38 Unghiul vântului = 345 Stare = nori 50-85%']
+Abrud: 33 \ duminică \ 22:8:2021 \ 19:01:07
+[' Răsarit = 06:35:37 Apus = 20:26:01 Min (°C) = 13.29 Max (°C) =25.21 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.24 Viteza vântului = 0.25 Unghiul vântului = 303 Stare = nori 50-85%']
+Abrud: 34 \ luni \ 23:8:2021 \ 19:01:08
+[' Răsarit = 06:36:53 Apus = 20:24:14 Min (°C) = 14.65 Max (°C) =26.97 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.26 Viteza vântului = 1.01 Unghiul vântului = 56 Stare = cer senin']
+Abrud: 34 \ marți \ 24:8:2021 \ 19:01:02
+[' Răsarit = 06:38:10 Apus = 20:22:27 Min (°C) = 14.23 Max (°C) =20.03 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.14 Viteza vântului = 1.4 Unghiul vântului = 294 Stare = nori 85-100%']
+Abrud: 34 \ miercuri \ 25:8:2021 \ 19:01:06
+[' Răsarit = 06:39:26 Apus = 20:20:39 Min (°C) = 12.65 Max (°C) =18.95 Presiune = 1014 Umiditate (%) = 99 Index UV = 0.02 Viteza vântului = 1.25 Unghiul vântului = 263 Stare = nori 85-100%']
+Abrud: 34 \ joi \ 26:8:2021 \ 19:01:46
+[' Răsarit = 06:40:41 Apus = 20:18:50 Min (°C) = 9.41 Max (°C) =18.17 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.31 Viteza vântului = 1.78 Unghiul vântului = 265 Stare = cer senin']
+Abrud: 34 \ vineri \ 27:8:2021 \ 19:01:31
+[' Răsarit = 06:41:57 Apus = 20:17:00 Min (°C) = 9.44 Max (°C) =18.45 Presiune = 1014 Umiditate (%) = 91 Index UV = 0.23 Viteza vântului = 2.16 Unghiul vântului = 260 Stare = nori 85-100%']
+Abrud: 34 \ sâmbătă \ 28:8:2021 \ 19:01:53
+[' Răsarit = 06:43:13 Apus = 20:15:09 Min (°C) = 7.54 Max (°C) =18.76 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.13 Viteza vântului = 1.74 Unghiul vântului = 39 Stare = nori 85-100%']
+Abrud: 34 \ duminică \ 29:8:2021 \ 19:01:30
+[' Răsarit = 06:44:29 Apus = 20:13:18 Min (°C) = 11.25 Max (°C) =15.18 Presiune = 1010 Umiditate (%) = 95 Index UV = 0.05 Viteza vântului = 1.44 Unghiul vântului = 230 Stare = nori 85-100%']
+Abrud: 35 \ luni \ 30:8:2021 \ 19:01:17
+[' Răsarit = 06:45:45 Apus = 20:11:26 Min (°C) = 10.26 Max (°C) =14.72 Presiune = 1014 Umiditate (%) = 73 Index UV = 0.24 Viteza vântului = 2.08 Unghiul vântului = 267 Stare = nori 25-50%']
+Abrud: 35 \ marți \ 31:8:2021 \ 19:01:22
+[' Răsarit = 06:47:00 Apus = 20:09:33 Min (°C) = 8.44 Max (°C) =16.27 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.22 Viteza vântului = 3.06 Unghiul vântului = 262 Stare = nori 50-85%']
+Abrud: 35 \ miercuri \ 01:9:2021 \ 19:01:10
+[' Răsarit = 06:48:16 Apus = 20:07:40 Min (°C) = 9.22 Max (°C) =13.35 Presiune = 1017 Umiditate (%) = 90 Index UV = 0.2 Viteza vântului = 1.75 Unghiul vântului = 258 Stare = nori 85-100%']
+Abrud: 35 \ joi \ 02:9:2021 \ 19:02:53
+[' Răsarit = 06:49:31 Apus = 20:05:45 Min (°C) = 7.09 Max (°C) =14.83 Presiune = 1022 Umiditate (%) = 71 Index UV = 0.19 Viteza vântului = 1.64 Unghiul vântului = 300 Stare = nori 50-85%']
+Abrud: 35 \ vineri \ 03:9:2021 \ 19:01:15
+[' Răsarit = 06:50:46 Apus = 20:03:51 Min (°C) = 6.83 Max (°C) =18.92 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.18 Viteza vântului = 0.97 Unghiul vântului = 192 Stare = nori 50-85%']
+Abrud: 35 \ sâmbătă \ 04:9:2021 \ 19:01:18
+[' Răsarit = 06:52:02 Apus = 20:01:56 Min (°C) = 8.43 Max (°C) =20.09 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.17 Viteza vântului = 1.17 Unghiul vântului = 78 Stare = nori 50-85%']
+Abrud: 35 \ duminică \ 05:9:2021 \ 19:01:41
+[' Răsarit = 06:53:17 Apus = 20:00:00 Min (°C) = 9.35 Max (°C) =20.58 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.11 Viteza vântului = 1.33 Unghiul vântului = 40 Stare = nori 85-100%']
+Abrud: 36 \ luni \ 06:9:2021 \ 19:02:31
+[' Răsarit = 06:54:32 Apus = 19:58:04 Min (°C) = 8.79 Max (°C) =20.13 Presiune = 1023 Umiditate (%) = 57 Index UV = 0.19 Viteza vântului = 0.85 Unghiul vântului = 267 Stare = nori 25-50%']
+Abrud: 36 \ marți \ 07:9:2021 \ 19:01:29
+[' Răsarit = 06:55:47 Apus = 19:56:07 Min (°C) = 8.05 Max (°C) =19.83 Presiune = 1024 Umiditate (%) = 50 Index UV = 0.19 Viteza vântului = 0.32 Unghiul vântului = 270 Stare = cer senin']
+Abrud: 36 \ miercuri \ 08:9:2021 \ 19:01:27
+[' Răsarit = 06:57:02 Apus = 19:54:10 Min (°C) = 8.99 Max (°C) =21.05 Presiune = 1022 Umiditate (%) = 58 Index UV = 0.18 Viteza vântului = 1.77 Unghiul vântului = 93 Stare = cer senin']
+Abrud: 36 \ joi \ 09:9:2021 \ 19:01:29
+[' Răsarit = 06:58:17 Apus = 19:52:12 Min (°C) = 9.32 Max (°C) =21.44 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.18 Viteza vântului = 1.23 Unghiul vântului = 130 Stare = nori 25-50%']
+Abrud: 36 \ vineri \ 10:9:2021 \ 19:02:33
+[' Răsarit = 06:59:32 Apus = 19:50:14 Min (°C) = 9.6 Max (°C) =22.64 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.11 Viteza vântului = 0.71 Unghiul vântului = 158 Stare = cer senin']
+Abrud: 36 \ sâmbătă \ 11:9:2021 \ 19:01:20
+[' Răsarit = 07:00:47 Apus = 19:48:16 Min (°C) = 10.94 Max (°C) =23.44 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.14 Viteza vântului = 1.24 Unghiul vântului = 111 Stare = nori 50-85%']
+Abrud: 36 \ duminică \ 12:9:2021 \ 19:01:19
+[' Răsarit = 07:02:02 Apus = 19:46:18 Min (°C) = 11.72 Max (°C) =23.73 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.12 Viteza vântului = 0.52 Unghiul vântului = 100 Stare = nori 25-50%']
+Abrud: 37 \ luni \ 13:9:2021 \ 19:01:19
+[' Răsarit = 07:03:17 Apus = 19:44:19 Min (°C) = 12.11 Max (°C) =23.73 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.15 Viteza vântului = 0.56 Unghiul vântului = 295 Stare = nori 10-25%']
+Abrud: 37 \ marți \ 14:9:2021 \ 19:02:40
+[' Răsarit = 07:04:32 Apus = 19:42:20 Min (°C) = 12.71 Max (°C) =23.27 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.12 Viteza vântului = 1.17 Unghiul vântului = 49 Stare = nori 85-100%']
+Abrud: 37 \ joi \ 16:9:2021 \ 19:01:27
+[' Răsarit = 07:07:02 Apus = 19:38:21 Min (°C) = 13.31 Max (°C) =24.97 Presiune = 1016 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 0.28 Unghiul vântului = 123 Stare = nori 85-100%']
+Abrud: 37 \ vineri \ 17:9:2021 \ 19:02:29
+[' Răsarit = 07:08:18 Apus = 19:36:22 Min (°C) = 14.67 Max (°C) =21.56 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.05 Viteza vântului = 0.91 Unghiul vântului = 290 Stare = nori 50-85%']
+Abrud: 37 \ sâmbătă \ 18:9:2021 \ 19:03:30
+[' Răsarit = 07:09:33 Apus = 19:34:22 Min (°C) = 9.76 Max (°C) =14.51 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.1 Viteza vântului = 1.27 Unghiul vântului = 282 Stare = nori 25-50%']
+Abrud: 37 \ duminică \ 19:9:2021 \ 19:01:27
+[' Răsarit = 07:10:48 Apus = 19:32:22 Min (°C) = 8.78 Max (°C) =14.56 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 283 Stare = nori 85-100%']
+Abrud: 38 \ luni \ 20:9:2021 \ 19:01:35
+[' Răsarit = 07:12:03 Apus = 19:30:23 Min (°C) = 7.79 Max (°C) =11.07 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 322 Stare = ploaie ușoară']
+Abrud: 38 \ marți \ 21:9:2021 \ 19:01:18
+[' Răsarit = 07:13:19 Apus = 19:28:23 Min (°C) = 3.28 Max (°C) =13.95 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 263 Stare = nori 50-85%']
+Abrud: 38 \ miercuri \ 22:9:2021 \ 19:01:48
+[' Răsarit = 07:14:35 Apus = 19:26:23 Min (°C) = 3.23 Max (°C) =8.91 Presiune = 1020 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 252 Stare = nori 85-100%']
+Abrud: 38 \ joi \ 23:9:2021 \ 19:01:13
+[' Răsarit = 07:15:50 Apus = 19:24:24 Min (°C) = 1.67 Max (°C) =10.48 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 255 Stare = nori 50-85%']
+Abrud: 39 \ luni \ 27:9:2021 \ 19:01:43
+[' Răsarit = 07:20:55 Apus = 19:16:27 Min (°C) = 11.21 Max (°C) =22.5 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 308 Stare = nori 85-100%']
+Abrud: 39 \ marți \ 28:9:2021 \ 19:02:09
+[' Răsarit = 07:22:12 Apus = 19:14:28 Min (°C) = 13.13 Max (°C) =16 Presiune = 1020 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 344 Stare = nori 85-100%']
+Abrud: 39 \ miercuri \ 29:9:2021 \ 19:02:29
+[' Răsarit = 07:23:29 Apus = 19:12:30 Min (°C) = 10.13 Max (°C) =12.75 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 85 Stare = nori 85-100%']
+Abrud: 39 \ joi \ 30:9:2021 \ 19:01:20
+[' Răsarit = 07:24:46 Apus = 19:10:32 Min (°C) = 8.83 Max (°C) =11.94 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 50 Stare = nori 85-100%']
+Abrud: 39 \ vineri \ 01:10:2021 \ 19:01:55
+[' Răsarit = 07:26:03 Apus = 19:08:34 Min (°C) = 9.25 Max (°C) =10.92 Presiune = 1026 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 90 Stare = nori 85-100%']
+Abrud: 39 \ sâmbătă \ 02:10:2021 \ 19:01:24
+[' Răsarit = 07:27:21 Apus = 19:06:37 Min (°C) = 5.89 Max (°C) =15.97 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 129 Stare = cer senin']
+Abrud: 39 \ duminică \ 03:10:2021 \ 19:01:15
+[' Răsarit = 07:28:39 Apus = 19:04:40 Min (°C) = 5.66 Max (°C) =17.81 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 104 Stare = cer senin']
+Abrud: 40 \ luni \ 04:10:2021 \ 19:05:18
+[' Răsarit = 07:29:57 Apus = 19:02:43 Min (°C) = 7.13 Max (°C) =19.4 Presiune = 1021 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 102 Stare = cer senin']
+Abrud: 40 \ marți \ 05:10:2021 \ 19:02:56
+[' Răsarit = 07:31:15 Apus = 19:00:47 Min (°C) = 8.24 Max (°C) =18.74 Presiune = 1021 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 69 Stare = cer senin']
+Abrud: 40 \ miercuri \ 06:10:2021 \ 19:01:36
+[' Răsarit = 07:32:34 Apus = 18:58:51 Min (°C) = 5.49 Max (°C) =15.34 Presiune = 1021 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 61 Stare = nori 85-100%']
+Abrud: 40 \ joi \ 07:10:2021 \ 19:02:42
+[' Răsarit = 07:33:53 Apus = 18:56:57 Min (°C) = 5.18 Max (°C) =11.96 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.58 Unghiul vântului = 78 Stare = nori 85-100%']
+Abrud: 40 \ vineri \ 08:10:2021 \ 19:02:26
+[' Răsarit = 07:35:13 Apus = 18:55:02 Min (°C) = 3.49 Max (°C) =9.37 Presiune = 1027 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.86 Unghiul vântului = 70 Stare = nori 85-100%']
+Abrud: 40 \ sâmbătă \ 09:10:2021 \ 19:01:17
+[' Răsarit = 07:36:33 Apus = 18:53:08 Min (°C) = 2.58 Max (°C) =8.5 Presiune = 1027 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.1 Unghiul vântului = 82 Stare = nori 85-100%']
+Abrud: 40 \ duminică \ 10:10:2021 \ 19:02:19
+[' Răsarit = 07:37:53 Apus = 18:51:15 Min (°C) = 2.56 Max (°C) =11.99 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 53 Stare = nori 50-85%']
+Abrud: 41 \ luni \ 11:10:2021 \ 19:01:18
+[' Răsarit = 07:39:13 Apus = 18:49:23 Min (°C) = 4.73 Max (°C) =13.93 Presiune = 1017 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 245 Stare = nori 85-100%']
+Abrud: 41 \ marți \ 12:10:2021 \ 19:01:22
+[' Răsarit = 07:40:34 Apus = 18:47:31 Min (°C) = 4.36 Max (°C) =6.99 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 291 Stare = nori 85-100%']
+Abrud: 41 \ miercuri \ 13:10:2021 \ 19:01:39
+[' Răsarit = 07:41:55 Apus = 18:45:40 Min (°C) = 1.66 Max (°C) =9.34 Presiune = 1017 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 210 Stare = nori 85-100%']
+Abrud: 41 \ joi \ 14:10:2021 \ 19:01:17
+[' Răsarit = 07:43:17 Apus = 18:43:50 Min (°C) = 4.15 Max (°C) =7.01 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 36 Stare = nori 85-100%']
+Abrud: 41 \ vineri \ 15:10:2021 \ 19:01:37
+[' Răsarit = 07:44:39 Apus = 18:42:01 Min (°C) = 1.51 Max (°C) =11 Presiune = 1018 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 125 Stare = nori 85-100%']
+Abrud: 41 \ sâmbătă \ 16:10:2021 \ 19:01:44
+[' Răsarit = 07:46:01 Apus = 18:40:13 Min (°C) = 6.45 Max (°C) =8.63 Presiune = 1019 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 143 Stare = nori 85-100%']
+Abrud: 41 \ duminică \ 17:10:2021 \ 19:01:13
+[' Răsarit = 07:47:24 Apus = 18:38:25 Min (°C) = 6.01 Max (°C) =10.81 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 273 Stare = nori 25-50%']
+Abrud: 42 \ luni \ 18:10:2021 \ 19:01:29
+[' Răsarit = 07:48:47 Apus = 18:36:39 Min (°C) = 2.82 Max (°C) =11.85 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 273 Stare = nori 85-100%']
+Abrud: 42 \ marți \ 19:10:2021 \ 19:02:08
+[' Răsarit = 07:50:10 Apus = 18:34:53 Min (°C) = 2.82 Max (°C) =12.58 Presiune = 1029 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.08 Unghiul vântului = 255 Stare = nori 25-50%']
+Abrud: 42 \ miercuri \ 20:10:2021 \ 19:01:19
+[' Răsarit = 07:51:34 Apus = 18:33:09 Min (°C) = 4.48 Max (°C) =14.96 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 338 Stare = nori 10-25%']
+Abrud: 42 \ joi \ 21:10:2021 \ 19:01:38
+[' Răsarit = 07:52:58 Apus = 18:31:25 Min (°C) = 7.36 Max (°C) =15.98 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 254 Stare = nori 85-100%']
+Abrud: 42 \ vineri \ 22:10:2021 \ 19:01:29
+[' Răsarit = 07:54:22 Apus = 18:29:43 Min (°C) = 9.86 Max (°C) =13.58 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 239 Stare = nori 85-100%']
+Abrud: 42 \ sâmbătă \ 23:10:2021 \ 19:01:52
+[' Răsarit = 07:55:47 Apus = 18:28:02 Min (°C) = 3.03 Max (°C) =10.79 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 264 Stare = nori 10-25%']
+Abrud: 42 \ duminică \ 24:10:2021 \ 19:01:36
+[' Răsarit = 07:57:12 Apus = 18:26:22 Min (°C) = 0.73 Max (°C) =10.27 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 95 Stare = cer senin']
+Abrud: 43 \ luni \ 25:10:2021 \ 19:01:30
+[' Răsarit = 07:58:37 Apus = 18:24:43 Min (°C) = 0.72 Max (°C) =11.42 Presiune = 1029 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 82 Stare = cer senin']
+Abrud: 43 \ marți \ 26:10:2021 \ 19:01:10
+[' Răsarit = 08:00:03 Apus = 18:23:05 Min (°C) = 1.97 Max (°C) =12.72 Presiune = 1024 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 63 Stare = cer senin']
+Abrud: 43 \ miercuri \ 27:10:2021 \ 19:02:02
+[' Răsarit = 08:01:29 Apus = 18:21:29 Min (°C) = 2.27 Max (°C) =12.5 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 96 Stare = nori 10-25%']
+Abrud: 43 \ joi \ 28:10:2021 \ 19:01:10
+[' Răsarit = 08:02:55 Apus = 18:19:54 Min (°C) = 3.04 Max (°C) =13.96 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 70 Stare = nori 25-50%']
+Abrud: 43 \ vineri \ 29:10:2021 \ 19:01:28
+[' Răsarit = 08:04:22 Apus = 18:18:20 Min (°C) = 4.85 Max (°C) =16.24 Presiune = 1023 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 70 Stare = nori 25-50%']
+Abrud: 43 \ sâmbătă \ 30:10:2021 \ 19:01:31
+[' Răsarit = 08:05:49 Apus = 18:16:48 Min (°C) = 5.28 Max (°C) =14.82 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 72 Stare = cer senin']
+Abrud: 43 \ duminică \ 31:10:2021 \ 19:01:13
+[' Răsarit = 07:07:15 Apus = 17:15:17 Min (°C) = 4.2 Max (°C) =13.92 Presiune = 1019 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 51 Stare = cer senin']
+Abrud: 44 \ luni \ 01:11:2021 \ 19:01:11
+[' Răsarit = 07:08:42 Apus = 17:13:48 Min (°C) = 1.93 Max (°C) =10.99 Presiune = 1012 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 48 Stare = cer senin']
+Abrud: 44 \ marți \ 02:11:2021 \ 19:01:14
+[' Răsarit = 07:10:10 Apus = 17:12:20 Min (°C) = 2.5 Max (°C) =8.91 Presiune = 1006 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 243 Stare = nori 85-100%']
+Abrud: 44 \ miercuri \ 03:11:2021 \ 19:01:33
+[' Răsarit = 07:11:37 Apus = 17:10:53 Min (°C) = 2.94 Max (°C) =12.2 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 77 Stare = nori 85-100%']
+Abrud: 44 \ joi \ 04:11:2021 \ 19:01:06
+[' Răsarit = 07:13:04 Apus = 17:09:29 Min (°C) = 7.76 Max (°C) =18.5 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 141 Stare = nori 25-50%']
+Abrud: 44 \ vineri \ 05:11:2021 \ 19:01:46
+[' Răsarit = 07:14:32 Apus = 17:08:06 Min (°C) = 10.69 Max (°C) =16.35 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 237 Stare = nori 85-100%']
+Abrud: 44 \ sâmbătă \ 06:11:2021 \ 19:01:54
+[' Răsarit = 07:15:59 Apus = 17:06:44 Min (°C) = 8.35 Max (°C) =10.84 Presiune = 1028 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 197 Stare = nori 85-100%']
+Abrud: 44 \ duminică \ 07:11:2021 \ 19:01:25
+[' Răsarit = 07:17:27 Apus = 17:05:24 Min (°C) = 8.45 Max (°C) =12.4 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 298 Stare = nori 85-100%']
+Abrud: 45 \ luni \ 08:11:2021 \ 19:01:28
+[' Răsarit = 07:18:54 Apus = 17:04:06 Min (°C) = 6.62 Max (°C) =9.01 Presiune = 1020 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 253 Stare = nori 85-100%']
+Abrud: 45 \ marți \ 09:11:2021 \ 19:01:00
+[' Răsarit = 07:20:22 Apus = 17:02:50 Min (°C) = 2.45 Max (°C) =7.09 Presiune = 1034 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 29 Stare = nori 25-50%']
+Abrud: 45 \ miercuri \ 10:11:2021 \ 19:01:16
+[' Răsarit = 07:21:49 Apus = 17:01:36 Min (°C) = 0.75 Max (°C) =9.54 Presiune = 1034 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 67 Stare = cer senin']
+Abrud: 45 \ joi \ 11:11:2021 \ 19:01:39
+[' Răsarit = 07:23:16 Apus = 17:00:23 Min (°C) = 2.31 Max (°C) =11.61 Presiune = 1025 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 47 Stare = nori 85-100%']
+Abrud: 45 \ vineri \ 12:11:2021 \ 19:01:17
+[' Răsarit = 07:24:43 Apus = 16:59:13 Min (°C) = 3.93 Max (°C) =13.53 Presiune = 1021 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 39 Stare = nori 50-85%']
+Abrud: 45 \ sâmbătă \ 13:11:2021 \ 19:01:18
+[' Răsarit = 07:26:09 Apus = 16:58:04 Min (°C) = 5.02 Max (°C) =12.66 Presiune = 1020 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 50 Stare = nori 25-50%']
+Abrud: 45 \ duminică \ 14:11:2021 \ 19:02:22
+[' Răsarit = 07:27:36 Apus = 16:56:57 Min (°C) = 4.84 Max (°C) =12.76 Presiune = 1022 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 55 Stare = nori 25-50%']
+Abrud: 46 \ luni \ 15:11:2021 \ 19:01:40
+[' Răsarit = 07:29:01 Apus = 16:55:52 Min (°C) = 3.27 Max (°C) =9.81 Presiune = 1028 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 56 Stare = nori 10-25%']
+Abrud: 46 \ marți \ 16:11:2021 \ 19:01:31
+[' Răsarit = 07:30:27 Apus = 16:54:50 Min (°C) = 1.16 Max (°C) =8.98 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 61 Stare = nori 10-25%']
+Abrud: 46 \ miercuri \ 17:11:2021 \ 19:01:42
+[' Răsarit = 07:31:52 Apus = 16:53:49 Min (°C) = 0.51 Max (°C) =7.93 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 27 Stare = nori 25-50%']
+Abrud: 46 \ joi \ 18:11:2021 \ 19:01:31
+[' Răsarit = 07:33:16 Apus = 16:52:51 Min (°C) = 0.42 Max (°C) =6.03 Presiune = 1028 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 250 Stare = nori 85-100%']
+Abrud: 46 \ vineri \ 19:11:2021 \ 19:01:19
+[' Răsarit = 07:34:40 Apus = 16:51:54 Min (°C) = 0.56 Max (°C) =3.15 Presiune = 1026 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 253 Stare = nori 85-100%']
+Abrud: 46 \ sâmbătă \ 20:11:2021 \ 19:01:21
+[' Răsarit = 07:36:03 Apus = 16:51:00 Min (°C) = 2.22 Max (°C) =4.77 Presiune = 1022 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 358 Stare = nori 50-85%']
+Abrud: 46 \ duminică \ 21:11:2021 \ 19:01:11
+[' Răsarit = 07:37:26 Apus = 16:50:08 Min (°C) = 1.64 Max (°C) =9.86 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 34 Stare = cer senin']
+Abrud: 47 \ luni \ 22:11:2021 \ 19:01:26
+[' Răsarit = 07:38:47 Apus = 16:49:19 Min (°C) = 2.99 Max (°C) =9.93 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 344 Stare = nori 85-100%']
+Abrud: 47 \ marți \ 23:11:2021 \ 19:01:15
+[' Răsarit = 07:40:08 Apus = 16:48:32 Min (°C) = 0.82 Max (°C) =6.1 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.27 Unghiul vântului = 332 Stare = nori 50-85%']
+Abrud: 47 \ miercuri \ 24:11:2021 \ 19:03:49
+[' Răsarit = 07:41:28 Apus = 16:47:47 Min (°C) = -3.31 Max (°C) =5.55 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 78 Stare = cer senin']
+Abrud: 47 \ joi \ 25:11:2021 \ 19:01:09
+[' Răsarit = 07:42:47 Apus = 16:47:04 Min (°C) = -0.76 Max (°C) =6.61 Presiune = 1016 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 61 Stare = cer senin']
+Abrud: 47 \ vineri \ 26:11:2021 \ 19:01:12
+[' Răsarit = 07:44:05 Apus = 16:46:24 Min (°C) = 1.5 Max (°C) =8.11 Presiune = 999 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 159 Stare = nori 85-100%']
+Abrud: 47 \ sâmbătă \ 27:11:2021 \ 19:01:08
+[' Răsarit = 07:45:22 Apus = 16:45:46 Min (°C) = 3.37 Max (°C) =5.14 Presiune = 1003 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 67 Stare = nori 50-85%']
+Abrud: 47 \ duminică \ 28:11:2021 \ 19:01:25
+[' Răsarit = 07:46:37 Apus = 16:45:11 Min (°C) = 4.27 Max (°C) =9.84 Presiune = 997 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 127 Stare = ploaie ușoară']
+Abrud: 48 \ luni \ 29:11:2021 \ 19:01:46
+[' Răsarit = 07:47:52 Apus = 16:44:39 Min (°C) = -0.43 Max (°C) =7.09 Presiune = 1001 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 253 Stare = nori 85-100%']
+Abrud: 48 \ marți \ 30:11:2021 \ 19:01:17
+[' Răsarit = 07:49:05 Apus = 16:44:08 Min (°C) = -2.72 Max (°C) =-0.22 Presiune = 1011 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 237 Stare = zăpadă slabă']
+Abrud: 48 \ miercuri \ 01:12:2021 \ 19:01:22
+[' Răsarit = 07:50:17 Apus = 16:43:41 Min (°C) = -2.95 Max (°C) =1.21 Presiune = 1011 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 238 Stare = nori 85-100%']
+Abrud: 48 \ joi \ 02:12:2021 \ 19:01:13
+[' Răsarit = 07:51:27 Apus = 16:43:16 Min (°C) = -0.51 Max (°C) =5.31 Presiune = 1004 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 166 Stare = nori 85-100%']
+Abrud: 48 \ vineri \ 03:12:2021 \ 19:01:13
+[' Răsarit = 07:52:36 Apus = 16:42:53 Min (°C) = -0.39 Max (°C) =4.69 Presiune = 1013 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 289 Stare = nori 85-100%']
+Abrud: 48 \ sâmbătă \ 04:12:2021 \ 19:01:48
+[' Răsarit = 07:53:43 Apus = 16:42:34 Min (°C) = -1.56 Max (°C) =3.15 Presiune = 1011 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 59 Stare = nori 85-100%']
+Abrud: 48 \ duminică \ 05:12:2021 \ 19:01:16
+[' Răsarit = 07:54:48 Apus = 16:42:17 Min (°C) = -0.89 Max (°C) =4.41 Presiune = 1007 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 88 Stare = nori 85-100%']
+Abrud: 49 \ luni \ 06:12:2021 \ 19:01:08
+[' Răsarit = 07:55:52 Apus = 16:42:02 Min (°C) = 2.59 Max (°C) =3.25 Presiune = 1007 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 279 Stare = nori 85-100%']
+Abrud: 49 \ marți \ 07:12:2021 \ 19:01:12
+[' Răsarit = 07:56:54 Apus = 16:41:50 Min (°C) = 0.86 Max (°C) =2.68 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 230 Stare = zăpadă slabă']
+Abrud: 49 \ miercuri \ 08:12:2021 \ 19:01:09
+[' Răsarit = 07:57:55 Apus = 16:41:41 Min (°C) = -0.53 Max (°C) =0.72 Presiune = 1011 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 128 Stare = nori 85-100%']
+Abrud: 49 \ joi \ 09:12:2021 \ 19:01:13
+[' Răsarit = 07:58:53 Apus = 16:41:35 Min (°C) = -1.72 Max (°C) =6.7 Presiune = 1007 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 65 Stare = nori 85-100%']
+Abrud: 49 \ vineri \ 10:12:2021 \ 19:01:34
+[' Răsarit = 07:59:49 Apus = 16:41:32 Min (°C) = 1.72 Max (°C) =4.94 Presiune = 1005 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 70 Stare = nori 85-100%']
+Abrud: 49 \ sâmbătă \ 11:12:2021 \ 19:01:20
+[' Răsarit = 08:00:44 Apus = 16:41:31 Min (°C) = 0.39 Max (°C) =5.79 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 48 Stare = nori 85-100%']
+Abrud: 49 \ duminică \ 12:12:2021 \ 19:01:16
+[' Răsarit = 08:01:36 Apus = 16:41:33 Min (°C) = 2.03 Max (°C) =5.15 Presiune = 1015 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 285 Stare = nori 50-85%']
+Abrud: 50 \ luni \ 13:12:2021 \ 19:01:21
+[' Răsarit = 08:02:26 Apus = 16:41:37 Min (°C) = 0.81 Max (°C) =2.32 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 246 Stare = nori 85-100%']
+Abrud: 50 \ marți \ 14:12:2021 \ 19:03:01
+[' Răsarit = 08:03:14 Apus = 16:41:45 Min (°C) = -1.11 Max (°C) =0.87 Presiune = 1027 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 223 Stare = nori 85-100%']
+Abrud: 50 \ miercuri \ 15:12:2021 \ 19:01:36
+[' Răsarit = 08:04:00 Apus = 16:41:55 Min (°C) = -1.47 Max (°C) =1.94 Presiune = 1030 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 250 Stare = nori 85-100%']
+Abrud: 50 \ joi \ 16:12:2021 \ 19:01:24
+[' Răsarit = 08:04:44 Apus = 16:42:07 Min (°C) = -4.02 Max (°C) =2.5 Presiune = 1029 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 71 Stare = zăpadă slabă']
+Abrud: 50 \ vineri \ 17:12:2021 \ 19:01:34
+[' Răsarit = 08:05:25 Apus = 16:42:23 Min (°C) = -3.2 Max (°C) =2.76 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 345 Stare = nori 25-50%']
+Abrud: 50 \ sâmbătă \ 18:12:2021 \ 19:01:19
+[' Răsarit = 08:06:04 Apus = 16:42:41 Min (°C) = -3.02 Max (°C) =2.05 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 324 Stare = nori 50-85%']
+Abrud: 50 \ duminică \ 19:12:2021 \ 19:01:14
+[' Răsarit = 08:06:40 Apus = 16:43:02 Min (°C) = -2.8 Max (°C) =-0.22 Presiune = 1014 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 252 Stare = zăpadă slabă']
+Abrud: 51 \ luni \ 20:12:2021 \ 19:01:40
+[' Răsarit = 08:07:14 Apus = 16:43:26 Min (°C) = -6.2 Max (°C) =-0.13 Presiune = 1018 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 318 Stare = nori 25-50%']
+Abrud: 51 \ marți \ 21:12:2021 \ 19:02:43
+[' Răsarit = 08:07:46 Apus = 16:43:52 Min (°C) = -8.41 Max (°C) =-3.49 Presiune = 1027 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 325 Stare = nori 25-50%']
+Abrud: 51 \ miercuri \ 22:12:2021 \ 19:01:23
+[' Răsarit = 08:08:14 Apus = 16:44:21 Min (°C) = -10.15 Max (°C) =-3.87 Presiune = 1031 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 35 Stare = nori 50-85%']
+Abrud: 51 \ joi \ 23:12:2021 \ 19:01:30
+[' Răsarit = 08:08:41 Apus = 16:44:52 Min (°C) = -11.49 Max (°C) =-4.01 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.19 Unghiul vântului = 299 Stare = nori 85-100%']
+Abrud: 51 \ vineri \ 24:12:2021 \ 19:01:18
+[' Răsarit = 08:09:05 Apus = 16:45:26 Min (°C) = -5.38 Max (°C) =1.95 Presiune = 1009 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.97 Unghiul vântului = 253 Stare = zăpadă slabă']
+Abrud: 51 \ sâmbătă \ 25:12:2021 \ 19:01:29
+[' Răsarit = 08:09:26 Apus = 16:46:02 Min (°C) = 1.97 Max (°C) =5.02 Presiune = 1008 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 251 Stare = ploaie ușoară']
+Abrud: 51 \ duminică \ 26:12:2021 \ 19:01:26
+[' Răsarit = 08:09:44 Apus = 16:46:41 Min (°C) = 2.54 Max (°C) =5.57 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.2 Unghiul vântului = 298 Stare = nori 85-100%']
+Abrud: 52 \ luni \ 27:12:2021 \ 19:01:26
+[' Răsarit = 08:10:00 Apus = 16:47:23 Min (°C) = 0.66 Max (°C) =2.65 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 236 Stare = ploaie ușoară']
+Abrud: 52 \ marți \ 28:12:2021 \ 19:01:26
+[' Răsarit = 08:10:14 Apus = 16:48:07 Min (°C) = -2.32 Max (°C) =1.96 Presiune = 1013 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 74 Stare = nori 50-85%']
+Abrud: 52 \ miercuri \ 29:12:2021 \ 19:01:23
+[' Răsarit = 08:10:24 Apus = 16:48:53 Min (°C) = -0.68 Max (°C) =4.21 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 250 Stare = ploaie ușoară']
+Abrud: 52 \ joi \ 30:12:2021 \ 19:01:37
+[' Răsarit = 08:10:32 Apus = 16:49:41 Min (°C) = 1.76 Max (°C) =3.32 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 233 Stare = nori 85-100%']
+Abrud: 52 \ vineri \ 31:12:2021 \ 19:01:09
+[' Răsarit = 08:10:37 Apus = 16:50:32 Min (°C) = 1.39 Max (°C) =3.19 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 263 Stare = nori 85-100%']
+Abrud: 00 \ sâmbătă \ 01:1:2022 \ 19:02:13
+[' Răsarit = 08:10:40 Apus = 16:51:25 Min (°C) = 3.52 Max (°C) =4.65 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 281 Stare = nori 85-100%']
+Abrud: 00 \ duminică \ 02:1:2022 \ 19:01:16
+[' Răsarit = 08:10:40 Apus = 16:52:20 Min (°C) = 3.46 Max (°C) =7.64 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 0 Stare = nori 50-85%']
+Abrud: 01 \ luni \ 03:1:2022 \ 19:01:02
+[' Răsarit = 08:10:37 Apus = 16:53:17 Min (°C) = 2.1 Max (°C) =7.27 Presiune = 1015 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 4.15 Unghiul vântului = 263 Stare = nori 85-100%']
+Abrud: 01 \ marți \ 04:1:2022 \ 19:01:03
+[' Răsarit = 08:10:32 Apus = 16:54:17 Min (°C) = 3.3 Max (°C) =7.33 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 258 Stare = nori 85-100%']
+Abrud: 01 \ miercuri \ 05:1:2022 \ 19:01:14
+[' Răsarit = 08:10:23 Apus = 16:55:18 Min (°C) = 5.9 Max (°C) =9.54 Presiune = 1004 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 249 Stare = nori 85-100%']
+Abrud: 01 \ joi \ 06:1:2022 \ 19:01:06
+[' Răsarit = 08:10:12 Apus = 16:56:21 Min (°C) = -0.23 Max (°C) =7.35 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 262 Stare = nori 85-100%']
+Abrud: 01 \ vineri \ 07:1:2022 \ 19:01:54
+[' Răsarit = 08:09:59 Apus = 16:57:26 Min (°C) = -2.44 Max (°C) =0.95 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 99 Stare = cer senin']
+Abrud: 01 \ sâmbătă \ 08:1:2022 \ 19:01:43
+[' Răsarit = 08:09:43 Apus = 16:58:33 Min (°C) = -2.36 Max (°C) =3.5 Presiune = 1013 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 46 Stare = zăpadă slabă']
+Abrud: 01 \ duminică \ 09:1:2022 \ 19:01:17
+[' Răsarit = 08:09:24 Apus = 16:59:41 Min (°C) = -1.85 Max (°C) =1.19 Presiune = 1007 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 91 Stare = zăpadă slabă']
+Abrud: 02 \ luni \ 10:1:2022 \ 19:01:29
+[' Răsarit = 08:09:03 Apus = 17:00:52 Min (°C) = -4.25 Max (°C) =3.38 Presiune = 1015 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 52 Stare = nori 85-100%']
+Abrud: 02 \ marți \ 11:1:2022 \ 19:02:29
+[' Răsarit = 08:08:39 Apus = 17:02:03 Min (°C) = -5.54 Max (°C) =1.39 Presiune = 1027 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 51 Stare = nori 50-85%']
+Abrud: 02 \ miercuri \ 12:1:2022 \ 19:01:13
+[' Răsarit = 08:08:12 Apus = 17:03:17 Min (°C) = -8.08 Max (°C) =-0.93 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 141 Stare = nori 25-50%']
+Abrud: 02 \ joi \ 13:1:2022 \ 19:01:58
+[' Răsarit = 08:07:43 Apus = 17:04:31 Min (°C) = -9.58 Max (°C) =-2.64 Presiune = 1038 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 286 Stare = nori 50-85%']
+Abrud: 02 \ vineri \ 14:1:2022 \ 19:01:27
+[' Răsarit = 08:07:11 Apus = 17:05:48 Min (°C) = -8.02 Max (°C) =-0.94 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 263 Stare = nori 50-85%']
+Abrud: 02 \ sâmbătă \ 15:1:2022 \ 19:01:10
+[' Răsarit = 08:06:37 Apus = 17:07:05 Min (°C) = -6.79 Max (°C) =0.85 Presiune = 1029 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 336 Stare = cer senin']
+Abrud: 02 \ duminică \ 16:1:2022 \ 19:01:08
+[' Răsarit = 08:06:01 Apus = 17:08:24 Min (°C) = -8.09 Max (°C) =1.47 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 23 Stare = nori 85-100%']
+Abrud: 03 \ luni \ 17:1:2022 \ 19:01:08
+[' Răsarit = 08:05:21 Apus = 17:09:44 Min (°C) = -5.91 Max (°C) =-0.92 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 6.89 Unghiul vântului = 276 Stare = snow']
+Abrud: 03 \ marți \ 18:1:2022 \ 19:01:08
+[' Răsarit = 08:04:40 Apus = 17:11:05 Min (°C) = -11.67 Max (°C) =-2 Presiune = 1035 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 340 Stare = nori 85-100%']
+Abrud: 03 \ miercuri \ 19:1:2022 \ 19:01:09
+[' Răsarit = 08:03:56 Apus = 17:12:27 Min (°C) = -12.11 Max (°C) =-1.82 Presiune = 1031 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 47 Stare = nori 50-85%']
+Abrud: 03 \ joi \ 20:1:2022 \ 19:01:16
+[' Răsarit = 08:03:10 Apus = 17:13:50 Min (°C) = -10.05 Max (°C) =-1.29 Presiune = 1017 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 256 Stare = zăpadă slabă']
+Abrud: 03 \ vineri \ 21:1:2022 \ 19:01:07
+[' Răsarit = 08:02:22 Apus = 17:15:14 Min (°C) = -13.43 Max (°C) =-2.19 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 350 Stare = nori 50-85%']
+Abrud: 03 \ sâmbătă \ 22:1:2022 \ 19:01:21
+[' Răsarit = 08:01:31 Apus = 17:16:39 Min (°C) = -13.74 Max (°C) =-5.53 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 345 Stare = zăpadă slabă']
+Abrud: 03 \ duminică \ 23:1:2022 \ 19:01:26
+[' Răsarit = 08:00:38 Apus = 17:18:04 Min (°C) = -14.91 Max (°C) =-4.28 Presiune = 1029 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 19 Stare = nori 50-85%']
+Abrud: 04 \ luni \ 24:1:2022 \ 19:01:27
+[' Răsarit = 07:59:43 Apus = 17:19:31 Min (°C) = -12.93 Max (°C) =-4.8 Presiune = 1038 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 43 Stare = cer senin']
+Abrud: 04 \ marți \ 25:1:2022 \ 19:01:36
+[' Răsarit = 07:58:46 Apus = 17:20:58 Min (°C) = -14.13 Max (°C) =-5.26 Presiune = 1032 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 325 Stare = nori 85-100%']
+Abrud: 04 \ miercuri \ 26:1:2022 \ 19:01:37
+[' Răsarit = 07:57:46 Apus = 17:22:25 Min (°C) = -10.25 Max (°C) =-3.05 Presiune = 1029 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 272 Stare = nori 85-100%']
+Abrud: 04 \ joi \ 27:1:2022 \ 19:01:56
+[' Răsarit = 07:56:45 Apus = 17:23:54 Min (°C) = -8.88 Max (°C) =-1.86 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 248 Stare = zăpadă slabă']
+Abrud: 04 \ vineri \ 28:1:2022 \ 19:01:27
+[' Răsarit = 07:55:41 Apus = 17:25:22 Min (°C) = -4.92 Max (°C) =-0.68 Presiune = 1020 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 249 Stare = zăpadă slabă']
+Abrud: 04 \ sâmbătă \ 29:1:2022 \ 19:01:47
+[' Răsarit = 07:54:36 Apus = 17:26:51 Min (°C) = -9.72 Max (°C) =-1.42 Presiune = 1029 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 345 Stare = nori 25-50%']
+Abrud: 04 \ duminică \ 30:1:2022 \ 19:01:14
+[' Răsarit = 07:53:28 Apus = 17:28:21 Min (°C) = -5.57 Max (°C) =0.19 Presiune = 1011 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 5.35 Unghiul vântului = 284 Stare = zăpadă slabă']
+Abrud: 05 \ luni \ 31:1:2022 \ 19:01:11
+[' Răsarit = 07:52:19 Apus = 17:29:51 Min (°C) = -5.75 Max (°C) =-1.67 Presiune = 1010 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 59 Stare = nori 85-100%']
+Abrud: 05 \ marți \ 01:2:2022 \ 19:01:11
+[' Răsarit = 07:51:07 Apus = 17:31:21 Min (°C) = -6.67 Max (°C) =0.17 Presiune = 1011 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 234 Stare = zăpadă slabă']
+Abrud: 05 \ miercuri \ 02:2:2022 \ 19:01:18
+[' Răsarit = 07:49:54 Apus = 17:32:51 Min (°C) = -9.75 Max (°C) =-1.39 Presiune = 1011 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 308 Stare = zăpadă slabă']
+Abrud: 05 \ joi \ 03:2:2022 \ 19:01:07
+[' Răsarit = 07:48:39 Apus = 17:34:22 Min (°C) = -9.01 Max (°C) =0.24 Presiune = 1026 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 5 Stare = nori 25-50%']
+Abrud: 05 \ vineri \ 04:2:2022 \ 19:01:15
+[' Răsarit = 07:47:22 Apus = 17:35:52 Min (°C) = -9.75 Max (°C) =1.75 Presiune = 1021 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 35 Stare = nori 50-85%']
+Abrud: 05 \ sâmbătă \ 05:2:2022 \ 19:01:07
+[' Răsarit = 07:46:03 Apus = 17:37:23 Min (°C) = -5.44 Max (°C) =0.89 Presiune = 1022 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 278 Stare = nori 85-100%']
+Abrud: 05 \ duminică \ 06:2:2022 \ 19:01:19
+[' Răsarit = 07:44:43 Apus = 17:38:54 Min (°C) = -6.32 Max (°C) =0.68 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 2 Stare = nori 85-100%']
+Abrud: 06 \ luni \ 07:2:2022 \ 19:01:11
+[' Răsarit = 07:43:21 Apus = 17:40:25 Min (°C) = -4.82 Max (°C) =2.2 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 309 Stare = zăpadă slabă']
+Abrud: 06 \ marți \ 08:2:2022 \ 19:01:08
+[' Răsarit = 07:41:58 Apus = 17:41:56 Min (°C) = -9.1 Max (°C) =1.16 Presiune = 1028 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 351 Stare = nori 25-50%']
+Abrud: 06 \ miercuri \ 09:2:2022 \ 19:01:18
+[' Răsarit = 07:40:33 Apus = 17:43:27 Min (°C) = -9.1 Max (°C) =1.96 Presiune = 1030 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 330 Stare = nori 85-100%']
+Abrud: 06 \ joi \ 10:2:2022 \ 19:01:53
+[' Răsarit = 07:39:06 Apus = 17:44:58 Min (°C) = -4.17 Max (°C) =4.5 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 21 Stare = nori 50-85%']
+Abrud: 06 \ vineri \ 11:2:2022 \ 19:01:19
+[' Răsarit = 07:37:38 Apus = 17:46:28 Min (°C) = -3.59 Max (°C) =4.86 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 16 Stare = nori 50-85%']
+Abrud: 06 \ sâmbătă \ 12:2:2022 \ 19:01:23
+[' Răsarit = 07:36:08 Apus = 17:47:59 Min (°C) = -6.03 Max (°C) =2.82 Presiune = 1035 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 47 Stare = cer senin']
+Abrud: 06 \ duminică \ 13:2:2022 \ 19:01:28
+[' Răsarit = 07:34:37 Apus = 17:49:29 Min (°C) = -8.17 Max (°C) =2.8 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 65 Stare = nori 85-100%']
+Abrud: 07 \ luni \ 14:2:2022 \ 19:01:21
+[' Răsarit = 07:33:04 Apus = 17:50:59 Min (°C) = -5.68 Max (°C) =4.52 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 52 Stare = nori 10-25%']
+Abrud: 07 \ marți \ 15:2:2022 \ 19:01:28
+[' Răsarit = 07:31:31 Apus = 17:52:29 Min (°C) = -4.18 Max (°C) =6.25 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 46 Stare = nori 25-50%']
+Abrud: 07 \ miercuri \ 16:2:2022 \ 19:01:21
+[' Răsarit = 07:29:55 Apus = 17:53:59 Min (°C) = -0.75 Max (°C) =4.33 Presiune = 1016 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 26 Stare = nori 85-100%']
+Abrud: 07 \ joi \ 17:2:2022 \ 19:01:36
+[' Răsarit = 07:28:19 Apus = 17:55:29 Min (°C) = 1.42 Max (°C) =6.76 Presiune = 1005 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.61 Unghiul vântului = 258 Stare = ploaie ușoară']
+Abrud: 07 \ vineri \ 18:2:2022 \ 19:01:15
+[' Răsarit = 07:26:41 Apus = 17:56:58 Min (°C) = -1.8 Max (°C) =3.08 Presiune = 1018 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 268 Stare = nori 25-50%']
+Abrud: 07 \ sâmbătă \ 19:2:2022 \ 19:01:32
+[' Răsarit = 07:25:02 Apus = 17:58:27 Min (°C) = -0.97 Max (°C) =5.61 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 191 Stare = nori 85-100%']
+Abrud: 07 \ duminică \ 20:2:2022 \ 19:02:13
+[' Răsarit = 07:23:22 Apus = 17:59:56 Min (°C) = 0.45 Max (°C) =6.61 Presiune = 1019 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 259 Stare = nori 50-85%']
+Abrud: 08 \ luni \ 21:2:2022 \ 19:01:22
+[' Răsarit = 07:21:41 Apus = 18:01:24 Min (°C) = 0.03 Max (°C) =8.66 Presiune = 1004 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 261 Stare = nori 85-100%']
+Abrud: 08 \ marți \ 22:2:2022 \ 19:01:39
+[' Răsarit = 07:19:59 Apus = 18:02:52 Min (°C) = 1.86 Max (°C) =6.18 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 251 Stare = nori 85-100%']
+Abrud: 08 \ miercuri \ 23:2:2022 \ 19:01:33
+[' Răsarit = 07:18:16 Apus = 18:04:20 Min (°C) = -1.1 Max (°C) =3.41 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 275 Stare = zăpadă slabă']
+Abrud: 08 \ joi \ 24:2:2022 \ 19:01:20
+[' Răsarit = 07:16:31 Apus = 18:05:47 Min (°C) = -2.35 Max (°C) =5.18 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 94 Stare = nori 85-100%']
+Abrud: 08 \ vineri \ 25:2:2022 \ 19:01:25
+[' Răsarit = 07:14:46 Apus = 18:07:15 Min (°C) = -1.84 Max (°C) =7.27 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 67 Stare = nori 25-50%']
+Abrud: 08 \ sâmbătă \ 26:2:2022 \ 19:01:38
+[' Răsarit = 07:13:00 Apus = 18:08:41 Min (°C) = -0.45 Max (°C) =5.74 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 62 Stare = zăpadă slabă']
+Abrud: 08 \ duminică \ 27:2:2022 \ 19:01:19
+[' Răsarit = 07:11:13 Apus = 18:10:08 Min (°C) = -1.83 Max (°C) =3.42 Presiune = 1027 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 36 Stare = nori 25-50%']
+Abrud: 09 \ luni \ 28:2:2022 \ 19:01:20
+[' Răsarit = 07:09:25 Apus = 18:11:34 Min (°C) = -1.88 Max (°C) =1.5 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.77 Unghiul vântului = 81 Stare = nori 85-100%']
+Abrud: 09 \ marți \ 01:3:2022 \ 19:01:28
+[' Răsarit = 07:07:36 Apus = 18:13:00 Min (°C) = -3.1 Max (°C) =2.85 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 58 Stare = nori 85-100%']
+Abrud: 09 \ miercuri \ 02:3:2022 \ 19:01:25
+[' Răsarit = 07:05:46 Apus = 18:14:25 Min (°C) = -3.46 Max (°C) =3.01 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 58 Stare = zăpadă slabă']
+Abrud: 09 \ joi \ 03:3:2022 \ 19:01:31
+[' Răsarit = 07:03:56 Apus = 18:15:50 Min (°C) = -4.04 Max (°C) =2.26 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 230 Stare = zăpadă slabă']
+Abrud: 09 \ vineri \ 04:3:2022 \ 19:01:22
+[' Răsarit = 07:02:05 Apus = 18:17:15 Min (°C) = -3.27 Max (°C) =1.28 Presiune = 1016 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 24 Stare = zăpadă slabă']
+Abrud: 09 \ sâmbătă \ 05:3:2022 \ 19:01:24
+[' Răsarit = 07:00:13 Apus = 18:18:39 Min (°C) = -4.78 Max (°C) =3.15 Presiune = 1019 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 62 Stare = nori 85-100%']
+Abrud: 09 \ duminică \ 06:3:2022 \ 19:01:25
+[' Răsarit = 06:58:21 Apus = 18:20:03 Min (°C) = -4.35 Max (°C) =3.66 Presiune = 1018 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 65 Stare = nori 85-100%']
+Abrud: 10 \ luni \ 07:3:2022 \ 19:01:14
+[' Răsarit = 06:56:28 Apus = 18:21:27 Min (°C) = -3.3 Max (°C) =1.14 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 290 Stare = zăpadă slabă']
+Abrud: 10 \ marți \ 08:3:2022 \ 19:01:05
+[' Răsarit = 06:54:34 Apus = 18:22:51 Min (°C) = -8.15 Max (°C) =1.65 Presiune = 1020 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 349 Stare = nori 85-100%']
+Abrud: 10 \ miercuri \ 09:3:2022 \ 19:01:14
+[' Răsarit = 06:52:40 Apus = 18:24:14 Min (°C) = -6.83 Max (°C) =1.86 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 14 Stare = nori 50-85%']
+Abrud: 10 \ joi \ 10:3:2022 \ 19:01:10
+[' Răsarit = 06:50:45 Apus = 18:25:37 Min (°C) = -6.27 Max (°C) =-1.04 Presiune = 1028 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 55 Stare = nori 50-85%']
+Abrud: 10 \ vineri \ 11:3:2022 \ 19:01:07
+[' Răsarit = 06:48:50 Apus = 18:26:59 Min (°C) = -10.82 Max (°C) =-1.21 Presiune = 1031 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 36 Stare = cer senin']
+Abrud: 10 \ sâmbătă \ 12:3:2022 \ 19:01:06
+[' Răsarit = 06:46:55 Apus = 18:28:22 Min (°C) = -10.28 Max (°C) =1.14 Presiune = 1032 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 145 Stare = nori 25-50%']
+Abrud: 10 \ duminică \ 13:3:2022 \ 19:01:09
+[' Răsarit = 06:44:59 Apus = 18:29:44 Min (°C) = -6.29 Max (°C) =3.78 Presiune = 1029 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 114 Stare = nori 85-100%']
+Abrud: 11 \ luni \ 14:3:2022 \ 19:01:08
+[' Răsarit = 06:43:02 Apus = 18:31:06 Min (°C) = -4.84 Max (°C) =6.63 Presiune = 1037 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 57 Stare = cer senin']
+Abrud: 11 \ marți \ 15:3:2022 \ 19:01:11
+[' Răsarit = 06:41:06 Apus = 18:32:27 Min (°C) = -2.55 Max (°C) =8.27 Presiune = 1032 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 92 Stare = nori 85-100%']
+Abrud: 11 \ miercuri \ 16:3:2022 \ 19:01:11
+[' Răsarit = 06:39:09 Apus = 18:33:49 Min (°C) = 0.23 Max (°C) =2.14 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 80 Stare = zăpadă slabă']
+Abrud: 11 \ joi \ 17:3:2022 \ 19:01:08
+[' Răsarit = 06:37:12 Apus = 18:35:10 Min (°C) = -2.49 Max (°C) =3.41 Presiune = 1034 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 52 Stare = nori 85-100%']
+Abrud: 11 \ vineri \ 18:3:2022 \ 19:01:08
+[' Răsarit = 06:35:14 Apus = 18:36:31 Min (°C) = -6.97 Max (°C) =3.75 Presiune = 1042 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 68 Stare = nori 10-25%']
+Abrud: 11 \ sâmbătă \ 19:3:2022 \ 19:01:16
+[' Răsarit = 06:33:17 Apus = 18:37:52 Min (°C) = -5.78 Max (°C) =2.42 Presiune = 1041 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 59 Stare = cer senin']
+Abrud: 11 \ duminică \ 20:3:2022 \ 19:01:09
+[' Răsarit = 06:31:19 Apus = 18:39:12 Min (°C) = -6.85 Max (°C) =3.89 Presiune = 1042 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 60 Stare = cer senin']
+Abrud: 12 \ luni \ 21:3:2022 \ 19:01:21
+[' Răsarit = 06:29:21 Apus = 18:40:33 Min (°C) = -3.72 Max (°C) =7.29 Presiune = 1038 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 47 Stare = cer senin']
+Abrud: 12 \ marți \ 22:3:2022 \ 19:01:12
+[' Răsarit = 06:27:23 Apus = 18:41:53 Min (°C) = -0.17 Max (°C) =12.11 Presiune = 1033 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.55 Unghiul vântului = 47 Stare = cer senin']
+Abrud: 12 \ miercuri \ 23:3:2022 \ 19:01:06
+[' Răsarit = 06:25:25 Apus = 18:43:14 Min (°C) = 1.48 Max (°C) =14.17 Presiune = 1028 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 63 Stare = cer senin']
+Abrud: 12 \ joi \ 24:3:2022 \ 19:01:09
+[' Răsarit = 06:23:28 Apus = 18:44:34 Min (°C) = 2.61 Max (°C) =14.26 Presiune = 1022 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 318 Stare = cer senin']
+Abrud: 12 \ vineri \ 25:3:2022 \ 19:01:07
+[' Răsarit = 06:21:30 Apus = 18:45:54 Min (°C) = 0.12 Max (°C) =10.55 Presiune = 1026 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 4 Stare = cer senin']
+Abrud: 12 \ sâmbătă \ 26:3:2022 \ 19:01:11
+[' Răsarit = 06:19:32 Apus = 18:47:14 Min (°C) = 0.58 Max (°C) =12.72 Presiune = 1026 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 299 Stare = nori 25-50%']
+Abrud: 12 \ duminică \ 27:3:2022 \ 19:01:17
+[' Răsarit = 07:17:34 Apus = 19:48:34 Min (°C) = 3.32 Max (°C) =13.36 Presiune = 1027 Umiditate (%) = 37 Index UV = 0.13 Viteza vântului = 0.92 Unghiul vântului = 327 Stare = cer senin']
+Abrud: 13 \ luni \ 28:3:2022 \ 19:01:15
+[' Răsarit = 07:15:36 Apus = 19:49:53 Min (°C) = 2.09 Max (°C) =13.43 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.14 Viteza vântului = 1.95 Unghiul vântului = 248 Stare = cer senin']
+Abrud: 13 \ marți \ 29:3:2022 \ 19:01:11
+[' Răsarit = 07:13:39 Apus = 19:51:13 Min (°C) = 4.11 Max (°C) =15.22 Presiune = 1009 Umiditate (%) = 52 Index UV = 0.15 Viteza vântului = 3.76 Unghiul vântului = 248 Stare = nori 85-100%']
+Abrud: 13 \ miercuri \ 30:3:2022 \ 19:01:11
+[' Răsarit = 07:11:42 Apus = 19:52:33 Min (°C) = 6.19 Max (°C) =14.09 Presiune = 1005 Umiditate (%) = 51 Index UV = 0.12 Viteza vântului = 2.92 Unghiul vântului = 251 Stare = nori 85-100%']
+Abrud: 13 \ joi \ 31:3:2022 \ 19:01:14
+[' Răsarit = 07:09:45 Apus = 19:53:53 Min (°C) = 7.73 Max (°C) =9.22 Presiune = 998 Umiditate (%) = 96 Index UV = 0.01 Viteza vântului = 0.66 Unghiul vântului = 143 Stare = ploaie ușoară']
+Abrud: 13 \ vineri \ 01:4:2022 \ 19:01:16
+[' Răsarit = 07:07:48 Apus = 19:55:12 Min (°C) = 7.26 Max (°C) =14.04 Presiune = 995 Umiditate (%) = 89 Index UV = 0.07 Viteza vântului = 1.02 Unghiul vântului = 274 Stare = nori 85-100%']
+Abrud: 13 \ sâmbătă \ 02:4:2022 \ 19:01:24
+[' Răsarit = 07:05:52 Apus = 19:56:32 Min (°C) = 3.95 Max (°C) =7.6 Presiune = 1000 Umiditate (%) = 85 Index UV = 0.02 Viteza vântului = 2.23 Unghiul vântului = 247 Stare = ploaie ușoară']
+Abrud: 13 \ duminică \ 03:4:2022 \ 19:34:19
+[' Răsarit = 07:03:56 Apus = 19:57:52 Min (°C) = -2.78 Max (°C) =1.09 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 261 Stare = nori 85-100%']
+Abrud: 14 \ luni \ 04:4:2022 \ 19:01:22
+[' Răsarit = 07:02:00 Apus = 19:59:11 Min (°C) = -5.5 Max (°C) =2.98 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.16 Viteza vântului = 3.52 Unghiul vântului = 274 Stare = nori 50-85%']
+Abrud: 14 \ marți \ 05:4:2022 \ 19:01:29
+[' Răsarit = 07:00:05 Apus = 20:00:31 Min (°C) = -3.42 Max (°C) =8.62 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.2 Viteza vântului = 4.69 Unghiul vântului = 265 Stare = nori 50-85%']
+Abrud: 14 \ miercuri \ 06:4:2022 \ 19:01:22
+[' Răsarit = 06:58:10 Apus = 20:01:51 Min (°C) = 2.26 Max (°C) =13.72 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.21 Viteza vântului = 0.79 Unghiul vântului = 149 Stare = nori 10-25%']
+Abrud: 14 \ joi \ 07:4:2022 \ 19:01:23
+[' Răsarit = 06:56:15 Apus = 20:03:10 Min (°C) = 5.82 Max (°C) =11.12 Presiune = 1001 Umiditate (%) = 95 Index UV = 0.02 Viteza vântului = 1.59 Unghiul vântului = 251 Stare = nori 85-100%']
+Abrud: 14 \ vineri \ 08:4:2022 \ 19:01:17
+[' Răsarit = 06:54:21 Apus = 20:04:30 Min (°C) = 5 Max (°C) =9.45 Presiune = 1007 Umiditate (%) = 88 Index UV = 0.1 Viteza vântului = 1.62 Unghiul vântului = 220 Stare = nori 85-100%']
+Abrud: 14 \ sâmbătă \ 09:4:2022 \ 19:01:20
+[' Răsarit = 06:52:28 Apus = 20:05:50 Min (°C) = 7.78 Max (°C) =12.03 Presiune = 1002 Umiditate (%) = 87 Index UV = 0.14 Viteza vântului = 2.8 Unghiul vântului = 253 Stare = nori 85-100%']
+Abrud: 14 \ duminică \ 10:4:2022 \ 19:01:27
+[' Răsarit = 06:50:35 Apus = 20:07:10 Min (°C) = 1.41 Max (°C) =6.97 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.13 Viteza vântului = 2.47 Unghiul vântului = 8 Stare = nori 85-100%']
+Abrud: 15 \ luni \ 11:4:2022 \ 19:01:16
+[' Răsarit = 06:48:43 Apus = 20:08:30 Min (°C) = -1.58 Max (°C) =7.03 Presiune = 1020 Umiditate (%) = 62 Index UV = 0.23 Viteza vântului = 3.03 Unghiul vântului = 304 Stare = nori 85-100%']
+Abrud: 15 \ marți \ 12:4:2022 \ 19:01:16
+[' Răsarit = 06:46:51 Apus = 20:09:50 Min (°C) = -1.38 Max (°C) =9.53 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.26 Viteza vântului = 1.23 Unghiul vântului = 347 Stare = nori 25-50%']
+Abrud: 15 \ miercuri \ 13:4:2022 \ 19:01:17
+[' Răsarit = 06:45:01 Apus = 20:11:10 Min (°C) = -0.65 Max (°C) =12.29 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.27 Viteza vântului = 1.26 Unghiul vântului = 127 Stare = cer senin']
+Abrud: 15 \ joi \ 14:4:2022 \ 19:01:23
+[' Răsarit = 06:43:10 Apus = 20:12:30 Min (°C) = 2.1 Max (°C) =15.86 Presiune = 1020 Umiditate (%) = 58 Index UV = 0.29 Viteza vântului = 1.42 Unghiul vântului = 203 Stare = cer senin']
+Abrud: 15 \ vineri \ 15:4:2022 \ 19:01:50
+[' Răsarit = 06:41:21 Apus = 20:13:50 Min (°C) = 5.92 Max (°C) =18.25 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.28 Viteza vântului = 2.14 Unghiul vântului = 263 Stare = nori 85-100%']
+Abrud: 15 \ sâmbătă \ 16:4:2022 \ 19:01:40
+[' Răsarit = 06:39:32 Apus = 20:15:11 Min (°C) = 6.16 Max (°C) =12.74 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.06 Viteza vântului = 1.74 Unghiul vântului = 292 Stare = nori 25-50%']
+Abrud: 15 \ duminică \ 17:4:2022 \ 19:01:27
+[' Răsarit = 06:37:45 Apus = 20:16:31 Min (°C) = 1.27 Max (°C) =6.52 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.29 Viteza vântului = 3.21 Unghiul vântului = 47 Stare = nori 85-100%']
+Abrud: 16 \ luni \ 18:4:2022 \ 19:01:26
+[' Răsarit = 06:35:58 Apus = 20:17:51 Min (°C) = -2.57 Max (°C) =7 Presiune = 1012 Umiditate (%) = 85 Index UV = 0.18 Viteza vântului = 2.3 Unghiul vântului = 31 Stare = nori 85-100%']
+Abrud: 16 \ marți \ 19:4:2022 \ 19:01:54
+[' Răsarit = 06:34:11 Apus = 20:19:11 Min (°C) = -1.96 Max (°C) =7.34 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.27 Viteza vântului = 1.85 Unghiul vântului = 311 Stare = nori 85-100%']
+Abrud: 16 \ miercuri \ 20:4:2022 \ 19:01:29
+[' Răsarit = 06:32:26 Apus = 20:20:32 Min (°C) = -0.34 Max (°C) =8.54 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.27 Viteza vântului = 2.99 Unghiul vântului = 274 Stare = nori 85-100%']
+Abrud: 16 \ joi \ 21:4:2022 \ 19:01:32
+[' Răsarit = 06:30:42 Apus = 20:21:52 Min (°C) = 0.8 Max (°C) =10.87 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.3 Viteza vântului = 2.99 Unghiul vântului = 263 Stare = nori 85-100%']
+Abrud: 16 \ vineri \ 22:4:2022 \ 19:01:16
+[' Răsarit = 06:28:59 Apus = 20:23:12 Min (°C) = 2.73 Max (°C) =15.45 Presiune = 1004 Umiditate (%) = 68 Index UV = 0.35 Viteza vântului = 2.21 Unghiul vântului = 125 Stare = nori 50-85%']
+Abrud: 16 \ sâmbătă \ 23:4:2022 \ 19:01:13
+[' Răsarit = 06:27:16 Apus = 20:24:33 Min (°C) = 6.71 Max (°C) =12.01 Presiune = 1007 Umiditate (%) = 81 Index UV = 0.22 Viteza vântului = 3.78 Unghiul vântului = 258 Stare = nori 50-85%']
+Abrud: 16 \ duminică \ 24:4:2022 \ 19:01:10
+[' Răsarit = 06:25:35 Apus = 20:25:53 Min (°C) = 5.2 Max (°C) =18.84 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.39 Viteza vântului = 2.25 Unghiul vântului = 161 Stare = nori 25-50%']
+Abrud: 17 \ luni \ 25:4:2022 \ 19:01:06
+[' Răsarit = 06:23:55 Apus = 20:27:13 Min (°C) = 7.38 Max (°C) =13.62 Presiune = 1010 Umiditate (%) = 87 Index UV = 0.2 Viteza vântului = 2.71 Unghiul vântului = 254 Stare = nori 50-85%']
+Abrud: 17 \ marți \ 26:4:2022 \ 19:01:19
+[' Răsarit = 06:22:16 Apus = 20:28:34 Min (°C) = 5.58 Max (°C) =15.65 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.29 Viteza vântului = 1.39 Unghiul vântului = 244 Stare = nori 85-100%']
+Abrud: 17 \ miercuri \ 27:4:2022 \ 19:01:15
+[' Răsarit = 06:20:38 Apus = 20:29:54 Min (°C) = 6.32 Max (°C) =14.65 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.41 Viteza vântului = 1.46 Unghiul vântului = 258 Stare = ploaie ușoară']
+Abrud: 17 \ joi \ 28:4:2022 \ 19:01:18
+[' Răsarit = 06:19:01 Apus = 20:31:14 Min (°C) = 6.88 Max (°C) =9.82 Presiune = 1020 Umiditate (%) = 85 Index UV = 0.07 Viteza vântului = 1.1 Unghiul vântului = 258 Stare = nori 85-100%']
+Abrud: 17 \ vineri \ 29:4:2022 \ 19:01:25
+[' Răsarit = 06:17:25 Apus = 20:32:34 Min (°C) = 5.63 Max (°C) =12.16 Presiune = 1021 Umiditate (%) = 71 Index UV = 0.27 Viteza vântului = 2.7 Unghiul vântului = 102 Stare = nori 25-50%']
+Abrud: 17 \ sâmbătă \ 30:4:2022 \ 19:01:08
+[' Răsarit = 06:15:51 Apus = 20:33:53 Min (°C) = 4.38 Max (°C) =14.97 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.35 Viteza vântului = 1.27 Unghiul vântului = 78 Stare = nori 50-85%']
+Abrud: 17 \ duminică \ 01:5:2022 \ 19:01:10
+[' Răsarit = 06:14:18 Apus = 20:35:13 Min (°C) = 5.58 Max (°C) =16.18 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.36 Viteza vântului = 2.39 Unghiul vântului = 107 Stare = nori 50-85%']
+Abrud: 18 \ marți \ 03:5:2022 \ 20:02:47
+[' Răsarit = 06:11:16 Apus = 20:37:52 Min (°C) = 6.4 Max (°C) =15.07 Presiune = 1015 Umiditate (%) = 92 Index UV = 0.09 Viteza vântului = 1.06 Unghiul vântului = 306 Stare = nori 85-100%']
+Abrud: 18 \ miercuri \ 04:5:2022 \ 19:05:20
+[' Răsarit = 06:09:47 Apus = 20:39:10 Min (°C) = 5.4 Max (°C) =15.12 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.39 Viteza vântului = 0.28 Unghiul vântului = 308 Stare = nori 85-100%']
+Abrud: 18 \ joi \ 05:5:2022 \ 19:01:10
+[' Răsarit = 06:08:19 Apus = 20:40:29 Min (°C) = 6.14 Max (°C) =17.43 Presiune = 1021 Umiditate (%) = 84 Index UV = 0.46 Viteza vântului = 0.96 Unghiul vântului = 82 Stare = nori 85-100%']
+Abrud: 18 \ vineri \ 06:5:2022 \ 19:01:13
+[' Răsarit = 06:06:53 Apus = 20:41:47 Min (°C) = 7.5 Max (°C) =19.66 Presiune = 1019 Umiditate (%) = 67 Index UV = 0.18 Viteza vântului = 1.11 Unghiul vântului = 90 Stare = nori 85-100%']
+Abrud: 18 \ sâmbătă \ 07:5:2022 \ 19:01:10
+[' Răsarit = 06:05:28 Apus = 20:43:05 Min (°C) = 8.46 Max (°C) =19.3 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.42 Viteza vântului = 1.37 Unghiul vântului = 46 Stare = nori 85-100%']
+Abrud: 18 \ duminică \ 08:5:2022 \ 19:01:33
+[' Răsarit = 06:04:05 Apus = 20:44:23 Min (°C) = 8.18 Max (°C) =18.85 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.42 Viteza vântului = 0.22 Unghiul vântului = 70 Stare = nori 85-100%']
+Abrud: 19 \ luni \ 09:5:2022 \ 19:01:19
+[' Răsarit = 06:02:43 Apus = 20:45:40 Min (°C) = 8.93 Max (°C) =17.18 Presiune = 1022 Umiditate (%) = 93 Index UV = 0.32 Viteza vântului = 1.07 Unghiul vântului = 103 Stare = nori 85-100%']
+Abrud: 19 \ marți \ 10:5:2022 \ 19:01:23
+[' Răsarit = 06:01:23 Apus = 20:46:57 Min (°C) = 7.71 Max (°C) =16.73 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.53 Viteza vântului = 1.16 Unghiul vântului = 30 Stare = nori 50-85%']
+Abrud: 19 \ miercuri \ 11:5:2022 \ 19:01:20
+[' Răsarit = 06:00:05 Apus = 20:48:13 Min (°C) = 6.64 Max (°C) =19.91 Presiune = 1019 Umiditate (%) = 73 Index UV = 0.37 Viteza vântului = 0.42 Unghiul vântului = 151 Stare = nori 85-100%']
+Abrud: 19 \ joi \ 12:5:2022 \ 19:01:18
+[' Răsarit = 05:58:48 Apus = 20:49:29 Min (°C) = 9.73 Max (°C) =22.16 Presiune = 1018 Umiditate (%) = 58 Index UV = 0.62 Viteza vântului = 3.21 Unghiul vântului = 267 Stare = nori 10-25%']
+Abrud: 19 \ vineri \ 13:5:2022 \ 19:01:16
+[' Răsarit = 05:57:33 Apus = 20:50:44 Min (°C) = 12.47 Max (°C) =23.99 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.6 Viteza vântului = 2.04 Unghiul vântului = 302 Stare = nori 50-85%']
+Abrud: 19 \ sâmbătă \ 14:5:2022 \ 19:01:13
+[' Răsarit = 05:56:20 Apus = 20:51:58 Min (°C) = 11.24 Max (°C) =20.56 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.55 Viteza vântului = 1.48 Unghiul vântului = 319 Stare = nori 50-85%']
+Abrud: 19 \ duminică \ 15:5:2022 \ 19:01:17
+[' Răsarit = 05:55:08 Apus = 20:53:12 Min (°C) = 9.22 Max (°C) =20.08 Presiune = 1018 Umiditate (%) = 67 Index UV = 0.47 Viteza vântului = 2.59 Unghiul vântului = 260 Stare = nori 50-85%']
+Abrud: 20 \ luni \ 16:5:2022 \ 19:01:43
+[' Răsarit = 05:53:58 Apus = 20:54:25 Min (°C) = 9.95 Max (°C) =21.63 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.62 Viteza vântului = 3.12 Unghiul vântului = 286 Stare = nori 50-85%']
+Abrud: 20 \ marți \ 17:5:2022 \ 19:02:23
+[' Răsarit = 05:52:50 Apus = 20:55:37 Min (°C) = 9.9 Max (°C) =20.46 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.29 Viteza vântului = 1.19 Unghiul vântului = 244 Stare = ploaie moderată']
+Abrud: 20 \ miercuri \ 18:5:2022 \ 19:01:14
+[' Răsarit = 05:51:44 Apus = 20:56:49 Min (°C) = 6.41 Max (°C) =13.06 Presiune = 1025 Umiditate (%) = 44 Index UV = 0.62 Viteza vântului = 2.73 Unghiul vântului = 27 Stare = cer senin']
+Abrud: 20 \ joi \ 19:5:2022 \ 20:06:24
+[' Răsarit = 05:50:40 Apus = 20:57:59 Min (°C) = 3.91 Max (°C) =19.12 Presiune = 1027 Umiditate (%) = 69 Index UV = 0.19 Viteza vântului = 1.63 Unghiul vântului = 149 Stare = cer senin']
+Abrud: 20 \ vineri \ 20:5:2022 \ 19:01:12
+[' Răsarit = 05:49:37 Apus = 20:59:09 Min (°C) = 7.03 Max (°C) =22.13 Presiune = 1022 Umiditate (%) = 50 Index UV = 0.71 Viteza vântului = 2.51 Unghiul vântului = 270 Stare = nori 50-85%']
+Abrud: 20 \ sâmbătă \ 21:5:2022 \ 19:01:24
+[' Răsarit = 05:48:37 Apus = 21:00:18 Min (°C) = 10.97 Max (°C) =23.62 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.67 Viteza vântului = 5.29 Unghiul vântului = 280 Stare = nori 85-100%']

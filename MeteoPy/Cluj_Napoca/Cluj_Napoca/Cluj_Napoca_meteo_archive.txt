@@ -1,0 +1,954 @@
+Cluj_Napoca: 04 \ luni \ 25:1:2021 \ 22:31:22
+[' Răsarit = 07:57:52 Apus = 17:17:43 Min (°C) = -1.4 Max (°C) =4.74 Presiune = 1002 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 25-50%']
+Cluj_Napoca: 04 \ marți \ 26:1:2021 \ 09:49:29
+[' Răsarit = 07:56:51 Apus = 17:19:12 Min (°C) = -2.23 Max (°C) =1.17 Presiune = 1007 Umiditate (%) = 80 Index UV = 0.5 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = zăpadă slabă']
+Cluj_Napoca: 04 \ miercuri \ 27:1:2021 \ 19:09:19
+[' Răsarit = 07:55:47 Apus = 17:20:42 Min (°C) = -2.19 Max (°C) =-0.03 Presiune = 1010 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 04 \ joi \ 28:1:2021 \ 19:25:53
+[' Răsarit = 07:54:41 Apus = 17:22:12 Min (°C) = -3.2 Max (°C) =0.52 Presiune = 1008 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 04 \ vineri \ 29:1:2021 \ 20:11:21
+[' Răsarit = 07:53:34 Apus = 17:23:43 Min (°C) = -2.44 Max (°C) =1.67 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = zăpadă slabă']
+Cluj_Napoca: 04 \ sâmbătă \ 30:1:2021 \ 20:11:44
+[' Răsarit = 07:52:24 Apus = 17:25:14 Min (°C) = 1.66 Max (°C) =7.46 Presiune = 998 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = cer senin']
+Cluj_Napoca: 04 \ duminică \ 31:1:2021 \ 19:10:51
+[' Răsarit = 07:51:13 Apus = 17:26:45 Min (°C) = -0.43 Max (°C) =3.25 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 63 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ luni \ 01:2:2021 \ 19:11:15
+[' Răsarit = 07:49:59 Apus = 17:28:17 Min (°C) = 1.65 Max (°C) =4.25 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 190 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ marți \ 02:2:2021 \ 20:39:39
+[' Răsarit = 07:48:44 Apus = 17:29:49 Min (°C) = 1.37 Max (°C) =6.73 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ miercuri \ 03:2:2021 \ 19:37:54
+[' Răsarit = 07:47:27 Apus = 17:31:21 Min (°C) = 1.78 Max (°C) =6.9 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 182 Stare = nori 25-50%']
+Cluj_Napoca: 05 \ joi \ 04:2:2021 \ 19:12:39
+[' Răsarit = 07:46:08 Apus = 17:32:54 Min (°C) = 4.76 Max (°C) =11 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 280 Stare = nori 10-25%']
+Cluj_Napoca: 05 \ vineri \ 05:2:2021 \ 19:08:24
+[' Răsarit = 07:44:47 Apus = 17:34:26 Min (°C) = 3.16 Max (°C) =7.23 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ sâmbătă \ 06:2:2021 \ 19:37:11
+[' Răsarit = 07:43:25 Apus = 17:35:59 Min (°C) = 4.7 Max (°C) =8.55 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 100 Stare = ceață']
+Cluj_Napoca: 05 \ duminică \ 07:2:2021 \ 19:12:15
+[' Răsarit = 07:42:01 Apus = 17:37:31 Min (°C) = 4.79 Max (°C) =11.58 Presiune = 1003 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 06 \ luni \ 08:2:2021 \ 20:53:51
+[' Răsarit = 07:40:35 Apus = 17:39:04 Min (°C) = 4.91 Max (°C) =10 Presiune = 993 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = nori 25-50%']
+Cluj_Napoca: 06 \ marți \ 09:2:2021 \ 19:09:46
+[' Răsarit = 07:39:08 Apus = 17:40:37 Min (°C) = 2.55 Max (°C) =11.56 Presiune = 1001 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = nori 25-50%']
+Cluj_Napoca: 06 \ miercuri \ 10:2:2021 \ 19:10:33
+[' Răsarit = 07:37:39 Apus = 17:42:09 Min (°C) = 5.2 Max (°C) =8.93 Presiune = 1004 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 180 Stare = nori 10-25%']
+Cluj_Napoca: 06 \ joi \ 11:2:2021 \ 19:05:48
+[' Răsarit = 07:36:09 Apus = 17:43:41 Min (°C) = -7.33 Max (°C) =7.6 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 06 \ vineri \ 12:2:2021 \ 20:44:31
+[' Răsarit = 07:34:37 Apus = 17:45:14 Min (°C) = -11.36 Max (°C) =-7.6 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = zăpadă slabă']
+Cluj_Napoca: 06 \ sâmbătă \ 13:2:2021 \ 19:09:45
+[' Răsarit = 07:33:04 Apus = 17:46:46 Min (°C) = -11.2 Max (°C) =-5.86 Presiune = 1030 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 06 \ duminică \ 14:2:2021 \ 19:09:10
+[' Răsarit = 07:31:30 Apus = 17:48:17 Min (°C) = -7.99 Max (°C) =-2.14 Presiune = 1031 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 85-100%']
+Cluj_Napoca: 07 \ luni \ 15:2:2021 \ 20:04:42
+[' Răsarit = 07:29:54 Apus = 17:49:49 Min (°C) = -6.49 Max (°C) =-1.45 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 07 \ marți \ 16:2:2021 \ 19:01:03
+[' Răsarit = 07:28:17 Apus = 17:51:21 Min (°C) = -6.52 Max (°C) =-0.67 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 07 \ miercuri \ 17:2:2021 \ 19:08:55
+[' Răsarit = 07:26:38 Apus = 17:52:52 Min (°C) = -4.04 Max (°C) =0.39 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = zăpadă slabă']
+Cluj_Napoca: 07 \ joi \ 18:2:2021 \ 19:12:57
+[' Răsarit = 07:24:58 Apus = 17:54:23 Min (°C) = -2.15 Max (°C) =2.79 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 25-50%']
+Cluj_Napoca: 07 \ vineri \ 19:2:2021 \ 19:05:52
+[' Răsarit = 07:23:18 Apus = 17:55:53 Min (°C) = -1.73 Max (°C) =3.41 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = nori 85-100%']
+Cluj_Napoca: 07 \ sâmbătă \ 20:2:2021 \ 19:10:15
+[' Răsarit = 07:21:35 Apus = 17:57:24 Min (°C) = 0.04 Max (°C) =4.27 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = cer senin']
+Cluj_Napoca: 07 \ duminică \ 21:2:2021 \ 19:07:36
+[' Răsarit = 07:19:52 Apus = 17:58:54 Min (°C) = -1.17 Max (°C) =5.88 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = nori 85-100%']
+Cluj_Napoca: 08 \ luni \ 22:2:2021 \ 19:12:09
+[' Răsarit = 07:18:08 Apus = 18:00:23 Min (°C) = -0.38 Max (°C) =7.67 Presiune = 1030 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = ceață']
+Cluj_Napoca: 08 \ marți \ 23:2:2021 \ 19:10:06
+[' Răsarit = 07:16:23 Apus = 18:01:53 Min (°C) = 1 Max (°C) =10.5 Presiune = 1034 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = cer senin']
+Cluj_Napoca: 08 \ miercuri \ 24:2:2021 \ 19:10:42
+[' Răsarit = 07:14:36 Apus = 18:03:22 Min (°C) = 3.02 Max (°C) =12.58 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 08 \ joi \ 25:2:2021 \ 19:08:43
+[' Răsarit = 07:12:49 Apus = 18:04:51 Min (°C) = 4.21 Max (°C) =13.62 Presiune = 1033 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']
+Cluj_Napoca: 08 \ vineri \ 26:2:2021 \ 19:09:26
+[' Răsarit = 07:11:01 Apus = 18:06:19 Min (°C) = 5.22 Max (°C) =14.9 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 182 Stare = cer senin']
+Cluj_Napoca: 08 \ sâmbătă \ 27:2:2021 \ 19:06:39
+[' Răsarit = 07:09:12 Apus = 18:07:47 Min (°C) = 1.87 Max (°C) =7.79 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = nori 25-50%']
+Cluj_Napoca: 08 \ duminică \ 28:2:2021 \ 19:10:56
+[' Răsarit = 07:07:22 Apus = 18:09:15 Min (°C) = 1.14 Max (°C) =6.62 Presiune = 1029 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 09 \ luni \ 01:3:2021 \ 19:05:11
+[' Răsarit = 07:05:31 Apus = 18:10:42 Min (°C) = 1.41 Max (°C) =7.04 Presiune = 1031 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = nori 50-85%']
+Cluj_Napoca: 09 \ marți \ 02:3:2021 \ 19:13:42
+[' Răsarit = 07:03:40 Apus = 18:12:10 Min (°C) = 0.99 Max (°C) =8.75 Presiune = 1031 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 09 \ miercuri \ 03:3:2021 \ 19:09:03
+[' Răsarit = 07:01:47 Apus = 18:13:36 Min (°C) = 2.34 Max (°C) =11.49 Presiune = 1027 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = cer senin']
+Cluj_Napoca: 09 \ joi \ 04:3:2021 \ 19:09:49
+[' Răsarit = 06:59:54 Apus = 18:15:03 Min (°C) = 2.79 Max (°C) =12.22 Presiune = 1015 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 09 \ vineri \ 05:3:2021 \ 19:07:47
+[' Răsarit = 06:58:01 Apus = 18:16:29 Min (°C) = 2.79 Max (°C) =12.27 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 09 \ sâmbătă \ 06:3:2021 \ 19:08:47
+[' Răsarit = 06:56:06 Apus = 18:17:55 Min (°C) = -1.53 Max (°C) =3.46 Presiune = 1029 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = cer senin']
+Cluj_Napoca: 09 \ duminică \ 07:3:2021 \ 19:09:47
+[' Răsarit = 06:54:11 Apus = 18:19:20 Min (°C) = -2.04 Max (°C) =4.42 Presiune = 1019 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 10 \ luni \ 08:3:2021 \ 19:12:50
+[' Răsarit = 06:52:16 Apus = 18:20:45 Min (°C) = -1.16 Max (°C) =6.63 Presiune = 1014 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 10 \ marți \ 09:3:2021 \ 19:07:23
+[' Răsarit = 06:50:20 Apus = 18:22:10 Min (°C) = -1.6 Max (°C) =4.65 Presiune = 1016 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 10 Stare = nori 10-25%']
+Cluj_Napoca: 10 \ miercuri \ 10:3:2021 \ 19:13:23
+[' Răsarit = 06:48:23 Apus = 18:23:35 Min (°C) = -0.87 Max (°C) =4.59 Presiune = 1016 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 10 \ joi \ 11:3:2021 \ 19:09:22
+[' Răsarit = 06:46:26 Apus = 18:24:59 Min (°C) = -2 Max (°C) =5.35 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = cer senin']
+Cluj_Napoca: 10 \ vineri \ 12:3:2021 \ 19:09:10
+[' Răsarit = 06:44:29 Apus = 18:26:23 Min (°C) = 0.77 Max (°C) =9.71 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = nori 10-25%']
+Cluj_Napoca: 10 \ sâmbătă \ 13:3:2021 \ 19:09:18
+[' Răsarit = 06:42:31 Apus = 18:27:47 Min (°C) = 3.58 Max (°C) =9.7 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 10-25%']
+Cluj_Napoca: 10 \ duminică \ 14:3:2021 \ 19:11:39
+[' Răsarit = 06:40:33 Apus = 18:29:10 Min (°C) = 3.17 Max (°C) =12.35 Presiune = 1006 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 220 Stare = cer senin']
+Cluj_Napoca: 11 \ luni \ 15:3:2021 \ 19:11:00
+[' Răsarit = 06:38:35 Apus = 18:30:34 Min (°C) = 4.96 Max (°C) =7.98 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = nori 85-100%']
+Cluj_Napoca: 11 \ marți \ 16:3:2021 \ 19:09:33
+[' Răsarit = 06:36:36 Apus = 18:31:57 Min (°C) = 1.99 Max (°C) =4.81 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = ploaie ușoară']
+Cluj_Napoca: 11 \ miercuri \ 17:3:2021 \ 19:10:07
+[' Răsarit = 06:34:37 Apus = 18:33:20 Min (°C) = 1.03 Max (°C) =3.2 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 270 Stare = nori 85-100%']
+Cluj_Napoca: 11 \ joi \ 18:3:2021 \ 19:09:13
+[' Răsarit = 06:32:38 Apus = 18:34:42 Min (°C) = 0.64 Max (°C) =4.44 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = nori 85-100%']
+Cluj_Napoca: 11 \ vineri \ 19:3:2021 \ 19:06:48
+[' Răsarit = 06:30:38 Apus = 18:36:05 Min (°C) = -2.58 Max (°C) =1.69 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 11 \ sâmbătă \ 20:3:2021 \ 19:09:17
+[' Răsarit = 06:28:39 Apus = 18:37:27 Min (°C) = -4.87 Max (°C) =3.05 Presiune = 1019 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 330 Stare = nori 50-85%']
+Cluj_Napoca: 11 \ duminică \ 21:3:2021 \ 19:04:59
+[' Răsarit = 06:26:39 Apus = 18:38:49 Min (°C) = -2.53 Max (°C) =5.11 Presiune = 1011 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 190 Stare = cer senin']
+Cluj_Napoca: 12 \ luni \ 22:3:2021 \ 19:10:13
+[' Răsarit = 06:24:40 Apus = 18:40:12 Min (°C) = -1.05 Max (°C) =4.39 Presiune = 1008 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = nori 25-50%']
+Cluj_Napoca: 12 \ marți \ 23:3:2021 \ 19:11:49
+[' Răsarit = 06:22:40 Apus = 18:41:33 Min (°C) = -3.8 Max (°C) =5.19 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = nori 85-100%']
+Cluj_Napoca: 12 \ miercuri \ 24:3:2021 \ 19:10:24
+[' Răsarit = 06:20:40 Apus = 18:42:55 Min (°C) = -2.66 Max (°C) =4.53 Presiune = 1018 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = cer senin']
+Cluj_Napoca: 12 \ joi \ 25:3:2021 \ 19:10:16
+[' Răsarit = 06:18:41 Apus = 18:44:17 Min (°C) = -1.15 Max (°C) =7.09 Presiune = 1019 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 12 \ vineri \ 26:3:2021 \ 19:15:07
+[' Răsarit = 06:16:41 Apus = 18:45:39 Min (°C) = -0.28 Max (°C) =10 Presiune = 1023 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 12 \ sâmbătă \ 27:3:2021 \ 19:14:39
+[' Răsarit = 06:14:42 Apus = 18:47:00 Min (°C) = 1.57 Max (°C) =13.47 Presiune = 1023 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 12 \ duminică \ 28:3:2021 \ 19:10:39
+[' Răsarit = 07:12:42 Apus = 19:48:22 Min (°C) = 4.58 Max (°C) =9.84 Presiune = 1029 Umiditate (%) = 40 Index UV = 0.11 Viteza vântului = 7.2 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 13 \ luni \ 29:3:2021 \ 19:09:41
+[' Răsarit = 07:10:43 Apus = 19:49:43 Min (°C) = 1.45 Max (°C) =10.65 Presiune = 1030 Umiditate (%) = 40 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 13 \ marți \ 30:3:2021 \ 19:08:15
+[' Răsarit = 07:08:44 Apus = 19:51:05 Min (°C) = 2.78 Max (°C) =14.59 Presiune = 1028 Umiditate (%) = 38 Index UV = 0.08 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
+Cluj_Napoca: 13 \ miercuri \ 31:3:2021 \ 19:08:09
+[' Răsarit = 07:06:46 Apus = 19:52:26 Min (°C) = 5.78 Max (°C) =17 Presiune = 1022 Umiditate (%) = 45 Index UV = 0.09 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 13 \ joi \ 01:4:2021 \ 19:09:00
+[' Răsarit = 07:04:47 Apus = 19:53:48 Min (°C) = 7.52 Max (°C) =18.74 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.14 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 13 \ vineri \ 02:4:2021 \ 19:11:54
+[' Răsarit = 07:02:49 Apus = 19:55:09 Min (°C) = 6.88 Max (°C) =15.03 Presiune = 1010 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 50-85%']
+Cluj_Napoca: 13 \ sâmbătă \ 03:4:2021 \ 20:32:59
+[' Răsarit = 07:00:51 Apus = 19:56:31 Min (°C) = 4.02 Max (°C) =8.45 Presiune = 1011 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 13 \ duminică \ 04:4:2021 \ 20:11:58
+[' Răsarit = 06:58:54 Apus = 19:57:52 Min (°C) = 1.03 Max (°C) =9.15 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 14 \ luni \ 05:4:2021 \ 14:38:55
+[' Răsarit = 06:56:57 Apus = 19:59:13 Min (°C) = 0.48 Max (°C) =10.76 Presiune = 1011 Umiditate (%) = 32 Index UV = 3.42 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 14 \ luni \ 05:4:2021 \ 19:09:59
+[' Răsarit = 06:56:57 Apus = 19:59:13 Min (°C) = 0.48 Max (°C) =11.44 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.17 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 14 \ marți \ 06:4:2021 \ 20:13:59
+[' Răsarit = 06:55:01 Apus = 20:00:35 Min (°C) = 1.43 Max (°C) =11.26 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 290 Stare = nori 85-100%']
+Cluj_Napoca: 14 \ miercuri \ 07:4:2021 \ 19:08:31
+[' Răsarit = 06:53:05 Apus = 20:01:56 Min (°C) = -0.17 Max (°C) =6.09 Presiune = 1009 Umiditate (%) = 33 Index UV = 0.17 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 14 \ joi \ 08:4:2021 \ 19:08:18
+[' Răsarit = 06:51:09 Apus = 20:03:18 Min (°C) = -1.54 Max (°C) =7.08 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.15 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 14 \ vineri \ 09:4:2021 \ 19:08:40
+[' Răsarit = 06:49:14 Apus = 20:04:40 Min (°C) = -1.42 Max (°C) =10 Presiune = 1025 Umiditate (%) = 37 Index UV = 0.19 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = cer senin']
+Cluj_Napoca: 14 \ sâmbătă \ 10:4:2021 \ 19:08:20
+[' Răsarit = 06:47:20 Apus = 20:06:01 Min (°C) = 0.51 Max (°C) =14.29 Presiune = 1021 Umiditate (%) = 33 Index UV = 0.21 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 14 \ duminică \ 11:4:2021 \ 19:09:55
+[' Răsarit = 06:45:26 Apus = 20:07:23 Min (°C) = 3.65 Max (°C) =17.47 Presiune = 1020 Umiditate (%) = 27 Index UV = 0.22 Viteza vântului = 4.63 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 15 \ luni \ 12:4:2021 \ 21:53:32
+[' Răsarit = 06:43:33 Apus = 20:08:45 Min (°C) = 8.21 Max (°C) =18.26 Presiune = 1017 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 15 \ marți \ 13:4:2021 \ 19:08:34
+[' Răsarit = 06:41:40 Apus = 20:10:07 Min (°C) = 9.06 Max (°C) =15.82 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.08 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = cer senin']
+Cluj_Napoca: 15 \ miercuri \ 14:4:2021 \ 19:09:16
+[' Răsarit = 06:39:49 Apus = 20:11:28 Min (°C) = 2.03 Max (°C) =8.31 Presiune = 1014 Umiditate (%) = 87 Index UV = 0.04 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = ploaie ușoară']
+Cluj_Napoca: 15 \ joi \ 15:4:2021 \ 19:09:24
+[' Răsarit = 06:37:58 Apus = 20:12:50 Min (°C) = 0.43 Max (°C) =5.64 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.09 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = nori 25-50%']
+Cluj_Napoca: 15 \ vineri \ 16:4:2021 \ 19:08:46
+[' Răsarit = 06:36:08 Apus = 20:14:12 Min (°C) = 0.19 Max (°C) =8.09 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.2 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 50-85%']
+Cluj_Napoca: 15 \ sâmbătă \ 17:4:2021 \ 19:08:28
+[' Răsarit = 06:34:18 Apus = 20:15:34 Min (°C) = 0.02 Max (°C) =10.87 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.26 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = cer senin']
+Cluj_Napoca: 15 \ duminică \ 18:4:2021 \ 19:08:21
+[' Răsarit = 06:32:30 Apus = 20:16:56 Min (°C) = 3.85 Max (°C) =10 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.05 Viteza vântului = 3.6 Unghiul vântului = 170 Stare = nori 85-100%']
+Cluj_Napoca: 16 \ luni \ 19:4:2021 \ 19:08:38
+[' Răsarit = 06:30:42 Apus = 20:18:18 Min (°C) = 6.15 Max (°C) =10 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.17 Viteza vântului = 0.51 Unghiul vântului = 40 Stare = nori 50-85%']
+Cluj_Napoca: 16 \ marți \ 20:4:2021 \ 19:08:39
+[' Răsarit = 06:28:55 Apus = 20:19:40 Min (°C) = 4.96 Max (°C) =10.67 Presiune = 1011 Umiditate (%) = 66 Index UV = 0.13 Viteza vântului = 4.63 Unghiul vântului = 60 Stare = nori 50-85%']
+Cluj_Napoca: 16 \ miercuri \ 21:4:2021 \ 19:08:41
+[' Răsarit = 06:27:10 Apus = 20:21:02 Min (°C) = 4.17 Max (°C) =13.19 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.28 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = cer senin']
+Cluj_Napoca: 16 \ joi \ 22:4:2021 \ 19:09:11
+[' Răsarit = 06:25:25 Apus = 20:22:25 Min (°C) = 4.82 Max (°C) =14.84 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.31 Viteza vântului = 1.54 Unghiul vântului = 150 Stare = nori 50-85%']
+Cluj_Napoca: 16 \ vineri \ 23:4:2021 \ 19:08:38
+[' Răsarit = 06:23:41 Apus = 20:23:47 Min (°C) = 5.49 Max (°C) =11.55 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.33 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 16 \ sâmbătă \ 24:4:2021 \ 19:08:40
+[' Răsarit = 06:21:58 Apus = 20:25:09 Min (°C) = 2 Max (°C) =13.51 Presiune = 1020 Umiditate (%) = 33 Index UV = 0.33 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = cer senin']
+Cluj_Napoca: 16 \ duminică \ 25:4:2021 \ 19:08:39
+[' Răsarit = 06:20:17 Apus = 20:26:31 Min (°C) = 2.68 Max (°C) =14.66 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.34 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 17 \ luni \ 26:4:2021 \ 19:08:21
+[' Răsarit = 06:18:36 Apus = 20:27:52 Min (°C) = 3.23 Max (°C) =10.95 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.23 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 17 \ marți \ 27:4:2021 \ 19:09:21
+[' Răsarit = 06:16:57 Apus = 20:29:14 Min (°C) = 2.54 Max (°C) =12.71 Presiune = 1011 Umiditate (%) = 33 Index UV = 0.35 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 17 \ miercuri \ 28:4:2021 \ 19:08:39
+[' Răsarit = 06:15:19 Apus = 20:30:36 Min (°C) = 4.47 Max (°C) =13.86 Presiune = 1012 Umiditate (%) = 71 Index UV = 0.27 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = nori 25-50%']
+Cluj_Napoca: 17 \ joi \ 29:4:2021 \ 19:19:19
+[' Răsarit = 06:13:42 Apus = 20:31:57 Min (°C) = 8.06 Max (°C) =18.64 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 230 Stare = nori 10-25%']
+Cluj_Napoca: 17 \ vineri \ 30:4:2021 \ 19:08:47
+[' Răsarit = 06:12:06 Apus = 20:33:19 Min (°C) = 9.89 Max (°C) =20.36 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.43 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 17 \ sâmbătă \ 01:5:2021 \ 19:09:03
+[' Răsarit = 06:10:32 Apus = 20:34:40 Min (°C) = 11.19 Max (°C) =22.16 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 17 \ duminică \ 02:5:2021 \ 20:15:20
+[' Răsarit = 06:08:59 Apus = 20:36:01 Min (°C) = 14.07 Max (°C) =21.89 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.1 Viteza vântului = 2.57 Unghiul vântului = 200 Stare = nori 25-50%']
+Cluj_Napoca: 18 \ luni \ 03:5:2021 \ 19:08:53
+[' Răsarit = 06:07:27 Apus = 20:37:22 Min (°C) = 7.9 Max (°C) =15 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.42 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = nori 10-25%']
+Cluj_Napoca: 18 \ marți \ 04:5:2021 \ 19:09:46
+[' Răsarit = 06:05:56 Apus = 20:38:42 Min (°C) = 4.06 Max (°C) =16.07 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.47 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 18 \ miercuri \ 05:5:2021 \ 19:08:34
+[' Răsarit = 06:04:28 Apus = 20:40:02 Min (°C) = 6.21 Max (°C) =20 Presiune = 1005 Umiditate (%) = 34 Index UV = 0.33 Viteza vântului = 4.12 Unghiul vântului = 230 Stare = nori 25-50%']
+Cluj_Napoca: 18 \ joi \ 06:5:2021 \ 19:08:51
+[' Răsarit = 06:03:00 Apus = 20:41:22 Min (°C) = 6.63 Max (°C) =14.22 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.35 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 18 \ vineri \ 07:5:2021 \ 19:08:13
+[' Răsarit = 06:01:34 Apus = 20:42:42 Min (°C) = 6.34 Max (°C) =15 Presiune = 1009 Umiditate (%) = 87 Index UV = 0.03 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = nori 50-85%']
+Cluj_Napoca: 18 \ sâmbătă \ 08:5:2021 \ 19:08:40
+[' Răsarit = 06:00:10 Apus = 20:44:01 Min (°C) = 5.49 Max (°C) =12.14 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.47 Viteza vântului = 6.17 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 18 \ duminică \ 09:5:2021 \ 19:08:30
+[' Răsarit = 05:58:47 Apus = 20:45:20 Min (°C) = 2.79 Max (°C) =17.14 Presiune = 1023 Umiditate (%) = 36 Index UV = 0.56 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
+Cluj_Napoca: 19 \ luni \ 10:5:2021 \ 19:08:29
+[' Răsarit = 05:57:26 Apus = 20:46:38 Min (°C) = 6.1 Max (°C) =23.22 Presiune = 1018 Umiditate (%) = 33 Index UV = 0.57 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = cer senin']
+Cluj_Napoca: 19 \ marți \ 11:5:2021 \ 19:09:06
+[' Răsarit = 05:56:06 Apus = 20:47:55 Min (°C) = 10.68 Max (°C) =25.7 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.57 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 19 \ miercuri \ 12:5:2021 \ 19:08:28
+[' Răsarit = 05:54:48 Apus = 20:49:12 Min (°C) = 9.87 Max (°C) =21.71 Presiune = 1004 Umiditate (%) = 35 Index UV = 0.51 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 10-25%']
+Cluj_Napoca: 19 \ joi \ 13:5:2021 \ 19:09:11
+[' Răsarit = 05:53:32 Apus = 20:50:29 Min (°C) = 11.79 Max (°C) =18.14 Presiune = 1004 Umiditate (%) = 77 Index UV = 0.54 Viteza vântului = 3.09 Unghiul vântului = 70 Stare = nori 10-25%']
+Cluj_Napoca: 19 \ vineri \ 14:5:2021 \ 19:09:02
+[' Răsarit = 05:52:18 Apus = 20:51:45 Min (°C) = 10.84 Max (°C) =15.13 Presiune = 1009 Umiditate (%) = 88 Index UV = 0.54 Viteza vântului = 2.06 Unghiul vântului = 160 Stare = nori 50-85%']
+Cluj_Napoca: 19 \ sâmbătă \ 15:5:2021 \ 19:08:44
+[' Răsarit = 05:51:05 Apus = 20:53:00 Min (°C) = 8.39 Max (°C) =18.49 Presiune = 1009 Umiditate (%) = 52 Index UV = 0.59 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = ploaie ușoară']
+Cluj_Napoca: 19 \ duminică \ 16:5:2021 \ 19:09:15
+[' Răsarit = 05:49:54 Apus = 20:54:14 Min (°C) = 9.42 Max (°C) =18.49 Presiune = 1008 Umiditate (%) = 88 Index UV = 0.23 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 20 \ luni \ 17:5:2021 \ 19:09:27
+[' Răsarit = 05:48:45 Apus = 20:55:28 Min (°C) = 7.93 Max (°C) =19.94 Presiune = 1003 Umiditate (%) = 49 Index UV = 0.3 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = nori 25-50%']
+Cluj_Napoca: 20 \ marți \ 18:5:2021 \ 19:09:11
+[' Răsarit = 05:47:38 Apus = 20:56:40 Min (°C) = 9.29 Max (°C) =12.71 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.25 Viteza vântului = 6.69 Unghiul vântului = 290 Stare = nori 50-85%']
+Cluj_Napoca: 20 \ miercuri \ 19:5:2021 \ 19:08:26
+[' Răsarit = 05:46:33 Apus = 20:57:52 Min (°C) = 7.94 Max (°C) =16.8 Presiune = 1010 Umiditate (%) = 74 Index UV = 0.46 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = ploaie ușoară']
+Cluj_Napoca: 20 \ joi \ 20:5:2021 \ 19:08:47
+[' Răsarit = 05:45:30 Apus = 20:59:03 Min (°C) = 9.44 Max (°C) =11.27 Presiune = 1011 Umiditate (%) = 90 Index UV = 0.4 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = ploaie ușoară']
+Cluj_Napoca: 20 \ vineri \ 21:5:2021 \ 19:09:25
+[' Răsarit = 05:44:28 Apus = 21:00:13 Min (°C) = 6.98 Max (°C) =18.11 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.69 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 20 \ sâmbătă \ 22:5:2021 \ 19:08:55
+[' Răsarit = 05:43:29 Apus = 21:01:22 Min (°C) = 7.99 Max (°C) =20.57 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.59 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 20 \ duminică \ 23:5:2021 \ 19:09:32
+[' Răsarit = 05:42:32 Apus = 21:02:29 Min (°C) = 10.81 Max (°C) =22.33 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.48 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 21 \ luni \ 24:5:2021 \ 19:08:23
+[' Răsarit = 05:41:37 Apus = 21:03:36 Min (°C) = 8.72 Max (°C) =18.65 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.6 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = ploaie ușoară']
+Cluj_Napoca: 21 \ marți \ 25:5:2021 \ 19:08:28
+[' Răsarit = 05:40:44 Apus = 21:04:41 Min (°C) = 11.65 Max (°C) =25.33 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.74 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 21 \ miercuri \ 26:5:2021 \ 19:09:50
+[' Răsarit = 05:39:53 Apus = 21:05:45 Min (°C) = 11.06 Max (°C) =20.71 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.73 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 21 \ joi \ 27:5:2021 \ 19:08:33
+[' Răsarit = 05:39:04 Apus = 21:06:48 Min (°C) = 11.79 Max (°C) =20.43 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.72 Viteza vântului = 7.2 Unghiul vântului = 160 Stare = ploaie moderată']
+Cluj_Napoca: 21 \ vineri \ 28:5:2021 \ 19:08:49
+[' Răsarit = 05:38:18 Apus = 21:07:49 Min (°C) = 12.7 Max (°C) =18.71 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.36 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 21 \ sâmbătă \ 29:5:2021 \ 19:08:26
+[' Răsarit = 05:37:33 Apus = 21:08:49 Min (°C) = 9.49 Max (°C) =16.72 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.6 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 10-25%']
+Cluj_Napoca: 21 \ duminică \ 30:5:2021 \ 19:08:08
+[' Răsarit = 05:36:51 Apus = 21:09:47 Min (°C) = 7.53 Max (°C) =16.71 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.57 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 22 \ marți \ 01:6:2021 \ 19:08:53
+[' Răsarit = 05:35:34 Apus = 21:11:39 Min (°C) = 7.9 Max (°C) =15.71 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.51 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 22 \ miercuri \ 02:6:2021 \ 19:07:24
+[' Răsarit = 05:34:59 Apus = 21:12:33 Min (°C) = 8.13 Max (°C) =16.2 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.43 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 22 \ joi \ 03:6:2021 \ 19:07:53
+[' Răsarit = 05:34:26 Apus = 21:13:25 Min (°C) = 7.96 Max (°C) =18.02 Presiune = 1023 Umiditate (%) = 55 Index UV = 0.53 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = nori 50-85%']
+Cluj_Napoca: 22 \ vineri \ 04:6:2021 \ 19:13:27
+[' Răsarit = 05:33:56 Apus = 21:14:15 Min (°C) = 11.72 Max (°C) =21.27 Presiune = 1023 Umiditate (%) = 40 Index UV = 0.74 Viteza vântului = 3.6 Unghiul vântului = 40 Stare = nori 10-25%']
+Cluj_Napoca: 22 \ sâmbătă \ 05:6:2021 \ 19:09:18
+[' Răsarit = 05:33:28 Apus = 21:15:03 Min (°C) = 10.53 Max (°C) =21.89 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.59 Viteza vântului = 4.63 Unghiul vântului = 20 Stare = cer senin']
+Cluj_Napoca: 22 \ duminică \ 06:6:2021 \ 19:08:52
+[' Răsarit = 05:33:02 Apus = 21:15:49 Min (°C) = 10.91 Max (°C) =22.71 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.8 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 10-25%']
+Cluj_Napoca: 23 \ luni \ 07:6:2021 \ 19:08:53
+[' Răsarit = 05:32:39 Apus = 21:16:34 Min (°C) = 11.68 Max (°C) =21.62 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.76 Viteza vântului = 7.72 Unghiul vântului = 20 Stare = nori 10-25%']
+Cluj_Napoca: 23 \ marți \ 08:6:2021 \ 19:08:44
+[' Răsarit = 05:32:18 Apus = 21:17:17 Min (°C) = 12.37 Max (°C) =23.71 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.82 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 23 \ miercuri \ 09:6:2021 \ 19:09:08
+[' Răsarit = 05:32:00 Apus = 21:17:57 Min (°C) = 12.91 Max (°C) =23.66 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.81 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = nori 10-25%']
+Cluj_Napoca: 23 \ joi \ 10:6:2021 \ 19:08:34
+[' Răsarit = 05:31:44 Apus = 21:18:36 Min (°C) = 12.32 Max (°C) =22.71 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.74 Viteza vântului = 6.69 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 23 \ vineri \ 11:6:2021 \ 19:08:31
+[' Răsarit = 05:31:30 Apus = 21:19:12 Min (°C) = 11.9 Max (°C) =23.61 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 23 \ sâmbătă \ 12:6:2021 \ 19:08:35
+[' Răsarit = 05:31:20 Apus = 21:19:46 Min (°C) = 12.36 Max (°C) =23.71 Presiune = 1013 Umiditate (%) = 50 Index UV = 0.8 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 23 \ duminică \ 13:6:2021 \ 19:13:52
+[' Răsarit = 05:31:11 Apus = 21:20:18 Min (°C) = 12.13 Max (°C) =18.11 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.74 Viteza vântului = 8.75 Unghiul vântului = 310 Stare = nori 10-25%']
+Cluj_Napoca: 24 \ luni \ 14:6:2021 \ 19:08:37
+[' Răsarit = 05:31:05 Apus = 21:20:48 Min (°C) = 9.73 Max (°C) =16.71 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.14 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = nori 50-85%']
+Cluj_Napoca: 24 \ marți \ 15:6:2021 \ 19:10:36
+[' Răsarit = 05:31:01 Apus = 21:21:16 Min (°C) = 8.61 Max (°C) =23.11 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.81 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 10-25%']
+Cluj_Napoca: 24 \ miercuri \ 16:6:2021 \ 19:09:25
+[' Răsarit = 05:31:00 Apus = 21:21:41 Min (°C) = 13.21 Max (°C) =25.71 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.84 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 24 \ joi \ 17:6:2021 \ 19:08:46
+[' Răsarit = 05:31:01 Apus = 21:22:04 Min (°C) = 13.9 Max (°C) =25.27 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.72 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 10-25%']
+Cluj_Napoca: 24 \ vineri \ 18:6:2021 \ 19:09:22
+[' Răsarit = 05:31:05 Apus = 21:22:25 Min (°C) = 15.37 Max (°C) =25.09 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.6 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = ploaie moderată']
+Cluj_Napoca: 24 \ sâmbătă \ 19:6:2021 \ 19:08:25
+[' Răsarit = 05:31:11 Apus = 21:22:43 Min (°C) = 15.08 Max (°C) =24.71 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.52 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 10-25%']
+Cluj_Napoca: 24 \ duminică \ 20:6:2021 \ 19:09:20
+[' Răsarit = 05:31:20 Apus = 21:22:59 Min (°C) = 13.98 Max (°C) =24.32 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.57 Viteza vântului = 3.6 Unghiul vântului = 40 Stare = nori 50-85%']
+Cluj_Napoca: 25 \ luni \ 21:6:2021 \ 19:09:46
+[' Răsarit = 05:31:31 Apus = 21:23:12 Min (°C) = 14.36 Max (°C) =27.6 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.86 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = nori 10-25%']
+Cluj_Napoca: 25 \ marți \ 22:6:2021 \ 19:09:31
+[' Răsarit = 05:31:44 Apus = 21:23:23 Min (°C) = 16.96 Max (°C) =30.82 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.9 Viteza vântului = 2.68 Unghiul vântului = 90 Stare = nori 50-85%']
+Cluj_Napoca: 25 \ miercuri \ 23:6:2021 \ 19:09:03
+[' Răsarit = 05:32:00 Apus = 21:23:32 Min (°C) = 18.81 Max (°C) =32.71 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.84 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 10-25%']
+Cluj_Napoca: 25 \ joi \ 24:6:2021 \ 19:09:29
+[' Răsarit = 05:32:18 Apus = 21:23:38 Min (°C) = 19.88 Max (°C) =33.11 Presiune = 1016 Umiditate (%) = 38 Index UV = 0.91 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 25 \ vineri \ 25:6:2021 \ 19:09:04
+[' Răsarit = 05:32:38 Apus = 21:23:42 Min (°C) = 20.75 Max (°C) =29.78 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.92 Viteza vântului = 1.34 Unghiul vântului = 260 Stare = nori 50-85%']
+Cluj_Napoca: 25 \ sâmbătă \ 26:6:2021 \ 19:08:34
+[' Răsarit = 05:33:01 Apus = 21:23:43 Min (°C) = 16.39 Max (°C) =25.55 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.86 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = ploaie ușoară']
+Cluj_Napoca: 25 \ duminică \ 27:6:2021 \ 19:08:33
+[' Răsarit = 05:33:25 Apus = 21:23:41 Min (°C) = 15.77 Max (°C) =26.27 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.85 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 26 \ luni \ 28:6:2021 \ 19:09:48
+[' Răsarit = 05:33:53 Apus = 21:23:38 Min (°C) = 16.41 Max (°C) =27.71 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.85 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 26 \ marți \ 29:6:2021 \ 19:09:35
+[' Răsarit = 05:34:22 Apus = 21:23:31 Min (°C) = 17.69 Max (°C) =29.71 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.89 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = nori 10-25%']
+Cluj_Napoca: 26 \ miercuri \ 30:6:2021 \ 19:09:03
+[' Răsarit = 05:34:53 Apus = 21:23:22 Min (°C) = 17.88 Max (°C) =29.89 Presiune = 1012 Umiditate (%) = 96 Index UV = 0.75 Viteza vântului = 4.91 Unghiul vântului = 146 Stare = nori 85-100%']
+Cluj_Napoca: 26 \ joi \ 01:7:2021 \ 19:09:56
+[' Răsarit = 05:35:26 Apus = 21:23:11 Min (°C) = 18.34 Max (°C) =25.48 Presiune = 1011 Umiditate (%) = 67 Index UV = 0.72 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 26 \ vineri \ 02:7:2021 \ 19:08:41
+[' Răsarit = 05:36:02 Apus = 21:22:57 Min (°C) = 15.05 Max (°C) =22.04 Presiune = 1011 Umiditate (%) = 72 Index UV = 0.68 Viteza vântului = 0.45 Unghiul vântului = 274 Stare = nori 85-100%']
+Cluj_Napoca: 26 \ sâmbătă \ 03:7:2021 \ 19:08:48
+[' Răsarit = 05:36:39 Apus = 21:22:40 Min (°C) = 12.9 Max (°C) =17.89 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.78 Viteza vântului = 4.47 Unghiul vântului = 310 Stare = ploaie ușoară']
+Cluj_Napoca: 26 \ duminică \ 04:7:2021 \ 19:08:40
+[' Răsarit = 05:37:19 Apus = 21:22:22 Min (°C) = 13.91 Max (°C) =22.1 Presiune = 1011 Umiditate (%) = 67 Index UV = 0.73 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 27 \ luni \ 05:7:2021 \ 19:09:08
+[' Răsarit = 05:38:00 Apus = 21:22:00 Min (°C) = 13.82 Max (°C) =25.77 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.82 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = nori 10-25%']
+Cluj_Napoca: 27 \ marți \ 06:7:2021 \ 19:09:17
+[' Răsarit = 05:38:44 Apus = 21:21:36 Min (°C) = 15.88 Max (°C) =27.61 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.85 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = nori 10-25%']
+Cluj_Napoca: 27 \ miercuri \ 07:7:2021 \ 19:08:39
+[' Răsarit = 05:39:29 Apus = 21:21:10 Min (°C) = 17.09 Max (°C) =29.71 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.87 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 27 \ joi \ 08:7:2021 \ 19:09:08
+[' Răsarit = 05:40:16 Apus = 21:20:41 Min (°C) = 18.89 Max (°C) =30.71 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.86 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 27 \ vineri \ 09:7:2021 \ 19:09:10
+[' Răsarit = 05:41:04 Apus = 21:20:10 Min (°C) = 17.31 Max (°C) =28.68 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.83 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 27 \ sâmbătă \ 10:7:2021 \ 19:08:28
+[' Răsarit = 05:41:54 Apus = 21:19:36 Min (°C) = 19.01 Max (°C) =26.51 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 10-25%']
+Cluj_Napoca: 27 \ duminică \ 11:7:2021 \ 19:08:40
+[' Răsarit = 05:42:46 Apus = 21:19:00 Min (°C) = 17.21 Max (°C) =29.16 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.79 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = nori 10-25%']
+Cluj_Napoca: 28 \ luni \ 12:7:2021 \ 19:09:14
+[' Răsarit = 05:43:40 Apus = 21:18:22 Min (°C) = 16.53 Max (°C) =29.71 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.78 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = nori 10-25%']
+Cluj_Napoca: 28 \ marți \ 13:7:2021 \ 19:09:32
+[' Răsarit = 05:44:35 Apus = 21:17:42 Min (°C) = 17.15 Max (°C) =30.77 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.82 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 28 \ miercuri \ 14:7:2021 \ 19:08:57
+[' Răsarit = 05:45:31 Apus = 21:16:59 Min (°C) = 18.53 Max (°C) =32.71 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.82 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 28 \ joi \ 15:7:2021 \ 19:09:20
+[' Răsarit = 05:46:29 Apus = 21:16:13 Min (°C) = 18.8 Max (°C) =29.98 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.79 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = ploaie ușoară']
+Cluj_Napoca: 28 \ vineri \ 16:7:2021 \ 19:08:51
+[' Răsarit = 05:47:28 Apus = 21:15:26 Min (°C) = 18.69 Max (°C) =28.51 Presiune = 1012 Umiditate (%) = 69 Index UV = 0.71 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = nori 25-50%']
+Cluj_Napoca: 28 \ sâmbătă \ 17:7:2021 \ 19:09:09
+[' Răsarit = 05:48:29 Apus = 21:14:36 Min (°C) = 17.7 Max (°C) =30.77 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.74 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 28 \ duminică \ 18:7:2021 \ 19:09:04
+[' Răsarit = 05:49:31 Apus = 21:13:44 Min (°C) = 19.19 Max (°C) =32.71 Presiune = 1008 Umiditate (%) = 35 Index UV = 0.73 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 29 \ luni \ 19:7:2021 \ 19:09:15
+[' Răsarit = 05:50:34 Apus = 21:12:50 Min (°C) = 18.91 Max (°C) =28.1 Presiune = 1010 Umiditate (%) = 73 Index UV = 0.65 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 29 \ marți \ 20:7:2021 \ 19:08:52
+[' Răsarit = 05:51:38 Apus = 21:11:54 Min (°C) = 17.8 Max (°C) =19.71 Presiune = 1011 Umiditate (%) = 88 Index UV = 0.64 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 25-50%']
+Cluj_Napoca: 29 \ miercuri \ 21:7:2021 \ 19:08:43
+[' Răsarit = 05:52:43 Apus = 21:10:56 Min (°C) = 13.89 Max (°C) =20.71 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.5 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 29 \ joi \ 22:7:2021 \ 19:08:25
+[' Răsarit = 05:53:49 Apus = 21:09:55 Min (°C) = 13.42 Max (°C) =23.66 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.7 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 29 \ vineri \ 23:7:2021 \ 19:08:53
+[' Răsarit = 05:54:57 Apus = 21:08:53 Min (°C) = 16.69 Max (°C) =24.71 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.42 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 29 \ sâmbătă \ 24:7:2021 \ 19:15:46
+[' Răsarit = 05:56:05 Apus = 21:07:49 Min (°C) = 17.97 Max (°C) =26.82 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.32 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = nori 10-25%']
+Cluj_Napoca: 29 \ duminică \ 25:7:2021 \ 19:08:53
+[' Răsarit = 05:57:14 Apus = 21:06:42 Min (°C) = 15.76 Max (°C) =28.11 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.64 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 30 \ luni \ 26:7:2021 \ 19:09:12
+[' Răsarit = 05:58:24 Apus = 21:05:34 Min (°C) = 17.22 Max (°C) =29.71 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.66 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 30 \ marți \ 27:7:2021 \ 19:10:00
+[' Răsarit = 05:59:34 Apus = 21:04:24 Min (°C) = 19.56 Max (°C) =32.1 Presiune = 1017 Umiditate (%) = 45 Index UV = 0.66 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 30 \ miercuri \ 28:7:2021 \ 19:11:25
+[' Răsarit = 06:00:45 Apus = 21:03:12 Min (°C) = 18.7 Max (°C) =31.87 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.32 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = nori 25-50%']
+Cluj_Napoca: 30 \ joi \ 29:7:2021 \ 19:09:48
+[' Răsarit = 06:01:58 Apus = 21:01:58 Min (°C) = 17.79 Max (°C) =32.02 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.63 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 30 \ vineri \ 30:7:2021 \ 19:08:37
+[' Răsarit = 06:03:10 Apus = 21:00:42 Min (°C) = 18.03 Max (°C) =29.21 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.64 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 30 \ sâmbătă \ 31:7:2021 \ 19:08:30
+[' Răsarit = 06:04:23 Apus = 20:59:25 Min (°C) = 17.84 Max (°C) =30.78 Presiune = 1009 Umiditate (%) = 57 Index UV = 0.62 Viteza vântului = 6.17 Unghiul vântului = 220 Stare = nori 25-50%']
+Cluj_Napoca: 30 \ duminică \ 01:8:2021 \ 19:08:49
+[' Răsarit = 06:05:37 Apus = 20:58:06 Min (°C) = 17.87 Max (°C) =33.19 Presiune = 1007 Umiditate (%) = 45 Index UV = 0.57 Viteza vântului = 6.69 Unghiul vântului = 150 Stare = cer senin']
+Cluj_Napoca: 31 \ luni \ 02:8:2021 \ 19:08:24
+[' Răsarit = 06:06:52 Apus = 20:56:45 Min (°C) = 18.86 Max (°C) =27.78 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.58 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 31 \ marți \ 03:8:2021 \ 19:08:41
+[' Răsarit = 06:08:06 Apus = 20:55:22 Min (°C) = 14.97 Max (°C) =25.48 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.46 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = nori 10-25%']
+Cluj_Napoca: 31 \ miercuri \ 04:8:2021 \ 19:09:42
+[' Răsarit = 06:09:22 Apus = 20:53:58 Min (°C) = 16.41 Max (°C) =27.38 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.51 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 31 \ joi \ 05:8:2021 \ 19:07:22
+[' Răsarit = 06:10:37 Apus = 20:52:33 Min (°C) = 16.83 Max (°C) =31.05 Presiune = 1006 Umiditate (%) = 77 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = ploaie torențială \n de intensitate mică']
+Cluj_Napoca: 31 \ vineri \ 06:8:2021 \ 19:08:50
+[' Răsarit = 06:11:53 Apus = 20:51:06 Min (°C) = 15.79 Max (°C) =23.01 Presiune = 1007 Umiditate (%) = 56 Index UV = 0.38 Viteza vântului = 4.63 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 31 \ sâmbătă \ 07:8:2021 \ 19:08:10
+[' Răsarit = 06:13:09 Apus = 20:49:37 Min (°C) = 13.24 Max (°C) =26.05 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.53 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = cer senin']
+Cluj_Napoca: 31 \ duminică \ 08:8:2021 \ 19:08:33
+[' Răsarit = 06:14:26 Apus = 20:48:07 Min (°C) = 14.76 Max (°C) =29.97 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.52 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 32 \ luni \ 09:8:2021 \ 19:09:22
+[' Răsarit = 06:15:43 Apus = 20:46:35 Min (°C) = 18.88 Max (°C) =30.94 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.49 Viteza vântului = 2.57 Unghiul vântului = 30 Stare = ploaie moderată']
+Cluj_Napoca: 32 \ marți \ 10:8:2021 \ 19:09:09
+[' Răsarit = 06:17:00 Apus = 20:45:02 Min (°C) = 17.68 Max (°C) =29.55 Presiune = 1016 Umiditate (%) = 41 Index UV = 0.49 Viteza vântului = 2.75 Unghiul vântului = 338 Stare = nori 25-50%']
+Cluj_Napoca: 32 \ miercuri \ 11:8:2021 \ 19:07:06
+[' Răsarit = 06:18:17 Apus = 20:43:28 Min (°C) = 17.15 Max (°C) =29.7 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.17 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 32 \ joi \ 12:8:2021 \ 19:08:08
+[' Răsarit = 06:19:34 Apus = 20:41:52 Min (°C) = 16.9 Max (°C) =27.06 Presiune = 1021 Umiditate (%) = 47 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 32 \ vineri \ 13:8:2021 \ 19:07:14
+[' Răsarit = 06:20:52 Apus = 20:40:15 Min (°C) = 13.88 Max (°C) =27.65 Presiune = 1023 Umiditate (%) = 41 Index UV = 0.44 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = cer senin']
+Cluj_Napoca: 32 \ sâmbătă \ 14:8:2021 \ 19:08:09
+[' Răsarit = 06:22:09 Apus = 20:38:37 Min (°C) = 15.65 Max (°C) =29.45 Presiune = 1021 Umiditate (%) = 42 Index UV = 0.45 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = cer senin']
+Cluj_Napoca: 32 \ duminică \ 15:8:2021 \ 19:07:26
+[' Răsarit = 06:23:27 Apus = 20:36:57 Min (°C) = 17.54 Max (°C) =31.28 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.22 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 33 \ luni \ 16:8:2021 \ 19:07:12
+[' Răsarit = 06:24:45 Apus = 20:35:17 Min (°C) = 19.15 Max (°C) =32.57 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.43 Viteza vântului = 3.09 Unghiul vântului = 30 Stare = nori 25-50%']
+Cluj_Napoca: 33 \ marți \ 17:8:2021 \ 19:07:40
+[' Răsarit = 06:26:03 Apus = 20:33:35 Min (°C) = 18.33 Max (°C) =33.28 Presiune = 1012 Umiditate (%) = 57 Index UV = 0.41 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 33 \ miercuri \ 18:8:2021 \ 19:07:26
+[' Răsarit = 06:27:21 Apus = 20:31:52 Min (°C) = 13.97 Max (°C) =21.64 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.32 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 33 \ joi \ 19:8:2021 \ 19:07:11
+[' Răsarit = 06:28:39 Apus = 20:30:08 Min (°C) = 10.83 Max (°C) =22.98 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Cluj_Napoca: 33 \ vineri \ 20:8:2021 \ 19:07:22
+[' Răsarit = 06:29:56 Apus = 20:28:23 Min (°C) = 11.91 Max (°C) =25.74 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.38 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 33 \ sâmbătă \ 21:8:2021 \ 19:08:10
+[' Răsarit = 06:31:14 Apus = 20:26:37 Min (°C) = 13.14 Max (°C) =26.53 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.35 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 33 \ duminică \ 22:8:2021 \ 19:07:31
+[' Răsarit = 06:32:32 Apus = 20:24:50 Min (°C) = 15.27 Max (°C) =26.9 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.22 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 34 \ luni \ 23:8:2021 \ 19:07:19
+[' Răsarit = 06:33:50 Apus = 20:23:02 Min (°C) = 15.51 Max (°C) =29.59 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.34 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Cluj_Napoca: 34 \ marți \ 24:8:2021 \ 19:07:15
+[' Răsarit = 06:35:08 Apus = 20:21:13 Min (°C) = 15.86 Max (°C) =21.48 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.16 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 34 \ miercuri \ 25:8:2021 \ 19:07:19
+[' Răsarit = 06:36:25 Apus = 20:19:23 Min (°C) = 13.58 Max (°C) =18.85 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.17 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 34 \ joi \ 26:8:2021 \ 19:08:16
+[' Răsarit = 06:37:43 Apus = 20:17:32 Min (°C) = 11.61 Max (°C) =21.38 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.19 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = nori 10-25%']
+Cluj_Napoca: 34 \ vineri \ 27:8:2021 \ 19:09:00
+[' Răsarit = 06:39:01 Apus = 20:15:41 Min (°C) = 11.54 Max (°C) =20.05 Presiune = 1012 Umiditate (%) = 94 Index UV = 0.19 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = ploaie ușoară']
+Cluj_Napoca: 34 \ sâmbătă \ 28:8:2021 \ 19:09:56
+[' Răsarit = 06:40:18 Apus = 20:13:48 Min (°C) = 11.48 Max (°C) =20.11 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.07 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 34 \ duminică \ 29:8:2021 \ 19:09:02
+[' Răsarit = 06:41:36 Apus = 20:11:55 Min (°C) = 12.15 Max (°C) =17.06 Presiune = 1010 Umiditate (%) = 100 Index UV = 0.03 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 85-100%']
+Cluj_Napoca: 35 \ luni \ 30:8:2021 \ 19:09:05
+[' Răsarit = 06:42:53 Apus = 20:10:01 Min (°C) = 12.16 Max (°C) =20.39 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.16 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 35 \ marți \ 31:8:2021 \ 19:08:59
+[' Răsarit = 06:44:10 Apus = 20:08:07 Min (°C) = 11.05 Max (°C) =18.96 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.11 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 35 \ miercuri \ 01:9:2021 \ 19:08:30
+[' Răsarit = 06:45:28 Apus = 20:06:12 Min (°C) = 12.11 Max (°C) =17.23 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.21 Viteza vântului = 6.69 Unghiul vântului = 290 Stare = ploaie torențială \n de intensitate mică']
+Cluj_Napoca: 35 \ joi \ 02:9:2021 \ 19:11:33
+[' Răsarit = 06:46:45 Apus = 20:04:16 Min (°C) = 10.55 Max (°C) =18.27 Presiune = 1022 Umiditate (%) = 63 Index UV = 0.22 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 50-85%']
+Cluj_Napoca: 35 \ vineri \ 03:9:2021 \ 19:08:38
+[' Răsarit = 06:48:02 Apus = 20:02:20 Min (°C) = 9.11 Max (°C) =20.33 Presiune = 1020 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 35 \ sâmbătă \ 04:9:2021 \ 19:08:12
+[' Răsarit = 06:49:19 Apus = 20:00:23 Min (°C) = 10.61 Max (°C) =21.71 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 35 \ duminică \ 05:9:2021 \ 19:09:06
+[' Răsarit = 06:50:36 Apus = 19:58:25 Min (°C) = 11.04 Max (°C) =22.11 Presiune = 1021 Umiditate (%) = 49 Index UV = 0.19 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Cluj_Napoca: 36 \ luni \ 06:9:2021 \ 19:09:58
+[' Răsarit = 06:51:53 Apus = 19:56:27 Min (°C) = 9.18 Max (°C) =21.27 Presiune = 1024 Umiditate (%) = 56 Index UV = 0.17 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 25-50%']
+Cluj_Napoca: 36 \ marți \ 07:9:2021 \ 19:09:23
+[' Răsarit = 06:53:09 Apus = 19:54:29 Min (°C) = 9.66 Max (°C) =22.13 Presiune = 1025 Umiditate (%) = 43 Index UV = 0.17 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = cer senin']
+Cluj_Napoca: 36 \ miercuri \ 08:9:2021 \ 19:09:24
+[' Răsarit = 06:54:26 Apus = 19:52:30 Min (°C) = 10.41 Max (°C) =22.45 Presiune = 1023 Umiditate (%) = 37 Index UV = 0.17 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
+Cluj_Napoca: 36 \ joi \ 09:9:2021 \ 19:09:42
+[' Răsarit = 06:55:43 Apus = 19:50:31 Min (°C) = 10.5 Max (°C) =22.72 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.16 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = cer senin']
+Cluj_Napoca: 36 \ vineri \ 10:9:2021 \ 19:10:46
+[' Răsarit = 06:57:00 Apus = 19:48:31 Min (°C) = 10.67 Max (°C) =24.04 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.15 Viteza vântului = 0.62 Unghiul vântului = 95 Stare = cer senin']
+Cluj_Napoca: 36 \ sâmbătă \ 11:9:2021 \ 19:08:58
+[' Răsarit = 06:58:16 Apus = 19:46:31 Min (°C) = 11.88 Max (°C) =24.65 Presiune = 1017 Umiditate (%) = 35 Index UV = 0.15 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 36 \ duminică \ 12:9:2021 \ 19:08:43
+[' Răsarit = 06:59:33 Apus = 19:44:31 Min (°C) = 13.57 Max (°C) =24.88 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.13 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Cluj_Napoca: 37 \ luni \ 13:9:2021 \ 19:09:06
+[' Răsarit = 07:00:50 Apus = 19:42:30 Min (°C) = 13.18 Max (°C) =25.5 Presiune = 1016 Umiditate (%) = 38 Index UV = 0.14 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 37 \ marți \ 14:9:2021 \ 19:10:22
+[' Răsarit = 07:02:07 Apus = 19:40:30 Min (°C) = 14.22 Max (°C) =25.85 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.13 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 10-25%']
+Cluj_Napoca: 37 \ joi \ 16:9:2021 \ 19:09:00
+[' Răsarit = 07:04:40 Apus = 19:36:28 Min (°C) = 14.93 Max (°C) =26.79 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.1 Viteza vântului = 3.09 Unghiul vântului = 190 Stare = cer senin']
+Cluj_Napoca: 37 \ vineri \ 17:9:2021 \ 19:10:25
+[' Răsarit = 07:05:57 Apus = 19:34:26 Min (°C) = 16.46 Max (°C) =24.76 Presiune = 1008 Umiditate (%) = 73 Index UV = 0.03 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 37 \ sâmbătă \ 18:9:2021 \ 19:11:07
+[' Răsarit = 07:07:14 Apus = 19:32:25 Min (°C) = 13.29 Max (°C) =19.66 Presiune = 1011 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 10-25%']
+Cluj_Napoca: 37 \ duminică \ 19:9:2021 \ 19:09:22
+[' Răsarit = 07:08:31 Apus = 19:30:24 Min (°C) = 10.69 Max (°C) =17.03 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = nori 25-50%']
+Cluj_Napoca: 38 \ luni \ 20:9:2021 \ 19:09:23
+[' Răsarit = 07:09:48 Apus = 19:28:22 Min (°C) = 7.29 Max (°C) =15.45 Presiune = 1015 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = ploaie ușoară']
+Cluj_Napoca: 38 \ marți \ 21:9:2021 \ 19:08:52
+[' Răsarit = 07:11:05 Apus = 19:26:21 Min (°C) = 5.14 Max (°C) =13.84 Presiune = 1024 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.07 Unghiul vântului = 316 Stare = nori 25-50%']
+Cluj_Napoca: 38 \ miercuri \ 22:9:2021 \ 19:09:20
+[' Răsarit = 07:12:23 Apus = 19:24:19 Min (°C) = 6.37 Max (°C) =11.67 Presiune = 1019 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = nori 85-100%']
+Cluj_Napoca: 38 \ joi \ 23:9:2021 \ 19:08:32
+[' Răsarit = 07:13:40 Apus = 19:22:18 Min (°C) = 4.38 Max (°C) =12.65 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 314 Stare = nori 85-100%']
+Cluj_Napoca: 39 \ luni \ 27:9:2021 \ 19:08:44
+[' Răsarit = 07:18:52 Apus = 19:14:14 Min (°C) = 11.97 Max (°C) =23.08 Presiune = 1017 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = cer senin']
+Cluj_Napoca: 39 \ marți \ 28:9:2021 \ 19:09:56
+[' Răsarit = 07:20:10 Apus = 19:12:14 Min (°C) = 14.35 Max (°C) =20.22 Presiune = 1019 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = nori 25-50%']
+Cluj_Napoca: 39 \ miercuri \ 29:9:2021 \ 19:10:37
+[' Răsarit = 07:21:29 Apus = 19:10:14 Min (°C) = 10.88 Max (°C) =13.66 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 39 \ joi \ 30:9:2021 \ 19:09:04
+[' Răsarit = 07:22:48 Apus = 19:08:14 Min (°C) = 9.6 Max (°C) =14.95 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = nori 10-25%']
+Cluj_Napoca: 39 \ vineri \ 01:10:2021 \ 19:09:46
+[' Răsarit = 07:24:07 Apus = 19:06:14 Min (°C) = 11.19 Max (°C) =16.31 Presiune = 1026 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = nori 10-25%']
+Cluj_Napoca: 39 \ sâmbătă \ 02:10:2021 \ 19:09:00
+[' Răsarit = 07:25:26 Apus = 19:04:15 Min (°C) = 6.57 Max (°C) =16.56 Presiune = 1023 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 150 Stare = cer senin']
+Cluj_Napoca: 39 \ duminică \ 03:10:2021 \ 19:08:36
+[' Răsarit = 07:26:46 Apus = 19:02:17 Min (°C) = 6.78 Max (°C) =17.99 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 160 Stare = cer senin']
+Cluj_Napoca: 40 \ luni \ 04:10:2021 \ 19:12:44
+[' Răsarit = 07:28:06 Apus = 19:00:18 Min (°C) = 7.75 Max (°C) =18.98 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 40 \ marți \ 05:10:2021 \ 19:10:35
+[' Răsarit = 07:29:26 Apus = 18:58:21 Min (°C) = 9.06 Max (°C) =19.61 Presiune = 1022 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 40 \ miercuri \ 06:10:2021 \ 19:08:52
+[' Răsarit = 07:30:46 Apus = 18:56:23 Min (°C) = 6.33 Max (°C) =16.48 Presiune = 1021 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 40 \ joi \ 07:10:2021 \ 19:10:38
+[' Răsarit = 07:32:07 Apus = 18:54:27 Min (°C) = 7.83 Max (°C) =14.65 Presiune = 1025 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 120 Stare = nori 10-25%']
+Cluj_Napoca: 40 \ vineri \ 08:10:2021 \ 19:09:43
+[' Răsarit = 07:33:28 Apus = 18:52:31 Min (°C) = 4.96 Max (°C) =12.65 Presiune = 1027 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = cer senin']
+Cluj_Napoca: 40 \ sâmbătă \ 09:10:2021 \ 19:08:30
+[' Răsarit = 07:34:50 Apus = 18:50:35 Min (°C) = 2.73 Max (°C) =11.79 Presiune = 1027 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = nori 50-85%']
+Cluj_Napoca: 40 \ duminică \ 10:10:2021 \ 19:09:34
+[' Răsarit = 07:36:12 Apus = 18:48:40 Min (°C) = 3.77 Max (°C) =13.59 Presiune = 1023 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 41 \ luni \ 11:10:2021 \ 19:09:13
+[' Răsarit = 07:37:34 Apus = 18:46:46 Min (°C) = 5.61 Max (°C) =14.49 Presiune = 1017 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 41 \ marți \ 12:10:2021 \ 19:09:16
+[' Răsarit = 07:38:57 Apus = 18:44:53 Min (°C) = 6.08 Max (°C) =8.83 Presiune = 1012 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 300 Stare = nori 85-100%']
+Cluj_Napoca: 41 \ miercuri \ 13:10:2021 \ 19:09:14
+[' Răsarit = 07:40:20 Apus = 18:43:00 Min (°C) = 4.03 Max (°C) =11.59 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 41 \ joi \ 14:10:2021 \ 19:08:53
+[' Răsarit = 07:41:43 Apus = 18:41:08 Min (°C) = 5.07 Max (°C) =9.71 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 210 Stare = nori 85-100%']
+Cluj_Napoca: 41 \ vineri \ 15:10:2021 \ 19:08:49
+[' Răsarit = 07:43:06 Apus = 18:39:17 Min (°C) = 3.1 Max (°C) =11.59 Presiune = 1019 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 41 \ sâmbătă \ 16:10:2021 \ 19:08:59
+[' Răsarit = 07:44:30 Apus = 18:37:27 Min (°C) = 7.56 Max (°C) =10.77 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = nori 50-85%']
+Cluj_Napoca: 41 \ duminică \ 17:10:2021 \ 19:08:14
+[' Răsarit = 07:45:55 Apus = 18:35:38 Min (°C) = 6.87 Max (°C) =13.59 Presiune = 1021 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 300 Stare = nori 85-100%']
+Cluj_Napoca: 42 \ luni \ 18:10:2021 \ 19:08:04
+[' Răsarit = 07:47:20 Apus = 18:33:50 Min (°C) = 4.69 Max (°C) =12.73 Presiune = 1024 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 50-85%']
+Cluj_Napoca: 42 \ marți \ 19:10:2021 \ 19:09:28
+[' Răsarit = 07:48:45 Apus = 18:32:03 Min (°C) = 5.58 Max (°C) =13.48 Presiune = 1028 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 80 Stare = nori 50-85%']
+Cluj_Napoca: 42 \ miercuri \ 20:10:2021 \ 19:07:46
+[' Răsarit = 07:50:10 Apus = 18:30:16 Min (°C) = 5.84 Max (°C) =14.77 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 42 \ joi \ 21:10:2021 \ 19:08:58
+[' Răsarit = 07:51:36 Apus = 18:28:31 Min (°C) = 7.04 Max (°C) =19.56 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
+Cluj_Napoca: 42 \ vineri \ 22:10:2021 \ 19:07:28
+[' Răsarit = 07:53:02 Apus = 18:26:47 Min (°C) = 11.67 Max (°C) =17.24 Presiune = 1017 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 42 \ sâmbătă \ 23:10:2021 \ 19:08:47
+[' Răsarit = 07:54:28 Apus = 18:25:04 Min (°C) = 7.68 Max (°C) =13.93 Presiune = 1023 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 42 \ duminică \ 24:10:2021 \ 19:08:26
+[' Răsarit = 07:55:55 Apus = 18:23:22 Min (°C) = 3.12 Max (°C) =10.24 Presiune = 1032 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 43 \ luni \ 25:10:2021 \ 19:08:05
+[' Răsarit = 07:57:22 Apus = 18:21:42 Min (°C) = 1.61 Max (°C) =10.86 Presiune = 1028 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 43 \ marți \ 26:10:2021 \ 19:07:35
+[' Răsarit = 07:58:50 Apus = 18:20:03 Min (°C) = 2.52 Max (°C) =12.22 Presiune = 1023 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 43 \ miercuri \ 27:10:2021 \ 19:09:23
+[' Răsarit = 08:00:17 Apus = 18:18:25 Min (°C) = 3.62 Max (°C) =12.64 Presiune = 1027 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 43 \ joi \ 28:10:2021 \ 19:07:46
+[' Răsarit = 08:01:45 Apus = 18:16:48 Min (°C) = 3.72 Max (°C) =12.79 Presiune = 1026 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 43 \ vineri \ 29:10:2021 \ 19:08:15
+[' Răsarit = 08:03:13 Apus = 18:15:13 Min (°C) = 5.75 Max (°C) =15.83 Presiune = 1023 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = cer senin']
+Cluj_Napoca: 43 \ sâmbătă \ 30:10:2021 \ 19:08:03
+[' Răsarit = 08:04:42 Apus = 18:13:39 Min (°C) = 5.7 Max (°C) =14.66 Presiune = 1022 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 43 \ duminică \ 31:10:2021 \ 19:07:50
+[' Răsarit = 07:06:10 Apus = 17:12:06 Min (°C) = 4.76 Max (°C) =14.14 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 210 Stare = cer senin']
+Cluj_Napoca: 44 \ luni \ 01:11:2021 \ 19:08:01
+[' Răsarit = 07:07:39 Apus = 17:10:35 Min (°C) = 2.75 Max (°C) =12.02 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 44 \ marți \ 02:11:2021 \ 19:08:30
+[' Răsarit = 07:09:08 Apus = 17:09:05 Min (°C) = 2.66 Max (°C) =10.61 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = nori 50-85%']
+Cluj_Napoca: 44 \ miercuri \ 03:11:2021 \ 19:08:13
+[' Răsarit = 07:10:37 Apus = 17:07:38 Min (°C) = 4.55 Max (°C) =12.78 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Cluj_Napoca: 44 \ joi \ 04:11:2021 \ 19:07:09
+[' Răsarit = 07:12:06 Apus = 17:06:11 Min (°C) = 9.63 Max (°C) =19.76 Presiune = 1011 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = cer senin']
+Cluj_Napoca: 44 \ vineri \ 05:11:2021 \ 19:09:56
+[' Răsarit = 07:13:35 Apus = 17:04:46 Min (°C) = 10.25 Max (°C) =16.85 Presiune = 1019 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 290 Stare = nori 50-85%']
+Cluj_Napoca: 44 \ sâmbătă \ 06:11:2021 \ 19:09:02
+[' Răsarit = 07:15:04 Apus = 17:03:23 Min (°C) = 8.05 Max (°C) =12.07 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = ploaie ușoară']
+Cluj_Napoca: 44 \ duminică \ 07:11:2021 \ 19:08:50
+[' Răsarit = 07:16:33 Apus = 17:02:02 Min (°C) = 8.35 Max (°C) =11.85 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 85-100%']
+Cluj_Napoca: 45 \ luni \ 08:11:2021 \ 19:08:36
+[' Răsarit = 07:18:02 Apus = 17:00:42 Min (°C) = 6.87 Max (°C) =9.31 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 85-100%']
+Cluj_Napoca: 45 \ marți \ 09:11:2021 \ 19:06:37
+[' Răsarit = 07:19:31 Apus = 16:59:25 Min (°C) = 4.75 Max (°C) =9.5 Presiune = 1033 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = ploaie ușoară']
+Cluj_Napoca: 45 \ miercuri \ 10:11:2021 \ 19:08:37
+[' Răsarit = 07:21:00 Apus = 16:58:09 Min (°C) = 2.32 Max (°C) =9.89 Presiune = 1033 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 45 \ joi \ 11:11:2021 \ 19:09:13
+[' Răsarit = 07:22:29 Apus = 16:56:54 Min (°C) = 0.71 Max (°C) =9.89 Presiune = 1027 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = ceață']
+Cluj_Napoca: 45 \ vineri \ 12:11:2021 \ 19:08:32
+[' Răsarit = 07:23:57 Apus = 16:55:42 Min (°C) = 0.71 Max (°C) =11.28 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 45 \ sâmbătă \ 13:11:2021 \ 19:08:31
+[' Răsarit = 07:25:25 Apus = 16:54:32 Min (°C) = 2.71 Max (°C) =11.55 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = cer senin']
+Cluj_Napoca: 45 \ duminică \ 14:11:2021 \ 19:09:54
+[' Răsarit = 07:26:53 Apus = 16:53:24 Min (°C) = 3.71 Max (°C) =12.11 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 46 \ luni \ 15:11:2021 \ 19:09:23
+[' Răsarit = 07:28:20 Apus = 16:52:18 Min (°C) = 3.71 Max (°C) =10.69 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 46 \ marți \ 16:11:2021 \ 19:09:00
+[' Răsarit = 07:29:47 Apus = 16:51:13 Min (°C) = 2.67 Max (°C) =9.44 Presiune = 1026 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 90 Stare = cer senin']
+Cluj_Napoca: 46 \ miercuri \ 17:11:2021 \ 19:09:11
+[' Răsarit = 07:31:14 Apus = 16:50:11 Min (°C) = 0.71 Max (°C) =7.89 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 160 Stare = ceață']
+Cluj_Napoca: 46 \ joi \ 18:11:2021 \ 19:07:39
+[' Răsarit = 07:32:39 Apus = 16:49:11 Min (°C) = 1.32 Max (°C) =7.07 Presiune = 1025 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ploaie ușoară']
+Cluj_Napoca: 46 \ vineri \ 19:11:2021 \ 19:07:35
+[' Răsarit = 07:34:05 Apus = 16:48:14 Min (°C) = 2.21 Max (°C) =5.96 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 46 \ sâmbătă \ 20:11:2021 \ 19:07:29
+[' Răsarit = 07:35:29 Apus = 16:47:18 Min (°C) = 4.51 Max (°C) =9.66 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 46 \ duminică \ 21:11:2021 \ 19:07:21
+[' Răsarit = 07:36:53 Apus = 16:46:25 Min (°C) = 3.1 Max (°C) =9.31 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 47 \ luni \ 22:11:2021 \ 19:07:37
+[' Răsarit = 07:38:16 Apus = 16:45:34 Min (°C) = 2.79 Max (°C) =9.14 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 180 Stare = ploaie ușoară']
+Cluj_Napoca: 47 \ marți \ 23:11:2021 \ 19:07:31
+[' Răsarit = 07:39:38 Apus = 16:44:46 Min (°C) = 1.42 Max (°C) =7.05 Presiune = 1024 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 47 \ miercuri \ 24:11:2021 \ 19:09:54
+[' Răsarit = 07:40:59 Apus = 16:43:59 Min (°C) = -0.02 Max (°C) =5.45 Presiune = 1025 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = cer senin']
+Cluj_Napoca: 47 \ joi \ 25:11:2021 \ 19:07:17
+[' Răsarit = 07:42:20 Apus = 16:43:16 Min (°C) = -1.27 Max (°C) =5.71 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 47 \ vineri \ 26:11:2021 \ 19:07:23
+[' Răsarit = 07:43:39 Apus = 16:42:34 Min (°C) = 0.1 Max (°C) =6.97 Presiune = 996 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = ploaie ușoară']
+Cluj_Napoca: 47 \ sâmbătă \ 27:11:2021 \ 19:07:16
+[' Răsarit = 07:44:57 Apus = 16:41:55 Min (°C) = 3.71 Max (°C) =7.69 Presiune = 1001 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 47 \ duminică \ 28:11:2021 \ 19:07:48
+[' Răsarit = 07:46:13 Apus = 16:41:19 Min (°C) = 4.61 Max (°C) =12.46 Presiune = 996 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 48 \ luni \ 29:11:2021 \ 19:08:20
+[' Răsarit = 07:47:29 Apus = 16:40:45 Min (°C) = 1.37 Max (°C) =7.38 Presiune = 1000 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 316 Stare = nori 85-100%']
+Cluj_Napoca: 48 \ marți \ 30:11:2021 \ 19:07:44
+[' Răsarit = 07:48:43 Apus = 16:40:14 Min (°C) = -0.66 Max (°C) =3.31 Presiune = 1006 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 48 \ miercuri \ 01:12:2021 \ 19:07:49
+[' Răsarit = 07:49:56 Apus = 16:39:45 Min (°C) = 1.95 Max (°C) =5.21 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 85-100%']
+Cluj_Napoca: 48 \ joi \ 02:12:2021 \ 19:07:25
+[' Răsarit = 07:51:07 Apus = 16:39:19 Min (°C) = 2.72 Max (°C) =8.98 Presiune = 1001 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = nori 10-25%']
+Cluj_Napoca: 48 \ vineri \ 03:12:2021 \ 19:07:34
+[' Răsarit = 07:52:17 Apus = 16:38:56 Min (°C) = -0.53 Max (°C) =5.86 Presiune = 1012 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 48 \ sâmbătă \ 04:12:2021 \ 19:08:01
+[' Răsarit = 07:53:25 Apus = 16:38:35 Min (°C) = -2.39 Max (°C) =3.72 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 25-50%']
+Cluj_Napoca: 48 \ duminică \ 05:12:2021 \ 19:07:41
+[' Răsarit = 07:54:32 Apus = 16:38:17 Min (°C) = -0.82 Max (°C) =4.34 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = zăpadă slabă']
+Cluj_Napoca: 49 \ luni \ 06:12:2021 \ 19:07:30
+[' Răsarit = 07:55:36 Apus = 16:38:02 Min (°C) = 2.92 Max (°C) =4.98 Presiune = 1006 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 49 \ marți \ 07:12:2021 \ 19:07:32
+[' Răsarit = 07:56:39 Apus = 16:37:50 Min (°C) = 0.71 Max (°C) =4.28 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = zăpadă slabă']
+Cluj_Napoca: 49 \ miercuri \ 08:12:2021 \ 19:07:31
+[' Răsarit = 07:57:40 Apus = 16:37:40 Min (°C) = 0.96 Max (°C) =2.12 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 49 \ joi \ 09:12:2021 \ 19:07:36
+[' Răsarit = 07:58:39 Apus = 16:37:33 Min (°C) = -0.08 Max (°C) =5.94 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = nori 50-85%']
+Cluj_Napoca: 49 \ vineri \ 10:12:2021 \ 19:08:57
+[' Răsarit = 07:59:36 Apus = 16:37:28 Min (°C) = 2.1 Max (°C) =4.06 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = ceață']
+Cluj_Napoca: 49 \ sâmbătă \ 11:12:2021 \ 19:08:28
+[' Răsarit = 08:00:31 Apus = 16:37:27 Min (°C) = 1.41 Max (°C) =5.75 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 49 \ duminică \ 12:12:2021 \ 19:08:31
+[' Răsarit = 08:01:24 Apus = 16:37:28 Min (°C) = 3.54 Max (°C) =5.29 Presiune = 1013 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 50-85%']
+Cluj_Napoca: 50 \ luni \ 13:12:2021 \ 19:08:35
+[' Răsarit = 08:02:15 Apus = 16:37:32 Min (°C) = 1.52 Max (°C) =3.84 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = nori 85-100%']
+Cluj_Napoca: 50 \ marți \ 14:12:2021 \ 19:10:18
+[' Răsarit = 08:03:04 Apus = 16:37:39 Min (°C) = 0.38 Max (°C) =1.95 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 85-100%']
+Cluj_Napoca: 50 \ miercuri \ 15:12:2021 \ 19:08:54
+[' Răsarit = 08:03:50 Apus = 16:37:49 Min (°C) = -0.29 Max (°C) =2.94 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 85-100%']
+Cluj_Napoca: 50 \ joi \ 16:12:2021 \ 19:08:20
+[' Răsarit = 08:04:34 Apus = 16:38:01 Min (°C) = -0.93 Max (°C) =3.62 Presiune = 1027 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 50 \ vineri \ 17:12:2021 \ 19:10:02
+[' Răsarit = 08:05:15 Apus = 16:38:17 Min (°C) = 0.67 Max (°C) =3.37 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 50 \ sâmbătă \ 18:12:2021 \ 19:08:12
+[' Răsarit = 08:05:54 Apus = 16:38:35 Min (°C) = 0.48 Max (°C) =3.05 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 25-50%']
+Cluj_Napoca: 50 \ duminică \ 19:12:2021 \ 19:08:19
+[' Răsarit = 08:06:31 Apus = 16:38:55 Min (°C) = -0.26 Max (°C) =1.82 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ploaie ușoară']
+Cluj_Napoca: 51 \ luni \ 20:12:2021 \ 19:08:38
+[' Răsarit = 08:07:05 Apus = 16:39:19 Min (°C) = -1.2 Max (°C) =1.33 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 50-85%']
+Cluj_Napoca: 51 \ marți \ 21:12:2021 \ 19:10:17
+[' Răsarit = 08:07:36 Apus = 16:39:45 Min (°C) = -5.94 Max (°C) =-1.04 Presiune = 1023 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 290 Stare = light shower snow']
+Cluj_Napoca: 51 \ miercuri \ 22:12:2021 \ 19:08:38
+[' Răsarit = 08:08:05 Apus = 16:40:14 Min (°C) = -7.86 Max (°C) =-3.18 Presiune = 1028 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = cer senin']
+Cluj_Napoca: 51 \ joi \ 23:12:2021 \ 19:09:04
+[' Răsarit = 08:08:32 Apus = 16:40:45 Min (°C) = -9.11 Max (°C) =-3.73 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 51 \ vineri \ 24:12:2021 \ 19:08:41
+[' Răsarit = 08:08:55 Apus = 16:41:19 Min (°C) = -5.89 Max (°C) =2.24 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = ploaie ușoară']
+Cluj_Napoca: 51 \ sâmbătă \ 25:12:2021 \ 19:09:02
+[' Răsarit = 08:09:16 Apus = 16:41:56 Min (°C) = 1.32 Max (°C) =5.14 Presiune = 1006 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 51 \ duminică \ 26:12:2021 \ 19:10:00
+[' Răsarit = 08:09:35 Apus = 16:42:35 Min (°C) = 1.54 Max (°C) =3.59 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 100 Stare = ceață']
+Cluj_Napoca: 52 \ luni \ 27:12:2021 \ 19:08:37
+[' Răsarit = 08:09:50 Apus = 16:43:17 Min (°C) = 1.98 Max (°C) =2.62 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 130 Stare = ploaie ușoară']
+Cluj_Napoca: 52 \ marți \ 28:12:2021 \ 19:09:00
+[' Răsarit = 08:10:03 Apus = 16:44:01 Min (°C) = 1.02 Max (°C) =2.9 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = nori 85-100%']
+Cluj_Napoca: 52 \ miercuri \ 29:12:2021 \ 19:08:35
+[' Răsarit = 08:10:13 Apus = 16:44:48 Min (°C) = 0.95 Max (°C) =4.77 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = ploaie ușoară']
+Cluj_Napoca: 52 \ joi \ 30:12:2021 \ 19:08:59
+[' Răsarit = 08:10:21 Apus = 16:45:36 Min (°C) = 2.78 Max (°C) =5.48 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 30 Stare = nori 85-100%']
+Cluj_Napoca: 52 \ vineri \ 31:12:2021 \ 19:07:45
+[' Răsarit = 08:10:26 Apus = 16:46:28 Min (°C) = 3.81 Max (°C) =4.85 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 00 \ sâmbătă \ 01:1:2022 \ 19:08:28
+[' Răsarit = 08:10:28 Apus = 16:47:21 Min (°C) = 5.28 Max (°C) =9.71 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 50-85%']
+Cluj_Napoca: 00 \ duminică \ 02:1:2022 \ 19:07:20
+[' Răsarit = 08:10:27 Apus = 16:48:17 Min (°C) = 4.16 Max (°C) =9.44 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 01 \ luni \ 03:1:2022 \ 19:07:08
+[' Răsarit = 08:10:24 Apus = 16:49:15 Min (°C) = 3.58 Max (°C) =12.34 Presiune = 1011 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Cluj_Napoca: 01 \ marți \ 04:1:2022 \ 19:07:10
+[' Răsarit = 08:10:17 Apus = 16:50:15 Min (°C) = 4.92 Max (°C) =10.55 Presiune = 1006 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 01 \ miercuri \ 05:1:2022 \ 19:07:57
+[' Răsarit = 08:10:08 Apus = 16:51:17 Min (°C) = 7.41 Max (°C) =12.76 Presiune = 1002 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = nori 85-100%']
+Cluj_Napoca: 01 \ joi \ 06:1:2022 \ 19:07:21
+[' Răsarit = 08:09:57 Apus = 16:52:21 Min (°C) = 1.33 Max (°C) =8.25 Presiune = 1013 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = nori 10-25%']
+Cluj_Napoca: 01 \ vineri \ 07:1:2022 \ 19:08:24
+[' Răsarit = 08:09:42 Apus = 16:53:27 Min (°C) = -1.92 Max (°C) =1.29 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 01 \ sâmbătă \ 08:1:2022 \ 19:07:59
+[' Răsarit = 08:09:25 Apus = 16:54:34 Min (°C) = -1.89 Max (°C) =2.88 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = zăpadă slabă']
+Cluj_Napoca: 01 \ duminică \ 09:1:2022 \ 19:07:30
+[' Răsarit = 08:09:06 Apus = 16:55:44 Min (°C) = -1.62 Max (°C) =0.76 Presiune = 1006 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 85-100%']
+Cluj_Napoca: 02 \ luni \ 10:1:2022 \ 19:07:46
+[' Răsarit = 08:08:43 Apus = 16:56:55 Min (°C) = -3.13 Max (°C) =2.29 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 50-85%']
+Cluj_Napoca: 02 \ marți \ 11:1:2022 \ 19:08:48
+[' Răsarit = 08:08:18 Apus = 16:58:08 Min (°C) = -3.23 Max (°C) =0.8 Presiune = 1025 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = nori 10-25%']
+Cluj_Napoca: 02 \ miercuri \ 12:1:2022 \ 19:07:31
+[' Răsarit = 08:07:51 Apus = 16:59:22 Min (°C) = -7.3 Max (°C) =-2.37 Presiune = 1032 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = cer senin']
+Cluj_Napoca: 02 \ joi \ 13:1:2022 \ 19:08:22
+[' Răsarit = 08:07:20 Apus = 17:00:38 Min (°C) = -10.96 Max (°C) =-3.01 Presiune = 1034 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = nori 85-100%']
+Cluj_Napoca: 02 \ vineri \ 14:1:2022 \ 19:07:49
+[' Răsarit = 08:06:48 Apus = 17:01:55 Min (°C) = -6.54 Max (°C) =-0.73 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Cluj_Napoca: 02 \ sâmbătă \ 15:1:2022 \ 19:07:31
+[' Răsarit = 08:06:12 Apus = 17:03:14 Min (°C) = -3.8 Max (°C) =1.66 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = cer senin']
+Cluj_Napoca: 02 \ duminică \ 16:1:2022 \ 19:07:13
+[' Răsarit = 08:05:34 Apus = 17:04:34 Min (°C) = -6.71 Max (°C) =-0.36 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 50 Stare = nori 85-100%']
+Cluj_Napoca: 03 \ luni \ 17:1:2022 \ 19:07:21
+[' Răsarit = 08:04:54 Apus = 17:05:55 Min (°C) = -5.29 Max (°C) =2.2 Presiune = 1009 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 10.8 Unghiul vântului = 270 Stare = zăpadă slabă']
+Cluj_Napoca: 03 \ marți \ 18:1:2022 \ 19:07:17
+[' Răsarit = 08:04:12 Apus = 17:07:17 Min (°C) = -3.12 Max (°C) =-0.82 Presiune = 1029 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = nori 25-50%']
+Cluj_Napoca: 03 \ miercuri \ 19:1:2022 \ 19:07:31
+[' Răsarit = 08:03:26 Apus = 17:08:41 Min (°C) = -5.39 Max (°C) =-0.01 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 03 \ joi \ 20:1:2022 \ 19:07:36
+[' Răsarit = 08:02:39 Apus = 17:10:05 Min (°C) = -7.87 Max (°C) =-0.86 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 03 \ vineri \ 21:1:2022 \ 19:07:24
+[' Răsarit = 08:01:49 Apus = 17:11:30 Min (°C) = -9.13 Max (°C) =-0.62 Presiune = 1017 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = nori 10-25%']
+Cluj_Napoca: 03 \ sâmbătă \ 22:1:2022 \ 19:08:27
+[' Răsarit = 08:00:57 Apus = 17:12:56 Min (°C) = -10.09 Max (°C) =-2.98 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 85-100%']
+Cluj_Napoca: 03 \ duminică \ 23:1:2022 \ 19:08:29
+[' Răsarit = 08:00:03 Apus = 17:14:24 Min (°C) = -9.79 Max (°C) =-3.14 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 04 \ luni \ 24:1:2022 \ 19:09:19
+[' Răsarit = 07:59:06 Apus = 17:15:51 Min (°C) = -13.63 Max (°C) =-5.22 Presiune = 1034 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 04 \ marți \ 25:1:2022 \ 19:08:46
+[' Răsarit = 07:58:07 Apus = 17:17:20 Min (°C) = -14.68 Max (°C) =-5.86 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = ceață']
+Cluj_Napoca: 04 \ miercuri \ 26:1:2022 \ 19:08:57
+[' Răsarit = 07:57:07 Apus = 17:18:49 Min (°C) = -8.69 Max (°C) =-2.51 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = ceață']
+Cluj_Napoca: 04 \ joi \ 27:1:2022 \ 19:08:58
+[' Răsarit = 07:56:04 Apus = 17:20:19 Min (°C) = -6.81 Max (°C) =-0.99 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = ceață']
+Cluj_Napoca: 04 \ vineri \ 28:1:2022 \ 19:08:42
+[' Răsarit = 07:54:58 Apus = 17:21:49 Min (°C) = -6.13 Max (°C) =2.61 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = nori 10-25%']
+Cluj_Napoca: 04 \ sâmbătă \ 29:1:2022 \ 19:08:53
+[' Răsarit = 07:53:51 Apus = 17:23:19 Min (°C) = -6.66 Max (°C) =0 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Cluj_Napoca: 04 \ duminică \ 30:1:2022 \ 19:07:32
+[' Răsarit = 07:52:42 Apus = 17:24:51 Min (°C) = -7.22 Max (°C) =3.84 Presiune = 1007 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = nori 50-85%']
+Cluj_Napoca: 05 \ luni \ 31:1:2022 \ 19:07:31
+[' Răsarit = 07:51:31 Apus = 17:26:22 Min (°C) = -2.95 Max (°C) =1.16 Presiune = 1006 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 05 \ marți \ 01:2:2022 \ 19:07:25
+[' Răsarit = 07:50:18 Apus = 17:27:54 Min (°C) = -4.96 Max (°C) =0.58 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ miercuri \ 02:2:2022 \ 19:07:38
+[' Răsarit = 07:49:03 Apus = 17:29:26 Min (°C) = -7.04 Max (°C) =0.34 Presiune = 1006 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 85-100%']
+Cluj_Napoca: 05 \ joi \ 03:2:2022 \ 19:07:22
+[' Răsarit = 07:47:47 Apus = 17:30:58 Min (°C) = -4.57 Max (°C) =0.24 Presiune = 1021 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 05 \ vineri \ 04:2:2022 \ 19:07:36
+[' Răsarit = 07:46:28 Apus = 17:32:30 Min (°C) = -5.38 Max (°C) =1.62 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = cer senin']
+Cluj_Napoca: 05 \ sâmbătă \ 05:2:2022 \ 19:07:22
+[' Răsarit = 07:45:08 Apus = 17:34:03 Min (°C) = -6.92 Max (°C) =2.57 Presiune = 1018 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 05 \ duminică \ 06:2:2022 \ 19:07:32
+[' Răsarit = 07:43:46 Apus = 17:35:35 Min (°C) = -6.22 Max (°C) =2.65 Presiune = 1015 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 06 \ luni \ 07:2:2022 \ 19:07:28
+[' Răsarit = 07:42:23 Apus = 17:37:08 Min (°C) = -2.59 Max (°C) =3.96 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.15 Unghiul vântului = 280 Stare = ploaie ușoară']
+Cluj_Napoca: 06 \ marți \ 08:2:2022 \ 19:07:22
+[' Răsarit = 07:40:57 Apus = 17:38:40 Min (°C) = -1.21 Max (°C) =2.51 Presiune = 1023 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = nori 50-85%']
+Cluj_Napoca: 06 \ miercuri \ 09:2:2022 \ 19:08:27
+[' Răsarit = 07:39:31 Apus = 17:40:13 Min (°C) = -0.99 Max (°C) =5.32 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = nori 50-85%']
+Cluj_Napoca: 06 \ joi \ 10:2:2022 \ 19:09:18
+[' Răsarit = 07:38:02 Apus = 17:41:45 Min (°C) = 0.21 Max (°C) =7.26 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 06 \ vineri \ 11:2:2022 \ 19:08:37
+[' Răsarit = 07:36:32 Apus = 17:43:18 Min (°C) = 0.73 Max (°C) =6.3 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = cer senin']
+Cluj_Napoca: 06 \ sâmbătă \ 12:2:2022 \ 19:08:35
+[' Răsarit = 07:35:01 Apus = 17:44:50 Min (°C) = -0.95 Max (°C) =4.03 Presiune = 1033 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 06 \ duminică \ 13:2:2022 \ 19:08:50
+[' Răsarit = 07:33:28 Apus = 17:46:22 Min (°C) = -2.89 Max (°C) =4.53 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 07 \ luni \ 14:2:2022 \ 19:08:45
+[' Răsarit = 07:31:54 Apus = 17:47:54 Min (°C) = -1.87 Max (°C) =4.65 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 290 Stare = cer senin']
+Cluj_Napoca: 07 \ marți \ 15:2:2022 \ 19:08:32
+[' Răsarit = 07:30:18 Apus = 17:49:26 Min (°C) = -0.42 Max (°C) =7.28 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 07 \ miercuri \ 16:2:2022 \ 19:08:32
+[' Răsarit = 07:28:42 Apus = 17:50:57 Min (°C) = 1.26 Max (°C) =7.14 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 150 Stare = nori 10-25%']
+Cluj_Napoca: 07 \ joi \ 17:2:2022 \ 19:09:30
+[' Răsarit = 07:27:03 Apus = 17:52:28 Min (°C) = 1.87 Max (°C) =12.29 Presiune = 1000 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 8.05 Unghiul vântului = 260 Stare = nori 50-85%']
+Cluj_Napoca: 07 \ vineri \ 18:2:2022 \ 19:08:30
+[' Răsarit = 07:25:24 Apus = 17:53:59 Min (°C) = 2.81 Max (°C) =7.5 Presiune = 1014 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 10-25%']
+Cluj_Napoca: 07 \ sâmbătă \ 19:2:2022 \ 19:08:55
+[' Răsarit = 07:23:43 Apus = 17:55:30 Min (°C) = 2.02 Max (°C) =11.3 Presiune = 1016 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 310 Stare = nori 85-100%']
+Cluj_Napoca: 07 \ duminică \ 20:2:2022 \ 19:09:39
+[' Răsarit = 07:22:02 Apus = 17:57:00 Min (°C) = 3 Max (°C) =8.51 Presiune = 1016 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 08 \ luni \ 21:2:2022 \ 19:08:35
+[' Răsarit = 07:20:19 Apus = 17:58:31 Min (°C) = 1.98 Max (°C) =11.48 Presiune = 1003 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 230 Stare = nori 25-50%']
+Cluj_Napoca: 08 \ marți \ 22:2:2022 \ 19:09:09
+[' Răsarit = 07:18:35 Apus = 18:00:00 Min (°C) = 3.69 Max (°C) =8.09 Presiune = 1013 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 08 \ miercuri \ 23:2:2022 \ 19:08:47
+[' Răsarit = 07:16:50 Apus = 18:01:30 Min (°C) = 1.26 Max (°C) =6.97 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 260 Stare = nori 85-100%']
+Cluj_Napoca: 08 \ joi \ 24:2:2022 \ 19:08:46
+[' Răsarit = 07:15:04 Apus = 18:02:59 Min (°C) = 0.38 Max (°C) =5.35 Presiune = 1023 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 140 Stare = nori 50-85%']
+Cluj_Napoca: 08 \ vineri \ 25:2:2022 \ 19:08:50
+[' Răsarit = 07:13:17 Apus = 18:04:28 Min (°C) = -0.61 Max (°C) =6.86 Presiune = 1018 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 70 Stare = cer senin']
+Cluj_Napoca: 08 \ sâmbătă \ 26:2:2022 \ 19:09:04
+[' Răsarit = 07:11:29 Apus = 18:05:56 Min (°C) = 1.13 Max (°C) =5.16 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 10 Stare = ploaie ușoară']
+Cluj_Napoca: 08 \ duminică \ 27:2:2022 \ 19:08:32
+[' Răsarit = 07:09:40 Apus = 18:07:25 Min (°C) = -0.5 Max (°C) =6.05 Presiune = 1026 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 30 Stare = nori 25-50%']
+Cluj_Napoca: 09 \ luni \ 28:2:2022 \ 19:08:51
+[' Răsarit = 07:07:50 Apus = 18:08:53 Min (°C) = 0.25 Max (°C) =4.35 Presiune = 1027 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = nori 10-25%']
+Cluj_Napoca: 09 \ marți \ 01:3:2022 \ 19:09:00
+[' Răsarit = 07:06:00 Apus = 18:10:20 Min (°C) = -0.99 Max (°C) =3.86 Presiune = 1023 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = cer senin']
+Cluj_Napoca: 09 \ miercuri \ 02:3:2022 \ 19:08:29
+[' Răsarit = 07:04:08 Apus = 18:11:47 Min (°C) = -1.47 Max (°C) =4.26 Presiune = 1016 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = nori 25-50%']
+Cluj_Napoca: 09 \ joi \ 03:3:2022 \ 19:08:52
+[' Răsarit = 07:02:16 Apus = 18:13:14 Min (°C) = -1.07 Max (°C) =5.01 Presiune = 1013 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 09 \ vineri \ 04:3:2022 \ 19:08:35
+[' Răsarit = 07:00:23 Apus = 18:14:41 Min (°C) = -0.21 Max (°C) =3.06 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 09 \ sâmbătă \ 05:3:2022 \ 19:07:48
+[' Răsarit = 06:58:30 Apus = 18:16:07 Min (°C) = -3.04 Max (°C) =3.56 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 09 \ duminică \ 06:3:2022 \ 19:07:37
+[' Răsarit = 06:56:36 Apus = 18:17:33 Min (°C) = -3.72 Max (°C) =4.13 Presiune = 1016 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = cer senin']
+Cluj_Napoca: 10 \ luni \ 07:3:2022 \ 19:07:24
+[' Răsarit = 06:54:41 Apus = 18:18:58 Min (°C) = -1.08 Max (°C) =3.53 Presiune = 1014 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 320 Stare = nori 25-50%']
+Cluj_Napoca: 10 \ marți \ 08:3:2022 \ 19:07:13
+[' Răsarit = 06:52:45 Apus = 18:20:23 Min (°C) = -3.87 Max (°C) =3.39 Presiune = 1017 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 290 Stare = cer senin']
+Cluj_Napoca: 10 \ miercuri \ 09:3:2022 \ 19:07:22
+[' Răsarit = 06:50:50 Apus = 18:21:48 Min (°C) = -3.2 Max (°C) =2.57 Presiune = 1018 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 10 \ joi \ 10:3:2022 \ 19:07:22
+[' Răsarit = 06:48:53 Apus = 18:23:13 Min (°C) = -3.28 Max (°C) =1.46 Presiune = 1026 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 70 Stare = nori 25-50%']
+Cluj_Napoca: 10 \ vineri \ 11:3:2022 \ 19:07:20
+[' Răsarit = 06:46:56 Apus = 18:24:37 Min (°C) = -6.1 Max (°C) =-0.19 Presiune = 1027 Umiditate (%) = 31 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 10 \ sâmbătă \ 12:3:2022 \ 19:07:13
+[' Răsarit = 06:44:59 Apus = 18:26:01 Min (°C) = -5.21 Max (°C) =1.79 Presiune = 1028 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 10 \ duminică \ 13:3:2022 \ 19:07:19
+[' Răsarit = 06:43:01 Apus = 18:27:25 Min (°C) = -2.32 Max (°C) =4.65 Presiune = 1027 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 10 Stare = cer senin']
+Cluj_Napoca: 11 \ luni \ 14:3:2022 \ 19:07:14
+[' Răsarit = 06:41:03 Apus = 18:28:49 Min (°C) = -1.48 Max (°C) =7.42 Presiune = 1033 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Cluj_Napoca: 11 \ marți \ 15:3:2022 \ 19:07:21
+[' Răsarit = 06:39:05 Apus = 18:30:12 Min (°C) = 0.76 Max (°C) =8.94 Presiune = 1030 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Cluj_Napoca: 11 \ miercuri \ 16:3:2022 \ 19:07:25
+[' Răsarit = 06:37:06 Apus = 18:31:35 Min (°C) = 1.94 Max (°C) =3.96 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 100 Stare = nori 50-85%']
+Cluj_Napoca: 11 \ joi \ 17:3:2022 \ 19:07:22
+[' Răsarit = 06:35:07 Apus = 18:32:58 Min (°C) = 0.44 Max (°C) =6.91 Presiune = 1031 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
+Cluj_Napoca: 11 \ vineri \ 18:3:2022 \ 19:07:28
+[' Răsarit = 06:33:08 Apus = 18:34:21 Min (°C) = -2.22 Max (°C) =5.15 Presiune = 1038 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 290 Stare = cer senin']
+Cluj_Napoca: 11 \ sâmbătă \ 19:3:2022 \ 19:07:30
+[' Răsarit = 06:31:09 Apus = 18:35:44 Min (°C) = -2.13 Max (°C) =4.84 Presiune = 1038 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = cer senin']
+Cluj_Napoca: 11 \ duminică \ 20:3:2022 \ 19:07:24
+[' Răsarit = 06:29:09 Apus = 18:37:06 Min (°C) = -2.64 Max (°C) =5.41 Presiune = 1038 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 290 Stare = cer senin']
+Cluj_Napoca: 12 \ luni \ 21:3:2022 \ 19:07:43
+[' Răsarit = 06:27:10 Apus = 18:38:28 Min (°C) = -0.62 Max (°C) =8.57 Presiune = 1034 Umiditate (%) = 31 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 12 \ marți \ 22:3:2022 \ 19:07:29
+[' Răsarit = 06:25:10 Apus = 18:39:50 Min (°C) = 1.91 Max (°C) =14.71 Presiune = 1031 Umiditate (%) = 17 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = cer senin']
+Cluj_Napoca: 12 \ miercuri \ 23:3:2022 \ 19:07:17
+[' Răsarit = 06:23:11 Apus = 18:41:12 Min (°C) = 3.91 Max (°C) =14.58 Presiune = 1026 Umiditate (%) = 20 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 12 \ joi \ 24:3:2022 \ 19:07:26
+[' Răsarit = 06:21:11 Apus = 18:42:34 Min (°C) = 5.62 Max (°C) =16.19 Presiune = 1019 Umiditate (%) = 21 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 12 \ vineri \ 25:3:2022 \ 19:07:21
+[' Răsarit = 06:19:11 Apus = 18:43:56 Min (°C) = 2.77 Max (°C) =11.31 Presiune = 1023 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 20 Stare = cer senin']
+Cluj_Napoca: 12 \ sâmbătă \ 26:3:2022 \ 19:07:25
+[' Răsarit = 06:17:12 Apus = 18:45:18 Min (°C) = 2.28 Max (°C) =14.63 Presiune = 1022 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 12 \ duminică \ 27:3:2022 \ 19:07:27
+[' Răsarit = 07:15:12 Apus = 19:46:39 Min (°C) = 6.61 Max (°C) =12.71 Presiune = 1026 Umiditate (%) = 16 Index UV = 0.12 Viteza vântului = 5.66 Unghiul vântului = 310 Stare = cer senin']
+Cluj_Napoca: 13 \ luni \ 28:3:2022 \ 19:07:40
+[' Răsarit = 07:13:13 Apus = 19:48:01 Min (°C) = 3.63 Max (°C) =16.27 Presiune = 1020 Umiditate (%) = 19 Index UV = 0.13 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 13 \ marți \ 29:3:2022 \ 19:07:30
+[' Răsarit = 07:11:14 Apus = 19:49:22 Min (°C) = 6.36 Max (°C) =19.71 Presiune = 1006 Umiditate (%) = 24 Index UV = 0.13 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 13 \ miercuri \ 30:3:2022 \ 19:07:26
+[' Răsarit = 07:09:15 Apus = 19:50:44 Min (°C) = 9.47 Max (°C) =17.68 Presiune = 1004 Umiditate (%) = 31 Index UV = 0.11 Viteza vântului = 4.02 Unghiul vântului = 230 Stare = nori 10-25%']
+Cluj_Napoca: 13 \ joi \ 31:3:2022 \ 19:07:44
+[' Răsarit = 07:07:16 Apus = 19:52:05 Min (°C) = 9.27 Max (°C) =15.71 Presiune = 996 Umiditate (%) = 51 Index UV = 0.02 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = ploaie ușoară']
+Cluj_Napoca: 13 \ vineri \ 01:4:2022 \ 19:08:51
+[' Răsarit = 07:05:18 Apus = 19:53:27 Min (°C) = 10.19 Max (°C) =17.87 Presiune = 993 Umiditate (%) = 85 Index UV = 0.12 Viteza vântului = 4.63 Unghiul vântului = 280 Stare = nori 50-85%']
+Cluj_Napoca: 13 \ sâmbătă \ 02:4:2022 \ 19:08:45
+[' Răsarit = 07:03:19 Apus = 19:54:48 Min (°C) = 5 Max (°C) =10 Presiune = 1000 Umiditate (%) = 90 Index UV = 0.01 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 50-85%']
+Cluj_Napoca: 13 \ duminică \ 03:4:2022 \ 19:41:27
+[' Răsarit = 07:01:22 Apus = 19:56:10 Min (°C) = 0.72 Max (°C) =4.5 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = nori 50-85%']
+Cluj_Napoca: 14 \ luni \ 04:4:2022 \ 19:08:39
+[' Răsarit = 06:59:24 Apus = 19:57:31 Min (°C) = -4.59 Max (°C) =5.01 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.16 Viteza vântului = 4.02 Unghiul vântului = 330 Stare = nori 50-85%']
+Cluj_Napoca: 14 \ marți \ 05:4:2022 \ 19:09:24
+[' Răsarit = 06:57:27 Apus = 19:58:53 Min (°C) = -3.82 Max (°C) =11.91 Presiune = 1007 Umiditate (%) = 36 Index UV = 0.17 Viteza vântului = 4.92 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 14 \ miercuri \ 06:4:2022 \ 19:08:49
+[' Răsarit = 06:55:30 Apus = 20:00:14 Min (°C) = 6.32 Max (°C) =16.82 Presiune = 1009 Umiditate (%) = 40 Index UV = 0.19 Viteza vântului = 2.24 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 14 \ joi \ 07:4:2022 \ 19:08:50
+[' Răsarit = 06:53:34 Apus = 20:01:36 Min (°C) = 6.45 Max (°C) =14.75 Presiune = 998 Umiditate (%) = 58 Index UV = 0.1 Viteza vântului = 2.68 Unghiul vântului = 280 Stare = nori 50-85%']
+Cluj_Napoca: 14 \ vineri \ 08:4:2022 \ 19:08:36
+[' Răsarit = 06:51:39 Apus = 20:02:57 Min (°C) = 5.95 Max (°C) =16.71 Presiune = 1004 Umiditate (%) = 42 Index UV = 0.18 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 25-50%']
+Cluj_Napoca: 14 \ sâmbătă \ 09:4:2022 \ 19:08:45
+[' Răsarit = 06:49:43 Apus = 20:04:19 Min (°C) = 7.81 Max (°C) =15.47 Presiune = 1001 Umiditate (%) = 87 Index UV = 0.05 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = nori 50-85%']
+Cluj_Napoca: 14 \ duminică \ 10:4:2022 \ 19:09:36
+[' Răsarit = 06:47:49 Apus = 20:05:40 Min (°C) = 2.52 Max (°C) =6.02 Presiune = 1011 Umiditate (%) = 84 Index UV = 0.14 Viteza vântului = 2.68 Unghiul vântului = 260 Stare = nori 85-100%']
+Cluj_Napoca: 15 \ luni \ 11:4:2022 \ 19:08:47
+[' Răsarit = 06:45:55 Apus = 20:07:02 Min (°C) = 0.34 Max (°C) =8.59 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.21 Viteza vântului = 6.71 Unghiul vântului = 300 Stare = nori 10-25%']
+Cluj_Napoca: 15 \ marți \ 12:4:2022 \ 19:08:10
+[' Răsarit = 06:44:02 Apus = 20:08:24 Min (°C) = 0.93 Max (°C) =9.94 Presiune = 1020 Umiditate (%) = 36 Index UV = 0.24 Viteza vântului = 6.26 Unghiul vântului = 350 Stare = cer senin']
+Cluj_Napoca: 15 \ miercuri \ 13:4:2022 \ 19:08:31
+[' Răsarit = 06:42:09 Apus = 20:09:46 Min (°C) = 0.82 Max (°C) =13.71 Presiune = 1020 Umiditate (%) = 24 Index UV = 0.24 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 15 \ joi \ 14:4:2022 \ 19:08:52
+[' Răsarit = 06:40:17 Apus = 20:11:07 Min (°C) = 3.62 Max (°C) =16.46 Presiune = 1020 Umiditate (%) = 24 Index UV = 0.27 Viteza vântului = 2.24 Unghiul vântului = 60 Stare = cer senin']
+Cluj_Napoca: 15 \ vineri \ 15:4:2022 \ 19:09:19
+[' Răsarit = 06:38:26 Apus = 20:12:29 Min (°C) = 6.88 Max (°C) =20.71 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.22 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']
+Cluj_Napoca: 15 \ sâmbătă \ 16:4:2022 \ 19:09:18
+[' Răsarit = 06:36:36 Apus = 20:13:51 Min (°C) = 6.65 Max (°C) =14.16 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.06 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 50-85%']
+Cluj_Napoca: 15 \ duminică \ 17:4:2022 \ 19:08:56
+[' Răsarit = 06:34:46 Apus = 20:15:13 Min (°C) = 2.38 Max (°C) =8.88 Presiune = 1017 Umiditate (%) = 40 Index UV = 0.26 Viteza vântului = 4.92 Unghiul vântului = 80 Stare = nori 10-25%']
+Cluj_Napoca: 16 \ luni \ 18:4:2022 \ 19:09:24
+[' Răsarit = 06:32:57 Apus = 20:16:35 Min (°C) = -0.77 Max (°C) =8.66 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.23 Viteza vântului = 4.02 Unghiul vântului = 280 Stare = nori 25-50%']
+Cluj_Napoca: 16 \ marți \ 19:4:2022 \ 19:09:46
+[' Răsarit = 06:31:10 Apus = 20:17:57 Min (°C) = -0.39 Max (°C) =10.71 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.23 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 25-50%']
+Cluj_Napoca: 16 \ miercuri \ 20:4:2022 \ 19:08:58
+[' Răsarit = 06:29:23 Apus = 20:19:19 Min (°C) = 0.55 Max (°C) =10.56 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.26 Viteza vântului = 5.81 Unghiul vântului = 290 Stare = nori 25-50%']
+Cluj_Napoca: 16 \ joi \ 21:4:2022 \ 19:09:18
+[' Răsarit = 06:27:37 Apus = 20:20:41 Min (°C) = 2.81 Max (°C) =13.11 Presiune = 1012 Umiditate (%) = 36 Index UV = 0.17 Viteza vântului = 3.58 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 16 \ vineri \ 22:4:2022 \ 19:07:46
+[' Răsarit = 06:25:52 Apus = 20:22:03 Min (°C) = 3.26 Max (°C) =16.82 Presiune = 1005 Umiditate (%) = 51 Index UV = 0.29 Viteza vântului = 3.13 Unghiul vântului = 120 Stare = cer senin']
+Cluj_Napoca: 16 \ sâmbătă \ 23:4:2022 \ 19:07:54
+[' Răsarit = 06:24:08 Apus = 20:23:26 Min (°C) = 8.78 Max (°C) =15 Presiune = 1007 Umiditate (%) = 77 Index UV = 0.19 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = nori 50-85%']
+Cluj_Napoca: 16 \ duminică \ 24:4:2022 \ 19:07:32
+[' Răsarit = 06:22:25 Apus = 20:24:48 Min (°C) = 6.86 Max (°C) =20.76 Presiune = 1006 Umiditate (%) = 46 Index UV = 0.22 Viteza vântului = 6.17 Unghiul vântului = 120 Stare = nori 10-25%']
+Cluj_Napoca: 17 \ luni \ 25:4:2022 \ 19:07:30
+[' Răsarit = 06:20:43 Apus = 20:26:10 Min (°C) = 9.81 Max (°C) =17.96 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.34 Viteza vântului = 1.34 Unghiul vântului = 0 Stare = nori 50-85%']
+Cluj_Napoca: 17 \ marți \ 26:4:2022 \ 19:07:34
+[' Răsarit = 06:19:02 Apus = 20:27:31 Min (°C) = 7.66 Max (°C) =17.65 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.34 Viteza vântului = 3.13 Unghiul vântului = 20 Stare = nori 10-25%']
+Cluj_Napoca: 17 \ miercuri \ 27:4:2022 \ 19:07:34
+[' Răsarit = 06:17:22 Apus = 20:28:53 Min (°C) = 7.99 Max (°C) =17.42 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.36 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ploaie ușoară']
+Cluj_Napoca: 17 \ joi \ 28:4:2022 \ 19:07:39
+[' Răsarit = 06:15:44 Apus = 20:30:15 Min (°C) = 8.42 Max (°C) =11.82 Presiune = 1020 Umiditate (%) = 76 Index UV = 0.04 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 50-85%']
+Cluj_Napoca: 17 \ vineri \ 29:4:2022 \ 19:08:41
+[' Răsarit = 06:14:06 Apus = 20:31:37 Min (°C) = 8.02 Max (°C) =15.22 Presiune = 1022 Umiditate (%) = 51 Index UV = 0.33 Viteza vântului = 5.14 Unghiul vântului = 70 Stare = nori 25-50%']
+Cluj_Napoca: 17 \ sâmbătă \ 30:4:2022 \ 19:07:21
+[' Răsarit = 06:12:30 Apus = 20:32:58 Min (°C) = 6.57 Max (°C) =18.66 Presiune = 1019 Umiditate (%) = 33 Index UV = 0.3 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 17 \ duminică \ 01:5:2022 \ 19:07:28
+[' Răsarit = 06:10:56 Apus = 20:34:19 Min (°C) = 8.13 Max (°C) =19.16 Presiune = 1017 Umiditate (%) = 33 Index UV = 0.43 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = nori 10-25%']
+Cluj_Napoca: 18 \ marți \ 03:5:2022 \ 20:08:24
+[' Răsarit = 06:07:50 Apus = 20:37:01 Min (°C) = 8.6 Max (°C) =18.37 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.1 Viteza vântului = 6.17 Unghiul vântului = 30 Stare = ploaie ușoară']
+Cluj_Napoca: 18 \ miercuri \ 04:5:2022 \ 19:11:56
+[' Răsarit = 06:06:20 Apus = 20:38:22 Min (°C) = 7.47 Max (°C) =17.4 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.38 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = ploaie ușoară']
+Cluj_Napoca: 18 \ joi \ 05:5:2022 \ 19:07:41
+[' Răsarit = 06:04:50 Apus = 20:39:42 Min (°C) = 7.86 Max (°C) =19.71 Presiune = 1021 Umiditate (%) = 38 Index UV = 0.45 Viteza vântului = 1.34 Unghiul vântului = 30 Stare = nori 85-100%']
+Cluj_Napoca: 18 \ vineri \ 06:5:2022 \ 19:07:59
+[' Răsarit = 06:03:22 Apus = 20:41:02 Min (°C) = 9.36 Max (°C) =21.27 Presiune = 1020 Umiditate (%) = 34 Index UV = 0.49 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = nori 10-25%']
+Cluj_Napoca: 18 \ sâmbătă \ 07:5:2022 \ 19:07:41
+[' Răsarit = 06:01:56 Apus = 20:42:22 Min (°C) = 11.05 Max (°C) =20.54 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.49 Viteza vântului = 4.92 Unghiul vântului = 230 Stare = nori 10-25%']
+Cluj_Napoca: 18 \ duminică \ 08:5:2022 \ 19:08:16
+[' Răsarit = 06:00:31 Apus = 20:43:41 Min (°C) = 10.19 Max (°C) =20.37 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.29 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 10-25%']
+Cluj_Napoca: 19 \ luni \ 09:5:2022 \ 19:07:52
+[' Răsarit = 05:59:08 Apus = 20:44:59 Min (°C) = 10.55 Max (°C) =20 Presiune = 1022 Umiditate (%) = 88 Index UV = 0.49 Viteza vântului = 5.66 Unghiul vântului = 240 Stare = ploaie torențială \n de intensitate mică']
+Cluj_Napoca: 19 \ marți \ 10:5:2022 \ 19:08:07
+[' Răsarit = 05:57:46 Apus = 20:46:18 Min (°C) = 10.27 Max (°C) =19.07 Presiune = 1019 Umiditate (%) = 54 Index UV = 0.53 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = nori 25-50%']
+Cluj_Napoca: 19 \ miercuri \ 11:5:2022 \ 19:07:49
+[' Răsarit = 05:56:26 Apus = 20:47:35 Min (°C) = 9.43 Max (°C) =22.71 Presiune = 1018 Umiditate (%) = 33 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = nori 10-25%']
+Cluj_Napoca: 19 \ joi \ 12:5:2022 \ 19:07:50
+[' Răsarit = 05:55:08 Apus = 20:48:53 Min (°C) = 11.94 Max (°C) =26.71 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.59 Viteza vântului = 1.54 Unghiul vântului = 180 Stare = cer senin']
+Cluj_Napoca: 19 \ vineri \ 13:5:2022 \ 19:07:40
+[' Răsarit = 05:53:51 Apus = 20:50:09 Min (°C) = 14.43 Max (°C) =25.08 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.59 Viteza vântului = 0.89 Unghiul vântului = 0 Stare = nori 10-25%']
+Cluj_Napoca: 19 \ sâmbătă \ 14:5:2022 \ 19:07:40
+[' Răsarit = 05:52:37 Apus = 20:51:25 Min (°C) = 13.6 Max (°C) =20.71 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.59 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 19 \ duminică \ 15:5:2022 \ 19:07:41
+[' Răsarit = 05:51:23 Apus = 20:52:41 Min (°C) = 10.74 Max (°C) =21.71 Presiune = 1017 Umiditate (%) = 37 Index UV = 0.56 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = cer senin']
+Cluj_Napoca: 20 \ luni \ 16:5:2022 \ 19:08:50
+[' Răsarit = 05:50:12 Apus = 20:53:55 Min (°C) = 11.68 Max (°C) =23.11 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.56 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = cer senin']
+Cluj_Napoca: 20 \ marți \ 17:5:2022 \ 19:10:39
+[' Răsarit = 05:49:03 Apus = 20:55:09 Min (°C) = 12.07 Max (°C) =20.64 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.1 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = nori 25-50%']
+Cluj_Napoca: 20 \ miercuri \ 18:5:2022 \ 19:07:54
+[' Răsarit = 05:47:55 Apus = 20:56:22 Min (°C) = 9.59 Max (°C) =15.77 Presiune = 1024 Umiditate (%) = 33 Index UV = 0.58 Viteza vântului = 7.2 Unghiul vântului = 300 Stare = cer senin']
+Cluj_Napoca: 20 \ joi \ 19:5:2022 \ 20:12:45
+[' Răsarit = 05:46:49 Apus = 20:57:34 Min (°C) = 5.61 Max (°C) =19.71 Presiune = 1026 Umiditate (%) = 30 Index UV = 0.18 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Cluj_Napoca: 20 \ vineri \ 20:5:2022 \ 19:07:39
+[' Răsarit = 05:45:46 Apus = 20:58:45 Min (°C) = 8.65 Max (°C) =25.71 Presiune = 1021 Umiditate (%) = 27 Index UV = 0.66 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Cluj_Napoca: 20 \ sâmbătă \ 21:5:2022 \ 19:08:53
+[' Răsarit = 05:44:44 Apus = 20:59:55 Min (°C) = 12.71 Max (°C) =24.08 Presiune = 1013 Umiditate (%) = 67 Index UV = 0.63 Viteza vântului = 6.92 Unghiul vântului = 287 Stare = nori 85-100%']

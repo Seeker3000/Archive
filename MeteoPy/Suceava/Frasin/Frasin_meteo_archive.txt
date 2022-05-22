@@ -1,0 +1,956 @@
+Frasin: 04 \ luni \ 25:1:2021 \ 22:46:26
+[' Răsarit = 07:51:25 Apus = 17:06:33 Min (°C) = -0.16 Max (°C) =7.26 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Frasin: 04 \ marți \ 26:1:2021 \ 10:03:06
+[' Răsarit = 07:50:21 Apus = 17:08:05 Min (°C) = -2.97 Max (°C) =3.3 Presiune = 963 Umiditate (%) = 71 Index UV = 0.51 Viteza vântului = 1.63 Unghiul vântului = 242 Stare = nori 85-100%']
+Frasin: 04 \ miercuri \ 27:1:2021 \ 19:23:35
+[' Răsarit = 07:49:15 Apus = 17:09:37 Min (°C) = -3.18 Max (°C) =-0.73 Presiune = 965 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 321 Stare = nori 85-100%']
+Frasin: 04 \ joi \ 28:1:2021 \ 19:38:14
+[' Răsarit = 07:48:07 Apus = 17:11:10 Min (°C) = -4.73 Max (°C) =0.39 Presiune = 1001 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 246 Stare = nori 25-50%']
+Frasin: 04 \ vineri \ 29:1:2021 \ 20:24:06
+[' Răsarit = 07:46:57 Apus = 17:12:43 Min (°C) = -4.53 Max (°C) =3.67 Presiune = 989 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 233 Stare = nori 85-100%']
+Frasin: 04 \ sâmbătă \ 30:1:2021 \ 20:26:07
+[' Răsarit = 07:45:45 Apus = 17:14:17 Min (°C) = -1.27 Max (°C) =6.28 Presiune = 994 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 7.73 Unghiul vântului = 254 Stare = cer senin']
+Frasin: 04 \ duminică \ 31:1:2021 \ 19:23:04
+[' Răsarit = 07:44:31 Apus = 17:15:51 Min (°C) = -4.23 Max (°C) =-0.03 Presiune = 965 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 86 Stare = zăpadă slabă']
+Frasin: 05 \ luni \ 01:2:2021 \ 19:24:12
+[' Răsarit = 07:43:15 Apus = 17:17:25 Min (°C) = -3.66 Max (°C) =-0.17 Presiune = 1002 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 74 Stare = nori 85-100%']
+Frasin: 05 \ marți \ 02:2:2021 \ 20:54:56
+[' Răsarit = 07:41:58 Apus = 17:19:00 Min (°C) = -3.77 Max (°C) =5.75 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = nori 50-85%']
+Frasin: 05 \ miercuri \ 03:2:2021 \ 19:50:37
+[' Răsarit = 07:40:38 Apus = 17:20:34 Min (°C) = -0.19 Max (°C) =7.72 Presiune = 1007 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 225 Stare = nori 25-50%']
+Frasin: 05 \ joi \ 04:2:2021 \ 19:25:13
+[' Răsarit = 07:39:17 Apus = 17:22:09 Min (°C) = 1.46 Max (°C) =8.58 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 330 Stare = nori 50-85%']
+Frasin: 05 \ vineri \ 05:2:2021 \ 19:20:56
+[' Răsarit = 07:37:53 Apus = 17:23:44 Min (°C) = -0.73 Max (°C) =2.83 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 60 Stare = zăpadă slabă']
+Frasin: 05 \ sâmbătă \ 06:2:2021 \ 19:49:42
+[' Răsarit = 07:36:28 Apus = 17:25:19 Min (°C) = -2.82 Max (°C) =0.08 Presiune = 974 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 63 Stare = zăpadă slabă']
+Frasin: 05 \ duminică \ 07:2:2021 \ 19:25:22
+[' Răsarit = 07:35:02 Apus = 17:26:55 Min (°C) = -4.97 Max (°C) =-2.01 Presiune = 967 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 99 Stare = nori 85-100%']
+Frasin: 06 \ luni \ 08:2:2021 \ 21:07:32
+[' Răsarit = 07:33:33 Apus = 17:28:30 Min (°C) = -4.9 Max (°C) =2.83 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = ceață']
+Frasin: 06 \ marți \ 09:2:2021 \ 19:22:18
+[' Răsarit = 07:32:04 Apus = 17:30:05 Min (°C) = 0.54 Max (°C) =7.17 Presiune = 1001 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 183 Stare = nori 85-100%']
+Frasin: 06 \ miercuri \ 10:2:2021 \ 19:23:02
+[' Răsarit = 07:30:32 Apus = 17:31:40 Min (°C) = 1.4 Max (°C) =6.42 Presiune = 1004 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 338 Stare = nori 85-100%']
+Frasin: 06 \ joi \ 11:2:2021 \ 19:16:52
+[' Răsarit = 07:28:59 Apus = 17:33:15 Min (°C) = -7.99 Max (°C) =3.58 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 11.83 Unghiul vântului = 320 Stare = ceață']
+Frasin: 06 \ vineri \ 12:2:2021 \ 20:57:35
+[' Răsarit = 07:27:25 Apus = 17:34:50 Min (°C) = -12.01 Max (°C) =-8.53 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.5 Unghiul vântului = 289 Stare = nori 85-100%']
+Frasin: 06 \ sâmbătă \ 13:2:2021 \ 19:22:10
+[' Răsarit = 07:25:49 Apus = 17:36:25 Min (°C) = -13.72 Max (°C) =-5.91 Presiune = 1020 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 0 Stare = nori 25-50%']
+Frasin: 06 \ duminică \ 14:2:2021 \ 19:19:48
+[' Răsarit = 07:24:12 Apus = 17:37:59 Min (°C) = -11.3 Max (°C) =-2.25 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 22 Stare = nori 85-100%']
+Frasin: 07 \ luni \ 15:2:2021 \ 20:17:38
+[' Răsarit = 07:22:33 Apus = 17:39:34 Min (°C) = -8.5 Max (°C) =-3.07 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 312 Stare = nori 85-100%']
+Frasin: 07 \ marți \ 16:2:2021 \ 19:12:57
+[' Răsarit = 07:20:53 Apus = 17:41:08 Min (°C) = -11.9 Max (°C) =-3.17 Presiune = 980 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 187 Stare = nori 25-50%']
+Frasin: 07 \ miercuri \ 17:2:2021 \ 19:21:07
+[' Răsarit = 07:19:12 Apus = 17:42:42 Min (°C) = -9.39 Max (°C) =1.29 Presiune = 1011 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 247 Stare = nori 85-100%']
+Frasin: 07 \ joi \ 18:2:2021 \ 19:24:55
+[' Răsarit = 07:17:30 Apus = 17:44:15 Min (°C) = -8.21 Max (°C) =0.65 Presiune = 981 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 35 Stare = zăpadă slabă']
+Frasin: 07 \ vineri \ 19:2:2021 \ 19:18:02
+[' Răsarit = 07:15:46 Apus = 17:45:49 Min (°C) = -10.06 Max (°C) =3.62 Presiune = 980 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 239 Stare = nori 85-100%']
+Frasin: 07 \ sâmbătă \ 20:2:2021 \ 19:22:14
+[' Răsarit = 07:14:01 Apus = 17:47:22 Min (°C) = -1.77 Max (°C) =2.64 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 101 Stare = ceață']
+Frasin: 07 \ duminică \ 21:2:2021 \ 19:19:41
+[' Răsarit = 07:12:16 Apus = 17:48:55 Min (°C) = -2.21 Max (°C) =8.28 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 241 Stare = nori 85-100%']
+Frasin: 08 \ luni \ 22:2:2021 \ 19:24:32
+[' Răsarit = 07:10:29 Apus = 17:50:27 Min (°C) = -0.33 Max (°C) =11.26 Presiune = 984 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 244 Stare = cer senin']
+Frasin: 08 \ marți \ 23:2:2021 \ 19:22:17
+[' Răsarit = 07:08:41 Apus = 17:51:59 Min (°C) = 1.13 Max (°C) =10.16 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = cer senin']
+Frasin: 08 \ miercuri \ 24:2:2021 \ 19:22:51
+[' Răsarit = 07:06:51 Apus = 17:53:31 Min (°C) = 0.43 Max (°C) =9.22 Presiune = 990 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 247 Stare = nori 85-100%']
+Frasin: 08 \ joi \ 25:2:2021 \ 19:20:52
+[' Răsarit = 07:05:01 Apus = 17:55:03 Min (°C) = 4.17 Max (°C) =14.49 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Frasin: 08 \ vineri \ 26:2:2021 \ 19:21:41
+[' Răsarit = 07:03:11 Apus = 17:56:34 Min (°C) = 4.04 Max (°C) =13.73 Presiune = 979 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 248 Stare = cer senin']
+Frasin: 08 \ sâmbătă \ 27:2:2021 \ 19:20:10
+[' Răsarit = 07:01:19 Apus = 17:58:05 Min (°C) = -0.52 Max (°C) =3.8 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = nori 50-85%']
+Frasin: 08 \ duminică \ 28:2:2021 \ 19:23:07
+[' Răsarit = 06:59:26 Apus = 17:59:35 Min (°C) = -0.86 Max (°C) =5.8 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Frasin: 09 \ luni \ 01:3:2021 \ 19:17:21
+[' Răsarit = 06:57:32 Apus = 18:01:05 Min (°C) = -0.47 Max (°C) =3.15 Presiune = 990 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 328 Stare = nori 85-100%']
+Frasin: 09 \ marți \ 02:3:2021 \ 19:25:53
+[' Răsarit = 06:55:38 Apus = 18:02:35 Min (°C) = -2.02 Max (°C) =11.5 Presiune = 1025 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = cer senin']
+Frasin: 09 \ miercuri \ 03:3:2021 \ 19:21:26
+[' Răsarit = 06:53:43 Apus = 18:04:05 Min (°C) = 0.49 Max (°C) =10.76 Presiune = 983 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 209 Stare = cer senin']
+Frasin: 09 \ joi \ 04:3:2021 \ 19:22:10
+[' Răsarit = 06:51:47 Apus = 18:05:34 Min (°C) = 1.89 Max (°C) =12.85 Presiune = 968 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 245 Stare = nori 85-100%']
+Frasin: 09 \ vineri \ 05:3:2021 \ 19:20:12
+[' Răsarit = 06:49:51 Apus = 18:07:03 Min (°C) = 0.08 Max (°C) =9.09 Presiune = 972 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.67 Unghiul vântului = 13 Stare = zăpadă slabă']
+Frasin: 09 \ sâmbătă \ 06:3:2021 \ 19:20:59
+[' Răsarit = 06:47:54 Apus = 18:08:31 Min (°C) = -4.22 Max (°C) =0.68 Presiune = 985 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 26 Stare = nori 85-100%']
+Frasin: 09 \ duminică \ 07:3:2021 \ 19:22:15
+[' Răsarit = 06:45:56 Apus = 18:09:59 Min (°C) = -4.97 Max (°C) =4.22 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = cer senin']
+Frasin: 10 \ luni \ 08:3:2021 \ 19:25:24
+[' Răsarit = 06:43:58 Apus = 18:11:27 Min (°C) = -3.98 Max (°C) =5.68 Presiune = 974 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 24 Stare = snow']
+Frasin: 10 \ marți \ 09:3:2021 \ 19:21:16
+[' Răsarit = 06:41:59 Apus = 18:12:55 Min (°C) = -4.46 Max (°C) =2.56 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
+Frasin: 10 \ miercuri \ 10:3:2021 \ 19:25:45
+[' Răsarit = 06:40:00 Apus = 18:14:22 Min (°C) = -3.79 Max (°C) =2.91 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 158 Stare = nori 85-100%']
+Frasin: 10 \ joi \ 11:3:2021 \ 19:22:24
+[' Răsarit = 06:38:00 Apus = 18:15:49 Min (°C) = -6.86 Max (°C) =2.01 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 160 Stare = cer senin']
+Frasin: 10 \ vineri \ 12:3:2021 \ 19:21:26
+[' Răsarit = 06:36:00 Apus = 18:17:16 Min (°C) = -2.46 Max (°C) =8.94 Presiune = 968 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 260 Stare = cer senin']
+Frasin: 10 \ sâmbătă \ 13:3:2021 \ 19:21:43
+[' Răsarit = 06:34:00 Apus = 18:18:43 Min (°C) = 0.33 Max (°C) =8.91 Presiune = 968 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 238 Stare = cer senin']
+Frasin: 10 \ duminică \ 14:3:2021 \ 19:24:05
+[' Răsarit = 06:31:59 Apus = 18:20:09 Min (°C) = 0.93 Max (°C) =11.28 Presiune = 1005 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Frasin: 11 \ luni \ 15:3:2021 \ 19:23:30
+[' Răsarit = 06:29:57 Apus = 18:21:35 Min (°C) = 2.4 Max (°C) =3.71 Presiune = 1001 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 360 Stare = nori 85-100%']
+Frasin: 11 \ marți \ 16:3:2021 \ 19:22:06
+[' Răsarit = 06:27:56 Apus = 18:23:01 Min (°C) = 1.69 Max (°C) =4.51 Presiune = 1000 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 329 Stare = nori 85-100%']
+Frasin: 11 \ miercuri \ 17:3:2021 \ 19:22:28
+[' Răsarit = 06:25:54 Apus = 18:24:26 Min (°C) = 0.09 Max (°C) =1.95 Presiune = 1004 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 0 Stare = zăpadă slabă']
+Frasin: 11 \ joi \ 18:3:2021 \ 19:21:42
+[' Răsarit = 06:23:52 Apus = 18:25:52 Min (°C) = -2.29 Max (°C) =1.79 Presiune = 970 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 5 Stare = nori 85-100%']
+Frasin: 11 \ vineri \ 19:3:2021 \ 19:19:06
+[' Răsarit = 06:21:50 Apus = 18:27:17 Min (°C) = -3.99 Max (°C) =0.02 Presiune = 972 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 73 Stare = zăpadă slabă']
+Frasin: 11 \ sâmbătă \ 20:3:2021 \ 19:21:47
+[' Răsarit = 06:19:48 Apus = 18:28:42 Min (°C) = -5.12 Max (°C) =1.43 Presiune = 977 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 343 Stare = zăpadă slabă']
+Frasin: 11 \ duminică \ 21:3:2021 \ 19:16:46
+[' Răsarit = 06:17:46 Apus = 18:30:07 Min (°C) = -7.68 Max (°C) =4.02 Presiune = 1009 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Frasin: 12 \ luni \ 22:3:2021 \ 19:22:04
+[' Răsarit = 06:15:43 Apus = 18:31:32 Min (°C) = -5.46 Max (°C) =3.56 Presiune = 968 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.61 Unghiul vântului = 360 Stare = zăpadă slabă']
+Frasin: 12 \ marți \ 23:3:2021 \ 19:23:57
+[' Răsarit = 06:13:41 Apus = 18:32:57 Min (°C) = -7.01 Max (°C) =2.54 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 8 Stare = snow']
+Frasin: 12 \ miercuri \ 24:3:2021 \ 19:22:24
+[' Răsarit = 06:11:39 Apus = 18:34:21 Min (°C) = -5.78 Max (°C) =0.38 Presiune = 976 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 2 Stare = zăpadă slabă']
+Frasin: 12 \ joi \ 25:3:2021 \ 19:22:30
+[' Răsarit = 06:09:36 Apus = 18:35:46 Min (°C) = -5.51 Max (°C) =4.2 Presiune = 1018 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Frasin: 12 \ vineri \ 26:3:2021 \ 19:27:19
+[' Răsarit = 06:07:34 Apus = 18:37:10 Min (°C) = -4.12 Max (°C) =8.24 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 10 Stare = cer senin']
+Frasin: 12 \ sâmbătă \ 27:3:2021 \ 19:27:08
+[' Răsarit = 06:05:32 Apus = 18:38:35 Min (°C) = -0.75 Max (°C) =12.42 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Frasin: 12 \ duminică \ 28:3:2021 \ 19:22:39
+[' Răsarit = 07:03:30 Apus = 19:39:59 Min (°C) = -0.61 Max (°C) =12.27 Presiune = 984 Umiditate (%) = 73 Index UV = 0.08 Viteza vântului = 2.56 Unghiul vântului = 304 Stare = nori 85-100%']
+Frasin: 13 \ luni \ 29:3:2021 \ 19:21:30
+[' Răsarit = 07:01:28 Apus = 19:41:23 Min (°C) = -2.9 Max (°C) =8.61 Presiune = 1030 Umiditate (%) = 46 Index UV = 0.09 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = cer senin']
+Frasin: 13 \ marți \ 30:3:2021 \ 19:20:29
+[' Răsarit = 06:59:26 Apus = 19:42:47 Min (°C) = -0.19 Max (°C) =10.87 Presiune = 1029 Umiditate (%) = 46 Index UV = 0.07 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Frasin: 13 \ miercuri \ 31:3:2021 \ 19:20:40
+[' Răsarit = 06:57:25 Apus = 19:44:11 Min (°C) = 2.15 Max (°C) =12 Presiune = 1023 Umiditate (%) = 62 Index UV = 0.07 Viteza vântului = 1.54 Unghiul vântului = 20 Stare = nori 50-85%']
+Frasin: 13 \ joi \ 01:4:2021 \ 19:21:00
+[' Răsarit = 06:55:23 Apus = 19:45:36 Min (°C) = 7.08 Max (°C) =16.93 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.12 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = cer senin']
+Frasin: 13 \ vineri \ 02:4:2021 \ 19:23:55
+[' Răsarit = 06:53:23 Apus = 19:47:00 Min (°C) = 3.43 Max (°C) =9.43 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.03 Viteza vântului = 1.34 Unghiul vântului = 22 Stare = nori 85-100%']
+Frasin: 13 \ sâmbătă \ 03:4:2021 \ 20:45:38
+[' Răsarit = 06:51:22 Apus = 19:48:24 Min (°C) = 0.22 Max (°C) =6.79 Presiune = 969 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 3 Stare = nori 85-100%']
+Frasin: 13 \ duminică \ 04:4:2021 \ 20:24:21
+[' Răsarit = 06:49:22 Apus = 19:49:48 Min (°C) = -0.59 Max (°C) =5.81 Presiune = 973 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 330 Stare = nori 85-100%']
+Frasin: 14 \ luni \ 05:4:2021 \ 14:52:42
+[' Răsarit = 06:47:22 Apus = 19:51:12 Min (°C) = -1.8 Max (°C) =10.62 Presiune = 964 Umiditate (%) = 47 Index UV = 3.21 Viteza vântului = 6.5 Unghiul vântului = 256 Stare = nori 10-25%']
+Frasin: 14 \ luni \ 05:4:2021 \ 19:22:21
+[' Răsarit = 06:47:22 Apus = 19:51:12 Min (°C) = -1.8 Max (°C) =8.64 Presiune = 1004 Umiditate (%) = 37 Index UV = 0.14 Viteza vântului = 5.66 Unghiul vântului = 240 Stare = cer senin']
+Frasin: 14 \ marți \ 06:4:2021 \ 20:27:07
+[' Răsarit = 06:45:23 Apus = 19:52:37 Min (°C) = 0.19 Max (°C) =10.53 Presiune = 959 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 30 Stare = nori 85-100%']
+Frasin: 14 \ miercuri \ 07:4:2021 \ 19:21:10
+[' Răsarit = 06:43:24 Apus = 19:54:01 Min (°C) = -2.19 Max (°C) =4.07 Presiune = 966 Umiditate (%) = 62 Index UV = 0.14 Viteza vântului = 1.34 Unghiul vântului = 315 Stare = nori 85-100%']
+Frasin: 14 \ joi \ 08:4:2021 \ 19:21:15
+[' Răsarit = 06:41:26 Apus = 19:55:25 Min (°C) = -6.86 Max (°C) =4.73 Presiune = 975 Umiditate (%) = 49 Index UV = 0.14 Viteza vântului = 2.64 Unghiul vântului = 278 Stare = nori 50-85%']
+Frasin: 14 \ vineri \ 09:4:2021 \ 19:21:17
+[' Răsarit = 06:39:28 Apus = 19:56:49 Min (°C) = -3.82 Max (°C) =8.45 Presiune = 1023 Umiditate (%) = 39 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 180 Stare = cer senin']
+Frasin: 14 \ sâmbătă \ 10:4:2021 \ 19:20:50
+[' Răsarit = 06:37:31 Apus = 19:58:14 Min (°C) = -1.96 Max (°C) =14 Presiune = 1020 Umiditate (%) = 30 Index UV = 0.14 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Frasin: 14 \ duminică \ 11:4:2021 \ 19:22:32
+[' Răsarit = 06:35:35 Apus = 19:59:38 Min (°C) = 1.61 Max (°C) =15 Presiune = 1022 Umiditate (%) = 26 Index UV = 0.19 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']
+Frasin: 15 \ luni \ 12:4:2021 \ 22:06:53
+[' Răsarit = 06:33:39 Apus = 20:01:03 Min (°C) = 3.31 Max (°C) =17.23 Presiune = 975 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 232 Stare = ploaie ușoară']
+Frasin: 15 \ marți \ 13:4:2021 \ 19:22:22
+[' Răsarit = 06:31:44 Apus = 20:02:27 Min (°C) = 6.23 Max (°C) =17.02 Presiune = 972 Umiditate (%) = 77 Index UV = 0.07 Viteza vântului = 3.4 Unghiul vântului = 18 Stare = nori 85-100%']
+Frasin: 15 \ miercuri \ 14:4:2021 \ 19:22:12
+[' Răsarit = 06:29:49 Apus = 20:03:52 Min (°C) = 3.15 Max (°C) =8.63 Presiune = 971 Umiditate (%) = 87 Index UV = 0.05 Viteza vântului = 1.74 Unghiul vântului = 41 Stare = ploaie ușoară']
+Frasin: 15 \ joi \ 15:4:2021 \ 19:24:03
+[' Răsarit = 06:27:56 Apus = 20:05:17 Min (°C) = 2.06 Max (°C) =5.92 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.04 Viteza vântului = 0.45 Unghiul vântului = 338 Stare = nori 85-100%']
+Frasin: 15 \ vineri \ 16:4:2021 \ 19:21:49
+[' Răsarit = 06:26:03 Apus = 20:06:41 Min (°C) = -0.46 Max (°C) =9.43 Presiune = 972 Umiditate (%) = 62 Index UV = 0.17 Viteza vântului = 2.45 Unghiul vântului = 261 Stare = nori 85-100%']
+Frasin: 15 \ sâmbătă \ 17:4:2021 \ 19:21:39
+[' Răsarit = 06:24:11 Apus = 20:08:06 Min (°C) = -0.48 Max (°C) =11.12 Presiune = 1008 Umiditate (%) = 56 Index UV = 0.15 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = nori 85-100%']
+Frasin: 15 \ duminică \ 18:4:2021 \ 19:21:01
+[' Răsarit = 06:22:19 Apus = 20:09:31 Min (°C) = 1.33 Max (°C) =11.03 Presiune = 973 Umiditate (%) = 69 Index UV = 0.13 Viteza vântului = 0.91 Unghiul vântului = 81 Stare = nori 85-100%']
+Frasin: 16 \ luni \ 19:4:2021 \ 19:21:58
+[' Răsarit = 06:20:29 Apus = 20:10:55 Min (°C) = 4.88 Max (°C) =10.7 Presiune = 970 Umiditate (%) = 88 Index UV = 0.19 Viteza vântului = 1.26 Unghiul vântului = 97 Stare = nori 85-100%']
+Frasin: 16 \ marți \ 20:4:2021 \ 19:21:23
+[' Răsarit = 06:18:40 Apus = 20:12:20 Min (°C) = 4.39 Max (°C) =11.11 Presiune = 968 Umiditate (%) = 75 Index UV = 0.21 Viteza vântului = 0.62 Unghiul vântului = 341 Stare = nori 85-100%']
+Frasin: 16 \ miercuri \ 21:4:2021 \ 19:21:22
+[' Răsarit = 06:16:51 Apus = 20:13:45 Min (°C) = 2.55 Max (°C) =13.38 Presiune = 971 Umiditate (%) = 65 Index UV = 0.23 Viteza vântului = 0.6 Unghiul vântului = 284 Stare = nori 85-100%']
+Frasin: 16 \ joi \ 22:4:2021 \ 19:21:51
+[' Răsarit = 06:15:04 Apus = 20:15:10 Min (°C) = 2.84 Max (°C) =15.4 Presiune = 1014 Umiditate (%) = 18 Index UV = 0.23 Viteza vântului = 3.19 Unghiul vântului = 249 Stare = nori 85-100%']
+Frasin: 16 \ vineri \ 23:4:2021 \ 19:21:12
+[' Răsarit = 06:13:17 Apus = 20:16:35 Min (°C) = 2.76 Max (°C) =7.21 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.14 Viteza vântului = 1.27 Unghiul vântului = 350 Stare = nori 85-100%']
+Frasin: 16 \ sâmbătă \ 24:4:2021 \ 19:21:19
+[' Răsarit = 06:11:32 Apus = 20:17:59 Min (°C) = -0.07 Max (°C) =9.61 Presiune = 1021 Umiditate (%) = 46 Index UV = 0.21 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 25-50%']
+Frasin: 16 \ duminică \ 25:4:2021 \ 19:21:36
+[' Răsarit = 06:09:47 Apus = 20:19:24 Min (°C) = 1.65 Max (°C) =14.48 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.07 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = nori 25-50%']
+Frasin: 17 \ luni \ 26:4:2021 \ 19:21:25
+[' Răsarit = 06:08:04 Apus = 20:20:48 Min (°C) = 2.39 Max (°C) =8.16 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = cer senin']
+Frasin: 17 \ marți \ 27:4:2021 \ 19:22:53
+[' Răsarit = 06:06:22 Apus = 20:22:13 Min (°C) = 0.97 Max (°C) =7.23 Presiune = 973 Umiditate (%) = 65 Index UV = 0.22 Viteza vântului = 0.98 Unghiul vântului = 46 Stare = nori 85-100%']
+Frasin: 17 \ miercuri \ 28:4:2021 \ 19:21:21
+[' Răsarit = 06:04:41 Apus = 20:23:37 Min (°C) = -1.34 Max (°C) =8.78 Presiune = 1015 Umiditate (%) = 87 Index UV = 0.3 Viteza vântului = 7.72 Unghiul vântului = 140 Stare = nori 85-100%']
+Frasin: 17 \ joi \ 29:4:2021 \ 19:14:00
+[' Răsarit = 06:03:02 Apus = 20:25:01 Min (°C) = 2.63 Max (°C) =16.85 Presiune = 968 Umiditate (%) = 71 Index UV = 0.37 Viteza vântului = 1.04 Unghiul vântului = 166 Stare = nori 50-85%']
+Frasin: 17 \ joi \ 29:4:2021 \ 19:31:29
+[' Răsarit = 06:03:02 Apus = 20:25:01 Min (°C) = 2.63 Max (°C) =17.11 Presiune = 1011 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 170 Stare = nori 10-25%']
+Frasin: 17 \ vineri \ 30:4:2021 \ 19:21:16
+[' Răsarit = 06:01:23 Apus = 20:26:25 Min (°C) = 8.17 Max (°C) =19.08 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.35 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = cer senin']
+Frasin: 17 \ sâmbătă \ 01:5:2021 \ 19:22:40
+[' Răsarit = 05:59:46 Apus = 20:27:49 Min (°C) = 9.01 Max (°C) =21.17 Presiune = 968 Umiditate (%) = 75 Index UV = 0.36 Viteza vântului = 1.45 Unghiul vântului = 50 Stare = nori 85-100%']
+Frasin: 17 \ duminică \ 02:5:2021 \ 20:29:12
+[' Răsarit = 05:58:11 Apus = 20:29:13 Min (°C) = 13.04 Max (°C) =22.27 Presiune = 1005 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 230 Stare = nori 10-25%']
+Frasin: 18 \ luni \ 03:5:2021 \ 19:21:29
+[' Răsarit = 05:56:36 Apus = 20:30:36 Min (°C) = 6.51 Max (°C) =14.19 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.33 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = cer senin']
+Frasin: 18 \ marți \ 04:5:2021 \ 19:23:53
+[' Răsarit = 05:55:03 Apus = 20:31:59 Min (°C) = 2.97 Max (°C) =15.33 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.41 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Frasin: 18 \ miercuri \ 05:5:2021 \ 19:21:13
+[' Răsarit = 05:53:32 Apus = 20:33:22 Min (°C) = 3.77 Max (°C) =18.04 Presiune = 1005 Umiditate (%) = 40 Index UV = 0.42 Viteza vântului = 6.17 Unghiul vântului = 180 Stare = cer senin']
+Frasin: 18 \ joi \ 06:5:2021 \ 19:22:19
+[' Răsarit = 05:52:02 Apus = 20:34:45 Min (°C) = 7.95 Max (°C) =14.87 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.22 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = nori 10-25%']
+Frasin: 18 \ vineri \ 07:5:2021 \ 19:21:03
+[' Răsarit = 05:50:33 Apus = 20:36:07 Min (°C) = 5.26 Max (°C) =16.98 Presiune = 1003 Umiditate (%) = 52 Index UV = 0.07 Viteza vântului = 3.5 Unghiul vântului = 252 Stare = nori 85-100%']
+Frasin: 18 \ sâmbătă \ 08:5:2021 \ 19:21:49
+[' Răsarit = 05:49:07 Apus = 20:37:28 Min (°C) = 3.62 Max (°C) =12.13 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.36 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = cer senin']
+Frasin: 18 \ duminică \ 09:5:2021 \ 19:21:04
+[' Răsarit = 05:47:41 Apus = 20:38:49 Min (°C) = 0.79 Max (°C) =16.58 Presiune = 1022 Umiditate (%) = 34 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 130 Stare = cer senin']
+Frasin: 19 \ luni \ 10:5:2021 \ 19:21:26
+[' Răsarit = 05:46:17 Apus = 20:40:10 Min (°C) = 4.94 Max (°C) =20.18 Presiune = 1020 Umiditate (%) = 32 Index UV = 0.52 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Frasin: 19 \ marți \ 11:5:2021 \ 19:22:13
+[' Răsarit = 05:44:55 Apus = 20:41:30 Min (°C) = 7.16 Max (°C) =20.12 Presiune = 1016 Umiditate (%) = 30 Index UV = 0.49 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = cer senin']
+Frasin: 19 \ miercuri \ 12:5:2021 \ 19:21:32
+[' Răsarit = 05:43:35 Apus = 20:42:50 Min (°C) = 7.57 Max (°C) =17.97 Presiune = 1011 Umiditate (%) = 96 Index UV = 0.09 Viteza vântului = 1.81 Unghiul vântului = 88 Stare = nori 85-100%']
+Frasin: 19 \ joi \ 13:5:2021 \ 19:22:27
+[' Răsarit = 05:42:16 Apus = 20:44:08 Min (°C) = 7.86 Max (°C) =18.19 Presiune = 1002 Umiditate (%) = 67 Index UV = 0.45 Viteza vântului = 1.61 Unghiul vântului = 197 Stare = nori 85-100%']
+Frasin: 19 \ vineri \ 14:5:2021 \ 19:22:11
+[' Răsarit = 05:41:00 Apus = 20:45:27 Min (°C) = 7.76 Max (°C) =15.72 Presiune = 1006 Umiditate (%) = 72 Index UV = 0.47 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = nori 10-25%']
+Frasin: 19 \ sâmbătă \ 15:5:2021 \ 19:21:32
+[' Răsarit = 05:39:45 Apus = 20:46:44 Min (°C) = 9.81 Max (°C) =18.8 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.45 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 10-25%']
+Frasin: 19 \ duminică \ 16:5:2021 \ 19:22:10
+[' Răsarit = 05:38:31 Apus = 20:48:01 Min (°C) = 8.39 Max (°C) =18.07 Presiune = 1006 Umiditate (%) = 52 Index UV = 0.27 Viteza vântului = 6.17 Unghiul vântului = 150 Stare = cer senin']
+Frasin: 20 \ luni \ 17:5:2021 \ 19:22:50
+[' Răsarit = 05:37:20 Apus = 20:49:17 Min (°C) = 9.27 Max (°C) =18.83 Presiune = 998 Umiditate (%) = 50 Index UV = 0.55 Viteza vântului = 0.45 Unghiul vântului = 225 Stare = nori 25-50%']
+Frasin: 20 \ marți \ 18:5:2021 \ 19:22:22
+[' Răsarit = 05:36:11 Apus = 20:50:32 Min (°C) = 9.59 Max (°C) =14.27 Presiune = 1003 Umiditate (%) = 90 Index UV = 0.15 Viteza vântului = 4.36 Unghiul vântului = 270 Stare = nori 85-100%']
+Frasin: 20 \ miercuri \ 19:5:2021 \ 19:21:00
+[' Răsarit = 05:35:03 Apus = 20:51:46 Min (°C) = 9.32 Max (°C) =16.6 Presiune = 1010 Umiditate (%) = 85 Index UV = 0.52 Viteza vântului = 1.58 Unghiul vântului = 40 Stare = nori 85-100%']
+Frasin: 20 \ joi \ 20:5:2021 \ 19:21:40
+[' Răsarit = 05:33:58 Apus = 20:52:59 Min (°C) = 8.06 Max (°C) =13.17 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.51 Viteza vântului = 3 Unghiul vântului = 355 Stare = nori 85-100%']
+Frasin: 20 \ vineri \ 21:5:2021 \ 19:22:03
+[' Răsarit = 05:32:54 Apus = 20:54:11 Min (°C) = 7.74 Max (°C) =17.88 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.62 Viteza vântului = 1.81 Unghiul vântului = 127 Stare = nori 25-50%']
+Frasin: 20 \ sâmbătă \ 22:5:2021 \ 19:22:26
+[' Răsarit = 05:31:53 Apus = 20:55:22 Min (°C) = 5.8 Max (°C) =21.1 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 4.61 Unghiul vântului = 263 Stare = nori 50-85%']
+Frasin: 20 \ duminică \ 23:5:2021 \ 19:22:32
+[' Răsarit = 05:30:54 Apus = 20:56:31 Min (°C) = 10.21 Max (°C) =19.65 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.5 Viteza vântului = 3.94 Unghiul vântului = 96 Stare = nori 85-100%']
+Frasin: 21 \ luni \ 24:5:2021 \ 19:21:12
+[' Răsarit = 05:29:56 Apus = 20:57:40 Min (°C) = 9.52 Max (°C) =18.41 Presiune = 1023 Umiditate (%) = 63 Index UV = 0.58 Viteza vântului = 2.9 Unghiul vântului = 95 Stare = nori 50-85%']
+Frasin: 21 \ marți \ 25:5:2021 \ 19:21:21
+[' Răsarit = 05:29:01 Apus = 20:58:47 Min (°C) = 9.41 Max (°C) =26.41 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.67 Viteza vântului = 0.16 Unghiul vântului = 257 Stare = nori 50-85%']
+Frasin: 21 \ miercuri \ 26:5:2021 \ 19:24:02
+[' Răsarit = 05:28:09 Apus = 20:59:53 Min (°C) = 11.11 Max (°C) =16.92 Presiune = 1019 Umiditate (%) = 82 Index UV = 0.4 Viteza vântului = 1.32 Unghiul vântului = 93 Stare = nori 85-100%']
+Frasin: 21 \ joi \ 27:5:2021 \ 19:21:26
+[' Răsarit = 05:27:18 Apus = 21:00:58 Min (°C) = 11.34 Max (°C) =19.61 Presiune = 1013 Umiditate (%) = 87 Index UV = 0.6 Viteza vântului = 1.26 Unghiul vântului = 70 Stare = nori 85-100%']
+Frasin: 21 \ vineri \ 28:5:2021 \ 19:21:26
+[' Răsarit = 05:26:30 Apus = 21:02:01 Min (°C) = 10.99 Max (°C) =14.36 Presiune = 1014 Umiditate (%) = 97 Index UV = 0.03 Viteza vântului = 1.73 Unghiul vântului = 308 Stare = ploaie ușoară']
+Frasin: 21 \ sâmbătă \ 29:5:2021 \ 19:20:59
+[' Răsarit = 05:25:44 Apus = 21:03:02 Min (°C) = 10.39 Max (°C) =16.02 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.16 Viteza vântului = 0.78 Unghiul vântului = 18 Stare = nori 85-100%']
+Frasin: 21 \ duminică \ 30:5:2021 \ 19:20:46
+[' Răsarit = 05:25:00 Apus = 21:04:02 Min (°C) = 8.03 Max (°C) =14.76 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.08 Viteza vântului = 1.71 Unghiul vântului = 59 Stare = nori 50-85%']
+Frasin: 22 \ marți \ 01:6:2021 \ 19:22:29
+[' Răsarit = 05:23:39 Apus = 21:05:58 Min (°C) = 7.84 Max (°C) =11.31 Presiune = 1017 Umiditate (%) = 95 Index UV = 0.27 Viteza vântului = 2.12 Unghiul vântului = 347 Stare = nori 85-100%']
+Frasin: 22 \ miercuri \ 02:6:2021 \ 19:18:36
+[' Răsarit = 05:23:03 Apus = 21:06:53 Min (°C) = 6.92 Max (°C) =12.36 Presiune = 1022 Umiditate (%) = 94 Index UV = 0.08 Viteza vântului = 2.82 Unghiul vântului = 27 Stare = nori 85-100%']
+Frasin: 22 \ joi \ 03:6:2021 \ 19:19:03
+[' Răsarit = 05:22:29 Apus = 21:07:46 Min (°C) = 8.2 Max (°C) =17.07 Presiune = 1023 Umiditate (%) = 79 Index UV = 0.69 Viteza vântului = 2.71 Unghiul vântului = 351 Stare = nori 85-100%']
+Frasin: 22 \ vineri \ 04:6:2021 \ 19:28:11
+[' Răsarit = 05:21:57 Apus = 21:08:38 Min (°C) = 7.72 Max (°C) =18.84 Presiune = 1023 Umiditate (%) = 67 Index UV = 0.7 Viteza vântului = 1.75 Unghiul vântului = 16 Stare = nori 50-85%']
+Frasin: 22 \ sâmbătă \ 05:6:2021 \ 19:25:36
+[' Răsarit = 05:21:27 Apus = 21:09:27 Min (°C) = 9.64 Max (°C) =21.87 Presiune = 1019 Umiditate (%) = 96 Index UV = 0.14 Viteza vântului = 0.82 Unghiul vântului = 212 Stare = ploaie ușoară']
+Frasin: 22 \ duminică \ 06:6:2021 \ 19:21:56
+[' Răsarit = 05:21:01 Apus = 21:10:15 Min (°C) = 10 Max (°C) =19.89 Presiune = 1016 Umiditate (%) = 76 Index UV = 0.75 Viteza vântului = 2.52 Unghiul vântului = 358 Stare = nori 50-85%']
+Frasin: 23 \ luni \ 07:6:2021 \ 19:21:48
+[' Răsarit = 05:20:36 Apus = 21:11:01 Min (°C) = 9.57 Max (°C) =21.19 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.72 Viteza vântului = 1.77 Unghiul vântului = 1 Stare = nori 50-85%']
+Frasin: 23 \ marți \ 08:6:2021 \ 19:20:50
+[' Răsarit = 05:20:14 Apus = 21:11:44 Min (°C) = 10.35 Max (°C) =19.93 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.74 Viteza vântului = 2.28 Unghiul vântului = 340 Stare = nori 25-50%']
+Frasin: 23 \ miercuri \ 09:6:2021 \ 19:22:25
+[' Răsarit = 05:19:55 Apus = 21:12:26 Min (°C) = 10.92 Max (°C) =20.46 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.72 Viteza vântului = 2.1 Unghiul vântului = 332 Stare = nori 25-50%']
+Frasin: 23 \ joi \ 10:6:2021 \ 19:21:09
+[' Răsarit = 05:19:38 Apus = 21:13:05 Min (°C) = 10.39 Max (°C) =19.46 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.72 Viteza vântului = 2.98 Unghiul vântului = 345 Stare = nori 25-50%']
+Frasin: 23 \ vineri \ 11:6:2021 \ 19:21:17
+[' Răsarit = 05:19:24 Apus = 21:13:43 Min (°C) = 10.29 Max (°C) =21.37 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.72 Viteza vântului = 1.51 Unghiul vântului = 3 Stare = ploaie ușoară']
+Frasin: 23 \ sâmbătă \ 12:6:2021 \ 19:21:32
+[' Răsarit = 05:19:12 Apus = 21:14:18 Min (°C) = 10.81 Max (°C) =20.58 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.68 Viteza vântului = 0.52 Unghiul vântului = 345 Stare = nori 50-85%']
+Frasin: 23 \ duminică \ 13:6:2021 \ 19:27:12
+[' Răsarit = 05:19:03 Apus = 21:14:51 Min (°C) = 9.98 Max (°C) =15.99 Presiune = 1013 Umiditate (%) = 63 Index UV = 0.65 Viteza vântului = 3.69 Unghiul vântului = 347 Stare = nori 50-85%']
+Frasin: 24 \ luni \ 14:6:2021 \ 19:21:25
+[' Răsarit = 05:18:56 Apus = 21:15:21 Min (°C) = 9.51 Max (°C) =12.2 Presiune = 1016 Umiditate (%) = 97 Index UV = 0.04 Viteza vântului = 1.96 Unghiul vântului = 268 Stare = nori 85-100%']
+Frasin: 24 \ marți \ 15:6:2021 \ 19:23:48
+[' Răsarit = 05:18:52 Apus = 21:15:49 Min (°C) = 10.42 Max (°C) =18.63 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.68 Viteza vântului = 3.31 Unghiul vântului = 338 Stare = nori 85-100%']
+Frasin: 24 \ miercuri \ 16:6:2021 \ 19:23:04
+[' Răsarit = 05:18:50 Apus = 21:16:15 Min (°C) = 12.25 Max (°C) =21.65 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.76 Viteza vântului = 3.14 Unghiul vântului = 357 Stare = nori 50-85%']
+Frasin: 24 \ joi \ 17:6:2021 \ 19:21:55
+[' Răsarit = 05:18:51 Apus = 21:16:38 Min (°C) = 12.14 Max (°C) =20.65 Presiune = 1020 Umiditate (%) = 90 Index UV = 0.71 Viteza vântului = 2.19 Unghiul vântului = 355 Stare = nori 85-100%']
+Frasin: 24 \ vineri \ 18:6:2021 \ 19:22:26
+[' Răsarit = 05:18:54 Apus = 21:16:59 Min (°C) = 14.18 Max (°C) =20.73 Presiune = 1017 Umiditate (%) = 99 Index UV = 0.31 Viteza vântului = 4.68 Unghiul vântului = 58 Stare = ploaie ușoară']
+Frasin: 24 \ sâmbătă \ 19:6:2021 \ 19:22:02
+[' Răsarit = 05:19:00 Apus = 21:17:18 Min (°C) = 13.1 Max (°C) =20.39 Presiune = 1017 Umiditate (%) = 91 Index UV = 0.66 Viteza vântului = 1.71 Unghiul vântului = 94 Stare = nori 85-100%']
+Frasin: 24 \ duminică \ 20:6:2021 \ 19:22:51
+[' Răsarit = 05:19:09 Apus = 21:17:34 Min (°C) = 12.36 Max (°C) =20.72 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.7 Viteza vântului = 1.68 Unghiul vântului = 15 Stare = nori 85-100%']
+Frasin: 25 \ luni \ 21:6:2021 \ 19:23:18
+[' Răsarit = 05:19:19 Apus = 21:17:48 Min (°C) = 15.14 Max (°C) =24.96 Presiune = 1011 Umiditate (%) = 75 Index UV = 0.78 Viteza vântului = 2.75 Unghiul vântului = 116 Stare = nori 50-85%']
+Frasin: 25 \ marți \ 22:6:2021 \ 19:23:00
+[' Răsarit = 05:19:33 Apus = 21:17:59 Min (°C) = 14.62 Max (°C) =27.12 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.78 Viteza vântului = 1.61 Unghiul vântului = 87 Stare = cer senin']
+Frasin: 25 \ miercuri \ 23:6:2021 \ 19:21:52
+[' Răsarit = 05:19:49 Apus = 21:18:07 Min (°C) = 16.35 Max (°C) =28.71 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.8 Viteza vântului = 1.71 Unghiul vântului = 35 Stare = nori 10-25%']
+Frasin: 25 \ joi \ 24:6:2021 \ 19:22:27
+[' Răsarit = 05:20:07 Apus = 21:18:13 Min (°C) = 17.44 Max (°C) =29.36 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.83 Viteza vântului = 1.3 Unghiul vântului = 73 Stare = cer senin']
+Frasin: 25 \ vineri \ 25:6:2021 \ 19:22:03
+[' Răsarit = 05:20:27 Apus = 21:18:16 Min (°C) = 17.66 Max (°C) =30.45 Presiune = 1017 Umiditate (%) = 91 Index UV = 0.33 Viteza vântului = 2.38 Unghiul vântului = 279 Stare = ploaie moderată']
+Frasin: 25 \ sâmbătă \ 26:6:2021 \ 19:21:31
+[' Răsarit = 05:20:50 Apus = 21:18:17 Min (°C) = 16.21 Max (°C) =28.1 Presiune = 1013 Umiditate (%) = 84 Index UV = 0.67 Viteza vântului = 0.83 Unghiul vântului = 346 Stare = nori 25-50%']
+Frasin: 25 \ duminică \ 27:6:2021 \ 19:21:23
+[' Răsarit = 05:21:16 Apus = 21:18:15 Min (°C) = 14.24 Max (°C) =24.26 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.68 Viteza vântului = 1.48 Unghiul vântului = 4 Stare = nori 50-85%']
+Frasin: 26 \ luni \ 28:6:2021 \ 19:24:37
+[' Răsarit = 05:21:43 Apus = 21:18:11 Min (°C) = 15.6 Max (°C) =23.83 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.72 Viteza vântului = 1.01 Unghiul vântului = 26 Stare = nori 25-50%']
+Frasin: 26 \ marți \ 29:6:2021 \ 19:23:22
+[' Răsarit = 05:22:13 Apus = 21:18:04 Min (°C) = 14.06 Max (°C) =26.39 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.69 Viteza vântului = 0.85 Unghiul vântului = 66 Stare = nori 50-85%']
+Frasin: 26 \ miercuri \ 30:6:2021 \ 19:22:13
+[' Răsarit = 05:22:45 Apus = 21:17:54 Min (°C) = 15.85 Max (°C) =31.21 Presiune = 1012 Umiditate (%) = 89 Index UV = 0.75 Viteza vântului = 2.69 Unghiul vântului = 100 Stare = ploaie intensă']
+Frasin: 26 \ joi \ 01:7:2021 \ 19:23:09
+[' Răsarit = 05:23:19 Apus = 21:17:42 Min (°C) = 16.18 Max (°C) =26.82 Presiune = 1009 Umiditate (%) = 65 Index UV = 0.21 Viteza vântului = 1.36 Unghiul vântului = 241 Stare = nori 50-85%']
+Frasin: 26 \ vineri \ 02:7:2021 \ 19:21:33
+[' Răsarit = 05:23:56 Apus = 21:17:27 Min (°C) = 13.26 Max (°C) =20.38 Presiune = 1011 Umiditate (%) = 93 Index UV = 0.58 Viteza vântului = 1.62 Unghiul vântului = 270 Stare = nori 85-100%']
+Frasin: 26 \ sâmbătă \ 03:7:2021 \ 19:21:58
+[' Răsarit = 05:24:34 Apus = 21:17:10 Min (°C) = 12.55 Max (°C) =21.37 Presiune = 1010 Umiditate (%) = 84 Index UV = 0.58 Viteza vântului = 1.41 Unghiul vântului = 267 Stare = ploaie ușoară']
+Frasin: 26 \ duminică \ 04:7:2021 \ 19:21:39
+[' Răsarit = 05:25:14 Apus = 21:16:50 Min (°C) = 13.02 Max (°C) =21.04 Presiune = 1009 Umiditate (%) = 81 Index UV = 0.55 Viteza vântului = 1.89 Unghiul vântului = 1 Stare = nori 85-100%']
+Frasin: 27 \ luni \ 05:7:2021 \ 19:21:54
+[' Răsarit = 05:25:57 Apus = 21:16:27 Min (°C) = 13.22 Max (°C) =22.23 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.67 Viteza vântului = 1.59 Unghiul vântului = 301 Stare = nori 85-100%']
+Frasin: 27 \ marți \ 06:7:2021 \ 19:22:46
+[' Răsarit = 05:26:41 Apus = 21:16:02 Min (°C) = 15.66 Max (°C) =25.13 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.77 Viteza vântului = 2.81 Unghiul vântului = 17 Stare = nori 25-50%']
+Frasin: 27 \ miercuri \ 07:7:2021 \ 19:21:27
+[' Răsarit = 05:27:28 Apus = 21:15:35 Min (°C) = 15.64 Max (°C) =26.17 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.79 Viteza vântului = 3.46 Unghiul vântului = 67 Stare = nori 10-25%']
+Frasin: 27 \ joi \ 08:7:2021 \ 19:22:55
+[' Răsarit = 05:28:16 Apus = 21:15:05 Min (°C) = 16.74 Max (°C) =26.73 Presiune = 1023 Umiditate (%) = 67 Index UV = 0.76 Viteza vântului = 3.32 Unghiul vântului = 119 Stare = cer senin']
+Frasin: 27 \ vineri \ 09:7:2021 \ 19:22:07
+[' Răsarit = 05:29:06 Apus = 21:14:32 Min (°C) = 16.03 Max (°C) =27.46 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.77 Viteza vântului = 4.03 Unghiul vântului = 110 Stare = cer senin']
+Frasin: 27 \ sâmbătă \ 10:7:2021 \ 19:21:23
+[' Răsarit = 05:29:58 Apus = 21:13:57 Min (°C) = 15.96 Max (°C) =27.54 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.72 Viteza vântului = 2.57 Unghiul vântului = 101 Stare = cer senin']
+Frasin: 27 \ duminică \ 11:7:2021 \ 19:21:38
+[' Răsarit = 05:30:51 Apus = 21:13:20 Min (°C) = 14.96 Max (°C) =26.84 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.69 Viteza vântului = 2.78 Unghiul vântului = 101 Stare = cer senin']
+Frasin: 28 \ luni \ 12:7:2021 \ 19:22:24
+[' Răsarit = 05:31:46 Apus = 21:12:40 Min (°C) = 15.27 Max (°C) =27.73 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.59 Viteza vântului = 1.31 Unghiul vântului = 132 Stare = nori 50-85%']
+Frasin: 28 \ marți \ 13:7:2021 \ 19:22:14
+[' Răsarit = 05:32:43 Apus = 21:11:58 Min (°C) = 15.52 Max (°C) =28.29 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.75 Viteza vântului = 3.22 Unghiul vântului = 129 Stare = nori 25-50%']
+Frasin: 28 \ miercuri \ 14:7:2021 \ 19:21:44
+[' Răsarit = 05:33:41 Apus = 21:11:13 Min (°C) = 16.79 Max (°C) =30.29 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.76 Viteza vântului = 2.67 Unghiul vântului = 107 Stare = cer senin']
+Frasin: 28 \ joi \ 15:7:2021 \ 19:21:25
+[' Răsarit = 05:34:41 Apus = 21:10:26 Min (°C) = 18.06 Max (°C) =31.26 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.41 Viteza vântului = 2.81 Unghiul vântului = 99 Stare = cer senin']
+Frasin: 28 \ vineri \ 16:7:2021 \ 19:21:46
+[' Răsarit = 05:35:42 Apus = 21:09:37 Min (°C) = 18.3 Max (°C) =28.57 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.3 Viteza vântului = 1.43 Unghiul vântului = 77 Stare = nori 50-85%']
+Frasin: 28 \ sâmbătă \ 17:7:2021 \ 19:22:14
+[' Răsarit = 05:36:44 Apus = 21:08:45 Min (°C) = 16.36 Max (°C) =29.05 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.68 Viteza vântului = 2.54 Unghiul vântului = 89 Stare = cer senin']
+Frasin: 28 \ duminică \ 18:7:2021 \ 19:22:35
+[' Răsarit = 05:37:48 Apus = 21:07:51 Min (°C) = 18.49 Max (°C) =29.17 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.64 Viteza vântului = 1.57 Unghiul vântului = 103 Stare = nori 25-50%']
+Frasin: 29 \ luni \ 19:7:2021 \ 19:21:52
+[' Răsarit = 05:38:53 Apus = 21:06:55 Min (°C) = 17.04 Max (°C) =26.33 Presiune = 1011 Umiditate (%) = 97 Index UV = 0.4 Viteza vântului = 1.91 Unghiul vântului = 77 Stare = ploaie ușoară']
+Frasin: 29 \ marți \ 20:7:2021 \ 19:21:58
+[' Răsarit = 05:39:59 Apus = 21:05:57 Min (°C) = 16.51 Max (°C) =20.16 Presiune = 1009 Umiditate (%) = 99 Index UV = 0.06 Viteza vântului = 1.4 Unghiul vântului = 326 Stare = ploaie ușoară']
+Frasin: 29 \ miercuri \ 21:7:2021 \ 19:21:12
+[' Răsarit = 05:41:06 Apus = 21:04:57 Min (°C) = 13.18 Max (°C) =17.39 Presiune = 1018 Umiditate (%) = 96 Index UV = 0.12 Viteza vântului = 1.9 Unghiul vântului = 331 Stare = nori 85-100%']
+Frasin: 29 \ joi \ 22:7:2021 \ 19:21:24
+[' Răsarit = 05:42:14 Apus = 21:03:54 Min (°C) = 12.55 Max (°C) =21.47 Presiune = 1018 Umiditate (%) = 75 Index UV = 0.48 Viteza vântului = 2.41 Unghiul vântului = 359 Stare = nori 50-85%']
+Frasin: 29 \ vineri \ 23:7:2021 \ 19:21:34
+[' Răsarit = 05:43:24 Apus = 21:02:50 Min (°C) = 11.72 Max (°C) =22.11 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.23 Viteza vântului = 1.6 Unghiul vântului = 35 Stare = nori 85-100%']
+Frasin: 29 \ sâmbătă \ 24:7:2021 \ 19:28:42
+[' Răsarit = 05:44:34 Apus = 21:01:43 Min (°C) = 13.71 Max (°C) =24.09 Presiune = 1017 Umiditate (%) = 71 Index UV = 0.58 Viteza vântului = 1.88 Unghiul vântului = 113 Stare = nori 50-85%']
+Frasin: 29 \ duminică \ 25:7:2021 \ 19:22:16
+[' Răsarit = 05:45:45 Apus = 21:00:35 Min (°C) = 15.2 Max (°C) =25.38 Presiune = 1017 Umiditate (%) = 66 Index UV = 0.57 Viteza vântului = 1.78 Unghiul vântului = 127 Stare = nori 85-100%']
+Frasin: 30 \ luni \ 26:7:2021 \ 19:22:12
+[' Răsarit = 05:46:57 Apus = 20:59:24 Min (°C) = 15.2 Max (°C) =29.44 Presiune = 1018 Umiditate (%) = 80 Index UV = 0.59 Viteza vântului = 1.99 Unghiul vântului = 75 Stare = nori 50-85%']
+Frasin: 30 \ marți \ 27:7:2021 \ 19:24:12
+[' Răsarit = 05:48:10 Apus = 20:58:12 Min (°C) = 17.69 Max (°C) =31.15 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.49 Viteza vântului = 2.35 Unghiul vântului = 265 Stare = nori 25-50%']
+Frasin: 30 \ miercuri \ 28:7:2021 \ 19:24:33
+[' Răsarit = 05:49:24 Apus = 20:56:58 Min (°C) = 18.19 Max (°C) =31.57 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.53 Viteza vântului = 1.44 Unghiul vântului = 279 Stare = nori 50-85%']
+Frasin: 30 \ joi \ 29:7:2021 \ 19:23:22
+[' Răsarit = 05:50:38 Apus = 20:55:41 Min (°C) = 18.04 Max (°C) =31.51 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.36 Viteza vântului = 3.3 Unghiul vântului = 295 Stare = nori 50-85%']
+Frasin: 30 \ vineri \ 30:7:2021 \ 19:21:38
+[' Răsarit = 05:51:53 Apus = 20:54:23 Min (°C) = 16.1 Max (°C) =29.28 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.52 Viteza vântului = 0.34 Unghiul vântului = 339 Stare = cer senin']
+Frasin: 30 \ sâmbătă \ 31:7:2021 \ 19:21:20
+[' Răsarit = 05:53:09 Apus = 20:53:04 Min (°C) = 15.4 Max (°C) =30.36 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.56 Viteza vântului = 2.46 Unghiul vântului = 136 Stare = nori 10-25%']
+Frasin: 30 \ duminică \ 01:8:2021 \ 19:22:03
+[' Răsarit = 05:54:25 Apus = 20:51:42 Min (°C) = 15.48 Max (°C) =30.26 Presiune = 1009 Umiditate (%) = 56 Index UV = 0.55 Viteza vântului = 2.43 Unghiul vântului = 120 Stare = cer senin']
+Frasin: 31 \ luni \ 02:8:2021 \ 19:21:05
+[' Răsarit = 05:55:42 Apus = 20:50:19 Min (°C) = 16.65 Max (°C) =29.62 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.51 Viteza vântului = 1.38 Unghiul vântului = 334 Stare = nori 25-50%']
+Frasin: 31 \ marți \ 03:8:2021 \ 19:21:48
+[' Răsarit = 05:56:59 Apus = 20:48:54 Min (°C) = 13.49 Max (°C) =22.18 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.42 Viteza vântului = 1.29 Unghiul vântului = 104 Stare = nori 50-85%']
+Frasin: 31 \ miercuri \ 04:8:2021 \ 19:19:18
+[' Răsarit = 05:58:17 Apus = 20:47:28 Min (°C) = 13.94 Max (°C) =27.73 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.43 Viteza vântului = 0.49 Unghiul vântului = 269 Stare = nori 50-85%']
+Frasin: 31 \ joi \ 05:8:2021 \ 19:18:20
+[' Răsarit = 05:59:35 Apus = 20:45:59 Min (°C) = 15.4 Max (°C) =30.26 Presiune = 1007 Umiditate (%) = 83 Index UV = 0.33 Viteza vântului = 5.68 Unghiul vântului = 267 Stare = nori 85-100%']
+Frasin: 31 \ vineri \ 06:8:2021 \ 19:21:37
+[' Răsarit = 06:00:53 Apus = 20:44:30 Min (°C) = 15.33 Max (°C) =25.02 Presiune = 1005 Umiditate (%) = 57 Index UV = 0.27 Viteza vântului = 5.04 Unghiul vântului = 260 Stare = nori 25-50%']
+Frasin: 31 \ sâmbătă \ 07:8:2021 \ 19:21:18
+[' Răsarit = 06:02:12 Apus = 20:42:58 Min (°C) = 11.15 Max (°C) =26.27 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.46 Viteza vântului = 1.19 Unghiul vântului = 75 Stare = nori 85-100%']
+Frasin: 31 \ duminică \ 08:8:2021 \ 19:21:06
+[' Răsarit = 06:03:31 Apus = 20:41:26 Min (°C) = 12.89 Max (°C) =29.42 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.45 Viteza vântului = 2.04 Unghiul vântului = 97 Stare = cer senin']
+Frasin: 32 \ luni \ 09:8:2021 \ 19:22:31
+[' Răsarit = 06:04:50 Apus = 20:39:52 Min (°C) = 17.29 Max (°C) =29.15 Presiune = 1019 Umiditate (%) = 80 Index UV = 0.43 Viteza vântului = 0.86 Unghiul vântului = 257 Stare = nori 85-100%']
+Frasin: 32 \ marți \ 10:8:2021 \ 19:22:40
+[' Răsarit = 06:06:10 Apus = 20:38:16 Min (°C) = 15.62 Max (°C) =25.73 Presiune = 1018 Umiditate (%) = 75 Index UV = 0.42 Viteza vântului = 1.24 Unghiul vântului = 356 Stare = nori 85-100%']
+Frasin: 32 \ miercuri \ 11:8:2021 \ 19:18:01
+[' Răsarit = 06:07:30 Apus = 20:36:39 Min (°C) = 14.73 Max (°C) =28.35 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.42 Viteza vântului = 1.77 Unghiul vântului = 3 Stare = nori 50-85%']
+Frasin: 32 \ joi \ 12:8:2021 \ 19:19:38
+[' Răsarit = 06:08:50 Apus = 20:35:01 Min (°C) = 14.41 Max (°C) =22.12 Presiune = 1022 Umiditate (%) = 62 Index UV = 0.29 Viteza vântului = 1.66 Unghiul vântului = 8 Stare = nori 85-100%']
+Frasin: 32 \ vineri \ 13:8:2021 \ 19:18:08
+[' Răsarit = 06:10:10 Apus = 20:33:21 Min (°C) = 12.19 Max (°C) =25.14 Presiune = 1023 Umiditate (%) = 50 Index UV = 0.37 Viteza vântului = 2.63 Unghiul vântului = 44 Stare = nori 50-85%']
+Frasin: 32 \ sâmbătă \ 14:8:2021 \ 19:20:14
+[' Răsarit = 06:11:30 Apus = 20:31:40 Min (°C) = 12.87 Max (°C) =28.21 Presiune = 1020 Umiditate (%) = 48 Index UV = 0.37 Viteza vântului = 1.67 Unghiul vântului = 64 Stare = nori 25-50%']
+Frasin: 32 \ duminică \ 15:8:2021 \ 19:18:33
+[' Răsarit = 06:12:50 Apus = 20:29:58 Min (°C) = 15.26 Max (°C) =30.05 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.25 Viteza vântului = 0.39 Unghiul vântului = 358 Stare = nori 25-50%']
+Frasin: 33 \ luni \ 16:8:2021 \ 19:18:11
+[' Răsarit = 06:14:11 Apus = 20:28:15 Min (°C) = 17.49 Max (°C) =31.62 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.19 Viteza vântului = 1.97 Unghiul vântului = 106 Stare = nori 25-50%']
+Frasin: 33 \ marți \ 17:8:2021 \ 19:18:39
+[' Răsarit = 06:15:31 Apus = 20:26:31 Min (°C) = 18.71 Max (°C) =33.47 Presiune = 1012 Umiditate (%) = 76 Index UV = 0.33 Viteza vântului = 1.8 Unghiul vântului = 223 Stare = nori 85-100%']
+Frasin: 33 \ miercuri \ 18:8:2021 \ 19:18:26
+[' Răsarit = 06:16:52 Apus = 20:24:45 Min (°C) = 13.39 Max (°C) =16.11 Presiune = 1014 Umiditate (%) = 91 Index UV = 0.12 Viteza vântului = 0.13 Unghiul vântului = 245 Stare = nori 85-100%']
+Frasin: 33 \ joi \ 19:8:2021 \ 19:18:09
+[' Răsarit = 06:18:12 Apus = 20:22:58 Min (°C) = 11.92 Max (°C) =23.08 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.33 Viteza vântului = 1.46 Unghiul vântului = 35 Stare = nori 25-50%']
+Frasin: 33 \ vineri \ 20:8:2021 \ 19:18:18
+[' Răsarit = 06:19:33 Apus = 20:21:11 Min (°C) = 10.64 Max (°C) =23.87 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.32 Viteza vântului = 1.62 Unghiul vântului = 52 Stare = nori 10-25%']
+Frasin: 33 \ sâmbătă \ 21:8:2021 \ 19:19:36
+[' Răsarit = 06:20:54 Apus = 20:19:22 Min (°C) = 11.89 Max (°C) =24.74 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.28 Viteza vântului = 1.4 Unghiul vântului = 12 Stare = nori 85-100%']
+Frasin: 33 \ duminică \ 22:8:2021 \ 19:18:30
+[' Răsarit = 06:22:14 Apus = 20:17:32 Min (°C) = 13.19 Max (°C) =23.62 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.2 Viteza vântului = 1.16 Unghiul vântului = 28 Stare = ploaie ușoară']
+Frasin: 34 \ luni \ 23:8:2021 \ 19:18:20
+[' Răsarit = 06:23:35 Apus = 20:15:41 Min (°C) = 14.23 Max (°C) =26.47 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.09 Viteza vântului = 1.89 Unghiul vântului = 164 Stare = nori 85-100%']
+Frasin: 34 \ marți \ 24:8:2021 \ 19:18:23
+[' Răsarit = 06:24:55 Apus = 20:13:50 Min (°C) = 16.32 Max (°C) =28 Presiune = 1015 Umiditate (%) = 76 Index UV = 0.22 Viteza vântului = 1.37 Unghiul vântului = 196 Stare = nori 85-100%']
+Frasin: 34 \ miercuri \ 25:8:2021 \ 19:18:25
+[' Răsarit = 06:26:15 Apus = 20:11:57 Min (°C) = 12.67 Max (°C) =16.05 Presiune = 1014 Umiditate (%) = 95 Index UV = 0.07 Viteza vântului = 0.98 Unghiul vântului = 20 Stare = ploaie ușoară']
+Frasin: 34 \ joi \ 26:8:2021 \ 19:20:00
+[' Răsarit = 06:27:36 Apus = 20:10:04 Min (°C) = 11.49 Max (°C) =21.41 Presiune = 1010 Umiditate (%) = 62 Index UV = 0.19 Viteza vântului = 1.02 Unghiul vântului = 340 Stare = nori 25-50%']
+Frasin: 34 \ vineri \ 27:8:2021 \ 19:22:20
+[' Răsarit = 06:28:56 Apus = 20:08:10 Min (°C) = 9.49 Max (°C) =23.14 Presiune = 1011 Umiditate (%) = 95 Index UV = 0.04 Viteza vântului = 1.9 Unghiul vântului = 243 Stare = nori 85-100%']
+Frasin: 34 \ sâmbătă \ 28:8:2021 \ 19:23:42
+[' Răsarit = 06:30:16 Apus = 20:06:15 Min (°C) = 9.01 Max (°C) =21.37 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.04 Viteza vântului = 2.67 Unghiul vântului = 113 Stare = nori 50-85%']
+Frasin: 34 \ duminică \ 29:8:2021 \ 19:22:50
+[' Răsarit = 06:31:36 Apus = 20:04:19 Min (°C) = 12.33 Max (°C) =18.79 Presiune = 1009 Umiditate (%) = 83 Index UV = 0.18 Viteza vântului = 1.19 Unghiul vântului = 56 Stare = nori 25-50%']
+Frasin: 35 \ luni \ 30:8:2021 \ 19:22:50
+[' Răsarit = 06:32:56 Apus = 20:02:22 Min (°C) = 14.08 Max (°C) =22.89 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.08 Viteza vântului = 4.46 Unghiul vântului = 256 Stare = nori 10-25%']
+Frasin: 35 \ marți \ 31:8:2021 \ 19:22:56
+[' Răsarit = 06:34:16 Apus = 20:00:25 Min (°C) = 9.48 Max (°C) =20.46 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.19 Viteza vântului = 2.44 Unghiul vântului = 251 Stare = nori 25-50%']
+Frasin: 35 \ miercuri \ 01:9:2021 \ 19:22:20
+[' Răsarit = 06:35:36 Apus = 19:58:27 Min (°C) = 10.98 Max (°C) =15.54 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.16 Viteza vântului = 2.77 Unghiul vântului = 318 Stare = nori 50-85%']
+Frasin: 35 \ joi \ 02:9:2021 \ 19:26:48
+[' Răsarit = 06:36:56 Apus = 19:56:29 Min (°C) = 9.65 Max (°C) =16.36 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.18 Viteza vântului = 3.41 Unghiul vântului = 346 Stare = nori 25-50%']
+Frasin: 35 \ vineri \ 03:9:2021 \ 19:21:32
+[' Răsarit = 06:38:16 Apus = 19:54:30 Min (°C) = 7.71 Max (°C) =21.18 Presiune = 1018 Umiditate (%) = 57 Index UV = 0.18 Viteza vântului = 0.38 Unghiul vântului = 58 Stare = nori 50-85%']
+Frasin: 35 \ sâmbătă \ 04:9:2021 \ 19:20:43
+[' Răsarit = 06:39:36 Apus = 19:52:30 Min (°C) = 8.75 Max (°C) =22.45 Presiune = 1017 Umiditate (%) = 76 Index UV = 0.17 Viteza vântului = 1.85 Unghiul vântului = 12 Stare = nori 85-100%']
+Frasin: 35 \ duminică \ 05:9:2021 \ 19:22:16
+[' Răsarit = 06:40:55 Apus = 19:50:30 Min (°C) = 9.24 Max (°C) =14.99 Presiune = 1024 Umiditate (%) = 63 Index UV = 0.15 Viteza vântului = 0.16 Unghiul vântului = 102 Stare = nori 85-100%']
+Frasin: 36 \ luni \ 06:9:2021 \ 19:23:19
+[' Răsarit = 06:42:15 Apus = 19:48:29 Min (°C) = 5.08 Max (°C) =18.11 Presiune = 1025 Umiditate (%) = 55 Index UV = 0.15 Viteza vântului = 2.14 Unghiul vântului = 101 Stare = nori 10-25%']
+Frasin: 36 \ marți \ 07:9:2021 \ 19:23:36
+[' Răsarit = 06:43:34 Apus = 19:46:28 Min (°C) = 6.73 Max (°C) =22.68 Presiune = 1024 Umiditate (%) = 58 Index UV = 0.13 Viteza vântului = 2.28 Unghiul vântului = 115 Stare = cer senin']
+Frasin: 36 \ miercuri \ 08:9:2021 \ 19:22:42
+[' Răsarit = 06:44:54 Apus = 19:44:27 Min (°C) = 8.9 Max (°C) =21.69 Presiune = 1024 Umiditate (%) = 61 Index UV = 0.14 Viteza vântului = 2.23 Unghiul vântului = 109 Stare = cer senin']
+Frasin: 36 \ joi \ 09:9:2021 \ 19:24:19
+[' Răsarit = 06:46:13 Apus = 19:42:25 Min (°C) = 9.36 Max (°C) =23.16 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.13 Viteza vântului = 1.64 Unghiul vântului = 111 Stare = cer senin']
+Frasin: 36 \ vineri \ 10:9:2021 \ 19:24:38
+[' Răsarit = 06:47:33 Apus = 19:40:22 Min (°C) = 10.01 Max (°C) =22.9 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.11 Viteza vântului = 1.13 Unghiul vântului = 80 Stare = nori 85-100%']
+Frasin: 36 \ sâmbătă \ 11:9:2021 \ 19:21:48
+[' Răsarit = 06:48:52 Apus = 19:38:20 Min (°C) = 10.58 Max (°C) =24.05 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.09 Viteza vântului = 1.33 Unghiul vântului = 93 Stare = nori 85-100%']
+Frasin: 36 \ duminică \ 12:9:2021 \ 19:22:15
+[' Răsarit = 06:50:12 Apus = 19:36:17 Min (°C) = 11.48 Max (°C) =24 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.09 Viteza vântului = 0.99 Unghiul vântului = 66 Stare = nori 85-100%']
+Frasin: 37 \ luni \ 13:9:2021 \ 19:22:48
+[' Răsarit = 06:51:31 Apus = 19:34:13 Min (°C) = 11.86 Max (°C) =24.96 Presiune = 1015 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 347 Stare = nori 50-85%']
+Frasin: 37 \ marți \ 14:9:2021 \ 19:24:13
+[' Răsarit = 06:52:50 Apus = 19:32:10 Min (°C) = 11.87 Max (°C) =21.35 Presiune = 1018 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 349 Stare = nori 85-100%']
+Frasin: 37 \ joi \ 16:9:2021 \ 19:22:23
+[' Răsarit = 06:55:29 Apus = 19:28:03 Min (°C) = 12.08 Max (°C) =25.68 Presiune = 1015 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 176 Stare = nori 85-100%']
+Frasin: 37 \ vineri \ 17:9:2021 \ 19:24:12
+[' Răsarit = 06:56:49 Apus = 19:25:59 Min (°C) = 15.67 Max (°C) =23.26 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 189 Stare = nori 50-85%']
+Frasin: 37 \ sâmbătă \ 18:9:2021 \ 19:24:17
+[' Răsarit = 06:58:09 Apus = 19:23:55 Min (°C) = 11.91 Max (°C) =17.73 Presiune = 1010 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.23 Unghiul vântului = 310 Stare = nori 25-50%']
+Frasin: 37 \ duminică \ 19:9:2021 \ 19:23:10
+[' Răsarit = 06:59:28 Apus = 19:21:51 Min (°C) = 7.61 Max (°C) =14.38 Presiune = 1012 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 63 Stare = nori 85-100%']
+Frasin: 38 \ luni \ 20:9:2021 \ 19:23:45
+[' Răsarit = 07:00:48 Apus = 19:19:46 Min (°C) = 6.42 Max (°C) =11.94 Presiune = 1016 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 27 Stare = nori 85-100%']
+Frasin: 38 \ marți \ 21:9:2021 \ 19:22:09
+[' Răsarit = 07:02:08 Apus = 19:17:42 Min (°C) = 5.03 Max (°C) =14.85 Presiune = 1022 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 5 Stare = nori 85-100%']
+Frasin: 38 \ miercuri \ 22:9:2021 \ 19:23:20
+[' Răsarit = 07:03:28 Apus = 19:15:38 Min (°C) = 4.21 Max (°C) =11.14 Presiune = 1019 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 356 Stare = ploaie ușoară']
+Frasin: 38 \ joi \ 23:9:2021 \ 19:21:26
+[' Răsarit = 07:04:48 Apus = 19:13:34 Min (°C) = 5.04 Max (°C) =11.1 Presiune = 1018 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 236 Stare = nori 85-100%']
+Frasin: 39 \ luni \ 27:9:2021 \ 19:21:03
+[' Răsarit = 07:10:11 Apus = 19:05:20 Min (°C) = 9.97 Max (°C) =16.41 Presiune = 1020 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 85 Stare = nori 50-85%']
+Frasin: 39 \ marți \ 28:9:2021 \ 19:24:11
+[' Răsarit = 07:11:32 Apus = 19:03:17 Min (°C) = 6.45 Max (°C) =13.3 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 83 Stare = nori 85-100%']
+Frasin: 39 \ miercuri \ 29:9:2021 \ 19:24:57
+[' Răsarit = 07:12:53 Apus = 19:01:14 Min (°C) = 5.36 Max (°C) =13.77 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 131 Stare = nori 25-50%']
+Frasin: 39 \ joi \ 30:9:2021 \ 19:21:58
+[' Răsarit = 07:14:15 Apus = 18:59:11 Min (°C) = 4.08 Max (°C) =16.5 Presiune = 1027 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 120 Stare = nori 25-50%']
+Frasin: 39 \ vineri \ 01:10:2021 \ 19:23:37
+[' Răsarit = 07:15:37 Apus = 18:57:09 Min (°C) = 5.12 Max (°C) =14.92 Presiune = 1028 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 118 Stare = nori 85-100%']
+Frasin: 39 \ sâmbătă \ 02:10:2021 \ 19:22:21
+[' Răsarit = 07:16:59 Apus = 18:55:07 Min (°C) = 4.36 Max (°C) =16.07 Presiune = 1025 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 116 Stare = nori 10-25%']
+Frasin: 39 \ duminică \ 03:10:2021 \ 19:21:29
+[' Răsarit = 07:18:21 Apus = 18:53:06 Min (°C) = 4.92 Max (°C) =17.85 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 114 Stare = cer senin']
+Frasin: 40 \ luni \ 04:10:2021 \ 19:26:32
+[' Răsarit = 07:19:44 Apus = 18:51:05 Min (°C) = 6.09 Max (°C) =18.23 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 105 Stare = nori 50-85%']
+Frasin: 40 \ marți \ 05:10:2021 \ 19:23:56
+[' Răsarit = 07:21:07 Apus = 18:49:04 Min (°C) = 5.45 Max (°C) =16.24 Presiune = 1026 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 134 Stare = cer senin']
+Frasin: 40 \ miercuri \ 06:10:2021 \ 19:21:40
+[' Răsarit = 07:22:30 Apus = 18:47:04 Min (°C) = 3.02 Max (°C) =13.86 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 143 Stare = nori 10-25%']
+Frasin: 40 \ joi \ 07:10:2021 \ 19:24:06
+[' Răsarit = 07:23:53 Apus = 18:45:05 Min (°C) = 2.1 Max (°C) =9.49 Presiune = 1030 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 118 Stare = nori 85-100%']
+Frasin: 40 \ vineri \ 08:10:2021 \ 19:23:38
+[' Răsarit = 07:25:17 Apus = 18:43:06 Min (°C) = -0.59 Max (°C) =9.65 Presiune = 1032 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 39 Stare = nori 50-85%']
+Frasin: 40 \ sâmbătă \ 09:10:2021 \ 19:21:36
+[' Răsarit = 07:26:41 Apus = 18:41:08 Min (°C) = -0.57 Max (°C) =8.78 Presiune = 1032 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 21 Stare = nori 50-85%']
+Frasin: 40 \ duminică \ 10:10:2021 \ 19:22:51
+[' Răsarit = 07:28:06 Apus = 18:39:10 Min (°C) = 0.18 Max (°C) =11.03 Presiune = 1029 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 125 Stare = nori 10-25%']
+Frasin: 41 \ luni \ 11:10:2021 \ 19:23:01
+[' Răsarit = 07:29:31 Apus = 18:37:14 Min (°C) = 1.47 Max (°C) =14.6 Presiune = 1018 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 114 Stare = nori 85-100%']
+Frasin: 41 \ marți \ 12:10:2021 \ 19:23:01
+[' Răsarit = 07:30:56 Apus = 18:35:17 Min (°C) = 4.75 Max (°C) =7.97 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 355 Stare = nori 85-100%']
+Frasin: 41 \ miercuri \ 13:10:2021 \ 19:22:57
+[' Răsarit = 07:32:22 Apus = 18:33:22 Min (°C) = 2.34 Max (°C) =10.89 Presiune = 1017 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 353 Stare = nori 85-100%']
+Frasin: 41 \ joi \ 14:10:2021 \ 19:22:44
+[' Răsarit = 07:33:48 Apus = 18:31:28 Min (°C) = 4.19 Max (°C) =9.8 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 122 Stare = nori 85-100%']
+Frasin: 41 \ vineri \ 15:10:2021 \ 19:21:18
+[' Răsarit = 07:35:14 Apus = 18:29:34 Min (°C) = 1.12 Max (°C) =13.9 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 100 Stare = nori 25-50%']
+Frasin: 41 \ sâmbătă \ 16:10:2021 \ 19:21:45
+[' Răsarit = 07:36:41 Apus = 18:27:41 Min (°C) = 7.37 Max (°C) =8.08 Presiune = 1020 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 278 Stare = nori 85-100%']
+Frasin: 41 \ duminică \ 17:10:2021 \ 19:20:58
+[' Răsarit = 07:38:08 Apus = 18:25:49 Min (°C) = 4.45 Max (°C) =12.63 Presiune = 1021 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 121 Stare = nori 85-100%']
+Frasin: 42 \ luni \ 18:10:2021 \ 19:21:06
+[' Răsarit = 07:39:35 Apus = 18:23:58 Min (°C) = 2.3 Max (°C) =12.63 Presiune = 1025 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 64 Stare = nori 85-100%']
+Frasin: 42 \ marți \ 19:10:2021 \ 19:22:50
+[' Răsarit = 07:41:03 Apus = 18:22:08 Min (°C) = 3.58 Max (°C) =11.11 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 193 Stare = nori 85-100%']
+Frasin: 42 \ miercuri \ 20:10:2021 \ 19:20:31
+[' Răsarit = 07:42:31 Apus = 18:20:19 Min (°C) = 4.35 Max (°C) =16.78 Presiune = 1021 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 238 Stare = nori 50-85%']
+Frasin: 42 \ joi \ 21:10:2021 \ 19:22:35
+[' Răsarit = 07:44:00 Apus = 18:18:32 Min (°C) = 7.42 Max (°C) =19.51 Presiune = 1011 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 5.29 Unghiul vântului = 239 Stare = nori 85-100%']
+Frasin: 42 \ vineri \ 22:10:2021 \ 19:18:54
+[' Răsarit = 07:45:29 Apus = 18:16:45 Min (°C) = 8.94 Max (°C) =15.86 Presiune = 1016 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.35 Unghiul vântului = 236 Stare = nori 85-100%']
+Frasin: 42 \ sâmbătă \ 23:10:2021 \ 19:20:50
+[' Răsarit = 07:46:58 Apus = 18:14:59 Min (°C) = 5.65 Max (°C) =13.25 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 306 Stare = nori 85-100%']
+Frasin: 42 \ duminică \ 24:10:2021 \ 19:20:40
+[' Răsarit = 07:48:27 Apus = 18:13:15 Min (°C) = 0.94 Max (°C) =9.2 Presiune = 1034 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 23 Stare = cer senin']
+Frasin: 43 \ luni \ 25:10:2021 \ 19:20:00
+[' Răsarit = 07:49:57 Apus = 18:11:31 Min (°C) = -0.47 Max (°C) =10.92 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 152 Stare = cer senin']
+Frasin: 43 \ marți \ 26:10:2021 \ 19:19:11
+[' Răsarit = 07:51:27 Apus = 18:09:49 Min (°C) = 2.25 Max (°C) =15.54 Presiune = 1023 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 208 Stare = cer senin']
+Frasin: 43 \ miercuri \ 27:10:2021 \ 19:22:02
+[' Răsarit = 07:52:57 Apus = 18:08:09 Min (°C) = 3.02 Max (°C) =14.03 Presiune = 1027 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.19 Unghiul vântului = 157 Stare = nori 25-50%']
+Frasin: 43 \ joi \ 28:10:2021 \ 19:19:35
+[' Răsarit = 07:54:28 Apus = 18:06:29 Min (°C) = 4.06 Max (°C) =15.54 Presiune = 1027 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 181 Stare = nori 50-85%']
+Frasin: 43 \ vineri \ 29:10:2021 \ 19:20:09
+[' Răsarit = 07:55:59 Apus = 18:04:51 Min (°C) = 5.54 Max (°C) =16.05 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 145 Stare = nori 50-85%']
+Frasin: 43 \ sâmbătă \ 30:10:2021 \ 19:19:49
+[' Răsarit = 07:57:30 Apus = 18:03:15 Min (°C) = 4.62 Max (°C) =17.6 Presiune = 1023 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 159 Stare = cer senin']
+Frasin: 43 \ duminică \ 31:10:2021 \ 19:19:43
+[' Răsarit = 06:59:01 Apus = 17:01:40 Min (°C) = 4.21 Max (°C) =15.53 Presiune = 1021 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 163 Stare = cer senin']
+Frasin: 44 \ luni \ 01:11:2021 \ 19:20:04
+[' Răsarit = 07:00:32 Apus = 17:00:06 Min (°C) = 1.33 Max (°C) =14.22 Presiune = 1012 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 220 Stare = cer senin']
+Frasin: 44 \ marți \ 02:11:2021 \ 19:20:19
+[' Răsarit = 07:02:04 Apus = 16:58:34 Min (°C) = 1.39 Max (°C) =12.81 Presiune = 1004 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 217 Stare = nori 85-100%']
+Frasin: 44 \ miercuri \ 03:11:2021 \ 19:19:52
+[' Răsarit = 07:03:35 Apus = 16:57:03 Min (°C) = 5.62 Max (°C) =14.05 Presiune = 1016 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 235 Stare = nori 50-85%']
+Frasin: 44 \ joi \ 04:11:2021 \ 19:17:58
+[' Răsarit = 07:05:07 Apus = 16:55:34 Min (°C) = 7.59 Max (°C) =21.42 Presiune = 1013 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 223 Stare = nori 85-100%']
+Frasin: 44 \ vineri \ 05:11:2021 \ 19:24:31
+[' Răsarit = 07:06:39 Apus = 16:54:07 Min (°C) = 10.63 Max (°C) =21.91 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 332 Stare = nori 50-85%']
+Frasin: 44 \ sâmbătă \ 06:11:2021 \ 19:21:59
+[' Răsarit = 07:08:10 Apus = 16:52:41 Min (°C) = 5.26 Max (°C) =10.7 Presiune = 1028 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 190 Stare = ploaie ușoară']
+Frasin: 44 \ duminică \ 07:11:2021 \ 19:21:51
+[' Răsarit = 07:09:42 Apus = 16:51:17 Min (°C) = 4.59 Max (°C) =14.66 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 232 Stare = nori 85-100%']
+Frasin: 45 \ luni \ 08:11:2021 \ 19:21:35
+[' Răsarit = 07:11:14 Apus = 16:49:55 Min (°C) = 5.19 Max (°C) =10.53 Presiune = 1021 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 93 Stare = nori 85-100%']
+Frasin: 45 \ marți \ 09:11:2021 \ 19:16:38
+[' Răsarit = 07:12:45 Apus = 16:48:35 Min (°C) = 2.93 Max (°C) =8.73 Presiune = 1034 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 353 Stare = nori 85-100%']
+Frasin: 45 \ miercuri \ 10:11:2021 \ 19:21:34
+[' Răsarit = 07:14:16 Apus = 16:47:16 Min (°C) = 0.18 Max (°C) =10.94 Presiune = 1034 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 206 Stare = cer senin']
+Frasin: 45 \ joi \ 11:11:2021 \ 19:22:09
+[' Răsarit = 07:15:47 Apus = 16:46:00 Min (°C) = 3.34 Max (°C) =14.61 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 244 Stare = nori 50-85%']
+Frasin: 45 \ vineri \ 12:11:2021 \ 19:21:20
+[' Răsarit = 07:17:18 Apus = 16:44:45 Min (°C) = 3.86 Max (°C) =12.8 Presiune = 1024 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0.04 Unghiul vântului = 13 Stare = cer senin']
+Frasin: 45 \ sâmbătă \ 13:11:2021 \ 19:21:16
+[' Răsarit = 07:18:49 Apus = 16:43:32 Min (°C) = 3.21 Max (°C) =12.21 Presiune = 1021 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 194 Stare = nori 50-85%']
+Frasin: 45 \ duminică \ 14:11:2021 \ 19:23:52
+[' Răsarit = 07:20:19 Apus = 16:42:22 Min (°C) = 3.53 Max (°C) =9.97 Presiune = 1025 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 289 Stare = nori 10-25%']
+Frasin: 46 \ luni \ 15:11:2021 \ 19:22:37
+[' Răsarit = 07:21:49 Apus = 16:41:13 Min (°C) = 2.3 Max (°C) =7.98 Presiune = 1032 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 93 Stare = nori 85-100%']
+Frasin: 46 \ marți \ 16:11:2021 \ 19:22:24
+[' Răsarit = 07:23:18 Apus = 16:40:07 Min (°C) = 1.86 Max (°C) =8.61 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 155 Stare = cer senin']
+Frasin: 46 \ miercuri \ 17:11:2021 \ 19:22:01
+[' Răsarit = 07:24:47 Apus = 16:39:02 Min (°C) = -1.17 Max (°C) =8.78 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 226 Stare = nori 10-25%']
+Frasin: 46 \ joi \ 18:11:2021 \ 19:18:38
+[' Răsarit = 07:26:15 Apus = 16:38:00 Min (°C) = 0.55 Max (°C) =8.03 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 34 Stare = nori 50-85%']
+Frasin: 46 \ vineri \ 19:11:2021 \ 19:18:52
+[' Răsarit = 07:27:42 Apus = 16:37:00 Min (°C) = 1.73 Max (°C) =5.84 Presiune = 1020 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 247 Stare = nori 85-100%']
+Frasin: 46 \ sâmbătă \ 20:11:2021 \ 19:18:34
+[' Răsarit = 07:29:09 Apus = 16:36:02 Min (°C) = 2.81 Max (°C) =8.81 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 244 Stare = cer senin']
+Frasin: 46 \ duminică \ 21:11:2021 \ 19:18:19
+[' Răsarit = 07:30:35 Apus = 16:35:07 Min (°C) = 1.13 Max (°C) =10.8 Presiune = 1012 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 245 Stare = nori 25-50%']
+Frasin: 47 \ luni \ 22:11:2021 \ 19:18:46
+[' Răsarit = 07:32:00 Apus = 16:34:14 Min (°C) = 1.68 Max (°C) =7.2 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 89 Stare = nori 85-100%']
+Frasin: 47 \ marți \ 23:11:2021 \ 19:18:37
+[' Răsarit = 07:33:24 Apus = 16:33:23 Min (°C) = -0.2 Max (°C) =4.39 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 252 Stare = nori 50-85%']
+Frasin: 47 \ miercuri \ 24:11:2021 \ 19:20:52
+[' Răsarit = 07:34:48 Apus = 16:32:35 Min (°C) = -0.99 Max (°C) =5.25 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 216 Stare = nori 10-25%']
+Frasin: 47 \ joi \ 25:11:2021 \ 19:18:17
+[' Răsarit = 07:36:10 Apus = 16:31:49 Min (°C) = -1.31 Max (°C) =8.74 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 236 Stare = cer senin']
+Frasin: 47 \ vineri \ 26:11:2021 \ 19:18:22
+[' Răsarit = 07:37:31 Apus = 16:31:06 Min (°C) = 0.4 Max (°C) =10.58 Presiune = 997 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 185 Stare = nori 85-100%']
+Frasin: 47 \ sâmbătă \ 27:11:2021 \ 19:18:21
+[' Răsarit = 07:38:51 Apus = 16:30:25 Min (°C) = 3.29 Max (°C) =8.74 Presiune = 1002 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 235 Stare = nori 50-85%']
+Frasin: 47 \ duminică \ 28:11:2021 \ 19:18:56
+[' Răsarit = 07:40:09 Apus = 16:29:47 Min (°C) = 3.25 Max (°C) =12.24 Presiune = 999 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 222 Stare = nori 85-100%']
+Frasin: 48 \ luni \ 29:11:2021 \ 19:20:53
+[' Răsarit = 07:41:27 Apus = 16:29:11 Min (°C) = 0.95 Max (°C) =7.84 Presiune = 996 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.77 Unghiul vântului = 262 Stare = nori 50-85%']
+Frasin: 48 \ marți \ 30:11:2021 \ 19:19:03
+[' Răsarit = 07:42:43 Apus = 16:28:38 Min (°C) = -0.78 Max (°C) =4.03 Presiune = 1004 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 6.3 Unghiul vântului = 243 Stare = nori 25-50%']
+Frasin: 48 \ miercuri \ 01:12:2021 \ 19:19:20
+[' Răsarit = 07:43:57 Apus = 16:28:08 Min (°C) = -0.11 Max (°C) =5.24 Presiune = 1008 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 224 Stare = nori 50-85%']
+Frasin: 48 \ joi \ 02:12:2021 \ 19:18:39
+[' Răsarit = 07:45:10 Apus = 16:27:40 Min (°C) = 1.51 Max (°C) =7.42 Presiune = 1003 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 212 Stare = nori 85-100%']
+Frasin: 48 \ vineri \ 03:12:2021 \ 19:18:45
+[' Răsarit = 07:46:21 Apus = 16:27:15 Min (°C) = -3.39 Max (°C) =4.45 Presiune = 1014 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 317 Stare = nori 85-100%']
+Frasin: 48 \ sâmbătă \ 04:12:2021 \ 19:19:18
+[' Răsarit = 07:47:31 Apus = 16:26:53 Min (°C) = -7.01 Max (°C) =3.81 Presiune = 1011 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 231 Stare = nori 25-50%']
+Frasin: 48 \ duminică \ 05:12:2021 \ 19:19:01
+[' Răsarit = 07:48:39 Apus = 16:26:34 Min (°C) = -4.29 Max (°C) =4.91 Presiune = 1010 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 236 Stare = nori 85-100%']
+Frasin: 49 \ luni \ 06:12:2021 \ 19:18:55
+[' Răsarit = 07:49:45 Apus = 16:26:17 Min (°C) = -2.44 Max (°C) =4.81 Presiune = 1008 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 258 Stare = nori 50-85%']
+Frasin: 49 \ marți \ 07:12:2021 \ 19:18:52
+[' Răsarit = 07:50:49 Apus = 16:26:03 Min (°C) = -1.9 Max (°C) =1.14 Presiune = 1011 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 325 Stare = zăpadă slabă']
+Frasin: 49 \ miercuri \ 08:12:2021 \ 19:18:51
+[' Răsarit = 07:51:51 Apus = 16:25:52 Min (°C) = -3.78 Max (°C) =1.22 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 286 Stare = nori 85-100%']
+Frasin: 49 \ joi \ 09:12:2021 \ 19:18:55
+[' Răsarit = 07:52:51 Apus = 16:25:44 Min (°C) = -4.16 Max (°C) =4.25 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 174 Stare = nori 85-100%']
+Frasin: 49 \ vineri \ 10:12:2021 \ 19:21:37
+[' Răsarit = 07:53:50 Apus = 16:25:39 Min (°C) = -3.09 Max (°C) =6.74 Presiune = 1005 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 246 Stare = nori 85-100%']
+Frasin: 49 \ sâmbătă \ 11:12:2021 \ 19:21:07
+[' Răsarit = 07:54:46 Apus = 16:25:37 Min (°C) = 0.5 Max (°C) =7.76 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 57 Stare = nori 85-100%']
+Frasin: 49 \ duminică \ 12:12:2021 \ 19:21:30
+[' Răsarit = 07:55:39 Apus = 16:25:37 Min (°C) = 1.97 Max (°C) =2.81 Presiune = 1017 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 289 Stare = nori 85-100%']
+Frasin: 50 \ luni \ 13:12:2021 \ 19:22:02
+[' Răsarit = 07:56:31 Apus = 16:25:40 Min (°C) = -2.38 Max (°C) =3.25 Presiune = 1025 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 0 Stare = nori 85-100%']
+Frasin: 50 \ marți \ 14:12:2021 \ 19:23:37
+[' Răsarit = 07:57:20 Apus = 16:25:46 Min (°C) = -7.53 Max (°C) =1.36 Presiune = 1028 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 335 Stare = nori 85-100%']
+Frasin: 50 \ miercuri \ 15:12:2021 \ 19:21:38
+[' Răsarit = 07:58:07 Apus = 16:25:55 Min (°C) = -3.73 Max (°C) =2.65 Presiune = 1030 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 299 Stare = nori 85-100%']
+Frasin: 50 \ joi \ 16:12:2021 \ 19:21:02
+[' Răsarit = 07:58:51 Apus = 16:26:07 Min (°C) = -6.16 Max (°C) =3.54 Presiune = 1026 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 248 Stare = nori 85-100%']
+Frasin: 50 \ vineri \ 17:12:2021 \ 19:25:15
+[' Răsarit = 07:59:33 Apus = 16:26:22 Min (°C) = -0.25 Max (°C) =3.34 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 301 Stare = zăpadă slabă']
+Frasin: 50 \ sâmbătă \ 18:12:2021 \ 19:20:27
+[' Răsarit = 08:00:13 Apus = 16:26:40 Min (°C) = -2.42 Max (°C) =0.57 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 256 Stare = nori 85-100%']
+Frasin: 50 \ duminică \ 19:12:2021 \ 19:20:52
+[' Răsarit = 08:00:50 Apus = 16:27:00 Min (°C) = -1.8 Max (°C) =3.54 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 245 Stare = nori 50-85%']
+Frasin: 51 \ luni \ 20:12:2021 \ 19:21:19
+[' Răsarit = 08:01:24 Apus = 16:27:23 Min (°C) = -3.82 Max (°C) =1.28 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 252 Stare = nori 85-100%']
+Frasin: 51 \ marți \ 21:12:2021 \ 19:23:28
+[' Răsarit = 08:01:55 Apus = 16:27:49 Min (°C) = -11.51 Max (°C) =-3.93 Presiune = 1026 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 320 Stare = nori 85-100%']
+Frasin: 51 \ miercuri \ 22:12:2021 \ 19:21:34
+[' Răsarit = 08:02:24 Apus = 16:28:18 Min (°C) = -12.66 Max (°C) =-3.94 Presiune = 1031 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 245 Stare = nori 50-85%']
+Frasin: 51 \ joi \ 23:12:2021 \ 19:21:50
+[' Răsarit = 08:02:51 Apus = 16:28:50 Min (°C) = -13.72 Max (°C) =-4.01 Presiune = 1022 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 235 Stare = nori 50-85%']
+Frasin: 51 \ vineri \ 24:12:2021 \ 19:21:57
+[' Răsarit = 08:03:14 Apus = 16:29:24 Min (°C) = -6.1 Max (°C) =4.67 Presiune = 1002 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 254 Stare = nori 85-100%']
+Frasin: 51 \ sâmbătă \ 25:12:2021 \ 19:22:11
+[' Răsarit = 08:03:35 Apus = 16:30:01 Min (°C) = -4.1 Max (°C) =6.1 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 57 Stare = zăpadă slabă']
+Frasin: 51 \ duminică \ 26:12:2021 \ 19:23:22
+[' Răsarit = 08:03:53 Apus = 16:30:40 Min (°C) = -7.07 Max (°C) =-3.99 Presiune = 1019 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 59 Stare = nori 85-100%']
+Frasin: 52 \ luni \ 27:12:2021 \ 19:21:31
+[' Răsarit = 08:04:08 Apus = 16:31:23 Min (°C) = -7.07 Max (°C) =-2.43 Presiune = 1016 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 82 Stare = zăpadă slabă']
+Frasin: 52 \ marți \ 28:12:2021 \ 19:22:11
+[' Răsarit = 08:04:21 Apus = 16:32:07 Min (°C) = -7.47 Max (°C) =-2.18 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 88 Stare = nori 85-100%']
+Frasin: 52 \ miercuri \ 29:12:2021 \ 19:21:21
+[' Răsarit = 08:04:30 Apus = 16:32:54 Min (°C) = -7.74 Max (°C) =3.27 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 188 Stare = nori 85-100%']
+Frasin: 52 \ joi \ 30:12:2021 \ 19:22:26
+[' Răsarit = 08:04:37 Apus = 16:33:44 Min (°C) = -2.94 Max (°C) =4.32 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 242 Stare = nori 85-100%']
+Frasin: 52 \ vineri \ 31:12:2021 \ 19:18:46
+[' Răsarit = 08:04:41 Apus = 16:34:36 Min (°C) = 0.83 Max (°C) =6.36 Presiune = 1018 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 245 Stare = nori 85-100%']
+Frasin: 00 \ sâmbătă \ 01:1:2022 \ 19:19:29
+[' Răsarit = 08:04:42 Apus = 16:35:30 Min (°C) = 3.64 Max (°C) =6.51 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 261 Stare = nori 85-100%']
+Frasin: 00 \ duminică \ 02:1:2022 \ 19:18:17
+[' Răsarit = 08:04:41 Apus = 16:36:27 Min (°C) = 1.2 Max (°C) =7.06 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 237 Stare = nori 50-85%']
+Frasin: 01 \ luni \ 03:1:2022 \ 19:18:04
+[' Răsarit = 08:04:36 Apus = 16:37:26 Min (°C) = 3.32 Max (°C) =8.9 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.1 Unghiul vântului = 274 Stare = nori 50-85%']
+Frasin: 01 \ marți \ 04:1:2022 \ 19:18:09
+[' Răsarit = 08:04:29 Apus = 16:38:27 Min (°C) = 1.75 Max (°C) =8.04 Presiune = 1005 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.7 Unghiul vântului = 221 Stare = nori 85-100%']
+Frasin: 01 \ miercuri \ 05:1:2022 \ 19:19:43
+[' Răsarit = 08:04:19 Apus = 16:39:30 Min (°C) = 8.51 Max (°C) =10.93 Presiune = 1000 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.94 Unghiul vântului = 241 Stare = nori 50-85%']
+Frasin: 01 \ joi \ 06:1:2022 \ 19:18:33
+[' Răsarit = 08:04:06 Apus = 16:40:35 Min (°C) = -0.8 Max (°C) =9.75 Presiune = 1012 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 133 Stare = zăpadă slabă']
+Frasin: 01 \ vineri \ 07:1:2022 \ 19:19:55
+[' Răsarit = 08:03:50 Apus = 16:41:43 Min (°C) = -5.45 Max (°C) =0 Presiune = 1025 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 143 Stare = nori 25-50%']
+Frasin: 01 \ sâmbătă \ 08:1:2022 \ 19:19:15
+[' Răsarit = 08:03:32 Apus = 16:42:52 Min (°C) = -6.44 Max (°C) =3.16 Presiune = 1014 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 213 Stare = nori 85-100%']
+Frasin: 01 \ duminică \ 09:1:2022 \ 19:18:45
+[' Răsarit = 08:03:10 Apus = 16:44:03 Min (°C) = -1.91 Max (°C) =5.25 Presiune = 1008 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 39 Stare = nori 85-100%']
+Frasin: 02 \ luni \ 10:1:2022 \ 19:18:46
+[' Răsarit = 08:02:46 Apus = 16:45:15 Min (°C) = -3.3 Max (°C) =-0.17 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 10 Stare = nori 85-100%']
+Frasin: 02 \ marți \ 11:1:2022 \ 19:20:14
+[' Răsarit = 08:02:20 Apus = 16:46:30 Min (°C) = -7.45 Max (°C) =-3.08 Presiune = 1033 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 309 Stare = nori 50-85%']
+Frasin: 02 \ miercuri \ 12:1:2022 \ 19:18:48
+[' Răsarit = 08:01:51 Apus = 16:47:46 Min (°C) = -11.31 Max (°C) =-4.34 Presiune = 1037 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 262 Stare = cer senin']
+Frasin: 02 \ joi \ 13:1:2022 \ 19:19:48
+[' Răsarit = 08:01:19 Apus = 16:49:03 Min (°C) = -12.62 Max (°C) =1.35 Presiune = 1030 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.43 Unghiul vântului = 248 Stare = nori 85-100%']
+Frasin: 02 \ vineri \ 14:1:2022 \ 19:19:08
+[' Răsarit = 08:00:44 Apus = 16:50:22 Min (°C) = -6.33 Max (°C) =3.24 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.19 Unghiul vântului = 256 Stare = cer senin']
+Frasin: 02 \ sâmbătă \ 15:1:2022 \ 19:18:52
+[' Răsarit = 08:00:07 Apus = 16:51:43 Min (°C) = -6.02 Max (°C) =2.91 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 279 Stare = cer senin']
+Frasin: 02 \ duminică \ 16:1:2022 \ 19:18:12
+[' Răsarit = 07:59:27 Apus = 16:53:05 Min (°C) = -10.34 Max (°C) =2.03 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 241 Stare = nori 50-85%']
+Frasin: 03 \ luni \ 17:1:2022 \ 19:18:19
+[' Răsarit = 07:58:45 Apus = 16:54:28 Min (°C) = -3.51 Max (°C) =1.76 Presiune = 1005 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 7.25 Unghiul vântului = 268 Stare = nori 85-100%']
+Frasin: 03 \ marți \ 18:1:2022 \ 19:18:21
+[' Răsarit = 07:58:00 Apus = 16:55:52 Min (°C) = -5.79 Max (°C) =-0.83 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.69 Unghiul vântului = 309 Stare = nori 50-85%']
+Frasin: 03 \ miercuri \ 19:1:2022 \ 19:18:33
+[' Răsarit = 07:57:13 Apus = 16:57:17 Min (°C) = -8.15 Max (°C) =1.68 Presiune = 1026 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 239 Stare = cer senin']
+Frasin: 03 \ joi \ 20:1:2022 \ 19:18:51
+[' Răsarit = 07:56:24 Apus = 16:58:44 Min (°C) = -6.5 Max (°C) =3.34 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 276 Stare = nori 50-85%']
+Frasin: 03 \ vineri \ 21:1:2022 \ 19:18:24
+[' Răsarit = 07:55:32 Apus = 17:00:11 Min (°C) = -6.33 Max (°C) =-1.16 Presiune = 1017 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.42 Unghiul vântului = 266 Stare = nori 25-50%']
+Frasin: 03 \ sâmbătă \ 22:1:2022 \ 19:21:19
+[' Răsarit = 07:54:38 Apus = 17:01:40 Min (°C) = -8.3 Max (°C) =-2.35 Presiune = 1019 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 297 Stare = zăpadă slabă']
+Frasin: 03 \ duminică \ 23:1:2022 \ 19:21:31
+[' Răsarit = 07:53:41 Apus = 17:03:09 Min (°C) = -8.99 Max (°C) =-5.54 Presiune = 1030 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 2 Stare = zăpadă slabă']
+Frasin: 04 \ luni \ 24:1:2022 \ 19:22:02
+[' Răsarit = 07:52:42 Apus = 17:04:39 Min (°C) = -12.44 Max (°C) =-4.69 Presiune = 1038 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 261 Stare = nori 25-50%']
+Frasin: 04 \ marți \ 25:1:2022 \ 19:22:02
+[' Răsarit = 07:51:41 Apus = 17:06:10 Min (°C) = -13.68 Max (°C) =-1.55 Presiune = 1027 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 248 Stare = nori 85-100%']
+Frasin: 04 \ miercuri \ 26:1:2022 \ 19:21:51
+[' Răsarit = 07:50:38 Apus = 17:07:41 Min (°C) = -7.51 Max (°C) =1.27 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 254 Stare = zăpadă slabă']
+Frasin: 04 \ joi \ 27:1:2022 \ 19:21:49
+[' Răsarit = 07:49:33 Apus = 17:09:13 Min (°C) = -6.75 Max (°C) =1.59 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 240 Stare = nori 85-100%']
+Frasin: 04 \ vineri \ 28:1:2022 \ 19:21:50
+[' Răsarit = 07:48:25 Apus = 17:10:46 Min (°C) = -4.88 Max (°C) =3.17 Presiune = 1014 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.02 Unghiul vântului = 269 Stare = nori 85-100%']
+Frasin: 04 \ sâmbătă \ 29:1:2022 \ 19:21:31
+[' Răsarit = 07:47:16 Apus = 17:12:19 Min (°C) = -6.92 Max (°C) =1.16 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 238 Stare = nori 10-25%']
+Frasin: 04 \ duminică \ 30:1:2022 \ 19:18:51
+[' Răsarit = 07:46:04 Apus = 17:13:53 Min (°C) = -4.51 Max (°C) =4.34 Presiune = 1003 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 7.45 Unghiul vântului = 268 Stare = nori 50-85%']
+Frasin: 05 \ luni \ 31:1:2022 \ 19:18:51
+[' Răsarit = 07:44:51 Apus = 17:15:27 Min (°C) = -3.33 Max (°C) =2.13 Presiune = 1007 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 244 Stare = nori 50-85%']
+Frasin: 05 \ marți \ 01:2:2022 \ 19:18:39
+[' Răsarit = 07:43:35 Apus = 17:17:01 Min (°C) = -6.88 Max (°C) =0.68 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 195 Stare = nori 85-100%']
+Frasin: 05 \ miercuri \ 02:2:2022 \ 19:18:51
+[' Răsarit = 07:42:18 Apus = 17:18:35 Min (°C) = -7.67 Max (°C) =2.29 Presiune = 1007 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 246 Stare = nori 50-85%']
+Frasin: 05 \ joi \ 03:2:2022 \ 19:18:37
+[' Răsarit = 07:40:59 Apus = 17:20:10 Min (°C) = -7.46 Max (°C) =0.51 Presiune = 1023 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 259 Stare = nori 25-50%']
+Frasin: 05 \ vineri \ 04:2:2022 \ 19:18:52
+[' Răsarit = 07:39:38 Apus = 17:21:45 Min (°C) = -8.18 Max (°C) =3.6 Presiune = 1018 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 244 Stare = nori 85-100%']
+Frasin: 05 \ sâmbătă \ 05:2:2022 \ 19:18:37
+[' Răsarit = 07:38:15 Apus = 17:23:20 Min (°C) = -4.57 Max (°C) =6.15 Presiune = 1018 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 85 Stare = snow']
+Frasin: 05 \ duminică \ 06:2:2022 \ 19:18:44
+[' Răsarit = 07:36:50 Apus = 17:24:55 Min (°C) = -6.63 Max (°C) =2.88 Presiune = 1014 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 5.35 Unghiul vântului = 248 Stare = nori 85-100%']
+Frasin: 06 \ luni \ 07:2:2022 \ 19:18:45
+[' Răsarit = 07:35:24 Apus = 17:26:30 Min (°C) = -0.17 Max (°C) =5.41 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 344 Stare = zăpadă slabă']
+Frasin: 06 \ marți \ 08:2:2022 \ 19:18:35
+[' Răsarit = 07:33:56 Apus = 17:28:05 Min (°C) = -4.91 Max (°C) =1.52 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 255 Stare = nori 50-85%']
+Frasin: 06 \ miercuri \ 09:2:2022 \ 19:21:23
+[' Răsarit = 07:32:27 Apus = 17:29:41 Min (°C) = -4.74 Max (°C) =5.21 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 244 Stare = nori 50-85%']
+Frasin: 06 \ joi \ 10:2:2022 \ 19:22:43
+[' Răsarit = 07:30:56 Apus = 17:31:16 Min (°C) = -2.04 Max (°C) =7.86 Presiune = 1024 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 241 Stare = cer senin']
+Frasin: 06 \ vineri \ 11:2:2022 \ 19:21:33
+[' Răsarit = 07:29:23 Apus = 17:32:51 Min (°C) = -1.23 Max (°C) =7.59 Presiune = 1022 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 232 Stare = nori 50-85%']
+Frasin: 06 \ sâmbătă \ 12:2:2022 \ 19:21:57
+[' Răsarit = 07:27:49 Apus = 17:34:26 Min (°C) = -5.39 Max (°C) =2.5 Presiune = 1038 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 270 Stare = nori 25-50%']
+Frasin: 06 \ duminică \ 13:2:2022 \ 19:21:58
+[' Răsarit = 07:26:14 Apus = 17:36:00 Min (°C) = -8 Max (°C) =4.99 Presiune = 1029 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 229 Stare = cer senin']
+Frasin: 07 \ luni \ 14:2:2022 \ 19:21:43
+[' Răsarit = 07:24:37 Apus = 17:37:35 Min (°C) = -6.71 Max (°C) =5.47 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 214 Stare = nori 50-85%']
+Frasin: 07 \ marți \ 15:2:2022 \ 19:20:57
+[' Răsarit = 07:22:59 Apus = 17:39:09 Min (°C) = -3.6 Max (°C) =8.16 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 240 Stare = nori 50-85%']
+Frasin: 07 \ miercuri \ 16:2:2022 \ 19:22:18
+[' Răsarit = 07:21:19 Apus = 17:40:44 Min (°C) = -0.65 Max (°C) =9.35 Presiune = 1013 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 235 Stare = nori 85-100%']
+Frasin: 07 \ joi \ 17:2:2022 \ 19:22:56
+[' Răsarit = 07:19:38 Apus = 17:42:18 Min (°C) = 0.82 Max (°C) =9.15 Presiune = 998 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 9.49 Unghiul vântului = 267 Stare = ploaie ușoară']
+Frasin: 07 \ vineri \ 18:2:2022 \ 19:21:44
+[' Răsarit = 07:17:56 Apus = 17:43:51 Min (°C) = 0.51 Max (°C) =5.69 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 239 Stare = nori 25-50%']
+Frasin: 07 \ sâmbătă \ 19:2:2022 \ 19:21:58
+[' Răsarit = 07:16:13 Apus = 17:45:25 Min (°C) = -0.45 Max (°C) =8.59 Presiune = 1015 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 260 Stare = nori 25-50%']
+Frasin: 07 \ duminică \ 20:2:2022 \ 19:23:14
+[' Răsarit = 07:14:28 Apus = 17:46:58 Min (°C) = 0.71 Max (°C) =7.12 Presiune = 1015 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.45 Unghiul vântului = 254 Stare = nori 25-50%']
+Frasin: 08 \ luni \ 21:2:2022 \ 19:21:26
+[' Răsarit = 07:12:43 Apus = 17:48:31 Min (°C) = 0.86 Max (°C) =8.61 Presiune = 1004 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.67 Unghiul vântului = 221 Stare = nori 85-100%']
+Frasin: 08 \ marți \ 22:2:2022 \ 19:22:48
+[' Răsarit = 07:10:56 Apus = 17:50:03 Min (°C) = 2.27 Max (°C) =7.1 Presiune = 1014 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 349 Stare = nori 85-100%']
+Frasin: 08 \ miercuri \ 23:2:2022 \ 19:22:02
+[' Răsarit = 07:09:08 Apus = 17:51:36 Min (°C) = -0.66 Max (°C) =6.2 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 285 Stare = nori 85-100%']
+Frasin: 08 \ joi \ 24:2:2022 \ 19:21:48
+[' Răsarit = 07:07:20 Apus = 17:53:07 Min (°C) = -1.2 Max (°C) =5.76 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 153 Stare = nori 25-50%']
+Frasin: 08 \ vineri \ 25:2:2022 \ 19:21:50
+[' Răsarit = 07:05:30 Apus = 17:54:39 Min (°C) = -3.03 Max (°C) =9.26 Presiune = 1020 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 26 Stare = nori 85-100%']
+Frasin: 08 \ sâmbătă \ 26:2:2022 \ 19:22:18
+[' Răsarit = 07:03:39 Apus = 17:56:10 Min (°C) = -0.73 Max (°C) =3.93 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 293 Stare = nori 85-100%']
+Frasin: 08 \ duminică \ 27:2:2022 \ 19:21:25
+[' Răsarit = 07:01:47 Apus = 17:57:41 Min (°C) = -2.08 Max (°C) =2.45 Presiune = 1029 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 36 Stare = nori 85-100%']
+Frasin: 09 \ luni \ 28:2:2022 \ 19:22:05
+[' Răsarit = 06:59:55 Apus = 17:59:12 Min (°C) = -2.31 Max (°C) =1.07 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.35 Unghiul vântului = 28 Stare = nori 85-100%']
+Frasin: 09 \ marți \ 01:3:2022 \ 19:22:16
+[' Răsarit = 06:58:02 Apus = 18:00:42 Min (°C) = -3.92 Max (°C) =-0.2 Presiune = 1028 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 348 Stare = zăpadă slabă']
+Frasin: 09 \ miercuri \ 02:3:2022 \ 19:21:16
+[' Răsarit = 06:56:08 Apus = 18:02:12 Min (°C) = -5.11 Max (°C) =0.21 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 311 Stare = nori 85-100%']
+Frasin: 09 \ joi \ 03:3:2022 \ 19:21:55
+[' Răsarit = 06:54:13 Apus = 18:03:42 Min (°C) = -4.12 Max (°C) =2.2 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 355 Stare = zăpadă slabă']
+Frasin: 09 \ vineri \ 04:3:2022 \ 19:21:43
+[' Răsarit = 06:52:17 Apus = 18:05:11 Min (°C) = -6.21 Max (°C) =1.77 Presiune = 1018 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 358 Stare = nori 85-100%']
+Frasin: 09 \ sâmbătă \ 05:3:2022 \ 19:18:57
+[' Răsarit = 06:50:21 Apus = 18:06:40 Min (°C) = -6.8 Max (°C) =1.3 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 289 Stare = nori 85-100%']
+Frasin: 09 \ duminică \ 06:3:2022 \ 19:18:47
+[' Răsarit = 06:48:24 Apus = 18:08:08 Min (°C) = -6.79 Max (°C) =1.47 Presiune = 1021 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 93 Stare = nori 85-100%']
+Frasin: 10 \ luni \ 07:3:2022 \ 19:18:27
+[' Răsarit = 06:46:26 Apus = 18:09:37 Min (°C) = -5.71 Max (°C) =0.2 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 360 Stare = zăpadă slabă']
+Frasin: 10 \ marți \ 08:3:2022 \ 19:18:14
+[' Răsarit = 06:44:28 Apus = 18:11:05 Min (°C) = -7.72 Max (°C) =1 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 335 Stare = zăpadă slabă']
+Frasin: 10 \ miercuri \ 09:3:2022 \ 19:18:24
+[' Răsarit = 06:42:30 Apus = 18:12:32 Min (°C) = -7.29 Max (°C) =-1.2 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 264 Stare = nori 85-100%']
+Frasin: 10 \ joi \ 10:3:2022 \ 19:18:25
+[' Răsarit = 06:40:31 Apus = 18:14:00 Min (°C) = -8.2 Max (°C) =-3.65 Presiune = 1032 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 25 Stare = nori 85-100%']
+Frasin: 10 \ vineri \ 11:3:2022 \ 19:18:20
+[' Răsarit = 06:38:31 Apus = 18:15:27 Min (°C) = -12.76 Max (°C) =-2.92 Presiune = 1033 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.92 Unghiul vântului = 4 Stare = nori 85-100%']
+Frasin: 10 \ sâmbătă \ 12:3:2022 \ 19:18:14
+[' Răsarit = 06:36:31 Apus = 18:16:54 Min (°C) = -12.31 Max (°C) =0.16 Presiune = 1032 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 259 Stare = nori 50-85%']
+Frasin: 10 \ duminică \ 13:3:2022 \ 19:18:27
+[' Răsarit = 06:34:30 Apus = 18:18:20 Min (°C) = -4.57 Max (°C) =0.5 Presiune = 1032 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 54 Stare = zăpadă slabă']
+Frasin: 11 \ luni \ 14:3:2022 \ 19:18:13
+[' Răsarit = 06:32:30 Apus = 18:19:47 Min (°C) = -9.05 Max (°C) =5.35 Presiune = 1037 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 217 Stare = cer senin']
+Frasin: 11 \ marți \ 15:3:2022 \ 19:18:23
+[' Răsarit = 06:30:29 Apus = 18:21:13 Min (°C) = -4.57 Max (°C) =9.61 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 229 Stare = cer senin']
+Frasin: 11 \ miercuri \ 16:3:2022 \ 19:18:30
+[' Răsarit = 06:28:27 Apus = 18:22:39 Min (°C) = -1.33 Max (°C) =5.95 Presiune = 1027 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 75 Stare = nori 85-100%']
+Frasin: 11 \ joi \ 17:3:2022 \ 19:18:27
+[' Răsarit = 06:26:26 Apus = 18:24:04 Min (°C) = -5.21 Max (°C) =1.16 Presiune = 1039 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 16 Stare = nori 85-100%']
+Frasin: 11 \ vineri \ 18:3:2022 \ 19:18:35
+[' Răsarit = 06:24:24 Apus = 18:25:30 Min (°C) = -7.76 Max (°C) =1.16 Presiune = 1045 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 296 Stare = nori 85-100%']
+Frasin: 11 \ sâmbătă \ 19:3:2022 \ 19:18:41
+[' Răsarit = 06:22:22 Apus = 18:26:55 Min (°C) = -7.19 Max (°C) =1.47 Presiune = 1045 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 79 Stare = cer senin']
+Frasin: 11 \ duminică \ 20:3:2022 \ 19:18:33
+[' Răsarit = 06:20:19 Apus = 18:28:20 Min (°C) = -6.45 Max (°C) =3.82 Presiune = 1043 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 289 Stare = cer senin']
+Frasin: 12 \ luni \ 21:3:2022 \ 19:18:53
+[' Răsarit = 06:18:17 Apus = 18:29:45 Min (°C) = -3.67 Max (°C) =8.36 Presiune = 1040 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 279 Stare = cer senin']
+Frasin: 12 \ marți \ 22:3:2022 \ 19:18:36
+[' Răsarit = 06:16:15 Apus = 18:31:10 Min (°C) = -0.94 Max (°C) =10.36 Presiune = 1037 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 294 Stare = cer senin']
+Frasin: 12 \ miercuri \ 23:3:2022 \ 19:18:21
+[' Răsarit = 06:14:12 Apus = 18:32:35 Min (°C) = -0.72 Max (°C) =12.27 Presiune = 1029 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 264 Stare = cer senin']
+Frasin: 12 \ joi \ 24:3:2022 \ 19:18:27
+[' Răsarit = 06:12:10 Apus = 18:34:00 Min (°C) = 0.16 Max (°C) =12.66 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 312 Stare = nori 10-25%']
+Frasin: 12 \ vineri \ 25:3:2022 \ 19:18:28
+[' Răsarit = 06:10:08 Apus = 18:35:24 Min (°C) = 0.28 Max (°C) =5.31 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 317 Stare = nori 85-100%']
+Frasin: 12 \ sâmbătă \ 26:3:2022 \ 19:18:42
+[' Răsarit = 06:08:05 Apus = 18:36:49 Min (°C) = 0.15 Max (°C) =13.48 Presiune = 1021 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.88 Unghiul vântului = 257 Stare = nori 50-85%']
+Frasin: 12 \ duminică \ 27:3:2022 \ 19:18:37
+[' Răsarit = 07:06:03 Apus = 19:38:13 Min (°C) = 2 Max (°C) =8.55 Presiune = 1029 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 3 Stare = cer senin']
+Frasin: 13 \ luni \ 28:3:2022 \ 19:18:53
+[' Răsarit = 07:04:01 Apus = 19:39:37 Min (°C) = -0.29 Max (°C) =15.28 Presiune = 1019 Umiditate (%) = 56 Index UV = 0.09 Viteza vântului = 2.6 Unghiul vântului = 248 Stare = cer senin']
+Frasin: 13 \ marți \ 29:3:2022 \ 19:18:44
+[' Răsarit = 07:01:59 Apus = 19:41:01 Min (°C) = 2.76 Max (°C) =16.69 Presiune = 1007 Umiditate (%) = 55 Index UV = 0.09 Viteza vântului = 4.16 Unghiul vântului = 246 Stare = nori 10-25%']
+Frasin: 13 \ miercuri \ 30:3:2022 \ 19:18:35
+[' Răsarit = 06:59:57 Apus = 19:42:26 Min (°C) = 6.67 Max (°C) =16.47 Presiune = 1004 Umiditate (%) = 51 Index UV = 0.1 Viteza vântului = 2.6 Unghiul vântului = 241 Stare = nori 85-100%']
+Frasin: 13 \ joi \ 31:3:2022 \ 19:18:57
+[' Răsarit = 06:57:56 Apus = 19:43:50 Min (°C) = 6.07 Max (°C) =15.01 Presiune = 997 Umiditate (%) = 71 Index UV = 0.01 Viteza vântului = 1.16 Unghiul vântului = 235 Stare = nori 85-100%']
+Frasin: 13 \ vineri \ 01:4:2022 \ 19:22:22
+[' Răsarit = 06:55:55 Apus = 19:45:14 Min (°C) = 9.08 Max (°C) =17.53 Presiune = 992 Umiditate (%) = 85 Index UV = 0.06 Viteza vântului = 2.35 Unghiul vântului = 243 Stare = nori 85-100%']
+Frasin: 13 \ sâmbătă \ 02:4:2022 \ 19:21:50
+[' Răsarit = 06:53:54 Apus = 19:46:38 Min (°C) = 3.5 Max (°C) =11.38 Presiune = 998 Umiditate (%) = 78 Index UV = 0.09 Viteza vântului = 1.21 Unghiul vântului = 21 Stare = nori 85-100%']
+Frasin: 13 \ duminică \ 03:4:2022 \ 19:55:59
+[' Răsarit = 06:51:53 Apus = 19:48:02 Min (°C) = -1.97 Max (°C) =2.98 Presiune = 1012 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 325 Stare = nori 85-100%']
+Frasin: 14 \ luni \ 04:4:2022 \ 19:21:55
+[' Răsarit = 06:49:53 Apus = 19:49:27 Min (°C) = -5.45 Max (°C) =4.17 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.13 Viteza vântului = 4.2 Unghiul vântului = 258 Stare = nori 85-100%']
+Frasin: 14 \ marți \ 05:4:2022 \ 19:23:48
+[' Răsarit = 06:47:53 Apus = 19:50:51 Min (°C) = -3.37 Max (°C) =9.17 Presiune = 1006 Umiditate (%) = 67 Index UV = 0.12 Viteza vântului = 6.58 Unghiul vântului = 254 Stare = nori 85-100%']
+Frasin: 14 \ miercuri \ 06:4:2022 \ 19:22:01
+[' Răsarit = 06:45:54 Apus = 19:52:15 Min (°C) = 2.95 Max (°C) =13.16 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.16 Viteza vântului = 2.53 Unghiul vântului = 238 Stare = nori 25-50%']
+Frasin: 14 \ joi \ 07:4:2022 \ 19:22:11
+[' Răsarit = 06:43:55 Apus = 19:53:39 Min (°C) = 4.44 Max (°C) =17.39 Presiune = 996 Umiditate (%) = 59 Index UV = 0.15 Viteza vântului = 1.53 Unghiul vântului = 185 Stare = nori 85-100%']
+Frasin: 14 \ vineri \ 08:4:2022 \ 19:21:45
+[' Răsarit = 06:41:56 Apus = 19:55:04 Min (°C) = 4.92 Max (°C) =14.77 Presiune = 1003 Umiditate (%) = 57 Index UV = 0.16 Viteza vântului = 3.76 Unghiul vântului = 242 Stare = nori 50-85%']
+Frasin: 14 \ sâmbătă \ 09:4:2022 \ 19:21:58
+[' Răsarit = 06:39:59 Apus = 19:56:28 Min (°C) = 7.36 Max (°C) =16.36 Presiune = 1000 Umiditate (%) = 63 Index UV = 0.02 Viteza vântului = 3.33 Unghiul vântului = 268 Stare = nori 85-100%']
+Frasin: 14 \ duminică \ 10:4:2022 \ 19:23:29
+[' Răsarit = 06:38:01 Apus = 19:57:52 Min (°C) = -0.05 Max (°C) =4.56 Presiune = 1014 Umiditate (%) = 94 Index UV = 0.07 Viteza vântului = 2.3 Unghiul vântului = 344 Stare = zăpadă slabă']
+Frasin: 15 \ luni \ 11:4:2022 \ 19:22:03
+[' Răsarit = 06:36:05 Apus = 19:59:17 Min (°C) = -0.74 Max (°C) =7.1 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.17 Viteza vântului = 3.05 Unghiul vântului = 338 Stare = nori 85-100%']
+Frasin: 15 \ marți \ 12:4:2022 \ 19:21:24
+[' Răsarit = 06:34:09 Apus = 20:00:41 Min (°C) = -1.9 Max (°C) =7.78 Presiune = 1020 Umiditate (%) = 57 Index UV = 0.18 Viteza vântului = 3.44 Unghiul vântului = 347 Stare = nori 85-100%']
+Frasin: 15 \ miercuri \ 13:4:2022 \ 19:21:36
+[' Răsarit = 06:32:13 Apus = 20:02:06 Min (°C) = -0.89 Max (°C) =10.32 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.16 Viteza vântului = 3.73 Unghiul vântului = 341 Stare = nori 50-85%']
+Frasin: 15 \ joi \ 14:4:2022 \ 19:22:37
+[' Răsarit = 06:30:19 Apus = 20:03:30 Min (°C) = 2.02 Max (°C) =15.78 Presiune = 1019 Umiditate (%) = 58 Index UV = 0.21 Viteza vântului = 1.62 Unghiul vântului = 69 Stare = cer senin']
+Frasin: 15 \ vineri \ 15:4:2022 \ 19:22:43
+[' Răsarit = 06:28:25 Apus = 20:04:55 Min (°C) = 5.43 Max (°C) =21.63 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.22 Viteza vântului = 1.67 Unghiul vântului = 343 Stare = nori 25-50%']
+Frasin: 15 \ sâmbătă \ 16:4:2022 \ 19:23:02
+[' Răsarit = 06:26:32 Apus = 20:06:20 Min (°C) = 3.39 Max (°C) =9.39 Presiune = 1019 Umiditate (%) = 97 Index UV = 0.02 Viteza vântului = 2.28 Unghiul vântului = 338 Stare = ploaie ușoară']
+Frasin: 15 \ duminică \ 17:4:2022 \ 19:22:21
+[' Răsarit = 06:24:39 Apus = 20:07:44 Min (°C) = -0.72 Max (°C) =4.37 Presiune = 1020 Umiditate (%) = 67 Index UV = 0.2 Viteza vântului = 3.14 Unghiul vântului = 353 Stare = zăpadă slabă']
+Frasin: 16 \ luni \ 18:4:2022 \ 19:23:14
+[' Răsarit = 06:22:48 Apus = 20:09:09 Min (°C) = -2.47 Max (°C) =6.14 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.21 Viteza vântului = 0.77 Unghiul vântului = 7 Stare = nori 85-100%']
+Frasin: 16 \ marți \ 19:4:2022 \ 19:23:25
+[' Răsarit = 06:20:57 Apus = 20:10:34 Min (°C) = -2 Max (°C) =10.07 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.17 Viteza vântului = 1.02 Unghiul vântului = 73 Stare = nori 85-100%']
+Frasin: 16 \ miercuri \ 20:4:2022 \ 19:22:14
+[' Răsarit = 06:19:08 Apus = 20:11:59 Min (°C) = 0.15 Max (°C) =7.62 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.18 Viteza vântului = 0.67 Unghiul vântului = 125 Stare = nori 85-100%']
+Frasin: 16 \ joi \ 21:4:2022 \ 19:22:30
+[' Răsarit = 06:17:19 Apus = 20:13:23 Min (°C) = 1.04 Max (°C) =10.49 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.17 Viteza vântului = 2.73 Unghiul vântului = 269 Stare = nori 85-100%']
+Frasin: 16 \ vineri \ 22:4:2022 \ 19:19:20
+[' Răsarit = 06:15:31 Apus = 20:14:48 Min (°C) = 1.52 Max (°C) =16.31 Presiune = 1007 Umiditate (%) = 63 Index UV = 0.14 Viteza vântului = 1.21 Unghiul vântului = 195 Stare = nori 50-85%']
+Frasin: 16 \ sâmbătă \ 23:4:2022 \ 19:19:19
+[' Răsarit = 06:13:44 Apus = 20:16:13 Min (°C) = 5.61 Max (°C) =13.15 Presiune = 1005 Umiditate (%) = 79 Index UV = 0.14 Viteza vântului = 0.58 Unghiul vântului = 323 Stare = nori 50-85%']
+Frasin: 16 \ duminică \ 24:4:2022 \ 19:18:49
+[' Răsarit = 06:11:59 Apus = 20:17:38 Min (°C) = 5.12 Max (°C) =18.4 Presiune = 1007 Umiditate (%) = 56 Index UV = 0.31 Viteza vântului = 1.62 Unghiul vântului = 119 Stare = nori 10-25%']
+Frasin: 17 \ luni \ 25:4:2022 \ 19:18:45
+[' Răsarit = 06:10:14 Apus = 20:19:02 Min (°C) = 9.15 Max (°C) =21.07 Presiune = 1006 Umiditate (%) = 73 Index UV = 0.13 Viteza vântului = 4.7 Unghiul vântului = 255 Stare = nori 85-100%']
+Frasin: 17 \ marți \ 26:4:2022 \ 19:18:48
+[' Răsarit = 06:08:31 Apus = 20:20:27 Min (°C) = 6.99 Max (°C) =16.17 Presiune = 1014 Umiditate (%) = 69 Index UV = 0.29 Viteza vântului = 1.69 Unghiul vântului = 21 Stare = nori 50-85%']
+Frasin: 17 \ miercuri \ 27:4:2022 \ 19:18:51
+[' Răsarit = 06:06:48 Apus = 20:21:51 Min (°C) = 6.37 Max (°C) =11.45 Presiune = 1020 Umiditate (%) = 98 Index UV = 0.1 Viteza vântului = 1.44 Unghiul vântului = 49 Stare = nori 85-100%']
+Frasin: 17 \ joi \ 28:4:2022 \ 19:18:53
+[' Răsarit = 06:05:07 Apus = 20:23:16 Min (°C) = 7.85 Max (°C) =9.21 Presiune = 1022 Umiditate (%) = 99 Index UV = 0.03 Viteza vântului = 1.92 Unghiul vântului = 23 Stare = ploaie ușoară']
+Frasin: 17 \ vineri \ 29:4:2022 \ 19:21:47
+[' Răsarit = 06:03:27 Apus = 20:24:40 Min (°C) = 6.38 Max (°C) =11.49 Presiune = 1024 Umiditate (%) = 82 Index UV = 0.26 Viteza vântului = 0.74 Unghiul vântului = 62 Stare = nori 85-100%']
+Frasin: 17 \ sâmbătă \ 30:4:2022 \ 19:18:28
+[' Răsarit = 06:01:49 Apus = 20:26:04 Min (°C) = 3.73 Max (°C) =14.61 Presiune = 1022 Umiditate (%) = 74 Index UV = 0.34 Viteza vântului = 1.64 Unghiul vântului = 79 Stare = nori 50-85%']
+Frasin: 17 \ duminică \ 01:5:2022 \ 19:18:35
+[' Răsarit = 06:00:11 Apus = 20:27:28 Min (°C) = 5.61 Max (°C) =15.13 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.27 Viteza vântului = 2.53 Unghiul vântului = 121 Stare = nori 85-100%']
+Frasin: 18 \ marți \ 03:5:2022 \ 20:18:36
+[' Răsarit = 05:57:00 Apus = 20:30:15 Min (°C) = 6.84 Max (°C) =15.93 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 180 Stare = nori 85-100%']
+Frasin: 18 \ miercuri \ 04:5:2022 \ 19:23:58
+[' Răsarit = 05:55:27 Apus = 20:31:38 Min (°C) = 6.6 Max (°C) =15.29 Presiune = 1019 Umiditate (%) = 77 Index UV = 0.21 Viteza vântului = 1.66 Unghiul vântului = 358 Stare = nori 85-100%']
+Frasin: 18 \ joi \ 05:5:2022 \ 19:22:22
+[' Răsarit = 05:53:55 Apus = 20:33:01 Min (°C) = 4.64 Max (°C) =15.51 Presiune = 1023 Umiditate (%) = 59 Index UV = 0.41 Viteza vântului = 2.89 Unghiul vântului = 97 Stare = nori 25-50%']
+Frasin: 18 \ vineri \ 06:5:2022 \ 19:20:02
+[' Răsarit = 05:52:25 Apus = 20:34:24 Min (°C) = 5.9 Max (°C) =17.92 Presiune = 1021 Umiditate (%) = 60 Index UV = 0.41 Viteza vântului = 3.25 Unghiul vântului = 103 Stare = nori 50-85%']
+Frasin: 18 \ sâmbătă \ 07:5:2022 \ 19:19:13
+[' Răsarit = 05:50:56 Apus = 20:35:46 Min (°C) = 8.17 Max (°C) =17.75 Presiune = 1021 Umiditate (%) = 90 Index UV = 0.21 Viteza vântului = 0.68 Unghiul vântului = 198 Stare = nori 85-100%']
+Frasin: 18 \ duminică \ 08:5:2022 \ 19:20:04
+[' Răsarit = 05:49:29 Apus = 20:37:07 Min (°C) = 7.78 Max (°C) =17.75 Presiune = 1021 Umiditate (%) = 91 Index UV = 0.41 Viteza vântului = 1.71 Unghiul vântului = 259 Stare = nori 85-100%']
+Frasin: 19 \ luni \ 09:5:2022 \ 19:19:50
+[' Răsarit = 05:48:03 Apus = 20:38:29 Min (°C) = 8.81 Max (°C) =18.1 Presiune = 1024 Umiditate (%) = 90 Index UV = 0.3 Viteza vântului = 1.07 Unghiul vântului = 40 Stare = nori 50-85%']
+Frasin: 19 \ marți \ 10:5:2022 \ 19:19:49
+[' Răsarit = 05:46:39 Apus = 20:39:49 Min (°C) = 9.38 Max (°C) =16.06 Presiune = 1020 Umiditate (%) = 65 Index UV = 0.34 Viteza vântului = 1.52 Unghiul vântului = 85 Stare = nori 85-100%']
+Frasin: 19 \ miercuri \ 11:5:2022 \ 19:19:34
+[' Răsarit = 05:45:16 Apus = 20:41:10 Min (°C) = 7.93 Max (°C) =20.58 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.42 Viteza vântului = 1.88 Unghiul vântului = 51 Stare = nori 85-100%']
+Frasin: 19 \ joi \ 12:5:2022 \ 19:19:46
+[' Răsarit = 05:43:56 Apus = 20:42:29 Min (°C) = 10.21 Max (°C) =24.37 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.52 Viteza vântului = 3.72 Unghiul vântului = 253 Stare = nori 10-25%']
+Frasin: 19 \ vineri \ 13:5:2022 \ 19:19:12
+[' Răsarit = 05:42:36 Apus = 20:43:48 Min (°C) = 12.61 Max (°C) =23.99 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.45 Viteza vântului = 1.14 Unghiul vântului = 357 Stare = nori 50-85%']
+Frasin: 19 \ sâmbătă \ 14:5:2022 \ 19:19:19
+[' Răsarit = 05:41:19 Apus = 20:45:07 Min (°C) = 11.52 Max (°C) =17.52 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.49 Viteza vântului = 3.3 Unghiul vântului = 34 Stare = nori 50-85%']
+Frasin: 19 \ duminică \ 15:5:2022 \ 19:19:18
+[' Răsarit = 05:40:04 Apus = 20:46:24 Min (°C) = 11.02 Max (°C) =18.4 Presiune = 1018 Umiditate (%) = 72 Index UV = 0.22 Viteza vântului = 1.55 Unghiul vântului = 14 Stare = nori 85-100%']
+Frasin: 20 \ luni \ 16:5:2022 \ 19:20:36
+[' Răsarit = 05:38:50 Apus = 20:47:41 Min (°C) = 9.75 Max (°C) =18.38 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.37 Viteza vântului = 1.82 Unghiul vântului = 69 Stare = nori 50-85%']
+Frasin: 20 \ marți \ 17:5:2022 \ 19:22:23
+[' Răsarit = 05:37:38 Apus = 20:48:57 Min (°C) = 9.91 Max (°C) =18.79 Presiune = 1015 Umiditate (%) = 95 Index UV = 0.07 Viteza vântului = 1.86 Unghiul vântului = 6 Stare = ploaie ușoară']
+Frasin: 20 \ miercuri \ 18:5:2022 \ 19:19:27
+[' Răsarit = 05:36:28 Apus = 20:50:12 Min (°C) = 5 Max (°C) =10.75 Presiune = 1026 Umiditate (%) = 60 Index UV = 0.42 Viteza vântului = 4.04 Unghiul vântului = 338 Stare = nori 85-100%']
+Frasin: 20 \ joi \ 19:5:2022 \ 20:24:17
+[' Răsarit = 05:35:20 Apus = 20:51:27 Min (°C) = 5.84 Max (°C) =18.75 Presiune = 1026 Umiditate (%) = 66 Index UV = 0.16 Viteza vântului = 0.85 Unghiul vântului = 78 Stare = cer senin']
+Frasin: 20 \ vineri \ 20:5:2022 \ 19:19:20
+[' Răsarit = 05:34:14 Apus = 20:52:40 Min (°C) = 8.05 Max (°C) =24.86 Presiune = 1019 Umiditate (%) = 56 Index UV = 0.39 Viteza vântului = 2.33 Unghiul vântului = 278 Stare = nori 85-100%']
+Frasin: 20 \ sâmbătă \ 21:5:2022 \ 19:21:47
+[' Răsarit = 05:33:10 Apus = 20:53:52 Min (°C) = 11.04 Max (°C) =24.21 Presiune = 1011 Umiditate (%) = 76 Index UV = 0.43 Viteza vântului = 1.46 Unghiul vântului = 296 Stare = nori 50-85%']

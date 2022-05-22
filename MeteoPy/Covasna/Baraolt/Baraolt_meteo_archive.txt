@@ -1,0 +1,952 @@
+Baraolt: 04 \ luni \ 25:1:2021 \ 22:32:52
+[' Răsarit = 07:47:49 Apus = 17:11:45 Min (°C) = -1.72 Max (°C) =5.46 Presiune = 966 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 25-50%']
+Baraolt: 04 \ marți \ 26:1:2021 \ 09:50:49
+[' Răsarit = 07:46:50 Apus = 17:13:12 Min (°C) = -3.4 Max (°C) =0.23 Presiune = 969 Umiditate (%) = 90 Index UV = 0.49 Viteza vântului = 0.89 Unghiul vântului = 247 Stare = nori 85-100%']
+Baraolt: 04 \ miercuri \ 27:1:2021 \ 19:10:57
+[' Răsarit = 07:45:48 Apus = 17:14:40 Min (°C) = -3.12 Max (°C) =-1.06 Presiune = 970 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.37 Unghiul vântului = 299 Stare = nori 85-100%']
+Baraolt: 04 \ joi \ 28:1:2021 \ 19:27:07
+[' Răsarit = 07:44:45 Apus = 17:16:08 Min (°C) = -5.17 Max (°C) =-2.54 Presiune = 970 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 225 Stare = nori 85-100%']
+Baraolt: 04 \ vineri \ 29:1:2021 \ 20:12:41
+[' Răsarit = 07:43:39 Apus = 17:17:37 Min (°C) = -5.49 Max (°C) =2.3 Presiune = 1007 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 04 \ sâmbătă \ 30:1:2021 \ 20:13:09
+[' Răsarit = 07:42:32 Apus = 17:19:06 Min (°C) = 1.27 Max (°C) =5.06 Presiune = 1004 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 329 Stare = nori 85-100%']
+Baraolt: 04 \ duminică \ 31:1:2021 \ 19:12:03
+[' Răsarit = 07:41:23 Apus = 17:20:35 Min (°C) = 0.28 Max (°C) =6.91 Presiune = 965 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 112 Stare = nori 50-85%']
+Baraolt: 05 \ luni \ 01:2:2021 \ 19:12:30
+[' Răsarit = 07:40:11 Apus = 17:22:05 Min (°C) = -0.08 Max (°C) =3.23 Presiune = 967 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 124 Stare = nori 85-100%']
+Baraolt: 05 \ marți \ 02:2:2021 \ 20:41:25
+[' Răsarit = 07:38:58 Apus = 17:23:35 Min (°C) = 0.56 Max (°C) =8.18 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 307 Stare = nori 25-50%']
+Baraolt: 05 \ miercuri \ 03:2:2021 \ 19:39:08
+[' Răsarit = 07:37:43 Apus = 17:25:05 Min (°C) = 1.53 Max (°C) =8.16 Presiune = 977 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 50-85%']
+Baraolt: 05 \ joi \ 04:2:2021 \ 19:13:54
+[' Răsarit = 07:36:27 Apus = 17:26:35 Min (°C) = 2.21 Max (°C) =8.92 Presiune = 975 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 247 Stare = nori 85-100%']
+Baraolt: 05 \ vineri \ 05:2:2021 \ 19:09:39
+[' Răsarit = 07:35:08 Apus = 17:28:05 Min (°C) = 3.32 Max (°C) =9.25 Presiune = 979 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 161 Stare = nori 50-85%']
+Baraolt: 05 \ sâmbătă \ 06:2:2021 \ 19:38:25
+[' Răsarit = 07:33:48 Apus = 17:29:35 Min (°C) = 3.75 Max (°C) =11.59 Presiune = 974 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 267 Stare = nori 85-100%']
+Baraolt: 05 \ duminică \ 07:2:2021 \ 19:13:32
+[' Răsarit = 07:32:26 Apus = 17:31:06 Min (°C) = 3.62 Max (°C) =10.36 Presiune = 969 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 06 \ luni \ 08:2:2021 \ 20:55:10
+[' Răsarit = 07:31:03 Apus = 17:32:36 Min (°C) = 1.88 Max (°C) =11.01 Presiune = 959 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 06 \ marți \ 09:2:2021 \ 19:11:01
+[' Răsarit = 07:29:38 Apus = 17:34:06 Min (°C) = 3.83 Max (°C) =11.05 Presiune = 967 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 121 Stare = nori 85-100%']
+Baraolt: 06 \ miercuri \ 10:2:2021 \ 19:11:47
+[' Răsarit = 07:28:12 Apus = 17:35:36 Min (°C) = 5.62 Max (°C) =10.74 Presiune = 969 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 107 Stare = nori 50-85%']
+Baraolt: 06 \ joi \ 11:2:2021 \ 19:06:54
+[' Răsarit = 07:26:44 Apus = 17:37:06 Min (°C) = -6.02 Max (°C) =12.41 Presiune = 971 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 225 Stare = zăpadă slabă']
+Baraolt: 06 \ vineri \ 12:2:2021 \ 20:45:47
+[' Răsarit = 07:25:14 Apus = 17:38:36 Min (°C) = -11.95 Max (°C) =-6.64 Presiune = 986 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = nori 85-100%']
+Baraolt: 06 \ sâmbătă \ 13:2:2021 \ 19:10:58
+[' Răsarit = 07:23:44 Apus = 17:40:06 Min (°C) = -12.15 Max (°C) =-7.65 Presiune = 991 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.91 Unghiul vântului = 297 Stare = nori 50-85%']
+Baraolt: 06 \ duminică \ 14:2:2021 \ 19:10:14
+[' Răsarit = 07:22:12 Apus = 17:41:35 Min (°C) = -10.13 Max (°C) =-4.52 Presiune = 992 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 85-100%']
+Baraolt: 07 \ luni \ 15:2:2021 \ 20:05:57
+[' Răsarit = 07:20:38 Apus = 17:43:05 Min (°C) = -7.93 Max (°C) =-3.82 Presiune = 990 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 296 Stare = nori 85-100%']
+Baraolt: 07 \ marți \ 16:2:2021 \ 19:02:13
+[' Răsarit = 07:19:03 Apus = 17:44:34 Min (°C) = -7.71 Max (°C) =-2.22 Presiune = 988 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = cer senin']
+Baraolt: 07 \ miercuri \ 17:2:2021 \ 19:10:16
+[' Răsarit = 07:17:27 Apus = 17:46:03 Min (°C) = -8.25 Max (°C) =0.14 Presiune = 979 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 288 Stare = nori 85-100%']
+Baraolt: 07 \ joi \ 18:2:2021 \ 19:14:08
+[' Răsarit = 07:15:50 Apus = 17:47:31 Min (°C) = -3.6 Max (°C) =0.47 Presiune = 983 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 85-100%']
+Baraolt: 07 \ vineri \ 19:2:2021 \ 19:07:04
+[' Răsarit = 07:14:11 Apus = 17:48:59 Min (°C) = -4.18 Max (°C) =3.78 Presiune = 987 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 213 Stare = nori 50-85%']
+Baraolt: 07 \ sâmbătă \ 20:2:2021 \ 19:11:26
+[' Răsarit = 07:12:32 Apus = 17:50:27 Min (°C) = -0.98 Max (°C) =3.63 Presiune = 991 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 50 Stare = nori 85-100%']
+Baraolt: 07 \ duminică \ 21:2:2021 \ 19:08:47
+[' Răsarit = 07:10:51 Apus = 17:51:55 Min (°C) = -1.08 Max (°C) =6.37 Presiune = 992 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.12 Unghiul vântului = 16 Stare = nori 50-85%']
+Baraolt: 08 \ luni \ 22:2:2021 \ 19:13:21
+[' Răsarit = 07:09:09 Apus = 17:53:22 Min (°C) = -1.04 Max (°C) =8.61 Presiune = 993 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 287 Stare = cer senin']
+Baraolt: 08 \ marți \ 23:2:2021 \ 19:11:18
+[' Răsarit = 07:07:26 Apus = 17:54:50 Min (°C) = 0.76 Max (°C) =10.22 Presiune = 995 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 288 Stare = cer senin']
+Baraolt: 08 \ miercuri \ 24:2:2021 \ 19:11:55
+[' Răsarit = 07:05:42 Apus = 17:56:16 Min (°C) = 1.26 Max (°C) =10.16 Presiune = 997 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 320 Stare = nori 10-25%']
+Baraolt: 08 \ joi \ 25:2:2021 \ 19:09:56
+[' Răsarit = 07:03:57 Apus = 17:57:43 Min (°C) = 2.52 Max (°C) =13.07 Presiune = 995 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = nori 25-50%']
+Baraolt: 08 \ vineri \ 26:2:2021 \ 19:10:39
+[' Răsarit = 07:02:11 Apus = 17:59:09 Min (°C) = 3.75 Max (°C) =14.8 Presiune = 1019 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = cer senin']
+Baraolt: 08 \ sâmbătă \ 27:2:2021 \ 19:08:00
+[' Răsarit = 07:00:25 Apus = 18:00:34 Min (°C) = 2.52 Max (°C) =10.93 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 08 \ duminică \ 28:2:2021 \ 19:12:09
+[' Răsarit = 06:58:37 Apus = 18:02:00 Min (°C) = -7.22 Max (°C) =4.79 Presiune = 854 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Baraolt: 09 \ luni \ 01:3:2021 \ 19:06:25
+[' Răsarit = 06:56:49 Apus = 18:03:25 Min (°C) = 0.48 Max (°C) =4.8 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 204 Stare = nori 85-100%']
+Baraolt: 09 \ marți \ 02:3:2021 \ 19:14:54
+[' Răsarit = 06:55:00 Apus = 18:04:49 Min (°C) = -4.44 Max (°C) =7.19 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
+Baraolt: 09 \ miercuri \ 03:3:2021 \ 19:10:16
+[' Răsarit = 06:53:10 Apus = 18:06:14 Min (°C) = -3.89 Max (°C) =8.46 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
+Baraolt: 09 \ joi \ 04:3:2021 \ 19:11:02
+[' Răsarit = 06:51:19 Apus = 18:07:38 Min (°C) = 1.57 Max (°C) =12.72 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 277 Stare = nori 25-50%']
+Baraolt: 09 \ vineri \ 05:3:2021 \ 19:09:00
+[' Răsarit = 06:49:28 Apus = 18:09:01 Min (°C) = -1.67 Max (°C) =12.3 Presiune = 846 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 50-85%']
+Baraolt: 09 \ sâmbătă \ 06:3:2021 \ 19:09:59
+[' Răsarit = 06:47:36 Apus = 18:10:25 Min (°C) = -3.31 Max (°C) =4.95 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 225 Stare = nori 50-85%']
+Baraolt: 09 \ duminică \ 07:3:2021 \ 19:11:00
+[' Răsarit = 06:45:43 Apus = 18:11:48 Min (°C) = -4.08 Max (°C) =3.67 Presiune = 1014 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 202 Stare = cer senin']
+Baraolt: 10 \ luni \ 08:3:2021 \ 19:14:04
+[' Răsarit = 06:43:50 Apus = 18:13:11 Min (°C) = -7.78 Max (°C) =5.43 Presiune = 844 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 330 Stare = cer senin']
+Baraolt: 10 \ marți \ 09:3:2021 \ 19:08:45
+[' Răsarit = 06:41:57 Apus = 18:14:33 Min (°C) = -2.52 Max (°C) =4.92 Presiune = 1013 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 180 Stare = nori 85-100%']
+Baraolt: 10 \ miercuri \ 10:3:2021 \ 19:14:37
+[' Răsarit = 06:40:03 Apus = 18:15:55 Min (°C) = -1.07 Max (°C) =2.59 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 85-100%']
+Baraolt: 10 \ joi \ 11:3:2021 \ 19:10:43
+[' Răsarit = 06:38:08 Apus = 18:17:17 Min (°C) = -2.97 Max (°C) =3.85 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 50-85%']
+Baraolt: 10 \ vineri \ 12:3:2021 \ 19:10:23
+[' Răsarit = 06:36:13 Apus = 18:18:39 Min (°C) = -2.45 Max (°C) =6.11 Presiune = 1009 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 10 \ sâmbătă \ 13:3:2021 \ 19:10:33
+[' Răsarit = 06:34:18 Apus = 18:20:00 Min (°C) = 1.2 Max (°C) =7.17 Presiune = 1010 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 343 Stare = nori 50-85%']
+Baraolt: 10 \ duminică \ 14:3:2021 \ 19:12:53
+[' Răsarit = 06:32:22 Apus = 18:21:21 Min (°C) = -0.28 Max (°C) =13.06 Presiune = 970 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 17 Stare = nori 85-100%']
+Baraolt: 11 \ luni \ 15:3:2021 \ 19:12:22
+[' Răsarit = 06:30:26 Apus = 18:22:42 Min (°C) = 3.93 Max (°C) =10.43 Presiune = 994 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 45 Stare = nori 85-100%']
+Baraolt: 11 \ marți \ 16:3:2021 \ 19:10:50
+[' Răsarit = 06:28:30 Apus = 18:24:03 Min (°C) = 0.28 Max (°C) =5.22 Presiune = 965 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 313 Stare = zăpadă slabă']
+Baraolt: 11 \ miercuri \ 17:3:2021 \ 19:11:20
+[' Răsarit = 06:26:33 Apus = 18:25:23 Min (°C) = 0.28 Max (°C) =2.87 Presiune = 968 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 247 Stare = snow']
+Baraolt: 11 \ joi \ 18:3:2021 \ 19:10:31
+[' Răsarit = 06:24:36 Apus = 18:26:44 Min (°C) = 0.15 Max (°C) =5.36 Presiune = 974 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = nori 85-100%']
+Baraolt: 11 \ vineri \ 19:3:2021 \ 19:08:03
+[' Răsarit = 06:22:40 Apus = 18:28:04 Min (°C) = -1.76 Max (°C) =3.58 Presiune = 976 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 261 Stare = zăpadă slabă']
+Baraolt: 11 \ sâmbătă \ 20:3:2021 \ 19:10:32
+[' Răsarit = 06:20:42 Apus = 18:29:24 Min (°C) = -4.73 Max (°C) =3.06 Presiune = 981 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 324 Stare = nori 85-100%']
+Baraolt: 11 \ duminică \ 21:3:2021 \ 19:06:09
+[' Răsarit = 06:18:45 Apus = 18:30:44 Min (°C) = -4.68 Max (°C) =5.49 Presiune = 974 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 131 Stare = nori 25-50%']
+Baraolt: 12 \ luni \ 22:3:2021 \ 19:11:25
+[' Răsarit = 06:16:48 Apus = 18:32:03 Min (°C) = -2.65 Max (°C) =2.89 Presiune = 970 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 2 Stare = zăpadă slabă']
+Baraolt: 12 \ marți \ 23:3:2021 \ 19:13:02
+[' Răsarit = 06:14:51 Apus = 18:33:23 Min (°C) = -6.27 Max (°C) =2.85 Presiune = 974 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.45 Unghiul vântului = 292 Stare = nori 50-85%']
+Baraolt: 12 \ miercuri \ 24:3:2021 \ 19:11:34
+[' Răsarit = 06:12:54 Apus = 18:34:42 Min (°C) = -6.81 Max (°C) =2.1 Presiune = 979 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 345 Stare = nori 85-100%']
+Baraolt: 12 \ joi \ 25:3:2021 \ 19:11:28
+[' Răsarit = 06:10:56 Apus = 18:36:01 Min (°C) = -3.51 Max (°C) =4.05 Presiune = 982 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 283 Stare = nori 85-100%']
+Baraolt: 12 \ vineri \ 26:3:2021 \ 19:16:19
+[' Răsarit = 06:08:59 Apus = 18:37:21 Min (°C) = -4.83 Max (°C) =6.63 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 263 Stare = nori 10-25%']
+Baraolt: 12 \ sâmbătă \ 27:3:2021 \ 19:15:55
+[' Răsarit = 06:07:02 Apus = 18:38:40 Min (°C) = -2.83 Max (°C) =11.05 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 308 Stare = cer senin']
+Baraolt: 12 \ duminică \ 28:3:2021 \ 19:11:52
+[' Răsarit = 07:05:05 Apus = 19:39:59 Min (°C) = 0.54 Max (°C) =10.43 Presiune = 991 Umiditate (%) = 70 Index UV = 0.07 Viteza vântului = 0.89 Unghiul vântului = 247 Stare = nori 85-100%']
+Baraolt: 13 \ luni \ 29:3:2021 \ 19:10:54
+[' Răsarit = 07:03:08 Apus = 19:41:18 Min (°C) = -1.62 Max (°C) =9.21 Presiune = 1026 Umiditate (%) = 39 Index UV = 0.09 Viteza vântului = 2.24 Unghiul vântului = 180 Stare = nori 50-85%']
+Baraolt: 13 \ marți \ 30:3:2021 \ 19:09:19
+[' Răsarit = 07:01:12 Apus = 19:42:37 Min (°C) = -1.56 Max (°C) =11.16 Presiune = 1029 Umiditate (%) = 68 Index UV = 0.09 Viteza vântului = 0.35 Unghiul vântului = 10 Stare = nori 85-100%']
+Baraolt: 13 \ miercuri \ 31:3:2021 \ 19:09:24
+[' Răsarit = 06:59:16 Apus = 19:43:56 Min (°C) = 0.41 Max (°C) =12.07 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.02 Viteza vântului = 0.45 Unghiul vântului = 158 Stare = nori 85-100%']
+Baraolt: 13 \ joi \ 01:4:2021 \ 19:10:14
+[' Răsarit = 06:57:20 Apus = 19:45:15 Min (°C) = 6.06 Max (°C) =15.54 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.11 Viteza vântului = 1.37 Unghiul vântului = 285 Stare = nori 85-100%']
+Baraolt: 13 \ vineri \ 02:4:2021 \ 19:13:06
+[' Răsarit = 06:55:24 Apus = 19:46:34 Min (°C) = 7.55 Max (°C) =14.55 Presiune = 972 Umiditate (%) = 83 Index UV = 0.02 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 25-50%']
+Baraolt: 13 \ sâmbătă \ 03:4:2021 \ 20:34:12
+[' Răsarit = 06:53:29 Apus = 19:47:53 Min (°C) = 3.89 Max (°C) =9.42 Presiune = 975 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 247 Stare = nori 85-100%']
+Baraolt: 13 \ duminică \ 04:4:2021 \ 20:13:09
+[' Răsarit = 06:51:34 Apus = 19:49:12 Min (°C) = 2.97 Max (°C) =7.74 Presiune = 977 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 90 Stare = nori 85-100%']
+Baraolt: 14 \ luni \ 05:4:2021 \ 14:40:28
+[' Răsarit = 06:49:39 Apus = 19:50:31 Min (°C) = -0.6 Max (°C) =9.25 Presiune = 1009 Umiditate (%) = 65 Index UV = 1.71 Viteza vântului = 4.42 Unghiul vântului = 282 Stare = nori 85-100%']
+Baraolt: 14 \ luni \ 05:4:2021 \ 19:11:42
+[' Răsarit = 06:49:39 Apus = 19:50:31 Min (°C) = -0.6 Max (°C) =9.36 Presiune = 972 Umiditate (%) = 64 Index UV = 0.14 Viteza vântului = 1.34 Unghiul vântului = 202 Stare = nori 50-85%']
+Baraolt: 14 \ marți \ 06:4:2021 \ 20:15:22
+[' Răsarit = 06:47:45 Apus = 19:51:50 Min (°C) = 0.01 Max (°C) =12.92 Presiune = 963 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 14 \ miercuri \ 07:4:2021 \ 19:09:44
+[' Răsarit = 06:45:51 Apus = 19:53:10 Min (°C) = -5.16 Max (°C) =3.19 Presiune = 1006 Umiditate (%) = 63 Index UV = 0.13 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 50-85%']
+Baraolt: 14 \ joi \ 08:4:2021 \ 19:09:34
+[' Răsarit = 06:43:58 Apus = 19:54:29 Min (°C) = -6.34 Max (°C) =5.15 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.15 Viteza vântului = 3.58 Unghiul vântului = 225 Stare = nori 50-85%']
+Baraolt: 14 \ vineri \ 09:4:2021 \ 19:09:59
+[' Răsarit = 06:42:06 Apus = 19:55:48 Min (°C) = -2.88 Max (°C) =6.96 Presiune = 989 Umiditate (%) = 52 Index UV = 0.17 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 10-25%']
+Baraolt: 14 \ sâmbătă \ 10:4:2021 \ 19:09:34
+[' Răsarit = 06:40:14 Apus = 19:57:07 Min (°C) = -2.51 Max (°C) =11.22 Presiune = 854 Umiditate (%) = 40 Index UV = 0.18 Viteza vântului = 1.17 Unghiul vântului = 335 Stare = nori 10-25%']
+Baraolt: 14 \ duminică \ 11:4:2021 \ 19:11:12
+[' Răsarit = 06:38:22 Apus = 19:58:27 Min (°C) = 1.27 Max (°C) =15.05 Presiune = 985 Umiditate (%) = 38 Index UV = 0.19 Viteza vântului = 2.64 Unghiul vântului = 140 Stare = cer senin']
+Baraolt: 15 \ luni \ 12:4:2021 \ 21:54:47
+[' Răsarit = 06:36:32 Apus = 19:59:46 Min (°C) = 2.7 Max (°C) =17.55 Presiune = 981 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 94 Stare = nori 10-25%']
+Baraolt: 15 \ marți \ 13:4:2021 \ 19:10:20
+[' Răsarit = 06:34:42 Apus = 20:01:05 Min (°C) = 6.74 Max (°C) =19.25 Presiune = 975 Umiditate (%) = 41 Index UV = 0.1 Viteza vântului = 0.89 Unghiul vântului = 180 Stare = nori 85-100%']
+Baraolt: 15 \ miercuri \ 14:4:2021 \ 19:10:49
+[' Răsarit = 06:32:52 Apus = 20:02:25 Min (°C) = 1.78 Max (°C) =10.15 Presiune = 976 Umiditate (%) = 87 Index UV = 0.04 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 15 \ joi \ 15:4:2021 \ 19:10:57
+[' Răsarit = 06:31:04 Apus = 20:03:44 Min (°C) = -0.72 Max (°C) =4.55 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.18 Viteza vântului = 0.89 Unghiul vântului = 225 Stare = nori 85-100%']
+Baraolt: 15 \ vineri \ 16:4:2021 \ 19:10:14
+[' Răsarit = 06:29:16 Apus = 20:05:04 Min (°C) = -2.08 Max (°C) =6.62 Presiune = 981 Umiditate (%) = 67 Index UV = 0.17 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 50-85%']
+Baraolt: 15 \ sâmbătă \ 17:4:2021 \ 19:09:42
+[' Răsarit = 06:27:29 Apus = 20:06:23 Min (°C) = -1.43 Max (°C) =13.22 Presiune = 978 Umiditate (%) = 49 Index UV = 0.19 Viteza vântului = 1.79 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 15 \ duminică \ 18:4:2021 \ 19:09:35
+[' Răsarit = 06:25:43 Apus = 20:07:43 Min (°C) = 2.67 Max (°C) =10.2 Presiune = 979 Umiditate (%) = 74 Index UV = 0.15 Viteza vântului = 1.8 Unghiul vântului = 107 Stare = nori 85-100%']
+Baraolt: 16 \ luni \ 19:4:2021 \ 19:09:54
+[' Răsarit = 06:23:58 Apus = 20:09:03 Min (°C) = 4.53 Max (°C) =10.18 Presiune = 975 Umiditate (%) = 78 Index UV = 0.12 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 16 \ marți \ 20:4:2021 \ 19:09:51
+[' Răsarit = 06:22:13 Apus = 20:10:22 Min (°C) = 4.9 Max (°C) =7.88 Presiune = 975 Umiditate (%) = 88 Index UV = 0.12 Viteza vântului = 0.45 Unghiul vântului = 0 Stare = nori 85-100%']
+Baraolt: 16 \ miercuri \ 21:4:2021 \ 19:09:55
+[' Răsarit = 06:20:30 Apus = 20:11:42 Min (°C) = 4.45 Max (°C) =11.73 Presiune = 979 Umiditate (%) = 64 Index UV = 0.25 Viteza vântului = 0.45 Unghiul vântului = 337 Stare = nori 85-100%']
+Baraolt: 16 \ joi \ 22:4:2021 \ 19:10:26
+[' Răsarit = 06:18:47 Apus = 20:13:02 Min (°C) = 2.87 Max (°C) =15.38 Presiune = 979 Umiditate (%) = 51 Index UV = 0.25 Viteza vântului = 3.05 Unghiul vântului = 241 Stare = nori 85-100%']
+Baraolt: 16 \ vineri \ 23:4:2021 \ 19:09:51
+[' Răsarit = 06:17:06 Apus = 20:14:22 Min (°C) = 4.73 Max (°C) =11.16 Presiune = 982 Umiditate (%) = 56 Index UV = 0.26 Viteza vântului = 1.79 Unghiul vântului = 315 Stare = nori 25-50%']
+Baraolt: 16 \ sâmbătă \ 24:4:2021 \ 19:09:55
+[' Răsarit = 06:15:26 Apus = 20:15:41 Min (°C) = 0.57 Max (°C) =13.06 Presiune = 983 Umiditate (%) = 42 Index UV = 0.31 Viteza vântului = 3.13 Unghiul vântului = 22 Stare = nori 25-50%']
+Baraolt: 16 \ duminică \ 25:4:2021 \ 19:09:57
+[' Răsarit = 06:13:46 Apus = 20:17:01 Min (°C) = 3.56 Max (°C) =14.72 Presiune = 978 Umiditate (%) = 51 Index UV = 0.31 Viteza vântului = 2.86 Unghiul vântului = 286 Stare = nori 85-100%']
+Baraolt: 17 \ luni \ 26:4:2021 \ 19:09:34
+[' Răsarit = 06:12:08 Apus = 20:18:20 Min (°C) = 3.62 Max (°C) =12.93 Presiune = 978 Umiditate (%) = 40 Index UV = 0.24 Viteza vântului = 0.89 Unghiul vântului = 22 Stare = nori 85-100%']
+Baraolt: 17 \ marți \ 27:4:2021 \ 19:10:37
+[' Răsarit = 06:10:31 Apus = 20:19:40 Min (°C) = 4.03 Max (°C) =8.27 Presiune = 976 Umiditate (%) = 80 Index UV = 0.3 Viteza vântului = 1.34 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 17 \ miercuri \ 28:4:2021 \ 19:09:55
+[' Răsarit = 06:08:55 Apus = 20:20:59 Min (°C) = 2.71 Max (°C) =10.39 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.25 Viteza vântului = 2.69 Unghiul vântului = 111 Stare = nori 50-85%']
+Baraolt: 17 \ joi \ 29:4:2021 \ 19:20:32
+[' Răsarit = 06:07:21 Apus = 20:22:18 Min (°C) = 3.02 Max (°C) =18.41 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.38 Viteza vântului = 1.34 Unghiul vântului = 180 Stare = nori 50-85%']
+Baraolt: 17 \ vineri \ 30:4:2021 \ 19:10:05
+[' Răsarit = 06:05:47 Apus = 20:23:37 Min (°C) = 8.11 Max (°C) =19.91 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.27 Viteza vântului = 1.79 Unghiul vântului = 0 Stare = nori 25-50%']
+Baraolt: 17 \ sâmbătă \ 01:5:2021 \ 19:10:30
+[' Răsarit = 06:04:15 Apus = 20:24:56 Min (°C) = 9.44 Max (°C) =23 Presiune = 852 Umiditate (%) = 79 Index UV = 0.33 Viteza vântului = 1.73 Unghiul vântului = 157 Stare = nori 50-85%']
+Baraolt: 17 \ duminică \ 02:5:2021 \ 20:16:39
+[' Răsarit = 06:02:44 Apus = 20:26:15 Min (°C) = 9.44 Max (°C) =22.24 Presiune = 849 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 254 Stare = nori 85-100%']
+Baraolt: 18 \ luni \ 03:5:2021 \ 19:10:11
+[' Răsarit = 06:01:15 Apus = 20:27:34 Min (°C) = 7.92 Max (°C) =14.62 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.25 Viteza vântului = 4.31 Unghiul vântului = 285 Stare = nori 85-100%']
+Baraolt: 18 \ marți \ 04:5:2021 \ 19:11:12
+[' Răsarit = 05:59:47 Apus = 20:28:52 Min (°C) = 2.81 Max (°C) =16.12 Presiune = 1009 Umiditate (%) = 35 Index UV = 0.42 Viteza vântului = 0.45 Unghiul vântului = 22 Stare = cer senin']
+Baraolt: 18 \ miercuri \ 05:5:2021 \ 19:09:51
+[' Răsarit = 05:58:20 Apus = 20:30:10 Min (°C) = 4.44 Max (°C) =17.47 Presiune = 846 Umiditate (%) = 87 Index UV = 0.42 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 50-85%']
+Baraolt: 18 \ joi \ 06:5:2021 \ 19:10:40
+[' Răsarit = 05:56:55 Apus = 20:31:27 Min (°C) = 8.38 Max (°C) =15.28 Presiune = 977 Umiditate (%) = 50 Index UV = 0.36 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 50-85%']
+Baraolt: 18 \ vineri \ 07:5:2021 \ 19:09:26
+[' Răsarit = 05:55:31 Apus = 20:32:45 Min (°C) = 6.07 Max (°C) =20.13 Presiune = 972 Umiditate (%) = 50 Index UV = 0.05 Viteza vântului = 1.34 Unghiul vântului = 157 Stare = nori 85-100%']
+Baraolt: 18 \ sâmbătă \ 08:5:2021 \ 19:09:57
+[' Răsarit = 05:54:09 Apus = 20:34:02 Min (°C) = 4.57 Max (°C) =12.18 Presiune = 982 Umiditate (%) = 42 Index UV = 0.39 Viteza vântului = 1.79 Unghiul vântului = 0 Stare = cer senin']
+Baraolt: 18 \ duminică \ 09:5:2021 \ 19:09:44
+[' Răsarit = 05:52:48 Apus = 20:35:18 Min (°C) = 0.2 Max (°C) =16.12 Presiune = 986 Umiditate (%) = 31 Index UV = 0.49 Viteza vântului = 0.63 Unghiul vântului = 322 Stare = cer senin']
+Baraolt: 19 \ luni \ 10:5:2021 \ 19:09:44
+[' Răsarit = 05:51:29 Apus = 20:36:34 Min (°C) = 4.23 Max (°C) =20.79 Presiune = 857 Umiditate (%) = 62 Index UV = 0.51 Viteza vântului = 4.47 Unghiul vântului = 234 Stare = nori 10-25%']
+Baraolt: 19 \ marți \ 11:5:2021 \ 19:10:31
+[' Răsarit = 05:50:12 Apus = 20:37:50 Min (°C) = 7.36 Max (°C) =22.28 Presiune = 840 Umiditate (%) = 60 Index UV = 0.41 Viteza vântului = 3.58 Unghiul vântului = 236 Stare = cer senin']
+Baraolt: 19 \ miercuri \ 12:5:2021 \ 19:09:44
+[' Răsarit = 05:48:56 Apus = 20:39:04 Min (°C) = 7.17 Max (°C) =22.06 Presiune = 1006 Umiditate (%) = 63 Index UV = 0.51 Viteza vântului = 5.52 Unghiul vântului = 104 Stare = nori 10-25%']
+Baraolt: 19 \ joi \ 13:5:2021 \ 19:10:35
+[' Răsarit = 05:47:42 Apus = 20:40:19 Min (°C) = 8.99 Max (°C) =17.06 Presiune = 1003 Umiditate (%) = 77 Index UV = 0.39 Viteza vântului = 0.39 Unghiul vântului = 218 Stare = ploaie ușoară']
+Baraolt: 19 \ vineri \ 14:5:2021 \ 19:10:30
+[' Răsarit = 05:46:30 Apus = 20:41:33 Min (°C) = 9.32 Max (°C) =14.18 Presiune = 973 Umiditate (%) = 81 Index UV = 0.42 Viteza vântului = 2.37 Unghiul vântului = 285 Stare = nori 85-100%']
+Baraolt: 19 \ sâmbătă \ 15:5:2021 \ 19:09:59
+[' Răsarit = 05:45:19 Apus = 20:42:46 Min (°C) = 7.17 Max (°C) =20.69 Presiune = 973 Umiditate (%) = 56 Index UV = 0.49 Viteza vântului = 1.34 Unghiul vântului = 0 Stare = nori 50-85%']
+Baraolt: 19 \ duminică \ 16:5:2021 \ 19:10:32
+[' Răsarit = 05:44:10 Apus = 20:43:58 Min (°C) = 9.96 Max (°C) =18.05 Presiune = 971 Umiditate (%) = 69 Index UV = 0.47 Viteza vântului = 3.56 Unghiul vântului = 260 Stare = nori 50-85%']
+Baraolt: 20 \ luni \ 17:5:2021 \ 19:10:50
+[' Răsarit = 05:43:03 Apus = 20:45:09 Min (°C) = 9.92 Max (°C) =19.58 Presiune = 967 Umiditate (%) = 47 Index UV = 0.39 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 20 \ marți \ 18:5:2021 \ 19:10:30
+[' Răsarit = 05:41:58 Apus = 20:46:20 Min (°C) = 8.33 Max (°C) =11.37 Presiune = 1007 Umiditate (%) = 97 Index UV = 0.05 Viteza vântului = 8.25 Unghiul vântului = 284 Stare = nori 85-100%']
+Baraolt: 20 \ miercuri \ 19:5:2021 \ 19:09:41
+[' Răsarit = 05:40:55 Apus = 20:47:30 Min (°C) = 8.15 Max (°C) =17.6 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.58 Viteza vântului = 1.08 Unghiul vântului = 256 Stare = nori 85-100%']
+Baraolt: 20 \ joi \ 20:5:2021 \ 19:10:09
+[' Răsarit = 05:39:53 Apus = 20:48:39 Min (°C) = 8.83 Max (°C) =11.25 Presiune = 1011 Umiditate (%) = 97 Index UV = 0.21 Viteza vântului = 1.2 Unghiul vântului = 217 Stare = ploaie ușoară']
+Baraolt: 20 \ vineri \ 21:5:2021 \ 19:11:09
+[' Răsarit = 05:38:54 Apus = 20:49:47 Min (°C) = 8.67 Max (°C) =15.17 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.59 Viteza vântului = 3.45 Unghiul vântului = 279 Stare = nori 25-50%']
+Baraolt: 20 \ sâmbătă \ 22:5:2021 \ 19:10:26
+[' Răsarit = 05:37:56 Apus = 20:50:54 Min (°C) = 6.38 Max (°C) =21.71 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.6 Viteza vântului = 2.01 Unghiul vântului = 313 Stare = nori 25-50%']
+Baraolt: 20 \ duminică \ 23:5:2021 \ 19:10:49
+[' Răsarit = 05:37:01 Apus = 20:52:00 Min (°C) = 11.56 Max (°C) =23.69 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.67 Viteza vântului = 0.99 Unghiul vântului = 216 Stare = nori 85-100%']
+Baraolt: 21 \ luni \ 24:5:2021 \ 19:09:42
+[' Răsarit = 05:36:07 Apus = 20:53:05 Min (°C) = 11.03 Max (°C) =20.12 Presiune = 1022 Umiditate (%) = 55 Index UV = 0.65 Viteza vântului = 0.24 Unghiul vântului = 87 Stare = nori 50-85%']
+Baraolt: 21 \ marți \ 25:5:2021 \ 19:09:42
+[' Răsarit = 05:35:16 Apus = 20:54:08 Min (°C) = 9.73 Max (°C) =26.14 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.67 Viteza vântului = 1.1 Unghiul vântului = 217 Stare = cer senin']
+Baraolt: 21 \ miercuri \ 26:5:2021 \ 19:11:34
+[' Răsarit = 05:34:27 Apus = 20:55:11 Min (°C) = 13.58 Max (°C) =20.92 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.67 Viteza vântului = 0.96 Unghiul vântului = 122 Stare = nori 50-85%']
+Baraolt: 21 \ joi \ 27:5:2021 \ 19:09:49
+[' Răsarit = 05:33:40 Apus = 20:56:12 Min (°C) = 11.78 Max (°C) =21.67 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.64 Viteza vântului = 0.78 Unghiul vântului = 208 Stare = nori 85-100%']
+Baraolt: 21 \ vineri \ 28:5:2021 \ 19:10:05
+[' Răsarit = 05:32:55 Apus = 20:57:11 Min (°C) = 11.42 Max (°C) =13.64 Presiune = 1014 Umiditate (%) = 97 Index UV = 0.06 Viteza vântului = 2.11 Unghiul vântului = 253 Stare = nori 85-100%']
+Baraolt: 21 \ sâmbătă \ 29:5:2021 \ 19:09:40
+[' Răsarit = 05:32:12 Apus = 20:58:10 Min (°C) = 11.61 Max (°C) =18.6 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.64 Viteza vântului = 3.53 Unghiul vântului = 288 Stare = nori 50-85%']
+Baraolt: 21 \ duminică \ 30:5:2021 \ 19:09:25
+[' Răsarit = 05:31:32 Apus = 20:59:07 Min (°C) = 10.26 Max (°C) =16.38 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.62 Viteza vântului = 3.97 Unghiul vântului = 297 Stare = nori 25-50%']
+Baraolt: 22 \ marți \ 01:6:2021 \ 19:10:11
+[' Răsarit = 05:30:17 Apus = 21:00:56 Min (°C) = 7.66 Max (°C) =9.49 Presiune = 1017 Umiditate (%) = 98 Index UV = 0.17 Viteza vântului = 1.49 Unghiul vântului = 252 Stare = nori 85-100%']
+Baraolt: 22 \ miercuri \ 02:6:2021 \ 19:08:32
+[' Răsarit = 05:29:43 Apus = 21:01:48 Min (°C) = 7.83 Max (°C) =14.51 Presiune = 1019 Umiditate (%) = 85 Index UV = 0.31 Viteza vântului = 0.52 Unghiul vântului = 17 Stare = nori 85-100%']
+Baraolt: 22 \ joi \ 03:6:2021 \ 19:08:59
+[' Răsarit = 05:29:12 Apus = 21:02:39 Min (°C) = 8.27 Max (°C) =14.88 Presiune = 1022 Umiditate (%) = 84 Index UV = 0.49 Viteza vântului = 2.5 Unghiul vântului = 283 Stare = nori 85-100%']
+Baraolt: 22 \ vineri \ 04:6:2021 \ 19:14:47
+[' Răsarit = 05:28:43 Apus = 21:03:28 Min (°C) = 7.45 Max (°C) =18.28 Presiune = 1023 Umiditate (%) = 82 Index UV = 0.44 Viteza vântului = 0.23 Unghiul vântului = 360 Stare = nori 85-100%']
+Baraolt: 22 \ sâmbătă \ 05:6:2021 \ 19:10:43
+[' Răsarit = 05:28:16 Apus = 21:04:15 Min (°C) = 7.78 Max (°C) =21.71 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.66 Viteza vântului = 3.47 Unghiul vântului = 320 Stare = nori 25-50%']
+Baraolt: 22 \ duminică \ 06:6:2021 \ 19:10:10
+[' Răsarit = 05:27:51 Apus = 21:05:00 Min (°C) = 9.71 Max (°C) =18.71 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.75 Viteza vântului = 1.42 Unghiul vântului = 315 Stare = nori 25-50%']
+Baraolt: 23 \ luni \ 07:6:2021 \ 19:10:14
+[' Răsarit = 05:27:29 Apus = 21:05:44 Min (°C) = 9.36 Max (°C) =21.47 Presiune = 1015 Umiditate (%) = 82 Index UV = 0.69 Viteza vântului = 0.85 Unghiul vântului = 318 Stare = nori 10-25%']
+Baraolt: 23 \ marți \ 08:6:2021 \ 19:09:56
+[' Răsarit = 05:27:09 Apus = 21:06:25 Min (°C) = 10.26 Max (°C) =21.48 Presiune = 1015 Umiditate (%) = 86 Index UV = 0.74 Viteza vântului = 1.24 Unghiul vântului = 346 Stare = nori 10-25%']
+Baraolt: 23 \ miercuri \ 09:6:2021 \ 19:10:28
+[' Răsarit = 05:26:52 Apus = 21:07:05 Min (°C) = 10.27 Max (°C) =21.97 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.49 Viteza vântului = 2.65 Unghiul vântului = 4 Stare = nori 50-85%']
+Baraolt: 23 \ joi \ 10:6:2021 \ 19:09:49
+[' Răsarit = 05:26:37 Apus = 21:07:43 Min (°C) = 10.5 Max (°C) =21.05 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.71 Viteza vântului = 2.87 Unghiul vântului = 289 Stare = nori 25-50%']
+Baraolt: 23 \ vineri \ 11:6:2021 \ 19:09:46
+[' Răsarit = 05:26:24 Apus = 21:08:18 Min (°C) = 10.41 Max (°C) =20.77 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.54 Viteza vântului = 1.37 Unghiul vântului = 265 Stare = nori 85-100%']
+Baraolt: 23 \ sâmbătă \ 12:6:2021 \ 19:09:52
+[' Răsarit = 05:26:14 Apus = 21:08:52 Min (°C) = 11.36 Max (°C) =20.23 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.71 Viteza vântului = 2.35 Unghiul vântului = 271 Stare = nori 25-50%']
+Baraolt: 23 \ duminică \ 13:6:2021 \ 19:15:10
+[' Răsarit = 05:26:06 Apus = 21:09:23 Min (°C) = 10.41 Max (°C) =15.11 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.22 Viteza vântului = 4.93 Unghiul vântului = 303 Stare = nori 50-85%']
+Baraolt: 24 \ luni \ 14:6:2021 \ 19:09:53
+[' Răsarit = 05:26:00 Apus = 21:09:53 Min (°C) = 7.2 Max (°C) =13.65 Presiune = 1015 Umiditate (%) = 93 Index UV = 0.23 Viteza vântului = 2.61 Unghiul vântului = 258 Stare = nori 85-100%']
+Baraolt: 24 \ marți \ 15:6:2021 \ 19:11:56
+[' Răsarit = 05:25:57 Apus = 21:10:20 Min (°C) = 8.34 Max (°C) =15.56 Presiune = 1013 Umiditate (%) = 93 Index UV = 0.55 Viteza vântului = 2.11 Unghiul vântului = 265 Stare = ploaie ușoară']
+Baraolt: 24 \ miercuri \ 16:6:2021 \ 19:11:02
+[' Răsarit = 05:25:56 Apus = 21:10:45 Min (°C) = 11.19 Max (°C) =20.17 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.73 Viteza vântului = 1.39 Unghiul vântului = 321 Stare = nori 50-85%']
+Baraolt: 24 \ joi \ 17:6:2021 \ 19:09:56
+[' Răsarit = 05:25:58 Apus = 21:11:07 Min (°C) = 11.5 Max (°C) =21.18 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.4 Viteza vântului = 0.15 Unghiul vântului = 313 Stare = nori 85-100%']
+Baraolt: 24 \ vineri \ 18:6:2021 \ 19:10:50
+[' Răsarit = 05:26:02 Apus = 21:11:28 Min (°C) = 14.83 Max (°C) =21.59 Presiune = 1015 Umiditate (%) = 96 Index UV = 0.52 Viteza vântului = 1.26 Unghiul vântului = 58 Stare = nori 85-100%']
+Baraolt: 24 \ sâmbătă \ 19:6:2021 \ 19:09:41
+[' Răsarit = 05:26:08 Apus = 21:11:46 Min (°C) = 12.31 Max (°C) =18.1 Presiune = 1015 Umiditate (%) = 79 Index UV = 0.56 Viteza vântului = 2.97 Unghiul vântului = 86 Stare = nori 85-100%']
+Baraolt: 24 \ duminică \ 20:6:2021 \ 19:10:44
+[' Răsarit = 05:26:17 Apus = 21:12:02 Min (°C) = 11.73 Max (°C) =20.84 Presiune = 1011 Umiditate (%) = 87 Index UV = 0.74 Viteza vântului = 1.6 Unghiul vântului = 295 Stare = nori 50-85%']
+Baraolt: 25 \ luni \ 21:6:2021 \ 19:11:22
+[' Răsarit = 05:26:28 Apus = 21:12:15 Min (°C) = 12.18 Max (°C) =25.03 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.45 Viteza vântului = 0.97 Unghiul vântului = 137 Stare = nori 50-85%']
+Baraolt: 25 \ marți \ 22:6:2021 \ 19:11:02
+[' Răsarit = 05:26:41 Apus = 21:12:26 Min (°C) = 14.06 Max (°C) =26.23 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.77 Viteza vântului = 1.38 Unghiul vântului = 303 Stare = nori 10-25%']
+Baraolt: 25 \ miercuri \ 23:6:2021 \ 19:10:18
+[' Răsarit = 05:26:57 Apus = 21:12:35 Min (°C) = 15.35 Max (°C) =28.69 Presiune = 1015 Umiditate (%) = 80 Index UV = 0.56 Viteza vântului = 2.52 Unghiul vântului = 289 Stare = nori 10-25%']
+Baraolt: 25 \ joi \ 24:6:2021 \ 19:10:59
+[' Răsarit = 05:27:14 Apus = 21:12:41 Min (°C) = 15.35 Max (°C) =30.36 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.78 Viteza vântului = 1.19 Unghiul vântului = 298 Stare = nori 10-25%']
+Baraolt: 25 \ vineri \ 25:6:2021 \ 19:10:22
+[' Răsarit = 05:27:34 Apus = 21:12:45 Min (°C) = 16.42 Max (°C) =31.78 Presiune = 1016 Umiditate (%) = 91 Index UV = 0.69 Viteza vântului = 1.81 Unghiul vântului = 117 Stare = nori 50-85%']
+Baraolt: 25 \ sâmbătă \ 26:6:2021 \ 19:09:52
+[' Răsarit = 05:27:57 Apus = 21:12:47 Min (°C) = 16.06 Max (°C) =27.81 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.66 Viteza vântului = 2.2 Unghiul vântului = 192 Stare = nori 50-85%']
+Baraolt: 25 \ duminică \ 27:6:2021 \ 19:09:49
+[' Răsarit = 05:28:21 Apus = 21:12:46 Min (°C) = 14.29 Max (°C) =25.6 Presiune = 1014 Umiditate (%) = 69 Index UV = 0.76 Viteza vântului = 3.54 Unghiul vântului = 304 Stare = nori 10-25%']
+Baraolt: 26 \ luni \ 28:6:2021 \ 19:11:41
+[' Răsarit = 05:28:48 Apus = 21:12:42 Min (°C) = 14.32 Max (°C) =26.32 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.8 Viteza vântului = 2.77 Unghiul vântului = 299 Stare = cer senin']
+Baraolt: 26 \ marți \ 29:6:2021 \ 19:11:23
+[' Răsarit = 05:29:16 Apus = 21:12:36 Min (°C) = 14.96 Max (°C) =28.93 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.8 Viteza vântului = 1.14 Unghiul vântului = 278 Stare = cer senin']
+Baraolt: 26 \ miercuri \ 30:6:2021 \ 19:10:29
+[' Răsarit = 05:29:47 Apus = 21:12:28 Min (°C) = 16.58 Max (°C) =31.96 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.67 Viteza vântului = 6.24 Unghiul vântului = 309 Stare = nori 50-85%']
+Baraolt: 26 \ joi \ 01:7:2021 \ 19:11:13
+[' Răsarit = 05:30:20 Apus = 21:12:17 Min (°C) = 14.53 Max (°C) =27.1 Presiune = 1013 Umiditate (%) = 96 Index UV = 0.37 Viteza vântului = 1.61 Unghiul vântului = 132 Stare = nori 85-100%']
+Baraolt: 26 \ vineri \ 02:7:2021 \ 19:09:58
+[' Răsarit = 05:30:54 Apus = 21:12:04 Min (°C) = 14.01 Max (°C) =19.65 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.7 Viteza vântului = 2.3 Unghiul vântului = 284 Stare = nori 50-85%']
+Baraolt: 26 \ sâmbătă \ 03:7:2021 \ 19:10:07
+[' Răsarit = 05:31:31 Apus = 21:11:49 Min (°C) = 10.8 Max (°C) =18.05 Presiune = 1012 Umiditate (%) = 90 Index UV = 0.65 Viteza vântului = 4.24 Unghiul vântului = 286 Stare = nori 85-100%']
+Baraolt: 26 \ duminică \ 04:7:2021 \ 19:09:54
+[' Răsarit = 05:32:10 Apus = 21:11:31 Min (°C) = 13.42 Max (°C) =18.07 Presiune = 1011 Umiditate (%) = 93 Index UV = 0.44 Viteza vântului = 3.5 Unghiul vântului = 278 Stare = nori 85-100%']
+Baraolt: 27 \ luni \ 05:7:2021 \ 19:10:32
+[' Răsarit = 05:32:50 Apus = 21:11:10 Min (°C) = 13.18 Max (°C) =21.11 Presiune = 1010 Umiditate (%) = 86 Index UV = 0.54 Viteza vântului = 1.21 Unghiul vântului = 306 Stare = nori 85-100%']
+Baraolt: 27 \ marți \ 06:7:2021 \ 19:10:44
+[' Răsarit = 05:33:32 Apus = 21:10:47 Min (°C) = 15.62 Max (°C) =24.45 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.74 Viteza vântului = 2.27 Unghiul vântului = 309 Stare = nori 25-50%']
+Baraolt: 27 \ miercuri \ 07:7:2021 \ 19:09:53
+[' Răsarit = 05:34:16 Apus = 21:10:22 Min (°C) = 15.48 Max (°C) =26.87 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.71 Viteza vântului = 1.82 Unghiul vântului = 59 Stare = ploaie ușoară']
+Baraolt: 27 \ joi \ 08:7:2021 \ 19:10:35
+[' Răsarit = 05:35:02 Apus = 21:09:54 Min (°C) = 16.21 Max (°C) =28.08 Presiune = 1021 Umiditate (%) = 61 Index UV = 0.74 Viteza vântului = 4.82 Unghiul vântului = 94 Stare = nori 10-25%']
+Baraolt: 27 \ vineri \ 09:7:2021 \ 19:10:34
+[' Răsarit = 05:35:49 Apus = 21:09:24 Min (°C) = 15.75 Max (°C) =28.27 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.76 Viteza vântului = 4.87 Unghiul vântului = 97 Stare = cer senin']
+Baraolt: 27 \ sâmbătă \ 10:7:2021 \ 19:09:45
+[' Răsarit = 05:36:39 Apus = 21:08:52 Min (°C) = 15.1 Max (°C) =28.51 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.44 Viteza vântului = 1.76 Unghiul vântului = 116 Stare = cer senin']
+Baraolt: 27 \ duminică \ 11:7:2021 \ 19:09:59
+[' Răsarit = 05:37:29 Apus = 21:08:18 Min (°C) = 14.85 Max (°C) =28.94 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.15 Viteza vântului = 3.13 Unghiul vântului = 109 Stare = ploaie ușoară']
+Baraolt: 28 \ luni \ 12:7:2021 \ 19:10:49
+[' Răsarit = 05:38:21 Apus = 21:07:41 Min (°C) = 14.4 Max (°C) =27.98 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.43 Viteza vântului = 0.81 Unghiul vântului = 116 Stare = nori 50-85%']
+Baraolt: 28 \ marți \ 13:7:2021 \ 19:10:48
+[' Răsarit = 05:39:15 Apus = 21:07:01 Min (°C) = 15.15 Max (°C) =29.5 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.56 Viteza vântului = 1.85 Unghiul vântului = 77 Stare = nori 10-25%']
+Baraolt: 28 \ miercuri \ 14:7:2021 \ 19:10:16
+[' Răsarit = 05:40:10 Apus = 21:06:20 Min (°C) = 16.69 Max (°C) =30.14 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.75 Viteza vântului = 3.7 Unghiul vântului = 130 Stare = cer senin']
+Baraolt: 28 \ joi \ 15:7:2021 \ 19:10:49
+[' Răsarit = 05:41:06 Apus = 21:05:36 Min (°C) = 16.5 Max (°C) =31 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.74 Viteza vântului = 3.58 Unghiul vântului = 116 Stare = cer senin']
+Baraolt: 28 \ vineri \ 16:7:2021 \ 19:10:10
+[' Răsarit = 05:42:04 Apus = 21:04:50 Min (°C) = 17.14 Max (°C) =30.75 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.65 Viteza vântului = 3.83 Unghiul vântului = 122 Stare = nori 25-50%']
+Baraolt: 28 \ sâmbătă \ 17:7:2021 \ 19:10:29
+[' Răsarit = 05:43:03 Apus = 21:04:02 Min (°C) = 15.91 Max (°C) =30.25 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.66 Viteza vântului = 4.81 Unghiul vântului = 88 Stare = nori 10-25%']
+Baraolt: 28 \ duminică \ 18:7:2021 \ 19:10:55
+[' Răsarit = 05:44:03 Apus = 21:03:12 Min (°C) = 16.68 Max (°C) =30.58 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.52 Viteza vântului = 4.43 Unghiul vântului = 95 Stare = nori 50-85%']
+Baraolt: 29 \ luni \ 19:7:2021 \ 19:10:30
+[' Răsarit = 05:45:04 Apus = 21:02:20 Min (°C) = 17.62 Max (°C) =31.72 Presiune = 1010 Umiditate (%) = 88 Index UV = 0.27 Viteza vântului = 1.81 Unghiul vântului = 42 Stare = nori 50-85%']
+Baraolt: 29 \ marți \ 20:7:2021 \ 19:10:09
+[' Răsarit = 05:46:07 Apus = 21:01:25 Min (°C) = 16.99 Max (°C) =23.21 Presiune = 1011 Umiditate (%) = 96 Index UV = 0.62 Viteza vântului = 1.81 Unghiul vântului = 265 Stare = nori 85-100%']
+Baraolt: 29 \ miercuri \ 21:7:2021 \ 19:09:56
+[' Răsarit = 05:47:10 Apus = 21:00:29 Min (°C) = 15.61 Max (°C) =20.88 Presiune = 1015 Umiditate (%) = 90 Index UV = 0.48 Viteza vântului = 2.89 Unghiul vântului = 309 Stare = nori 50-85%']
+Baraolt: 29 \ joi \ 22:7:2021 \ 19:09:40
+[' Răsarit = 05:48:14 Apus = 20:59:30 Min (°C) = 13.28 Max (°C) =21.47 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.4 Viteza vântului = 2.96 Unghiul vântului = 296 Stare = nori 50-85%']
+Baraolt: 29 \ vineri \ 23:7:2021 \ 19:10:09
+[' Răsarit = 05:49:20 Apus = 20:58:30 Min (°C) = 15.01 Max (°C) =23.93 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.34 Viteza vântului = 2.09 Unghiul vântului = 34 Stare = nori 50-85%']
+Baraolt: 29 \ sâmbătă \ 24:7:2021 \ 19:16:59
+[' Răsarit = 05:50:26 Apus = 20:57:27 Min (°C) = 12.86 Max (°C) =24.23 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.36 Viteza vântului = 0.99 Unghiul vântului = 104 Stare = nori 85-100%']
+Baraolt: 29 \ duminică \ 25:7:2021 \ 19:10:26
+[' Răsarit = 05:51:33 Apus = 20:56:23 Min (°C) = 13.53 Max (°C) =27.26 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.6 Viteza vântului = 2.11 Unghiul vântului = 138 Stare = nori 25-50%']
+Baraolt: 30 \ luni \ 26:7:2021 \ 19:10:30
+[' Răsarit = 05:52:41 Apus = 20:55:16 Min (°C) = 14.81 Max (°C) =29.23 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.57 Viteza vântului = 0.61 Unghiul vântului = 265 Stare = nori 25-50%']
+Baraolt: 30 \ marți \ 27:7:2021 \ 19:11:24
+[' Răsarit = 05:53:50 Apus = 20:54:08 Min (°C) = 16.9 Max (°C) =31.35 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.6 Viteza vântului = 2.8 Unghiul vântului = 248 Stare = cer senin']
+Baraolt: 30 \ miercuri \ 28:7:2021 \ 19:12:49
+[' Răsarit = 05:54:59 Apus = 20:52:58 Min (°C) = 17.45 Max (°C) =33.42 Presiune = 1018 Umiditate (%) = 90 Index UV = 0.05 Viteza vântului = 2.38 Unghiul vântului = 17 Stare = ploaie ușoară']
+Baraolt: 30 \ joi \ 29:7:2021 \ 19:11:14
+[' Răsarit = 05:56:09 Apus = 20:51:46 Min (°C) = 16.46 Max (°C) =32.93 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.56 Viteza vântului = 3.5 Unghiul vântului = 261 Stare = nori 10-25%']
+Baraolt: 30 \ vineri \ 30:7:2021 \ 19:09:54
+[' Răsarit = 05:57:20 Apus = 20:50:33 Min (°C) = 16.51 Max (°C) =29.86 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.47 Viteza vântului = 2.38 Unghiul vântului = 259 Stare = cer senin']
+Baraolt: 30 \ sâmbătă \ 31:7:2021 \ 19:09:48
+[' Răsarit = 05:58:31 Apus = 20:49:17 Min (°C) = 17.19 Max (°C) =31.37 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.22 Viteza vântului = 2.67 Unghiul vântului = 212 Stare = nori 25-50%']
+Baraolt: 30 \ duminică \ 01:8:2021 \ 19:10:11
+[' Răsarit = 05:59:43 Apus = 20:48:00 Min (°C) = 16.6 Max (°C) =33.1 Presiune = 1009 Umiditate (%) = 39 Index UV = 0.55 Viteza vântului = 2.14 Unghiul vântului = 158 Stare = cer senin']
+Baraolt: 31 \ luni \ 02:8:2021 \ 19:09:42
+[' Răsarit = 06:00:55 Apus = 20:46:42 Min (°C) = 18.53 Max (°C) =31.74 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.31 Viteza vântului = 4.66 Unghiul vântului = 317 Stare = nori 25-50%']
+Baraolt: 31 \ marți \ 03:8:2021 \ 19:09:57
+[' Răsarit = 06:02:07 Apus = 20:45:21 Min (°C) = 15.42 Max (°C) =26.28 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.4 Viteza vântului = 1.05 Unghiul vântului = 262 Stare = nori 50-85%']
+Baraolt: 31 \ miercuri \ 04:8:2021 \ 19:10:50
+[' Răsarit = 06:03:21 Apus = 20:43:59 Min (°C) = 14.42 Max (°C) =30.08 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.15 Viteza vântului = 1.43 Unghiul vântului = 225 Stare = nori 50-85%']
+Baraolt: 31 \ joi \ 05:8:2021 \ 19:08:28
+[' Răsarit = 06:04:34 Apus = 20:42:36 Min (°C) = 15.27 Max (°C) =33.58 Presiune = 1005 Umiditate (%) = 39 Index UV = 0.44 Viteza vântului = 2.76 Unghiul vântului = 220 Stare = nori 10-25%']
+Baraolt: 31 \ vineri \ 06:8:2021 \ 19:10:08
+[' Răsarit = 06:05:48 Apus = 20:41:11 Min (°C) = 15.44 Max (°C) =23.77 Presiune = 1006 Umiditate (%) = 49 Index UV = 0.44 Viteza vântului = 5.65 Unghiul vântului = 298 Stare = nori 85-100%']
+Baraolt: 31 \ sâmbătă \ 07:8:2021 \ 19:09:26
+[' Răsarit = 06:07:02 Apus = 20:39:44 Min (°C) = 11.33 Max (°C) =25.59 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.46 Viteza vântului = 2.12 Unghiul vântului = 292 Stare = cer senin']
+Baraolt: 31 \ duminică \ 08:8:2021 \ 19:09:50
+[' Răsarit = 06:08:16 Apus = 20:38:17 Min (°C) = 12.38 Max (°C) =29.96 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.46 Viteza vântului = 1.57 Unghiul vântului = 216 Stare = cer senin']
+Baraolt: 32 \ luni \ 09:8:2021 \ 19:10:53
+[' Răsarit = 06:09:31 Apus = 20:36:47 Min (°C) = 16.22 Max (°C) =32.48 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.42 Viteza vântului = 2.76 Unghiul vântului = 208 Stare = nori 25-50%']
+Baraolt: 32 \ marți \ 10:8:2021 \ 19:10:39
+[' Răsarit = 06:10:45 Apus = 20:35:16 Min (°C) = 16.01 Max (°C) =30.5 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.39 Viteza vântului = 1.98 Unghiul vântului = 323 Stare = nori 50-85%']
+Baraolt: 32 \ miercuri \ 11:8:2021 \ 19:08:11
+[' Răsarit = 06:12:00 Apus = 20:33:44 Min (°C) = 14.14 Max (°C) =29.43 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.19 Viteza vântului = 2.99 Unghiul vântului = 336 Stare = nori 25-50%']
+Baraolt: 32 \ joi \ 12:8:2021 \ 19:09:15
+[' Răsarit = 06:13:16 Apus = 20:32:11 Min (°C) = 14.57 Max (°C) =28.69 Presiune = 1019 Umiditate (%) = 38 Index UV = 0.39 Viteza vântului = 1.81 Unghiul vântului = 330 Stare = nori 10-25%']
+Baraolt: 32 \ vineri \ 13:8:2021 \ 19:08:19
+[' Răsarit = 06:14:31 Apus = 20:30:36 Min (°C) = 12.86 Max (°C) =27.58 Presiune = 1021 Umiditate (%) = 31 Index UV = 0.39 Viteza vântului = 2.83 Unghiul vântului = 307 Stare = nori 25-50%']
+Baraolt: 32 \ sâmbătă \ 14:8:2021 \ 19:09:19
+[' Răsarit = 06:15:46 Apus = 20:29:00 Min (°C) = 12.63 Max (°C) =29 Presiune = 1019 Umiditate (%) = 32 Index UV = 0.4 Viteza vântului = 2.29 Unghiul vântului = 280 Stare = cer senin']
+Baraolt: 32 \ duminică \ 15:8:2021 \ 19:08:33
+[' Răsarit = 06:17:02 Apus = 20:27:23 Min (°C) = 13.96 Max (°C) =30.51 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.38 Viteza vântului = 1.93 Unghiul vântului = 233 Stare = cer senin']
+Baraolt: 33 \ luni \ 16:8:2021 \ 19:08:17
+[' Răsarit = 06:18:17 Apus = 20:25:45 Min (°C) = 16.05 Max (°C) =33.01 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.38 Viteza vântului = 2.79 Unghiul vântului = 169 Stare = nori 10-25%']
+Baraolt: 33 \ marți \ 17:8:2021 \ 19:08:45
+[' Răsarit = 06:19:33 Apus = 20:24:05 Min (°C) = 17.44 Max (°C) =34.55 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.09 Viteza vântului = 2.95 Unghiul vântului = 344 Stare = nori 50-85%']
+Baraolt: 33 \ miercuri \ 18:8:2021 \ 19:08:32
+[' Răsarit = 06:20:48 Apus = 20:22:25 Min (°C) = 14.82 Max (°C) =22.45 Presiune = 1014 Umiditate (%) = 97 Index UV = 0.18 Viteza vântului = 2.24 Unghiul vântului = 273 Stare = ploaie ușoară']
+Baraolt: 33 \ joi \ 19:8:2021 \ 19:08:16
+[' Răsarit = 06:22:04 Apus = 20:20:43 Min (°C) = 10.59 Max (°C) =22.28 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.31 Viteza vântului = 2.86 Unghiul vântului = 306 Stare = nori 25-50%']
+Baraolt: 33 \ vineri \ 20:8:2021 \ 19:08:27
+[' Răsarit = 06:23:19 Apus = 20:19:00 Min (°C) = 9.58 Max (°C) =24.48 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.33 Viteza vântului = 0.96 Unghiul vântului = 252 Stare = cer senin']
+Baraolt: 33 \ sâmbătă \ 21:8:2021 \ 19:09:21
+[' Răsarit = 06:24:35 Apus = 20:17:16 Min (°C) = 11.76 Max (°C) =26.18 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.27 Viteza vântului = 1.69 Unghiul vântului = 322 Stare = nori 85-100%']
+Baraolt: 33 \ duminică \ 22:8:2021 \ 19:08:36
+[' Răsarit = 06:25:50 Apus = 20:15:32 Min (°C) = 12.87 Max (°C) =27.07 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.29 Viteza vântului = 1.34 Unghiul vântului = 178 Stare = nori 85-100%']
+Baraolt: 34 \ luni \ 23:8:2021 \ 19:08:24
+[' Răsarit = 06:27:06 Apus = 20:13:46 Min (°C) = 13.92 Max (°C) =29.21 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.07 Viteza vântului = 2.38 Unghiul vântului = 153 Stare = nori 50-85%']
+Baraolt: 34 \ marți \ 24:8:2021 \ 19:08:21
+[' Răsarit = 06:28:21 Apus = 20:11:59 Min (°C) = 14.62 Max (°C) =28.52 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.24 Viteza vântului = 2.28 Unghiul vântului = 290 Stare = nori 50-85%']
+Baraolt: 34 \ miercuri \ 25:8:2021 \ 19:08:24
+[' Răsarit = 06:29:37 Apus = 20:10:12 Min (°C) = 13.89 Max (°C) =25 Presiune = 1012 Umiditate (%) = 96 Index UV = 0.06 Viteza vântului = 1.65 Unghiul vântului = 41 Stare = nori 85-100%']
+Baraolt: 34 \ joi \ 26:8:2021 \ 19:09:24
+[' Răsarit = 06:30:52 Apus = 20:08:23 Min (°C) = 13.64 Max (°C) =20.48 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.16 Viteza vântului = 0.67 Unghiul vântului = 255 Stare = nori 50-85%']
+Baraolt: 34 \ vineri \ 27:8:2021 \ 19:10:15
+[' Răsarit = 06:32:07 Apus = 20:06:34 Min (°C) = 10.46 Max (°C) =25.42 Presiune = 1013 Umiditate (%) = 93 Index UV = 0.08 Viteza vântului = 2.31 Unghiul vântului = 278 Stare = nori 85-100%']
+Baraolt: 34 \ sâmbătă \ 28:8:2021 \ 19:11:19
+[' Răsarit = 06:33:22 Apus = 20:04:44 Min (°C) = 11.93 Max (°C) =24.03 Presiune = 1012 Umiditate (%) = 84 Index UV = 0.1 Viteza vântului = 3.09 Unghiul vântului = 75 Stare = nori 50-85%']
+Baraolt: 34 \ duminică \ 29:8:2021 \ 19:10:33
+[' Răsarit = 06:34:37 Apus = 20:02:54 Min (°C) = 14.91 Max (°C) =19.89 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.15 Viteza vântului = 0.79 Unghiul vântului = 170 Stare = nori 50-85%']
+Baraolt: 35 \ luni \ 30:8:2021 \ 19:10:23
+[' Răsarit = 06:35:52 Apus = 20:01:02 Min (°C) = 12.64 Max (°C) =19.42 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.21 Viteza vântului = 3.97 Unghiul vântului = 266 Stare = nori 85-100%']
+Baraolt: 35 \ marți \ 31:8:2021 \ 19:10:24
+[' Răsarit = 06:37:07 Apus = 19:59:10 Min (°C) = 8.59 Max (°C) =20.91 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.2 Viteza vântului = 4.43 Unghiul vântului = 283 Stare = nori 50-85%']
+Baraolt: 35 \ miercuri \ 01:9:2021 \ 19:09:53
+[' Răsarit = 06:38:22 Apus = 19:57:17 Min (°C) = 9.78 Max (°C) =14.82 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.04 Viteza vântului = 5.25 Unghiul vântului = 280 Stare = nori 85-100%']
+Baraolt: 35 \ joi \ 02:9:2021 \ 19:13:02
+[' Răsarit = 06:39:37 Apus = 19:55:24 Min (°C) = 11.2 Max (°C) =16.45 Presiune = 1020 Umiditate (%) = 58 Index UV = 0.14 Viteza vântului = 5.46 Unghiul vântului = 293 Stare = nori 50-85%']
+Baraolt: 35 \ vineri \ 03:9:2021 \ 19:09:55
+[' Răsarit = 06:40:52 Apus = 19:53:30 Min (°C) = 6.74 Max (°C) =19.08 Presiune = 1019 Umiditate (%) = 58 Index UV = 0.18 Viteza vântului = 2.24 Unghiul vântului = 289 Stare = nori 10-25%']
+Baraolt: 35 \ sâmbătă \ 04:9:2021 \ 19:09:28
+[' Răsarit = 06:42:06 Apus = 19:51:35 Min (°C) = 7.57 Max (°C) =20.36 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.14 Viteza vântului = 1.44 Unghiul vântului = 294 Stare = nori 10-25%']
+Baraolt: 35 \ duminică \ 05:9:2021 \ 19:10:25
+[' Răsarit = 06:43:21 Apus = 19:49:40 Min (°C) = 9.52 Max (°C) =21.06 Presiune = 1021 Umiditate (%) = 70 Index UV = 0.15 Viteza vântului = 2.79 Unghiul vântului = 62 Stare = nori 50-85%']
+Baraolt: 36 \ luni \ 06:9:2021 \ 19:11:15
+[' Răsarit = 06:44:35 Apus = 19:47:44 Min (°C) = 7.83 Max (°C) =21.31 Presiune = 1023 Umiditate (%) = 52 Index UV = 0.1 Viteza vântului = 0.21 Unghiul vântului = 77 Stare = nori 10-25%']
+Baraolt: 36 \ marți \ 07:9:2021 \ 19:10:49
+[' Răsarit = 06:45:50 Apus = 19:45:48 Min (°C) = 7.92 Max (°C) =22.47 Presiune = 1024 Umiditate (%) = 49 Index UV = 0.14 Viteza vântului = 0.2 Unghiul vântului = 309 Stare = cer senin']
+Baraolt: 36 \ miercuri \ 08:9:2021 \ 19:10:36
+[' Răsarit = 06:47:04 Apus = 19:43:52 Min (°C) = 8.22 Max (°C) =22.68 Presiune = 1023 Umiditate (%) = 52 Index UV = 0.13 Viteza vântului = 3.16 Unghiul vântului = 101 Stare = cer senin']
+Baraolt: 36 \ joi \ 09:9:2021 \ 19:11:04
+[' Răsarit = 06:48:19 Apus = 19:41:55 Min (°C) = 7.45 Max (°C) =22.38 Presiune = 1019 Umiditate (%) = 43 Index UV = 0.13 Viteza vântului = 2.34 Unghiul vântului = 94 Stare = nori 50-85%']
+Baraolt: 36 \ vineri \ 10:9:2021 \ 19:12:11
+[' Răsarit = 06:49:33 Apus = 19:39:58 Min (°C) = 7.76 Max (°C) =24.2 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.11 Viteza vântului = 0.2 Unghiul vântului = 148 Stare = nori 50-85%']
+Baraolt: 36 \ sâmbătă \ 11:9:2021 \ 19:10:12
+[' Răsarit = 06:50:47 Apus = 19:38:00 Min (°C) = 9.84 Max (°C) =24.82 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.09 Viteza vântului = 0.87 Unghiul vântului = 222 Stare = nori 50-85%']
+Baraolt: 36 \ duminică \ 12:9:2021 \ 19:10:05
+[' Răsarit = 06:52:02 Apus = 19:36:02 Min (°C) = 10.07 Max (°C) =24.83 Presiune = 1014 Umiditate (%) = 48 Index UV = 0.1 Viteza vântului = 0.78 Unghiul vântului = 257 Stare = cer senin']
+Baraolt: 37 \ luni \ 13:9:2021 \ 19:10:33
+[' Răsarit = 06:53:16 Apus = 19:34:04 Min (°C) = 11.75 Max (°C) =23.54 Presiune = 1015 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 253 Stare = nori 85-100%']
+Baraolt: 37 \ marți \ 14:9:2021 \ 19:11:42
+[' Răsarit = 06:54:30 Apus = 19:32:06 Min (°C) = 11.12 Max (°C) =24.88 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 340 Stare = nori 50-85%']
+Baraolt: 37 \ joi \ 16:9:2021 \ 19:10:21
+[' Răsarit = 06:56:59 Apus = 19:28:09 Min (°C) = 12.05 Max (°C) =25.95 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 109 Stare = nori 50-85%']
+Baraolt: 37 \ vineri \ 17:9:2021 \ 19:11:43
+[' Răsarit = 06:58:14 Apus = 19:26:10 Min (°C) = 14.77 Max (°C) =24.93 Presiune = 1009 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 18 Stare = ploaie moderată']
+Baraolt: 37 \ sâmbătă \ 18:9:2021 \ 19:12:23
+[' Răsarit = 06:59:28 Apus = 19:24:11 Min (°C) = 11.82 Max (°C) =16.28 Presiune = 1011 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 310 Stare = nori 25-50%']
+Baraolt: 37 \ duminică \ 19:9:2021 \ 19:10:47
+[' Răsarit = 07:00:43 Apus = 19:22:12 Min (°C) = 10.34 Max (°C) =17.59 Presiune = 1012 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 308 Stare = nori 50-85%']
+Baraolt: 38 \ luni \ 20:9:2021 \ 19:10:48
+[' Răsarit = 07:01:58 Apus = 19:20:13 Min (°C) = 8.99 Max (°C) =17.02 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 298 Stare = nori 85-100%']
+Baraolt: 38 \ marți \ 21:9:2021 \ 19:10:11
+[' Răsarit = 07:03:13 Apus = 19:18:14 Min (°C) = 3.93 Max (°C) =13.02 Presiune = 1023 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.14 Unghiul vântului = 308 Stare = nori 25-50%']
+Baraolt: 38 \ miercuri \ 22:9:2021 \ 19:10:50
+[' Răsarit = 07:04:27 Apus = 19:16:15 Min (°C) = 3.29 Max (°C) =10.08 Presiune = 1019 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 324 Stare = nori 85-100%']
+Baraolt: 38 \ joi \ 23:9:2021 \ 19:09:51
+[' Răsarit = 07:05:43 Apus = 19:14:16 Min (°C) = 5.79 Max (°C) =9.57 Presiune = 1019 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.33 Unghiul vântului = 286 Stare = nori 85-100%']
+Baraolt: 39 \ luni \ 27:9:2021 \ 19:09:57
+[' Răsarit = 07:10:45 Apus = 19:06:22 Min (°C) = 9.83 Max (°C) =23.47 Presiune = 1017 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 89 Stare = cer senin']
+Baraolt: 39 \ marți \ 28:9:2021 \ 19:11:29
+[' Răsarit = 07:12:01 Apus = 19:04:23 Min (°C) = 10.01 Max (°C) =13.62 Presiune = 1022 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 83 Stare = nori 85-100%']
+Baraolt: 39 \ miercuri \ 29:9:2021 \ 19:12:03
+[' Răsarit = 07:13:17 Apus = 19:02:26 Min (°C) = 8.46 Max (°C) =14.51 Presiune = 1026 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 91 Stare = nori 50-85%']
+Baraolt: 39 \ joi \ 30:9:2021 \ 19:10:20
+[' Răsarit = 07:14:33 Apus = 19:00:28 Min (°C) = 5.49 Max (°C) =17 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 87 Stare = nori 85-100%']
+Baraolt: 39 \ vineri \ 01:10:2021 \ 19:11:15
+[' Răsarit = 07:15:50 Apus = 18:58:31 Min (°C) = 5.2 Max (°C) =17.25 Presiune = 1027 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 94 Stare = nori 85-100%']
+Baraolt: 39 \ sâmbătă \ 02:10:2021 \ 19:10:22
+[' Răsarit = 07:17:07 Apus = 18:56:34 Min (°C) = 3.28 Max (°C) =16.76 Presiune = 1024 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 86 Stare = cer senin']
+Baraolt: 39 \ duminică \ 03:10:2021 \ 19:09:53
+[' Răsarit = 07:18:24 Apus = 18:54:38 Min (°C) = 4.06 Max (°C) =18.09 Presiune = 1023 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 93 Stare = nori 10-25%']
+Baraolt: 40 \ luni \ 04:10:2021 \ 19:14:02
+[' Răsarit = 07:19:42 Apus = 18:52:42 Min (°C) = 5.03 Max (°C) =19.07 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 104 Stare = nori 50-85%']
+Baraolt: 40 \ marți \ 05:10:2021 \ 19:11:59
+[' Răsarit = 07:21:00 Apus = 18:50:47 Min (°C) = 5.98 Max (°C) =18.05 Presiune = 1026 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 4.58 Unghiul vântului = 112 Stare = cer senin']
+Baraolt: 40 \ miercuri \ 06:10:2021 \ 19:10:08
+[' Răsarit = 07:22:18 Apus = 18:48:52 Min (°C) = 3.65 Max (°C) =15.3 Presiune = 1024 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 5.37 Unghiul vântului = 118 Stare = nori 25-50%']
+Baraolt: 40 \ joi \ 07:10:2021 \ 19:11:57
+[' Răsarit = 07:23:36 Apus = 18:46:58 Min (°C) = 5.45 Max (°C) =11.47 Presiune = 1027 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.63 Unghiul vântului = 87 Stare = nori 85-100%']
+Baraolt: 40 \ vineri \ 08:10:2021 \ 19:11:20
+[' Răsarit = 07:24:55 Apus = 18:45:04 Min (°C) = 3.86 Max (°C) =10.17 Presiune = 1029 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 4.98 Unghiul vântului = 74 Stare = nori 85-100%']
+Baraolt: 40 \ sâmbătă \ 09:10:2021 \ 19:09:47
+[' Răsarit = 07:26:14 Apus = 18:43:11 Min (°C) = 3.41 Max (°C) =11.16 Presiune = 1029 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 4.52 Unghiul vântului = 76 Stare = nori 85-100%']
+Baraolt: 40 \ duminică \ 10:10:2021 \ 19:10:53
+[' Răsarit = 07:27:34 Apus = 18:41:18 Min (°C) = 0.99 Max (°C) =14.28 Presiune = 1026 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 82 Stare = nori 25-50%']
+Baraolt: 41 \ luni \ 11:10:2021 \ 19:10:32
+[' Răsarit = 07:28:54 Apus = 18:39:27 Min (°C) = 2.82 Max (°C) =15.93 Presiune = 1017 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 124 Stare = nori 85-100%']
+Baraolt: 41 \ marți \ 12:10:2021 \ 19:10:37
+[' Răsarit = 07:30:14 Apus = 18:37:36 Min (°C) = 7.42 Max (°C) =9.11 Presiune = 1013 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 280 Stare = nori 85-100%']
+Baraolt: 41 \ miercuri \ 13:10:2021 \ 19:10:33
+[' Răsarit = 07:31:34 Apus = 18:35:45 Min (°C) = 5.58 Max (°C) =8.1 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 50 Stare = nori 85-100%']
+Baraolt: 41 \ joi \ 14:10:2021 \ 19:10:18
+[' Răsarit = 07:32:55 Apus = 18:33:56 Min (°C) = 4.73 Max (°C) =9.42 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 127 Stare = ploaie ușoară']
+Baraolt: 41 \ vineri \ 15:10:2021 \ 19:10:08
+[' Răsarit = 07:34:17 Apus = 18:32:07 Min (°C) = 2.73 Max (°C) =10.05 Presiune = 1019 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 110 Stare = nori 85-100%']
+Baraolt: 41 \ sâmbătă \ 16:10:2021 \ 19:10:16
+[' Răsarit = 07:35:38 Apus = 18:30:20 Min (°C) = 6.99 Max (°C) =8.42 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 100 Stare = ploaie ușoară']
+Baraolt: 41 \ duminică \ 17:10:2021 \ 19:09:31
+[' Răsarit = 07:37:00 Apus = 18:28:33 Min (°C) = 7.3 Max (°C) =11.16 Presiune = 1022 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 208 Stare = nori 85-100%']
+Baraolt: 42 \ luni \ 18:10:2021 \ 19:09:21
+[' Răsarit = 07:38:23 Apus = 18:26:47 Min (°C) = 6.73 Max (°C) =13.08 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 309 Stare = nori 50-85%']
+Baraolt: 42 \ marți \ 19:10:2021 \ 19:10:59
+[' Răsarit = 07:39:45 Apus = 18:25:02 Min (°C) = 4.89 Max (°C) =12.23 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 321 Stare = nori 25-50%']
+Baraolt: 42 \ miercuri \ 20:10:2021 \ 19:08:57
+[' Răsarit = 07:41:08 Apus = 18:23:18 Min (°C) = 3.95 Max (°C) =15.61 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 1 Stare = nori 50-85%']
+Baraolt: 42 \ joi \ 21:10:2021 \ 19:10:32
+[' Răsarit = 07:42:32 Apus = 18:21:35 Min (°C) = 6.16 Max (°C) =18.77 Presiune = 1014 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 258 Stare = nori 85-100%']
+Baraolt: 42 \ vineri \ 22:10:2021 \ 19:08:39
+[' Răsarit = 07:43:56 Apus = 18:19:54 Min (°C) = 8.69 Max (°C) =15.68 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 340 Stare = nori 85-100%']
+Baraolt: 42 \ sâmbătă \ 23:10:2021 \ 19:09:59
+[' Răsarit = 07:45:20 Apus = 18:18:13 Min (°C) = 8.99 Max (°C) =13.22 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 277 Stare = nori 50-85%']
+Baraolt: 42 \ duminică \ 24:10:2021 \ 19:09:38
+[' Răsarit = 07:46:44 Apus = 18:16:34 Min (°C) = 2.27 Max (°C) =9.91 Presiune = 1033 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 297 Stare = cer senin']
+Baraolt: 43 \ luni \ 25:10:2021 \ 19:09:13
+[' Răsarit = 07:48:09 Apus = 18:14:55 Min (°C) = -0.4 Max (°C) =11.41 Presiune = 1029 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 97 Stare = cer senin']
+Baraolt: 43 \ marți \ 26:10:2021 \ 19:08:43
+[' Răsarit = 07:49:34 Apus = 18:13:18 Min (°C) = 0.9 Max (°C) =13.56 Presiune = 1024 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 117 Stare = cer senin']
+Baraolt: 43 \ miercuri \ 27:10:2021 \ 19:10:53
+[' Răsarit = 07:50:59 Apus = 18:11:43 Min (°C) = 1.26 Max (°C) =12.16 Presiune = 1028 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 317 Stare = nori 10-25%']
+Baraolt: 43 \ joi \ 28:10:2021 \ 19:08:57
+[' Răsarit = 07:52:25 Apus = 18:10:08 Min (°C) = 2 Max (°C) =14.27 Presiune = 1026 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 130 Stare = nori 50-85%']
+Baraolt: 43 \ vineri \ 29:10:2021 \ 19:09:23
+[' Răsarit = 07:53:51 Apus = 18:08:35 Min (°C) = 4.99 Max (°C) =17.25 Presiune = 1024 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 95 Stare = cer senin']
+Baraolt: 43 \ sâmbătă \ 30:10:2021 \ 19:09:12
+[' Răsarit = 07:55:17 Apus = 18:07:04 Min (°C) = 4.22 Max (°C) =16.3 Presiune = 1023 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 103 Stare = cer senin']
+Baraolt: 43 \ duminică \ 31:10:2021 \ 19:09:00
+[' Răsarit = 06:56:43 Apus = 17:05:33 Min (°C) = 2.38 Max (°C) =15.73 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 105 Stare = cer senin']
+Baraolt: 44 \ luni \ 01:11:2021 \ 19:09:13
+[' Răsarit = 06:58:09 Apus = 17:04:05 Min (°C) = 1.89 Max (°C) =12.99 Presiune = 1013 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 102 Stare = nori 10-25%']
+Baraolt: 44 \ marți \ 02:11:2021 \ 19:09:40
+[' Răsarit = 06:59:36 Apus = 17:02:37 Min (°C) = 1.93 Max (°C) =14.39 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 105 Stare = nori 85-100%']
+Baraolt: 44 \ miercuri \ 03:11:2021 \ 19:09:23
+[' Răsarit = 07:01:03 Apus = 17:01:12 Min (°C) = 5.54 Max (°C) =13.37 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 87 Stare = nori 50-85%']
+Baraolt: 44 \ joi \ 04:11:2021 \ 19:08:12
+[' Răsarit = 07:02:29 Apus = 16:59:48 Min (°C) = 8.48 Max (°C) =22.5 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 125 Stare = cer senin']
+Baraolt: 44 \ vineri \ 05:11:2021 \ 19:11:22
+[' Răsarit = 07:03:56 Apus = 16:58:25 Min (°C) = 11.5 Max (°C) =24.71 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 268 Stare = nori 50-85%']
+Baraolt: 44 \ sâmbătă \ 06:11:2021 \ 19:10:19
+[' Răsarit = 07:05:23 Apus = 16:57:04 Min (°C) = 10.27 Max (°C) =12.07 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 298 Stare = nori 85-100%']
+Baraolt: 44 \ duminică \ 07:11:2021 \ 19:10:08
+[' Răsarit = 07:06:50 Apus = 16:55:45 Min (°C) = 8.89 Max (°C) =17.02 Presiune = 1017 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 103 Stare = nori 50-85%']
+Baraolt: 45 \ luni \ 08:11:2021 \ 19:09:52
+[' Răsarit = 07:08:17 Apus = 16:54:28 Min (°C) = 8.1 Max (°C) =13.42 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 232 Stare = ploaie ușoară']
+Baraolt: 45 \ marți \ 09:11:2021 \ 19:07:37
+[' Răsarit = 07:09:44 Apus = 16:53:12 Min (°C) = 3.9 Max (°C) =8.15 Presiune = 1034 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 252 Stare = nori 85-100%']
+Baraolt: 45 \ miercuri \ 10:11:2021 \ 19:09:56
+[' Răsarit = 07:11:10 Apus = 16:51:58 Min (°C) = 1.62 Max (°C) =10 Presiune = 1034 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 101 Stare = cer senin']
+Baraolt: 45 \ joi \ 11:11:2021 \ 19:10:33
+[' Răsarit = 07:12:37 Apus = 16:50:46 Min (°C) = 1.98 Max (°C) =12.68 Presiune = 1026 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 60 Stare = nori 50-85%']
+Baraolt: 45 \ vineri \ 12:11:2021 \ 19:09:49
+[' Răsarit = 07:14:03 Apus = 16:49:36 Min (°C) = 3.75 Max (°C) =14.35 Presiune = 1022 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 84 Stare = nori 10-25%']
+Baraolt: 45 \ sâmbătă \ 13:11:2021 \ 19:09:47
+[' Răsarit = 07:15:29 Apus = 16:48:28 Min (°C) = 4.8 Max (°C) =14.95 Presiune = 1021 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 106 Stare = nori 85-100%']
+Baraolt: 45 \ duminică \ 14:11:2021 \ 19:11:38
+[' Răsarit = 07:16:55 Apus = 16:47:22 Min (°C) = 3.9 Max (°C) =12.41 Presiune = 1023 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 88 Stare = nori 50-85%']
+Baraolt: 46 \ luni \ 15:11:2021 \ 19:10:45
+[' Răsarit = 07:18:20 Apus = 16:46:18 Min (°C) = 2.67 Max (°C) =10.87 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.95 Unghiul vântului = 81 Stare = cer senin']
+Baraolt: 46 \ marți \ 16:11:2021 \ 19:10:19
+[' Răsarit = 07:19:45 Apus = 16:45:15 Min (°C) = 1.36 Max (°C) =9.86 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 105 Stare = cer senin']
+Baraolt: 46 \ miercuri \ 17:11:2021 \ 19:10:29
+[' Răsarit = 07:21:09 Apus = 16:44:15 Min (°C) = -0.2 Max (°C) =8.8 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 323 Stare = nori 50-85%']
+Baraolt: 46 \ joi \ 18:11:2021 \ 19:08:46
+[' Răsarit = 07:22:33 Apus = 16:43:17 Min (°C) = 0.82 Max (°C) =7.17 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 289 Stare = nori 50-85%']
+Baraolt: 46 \ vineri \ 19:11:2021 \ 19:08:42
+[' Răsarit = 07:23:56 Apus = 16:42:22 Min (°C) = 2.14 Max (°C) =5.61 Presiune = 1024 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 287 Stare = nori 85-100%']
+Baraolt: 46 \ sâmbătă \ 20:11:2021 \ 19:08:36
+[' Răsarit = 07:25:19 Apus = 16:41:28 Min (°C) = 3.17 Max (°C) =6.44 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 260 Stare = nori 85-100%']
+Baraolt: 46 \ duminică \ 21:11:2021 \ 19:08:27
+[' Răsarit = 07:26:41 Apus = 16:40:37 Min (°C) = 3.11 Max (°C) =10.38 Presiune = 1013 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 1 Stare = nori 10-25%']
+Baraolt: 47 \ luni \ 22:11:2021 \ 19:08:44
+[' Răsarit = 07:28:02 Apus = 16:39:48 Min (°C) = 1.98 Max (°C) =10.61 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 123 Stare = nori 85-100%']
+Baraolt: 47 \ marți \ 23:11:2021 \ 19:08:37
+[' Răsarit = 07:29:22 Apus = 16:39:01 Min (°C) = 1.56 Max (°C) =4.93 Presiune = 1024 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 85-100%']
+Baraolt: 47 \ miercuri \ 24:11:2021 \ 19:11:00
+[' Răsarit = 07:30:42 Apus = 16:38:17 Min (°C) = -0.99 Max (°C) =4.98 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 88 Stare = cer senin']
+Baraolt: 47 \ joi \ 25:11:2021 \ 19:08:23
+[' Răsarit = 07:32:00 Apus = 16:37:34 Min (°C) = -1.31 Max (°C) =6.65 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 110 Stare = cer senin']
+Baraolt: 47 \ vineri \ 26:11:2021 \ 19:08:29
+[' Răsarit = 07:33:18 Apus = 16:36:55 Min (°C) = -0.36 Max (°C) =10.04 Presiune = 1001 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 130 Stare = nori 85-100%']
+Baraolt: 47 \ sâmbătă \ 27:11:2021 \ 19:08:22
+[' Răsarit = 07:34:34 Apus = 16:36:18 Min (°C) = 2.54 Max (°C) =10.66 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 69 Stare = nori 10-25%']
+Baraolt: 48 \ luni \ 29:11:2021 \ 19:09:33
+[' Răsarit = 07:37:03 Apus = 16:35:11 Min (°C) = 1.11 Max (°C) =7.34 Presiune = 999 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.88 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 48 \ marți \ 30:11:2021 \ 19:08:51
+[' Răsarit = 07:38:16 Apus = 16:34:41 Min (°C) = -1.11 Max (°C) =1.73 Presiune = 1009 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.89 Unghiul vântului = 270 Stare = nori 50-85%']
+Baraolt: 48 \ miercuri \ 01:12:2021 \ 19:08:57
+[' Răsarit = 07:39:27 Apus = 16:34:14 Min (°C) = -1.04 Max (°C) =3.66 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 261 Stare = nori 85-100%']
+Baraolt: 48 \ joi \ 02:12:2021 \ 19:08:32
+[' Răsarit = 07:40:37 Apus = 16:33:49 Min (°C) = 0.28 Max (°C) =8.4 Presiune = 1006 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 115 Stare = nori 50-85%']
+Baraolt: 48 \ vineri \ 03:12:2021 \ 19:08:42
+[' Răsarit = 07:41:46 Apus = 16:33:27 Min (°C) = 1.43 Max (°C) =9.13 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 265 Stare = nori 85-100%']
+Baraolt: 48 \ sâmbătă \ 04:12:2021 \ 19:09:09
+[' Răsarit = 07:42:53 Apus = 16:33:07 Min (°C) = 0.19 Max (°C) =4.89 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 112 Stare = nori 50-85%']
+Baraolt: 48 \ duminică \ 05:12:2021 \ 19:08:49
+[' Răsarit = 07:43:58 Apus = 16:32:51 Min (°C) = -0.41 Max (°C) =6.75 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 84 Stare = nori 85-100%']
+Baraolt: 49 \ luni \ 06:12:2021 \ 19:08:38
+[' Răsarit = 07:45:01 Apus = 16:32:37 Min (°C) = 1.85 Max (°C) =9.13 Presiune = 1007 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 298 Stare = nori 85-100%']
+Baraolt: 49 \ marți \ 07:12:2021 \ 19:08:39
+[' Răsarit = 07:46:03 Apus = 16:32:25 Min (°C) = 0.92 Max (°C) =4.99 Presiune = 1006 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 3 Stare = ploaie ușoară']
+Baraolt: 49 \ miercuri \ 08:12:2021 \ 19:08:39
+[' Răsarit = 07:47:03 Apus = 16:32:16 Min (°C) = 0.88 Max (°C) =2.01 Presiune = 1012 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 253 Stare = nori 85-100%']
+Baraolt: 49 \ joi \ 09:12:2021 \ 19:08:44
+[' Răsarit = 07:48:01 Apus = 16:32:10 Min (°C) = -0.36 Max (°C) =7.3 Presiune = 1010 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 97 Stare = nori 50-85%']
+Baraolt: 49 \ vineri \ 10:12:2021 \ 19:10:10
+[' Răsarit = 07:48:58 Apus = 16:32:07 Min (°C) = 1.49 Max (°C) =7.06 Presiune = 1005 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.01 Unghiul vântului = 317 Stare = nori 85-100%']
+Baraolt: 49 \ sâmbătă \ 11:12:2021 \ 19:09:43
+[' Răsarit = 07:49:52 Apus = 16:32:06 Min (°C) = 3.17 Max (°C) =8.31 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 80 Stare = ploaie ușoară']
+Baraolt: 49 \ duminică \ 12:12:2021 \ 19:09:47
+[' Răsarit = 07:50:44 Apus = 16:32:08 Min (°C) = 5.69 Max (°C) =9.41 Presiune = 1013 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 72 Stare = nori 25-50%']
+Baraolt: 50 \ luni \ 13:12:2021 \ 19:09:51
+[' Răsarit = 07:51:34 Apus = 16:32:13 Min (°C) = 3.3 Max (°C) =5.74 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 246 Stare = nori 85-100%']
+Baraolt: 50 \ marți \ 14:12:2021 \ 19:11:41
+[' Răsarit = 07:52:22 Apus = 16:32:21 Min (°C) = 1.66 Max (°C) =3.11 Presiune = 1026 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 268 Stare = nori 85-100%']
+Baraolt: 50 \ miercuri \ 15:12:2021 \ 19:10:08
+[' Răsarit = 07:53:07 Apus = 16:32:31 Min (°C) = -0.27 Max (°C) =2.08 Presiune = 1029 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 287 Stare = nori 85-100%']
+Baraolt: 50 \ joi \ 16:12:2021 \ 19:09:35
+[' Răsarit = 07:53:51 Apus = 16:32:44 Min (°C) = -1.87 Max (°C) =1.8 Presiune = 1029 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 268 Stare = nori 50-85%']
+Baraolt: 50 \ vineri \ 17:12:2021 \ 19:11:33
+[' Răsarit = 07:54:32 Apus = 16:32:59 Min (°C) = -0.92 Max (°C) =1.83 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 287 Stare = nori 85-100%']
+Baraolt: 50 \ sâmbătă \ 18:12:2021 \ 19:09:25
+[' Răsarit = 07:55:11 Apus = 16:33:18 Min (°C) = -1.72 Max (°C) =1.75 Presiune = 1027 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 269 Stare = nori 85-100%']
+Baraolt: 50 \ duminică \ 19:12:2021 \ 19:09:33
+[' Răsarit = 07:55:47 Apus = 16:33:39 Min (°C) = -1.42 Max (°C) =0.93 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 275 Stare = zăpadă slabă']
+Baraolt: 51 \ luni \ 20:12:2021 \ 19:09:56
+[' Răsarit = 07:56:21 Apus = 16:34:02 Min (°C) = -2.2 Max (°C) =0.16 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.81 Unghiul vântului = 291 Stare = nori 85-100%']
+Baraolt: 51 \ marți \ 21:12:2021 \ 19:11:33
+[' Răsarit = 07:56:52 Apus = 16:34:28 Min (°C) = -6.12 Max (°C) =-2.32 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.72 Unghiul vântului = 297 Stare = nori 50-85%']
+Baraolt: 51 \ miercuri \ 22:12:2021 \ 19:09:54
+[' Răsarit = 07:57:21 Apus = 16:34:57 Min (°C) = -9.49 Max (°C) =-4.14 Presiune = 1031 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 293 Stare = nori 25-50%']
+Baraolt: 51 \ joi \ 23:12:2021 \ 19:10:21
+[' Răsarit = 07:57:48 Apus = 16:35:28 Min (°C) = -11.01 Max (°C) =-5.03 Presiune = 1025 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 103 Stare = nori 50-85%']
+Baraolt: 51 \ vineri \ 24:12:2021 \ 19:09:56
+[' Răsarit = 07:58:12 Apus = 16:36:02 Min (°C) = -7.07 Max (°C) =5.2 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 6.51 Unghiul vântului = 276 Stare = nori 85-100%']
+Baraolt: 51 \ sâmbătă \ 25:12:2021 \ 19:10:24
+[' Răsarit = 07:58:33 Apus = 16:36:39 Min (°C) = 5.07 Max (°C) =7.25 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 198 Stare = nori 85-100%']
+Baraolt: 51 \ duminică \ 26:12:2021 \ 19:11:22
+[' Răsarit = 07:58:52 Apus = 16:37:18 Min (°C) = 0.17 Max (°C) =4.98 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 82 Stare = zăpadă slabă']
+Baraolt: 52 \ luni \ 27:12:2021 \ 19:09:54
+[' Răsarit = 07:59:08 Apus = 16:37:59 Min (°C) = 0.09 Max (°C) =3.13 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 65 Stare = ploaie ușoară']
+Baraolt: 52 \ marți \ 28:12:2021 \ 19:10:21
+[' Răsarit = 07:59:21 Apus = 16:38:43 Min (°C) = -0.67 Max (°C) =2.16 Presiune = 1013 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 93 Stare = nori 85-100%']
+Baraolt: 52 \ miercuri \ 29:12:2021 \ 19:09:50
+[' Răsarit = 07:59:32 Apus = 16:39:29 Min (°C) = -1.53 Max (°C) =6.39 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 305 Stare = nori 85-100%']
+Baraolt: 52 \ joi \ 30:12:2021 \ 19:10:19
+[' Răsarit = 07:59:40 Apus = 16:40:17 Min (°C) = -1.42 Max (°C) =3.84 Presiune = 1023 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 263 Stare = nori 85-100%']
+Baraolt: 52 \ vineri \ 31:12:2021 \ 19:08:51
+[' Răsarit = 07:59:46 Apus = 16:41:07 Min (°C) = 1.95 Max (°C) =4.7 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 286 Stare = nori 85-100%']
+Baraolt: 00 \ sâmbătă \ 01:1:2022 \ 19:09:34
+[' Răsarit = 07:59:48 Apus = 16:42:00 Min (°C) = 4.03 Max (°C) =7.3 Presiune = 1022 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 3.96 Unghiul vântului = 285 Stare = nori 85-100%']
+Baraolt: 00 \ duminică \ 02:1:2022 \ 19:08:25
+[' Răsarit = 07:59:48 Apus = 16:42:55 Min (°C) = 3.33 Max (°C) =6.63 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 8 Stare = nori 50-85%']
+Baraolt: 01 \ luni \ 03:1:2022 \ 19:08:13
+[' Răsarit = 07:59:46 Apus = 16:43:52 Min (°C) = 2.28 Max (°C) =8.54 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.76 Unghiul vântului = 270 Stare = nori 85-100%']
+Baraolt: 01 \ marți \ 04:1:2022 \ 19:08:15
+[' Răsarit = 07:59:41 Apus = 16:44:51 Min (°C) = 4.08 Max (°C) =8.7 Presiune = 1009 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 155 Stare = nori 85-100%']
+Baraolt: 01 \ miercuri \ 05:1:2022 \ 19:09:11
+[' Răsarit = 07:59:33 Apus = 16:45:52 Min (°C) = 3.93 Max (°C) =11.69 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 180 Stare = cer senin']
+Baraolt: 01 \ joi \ 06:1:2022 \ 19:08:29
+[' Răsarit = 07:59:22 Apus = 16:46:55 Min (°C) = 1.83 Max (°C) =9.44 Presiune = 1014 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 261 Stare = nori 85-100%']
+Baraolt: 01 \ vineri \ 07:1:2022 \ 19:09:33
+[' Răsarit = 07:59:09 Apus = 16:48:00 Min (°C) = -1.4 Max (°C) =2.24 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 83 Stare = nori 10-25%']
+Baraolt: 01 \ sâmbătă \ 08:1:2022 \ 19:09:06
+[' Răsarit = 07:58:53 Apus = 16:49:06 Min (°C) = -1.9 Max (°C) =5.23 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 103 Stare = nori 50-85%']
+Baraolt: 01 \ duminică \ 09:1:2022 \ 19:08:38
+[' Răsarit = 07:58:35 Apus = 16:50:14 Min (°C) = 1.43 Max (°C) =2.82 Presiune = 1006 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 325 Stare = nori 85-100%']
+Baraolt: 02 \ luni \ 10:1:2022 \ 19:08:49
+[' Răsarit = 07:58:14 Apus = 16:51:24 Min (°C) = -0.27 Max (°C) =5.39 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 67 Stare = nori 85-100%']
+Baraolt: 02 \ marți \ 11:1:2022 \ 19:09:54
+[' Răsarit = 07:57:50 Apus = 16:52:35 Min (°C) = -4.4 Max (°C) =1.56 Presiune = 1028 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 78 Stare = nori 10-25%']
+Baraolt: 02 \ miercuri \ 12:1:2022 \ 19:08:38
+[' Răsarit = 07:57:24 Apus = 16:53:48 Min (°C) = -6.91 Max (°C) =-1.97 Presiune = 1033 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 284 Stare = cer senin']
+Baraolt: 02 \ joi \ 13:1:2022 \ 19:09:29
+[' Răsarit = 07:56:55 Apus = 16:55:03 Min (°C) = -8.29 Max (°C) =-2.83 Presiune = 1037 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 288 Stare = nori 50-85%']
+Baraolt: 02 \ vineri \ 14:1:2022 \ 19:08:55
+[' Răsarit = 07:56:24 Apus = 16:56:18 Min (°C) = -5.68 Max (°C) =-0.75 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.64 Unghiul vântului = 280 Stare = nori 85-100%']
+Baraolt: 02 \ sâmbătă \ 15:1:2022 \ 19:08:37
+[' Răsarit = 07:55:50 Apus = 16:57:35 Min (°C) = -3.27 Max (°C) =-0.49 Presiune = 1027 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 4.16 Unghiul vântului = 287 Stare = nori 50-85%']
+Baraolt: 02 \ duminică \ 16:1:2022 \ 19:08:18
+[' Răsarit = 07:55:14 Apus = 16:58:54 Min (°C) = -3.71 Max (°C) =0.48 Presiune = 1026 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.18 Unghiul vântului = 264 Stare = nori 25-50%']
+Baraolt: 03 \ luni \ 17:1:2022 \ 19:08:26
+[' Răsarit = 07:54:36 Apus = 17:00:13 Min (°C) = -3.68 Max (°C) =0.35 Presiune = 1011 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 7.08 Unghiul vântului = 270 Stare = zăpadă slabă']
+Baraolt: 03 \ marți \ 18:1:2022 \ 19:08:23
+[' Răsarit = 07:53:55 Apus = 17:01:34 Min (°C) = -4.76 Max (°C) =-2.43 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.75 Unghiul vântului = 291 Stare = nori 85-100%']
+Baraolt: 03 \ miercuri \ 19:1:2022 \ 19:08:37
+[' Răsarit = 07:53:11 Apus = 17:02:55 Min (°C) = -7.84 Max (°C) =-2.7 Presiune = 1030 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 242 Stare = nori 85-100%']
+Baraolt: 03 \ joi \ 20:1:2022 \ 19:08:43
+[' Răsarit = 07:52:26 Apus = 17:04:18 Min (°C) = -10.21 Max (°C) =0.61 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 267 Stare = nori 25-50%']
+Baraolt: 03 \ vineri \ 21:1:2022 \ 19:08:30
+[' Răsarit = 07:51:38 Apus = 17:05:41 Min (°C) = -10.56 Max (°C) =-0.96 Presiune = 1021 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 290 Stare = nori 50-85%']
+Baraolt: 03 \ sâmbătă \ 22:1:2022 \ 19:09:44
+[' Răsarit = 07:50:48 Apus = 17:07:06 Min (°C) = -9.23 Max (°C) =-4.25 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 298 Stare = nori 85-100%']
+Baraolt: 03 \ duminică \ 23:1:2022 \ 19:09:48
+[' Răsarit = 07:49:55 Apus = 17:08:31 Min (°C) = -11.72 Max (°C) =-4.72 Presiune = 1027 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 11 Stare = nori 85-100%']
+Baraolt: 04 \ luni \ 24:1:2022 \ 19:10:37
+[' Răsarit = 07:49:01 Apus = 17:09:56 Min (°C) = -13.8 Max (°C) =-5.52 Presiune = 1037 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 279 Stare = nori 85-100%']
+Baraolt: 04 \ marți \ 25:1:2022 \ 19:10:04
+[' Răsarit = 07:48:04 Apus = 17:11:23 Min (°C) = -16.26 Max (°C) =-6.61 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 274 Stare = nori 85-100%']
+Baraolt: 04 \ miercuri \ 26:1:2022 \ 19:10:15
+[' Răsarit = 07:47:05 Apus = 17:12:50 Min (°C) = -10.41 Max (°C) =-4.68 Presiune = 1029 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 279 Stare = nori 85-100%']
+Baraolt: 04 \ joi \ 27:1:2022 \ 19:10:14
+[' Răsarit = 07:46:04 Apus = 17:14:18 Min (°C) = -9.29 Max (°C) =-1.23 Presiune = 1023 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 245 Stare = nori 85-100%']
+Baraolt: 04 \ vineri \ 28:1:2022 \ 19:09:59
+[' Răsarit = 07:45:01 Apus = 17:15:46 Min (°C) = -5.33 Max (°C) =0.95 Presiune = 1018 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 5.28 Unghiul vântului = 266 Stare = zăpadă slabă']
+Baraolt: 04 \ sâmbătă \ 29:1:2022 \ 19:10:09
+[' Răsarit = 07:43:56 Apus = 17:17:14 Min (°C) = -10.29 Max (°C) =-1.02 Presiune = 1029 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 291 Stare = nori 50-85%']
+Baraolt: 04 \ duminică \ 30:1:2022 \ 19:08:39
+[' Răsarit = 07:42:49 Apus = 17:18:43 Min (°C) = -9.26 Max (°C) =2.99 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 6.79 Unghiul vântului = 278 Stare = ploaie ușoară']
+Baraolt: 05 \ luni \ 31:1:2022 \ 19:08:39
+[' Răsarit = 07:41:40 Apus = 17:20:12 Min (°C) = -7.19 Max (°C) =0.17 Presiune = 1012 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 252 Stare = nori 85-100%']
+Baraolt: 05 \ marți \ 01:2:2022 \ 19:08:32
+[' Răsarit = 07:40:30 Apus = 17:21:42 Min (°C) = -9.33 Max (°C) =0.75 Presiune = 1011 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 279 Stare = zăpadă slabă']
+Baraolt: 05 \ miercuri \ 02:2:2022 \ 19:08:46
+[' Răsarit = 07:39:17 Apus = 17:23:12 Min (°C) = -6.07 Max (°C) =-0.23 Presiune = 1010 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 254 Stare = nori 85-100%']
+Baraolt: 05 \ joi \ 03:2:2022 \ 19:08:29
+[' Răsarit = 07:38:03 Apus = 17:24:42 Min (°C) = -4.56 Max (°C) =-0.79 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.94 Unghiul vântului = 292 Stare = nori 85-100%']
+Baraolt: 05 \ vineri \ 04:2:2022 \ 19:08:44
+[' Răsarit = 07:36:46 Apus = 17:26:12 Min (°C) = -5.31 Max (°C) =2.07 Presiune = 1020 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 249 Stare = nori 50-85%']
+Baraolt: 05 \ sâmbătă \ 05:2:2022 \ 19:08:29
+[' Răsarit = 07:35:29 Apus = 17:27:42 Min (°C) = -5.91 Max (°C) =3.01 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 292 Stare = nori 85-100%']
+Baraolt: 05 \ duminică \ 06:2:2022 \ 19:08:38
+[' Răsarit = 07:34:09 Apus = 17:29:12 Min (°C) = -4.6 Max (°C) =2.05 Presiune = 1020 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 144 Stare = nori 85-100%']
+Baraolt: 06 \ luni \ 07:2:2022 \ 19:08:36
+[' Răsarit = 07:32:48 Apus = 17:30:43 Min (°C) = -4.48 Max (°C) =5.62 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 5.98 Unghiul vântului = 272 Stare = nori 85-100%']
+Baraolt: 06 \ marți \ 08:2:2022 \ 19:08:29
+[' Răsarit = 07:31:25 Apus = 17:32:13 Min (°C) = -1.67 Max (°C) =1.21 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 298 Stare = nori 25-50%']
+Baraolt: 06 \ miercuri \ 09:2:2022 \ 19:09:40
+[' Răsarit = 07:30:00 Apus = 17:33:43 Min (°C) = -2.59 Max (°C) =1.16 Presiune = 1030 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 289 Stare = nori 85-100%']
+Baraolt: 06 \ joi \ 10:2:2022 \ 19:10:36
+[' Răsarit = 07:28:34 Apus = 17:35:13 Min (°C) = -0.55 Max (°C) =4.93 Presiune = 1027 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 40 Stare = nori 25-50%']
+Baraolt: 06 \ vineri \ 11:2:2022 \ 19:09:53
+[' Răsarit = 07:27:07 Apus = 17:36:43 Min (°C) = -2.74 Max (°C) =6.89 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 339 Stare = cer senin']
+Baraolt: 06 \ sâmbătă \ 12:2:2022 \ 19:09:54
+[' Răsarit = 07:25:38 Apus = 17:38:13 Min (°C) = -2.78 Max (°C) =1.48 Presiune = 1036 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 93 Stare = nori 50-85%']
+Baraolt: 06 \ duminică \ 13:2:2022 \ 19:10:06
+[' Răsarit = 07:24:07 Apus = 17:39:43 Min (°C) = -6.11 Max (°C) =2.38 Presiune = 1030 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 82 Stare = nori 85-100%']
+Baraolt: 07 \ luni \ 14:2:2022 \ 19:10:06
+[' Răsarit = 07:22:35 Apus = 17:41:13 Min (°C) = -5.59 Max (°C) =3.01 Presiune = 1023 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 72 Stare = nori 85-100%']
+Baraolt: 07 \ marți \ 15:2:2022 \ 19:09:46
+[' Răsarit = 07:21:02 Apus = 17:42:42 Min (°C) = -5.72 Max (°C) =5.48 Presiune = 1021 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 73 Stare = nori 50-85%']
+Baraolt: 07 \ miercuri \ 16:2:2022 \ 19:09:50
+[' Răsarit = 07:19:28 Apus = 17:44:11 Min (°C) = -2.67 Max (°C) =7.65 Presiune = 1016 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 31 Stare = nori 50-85%']
+Baraolt: 07 \ joi \ 17:2:2022 \ 19:10:51
+[' Răsarit = 07:17:52 Apus = 17:45:40 Min (°C) = -0.58 Max (°C) =8.14 Presiune = 1003 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 8.06 Unghiul vântului = 260 Stare = nori 85-100%']
+Baraolt: 07 \ vineri \ 18:2:2022 \ 19:09:49
+[' Răsarit = 07:16:15 Apus = 17:47:09 Min (°C) = 0.18 Max (°C) =5.33 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 266 Stare = nori 10-25%']
+Baraolt: 07 \ sâmbătă \ 19:2:2022 \ 19:10:13
+[' Răsarit = 07:14:37 Apus = 17:48:37 Min (°C) = -0.7 Max (°C) =10.77 Presiune = 1019 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 262 Stare = nori 85-100%']
+Baraolt: 07 \ duminică \ 20:2:2022 \ 19:11:13
+[' Răsarit = 07:12:57 Apus = 17:50:05 Min (°C) = 1.49 Max (°C) =5.21 Presiune = 1019 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 258 Stare = nori 50-85%']
+Baraolt: 08 \ luni \ 21:2:2022 \ 19:09:51
+[' Răsarit = 07:11:17 Apus = 17:51:33 Min (°C) = 0.35 Max (°C) =8.93 Presiune = 1006 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 119 Stare = nori 85-100%']
+Baraolt: 08 \ marți \ 22:2:2022 \ 19:10:31
+[' Răsarit = 07:09:35 Apus = 17:53:00 Min (°C) = 1.5 Max (°C) =4.69 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 264 Stare = nori 85-100%']
+Baraolt: 08 \ miercuri \ 23:2:2022 \ 19:10:10
+[' Răsarit = 07:07:52 Apus = 17:54:27 Min (°C) = -0.13 Max (°C) =6.04 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 289 Stare = nori 85-100%']
+Baraolt: 08 \ joi \ 24:2:2022 \ 19:10:06
+[' Răsarit = 07:06:09 Apus = 17:55:54 Min (°C) = -1.77 Max (°C) =2.87 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 202 Stare = nori 50-85%']
+Baraolt: 08 \ vineri \ 25:2:2022 \ 19:10:10
+[' Răsarit = 07:04:24 Apus = 17:57:20 Min (°C) = -2.86 Max (°C) =6.35 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 293 Stare = nori 50-85%']
+Baraolt: 08 \ sâmbătă \ 26:2:2022 \ 19:10:27
+[' Răsarit = 07:02:39 Apus = 17:58:47 Min (°C) = 0.11 Max (°C) =5.65 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 76 Stare = nori 85-100%']
+Baraolt: 08 \ duminică \ 27:2:2022 \ 19:09:52
+[' Răsarit = 07:00:52 Apus = 18:00:12 Min (°C) = -0.66 Max (°C) =5.06 Presiune = 1027 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 66 Stare = nori 85-100%']
+Baraolt: 09 \ luni \ 28:2:2022 \ 19:10:14
+[' Răsarit = 06:59:05 Apus = 18:01:38 Min (°C) = -1.38 Max (°C) =2.1 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.77 Unghiul vântului = 46 Stare = nori 85-100%']
+Baraolt: 09 \ marți \ 01:3:2022 \ 19:10:20
+[' Răsarit = 06:57:17 Apus = 18:03:03 Min (°C) = -2.47 Max (°C) =2.33 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 89 Stare = nori 85-100%']
+Baraolt: 09 \ miercuri \ 02:3:2022 \ 19:09:44
+[' Răsarit = 06:55:28 Apus = 18:04:28 Min (°C) = -2.27 Max (°C) =1.04 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 276 Stare = nori 85-100%']
+Baraolt: 09 \ joi \ 03:3:2022 \ 19:10:11
+[' Răsarit = 06:53:38 Apus = 18:05:52 Min (°C) = -2.12 Max (°C) =3.26 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 271 Stare = nori 85-100%']
+Baraolt: 09 \ vineri \ 04:3:2022 \ 19:09:53
+[' Răsarit = 06:51:48 Apus = 18:07:16 Min (°C) = -2.24 Max (°C) =3.42 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 289 Stare = nori 85-100%']
+Baraolt: 09 \ sâmbătă \ 05:3:2022 \ 19:08:54
+[' Răsarit = 06:49:57 Apus = 18:08:40 Min (°C) = -2.44 Max (°C) =4.53 Presiune = 1020 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.34 Unghiul vântului = 100 Stare = nori 50-85%']
+Baraolt: 09 \ duminică \ 06:3:2022 \ 19:08:43
+[' Răsarit = 06:48:05 Apus = 18:10:03 Min (°C) = -4.57 Max (°C) =4.6 Presiune = 1019 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 85 Stare = nori 50-85%']
+Baraolt: 10 \ luni \ 07:3:2022 \ 19:08:30
+[' Răsarit = 06:46:12 Apus = 18:11:27 Min (°C) = -2.11 Max (°C) =1.27 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 283 Stare = zăpadă slabă']
+Baraolt: 10 \ marți \ 08:3:2022 \ 19:08:19
+[' Răsarit = 06:44:19 Apus = 18:12:49 Min (°C) = -4.33 Max (°C) =0.54 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 271 Stare = zăpadă slabă']
+Baraolt: 10 \ miercuri \ 09:3:2022 \ 19:08:28
+[' Răsarit = 06:42:26 Apus = 18:14:12 Min (°C) = -4.89 Max (°C) =0.74 Presiune = 1022 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 114 Stare = nori 85-100%']
+Baraolt: 10 \ joi \ 10:3:2022 \ 19:08:28
+[' Răsarit = 06:40:32 Apus = 18:15:34 Min (°C) = -6.57 Max (°C) =-0.94 Presiune = 1029 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.87 Unghiul vântului = 55 Stare = nori 85-100%']
+Baraolt: 10 \ vineri \ 11:3:2022 \ 19:08:26
+[' Răsarit = 06:38:38 Apus = 18:16:56 Min (°C) = -10.18 Max (°C) =-2.2 Presiune = 1031 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 23 Stare = nori 85-100%']
+Baraolt: 10 \ sâmbătă \ 12:3:2022 \ 19:08:19
+[' Răsarit = 06:36:43 Apus = 18:18:18 Min (°C) = -9.47 Max (°C) =-0.42 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 266 Stare = nori 50-85%']
+Baraolt: 10 \ duminică \ 13:3:2022 \ 19:08:27
+[' Răsarit = 06:34:47 Apus = 18:19:39 Min (°C) = -4 Max (°C) =2.11 Presiune = 1030 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 120 Stare = nori 50-85%']
+Baraolt: 11 \ luni \ 14:3:2022 \ 19:08:20
+[' Răsarit = 06:32:52 Apus = 18:21:00 Min (°C) = -6 Max (°C) =5.1 Presiune = 1037 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 346 Stare = cer senin']
+Baraolt: 11 \ marți \ 15:3:2022 \ 19:08:27
+[' Răsarit = 06:30:56 Apus = 18:22:21 Min (°C) = -3.37 Max (°C) =6.35 Presiune = 1033 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 297 Stare = nori 50-85%']
+Baraolt: 11 \ miercuri \ 16:3:2022 \ 19:08:30
+[' Răsarit = 06:29:00 Apus = 18:23:42 Min (°C) = -1.46 Max (°C) =6.48 Presiune = 1025 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 75 Stare = nori 85-100%']
+Baraolt: 11 \ joi \ 17:3:2022 \ 19:08:28
+[' Răsarit = 06:27:03 Apus = 18:25:03 Min (°C) = -4.77 Max (°C) =3.34 Presiune = 1037 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 75 Stare = nori 50-85%']
+Baraolt: 11 \ vineri \ 18:3:2022 \ 19:08:35
+[' Răsarit = 06:25:06 Apus = 18:26:23 Min (°C) = -7.83 Max (°C) =2.87 Presiune = 1043 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 64 Stare = nori 85-100%']
+Baraolt: 11 \ sâmbătă \ 19:3:2022 \ 19:08:37
+[' Răsarit = 06:23:10 Apus = 18:27:43 Min (°C) = -6.64 Max (°C) =2.54 Presiune = 1043 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 75 Stare = nori 50-85%']
+Baraolt: 11 \ duminică \ 20:3:2022 \ 19:08:30
+[' Răsarit = 06:21:12 Apus = 18:29:03 Min (°C) = -6.99 Max (°C) =4.69 Presiune = 1042 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 54 Stare = nori 25-50%']
+Baraolt: 12 \ luni \ 21:3:2022 \ 19:08:49
+[' Răsarit = 06:19:15 Apus = 18:30:23 Min (°C) = -3.44 Max (°C) =8.63 Presiune = 1037 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 50 Stare = nori 25-50%']
+Baraolt: 12 \ marți \ 22:3:2022 \ 19:08:35
+[' Răsarit = 06:17:18 Apus = 18:31:43 Min (°C) = -0.69 Max (°C) =12.26 Presiune = 1034 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 40 Stare = cer senin']
+Baraolt: 12 \ miercuri \ 23:3:2022 \ 19:08:22
+[' Răsarit = 06:15:21 Apus = 18:33:02 Min (°C) = -0.64 Max (°C) =13.13 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 58 Stare = cer senin']
+Baraolt: 12 \ joi \ 24:3:2022 \ 19:08:31
+[' Răsarit = 06:13:24 Apus = 18:34:22 Min (°C) = 0.06 Max (°C) =13.83 Presiune = 1020 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 319 Stare = cer senin']
+Baraolt: 12 \ vineri \ 25:3:2022 \ 19:08:27
+[' Răsarit = 06:11:26 Apus = 18:35:41 Min (°C) = 1.49 Max (°C) =8.38 Presiune = 1026 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 37 Stare = nori 10-25%']
+Baraolt: 12 \ sâmbătă \ 26:3:2022 \ 19:08:32
+[' Răsarit = 06:09:29 Apus = 18:37:00 Min (°C) = -0.87 Max (°C) =11.83 Presiune = 1024 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 285 Stare = cer senin']
+Baraolt: 12 \ duminică \ 27:3:2022 \ 19:08:34
+[' Răsarit = 07:07:32 Apus = 19:38:20 Min (°C) = 4.27 Max (°C) =12.53 Presiune = 1027 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.71 Unghiul vântului = 294 Stare = nori 10-25%']
+Baraolt: 13 \ luni \ 28:3:2022 \ 19:08:46
+[' Răsarit = 07:05:35 Apus = 19:39:39 Min (°C) = 0.4 Max (°C) =14.48 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.09 Viteza vântului = 1.8 Unghiul vântului = 286 Stare = cer senin']
+Baraolt: 13 \ marți \ 29:3:2022 \ 19:08:36
+[' Răsarit = 07:03:38 Apus = 19:40:58 Min (°C) = 3.88 Max (°C) =15.65 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.1 Viteza vântului = 2.08 Unghiul vântului = 247 Stare = nori 50-85%']
+Baraolt: 13 \ miercuri \ 30:3:2022 \ 19:08:32
+[' Răsarit = 07:01:42 Apus = 19:42:17 Min (°C) = 6.78 Max (°C) =17.97 Presiune = 1005 Umiditate (%) = 51 Index UV = 0.1 Viteza vântului = 0.83 Unghiul vântului = 275 Stare = nori 85-100%']
+Baraolt: 13 \ joi \ 31:3:2022 \ 19:08:51
+[' Răsarit = 06:59:45 Apus = 19:43:36 Min (°C) = 6.38 Max (°C) =16.56 Presiune = 998 Umiditate (%) = 62 Index UV = 0.01 Viteza vântului = 2.13 Unghiul vântului = 168 Stare = nori 85-100%']
+Baraolt: 13 \ vineri \ 01:4:2022 \ 19:10:13
+[' Răsarit = 06:57:49 Apus = 19:44:55 Min (°C) = 9.56 Max (°C) =20.42 Presiune = 994 Umiditate (%) = 83 Index UV = 0.12 Viteza vântului = 0.92 Unghiul vântului = 352 Stare = nori 85-100%']
+Baraolt: 13 \ sâmbătă \ 02:4:2022 \ 19:10:03
+[' Răsarit = 06:55:54 Apus = 19:46:14 Min (°C) = 6.49 Max (°C) =10.06 Presiune = 999 Umiditate (%) = 83 Index UV = 0.06 Viteza vântului = 2.13 Unghiul vântului = 284 Stare = ploaie ușoară']
+Baraolt: 13 \ duminică \ 03:4:2022 \ 19:42:55
+[' Răsarit = 06:53:58 Apus = 19:47:33 Min (°C) = 0.56 Max (°C) =6.28 Presiune = 1012 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.3 Unghiul vântului = 287 Stare = zăpadă slabă']
+Baraolt: 14 \ luni \ 04:4:2022 \ 19:09:58
+[' Răsarit = 06:52:03 Apus = 19:48:52 Min (°C) = -4.15 Max (°C) =6.1 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.13 Viteza vântului = 4.43 Unghiul vântului = 262 Stare = nori 50-85%']
+Baraolt: 14 \ marți \ 05:4:2022 \ 19:10:52
+[' Răsarit = 06:50:08 Apus = 19:50:11 Min (°C) = -2.91 Max (°C) =12.03 Presiune = 1008 Umiditate (%) = 51 Index UV = 0.16 Viteza vântului = 5.95 Unghiul vântului = 279 Stare = nori 50-85%']
+Baraolt: 14 \ miercuri \ 06:4:2022 \ 19:10:07
+[' Răsarit = 06:48:14 Apus = 19:51:30 Min (°C) = 3.45 Max (°C) =15.77 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.16 Viteza vântului = 1.44 Unghiul vântului = 293 Stare = nori 25-50%']
+Baraolt: 14 \ joi \ 07:4:2022 \ 19:10:12
+[' Răsarit = 06:46:21 Apus = 19:52:49 Min (°C) = 5.29 Max (°C) =16.22 Presiune = 998 Umiditate (%) = 78 Index UV = 0.09 Viteza vântului = 2.9 Unghiul vântului = 279 Stare = ploaie ușoară']
+Baraolt: 14 \ vineri \ 08:4:2022 \ 19:09:57
+[' Răsarit = 06:44:27 Apus = 19:54:08 Min (°C) = 6.99 Max (°C) =14.46 Presiune = 1006 Umiditate (%) = 71 Index UV = 0.04 Viteza vântului = 0.28 Unghiul vântului = 210 Stare = nori 85-100%']
+Baraolt: 14 \ sâmbătă \ 09:4:2022 \ 19:10:05
+[' Răsarit = 06:42:35 Apus = 19:55:28 Min (°C) = 7.23 Max (°C) =18.46 Presiune = 1002 Umiditate (%) = 78 Index UV = 0.11 Viteza vântului = 0.12 Unghiul vântului = 186 Stare = nori 85-100%']
+Baraolt: 14 \ duminică \ 10:4:2022 \ 19:11:05
+[' Răsarit = 06:40:42 Apus = 19:56:47 Min (°C) = 2.26 Max (°C) =10.56 Presiune = 1012 Umiditate (%) = 98 Index UV = 0.08 Viteza vântului = 0.49 Unghiul vântului = 261 Stare = nori 85-100%']
+Baraolt: 15 \ luni \ 11:4:2022 \ 19:10:07
+[' Răsarit = 06:38:51 Apus = 19:58:06 Min (°C) = 1.64 Max (°C) =8.41 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.18 Viteza vântului = 5.85 Unghiul vântului = 314 Stare = nori 50-85%']
+Baraolt: 15 \ marți \ 12:4:2022 \ 19:09:20
+[' Răsarit = 06:37:00 Apus = 19:59:26 Min (°C) = -1.27 Max (°C) =8.71 Presiune = 1020 Umiditate (%) = 48 Index UV = 0.18 Viteza vântului = 4.03 Unghiul vântului = 304 Stare = nori 85-100%']
+Baraolt: 15 \ miercuri \ 13:4:2022 \ 19:09:49
+[' Răsarit = 06:35:10 Apus = 20:00:45 Min (°C) = -0.77 Max (°C) =11.18 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.19 Viteza vântului = 3.09 Unghiul vântului = 296 Stare = nori 50-85%']
+Baraolt: 15 \ joi \ 14:4:2022 \ 19:10:13
+[' Răsarit = 06:33:20 Apus = 20:02:04 Min (°C) = 2.33 Max (°C) =16.88 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.21 Viteza vântului = 1.17 Unghiul vântului = 285 Stare = nori 10-25%']
+Baraolt: 15 \ vineri \ 15:4:2022 \ 19:10:38
+[' Răsarit = 06:31:32 Apus = 20:03:24 Min (°C) = 5.37 Max (°C) =19.63 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.22 Viteza vântului = 2.67 Unghiul vântului = 300 Stare = nori 25-50%']
+Baraolt: 15 \ sâmbătă \ 16:4:2022 \ 19:10:43
+[' Răsarit = 06:29:44 Apus = 20:04:43 Min (°C) = 7.56 Max (°C) =14.97 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.22 Viteza vântului = 3.43 Unghiul vântului = 293 Stare = ploaie ușoară']
+Baraolt: 15 \ duminică \ 17:4:2022 \ 19:10:20
+[' Răsarit = 06:27:56 Apus = 20:06:03 Min (°C) = 1.51 Max (°C) =6.07 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.21 Viteza vântului = 3.4 Unghiul vântului = 65 Stare = nori 85-100%']
+Baraolt: 16 \ luni \ 18:4:2022 \ 19:10:48
+[' Răsarit = 06:26:10 Apus = 20:07:23 Min (°C) = -1.94 Max (°C) =8.46 Presiune = 1010 Umiditate (%) = 43 Index UV = 0.22 Viteza vântului = 2.1 Unghiul vântului = 294 Stare = nori 50-85%']
+Baraolt: 16 \ marți \ 19:4:2022 \ 19:11:08
+[' Răsarit = 06:24:24 Apus = 20:08:42 Min (°C) = -1.21 Max (°C) =9.06 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.15 Viteza vântului = 1.95 Unghiul vântului = 316 Stare = nori 85-100%']
+Baraolt: 16 \ miercuri \ 20:4:2022 \ 19:10:17
+[' Răsarit = 06:22:40 Apus = 20:10:02 Min (°C) = -0.86 Max (°C) =11.1 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.23 Viteza vântului = 2.85 Unghiul vântului = 301 Stare = nori 85-100%']
+Baraolt: 16 \ joi \ 21:4:2022 \ 19:10:54
+[' Răsarit = 06:20:56 Apus = 20:11:22 Min (°C) = 1.03 Max (°C) =13.5 Presiune = 1011 Umiditate (%) = 52 Index UV = 0.26 Viteza vântului = 2.95 Unghiul vântului = 283 Stare = nori 25-50%']
+Baraolt: 16 \ vineri \ 22:4:2022 \ 19:08:54
+[' Răsarit = 06:19:14 Apus = 20:12:41 Min (°C) = 2.25 Max (°C) =16.66 Presiune = 1006 Umiditate (%) = 61 Index UV = 0.27 Viteza vântului = 4.36 Unghiul vântului = 144 Stare = nori 50-85%']
+Baraolt: 16 \ sâmbătă \ 23:4:2022 \ 19:09:01
+[' Răsarit = 06:17:32 Apus = 20:14:01 Min (°C) = 6.61 Max (°C) =14.57 Presiune = 1007 Umiditate (%) = 77 Index UV = 0.19 Viteza vântului = 2.26 Unghiul vântului = 287 Stare = ploaie ușoară']
+Baraolt: 16 \ duminică \ 24:4:2022 \ 19:08:39
+[' Răsarit = 06:15:51 Apus = 20:15:21 Min (°C) = 6.77 Max (°C) =20.56 Presiune = 1007 Umiditate (%) = 53 Index UV = 0.29 Viteza vântului = 2.24 Unghiul vântului = 111 Stare = nori 85-100%']
+Baraolt: 17 \ luni \ 25:4:2022 \ 19:08:36
+[' Răsarit = 06:14:12 Apus = 20:16:40 Min (°C) = 9.85 Max (°C) =20.44 Presiune = 1008 Umiditate (%) = 70 Index UV = 0.29 Viteza vântului = 4.07 Unghiul vântului = 293 Stare = nori 25-50%']
+Baraolt: 17 \ marți \ 26:4:2022 \ 19:08:41
+[' Răsarit = 06:12:33 Apus = 20:18:00 Min (°C) = 6.82 Max (°C) =18.53 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.32 Viteza vântului = 2.23 Unghiul vântului = 324 Stare = nori 25-50%']
+Baraolt: 17 \ miercuri \ 27:4:2022 \ 19:08:41
+[' Răsarit = 06:10:56 Apus = 20:19:19 Min (°C) = 7.54 Max (°C) =18.8 Presiune = 1018 Umiditate (%) = 93 Index UV = 0.24 Viteza vântului = 1.54 Unghiul vântului = 91 Stare = nori 85-100%']
+Baraolt: 17 \ joi \ 28:4:2022 \ 19:08:46
+[' Răsarit = 06:09:20 Apus = 20:20:39 Min (°C) = 8.06 Max (°C) =11.47 Presiune = 1020 Umiditate (%) = 95 Index UV = 0.03 Viteza vântului = 1.28 Unghiul vântului = 272 Stare = nori 85-100%']
+Baraolt: 17 \ vineri \ 29:4:2022 \ 19:10:10
+[' Răsarit = 06:07:45 Apus = 20:21:58 Min (°C) = 6.78 Max (°C) =12.39 Presiune = 1023 Umiditate (%) = 73 Index UV = 0.24 Viteza vântului = 2.45 Unghiul vântului = 76 Stare = nori 85-100%']
+Baraolt: 17 \ sâmbătă \ 30:4:2022 \ 19:08:26
+[' Răsarit = 06:06:11 Apus = 20:23:17 Min (°C) = 3.59 Max (°C) =15.79 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.28 Viteza vântului = 2.67 Unghiul vântului = 98 Stare = nori 50-85%']
+Baraolt: 17 \ duminică \ 01:5:2022 \ 19:08:34
+[' Răsarit = 06:04:39 Apus = 20:24:36 Min (°C) = 5.19 Max (°C) =16.29 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.37 Viteza vântului = 2.5 Unghiul vântului = 98 Stare = nori 25-50%']
+Baraolt: 18 \ marți \ 03:5:2022 \ 20:09:25
+[' Răsarit = 06:01:38 Apus = 20:27:14 Min (°C) = 5.78 Max (°C) =17.14 Presiune = 1013 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 125 Stare = ploaie ușoară']
+Baraolt: 18 \ miercuri \ 04:5:2022 \ 19:13:04
+[' Răsarit = 06:00:09 Apus = 20:28:32 Min (°C) = 8.02 Max (°C) =15.26 Presiune = 1017 Umiditate (%) = 88 Index UV = 0.21 Viteza vântului = 1.11 Unghiul vântului = 162 Stare = nori 85-100%']
+Baraolt: 18 \ joi \ 05:5:2022 \ 19:11:09
+[' Răsarit = 05:58:42 Apus = 20:29:50 Min (°C) = 8.92 Max (°C) =18.84 Presiune = 1021 Umiditate (%) = 57 Index UV = 0.28 Viteza vântului = 2.26 Unghiul vântului = 95 Stare = nori 50-85%']
+Baraolt: 18 \ vineri \ 06:5:2022 \ 19:09:11
+[' Răsarit = 05:57:17 Apus = 20:31:08 Min (°C) = 6.25 Max (°C) =20.03 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.22 Viteza vântului = 2.91 Unghiul vântului = 104 Stare = nori 10-25%']
+Baraolt: 18 \ sâmbătă \ 07:5:2022 \ 19:08:50
+[' Răsarit = 05:55:53 Apus = 20:32:25 Min (°C) = 6.79 Max (°C) =20.53 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 3.54 Unghiul vântului = 132 Stare = nori 25-50%']
+Baraolt: 18 \ duminică \ 08:5:2022 \ 19:09:25
+[' Răsarit = 05:54:30 Apus = 20:33:42 Min (°C) = 6.71 Max (°C) =21.7 Presiune = 1019 Umiditate (%) = 70 Index UV = 0.27 Viteza vântului = 2.04 Unghiul vântului = 69 Stare = nori 50-85%']
+Baraolt: 19 \ luni \ 09:5:2022 \ 19:09:00
+[' Răsarit = 05:53:09 Apus = 20:34:59 Min (°C) = 8.34 Max (°C) =17.03 Presiune = 1022 Umiditate (%) = 82 Index UV = 0.29 Viteza vântului = 2.28 Unghiul vântului = 87 Stare = nori 50-85%']
+Baraolt: 19 \ marți \ 10:5:2022 \ 19:09:15
+[' Răsarit = 05:51:49 Apus = 20:36:15 Min (°C) = 8.34 Max (°C) =16.05 Presiune = 1019 Umiditate (%) = 67 Index UV = 0.42 Viteza vântului = 2.73 Unghiul vântului = 110 Stare = nori 50-85%']
+Baraolt: 19 \ miercuri \ 11:5:2022 \ 19:08:59
+[' Răsarit = 05:50:32 Apus = 20:37:30 Min (°C) = 7.63 Max (°C) =20.26 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.45 Viteza vântului = 4.26 Unghiul vântului = 289 Stare = nori 85-100%']
+Baraolt: 19 \ joi \ 12:5:2022 \ 19:08:59
+[' Răsarit = 05:49:15 Apus = 20:38:45 Min (°C) = 9.4 Max (°C) =22.9 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.51 Viteza vântului = 3.06 Unghiul vântului = 286 Stare = cer senin']
+Baraolt: 19 \ vineri \ 13:5:2022 \ 19:08:50
+[' Răsarit = 05:48:01 Apus = 20:40:00 Min (°C) = 11.77 Max (°C) =25.27 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.53 Viteza vântului = 2.39 Unghiul vântului = 295 Stare = cer senin']
+Baraolt: 19 \ sâmbătă \ 14:5:2022 \ 19:08:50
+[' Răsarit = 05:46:48 Apus = 20:41:14 Min (°C) = 11.51 Max (°C) =22.28 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.52 Viteza vântului = 4.4 Unghiul vântului = 307 Stare = nori 25-50%']
+Baraolt: 19 \ duminică \ 15:5:2022 \ 19:08:50
+[' Răsarit = 05:45:37 Apus = 20:42:27 Min (°C) = 10.06 Max (°C) =20.98 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.47 Viteza vântului = 3.27 Unghiul vântului = 303 Stare = nori 85-100%']
+Baraolt: 20 \ luni \ 16:5:2022 \ 19:09:59
+[' Răsarit = 05:44:28 Apus = 20:43:39 Min (°C) = 9.69 Max (°C) =23.16 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.53 Viteza vântului = 2.52 Unghiul vântului = 296 Stare = nori 50-85%']
+Baraolt: 20 \ marți \ 17:5:2022 \ 19:11:50
+[' Răsarit = 05:43:20 Apus = 20:44:51 Min (°C) = 10.53 Max (°C) =21.35 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.09 Viteza vântului = 0.94 Unghiul vântului = 213 Stare = nori 85-100%']
+Baraolt: 20 \ miercuri \ 18:5:2022 \ 19:09:03
+[' Răsarit = 05:42:14 Apus = 20:46:02 Min (°C) = 7.72 Max (°C) =15.26 Presiune = 1023 Umiditate (%) = 48 Index UV = 0.51 Viteza vântului = 4.39 Unghiul vântului = 359 Stare = nori 50-85%']
+Baraolt: 20 \ joi \ 19:5:2022 \ 20:13:55
+[' Răsarit = 05:41:11 Apus = 20:47:12 Min (°C) = 4.17 Max (°C) =17.53 Presiune = 1026 Umiditate (%) = 71 Index UV = 0.15 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = cer senin']
+Baraolt: 20 \ vineri \ 20:5:2022 \ 19:08:49
+[' Răsarit = 05:40:09 Apus = 20:48:21 Min (°C) = 6.31 Max (°C) =22.57 Presiune = 1021 Umiditate (%) = 57 Index UV = 0.38 Viteza vântului = 3.46 Unghiul vântului = 302 Stare = nori 25-50%']
+Baraolt: 20 \ sâmbătă \ 21:5:2022 \ 19:10:11
+[' Răsarit = 05:39:09 Apus = 20:49:30 Min (°C) = 9.76 Max (°C) =24.64 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.5 Viteza vântului = 4.77 Unghiul vântului = 298 Stare = nori 85-100%']

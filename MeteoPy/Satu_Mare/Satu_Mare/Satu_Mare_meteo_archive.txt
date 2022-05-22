@@ -1,0 +1,956 @@
+Satu_Mare: 04 \ luni \ 25:1:2021 \ 22:44:22
+[' Răsarit = 08:03:55 Apus = 17:17:24 Min (°C) = 0.69 Max (°C) =5.36 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = nori 50-85%']
+Satu_Mare: 04 \ marți \ 26:1:2021 \ 10:01:13
+[' Răsarit = 08:02:50 Apus = 17:18:57 Min (°C) = -2.11 Max (°C) =1.76 Presiune = 1008 Umiditate (%) = 100 Index UV = 0.42 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 04 \ miercuri \ 27:1:2021 \ 19:21:51
+[' Răsarit = 08:01:43 Apus = 17:20:30 Min (°C) = -2.55 Max (°C) =2.31 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 04 \ joi \ 28:1:2021 \ 19:36:33
+[' Răsarit = 08:00:34 Apus = 17:22:03 Min (°C) = -2.59 Max (°C) =1.77 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 220 Stare = zăpadă slabă']
+Satu_Mare: 04 \ vineri \ 29:1:2021 \ 20:22:22
+[' Răsarit = 07:59:23 Apus = 17:23:37 Min (°C) = -1.94 Max (°C) =1.57 Presiune = 999 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = zăpadă slabă']
+Satu_Mare: 04 \ sâmbătă \ 30:1:2021 \ 20:24:08
+[' Răsarit = 07:58:11 Apus = 17:25:12 Min (°C) = 0.63 Max (°C) =6.56 Presiune = 997 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = ploaie moderată']
+Satu_Mare: 04 \ duminică \ 31:1:2021 \ 19:21:24
+[' Răsarit = 07:56:56 Apus = 17:26:47 Min (°C) = -1.07 Max (°C) =2.1 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = zăpadă slabă']
+Satu_Mare: 05 \ luni \ 01:2:2021 \ 19:22:26
+[' Răsarit = 07:55:39 Apus = 17:28:22 Min (°C) = -0.17 Max (°C) =2.11 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 148 Stare = nori 85-100%']
+Satu_Mare: 05 \ marți \ 02:2:2021 \ 20:53:11
+[' Răsarit = 07:54:20 Apus = 17:29:57 Min (°C) = 0.87 Max (°C) =5.17 Presiune = 1014 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 242 Stare = nori 85-100%']
+Satu_Mare: 05 \ miercuri \ 03:2:2021 \ 19:48:51
+[' Răsarit = 07:52:59 Apus = 17:31:33 Min (°C) = 2.33 Max (°C) =6.06 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = nori 50-85%']
+Satu_Mare: 05 \ joi \ 04:2:2021 \ 19:23:29
+[' Răsarit = 07:51:37 Apus = 17:33:09 Min (°C) = 5.29 Max (°C) =11.5 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 10-25%']
+Satu_Mare: 05 \ vineri \ 05:2:2021 \ 19:19:13
+[' Răsarit = 07:50:13 Apus = 17:34:45 Min (°C) = 3.92 Max (°C) =7.47 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 108 Stare = nori 85-100%']
+Satu_Mare: 05 \ sâmbătă \ 06:2:2021 \ 19:47:58
+[' Răsarit = 07:48:47 Apus = 17:36:21 Min (°C) = 3.41 Max (°C) =5.55 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = nori 50-85%']
+Satu_Mare: 05 \ duminică \ 07:2:2021 \ 19:23:31
+[' Răsarit = 07:47:19 Apus = 17:37:57 Min (°C) = 2.73 Max (°C) =7.69 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = ceață']
+Satu_Mare: 06 \ luni \ 08:2:2021 \ 21:05:43
+[' Răsarit = 07:45:50 Apus = 17:39:33 Min (°C) = 6.53 Max (°C) =7.89 Presiune = 994 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 240 Stare = ploaie ușoară']
+Satu_Mare: 06 \ marți \ 09:2:2021 \ 19:20:35
+[' Răsarit = 07:44:19 Apus = 17:41:09 Min (°C) = 0.77 Max (°C) =7.16 Presiune = 1000 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = cer senin']
+Satu_Mare: 06 \ miercuri \ 10:2:2021 \ 19:21:20
+[' Răsarit = 07:42:47 Apus = 17:42:45 Min (°C) = 2.9 Max (°C) =7.48 Presiune = 1004 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = nori 85-100%']
+Satu_Mare: 06 \ joi \ 11:2:2021 \ 19:15:23
+[' Răsarit = 07:41:13 Apus = 17:44:21 Min (°C) = -7.49 Max (°C) =7.61 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 320 Stare = zăpadă slabă']
+Satu_Mare: 06 \ vineri \ 12:2:2021 \ 20:55:51
+[' Răsarit = 07:39:38 Apus = 17:45:57 Min (°C) = -10.63 Max (°C) =-7.35 Presiune = 1028 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 50-85%']
+Satu_Mare: 06 \ sâmbătă \ 13:2:2021 \ 19:20:27
+[' Răsarit = 07:38:01 Apus = 17:47:33 Min (°C) = -9.78 Max (°C) =-4.54 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Satu_Mare: 06 \ duminică \ 14:2:2021 \ 19:18:21
+[' Răsarit = 07:36:23 Apus = 17:49:08 Min (°C) = -7.65 Max (°C) =-0.93 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Satu_Mare: 07 \ luni \ 15:2:2021 \ 20:15:51
+[' Răsarit = 07:34:43 Apus = 17:50:44 Min (°C) = -6.22 Max (°C) =-0.71 Presiune = 1032 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = nori 85-100%']
+Satu_Mare: 07 \ marți \ 16:2:2021 \ 19:11:19
+[' Răsarit = 07:33:02 Apus = 17:52:19 Min (°C) = -6.67 Max (°C) =-1.05 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 07 \ miercuri \ 17:2:2021 \ 19:19:24
+[' Răsarit = 07:31:20 Apus = 17:53:53 Min (°C) = -3.76 Max (°C) =0.82 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = snow']
+Satu_Mare: 07 \ joi \ 18:2:2021 \ 19:23:16
+[' Răsarit = 07:29:37 Apus = 17:55:28 Min (°C) = -6 Max (°C) =0.61 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ceață']
+Satu_Mare: 07 \ vineri \ 19:2:2021 \ 19:16:23
+[' Răsarit = 07:27:52 Apus = 17:57:02 Min (°C) = -4.31 Max (°C) =2.11 Presiune = 1023 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = nori 50-85%']
+Satu_Mare: 07 \ sâmbătă \ 20:2:2021 \ 19:20:35
+[' Răsarit = 07:26:07 Apus = 17:58:36 Min (°C) = 0.67 Max (°C) =3.97 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 113 Stare = ceață']
+Satu_Mare: 07 \ duminică \ 21:2:2021 \ 19:18:06
+[' Răsarit = 07:24:20 Apus = 18:00:10 Min (°C) = -0.49 Max (°C) =5.59 Presiune = 1030 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 200 Stare = nori 50-85%']
+Satu_Mare: 08 \ luni \ 22:2:2021 \ 19:22:52
+[' Răsarit = 07:22:32 Apus = 18:01:44 Min (°C) = -0.21 Max (°C) =8.14 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = cer senin']
+Satu_Mare: 08 \ marți \ 23:2:2021 \ 19:20:37
+[' Răsarit = 07:20:43 Apus = 18:03:17 Min (°C) = 1.53 Max (°C) =10.62 Presiune = 1034 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 08 \ miercuri \ 24:2:2021 \ 19:21:11
+[' Răsarit = 07:18:53 Apus = 18:04:50 Min (°C) = 2.42 Max (°C) =11.49 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 25 Stare = cer senin']
+Satu_Mare: 08 \ joi \ 25:2:2021 \ 19:19:11
+[' Răsarit = 07:17:02 Apus = 18:06:22 Min (°C) = 4.18 Max (°C) =13.57 Presiune = 1032 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 08 \ vineri \ 26:2:2021 \ 19:20:01
+[' Răsarit = 07:15:10 Apus = 18:07:54 Min (°C) = 5.53 Max (°C) =14.89 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 08 \ sâmbătă \ 27:2:2021 \ 19:18:23
+[' Răsarit = 07:13:17 Apus = 18:09:26 Min (°C) = 3.25 Max (°C) =9.43 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 08 \ duminică \ 28:2:2021 \ 19:21:27
+[' Răsarit = 07:11:23 Apus = 18:10:58 Min (°C) = 0.89 Max (°C) =7.66 Presiune = 1030 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 09 \ luni \ 01:3:2021 \ 19:15:41
+[' Răsarit = 07:09:29 Apus = 18:12:29 Min (°C) = 1.67 Max (°C) =9.66 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 09 \ marți \ 02:3:2021 \ 19:24:12
+[' Răsarit = 07:07:34 Apus = 18:13:59 Min (°C) = 0.55 Max (°C) =8.98 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 09 \ miercuri \ 03:3:2021 \ 19:19:44
+[' Răsarit = 07:05:38 Apus = 18:15:30 Min (°C) = 2.01 Max (°C) =11.85 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
+Satu_Mare: 09 \ joi \ 04:3:2021 \ 19:20:28
+[' Răsarit = 07:03:41 Apus = 18:17:00 Min (°C) = 3.64 Max (°C) =13.38 Presiune = 1015 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 09 \ vineri \ 05:3:2021 \ 19:18:31
+[' Răsarit = 07:01:43 Apus = 18:18:30 Min (°C) = 1.53 Max (°C) =9.9 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 85-100%']
+Satu_Mare: 09 \ sâmbătă \ 06:3:2021 \ 19:19:20
+[' Răsarit = 06:59:45 Apus = 18:19:59 Min (°C) = -0.66 Max (°C) =4.63 Presiune = 1030 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 09 \ duminică \ 07:3:2021 \ 19:20:29
+[' Răsarit = 06:57:47 Apus = 18:21:29 Min (°C) = -1.48 Max (°C) =5.75 Presiune = 1020 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 210 Stare = zăpadă slabă']
+Satu_Mare: 10 \ luni \ 08:3:2021 \ 19:23:43
+[' Răsarit = 06:55:47 Apus = 18:22:57 Min (°C) = -0.9 Max (°C) =6.51 Presiune = 1017 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 10 \ marți \ 09:3:2021 \ 19:19:20
+[' Răsarit = 06:53:48 Apus = 18:24:26 Min (°C) = -2.12 Max (°C) =4.83 Presiune = 1018 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 10 \ miercuri \ 10:3:2021 \ 19:24:03
+[' Răsarit = 06:51:47 Apus = 18:25:54 Min (°C) = -1.46 Max (°C) =4.69 Presiune = 1018 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = cer senin']
+Satu_Mare: 10 \ joi \ 11:3:2021 \ 19:20:42
+[' Răsarit = 06:49:47 Apus = 18:27:22 Min (°C) = -2.64 Max (°C) =5.67 Presiune = 1017 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 170 Stare = cer senin']
+Satu_Mare: 10 \ vineri \ 12:3:2021 \ 19:19:46
+[' Răsarit = 06:47:46 Apus = 18:28:50 Min (°C) = -0.02 Max (°C) =7.09 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = cer senin']
+Satu_Mare: 10 \ sâmbătă \ 13:3:2021 \ 19:20:02
+[' Răsarit = 06:45:44 Apus = 18:30:18 Min (°C) = 2.75 Max (°C) =11.9 Presiune = 1012 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 10 \ duminică \ 14:3:2021 \ 19:22:24
+[' Răsarit = 06:43:42 Apus = 18:31:45 Min (°C) = 4.45 Max (°C) =11.74 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 110 Stare = nori 50-85%']
+Satu_Mare: 11 \ luni \ 15:3:2021 \ 19:21:49
+[' Răsarit = 06:41:40 Apus = 18:33:12 Min (°C) = 4 Max (°C) =6.6 Presiune = 1001 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 20 Stare = ploaie ușoară']
+Satu_Mare: 11 \ marți \ 16:3:2021 \ 19:20:23
+[' Răsarit = 06:39:38 Apus = 18:34:39 Min (°C) = 3.8 Max (°C) =6.55 Presiune = 1007 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 10 Stare = ploaie ușoară']
+Satu_Mare: 11 \ miercuri \ 17:3:2021 \ 19:20:47
+[' Răsarit = 06:37:35 Apus = 18:36:05 Min (°C) = 3.7 Max (°C) =7.46 Presiune = 1009 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 85-100%']
+Satu_Mare: 11 \ joi \ 18:3:2021 \ 19:20:00
+[' Răsarit = 06:35:32 Apus = 18:37:32 Min (°C) = 2.1 Max (°C) =7.03 Presiune = 1013 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 11 \ vineri \ 19:3:2021 \ 19:17:26
+[' Răsarit = 06:33:29 Apus = 18:38:58 Min (°C) = 0.11 Max (°C) =5.74 Presiune = 1015 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 11 \ sâmbătă \ 20:3:2021 \ 19:20:02
+[' Răsarit = 06:31:26 Apus = 18:40:24 Min (°C) = -1.52 Max (°C) =5.59 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 11 \ duminică \ 21:3:2021 \ 19:15:10
+[' Răsarit = 06:29:23 Apus = 18:41:50 Min (°C) = -1.5 Max (°C) =7.14 Presiune = 1011 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 12 \ luni \ 22:3:2021 \ 19:20:27
+[' Răsarit = 06:27:19 Apus = 18:43:16 Min (°C) = -0.87 Max (°C) =6.59 Presiune = 1011 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 12 \ marți \ 23:3:2021 \ 19:22:18
+[' Răsarit = 06:25:16 Apus = 18:44:42 Min (°C) = -1.78 Max (°C) =8.1 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 12 \ miercuri \ 24:3:2021 \ 19:20:45
+[' Răsarit = 06:23:12 Apus = 18:46:07 Min (°C) = -1.47 Max (°C) =7.37 Presiune = 1019 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = cer senin']
+Satu_Mare: 12 \ joi \ 25:3:2021 \ 19:20:50
+[' Răsarit = 06:21:09 Apus = 18:47:33 Min (°C) = -1.01 Max (°C) =8.89 Presiune = 1019 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 12 \ vineri \ 26:3:2021 \ 19:25:40
+[' Răsarit = 06:19:06 Apus = 18:48:58 Min (°C) = -0.23 Max (°C) =11.22 Presiune = 1023 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 12 \ sâmbătă \ 27:3:2021 \ 19:25:23
+[' Răsarit = 06:17:03 Apus = 18:50:23 Min (°C) = 3.27 Max (°C) =14.76 Presiune = 1023 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 187 Stare = cer senin']
+Satu_Mare: 12 \ duminică \ 28:3:2021 \ 19:21:00
+[' Răsarit = 07:15:00 Apus = 19:51:49 Min (°C) = 6.08 Max (°C) =11.27 Presiune = 1030 Umiditate (%) = 49 Index UV = 0.11 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = nori 50-85%']
+Satu_Mare: 13 \ luni \ 29:3:2021 \ 19:19:53
+[' Răsarit = 07:12:57 Apus = 19:53:14 Min (°C) = 2.24 Max (°C) =12 Presiune = 1031 Umiditate (%) = 47 Index UV = 0.11 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 13 \ marți \ 30:3:2021 \ 19:18:51
+[' Răsarit = 07:10:54 Apus = 19:54:39 Min (°C) = 6.82 Max (°C) =14 Presiune = 1029 Umiditate (%) = 54 Index UV = 0.01 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 13 \ miercuri \ 31:3:2021 \ 19:18:59
+[' Răsarit = 07:08:52 Apus = 19:56:04 Min (°C) = 7.35 Max (°C) =17 Presiune = 1023 Umiditate (%) = 59 Index UV = 0.16 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 13 \ joi \ 01:4:2021 \ 19:19:23
+[' Răsarit = 07:06:50 Apus = 19:57:29 Min (°C) = 8.97 Max (°C) =19 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.04 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 13 \ vineri \ 02:4:2021 \ 19:22:15
+[' Răsarit = 07:04:48 Apus = 19:58:54 Min (°C) = 5.33 Max (°C) =15.2 Presiune = 1010 Umiditate (%) = 71 Index UV = 0.16 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 13 \ sâmbătă \ 03:4:2021 \ 20:43:53
+[' Răsarit = 07:02:46 Apus = 20:00:20 Min (°C) = 3.97 Max (°C) =11.97 Presiune = 1012 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 50-85%']
+Satu_Mare: 13 \ duminică \ 04:4:2021 \ 20:22:35
+[' Răsarit = 07:00:45 Apus = 20:01:45 Min (°C) = 2.62 Max (°C) =10.92 Presiune = 1015 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = nori 25-50%']
+Satu_Mare: 14 \ luni \ 05:4:2021 \ 14:50:53
+[' Răsarit = 06:58:45 Apus = 20:03:10 Min (°C) = -0.41 Max (°C) =11.06 Presiune = 1011 Umiditate (%) = 46 Index UV = 3.3 Viteza vântului = 7.72 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 14 \ luni \ 05:4:2021 \ 19:20:44
+[' Răsarit = 06:58:45 Apus = 20:03:10 Min (°C) = -0.41 Max (°C) =11.06 Presiune = 1007 Umiditate (%) = 40 Index UV = 0.18 Viteza vântului = 6.69 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 14 \ marți \ 06:4:2021 \ 20:25:19
+[' Răsarit = 06:56:44 Apus = 20:04:35 Min (°C) = 1.74 Max (°C) =6.52 Presiune = 1005 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 50-85%']
+Satu_Mare: 14 \ miercuri \ 07:4:2021 \ 19:19:25
+[' Răsarit = 06:54:45 Apus = 20:06:00 Min (°C) = -1.71 Max (°C) =7.35 Presiune = 1011 Umiditate (%) = 56 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 14 \ joi \ 08:4:2021 \ 19:19:31
+[' Răsarit = 06:52:45 Apus = 20:07:26 Min (°C) = -2.38 Max (°C) =7.21 Presiune = 1021 Umiditate (%) = 81 Index UV = 0.18 Viteza vântului = 5.14 Unghiul vântului = 200 Stare = ploaie ușoară']
+Satu_Mare: 14 \ vineri \ 09:4:2021 \ 19:19:36
+[' Răsarit = 06:50:47 Apus = 20:08:51 Min (°C) = -1.46 Max (°C) =11.06 Presiune = 1025 Umiditate (%) = 35 Index UV = 0.21 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 14 \ sâmbătă \ 10:4:2021 \ 19:19:09
+[' Răsarit = 06:48:49 Apus = 20:10:16 Min (°C) = 1.9 Max (°C) =17 Presiune = 1020 Umiditate (%) = 31 Index UV = 0.23 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 14 \ duminică \ 11:4:2021 \ 19:20:50
+[' Răsarit = 06:46:51 Apus = 20:11:42 Min (°C) = 5.15 Max (°C) =19 Presiune = 1019 Umiditate (%) = 26 Index UV = 0.23 Viteza vântului = 3.19 Unghiul vântului = 127 Stare = nori 85-100%']
+Satu_Mare: 15 \ luni \ 12:4:2021 \ 22:05:00
+[' Răsarit = 06:44:54 Apus = 20:13:07 Min (°C) = 10.38 Max (°C) =19.79 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = nori 10-25%']
+Satu_Mare: 15 \ marți \ 13:4:2021 \ 19:20:37
+[' Răsarit = 06:42:58 Apus = 20:14:33 Min (°C) = 6.05 Max (°C) =13.11 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.04 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 85-100%']
+Satu_Mare: 15 \ miercuri \ 14:4:2021 \ 19:20:30
+[' Răsarit = 06:41:03 Apus = 20:15:58 Min (°C) = 2.78 Max (°C) =5.03 Presiune = 1015 Umiditate (%) = 87 Index UV = 0.11 Viteza vântului = 6.69 Unghiul vântului = 320 Stare = nori 85-100%']
+Satu_Mare: 15 \ joi \ 15:4:2021 \ 19:22:06
+[' Răsarit = 06:39:08 Apus = 20:17:24 Min (°C) = 1.67 Max (°C) =4.09 Presiune = 1018 Umiditate (%) = 93 Index UV = 0.21 Viteza vântului = 1.47 Unghiul vântului = 332 Stare = ploaie ușoară']
+Satu_Mare: 15 \ vineri \ 16:4:2021 \ 19:20:04
+[' Răsarit = 06:37:14 Apus = 20:18:49 Min (°C) = 2.75 Max (°C) =7.89 Presiune = 1019 Umiditate (%) = 66 Index UV = 0.16 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 15 \ sâmbătă \ 17:4:2021 \ 19:19:55
+[' Răsarit = 06:35:21 Apus = 20:20:15 Min (°C) = 0.64 Max (°C) =12.11 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.28 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = cer senin']
+Satu_Mare: 15 \ duminică \ 18:4:2021 \ 19:19:17
+[' Răsarit = 06:33:29 Apus = 20:21:41 Min (°C) = 3.61 Max (°C) =12.37 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.16 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = nori 50-85%']
+Satu_Mare: 16 \ luni \ 19:4:2021 \ 19:20:09
+[' Răsarit = 06:31:38 Apus = 20:23:07 Min (°C) = 6.53 Max (°C) =12.11 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.29 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = nori 10-25%']
+Satu_Mare: 16 \ marți \ 20:4:2021 \ 19:19:36
+[' Răsarit = 06:29:47 Apus = 20:24:32 Min (°C) = 5.53 Max (°C) =12.37 Presiune = 1011 Umiditate (%) = 71 Index UV = 0.26 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = nori 10-25%']
+Satu_Mare: 16 \ miercuri \ 21:4:2021 \ 19:19:38
+[' Răsarit = 06:27:58 Apus = 20:25:58 Min (°C) = 4.1 Max (°C) =14.02 Presiune = 1015 Umiditate (%) = 87 Index UV = 0.32 Viteza vântului = 5.14 Unghiul vântului = 120 Stare = nori 25-50%']
+Satu_Mare: 16 \ joi \ 22:4:2021 \ 19:20:08
+[' Răsarit = 06:26:09 Apus = 20:27:24 Min (°C) = 5.73 Max (°C) =15.71 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.22 Viteza vântului = 9.77 Unghiul vântului = 340 Stare = nori 10-25%']
+Satu_Mare: 16 \ vineri \ 23:4:2021 \ 19:19:27
+[' Răsarit = 06:24:22 Apus = 20:28:50 Min (°C) = 4.55 Max (°C) =12.11 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.31 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 16 \ sâmbătă \ 24:4:2021 \ 19:19:35
+[' Răsarit = 06:22:36 Apus = 20:30:15 Min (°C) = 2.24 Max (°C) =12.89 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.4 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 16 \ duminică \ 25:4:2021 \ 19:19:53
+[' Răsarit = 06:20:50 Apus = 20:31:41 Min (°C) = 5.08 Max (°C) =13.88 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.28 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = ploaie intensă']
+Satu_Mare: 17 \ luni \ 26:4:2021 \ 19:19:27
+[' Răsarit = 06:19:06 Apus = 20:33:06 Min (°C) = 0.79 Max (°C) =11.05 Presiune = 1016 Umiditate (%) = 35 Index UV = 0.33 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 17 \ marți \ 27:4:2021 \ 19:21:09
+[' Răsarit = 06:17:23 Apus = 20:34:32 Min (°C) = 0.92 Max (°C) =13.39 Presiune = 1012 Umiditate (%) = 30 Index UV = 0.34 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 17 \ miercuri \ 28:4:2021 \ 19:19:37
+[' Răsarit = 06:15:42 Apus = 20:35:57 Min (°C) = 3.03 Max (°C) =17 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.38 Viteza vântului = 3.09 Unghiul vântului = 210 Stare = cer senin']
+Satu_Mare: 17 \ joi \ 29:4:2021 \ 19:12:03
+[' Răsarit = 06:14:01 Apus = 20:37:22 Min (°C) = 9.48 Max (°C) =20 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.35 Viteza vântului = 1.54 Unghiul vântului = 210 Stare = cer senin']
+Satu_Mare: 17 \ joi \ 29:4:2021 \ 19:29:51
+[' Răsarit = 06:14:01 Apus = 20:37:22 Min (°C) = 9.48 Max (°C) =20 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.35 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = cer senin']
+Satu_Mare: 17 \ vineri \ 30:4:2021 \ 19:19:33
+[' Răsarit = 06:12:22 Apus = 20:38:47 Min (°C) = 10.56 Max (°C) =17.89 Presiune = 1010 Umiditate (%) = 77 Index UV = 0.37 Viteza vântului = 2.57 Unghiul vântului = 160 Stare = nori 25-50%']
+Satu_Mare: 17 \ sâmbătă \ 01:5:2021 \ 19:20:51
+[' Răsarit = 06:10:44 Apus = 20:40:12 Min (°C) = 11.28 Max (°C) =21.74 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 17 \ duminică \ 02:5:2021 \ 20:27:17
+[' Răsarit = 06:09:07 Apus = 20:41:36 Min (°C) = 12.6 Max (°C) =20.65 Presiune = 1007 Umiditate (%) = 63 Index UV = 0.12 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = nori 10-25%']
+Satu_Mare: 18 \ luni \ 03:5:2021 \ 19:19:47
+[' Răsarit = 06:07:32 Apus = 20:43:01 Min (°C) = 7.56 Max (°C) =13.66 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.48 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = ploaie ușoară']
+Satu_Mare: 18 \ marți \ 04:5:2021 \ 19:22:02
+[' Răsarit = 06:05:58 Apus = 20:44:25 Min (°C) = 2.75 Max (°C) =17.89 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 18 \ miercuri \ 05:5:2021 \ 19:19:32
+[' Răsarit = 06:04:26 Apus = 20:45:48 Min (°C) = 6.17 Max (°C) =21 Presiune = 1004 Umiditate (%) = 40 Index UV = 0.39 Viteza vântului = 4.63 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 18 \ joi \ 06:5:2021 \ 19:20:37
+[' Răsarit = 06:02:55 Apus = 20:47:12 Min (°C) = 5.01 Max (°C) =15 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.44 Viteza vântului = 6.17 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 18 \ vineri \ 07:5:2021 \ 19:19:06
+[' Răsarit = 06:01:25 Apus = 20:48:35 Min (°C) = 6.84 Max (°C) =12.11 Presiune = 1010 Umiditate (%) = 87 Index UV = 0.22 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = ploaie ușoară']
+Satu_Mare: 18 \ sâmbătă \ 08:5:2021 \ 19:19:46
+[' Răsarit = 05:59:58 Apus = 20:49:57 Min (°C) = 4.14 Max (°C) =13.39 Presiune = 1021 Umiditate (%) = 44 Index UV = 0.5 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 18 \ duminică \ 09:5:2021 \ 19:19:21
+[' Răsarit = 05:58:31 Apus = 20:51:19 Min (°C) = 3.72 Max (°C) =20 Presiune = 1022 Umiditate (%) = 30 Index UV = 0.6 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 19 \ luni \ 10:5:2021 \ 19:19:33
+[' Răsarit = 05:57:07 Apus = 20:52:41 Min (°C) = 7.11 Max (°C) =26 Presiune = 1017 Umiditate (%) = 29 Index UV = 0.62 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 19 \ marți \ 11:5:2021 \ 19:20:27
+[' Răsarit = 05:55:44 Apus = 20:54:02 Min (°C) = 10.95 Max (°C) =28 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.63 Viteza vântului = 1.03 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 19 \ miercuri \ 12:5:2021 \ 19:19:41
+[' Răsarit = 05:54:23 Apus = 20:55:22 Min (°C) = 13.7 Max (°C) =27.19 Presiune = 1003 Umiditate (%) = 67 Index UV = 0.63 Viteza vântului = 2.64 Unghiul vântului = 158 Stare = cer senin']
+Satu_Mare: 19 \ joi \ 13:5:2021 \ 19:20:39
+[' Răsarit = 05:53:03 Apus = 20:56:42 Min (°C) = 11.83 Max (°C) =19.82 Presiune = 1004 Umiditate (%) = 87 Index UV = 0.58 Viteza vântului = 3.43 Unghiul vântului = 238 Stare = nori 25-50%']
+Satu_Mare: 19 \ vineri \ 14:5:2021 \ 19:20:22
+[' Răsarit = 05:51:45 Apus = 20:58:01 Min (°C) = 10.81 Max (°C) =15 Presiune = 1008 Umiditate (%) = 72 Index UV = 0.07 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = nori 85-100%']
+Satu_Mare: 19 \ sâmbătă \ 15:5:2021 \ 19:19:49
+[' Răsarit = 05:50:30 Apus = 20:59:19 Min (°C) = 10.21 Max (°C) =18.94 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.64 Viteza vântului = 1.54 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 19 \ duminică \ 16:5:2021 \ 19:20:26
+[' Răsarit = 05:49:16 Apus = 21:00:37 Min (°C) = 9.71 Max (°C) =17.81 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.56 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = nori 10-25%']
+Satu_Mare: 20 \ luni \ 17:5:2021 \ 19:21:02
+[' Răsarit = 05:48:03 Apus = 21:01:53 Min (°C) = 9.44 Max (°C) =21 Presiune = 1003 Umiditate (%) = 49 Index UV = 0.48 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 10-25%']
+Satu_Mare: 20 \ marți \ 18:5:2021 \ 19:20:30
+[' Răsarit = 05:46:53 Apus = 21:03:09 Min (°C) = 10.33 Max (°C) =12.86 Presiune = 1009 Umiditate (%) = 94 Index UV = 0.27 Viteza vântului = 5.53 Unghiul vântului = 278 Stare = ploaie ușoară']
+Satu_Mare: 20 \ miercuri \ 19:5:2021 \ 19:19:16
+[' Răsarit = 05:45:45 Apus = 21:04:24 Min (°C) = 8.38 Max (°C) =18.92 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.55 Viteza vântului = 0.72 Unghiul vântului = 271 Stare = cer senin']
+Satu_Mare: 20 \ joi \ 20:5:2021 \ 19:19:54
+[' Răsarit = 05:44:39 Apus = 21:05:38 Min (°C) = 8.78 Max (°C) =16.99 Presiune = 1011 Umiditate (%) = 73 Index UV = 0.4 Viteza vântului = 4.88 Unghiul vântului = 355 Stare = cer senin']
+Satu_Mare: 20 \ vineri \ 21:5:2021 \ 19:20:27
+[' Răsarit = 05:43:35 Apus = 21:06:50 Min (°C) = 6.53 Max (°C) =19.98 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.67 Viteza vântului = 2.91 Unghiul vântului = 224 Stare = cer senin']
+Satu_Mare: 20 \ sâmbătă \ 22:5:2021 \ 19:20:41
+[' Răsarit = 05:42:32 Apus = 21:08:02 Min (°C) = 9.84 Max (°C) =18.2 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.45 Viteza vântului = 2.79 Unghiul vântului = 225 Stare = cer senin']
+Satu_Mare: 20 \ duminică \ 23:5:2021 \ 19:20:46
+[' Răsarit = 05:41:32 Apus = 21:09:13 Min (°C) = 10.21 Max (°C) =18.46 Presiune = 1013 Umiditate (%) = 93 Index UV = 0.36 Viteza vântului = 4.88 Unghiul vântului = 20 Stare = nori 25-50%']
+Satu_Mare: 21 \ luni \ 24:5:2021 \ 19:19:29
+[' Răsarit = 05:40:35 Apus = 21:10:22 Min (°C) = 7.8 Max (°C) =19.47 Presiune = 1020 Umiditate (%) = 74 Index UV = 0.35 Viteza vântului = 1.79 Unghiul vântului = 127 Stare = ploaie ușoară']
+Satu_Mare: 21 \ marți \ 25:5:2021 \ 19:19:32
+[' Răsarit = 05:39:39 Apus = 21:11:30 Min (°C) = 13.61 Max (°C) =23.92 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.8 Viteza vântului = 4.82 Unghiul vântului = 262 Stare = cer senin']
+Satu_Mare: 21 \ miercuri \ 26:5:2021 \ 19:22:15
+[' Răsarit = 05:38:45 Apus = 21:12:36 Min (°C) = 8.14 Max (°C) =22.97 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.78 Viteza vântului = 1.74 Unghiul vântului = 343 Stare = cer senin']
+Satu_Mare: 21 \ joi \ 27:5:2021 \ 19:19:41
+[' Răsarit = 05:37:54 Apus = 21:13:42 Min (°C) = 10.49 Max (°C) =23.97 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.69 Viteza vântului = 2.03 Unghiul vântului = 328 Stare = cer senin']
+Satu_Mare: 21 \ vineri \ 28:5:2021 \ 19:19:40
+[' Răsarit = 05:37:05 Apus = 21:14:45 Min (°C) = 11.39 Max (°C) =20.97 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.68 Viteza vântului = 5.06 Unghiul vântului = 336 Stare = nori 10-25%']
+Satu_Mare: 21 \ sâmbătă \ 29:5:2021 \ 19:19:19
+[' Răsarit = 05:36:18 Apus = 21:15:48 Min (°C) = 8.86 Max (°C) =17.97 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.57 Viteza vântului = 5.4 Unghiul vântului = 308 Stare = cer senin']
+Satu_Mare: 21 \ duminică \ 30:5:2021 \ 19:19:03
+[' Răsarit = 05:35:34 Apus = 21:16:48 Min (°C) = 8.13 Max (°C) =13.79 Presiune = 1017 Umiditate (%) = 88 Index UV = 0.47 Viteza vântului = 4.94 Unghiul vântului = 339 Stare = nori 10-25%']
+Satu_Mare: 22 \ marți \ 01:6:2021 \ 19:20:32
+[' Răsarit = 05:34:13 Apus = 21:18:45 Min (°C) = 6.65 Max (°C) =18.93 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.73 Viteza vântului = 3.77 Unghiul vântului = 334 Stare = cer senin']
+Satu_Mare: 22 \ miercuri \ 02:6:2021 \ 19:17:04
+[' Răsarit = 05:33:35 Apus = 21:19:40 Min (°C) = 8.22 Max (°C) =19.97 Presiune = 1020 Umiditate (%) = 37 Index UV = 0.59 Viteza vântului = 4.63 Unghiul vântului = 33 Stare = cer senin']
+Satu_Mare: 22 \ joi \ 03:6:2021 \ 19:17:31
+[' Răsarit = 05:33:01 Apus = 21:20:34 Min (°C) = 8.75 Max (°C) =22.09 Presiune = 1022 Umiditate (%) = 41 Index UV = 0.7 Viteza vântului = 1.77 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 22 \ vineri \ 04:6:2021 \ 19:26:16
+[' Răsarit = 05:32:28 Apus = 21:21:26 Min (°C) = 10 Max (°C) =23.97 Presiune = 1022 Umiditate (%) = 35 Index UV = 0.82 Viteza vântului = 2.22 Unghiul vântului = 341 Stare = cer senin']
+Satu_Mare: 22 \ sâmbătă \ 05:6:2021 \ 19:21:32
+[' Răsarit = 05:31:58 Apus = 21:22:16 Min (°C) = 11.67 Max (°C) =18.17 Presiune = 1018 Umiditate (%) = 88 Index UV = 0.24 Viteza vântului = 0.31 Unghiul vântului = 287 Stare = cer senin']
+Satu_Mare: 22 \ duminică \ 06:6:2021 \ 19:20:11
+[' Răsarit = 05:31:31 Apus = 21:23:05 Min (°C) = 10.58 Max (°C) =22.66 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.87 Viteza vântului = 2.85 Unghiul vântului = 307 Stare = cer senin']
+Satu_Mare: 23 \ luni \ 07:6:2021 \ 19:19:59
+[' Răsarit = 05:31:06 Apus = 21:23:51 Min (°C) = 11.98 Max (°C) =23.91 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.86 Viteza vântului = 2.9 Unghiul vântului = 323 Stare = cer senin']
+Satu_Mare: 23 \ marți \ 08:6:2021 \ 19:19:13
+[' Răsarit = 05:30:44 Apus = 21:24:35 Min (°C) = 12.62 Max (°C) =27.09 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.88 Viteza vântului = 2.14 Unghiul vântului = 352 Stare = cer senin']
+Satu_Mare: 23 \ miercuri \ 09:6:2021 \ 19:20:38
+[' Răsarit = 05:30:24 Apus = 21:25:17 Min (°C) = 13.58 Max (°C) =25.85 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.85 Viteza vântului = 4.54 Unghiul vântului = 335 Stare = cer senin']
+Satu_Mare: 23 \ joi \ 10:6:2021 \ 19:19:26
+[' Răsarit = 05:30:07 Apus = 21:25:56 Min (°C) = 13.07 Max (°C) =24.2 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.74 Viteza vântului = 5.66 Unghiul vântului = 30 Stare = nori 10-25%']
+Satu_Mare: 23 \ vineri \ 11:6:2021 \ 19:19:32
+[' Răsarit = 05:29:53 Apus = 21:26:34 Min (°C) = 13.66 Max (°C) =25.93 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.8 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = cer senin']
+Satu_Mare: 23 \ sâmbătă \ 12:6:2021 \ 19:19:46
+[' Răsarit = 05:29:40 Apus = 21:27:09 Min (°C) = 12.83 Max (°C) =25.94 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.88 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 23 \ duminică \ 13:6:2021 \ 19:25:27
+[' Răsarit = 05:29:31 Apus = 21:27:42 Min (°C) = 13.76 Max (°C) =19.31 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.8 Viteza vântului = 9.26 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 24 \ luni \ 14:6:2021 \ 19:19:41
+[' Răsarit = 05:29:24 Apus = 21:28:13 Min (°C) = 11.6 Max (°C) =17.39 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.84 Viteza vântului = 5.14 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 24 \ marți \ 15:6:2021 \ 19:22:00
+[' Răsarit = 05:29:20 Apus = 21:28:41 Min (°C) = 10.63 Max (°C) =24.99 Presiune = 1014 Umiditate (%) = 51 Index UV = 0.88 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 25-50%']
+Satu_Mare: 24 \ miercuri \ 16:6:2021 \ 19:21:16
+[' Răsarit = 05:29:18 Apus = 21:29:07 Min (°C) = 13.29 Max (°C) =27.87 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.89 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = cer senin']
+Satu_Mare: 24 \ joi \ 17:6:2021 \ 19:20:09
+[' Răsarit = 05:29:19 Apus = 21:29:31 Min (°C) = 14.58 Max (°C) =27.87 Presiune = 1017 Umiditate (%) = 40 Index UV = 0.8 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 24 \ vineri \ 18:6:2021 \ 19:20:42
+[' Răsarit = 05:29:22 Apus = 21:29:52 Min (°C) = 16.21 Max (°C) =29.98 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.93 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = cer senin']
+Satu_Mare: 24 \ sâmbătă \ 19:6:2021 \ 19:20:10
+[' Răsarit = 05:29:28 Apus = 21:30:11 Min (°C) = 17.1 Max (°C) =27.58 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.23 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 25-50%']
+Satu_Mare: 24 \ duminică \ 20:6:2021 \ 19:20:53
+[' Răsarit = 05:29:36 Apus = 21:30:27 Min (°C) = 15.71 Max (°C) =27.97 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.93 Viteza vântului = 3.09 Unghiul vântului = 30 Stare = cer senin']
+Satu_Mare: 25 \ luni \ 21:6:2021 \ 19:21:31
+[' Răsarit = 05:29:47 Apus = 21:30:40 Min (°C) = 15.87 Max (°C) =28.92 Presiune = 1009 Umiditate (%) = 51 Index UV = 0.92 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 25 \ marți \ 22:6:2021 \ 19:21:05
+[' Răsarit = 05:30:00 Apus = 21:30:51 Min (°C) = 18.43 Max (°C) =32.87 Presiune = 1010 Umiditate (%) = 41 Index UV = 0.92 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
+Satu_Mare: 25 \ miercuri \ 23:6:2021 \ 19:20:08
+[' Răsarit = 05:30:16 Apus = 21:31:00 Min (°C) = 19.83 Max (°C) =34.98 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.6 Viteza vântului = 2.57 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 25 \ joi \ 24:6:2021 \ 19:20:45
+[' Răsarit = 05:30:35 Apus = 21:31:05 Min (°C) = 20.7 Max (°C) =34.98 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.96 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 25 \ vineri \ 25:6:2021 \ 19:20:15
+[' Răsarit = 05:30:55 Apus = 21:31:09 Min (°C) = 21.91 Max (°C) =34.1 Presiune = 1010 Umiditate (%) = 34 Index UV = 0.98 Viteza vântului = 4.63 Unghiul vântului = 280 Stare = cer senin']
+Satu_Mare: 25 \ sâmbătă \ 26:6:2021 \ 19:19:43
+[' Răsarit = 05:31:18 Apus = 21:31:09 Min (°C) = 17.61 Max (°C) =27.49 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.92 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = ploaie ușoară']
+Satu_Mare: 25 \ duminică \ 27:6:2021 \ 19:19:34
+[' Răsarit = 05:31:44 Apus = 21:31:07 Min (°C) = 15.19 Max (°C) =28.93 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.9 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 26 \ luni \ 28:6:2021 \ 19:22:49
+[' Răsarit = 05:32:12 Apus = 21:31:02 Min (°C) = 16.62 Max (°C) =29.12 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.67 Viteza vântului = 1.54 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 26 \ marți \ 29:6:2021 \ 19:21:38
+[' Răsarit = 05:32:42 Apus = 21:30:55 Min (°C) = 17.99 Max (°C) =32.06 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.96 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 26 \ miercuri \ 30:6:2021 \ 19:20:30
+[' Răsarit = 05:33:14 Apus = 21:30:45 Min (°C) = 19 Max (°C) =33.9 Presiune = 1006 Umiditate (%) = 36 Index UV = 0.9 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = nori 10-25%']
+Satu_Mare: 26 \ joi \ 01:7:2021 \ 19:21:21
+[' Răsarit = 05:33:49 Apus = 21:30:33 Min (°C) = 18.16 Max (°C) =27.91 Presiune = 1010 Umiditate (%) = 77 Index UV = 0.73 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = nori 25-50%']
+Satu_Mare: 26 \ vineri \ 02:7:2021 \ 19:19:48
+[' Răsarit = 05:34:25 Apus = 21:30:18 Min (°C) = 14.91 Max (°C) =22.82 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.61 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 10-25%']
+Satu_Mare: 26 \ sâmbătă \ 03:7:2021 \ 19:20:05
+[' Răsarit = 05:35:04 Apus = 21:30:00 Min (°C) = 14.86 Max (°C) =20.97 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.22 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = furtună']
+Satu_Mare: 26 \ duminică \ 04:7:2021 \ 19:19:41
+[' Răsarit = 05:35:45 Apus = 21:29:40 Min (°C) = 15.27 Max (°C) =23.92 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.76 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 10-25%']
+Satu_Mare: 27 \ luni \ 05:7:2021 \ 19:20:11
+[' Răsarit = 05:36:28 Apus = 21:29:17 Min (°C) = 14.73 Max (°C) =27.87 Presiune = 1009 Umiditate (%) = 48 Index UV = 0.87 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 27 \ marți \ 06:7:2021 \ 19:21:01
+[' Răsarit = 05:37:13 Apus = 21:28:51 Min (°C) = 16.14 Max (°C) =29.99 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.92 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 27 \ miercuri \ 07:7:2021 \ 19:19:43
+[' Răsarit = 05:37:59 Apus = 21:28:23 Min (°C) = 18.24 Max (°C) =32.09 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.94 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = cer senin']
+Satu_Mare: 27 \ joi \ 08:7:2021 \ 19:21:03
+[' Răsarit = 05:38:48 Apus = 21:27:53 Min (°C) = 20.38 Max (°C) =32.86 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.94 Viteza vântului = 3.6 Unghiul vântului = 160 Stare = cer senin']
+Satu_Mare: 27 \ vineri \ 09:7:2021 \ 19:20:22
+[' Răsarit = 05:39:39 Apus = 21:27:20 Min (°C) = 21.71 Max (°C) =32.09 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.89 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 27 \ sâmbătă \ 10:7:2021 \ 19:19:41
+[' Răsarit = 05:40:31 Apus = 21:26:44 Min (°C) = 18.14 Max (°C) =30.13 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.69 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 27 \ duminică \ 11:7:2021 \ 19:19:55
+[' Răsarit = 05:41:25 Apus = 21:26:06 Min (°C) = 18.27 Max (°C) =32.06 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.83 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 28 \ luni \ 12:7:2021 \ 19:20:40
+[' Răsarit = 05:42:20 Apus = 21:25:26 Min (°C) = 17.42 Max (°C) =31.13 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.76 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 28 \ marți \ 13:7:2021 \ 19:20:32
+[' Răsarit = 05:43:18 Apus = 21:24:43 Min (°C) = 18.97 Max (°C) =33.09 Presiune = 1011 Umiditate (%) = 41 Index UV = 0.89 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 28 \ miercuri \ 14:7:2021 \ 19:19:56
+[' Răsarit = 05:44:16 Apus = 21:23:57 Min (°C) = 21.16 Max (°C) =34.29 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.87 Viteza vântului = 4.12 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 28 \ joi \ 15:7:2021 \ 19:19:36
+[' Răsarit = 05:45:17 Apus = 21:23:10 Min (°C) = 20.83 Max (°C) =32.51 Presiune = 1010 Umiditate (%) = 69 Index UV = 0.74 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = furtună']
+Satu_Mare: 28 \ vineri \ 16:7:2021 \ 19:20:00
+[' Răsarit = 05:46:18 Apus = 21:22:20 Min (°C) = 18.77 Max (°C) =30.37 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.68 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 28 \ sâmbătă \ 17:7:2021 \ 19:20:30
+[' Răsarit = 05:47:21 Apus = 21:21:28 Min (°C) = 19.19 Max (°C) =32.34 Presiune = 1009 Umiditate (%) = 39 Index UV = 0.8 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 28 \ duminică \ 18:7:2021 \ 19:20:50
+[' Răsarit = 05:48:26 Apus = 21:20:33 Min (°C) = 20.62 Max (°C) =33.36 Presiune = 1007 Umiditate (%) = 39 Index UV = 0.77 Viteza vântului = 5.14 Unghiul vântului = 40 Stare = cer senin']
+Satu_Mare: 29 \ luni \ 19:7:2021 \ 19:20:09
+[' Răsarit = 05:49:31 Apus = 21:19:37 Min (°C) = 19.9 Max (°C) =28.65 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.7 Viteza vântului = 5.14 Unghiul vântului = 360 Stare = nori 10-25%']
+Satu_Mare: 29 \ marți \ 20:7:2021 \ 19:20:11
+[' Răsarit = 05:50:38 Apus = 21:18:38 Min (°C) = 17.86 Max (°C) =21.02 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.62 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = nori 10-25%']
+Satu_Mare: 29 \ miercuri \ 21:7:2021 \ 19:19:28
+[' Răsarit = 05:51:46 Apus = 21:17:37 Min (°C) = 15.04 Max (°C) =22.87 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.63 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = nori 10-25%']
+Satu_Mare: 29 \ joi \ 22:7:2021 \ 19:19:32
+[' Răsarit = 05:52:55 Apus = 21:16:33 Min (°C) = 13.96 Max (°C) =25.89 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.68 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 29 \ vineri \ 23:7:2021 \ 19:19:47
+[' Răsarit = 05:54:05 Apus = 21:15:28 Min (°C) = 13.82 Max (°C) =27.85 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.46 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 29 \ sâmbătă \ 24:7:2021 \ 19:26:55
+[' Răsarit = 05:55:17 Apus = 21:14:21 Min (°C) = 15.72 Max (°C) =28.43 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.72 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 29 \ duminică \ 25:7:2021 \ 19:20:27
+[' Răsarit = 05:56:29 Apus = 21:13:11 Min (°C) = 17.19 Max (°C) =29.43 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.71 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 30 \ luni \ 26:7:2021 \ 19:20:23
+[' Răsarit = 05:57:41 Apus = 21:12:00 Min (°C) = 19.36 Max (°C) =32.64 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.69 Viteza vântului = 4.63 Unghiul vântului = 160 Stare = cer senin']
+Satu_Mare: 30 \ marți \ 27:7:2021 \ 19:22:15
+[' Răsarit = 05:58:55 Apus = 21:10:47 Min (°C) = 20.93 Max (°C) =34.01 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.68 Viteza vântului = 5.66 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 30 \ miercuri \ 28:7:2021 \ 19:22:41
+[' Răsarit = 06:00:10 Apus = 21:09:32 Min (°C) = 21.51 Max (°C) =34.03 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.71 Viteza vântului = 6.69 Unghiul vântului = 190 Stare = cer senin']
+Satu_Mare: 30 \ joi \ 29:7:2021 \ 19:21:33
+[' Răsarit = 06:01:25 Apus = 21:08:15 Min (°C) = 19.18 Max (°C) =30.74 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.68 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 30 \ vineri \ 30:7:2021 \ 19:19:50
+[' Răsarit = 06:02:41 Apus = 21:06:56 Min (°C) = 17.69 Max (°C) =31.89 Presiune = 1010 Umiditate (%) = 43 Index UV = 0.69 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 30 \ sâmbătă \ 31:7:2021 \ 19:19:35
+[' Răsarit = 06:03:57 Apus = 21:05:35 Min (°C) = 19.03 Max (°C) =33.33 Presiune = 1009 Umiditate (%) = 83 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = furtună']
+Satu_Mare: 30 \ duminică \ 01:8:2021 \ 19:20:13
+[' Răsarit = 06:05:14 Apus = 21:04:13 Min (°C) = 17.21 Max (°C) =32.74 Presiune = 1004 Umiditate (%) = 55 Index UV = 0.5 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = furtună']
+Satu_Mare: 31 \ luni \ 02:8:2021 \ 19:19:21
+[' Răsarit = 06:06:32 Apus = 21:02:49 Min (°C) = 17.93 Max (°C) =28.46 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.6 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 31 \ marți \ 03:8:2021 \ 19:19:59
+[' Răsarit = 06:07:50 Apus = 21:01:23 Min (°C) = 15.05 Max (°C) =28.22 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.58 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 31 \ miercuri \ 04:8:2021 \ 19:18:02
+[' Răsarit = 06:09:09 Apus = 20:59:55 Min (°C) = 17.19 Max (°C) =29.24 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.21 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = cer senin']
+Satu_Mare: 31 \ joi \ 05:8:2021 \ 19:16:48
+[' Răsarit = 06:10:28 Apus = 20:58:26 Min (°C) = 18.2 Max (°C) =30.9 Presiune = 1003 Umiditate (%) = 77 Index UV = 0.3 Viteza vântului = 4.12 Unghiul vântului = 190 Stare = nori 10-25%']
+Satu_Mare: 31 \ vineri \ 06:8:2021 \ 19:19:51
+[' Răsarit = 06:11:47 Apus = 20:56:56 Min (°C) = 15.21 Max (°C) =24.85 Presiune = 1005 Umiditate (%) = 50 Index UV = 0.55 Viteza vântului = 5.14 Unghiul vântului = 290 Stare = nori 10-25%']
+Satu_Mare: 31 \ sâmbătă \ 07:8:2021 \ 19:19:34
+[' Răsarit = 06:13:07 Apus = 20:55:24 Min (°C) = 12.61 Max (°C) =29.22 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.58 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = cer senin']
+Satu_Mare: 31 \ duminică \ 08:8:2021 \ 19:19:25
+[' Răsarit = 06:14:27 Apus = 20:53:50 Min (°C) = 16.43 Max (°C) =32.84 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 130 Stare = nori 10-25%']
+Satu_Mare: 32 \ luni \ 09:8:2021 \ 19:20:46
+[' Răsarit = 06:15:47 Apus = 20:52:15 Min (°C) = 19.26 Max (°C) =31.81 Presiune = 1018 Umiditate (%) = 57 Index UV = 0.55 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 32 \ marți \ 10:8:2021 \ 19:20:54
+[' Răsarit = 06:17:07 Apus = 20:50:38 Min (°C) = 17.04 Max (°C) =31.26 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.5 Viteza vântului = 2.06 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 32 \ miercuri \ 11:8:2021 \ 19:16:32
+[' Răsarit = 06:18:28 Apus = 20:49:01 Min (°C) = 17.23 Max (°C) =32.42 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.43 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 32 \ joi \ 12:8:2021 \ 19:18:05
+[' Răsarit = 06:19:49 Apus = 20:47:21 Min (°C) = 15.64 Max (°C) =28.63 Presiune = 1021 Umiditate (%) = 38 Index UV = 0.5 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 32 \ vineri \ 13:8:2021 \ 19:16:39
+[' Răsarit = 06:21:10 Apus = 20:45:41 Min (°C) = 13.8 Max (°C) =28.64 Presiune = 1023 Umiditate (%) = 39 Index UV = 0.47 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 32 \ sâmbătă \ 14:8:2021 \ 19:18:36
+[' Răsarit = 06:22:31 Apus = 20:43:59 Min (°C) = 16.51 Max (°C) =32.47 Presiune = 1019 Umiditate (%) = 39 Index UV = 0.48 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
+Satu_Mare: 32 \ duminică \ 15:8:2021 \ 19:17:02
+[' Răsarit = 06:23:53 Apus = 20:42:16 Min (°C) = 18.85 Max (°C) =35.07 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.36 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = nori 10-25%']
+Satu_Mare: 33 \ luni \ 16:8:2021 \ 19:16:39
+[' Răsarit = 06:25:14 Apus = 20:40:32 Min (°C) = 18.76 Max (°C) =35.25 Presiune = 1008 Umiditate (%) = 51 Index UV = 0.33 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 33 \ marți \ 17:8:2021 \ 19:17:10
+[' Răsarit = 06:26:35 Apus = 20:38:46 Min (°C) = 16.21 Max (°C) =28.41 Presiune = 1014 Umiditate (%) = 94 Index UV = 0.4 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ploaie torențială \n de intensitate mică']
+Satu_Mare: 33 \ miercuri \ 18:8:2021 \ 19:16:56
+[' Răsarit = 06:27:57 Apus = 20:37:00 Min (°C) = 11.86 Max (°C) =23.17 Presiune = 1014 Umiditate (%) = 56 Index UV = 0.37 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = nori 10-25%']
+Satu_Mare: 33 \ joi \ 19:8:2021 \ 19:16:40
+[' Răsarit = 06:29:18 Apus = 20:35:12 Min (°C) = 10.87 Max (°C) =25.12 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.41 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 33 \ vineri \ 20:8:2021 \ 19:16:48
+[' Răsarit = 06:30:40 Apus = 20:33:24 Min (°C) = 12.29 Max (°C) =27.63 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.41 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 33 \ sâmbătă \ 21:8:2021 \ 19:18:04
+[' Răsarit = 06:32:01 Apus = 20:31:34 Min (°C) = 13.92 Max (°C) =28.49 Presiune = 1018 Umiditate (%) = 41 Index UV = 0.37 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 33 \ duminică \ 22:8:2021 \ 19:17:00
+[' Răsarit = 06:33:23 Apus = 20:29:43 Min (°C) = 16.19 Max (°C) =29.2 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.31 Viteza vântului = 1.03 Unghiul vântului = 80 Stare = nori 50-85%']
+Satu_Mare: 34 \ luni \ 23:8:2021 \ 19:16:49
+[' Răsarit = 06:34:44 Apus = 20:27:51 Min (°C) = 16.4 Max (°C) =31.94 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.1 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 34 \ marți \ 24:8:2021 \ 19:16:51
+[' Răsarit = 06:36:06 Apus = 20:25:59 Min (°C) = 16.81 Max (°C) =23.92 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = nori 50-85%']
+Satu_Mare: 34 \ miercuri \ 25:8:2021 \ 19:16:53
+[' Răsarit = 06:37:27 Apus = 20:24:05 Min (°C) = 14.12 Max (°C) =23.66 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.24 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 34 \ joi \ 26:8:2021 \ 19:18:20
+[' Răsarit = 06:38:48 Apus = 20:22:11 Min (°C) = 11.52 Max (°C) =23.31 Presiune = 1009 Umiditate (%) = 40 Index UV = 0.27 Viteza vântului = 2.57 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 34 \ vineri \ 27:8:2021 \ 19:20:27
+[' Răsarit = 06:40:10 Apus = 20:20:16 Min (°C) = 12.7 Max (°C) =16.9 Presiune = 1013 Umiditate (%) = 94 Index UV = 0.13 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = nori 10-25%']
+Satu_Mare: 34 \ sâmbătă \ 28:8:2021 \ 19:21:50
+[' Răsarit = 06:41:31 Apus = 20:18:20 Min (°C) = 11.2 Max (°C) =22.12 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.14 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 34 \ duminică \ 29:8:2021 \ 19:21:00
+[' Răsarit = 06:42:52 Apus = 20:16:23 Min (°C) = 12.61 Max (°C) =18.53 Presiune = 1009 Umiditate (%) = 77 Index UV = 0.22 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = nori 50-85%']
+Satu_Mare: 35 \ luni \ 30:8:2021 \ 19:20:54
+[' Răsarit = 06:44:13 Apus = 20:14:26 Min (°C) = 12.07 Max (°C) =19.03 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.25 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 10-25%']
+Satu_Mare: 35 \ marți \ 31:8:2021 \ 19:21:00
+[' Răsarit = 06:45:34 Apus = 20:12:27 Min (°C) = 13.26 Max (°C) =20.11 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = ploaie torențială \n de intensitate mică']
+Satu_Mare: 35 \ miercuri \ 01:9:2021 \ 19:20:31
+[' Răsarit = 06:46:55 Apus = 20:10:29 Min (°C) = 13.79 Max (°C) =20.2 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.24 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = nori 10-25%']
+Satu_Mare: 35 \ joi \ 02:9:2021 \ 19:24:43
+[' Răsarit = 06:48:15 Apus = 20:08:29 Min (°C) = 10.76 Max (°C) =20.09 Presiune = 1022 Umiditate (%) = 52 Index UV = 0.24 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 35 \ vineri \ 03:9:2021 \ 19:19:46
+[' Răsarit = 06:49:36 Apus = 20:06:29 Min (°C) = 11.3 Max (°C) =22.28 Presiune = 1019 Umiditate (%) = 56 Index UV = 0.23 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 35 \ sâmbătă \ 04:9:2021 \ 19:19:02
+[' Răsarit = 06:50:57 Apus = 20:04:28 Min (°C) = 14.95 Max (°C) =23.97 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.22 Viteza vântului = 1.03 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 35 \ duminică \ 05:9:2021 \ 19:20:30
+[' Răsarit = 06:52:17 Apus = 20:02:27 Min (°C) = 13.26 Max (°C) =22.73 Presiune = 1021 Umiditate (%) = 45 Index UV = 0.19 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 85-100%']
+Satu_Mare: 36 \ luni \ 06:9:2021 \ 19:21:28
+[' Răsarit = 06:53:38 Apus = 20:00:26 Min (°C) = 8.79 Max (°C) =22.35 Presiune = 1024 Umiditate (%) = 46 Index UV = 0.2 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 36 \ marți \ 07:9:2021 \ 19:21:41
+[' Răsarit = 06:54:58 Apus = 19:58:24 Min (°C) = 9.48 Max (°C) =23.04 Presiune = 1025 Umiditate (%) = 46 Index UV = 0.15 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 36 \ miercuri \ 08:9:2021 \ 19:20:57
+[' Răsarit = 06:56:19 Apus = 19:56:21 Min (°C) = 10.19 Max (°C) =24.21 Presiune = 1022 Umiditate (%) = 40 Index UV = 0.18 Viteza vântului = 1.03 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 36 \ joi \ 09:9:2021 \ 19:22:13
+[' Răsarit = 06:57:39 Apus = 19:54:18 Min (°C) = 11.02 Max (°C) =25.35 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.18 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 36 \ vineri \ 10:9:2021 \ 19:22:42
+[' Răsarit = 06:59:00 Apus = 19:52:15 Min (°C) = 11.38 Max (°C) =25.29 Presiune = 1017 Umiditate (%) = 41 Index UV = 0.17 Viteza vântului = 2.06 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 36 \ sâmbătă \ 11:9:2021 \ 19:20:01
+[' Răsarit = 07:00:20 Apus = 19:50:11 Min (°C) = 11.8 Max (°C) =25.69 Presiune = 1016 Umiditate (%) = 41 Index UV = 0.16 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 36 \ duminică \ 12:9:2021 \ 19:20:24
+[' Răsarit = 07:01:40 Apus = 19:48:07 Min (°C) = 13.09 Max (°C) =26.1 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.14 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 85-100%']
+Satu_Mare: 37 \ luni \ 13:9:2021 \ 19:20:54
+[' Răsarit = 07:03:01 Apus = 19:46:03 Min (°C) = 13.39 Max (°C) =26.97 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.13 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 37 \ marți \ 14:9:2021 \ 19:22:19
+[' Răsarit = 07:04:21 Apus = 19:43:59 Min (°C) = 15.02 Max (°C) =26.35 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 37 \ joi \ 16:9:2021 \ 19:20:31
+[' Răsarit = 07:07:02 Apus = 19:39:50 Min (°C) = 15.92 Max (°C) =27.91 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.08 Viteza vântului = 2.57 Unghiul vântului = 150 Stare = nori 10-25%']
+Satu_Mare: 37 \ vineri \ 17:9:2021 \ 19:22:20
+[' Răsarit = 07:08:23 Apus = 19:37:45 Min (°C) = 14.98 Max (°C) =22.32 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.02 Viteza vântului = 6.17 Unghiul vântului = 340 Stare = nori 50-85%']
+Satu_Mare: 37 \ sâmbătă \ 18:9:2021 \ 19:22:35
+[' Răsarit = 07:09:43 Apus = 19:35:40 Min (°C) = 13.7 Max (°C) =18.46 Presiune = 1011 Umiditate (%) = 88 Index UV = 0.09 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = cer senin']
+Satu_Mare: 37 \ duminică \ 19:9:2021 \ 19:21:18
+[' Răsarit = 07:11:04 Apus = 19:33:35 Min (°C) = 11.3 Max (°C) =14.76 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.06 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = nori 10-25%']
+Satu_Mare: 38 \ luni \ 20:9:2021 \ 19:21:50
+[' Răsarit = 07:12:25 Apus = 19:31:30 Min (°C) = 6.54 Max (°C) =16.37 Presiune = 1017 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Satu_Mare: 38 \ marți \ 21:9:2021 \ 19:20:22
+[' Răsarit = 07:13:46 Apus = 19:29:24 Min (°C) = 4.78 Max (°C) =15.16 Presiune = 1024 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 38 \ miercuri \ 22:9:2021 \ 19:21:21
+[' Răsarit = 07:15:07 Apus = 19:27:19 Min (°C) = 7.41 Max (°C) =11.97 Presiune = 1020 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = ploaie ușoară']
+Satu_Mare: 38 \ joi \ 23:9:2021 \ 19:19:40
+[' Răsarit = 07:16:28 Apus = 19:25:14 Min (°C) = 4.45 Max (°C) =15.88 Presiune = 1018 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 39 \ luni \ 27:9:2021 \ 19:19:19
+[' Răsarit = 07:21:54 Apus = 19:16:56 Min (°C) = 12.88 Max (°C) =24.3 Presiune = 1016 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 39 \ marți \ 28:9:2021 \ 19:22:12
+[' Răsarit = 07:23:16 Apus = 19:14:52 Min (°C) = 16 Max (°C) =19.98 Presiune = 1018 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = cer senin']
+Satu_Mare: 39 \ miercuri \ 29:9:2021 \ 19:22:58
+[' Răsarit = 07:24:38 Apus = 19:12:48 Min (°C) = 14.18 Max (°C) =17.49 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = nori 50-85%']
+Satu_Mare: 39 \ joi \ 30:9:2021 \ 19:20:15
+[' Răsarit = 07:26:01 Apus = 19:10:45 Min (°C) = 11.6 Max (°C) =17.19 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 320 Stare = nori 85-100%']
+Satu_Mare: 39 \ vineri \ 01:10:2021 \ 19:21:41
+[' Răsarit = 07:27:24 Apus = 19:08:41 Min (°C) = 11.78 Max (°C) =15.4 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = nori 50-85%']
+Satu_Mare: 39 \ sâmbătă \ 02:10:2021 \ 19:20:31
+[' Răsarit = 07:28:47 Apus = 19:06:39 Min (°C) = 9.07 Max (°C) =18.92 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 39 \ duminică \ 03:10:2021 \ 19:19:41
+[' Răsarit = 07:30:10 Apus = 19:04:36 Min (°C) = 8.65 Max (°C) =19.92 Presiune = 1021 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 40 \ luni \ 04:10:2021 \ 19:24:32
+[' Răsarit = 07:31:34 Apus = 19:02:34 Min (°C) = 9.56 Max (°C) =21.47 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 40 \ marți \ 05:10:2021 \ 19:22:09
+[' Răsarit = 07:32:58 Apus = 19:00:33 Min (°C) = 11.22 Max (°C) =22.14 Presiune = 1020 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 40 \ miercuri \ 06:10:2021 \ 19:19:54
+[' Răsarit = 07:34:22 Apus = 18:58:32 Min (°C) = 11.1 Max (°C) =19.33 Presiune = 1020 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 40 \ joi \ 07:10:2021 \ 19:22:23
+[' Răsarit = 07:35:46 Apus = 18:56:32 Min (°C) = 10.61 Max (°C) =17.63 Presiune = 1024 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 40 \ vineri \ 08:10:2021 \ 19:21:53
+[' Răsarit = 07:37:11 Apus = 18:54:32 Min (°C) = 6.09 Max (°C) =16.39 Presiune = 1026 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = cer senin']
+Satu_Mare: 40 \ sâmbătă \ 09:10:2021 \ 19:19:46
+[' Răsarit = 07:38:36 Apus = 18:52:33 Min (°C) = 2.86 Max (°C) =14.05 Presiune = 1028 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = cer senin']
+Satu_Mare: 40 \ duminică \ 10:10:2021 \ 19:21:02
+[' Răsarit = 07:40:02 Apus = 18:50:34 Min (°C) = 3.81 Max (°C) =15.85 Presiune = 1023 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Satu_Mare: 41 \ luni \ 11:10:2021 \ 19:21:06
+[' Răsarit = 07:41:28 Apus = 18:48:37 Min (°C) = 7.28 Max (°C) =15.65 Presiune = 1017 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = cer senin']
+Satu_Mare: 41 \ marți \ 12:10:2021 \ 19:21:05
+[' Răsarit = 07:42:54 Apus = 18:46:39 Min (°C) = 8.13 Max (°C) =11.73 Presiune = 1012 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 50-85%']
+Satu_Mare: 41 \ miercuri \ 13:10:2021 \ 19:21:05
+[' Răsarit = 07:44:20 Apus = 18:44:43 Min (°C) = 5.21 Max (°C) =13.19 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 41 \ joi \ 14:10:2021 \ 19:20:48
+[' Răsarit = 07:45:47 Apus = 18:42:48 Min (°C) = 6.5 Max (°C) =10.64 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 41 \ vineri \ 15:10:2021 \ 19:19:44
+[' Răsarit = 07:47:15 Apus = 18:40:53 Min (°C) = 3.59 Max (°C) =13.12 Presiune = 1019 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 90 Stare = cer senin']
+Satu_Mare: 41 \ sâmbătă \ 16:10:2021 \ 19:20:00
+[' Răsarit = 07:48:42 Apus = 18:38:59 Min (°C) = 6.37 Max (°C) =14.59 Presiune = 1018 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 41 \ duminică \ 17:10:2021 \ 19:19:14
+[' Răsarit = 07:50:10 Apus = 18:37:06 Min (°C) = 4.02 Max (°C) =13.63 Presiune = 1021 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 304 Stare = nori 10-25%']
+Satu_Mare: 42 \ luni \ 18:10:2021 \ 19:19:17
+[' Răsarit = 07:51:39 Apus = 18:35:15 Min (°C) = 4.57 Max (°C) =12.23 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 42 \ marți \ 19:10:2021 \ 19:21:01
+[' Răsarit = 07:53:08 Apus = 18:33:24 Min (°C) = 6.51 Max (°C) =13.79 Presiune = 1027 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 42 \ miercuri \ 20:10:2021 \ 19:18:45
+[' Răsarit = 07:54:37 Apus = 18:31:34 Min (°C) = 6.91 Max (°C) =15.9 Presiune = 1021 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 42 \ joi \ 21:10:2021 \ 19:20:44
+[' Răsarit = 07:56:06 Apus = 18:29:45 Min (°C) = 8.56 Max (°C) =19.66 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 42 \ vineri \ 22:10:2021 \ 19:17:22
+[' Răsarit = 07:57:36 Apus = 18:27:57 Min (°C) = 11.06 Max (°C) =18.37 Presiune = 1016 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 42 \ sâmbătă \ 23:10:2021 \ 19:19:11
+[' Răsarit = 07:59:06 Apus = 18:26:11 Min (°C) = 6.55 Max (°C) =13 Presiune = 1024 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 42 \ duminică \ 24:10:2021 \ 19:19:02
+[' Răsarit = 08:00:36 Apus = 18:24:25 Min (°C) = 3.19 Max (°C) =11.56 Presiune = 1032 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 43 \ luni \ 25:10:2021 \ 19:18:21
+[' Răsarit = 08:02:07 Apus = 18:22:41 Min (°C) = 2.06 Max (°C) =12.52 Presiune = 1028 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 43 \ marți \ 26:10:2021 \ 19:17:35
+[' Răsarit = 08:03:38 Apus = 18:20:58 Min (°C) = 3.66 Max (°C) =13.65 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 43 \ miercuri \ 27:10:2021 \ 19:20:18
+[' Răsarit = 08:05:09 Apus = 18:19:17 Min (°C) = 3.54 Max (°C) =12.73 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 43 \ joi \ 28:10:2021 \ 19:17:58
+[' Răsarit = 08:06:41 Apus = 18:17:36 Min (°C) = 4.54 Max (°C) =14.2 Presiune = 1026 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = cer senin']
+Satu_Mare: 43 \ vineri \ 29:10:2021 \ 19:18:32
+[' Răsarit = 08:08:13 Apus = 18:15:57 Min (°C) = 5.98 Max (°C) =17.69 Presiune = 1022 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 43 \ sâmbătă \ 30:10:2021 \ 19:18:13
+[' Răsarit = 08:09:45 Apus = 18:14:20 Min (°C) = 8.25 Max (°C) =17.2 Presiune = 1021 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 43 \ duminică \ 31:10:2021 \ 19:18:06
+[' Răsarit = 07:11:17 Apus = 17:12:44 Min (°C) = 6.3 Max (°C) =16.41 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 44 \ luni \ 01:11:2021 \ 19:18:27
+[' Răsarit = 07:12:49 Apus = 17:11:09 Min (°C) = 4.22 Max (°C) =13.69 Presiune = 1011 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 44 \ marți \ 02:11:2021 \ 19:18:42
+[' Răsarit = 07:14:21 Apus = 17:09:36 Min (°C) = 4.87 Max (°C) =12.66 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ploaie ușoară']
+Satu_Mare: 44 \ miercuri \ 03:11:2021 \ 19:18:16
+[' Răsarit = 07:15:54 Apus = 17:08:04 Min (°C) = 6.03 Max (°C) =13.89 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 44 \ joi \ 04:11:2021 \ 19:16:30
+[' Răsarit = 07:17:27 Apus = 17:06:35 Min (°C) = 11.94 Max (°C) =18.74 Presiune = 1012 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 180 Stare = ploaie torențială \n de intensitate mică']
+Satu_Mare: 44 \ vineri \ 05:11:2021 \ 19:22:37
+[' Răsarit = 07:18:59 Apus = 17:05:06 Min (°C) = 10.29 Max (°C) =14.15 Presiune = 1020 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = ploaie ușoară']
+Satu_Mare: 44 \ sâmbătă \ 06:11:2021 \ 19:20:10
+[' Răsarit = 07:20:32 Apus = 17:03:40 Min (°C) = 6.47 Max (°C) =12.17 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = cer senin']
+Satu_Mare: 44 \ duminică \ 07:11:2021 \ 19:20:06
+[' Răsarit = 07:22:04 Apus = 17:02:15 Min (°C) = 6.76 Max (°C) =8.14 Presiune = 1018 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 45 \ luni \ 08:11:2021 \ 19:19:51
+[' Răsarit = 07:23:37 Apus = 17:00:52 Min (°C) = 7.1 Max (°C) =10.02 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 45 \ marți \ 09:11:2021 \ 19:15:16
+[' Răsarit = 07:25:09 Apus = 16:59:31 Min (°C) = 3.96 Max (°C) =10.59 Presiune = 1033 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 45 \ miercuri \ 10:11:2021 \ 19:19:50
+[' Răsarit = 07:26:41 Apus = 16:58:11 Min (°C) = 3.07 Max (°C) =10.48 Presiune = 1033 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 45 \ joi \ 11:11:2021 \ 19:20:24
+[' Răsarit = 07:28:13 Apus = 16:56:54 Min (°C) = 2.52 Max (°C) =10.29 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 45 \ vineri \ 12:11:2021 \ 19:19:36
+[' Răsarit = 07:29:45 Apus = 16:55:38 Min (°C) = 2.91 Max (°C) =10.88 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 45 \ sâmbătă \ 13:11:2021 \ 19:19:32
+[' Răsarit = 07:31:16 Apus = 16:54:25 Min (°C) = 2.07 Max (°C) =10.67 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 25-50%']
+Satu_Mare: 45 \ duminică \ 14:11:2021 \ 19:22:06
+[' Răsarit = 07:32:47 Apus = 16:53:13 Min (°C) = 4.08 Max (°C) =11.97 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 46 \ luni \ 15:11:2021 \ 19:20:50
+[' Răsarit = 07:34:18 Apus = 16:52:04 Min (°C) = 3.09 Max (°C) =12.89 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = cer senin']
+Satu_Mare: 46 \ marți \ 16:11:2021 \ 19:20:33
+[' Răsarit = 07:35:48 Apus = 16:50:57 Min (°C) = 3.06 Max (°C) =11.58 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 46 \ miercuri \ 17:11:2021 \ 19:20:16
+[' Răsarit = 07:37:18 Apus = 16:49:51 Min (°C) = 2.05 Max (°C) =9.04 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 46 \ joi \ 18:11:2021 \ 19:17:07
+[' Răsarit = 07:38:47 Apus = 16:48:48 Min (°C) = 2.27 Max (°C) =4.7 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 46 \ vineri \ 19:11:2021 \ 19:17:19
+[' Răsarit = 07:40:15 Apus = 16:47:48 Min (°C) = 2.49 Max (°C) =6.03 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 46 \ sâmbătă \ 20:11:2021 \ 19:17:03
+[' Răsarit = 07:41:42 Apus = 16:46:49 Min (°C) = 5.24 Max (°C) =8.77 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = nori 50-85%']
+Satu_Mare: 46 \ duminică \ 21:11:2021 \ 19:16:49
+[' Răsarit = 07:43:09 Apus = 16:45:53 Min (°C) = 3.96 Max (°C) =10.21 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 180 Stare = nori 10-25%']
+Satu_Mare: 47 \ luni \ 22:11:2021 \ 19:17:13
+[' Răsarit = 07:44:35 Apus = 16:44:59 Min (°C) = 3.37 Max (°C) =8.72 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 200 Stare = nori 50-85%']
+Satu_Mare: 47 \ marți \ 23:11:2021 \ 19:17:06
+[' Răsarit = 07:46:00 Apus = 16:44:08 Min (°C) = 0.02 Max (°C) =7.65 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 280 Stare = cer senin']
+Satu_Mare: 47 \ miercuri \ 24:11:2021 \ 19:19:23
+[' Răsarit = 07:47:24 Apus = 16:43:19 Min (°C) = -0.48 Max (°C) =5.94 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 200 Stare = cer senin']
+Satu_Mare: 47 \ joi \ 25:11:2021 \ 19:16:47
+[' Răsarit = 07:48:47 Apus = 16:42:32 Min (°C) = -0.43 Max (°C) =7.27 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 160 Stare = nori 25-50%']
+Satu_Mare: 47 \ vineri \ 26:11:2021 \ 19:16:52
+[' Răsarit = 07:50:09 Apus = 16:41:48 Min (°C) = 1.88 Max (°C) =9.67 Presiune = 996 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = ploaie ușoară']
+Satu_Mare: 47 \ sâmbătă \ 27:11:2021 \ 19:16:51
+[' Răsarit = 07:51:29 Apus = 16:41:07 Min (°C) = 1.97 Max (°C) =8.31 Presiune = 1001 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 70 Stare = ceață']
+Satu_Mare: 47 \ duminică \ 28:11:2021 \ 19:17:25
+[' Răsarit = 07:52:49 Apus = 16:40:28 Min (°C) = 6.34 Max (°C) =10.97 Presiune = 993 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 48 \ luni \ 29:11:2021 \ 19:19:12
+[' Răsarit = 07:54:06 Apus = 16:39:52 Min (°C) = 1.95 Max (°C) =8.93 Presiune = 1000 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 294 Stare = nori 85-100%']
+Satu_Mare: 48 \ marți \ 30:11:2021 \ 19:17:30
+[' Răsarit = 07:55:23 Apus = 16:39:18 Min (°C) = 0.32 Max (°C) =3.89 Presiune = 1005 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = ploaie ușoară']
+Satu_Mare: 48 \ miercuri \ 01:12:2021 \ 19:17:46
+[' Răsarit = 07:56:38 Apus = 16:38:47 Min (°C) = 0.78 Max (°C) =5.97 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 150 Stare = ploaie ușoară']
+Satu_Mare: 48 \ joi \ 02:12:2021 \ 19:17:06
+[' Răsarit = 07:57:52 Apus = 16:38:19 Min (°C) = 6.04 Max (°C) =8.37 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = ploaie ușoară']
+Satu_Mare: 48 \ vineri \ 03:12:2021 \ 19:17:15
+[' Răsarit = 07:59:03 Apus = 16:37:54 Min (°C) = -1.05 Max (°C) =7.78 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = cer senin']
+Satu_Mare: 48 \ sâmbătă \ 04:12:2021 \ 19:17:46
+[' Răsarit = 08:00:14 Apus = 16:37:31 Min (°C) = -1.62 Max (°C) =3.94 Presiune = 1010 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 180 Stare = cer senin']
+Satu_Mare: 48 \ duminică \ 05:12:2021 \ 19:17:29
+[' Răsarit = 08:01:22 Apus = 16:37:11 Min (°C) = -0.08 Max (°C) =4.07 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 90 Stare = nori 50-85%']
+Satu_Mare: 49 \ luni \ 06:12:2021 \ 19:17:21
+[' Răsarit = 08:02:28 Apus = 16:36:54 Min (°C) = 3.44 Max (°C) =4.51 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = ceață']
+Satu_Mare: 49 \ marți \ 07:12:2021 \ 19:17:19
+[' Răsarit = 08:03:33 Apus = 16:36:40 Min (°C) = 2.1 Max (°C) =4.52 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 20 Stare = ploaie ușoară']
+Satu_Mare: 49 \ miercuri \ 08:12:2021 \ 19:17:18
+[' Răsarit = 08:04:36 Apus = 16:36:28 Min (°C) = -1.94 Max (°C) =2.74 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = ceață']
+Satu_Mare: 49 \ joi \ 09:12:2021 \ 19:17:22
+[' Răsarit = 08:05:36 Apus = 16:36:20 Min (°C) = -0.44 Max (°C) =7.04 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 49 \ vineri \ 10:12:2021 \ 19:19:51
+[' Răsarit = 08:06:35 Apus = 16:36:14 Min (°C) = 3.92 Max (°C) =6.07 Presiune = 1005 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 49 \ sâmbătă \ 11:12:2021 \ 19:19:23
+[' Răsarit = 08:07:31 Apus = 16:36:12 Min (°C) = 3.92 Max (°C) =8.04 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = ceață']
+Satu_Mare: 49 \ duminică \ 12:12:2021 \ 19:19:44
+[' Răsarit = 08:08:25 Apus = 16:36:12 Min (°C) = 3.22 Max (°C) =4.98 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = nori 50-85%']
+Satu_Mare: 50 \ luni \ 13:12:2021 \ 19:20:05
+[' Răsarit = 08:09:17 Apus = 16:36:15 Min (°C) = -0.02 Max (°C) =3.15 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = ceață']
+Satu_Mare: 50 \ marți \ 14:12:2021 \ 19:21:49
+[' Răsarit = 08:10:06 Apus = 16:36:21 Min (°C) = -0.91 Max (°C) =2.1 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 50 \ miercuri \ 15:12:2021 \ 19:19:52
+[' Răsarit = 08:10:53 Apus = 16:36:29 Min (°C) = -1.25 Max (°C) =2.6 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = nori 85-100%']
+Satu_Mare: 50 \ joi \ 16:12:2021 \ 19:19:18
+[' Răsarit = 08:11:38 Apus = 16:36:41 Min (°C) = -0.99 Max (°C) =2.3 Presiune = 1028 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 50 \ vineri \ 17:12:2021 \ 19:23:10
+[' Răsarit = 08:12:20 Apus = 16:36:56 Min (°C) = 0.73 Max (°C) =5.65 Presiune = 1024 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 50 \ sâmbătă \ 18:12:2021 \ 19:18:44
+[' Răsarit = 08:13:00 Apus = 16:37:13 Min (°C) = 0.34 Max (°C) =4.73 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = ploaie ușoară']
+Satu_Mare: 50 \ duminică \ 19:12:2021 \ 19:19:10
+[' Răsarit = 08:13:37 Apus = 16:37:34 Min (°C) = 0.89 Max (°C) =2.39 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = ceață']
+Satu_Mare: 51 \ luni \ 20:12:2021 \ 19:19:36
+[' Răsarit = 08:14:11 Apus = 16:37:57 Min (°C) = -0.49 Max (°C) =2.76 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 290 Stare = light shower snow']
+Satu_Mare: 51 \ marți \ 21:12:2021 \ 19:21:39
+[' Răsarit = 08:14:42 Apus = 16:38:23 Min (°C) = -3.74 Max (°C) =0.3 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 25-50%']
+Satu_Mare: 51 \ miercuri \ 22:12:2021 \ 19:19:43
+[' Răsarit = 08:15:11 Apus = 16:38:52 Min (°C) = -7.01 Max (°C) =-2.61 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 51 \ joi \ 23:12:2021 \ 19:20:06
+[' Răsarit = 08:15:38 Apus = 16:39:23 Min (°C) = -8.15 Max (°C) =-2.91 Presiune = 1020 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 51 \ vineri \ 24:12:2021 \ 19:20:09
+[' Răsarit = 08:16:01 Apus = 16:39:58 Min (°C) = -4.83 Max (°C) =3.37 Presiune = 1004 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = nori 85-100%']
+Satu_Mare: 51 \ sâmbătă \ 25:12:2021 \ 19:20:23
+[' Răsarit = 08:16:22 Apus = 16:40:35 Min (°C) = -0.41 Max (°C) =5 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 340 Stare = ploaie ușoară']
+Satu_Mare: 51 \ duminică \ 26:12:2021 \ 19:21:34
+[' Răsarit = 08:16:40 Apus = 16:41:14 Min (°C) = -5.02 Max (°C) =-1.01 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 85-100%']
+Satu_Mare: 52 \ luni \ 27:12:2021 \ 19:19:37
+[' Răsarit = 08:16:55 Apus = 16:41:57 Min (°C) = -2.74 Max (°C) =1.35 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = ceață']
+Satu_Mare: 52 \ marți \ 28:12:2021 \ 19:20:25
+[' Răsarit = 08:17:07 Apus = 16:42:41 Min (°C) = -2.03 Max (°C) =1.3 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = ceață']
+Satu_Mare: 52 \ miercuri \ 29:12:2021 \ 19:19:37
+[' Răsarit = 08:17:16 Apus = 16:43:29 Min (°C) = 1.03 Max (°C) =2.32 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = ceață']
+Satu_Mare: 52 \ joi \ 30:12:2021 \ 19:20:33
+[' Răsarit = 08:17:23 Apus = 16:44:19 Min (°C) = 1.03 Max (°C) =4.27 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = ceață']
+Satu_Mare: 52 \ vineri \ 31:12:2021 \ 19:17:14
+[' Răsarit = 08:17:26 Apus = 16:45:11 Min (°C) = 2.36 Max (°C) =4.97 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = ploaie maruntă']
+Satu_Mare: 00 \ sâmbătă \ 01:1:2022 \ 19:17:59
+[' Răsarit = 08:17:27 Apus = 16:46:06 Min (°C) = 4.73 Max (°C) =6.88 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = ceață']
+Satu_Mare: 00 \ duminică \ 02:1:2022 \ 19:16:47
+[' Răsarit = 08:17:25 Apus = 16:47:03 Min (°C) = 3.9 Max (°C) =7.55 Presiune = 1020 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 120 Stare = ceață']
+Satu_Mare: 01 \ luni \ 03:1:2022 \ 19:16:34
+[' Răsarit = 08:17:20 Apus = 16:48:02 Min (°C) = 3.89 Max (°C) =8.75 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 01 \ marți \ 04:1:2022 \ 19:16:39
+[' Răsarit = 08:17:13 Apus = 16:49:04 Min (°C) = 4.46 Max (°C) =10.97 Presiune = 1004 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 230 Stare = ploaie moderată']
+Satu_Mare: 01 \ miercuri \ 05:1:2022 \ 19:18:10
+[' Răsarit = 08:17:02 Apus = 16:50:07 Min (°C) = 7.32 Max (°C) =10.84 Presiune = 1001 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = nori 50-85%']
+Satu_Mare: 01 \ joi \ 06:1:2022 \ 19:17:01
+[' Răsarit = 08:16:49 Apus = 16:51:13 Min (°C) = 1.87 Max (°C) =7.29 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 01 \ vineri \ 07:1:2022 \ 19:18:22
+[' Răsarit = 08:16:32 Apus = 16:52:21 Min (°C) = -2.89 Max (°C) =1.69 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = cer senin']
+Satu_Mare: 01 \ sâmbătă \ 08:1:2022 \ 19:17:44
+[' Răsarit = 08:16:13 Apus = 16:53:30 Min (°C) = -1.54 Max (°C) =2.69 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = zăpadă slabă']
+Satu_Mare: 01 \ duminică \ 09:1:2022 \ 19:17:13
+[' Răsarit = 08:15:52 Apus = 16:54:42 Min (°C) = -6.93 Max (°C) =-0.34 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 90 Stare = nori 10-25%']
+Satu_Mare: 02 \ luni \ 10:1:2022 \ 19:17:14
+[' Răsarit = 08:15:27 Apus = 16:55:55 Min (°C) = -10.22 Max (°C) =-0.19 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 200 Stare = ceață']
+Satu_Mare: 02 \ marți \ 11:1:2022 \ 19:18:41
+[' Răsarit = 08:15:00 Apus = 16:57:10 Min (°C) = -7.14 Max (°C) =-0.03 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 02 \ miercuri \ 12:1:2022 \ 19:17:16
+[' Răsarit = 08:14:30 Apus = 16:58:27 Min (°C) = -12.64 Max (°C) =-4.68 Presiune = 1034 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 02 \ joi \ 13:1:2022 \ 19:18:16
+[' Răsarit = 08:13:58 Apus = 16:59:45 Min (°C) = -13.1 Max (°C) =-3.56 Presiune = 1035 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = nori 85-100%']
+Satu_Mare: 02 \ vineri \ 14:1:2022 \ 19:17:35
+[' Răsarit = 08:13:22 Apus = 17:01:04 Min (°C) = -3.54 Max (°C) =-0.96 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = ceață']
+Satu_Mare: 02 \ sâmbătă \ 15:1:2022 \ 19:17:21
+[' Răsarit = 08:12:44 Apus = 17:02:26 Min (°C) = -7.91 Max (°C) =0.32 Presiune = 1027 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = ceață']
+Satu_Mare: 02 \ duminică \ 16:1:2022 \ 19:16:42
+[' Răsarit = 08:12:04 Apus = 17:03:48 Min (°C) = -7.32 Max (°C) =-1.13 Presiune = 1024 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = ceață']
+Satu_Mare: 03 \ luni \ 17:1:2022 \ 19:16:49
+[' Răsarit = 08:11:21 Apus = 17:05:12 Min (°C) = -5.37 Max (°C) =1.72 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 340 Stare = snow']
+Satu_Mare: 03 \ marți \ 18:1:2022 \ 19:16:51
+[' Răsarit = 08:10:36 Apus = 17:06:37 Min (°C) = -1.73 Max (°C) =1.64 Presiune = 1031 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 03 \ miercuri \ 19:1:2022 \ 19:17:02
+[' Răsarit = 08:09:48 Apus = 17:08:03 Min (°C) = -6.19 Max (°C) =-0.86 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 03 \ joi \ 20:1:2022 \ 19:17:19
+[' Răsarit = 08:08:58 Apus = 17:09:30 Min (°C) = -6.55 Max (°C) =1.11 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 250 Stare = zăpadă slabă']
+Satu_Mare: 03 \ vineri \ 21:1:2022 \ 19:16:53
+[' Răsarit = 08:08:05 Apus = 17:10:59 Min (°C) = -6.62 Max (°C) =-1.64 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 03 \ sâmbătă \ 22:1:2022 \ 19:19:31
+[' Răsarit = 08:07:10 Apus = 17:12:28 Min (°C) = -7.03 Max (°C) =-2.07 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 03 \ duminică \ 23:1:2022 \ 19:19:44
+[' Răsarit = 08:06:12 Apus = 17:13:58 Min (°C) = -8.15 Max (°C) =-1.41 Presiune = 1027 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 04 \ luni \ 24:1:2022 \ 19:20:17
+[' Răsarit = 08:05:13 Apus = 17:15:29 Min (°C) = -12.71 Max (°C) =-5.83 Presiune = 1035 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 04 \ marți \ 25:1:2022 \ 19:20:18
+[' Răsarit = 08:04:11 Apus = 17:17:00 Min (°C) = -12.95 Max (°C) =-5.02 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = zăpadă slabă']
+Satu_Mare: 04 \ miercuri \ 26:1:2022 \ 19:20:05
+[' Răsarit = 08:03:07 Apus = 17:18:33 Min (°C) = -7.95 Max (°C) =-2.13 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = ceață']
+Satu_Mare: 04 \ joi \ 27:1:2022 \ 19:20:02
+[' Răsarit = 08:02:01 Apus = 17:20:06 Min (°C) = -3.12 Max (°C) =1.03 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = nori 85-100%']
+Satu_Mare: 04 \ vineri \ 28:1:2022 \ 19:19:55
+[' Răsarit = 08:00:52 Apus = 17:21:39 Min (°C) = -0.38 Max (°C) =2.87 Presiune = 1017 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 310 Stare = ploaie ușoară']
+Satu_Mare: 04 \ sâmbătă \ 29:1:2022 \ 19:19:52
+[' Răsarit = 07:59:42 Apus = 17:23:13 Min (°C) = -6.06 Max (°C) =-0.03 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 190 Stare = cer senin']
+Satu_Mare: 04 \ duminică \ 30:1:2022 \ 19:17:19
+[' Răsarit = 07:58:29 Apus = 17:24:47 Min (°C) = -0.88 Max (°C) =3.98 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 290 Stare = nori 50-85%']
+Satu_Mare: 05 \ luni \ 31:1:2022 \ 19:17:18
+[' Răsarit = 07:57:15 Apus = 17:26:22 Min (°C) = -1.73 Max (°C) =2.09 Presiune = 1006 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = nori 85-100%']
+Satu_Mare: 05 \ marți \ 01:2:2022 \ 19:17:07
+[' Răsarit = 07:55:59 Apus = 17:27:57 Min (°C) = -1.74 Max (°C) =0.55 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 05 \ miercuri \ 02:2:2022 \ 19:17:20
+[' Răsarit = 07:54:40 Apus = 17:29:33 Min (°C) = -4.8 Max (°C) =0.1 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 90 Stare = zăpadă slabă']
+Satu_Mare: 05 \ joi \ 03:2:2022 \ 19:17:04
+[' Răsarit = 07:53:20 Apus = 17:31:08 Min (°C) = -6.73 Max (°C) =0.34 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 210 Stare = cer senin']
+Satu_Mare: 05 \ vineri \ 04:2:2022 \ 19:17:20
+[' Răsarit = 07:51:58 Apus = 17:32:44 Min (°C) = -6.23 Max (°C) =0.97 Presiune = 1016 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 05 \ sâmbătă \ 05:2:2022 \ 19:17:05
+[' Răsarit = 07:50:35 Apus = 17:34:20 Min (°C) = -4.05 Max (°C) =1.36 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 05 \ duminică \ 06:2:2022 \ 19:17:13
+[' Răsarit = 07:49:09 Apus = 17:35:56 Min (°C) = -4.16 Max (°C) =2.22 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = cer senin']
+Satu_Mare: 06 \ luni \ 07:2:2022 \ 19:17:12
+[' Răsarit = 07:47:42 Apus = 17:37:32 Min (°C) = 0.92 Max (°C) =3.18 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 06 \ marți \ 08:2:2022 \ 19:17:02
+[' Răsarit = 07:46:13 Apus = 17:39:08 Min (°C) = -0.5 Max (°C) =5.33 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
+Satu_Mare: 06 \ miercuri \ 09:2:2022 \ 19:19:39
+[' Răsarit = 07:44:43 Apus = 17:40:45 Min (°C) = 0.27 Max (°C) =4.97 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = nori 10-25%']
+Satu_Mare: 06 \ joi \ 10:2:2022 \ 19:20:50
+[' Răsarit = 07:43:11 Apus = 17:42:21 Min (°C) = 1.67 Max (°C) =8.89 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 06 \ vineri \ 11:2:2022 \ 19:19:44
+[' Răsarit = 07:41:37 Apus = 17:43:57 Min (°C) = 1.07 Max (°C) =9.24 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = ploaie ușoară']
+Satu_Mare: 06 \ sâmbătă \ 12:2:2022 \ 19:19:58
+[' Răsarit = 07:40:02 Apus = 17:45:32 Min (°C) = -0.19 Max (°C) =5.3 Presiune = 1034 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 06 \ duminică \ 13:2:2022 \ 19:20:05
+[' Răsarit = 07:38:26 Apus = 17:47:08 Min (°C) = -2.92 Max (°C) =4.93 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 07 \ luni \ 14:2:2022 \ 19:19:55
+[' Răsarit = 07:36:48 Apus = 17:48:44 Min (°C) = -2.12 Max (°C) =5.87 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = cer senin']
+Satu_Mare: 07 \ marți \ 15:2:2022 \ 19:19:12
+[' Răsarit = 07:35:09 Apus = 17:50:19 Min (°C) = 0.02 Max (°C) =4.98 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 07 \ miercuri \ 16:2:2022 \ 19:20:30
+[' Răsarit = 07:33:28 Apus = 17:51:54 Min (°C) = 2.3 Max (°C) =7.09 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = nori 50-85%']
+Satu_Mare: 07 \ joi \ 17:2:2022 \ 19:21:03
+[' Răsarit = 07:31:47 Apus = 17:53:29 Min (°C) = 3.99 Max (°C) =10.71 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 07 \ vineri \ 18:2:2022 \ 19:19:55
+[' Răsarit = 07:30:04 Apus = 17:55:04 Min (°C) = 3.39 Max (°C) =9.35 Presiune = 1013 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 07 \ sâmbătă \ 19:2:2022 \ 19:20:10
+[' Răsarit = 07:28:19 Apus = 17:56:38 Min (°C) = 4.39 Max (°C) =10.68 Presiune = 1015 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 07 \ duminică \ 20:2:2022 \ 19:21:26
+[' Răsarit = 07:26:34 Apus = 17:58:12 Min (°C) = 2.74 Max (°C) =9.07 Presiune = 1016 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 50-85%']
+Satu_Mare: 08 \ luni \ 21:2:2022 \ 19:19:43
+[' Răsarit = 07:24:47 Apus = 17:59:46 Min (°C) = 4.18 Max (°C) =10.25 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 300 Stare = nori 85-100%']
+Satu_Mare: 08 \ marți \ 22:2:2022 \ 19:20:59
+[' Răsarit = 07:23:00 Apus = 18:01:20 Min (°C) = 2.06 Max (°C) =8.42 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 08 \ miercuri \ 23:2:2022 \ 19:20:11
+[' Răsarit = 07:21:11 Apus = 18:02:53 Min (°C) = 0.01 Max (°C) =6.13 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Satu_Mare: 08 \ joi \ 24:2:2022 \ 19:20:00
+[' Răsarit = 07:19:21 Apus = 18:04:26 Min (°C) = -0.19 Max (°C) =7.04 Presiune = 1023 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 08 \ vineri \ 25:2:2022 \ 19:20:05
+[' Răsarit = 07:17:30 Apus = 18:05:58 Min (°C) = 0.56 Max (°C) =8.02 Presiune = 1019 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 08 \ sâmbătă \ 26:2:2022 \ 19:20:31
+[' Răsarit = 07:15:39 Apus = 18:07:31 Min (°C) = 2.41 Max (°C) =5.01 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 08 \ duminică \ 27:2:2022 \ 19:19:39
+[' Răsarit = 07:13:46 Apus = 18:09:03 Min (°C) = 1.12 Max (°C) =7.81 Presiune = 1028 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = nori 50-85%']
+Satu_Mare: 09 \ luni \ 28:2:2022 \ 19:20:13
+[' Răsarit = 07:11:53 Apus = 18:10:34 Min (°C) = -0.2 Max (°C) =6.73 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 80 Stare = cer senin']
+Satu_Mare: 09 \ marți \ 01:3:2022 \ 19:20:29
+[' Răsarit = 07:09:58 Apus = 18:12:05 Min (°C) = -1.44 Max (°C) =5.25 Presiune = 1025 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 09 \ miercuri \ 02:3:2022 \ 19:19:34
+[' Răsarit = 07:08:03 Apus = 18:13:36 Min (°C) = -1.78 Max (°C) =5.51 Presiune = 1017 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 09 \ joi \ 03:3:2022 \ 19:20:05
+[' Răsarit = 07:06:07 Apus = 18:15:07 Min (°C) = -1.21 Max (°C) =5.97 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = cer senin']
+Satu_Mare: 09 \ vineri \ 04:3:2022 \ 19:19:55
+[' Răsarit = 07:04:11 Apus = 18:16:37 Min (°C) = -0.1 Max (°C) =5.12 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 09 \ sâmbătă \ 05:3:2022 \ 19:17:26
+[' Răsarit = 07:02:14 Apus = 18:18:07 Min (°C) = -0.96 Max (°C) =6.02 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 09 \ duminică \ 06:3:2022 \ 19:17:16
+[' Răsarit = 07:00:16 Apus = 18:19:36 Min (°C) = -0.96 Max (°C) =6.93 Presiune = 1016 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 360 Stare = nori 10-25%']
+Satu_Mare: 10 \ luni \ 07:3:2022 \ 19:16:56
+[' Răsarit = 06:58:17 Apus = 18:21:06 Min (°C) = -1.04 Max (°C) =4.37 Presiune = 1016 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = cer senin']
+Satu_Mare: 10 \ marți \ 08:3:2022 \ 19:16:43
+[' Răsarit = 06:56:18 Apus = 18:22:35 Min (°C) = -2.24 Max (°C) =5.95 Presiune = 1018 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 10 \ miercuri \ 09:3:2022 \ 19:16:53
+[' Răsarit = 06:54:18 Apus = 18:24:03 Min (°C) = -1.99 Max (°C) =4.91 Presiune = 1019 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 10 \ joi \ 10:3:2022 \ 19:16:54
+[' Răsarit = 06:52:18 Apus = 18:25:32 Min (°C) = -2.44 Max (°C) =4.03 Presiune = 1029 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 60 Stare = cer senin']
+Satu_Mare: 10 \ vineri \ 11:3:2022 \ 19:16:50
+[' Răsarit = 06:50:18 Apus = 18:27:00 Min (°C) = -5.16 Max (°C) =1.82 Presiune = 1029 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 70 Stare = cer senin']
+Satu_Mare: 10 \ sâmbătă \ 12:3:2022 \ 19:16:44
+[' Răsarit = 06:48:17 Apus = 18:28:28 Min (°C) = -4.13 Max (°C) =3.38 Presiune = 1029 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 10 \ duminică \ 13:3:2022 \ 19:16:56
+[' Răsarit = 06:46:15 Apus = 18:29:55 Min (°C) = -1.56 Max (°C) =6.05 Presiune = 1027 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 11 \ luni \ 14:3:2022 \ 19:16:43
+[' Răsarit = 06:44:14 Apus = 18:31:23 Min (°C) = -0.28 Max (°C) =9.11 Presiune = 1034 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 11 \ marți \ 15:3:2022 \ 19:16:52
+[' Răsarit = 06:42:11 Apus = 18:32:50 Min (°C) = 0.95 Max (°C) =9.69 Presiune = 1029 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = cer senin']
+Satu_Mare: 11 \ miercuri \ 16:3:2022 \ 19:17:00
+[' Răsarit = 06:40:09 Apus = 18:34:17 Min (°C) = 3.34 Max (°C) =6.04 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = cer senin']
+Satu_Mare: 11 \ joi \ 17:3:2022 \ 19:16:56
+[' Răsarit = 06:38:06 Apus = 18:35:43 Min (°C) = 1.79 Max (°C) =9.33 Presiune = 1032 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 11 \ vineri \ 18:3:2022 \ 19:17:04
+[' Răsarit = 06:36:04 Apus = 18:37:10 Min (°C) = -0.58 Max (°C) =7.67 Presiune = 1039 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 11 \ sâmbătă \ 19:3:2022 \ 19:17:10
+[' Răsarit = 06:34:01 Apus = 18:38:36 Min (°C) = -0.61 Max (°C) =7.66 Presiune = 1039 Umiditate (%) = 31 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 11 \ duminică \ 20:3:2022 \ 19:17:02
+[' Răsarit = 06:31:57 Apus = 18:40:02 Min (°C) = -1.45 Max (°C) =7.5 Presiune = 1039 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 12 \ luni \ 21:3:2022 \ 19:17:22
+[' Răsarit = 06:29:54 Apus = 18:41:28 Min (°C) = -0.19 Max (°C) =10.34 Presiune = 1035 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 12 \ marți \ 22:3:2022 \ 19:17:04
+[' Răsarit = 06:27:51 Apus = 18:42:54 Min (°C) = 2.09 Max (°C) =15.69 Presiune = 1031 Umiditate (%) = 23 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = cer senin']
+Satu_Mare: 12 \ miercuri \ 23:3:2022 \ 19:16:51
+[' Răsarit = 06:25:47 Apus = 18:44:20 Min (°C) = 4.08 Max (°C) =15.65 Presiune = 1026 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 290 Stare = cer senin']
+Satu_Mare: 12 \ joi \ 24:3:2022 \ 19:16:57
+[' Răsarit = 06:23:44 Apus = 18:45:45 Min (°C) = 5.4 Max (°C) =16.38 Presiune = 1021 Umiditate (%) = 26 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 12 \ vineri \ 25:3:2022 \ 19:16:56
+[' Răsarit = 06:21:41 Apus = 18:47:11 Min (°C) = 3.11 Max (°C) =13.91 Presiune = 1024 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = cer senin']
+Satu_Mare: 12 \ sâmbătă \ 26:3:2022 \ 19:17:10
+[' Răsarit = 06:19:37 Apus = 18:48:36 Min (°C) = 3.91 Max (°C) =16.06 Presiune = 1021 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 12 \ duminică \ 27:3:2022 \ 19:17:05
+[' Răsarit = 07:17:34 Apus = 19:50:01 Min (°C) = 5.61 Max (°C) =12.87 Presiune = 1027 Umiditate (%) = 18 Index UV = 0.13 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 13 \ luni \ 28:3:2022 \ 19:17:22
+[' Răsarit = 07:15:31 Apus = 19:51:27 Min (°C) = 3.05 Max (°C) =16.97 Presiune = 1019 Umiditate (%) = 29 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 13 \ marți \ 29:3:2022 \ 19:17:09
+[' Răsarit = 07:13:28 Apus = 19:52:52 Min (°C) = 6.52 Max (°C) =19.21 Presiune = 1005 Umiditate (%) = 30 Index UV = 0.12 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 13 \ miercuri \ 30:3:2022 \ 19:17:03
+[' Răsarit = 07:11:26 Apus = 19:54:17 Min (°C) = 8.8 Max (°C) =16.79 Presiune = 1003 Umiditate (%) = 45 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 13 \ joi \ 31:3:2022 \ 19:17:25
+[' Răsarit = 07:09:23 Apus = 19:55:42 Min (°C) = 10.03 Max (°C) =12.42 Presiune = 994 Umiditate (%) = 88 Index UV = 0.01 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = cer senin']
+Satu_Mare: 13 \ vineri \ 01:4:2022 \ 19:20:29
+[' Răsarit = 07:07:21 Apus = 19:57:07 Min (°C) = 10.51 Max (°C) =16.24 Presiune = 992 Umiditate (%) = 94 Index UV = 0.11 Viteza vântului = 0.51 Unghiul vântului = 180 Stare = cer senin']
+Satu_Mare: 13 \ sâmbătă \ 02:4:2022 \ 19:20:03
+[' Răsarit = 07:05:19 Apus = 19:58:33 Min (°C) = 3.71 Max (°C) =7.85 Presiune = 1001 Umiditate (%) = 93 Index UV = 0.06 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = ploaie ușoară']
+Satu_Mare: 13 \ duminică \ 03:4:2022 \ 19:53:52
+[' Răsarit = 07:03:17 Apus = 19:59:58 Min (°C) = 1.24 Max (°C) =4.8 Presiune = 1012 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = nori 50-85%']
+Satu_Mare: 14 \ luni \ 04:4:2022 \ 19:20:06
+[' Răsarit = 07:01:16 Apus = 20:01:23 Min (°C) = -3.93 Max (°C) =4.12 Presiune = 1016 Umiditate (%) = 65 Index UV = 0.17 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 14 \ marți \ 05:4:2022 \ 19:21:59
+[' Răsarit = 06:59:15 Apus = 20:02:48 Min (°C) = -1.94 Max (°C) =11.01 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.18 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 14 \ miercuri \ 06:4:2022 \ 19:20:09
+[' Răsarit = 06:57:15 Apus = 20:04:13 Min (°C) = 4.6 Max (°C) =16.97 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.18 Viteza vântului = 1.54 Unghiul vântului = 150 Stare = cer senin']
+Satu_Mare: 14 \ joi \ 07:4:2022 \ 19:20:20
+[' Răsarit = 06:55:15 Apus = 20:05:38 Min (°C) = 7.72 Max (°C) =14.31 Presiune = 998 Umiditate (%) = 82 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = cer senin']
+Satu_Mare: 14 \ vineri \ 08:4:2022 \ 19:19:56
+[' Răsarit = 06:53:16 Apus = 20:07:04 Min (°C) = 6.57 Max (°C) =15.97 Presiune = 1003 Umiditate (%) = 44 Index UV = 0.2 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 14 \ sâmbătă \ 09:4:2022 \ 19:20:08
+[' Răsarit = 06:51:17 Apus = 20:08:29 Min (°C) = 6.18 Max (°C) =13.53 Presiune = 1003 Umiditate (%) = 93 Index UV = 0.06 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 85-100%']
+Satu_Mare: 14 \ duminică \ 10:4:2022 \ 19:21:39
+[' Răsarit = 06:49:19 Apus = 20:09:54 Min (°C) = 4.42 Max (°C) =11.03 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.21 Viteza vântului = 6.69 Unghiul vântului = 10 Stare = nori 50-85%']
+Satu_Mare: 15 \ luni \ 11:4:2022 \ 19:20:12
+[' Răsarit = 06:47:21 Apus = 20:11:20 Min (°C) = 0.26 Max (°C) =10.21 Presiune = 1019 Umiditate (%) = 43 Index UV = 0.23 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 15 \ marți \ 12:4:2022 \ 19:19:26
+[' Răsarit = 06:45:24 Apus = 20:12:45 Min (°C) = 2.32 Max (°C) =12.09 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.26 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 15 \ miercuri \ 13:4:2022 \ 19:19:47
+[' Răsarit = 06:43:28 Apus = 20:14:11 Min (°C) = 0.7 Max (°C) =15.97 Presiune = 1021 Umiditate (%) = 29 Index UV = 0.26 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Satu_Mare: 15 \ joi \ 14:4:2022 \ 19:20:34
+[' Răsarit = 06:41:32 Apus = 20:15:36 Min (°C) = 3.6 Max (°C) =19.97 Presiune = 1020 Umiditate (%) = 22 Index UV = 0.3 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 15 \ vineri \ 15:4:2022 \ 19:20:54
+[' Răsarit = 06:39:37 Apus = 20:17:02 Min (°C) = 6.8 Max (°C) =18.54 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.13 Viteza vântului = 7.72 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 15 \ sâmbătă \ 16:4:2022 \ 19:21:10
+[' Răsarit = 06:37:43 Apus = 20:18:28 Min (°C) = 5.73 Max (°C) =12.7 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.25 Viteza vântului = 7.72 Unghiul vântului = 20 Stare = nori 50-85%']
+Satu_Mare: 15 \ duminică \ 17:4:2022 \ 19:20:33
+[' Răsarit = 06:35:50 Apus = 20:19:53 Min (°C) = 0.13 Max (°C) =10.63 Presiune = 1019 Umiditate (%) = 37 Index UV = 0.27 Viteza vântului = 5.14 Unghiul vântului = 50 Stare = nori 50-85%']
+Satu_Mare: 16 \ luni \ 18:4:2022 \ 19:21:22
+[' Răsarit = 06:33:58 Apus = 20:21:19 Min (°C) = -0.97 Max (°C) =9.58 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.28 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Satu_Mare: 16 \ marți \ 19:4:2022 \ 19:21:34
+[' Răsarit = 06:32:06 Apus = 20:22:45 Min (°C) = -1.33 Max (°C) =10.44 Presiune = 1011 Umiditate (%) = 40 Index UV = 0.29 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 16 \ miercuri \ 20:4:2022 \ 19:20:24
+[' Răsarit = 06:30:16 Apus = 20:24:10 Min (°C) = 0.95 Max (°C) =12.87 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.28 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 16 \ joi \ 21:4:2022 \ 19:20:45
+[' Răsarit = 06:28:26 Apus = 20:25:36 Min (°C) = 2.12 Max (°C) =13.09 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.2 Viteza vântului = 3.09 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 16 \ vineri \ 22:4:2022 \ 19:17:47
+[' Răsarit = 06:26:37 Apus = 20:27:02 Min (°C) = 4.15 Max (°C) =15.09 Presiune = 1005 Umiditate (%) = 51 Index UV = 0.29 Viteza vântului = 5.14 Unghiul vântului = 100 Stare = cer senin']
+Satu_Mare: 16 \ sâmbătă \ 23:4:2022 \ 19:17:46
+[' Răsarit = 06:24:49 Apus = 20:28:28 Min (°C) = 8.98 Max (°C) =13.3 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.31 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = nori 50-85%']
+Satu_Mare: 16 \ duminică \ 24:4:2022 \ 19:17:16
+[' Răsarit = 06:23:03 Apus = 20:29:53 Min (°C) = 6.14 Max (°C) =19.53 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.09 Viteza vântului = 8.75 Unghiul vântului = 260 Stare = furtună with ploaie ușoară']
+Satu_Mare: 17 \ luni \ 25:4:2022 \ 19:17:12
+[' Răsarit = 06:21:17 Apus = 20:31:19 Min (°C) = 9.39 Max (°C) =15.88 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.36 Viteza vântului = 4.63 Unghiul vântului = 240 Stare = nori 25-50%']
+Satu_Mare: 17 \ marți \ 26:4:2022 \ 19:17:14
+[' Răsarit = 06:19:33 Apus = 20:32:44 Min (°C) = 6.99 Max (°C) =18.97 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.31 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 17 \ miercuri \ 27:4:2022 \ 19:17:18
+[' Răsarit = 06:17:50 Apus = 20:34:10 Min (°C) = 7.46 Max (°C) =19.94 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.38 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = nori 10-25%']
+Satu_Mare: 17 \ joi \ 28:4:2022 \ 19:17:20
+[' Răsarit = 06:16:07 Apus = 20:35:35 Min (°C) = 9.52 Max (°C) =12.88 Presiune = 1021 Umiditate (%) = 88 Index UV = 0.07 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 50-85%']
+Satu_Mare: 17 \ vineri \ 29:4:2022 \ 19:20:13
+[' Răsarit = 06:14:27 Apus = 20:37:00 Min (°C) = 7.22 Max (°C) =17.87 Presiune = 1022 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Satu_Mare: 17 \ sâmbătă \ 30:4:2022 \ 19:16:56
+[' Răsarit = 06:12:47 Apus = 20:38:25 Min (°C) = 7.38 Max (°C) =18.92 Presiune = 1019 Umiditate (%) = 40 Index UV = 0.45 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = cer senin']
+Satu_Mare: 17 \ duminică \ 01:5:2022 \ 19:17:03
+[' Răsarit = 06:11:09 Apus = 20:39:50 Min (°C) = 8.49 Max (°C) =21.03 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.45 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 25-50%']
+Satu_Mare: 18 \ marți \ 03:5:2022 \ 20:17:16
+[' Răsarit = 06:07:56 Apus = 20:42:39 Min (°C) = 9.04 Max (°C) =20.43 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.06 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 50-85%']
+Satu_Mare: 18 \ miercuri \ 04:5:2022 \ 19:22:20
+[' Răsarit = 06:06:22 Apus = 20:44:03 Min (°C) = 7.95 Max (°C) =19.98 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.44 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = cer senin']
+Satu_Mare: 18 \ joi \ 05:5:2022 \ 19:20:44
+[' Răsarit = 06:04:49 Apus = 20:45:27 Min (°C) = 8.53 Max (°C) =21.07 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.33 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 18 \ vineri \ 06:5:2022 \ 19:18:25
+[' Răsarit = 06:03:18 Apus = 20:46:50 Min (°C) = 10.61 Max (°C) =22.86 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.52 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 18 \ sâmbătă \ 07:5:2022 \ 19:17:39
+[' Răsarit = 06:01:48 Apus = 20:48:14 Min (°C) = 10.75 Max (°C) =22.34 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.54 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Satu_Mare: 18 \ duminică \ 08:5:2022 \ 19:18:26
+[' Răsarit = 06:00:20 Apus = 20:49:36 Min (°C) = 10.36 Max (°C) =22.19 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.54 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = nori 10-25%']
+Satu_Mare: 19 \ luni \ 09:5:2022 \ 19:18:02
+[' Răsarit = 05:58:53 Apus = 20:50:58 Min (°C) = 10.82 Max (°C) =22.39 Presiune = 1021 Umiditate (%) = 49 Index UV = 0.55 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Satu_Mare: 19 \ marți \ 10:5:2022 \ 19:18:14
+[' Răsarit = 05:57:28 Apus = 20:52:20 Min (°C) = 10.91 Max (°C) =22.97 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.56 Viteza vântului = 2.57 Unghiul vântului = 310 Stare = cer senin']
+Satu_Mare: 19 \ miercuri \ 11:5:2022 \ 19:17:59
+[' Răsarit = 05:56:05 Apus = 20:53:41 Min (°C) = 10.08 Max (°C) =23.92 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.52 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']
+Satu_Mare: 19 \ joi \ 12:5:2022 \ 19:18:10
+[' Răsarit = 05:54:43 Apus = 20:55:02 Min (°C) = 12.76 Max (°C) =26.97 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.63 Viteza vântului = 5.14 Unghiul vântului = 230 Stare = cer senin']
+Satu_Mare: 19 \ vineri \ 13:5:2022 \ 19:17:37
+[' Răsarit = 05:53:23 Apus = 20:56:22 Min (°C) = 13.87 Max (°C) =24.34 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.57 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = ploaie ușoară']
+Satu_Mare: 19 \ sâmbătă \ 14:5:2022 \ 19:17:44
+[' Răsarit = 05:52:05 Apus = 20:57:41 Min (°C) = 12.82 Max (°C) =22.09 Presiune = 1016 Umiditate (%) = 38 Index UV = 0.62 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Satu_Mare: 19 \ duminică \ 15:5:2022 \ 19:17:43
+[' Răsarit = 05:50:49 Apus = 20:58:59 Min (°C) = 13.9 Max (°C) =22.09 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.45 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = nori 25-50%']
+Satu_Mare: 20 \ luni \ 16:5:2022 \ 19:18:59
+[' Răsarit = 05:49:34 Apus = 21:00:17 Min (°C) = 14.12 Max (°C) =23.92 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.58 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 20 \ marți \ 17:5:2022 \ 19:20:48
+[' Răsarit = 05:48:22 Apus = 21:01:34 Min (°C) = 12.23 Max (°C) =18.22 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.47 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = cer senin']
+Satu_Mare: 20 \ miercuri \ 18:5:2022 \ 19:17:53
+[' Răsarit = 05:47:11 Apus = 21:02:50 Min (°C) = 7.8 Max (°C) =18.92 Presiune = 1024 Umiditate (%) = 28 Index UV = 0.63 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = cer senin']
+Satu_Mare: 20 \ joi \ 19:5:2022 \ 20:22:42
+[' Răsarit = 05:46:02 Apus = 21:04:05 Min (°C) = 5.39 Max (°C) =20.97 Presiune = 1025 Umiditate (%) = 40 Index UV = 0.2 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Satu_Mare: 20 \ vineri \ 20:5:2022 \ 19:17:45
+[' Răsarit = 05:44:56 Apus = 21:05:19 Min (°C) = 9.48 Max (°C) =23.92 Presiune = 1020 Umiditate (%) = 36 Index UV = 0.71 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = cer senin']
+Satu_Mare: 20 \ sâmbătă \ 21:5:2022 \ 19:20:06
+[' Răsarit = 05:43:51 Apus = 21:06:32 Min (°C) = 13.25 Max (°C) =24.97 Presiune = 1010 Umiditate (%) = 53 Index UV = 0.69 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']

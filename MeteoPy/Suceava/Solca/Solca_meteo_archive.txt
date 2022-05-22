@@ -1,0 +1,956 @@
+Solca: 04 \ luni \ 25:1:2021 \ 22:47:05
+[' Răsarit = 07:51:44 Apus = 17:05:50 Min (°C) = 0.18 Max (°C) =6.49 Presiune = 997 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Solca: 04 \ marți \ 26:1:2021 \ 10:03:40
+[' Răsarit = 07:50:40 Apus = 17:07:22 Min (°C) = -2.46 Max (°C) =3.62 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']
+Solca: 04 \ miercuri \ 27:1:2021 \ 19:24:07
+[' Răsarit = 07:49:34 Apus = 17:08:55 Min (°C) = -3.24 Max (°C) =-0.72 Presiune = 965 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 330 Stare = nori 85-100%']
+Solca: 04 \ joi \ 28:1:2021 \ 19:38:45
+[' Răsarit = 07:48:25 Apus = 17:10:28 Min (°C) = -4.33 Max (°C) =0.55 Presiune = 962 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 258 Stare = cer senin']
+Solca: 04 \ vineri \ 29:1:2021 \ 20:24:38
+[' Răsarit = 07:47:15 Apus = 17:12:02 Min (°C) = -4.04 Max (°C) =3.85 Presiune = 997 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = cer senin']
+Solca: 04 \ sâmbătă \ 30:1:2021 \ 20:26:45
+[' Răsarit = 07:46:02 Apus = 17:13:36 Min (°C) = -1.62 Max (°C) =7.41 Presiune = 951 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 5.54 Unghiul vântului = 254 Stare = cer senin']
+Solca: 04 \ duminică \ 31:1:2021 \ 19:23:35
+[' Răsarit = 07:44:47 Apus = 17:15:11 Min (°C) = -4.3 Max (°C) =-1.9 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = zăpadă slabă']
+Solca: 05 \ luni \ 01:2:2021 \ 19:24:45
+[' Răsarit = 07:43:31 Apus = 17:16:46 Min (°C) = -3.89 Max (°C) =-1.22 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = zăpadă slabă']
+Solca: 05 \ marți \ 02:2:2021 \ 20:55:37
+[' Răsarit = 07:42:12 Apus = 17:18:21 Min (°C) = -5.1 Max (°C) =5.05 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = nori 50-85%']
+Solca: 05 \ miercuri \ 03:2:2021 \ 19:51:09
+[' Răsarit = 07:40:52 Apus = 17:19:56 Min (°C) = 0.13 Max (°C) =7.45 Presiune = 1009 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Solca: 05 \ joi \ 04:2:2021 \ 19:25:45
+[' Răsarit = 07:39:30 Apus = 17:21:32 Min (°C) = 0.48 Max (°C) =9.12 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 330 Stare = nori 50-85%']
+Solca: 05 \ vineri \ 05:2:2021 \ 19:21:28
+[' Răsarit = 07:38:06 Apus = 17:23:07 Min (°C) = -1.48 Max (°C) =1.33 Presiune = 975 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 72 Stare = snow']
+Solca: 05 \ sâmbătă \ 06:2:2021 \ 19:50:15
+[' Răsarit = 07:36:41 Apus = 17:24:43 Min (°C) = -3.28 Max (°C) =-0.71 Presiune = 974 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 66 Stare = snow']
+Solca: 05 \ duminică \ 07:2:2021 \ 19:25:55
+[' Răsarit = 07:35:14 Apus = 17:26:19 Min (°C) = -5.85 Max (°C) =-3.19 Presiune = 967 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 119 Stare = nori 85-100%']
+Solca: 06 \ luni \ 08:2:2021 \ 21:08:02
+[' Răsarit = 07:33:45 Apus = 17:27:54 Min (°C) = -5.02 Max (°C) =1.98 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = ceață']
+Solca: 06 \ marți \ 09:2:2021 \ 19:22:50
+[' Răsarit = 07:32:14 Apus = 17:29:30 Min (°C) = -0.35 Max (°C) =4.92 Presiune = 962 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 175 Stare = nori 85-100%']
+Solca: 06 \ miercuri \ 10:2:2021 \ 19:23:34
+[' Răsarit = 07:30:42 Apus = 17:31:06 Min (°C) = 0.01 Max (°C) =4.05 Presiune = 964 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 147 Stare = nori 85-100%']
+Solca: 06 \ joi \ 11:2:2021 \ 19:17:21
+[' Răsarit = 07:29:09 Apus = 17:32:41 Min (°C) = -9.05 Max (°C) =1.77 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 11.83 Unghiul vântului = 320 Stare = snow']
+Solca: 06 \ vineri \ 12:2:2021 \ 20:58:08
+[' Răsarit = 07:27:34 Apus = 17:34:17 Min (°C) = -12.59 Max (°C) =-9.8 Presiune = 976 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5.23 Unghiul vântului = 307 Stare = nori 85-100%']
+Solca: 06 \ sâmbătă \ 13:2:2021 \ 19:22:42
+[' Răsarit = 07:25:58 Apus = 17:35:52 Min (°C) = -13.38 Max (°C) =-6.28 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 310 Stare = cer senin']
+Solca: 06 \ duminică \ 14:2:2021 \ 19:20:16
+[' Răsarit = 07:24:20 Apus = 17:37:27 Min (°C) = -10.57 Max (°C) =-2.63 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = zăpadă slabă']
+Solca: 07 \ luni \ 15:2:2021 \ 20:18:12
+[' Răsarit = 07:22:41 Apus = 17:39:02 Min (°C) = -9.09 Max (°C) =-3.67 Presiune = 986 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 336 Stare = zăpadă slabă']
+Solca: 07 \ marți \ 16:2:2021 \ 19:13:28
+[' Răsarit = 07:21:00 Apus = 17:40:37 Min (°C) = -12.41 Max (°C) =-4.95 Presiune = 980 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 172 Stare = nori 25-50%']
+Solca: 07 \ miercuri \ 17:2:2021 \ 19:21:38
+[' Răsarit = 07:19:18 Apus = 17:42:12 Min (°C) = -9.69 Max (°C) =0.96 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = nori 25-50%']
+Solca: 07 \ joi \ 18:2:2021 \ 19:25:26
+[' Răsarit = 07:17:35 Apus = 17:43:46 Min (°C) = -9.92 Max (°C) =-0.47 Presiune = 981 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 15 Stare = zăpadă slabă']
+Solca: 07 \ vineri \ 19:2:2021 \ 19:18:33
+[' Răsarit = 07:15:51 Apus = 17:45:20 Min (°C) = -11.28 Max (°C) =0.91 Presiune = 980 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 198 Stare = nori 85-100%']
+Solca: 07 \ sâmbătă \ 20:2:2021 \ 19:22:46
+[' Răsarit = 07:14:06 Apus = 17:46:53 Min (°C) = -2.57 Max (°C) =1.73 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 145 Stare = ceață']
+Solca: 07 \ duminică \ 21:2:2021 \ 19:20:10
+[' Răsarit = 07:12:19 Apus = 17:48:27 Min (°C) = -2.89 Max (°C) =5.72 Presiune = 984 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 221 Stare = nori 85-100%']
+Solca: 08 \ luni \ 22:2:2021 \ 19:25:11
+[' Răsarit = 07:10:32 Apus = 17:50:00 Min (°C) = -0.45 Max (°C) =9.19 Presiune = 984 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 234 Stare = cer senin']
+Solca: 08 \ marți \ 23:2:2021 \ 19:22:48
+[' Răsarit = 07:08:43 Apus = 17:51:33 Min (°C) = 1.31 Max (°C) =8.27 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = cer senin']
+Solca: 08 \ miercuri \ 24:2:2021 \ 19:23:22
+[' Răsarit = 07:06:53 Apus = 17:53:05 Min (°C) = 0.76 Max (°C) =9.96 Presiune = 990 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 254 Stare = nori 85-100%']
+Solca: 08 \ joi \ 25:2:2021 \ 19:21:23
+[' Răsarit = 07:05:03 Apus = 17:54:37 Min (°C) = 4.39 Max (°C) =12.95 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Solca: 08 \ vineri \ 26:2:2021 \ 19:22:12
+[' Răsarit = 07:03:11 Apus = 17:56:09 Min (°C) = 4.96 Max (°C) =15.39 Presiune = 979 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 252 Stare = cer senin']
+Solca: 08 \ sâmbătă \ 27:2:2021 \ 19:20:42
+[' Răsarit = 07:01:19 Apus = 17:57:41 Min (°C) = 0.29 Max (°C) =4.84 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = nori 50-85%']
+Solca: 08 \ duminică \ 28:2:2021 \ 19:23:39
+[' Răsarit = 06:59:25 Apus = 17:59:12 Min (°C) = -0.46 Max (°C) =5.51 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Solca: 09 \ luni \ 01:3:2021 \ 19:17:52
+[' Răsarit = 06:57:31 Apus = 18:00:42 Min (°C) = -0.2 Max (°C) =3.17 Presiune = 990 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 324 Stare = nori 85-100%']
+Solca: 09 \ marți \ 02:3:2021 \ 19:26:24
+[' Răsarit = 06:55:36 Apus = 18:02:13 Min (°C) = -1.44 Max (°C) =11.15 Presiune = 1025 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = cer senin']
+Solca: 09 \ miercuri \ 03:3:2021 \ 19:21:58
+[' Răsarit = 06:53:41 Apus = 18:03:43 Min (°C) = 0.78 Max (°C) =9.63 Presiune = 982 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 184 Stare = cer senin']
+Solca: 09 \ joi \ 04:3:2021 \ 19:22:42
+[' Răsarit = 06:51:44 Apus = 18:05:13 Min (°C) = 2.3 Max (°C) =13.91 Presiune = 968 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 252 Stare = nori 85-100%']
+Solca: 09 \ vineri \ 05:3:2021 \ 19:20:43
+[' Răsarit = 06:49:47 Apus = 18:06:42 Min (°C) = -0.46 Max (°C) =9.11 Presiune = 972 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 4.86 Unghiul vântului = 344 Stare = zăpadă slabă']
+Solca: 09 \ sâmbătă \ 06:3:2021 \ 19:21:31
+[' Răsarit = 06:47:50 Apus = 18:08:11 Min (°C) = -4.1 Max (°C) =0.26 Presiune = 985 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 320 Stare = nori 25-50%']
+Solca: 09 \ duminică \ 07:3:2021 \ 19:22:48
+[' Răsarit = 06:45:51 Apus = 18:09:40 Min (°C) = -4.48 Max (°C) =5.18 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = cer senin']
+Solca: 10 \ luni \ 08:3:2021 \ 19:25:56
+[' Răsarit = 06:43:52 Apus = 18:11:09 Min (°C) = -3.44 Max (°C) =5.45 Presiune = 974 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.31 Unghiul vântului = 359 Stare = snow']
+Solca: 10 \ marți \ 09:3:2021 \ 19:21:52
+[' Răsarit = 06:41:53 Apus = 18:12:37 Min (°C) = -3.82 Max (°C) =1.81 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 50-85%']
+Solca: 10 \ miercuri \ 10:3:2021 \ 19:26:18
+[' Răsarit = 06:39:53 Apus = 18:14:05 Min (°C) = -3.78 Max (°C) =2.15 Presiune = 975 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 116 Stare = nori 85-100%']
+Solca: 10 \ joi \ 11:3:2021 \ 19:22:59
+[' Răsarit = 06:37:53 Apus = 18:15:32 Min (°C) = -5.13 Max (°C) =1.73 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 160 Stare = cer senin']
+Solca: 10 \ vineri \ 12:3:2021 \ 19:21:58
+[' Răsarit = 06:35:52 Apus = 18:17:00 Min (°C) = -1.74 Max (°C) =9.96 Presiune = 968 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.63 Unghiul vântului = 280 Stare = cer senin']
+Solca: 10 \ sâmbătă \ 13:3:2021 \ 19:22:15
+[' Răsarit = 06:33:51 Apus = 18:18:27 Min (°C) = 1.18 Max (°C) =9.91 Presiune = 1011 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 220 Stare = cer senin']
+Solca: 10 \ duminică \ 14:3:2021 \ 19:24:37
+[' Răsarit = 06:31:50 Apus = 18:19:54 Min (°C) = 1.18 Max (°C) =11.63 Presiune = 1005 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Solca: 11 \ luni \ 15:3:2021 \ 19:24:02
+[' Răsarit = 06:29:48 Apus = 18:21:21 Min (°C) = 2.25 Max (°C) =4.21 Presiune = 961 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 333 Stare = nori 85-100%']
+Solca: 11 \ marți \ 16:3:2021 \ 19:22:38
+[' Răsarit = 06:27:46 Apus = 18:22:47 Min (°C) = 1.89 Max (°C) =4.51 Presiune = 962 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 5.53 Unghiul vântului = 326 Stare = nori 85-100%']
+Solca: 11 \ miercuri \ 17:3:2021 \ 19:23:01
+[' Răsarit = 06:25:43 Apus = 18:24:13 Min (°C) = 0.13 Max (°C) =1.45 Presiune = 965 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 5.17 Unghiul vântului = 327 Stare = zăpadă slabă']
+Solca: 11 \ joi \ 18:3:2021 \ 19:22:14
+[' Răsarit = 06:23:41 Apus = 18:25:39 Min (°C) = -1.96 Max (°C) =1.3 Presiune = 1012 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 85-100%']
+Solca: 11 \ vineri \ 19:3:2021 \ 19:19:38
+[' Răsarit = 06:21:38 Apus = 18:27:05 Min (°C) = -2.83 Max (°C) =0.18 Presiune = 972 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 56 Stare = zăpadă slabă']
+Solca: 11 \ sâmbătă \ 20:3:2021 \ 19:22:19
+[' Răsarit = 06:19:35 Apus = 18:28:31 Min (°C) = -4.16 Max (°C) =1.66 Presiune = 977 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 313 Stare = zăpadă slabă']
+Solca: 11 \ duminică \ 21:3:2021 \ 19:17:16
+[' Răsarit = 06:17:32 Apus = 18:29:57 Min (°C) = -7.35 Max (°C) =4.48 Presiune = 1009 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Solca: 12 \ luni \ 22:3:2021 \ 19:22:34
+[' Răsarit = 06:15:29 Apus = 18:31:22 Min (°C) = -5.02 Max (°C) =3.06 Presiune = 968 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 6 Unghiul vântului = 354 Stare = snow']
+Solca: 12 \ marți \ 23:3:2021 \ 19:24:29
+[' Răsarit = 06:13:26 Apus = 18:32:47 Min (°C) = -6.63 Max (°C) =2.22 Presiune = 971 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.6 Unghiul vântului = 17 Stare = snow']
+Solca: 12 \ miercuri \ 24:3:2021 \ 19:22:54
+[' Răsarit = 06:11:23 Apus = 18:34:12 Min (°C) = -4.92 Max (°C) =1.69 Presiune = 1018 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = cer senin']
+Solca: 12 \ joi \ 25:3:2021 \ 19:23:03
+[' Răsarit = 06:09:20 Apus = 18:35:38 Min (°C) = -4.35 Max (°C) =4.73 Presiune = 1018 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Solca: 12 \ vineri \ 26:3:2021 \ 19:27:51
+[' Răsarit = 06:07:17 Apus = 18:37:03 Min (°C) = -3.32 Max (°C) =7.68 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 10 Stare = cer senin']
+Solca: 12 \ sâmbătă \ 27:3:2021 \ 19:27:40
+[' Răsarit = 06:05:15 Apus = 18:38:28 Min (°C) = 0.14 Max (°C) =12.31 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Solca: 12 \ duminică \ 28:3:2021 \ 19:23:13
+[' Răsarit = 07:03:12 Apus = 19:39:52 Min (°C) = 0.63 Max (°C) =11.51 Presiune = 1027 Umiditate (%) = 65 Index UV = 0.08 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = cer senin']
+Solca: 13 \ luni \ 29:3:2021 \ 19:22:01
+[' Răsarit = 07:01:10 Apus = 19:41:17 Min (°C) = -1.67 Max (°C) =8.63 Presiune = 1030 Umiditate (%) = 46 Index UV = 0.09 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = cer senin']
+Solca: 13 \ marți \ 30:3:2021 \ 19:21:00
+[' Răsarit = 06:59:07 Apus = 19:42:42 Min (°C) = 0.36 Max (°C) =10.57 Presiune = 1029 Umiditate (%) = 46 Index UV = 0.07 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Solca: 13 \ miercuri \ 31:3:2021 \ 19:21:12
+[' Răsarit = 06:57:05 Apus = 19:44:07 Min (°C) = 3.11 Max (°C) =12.65 Presiune = 1023 Umiditate (%) = 62 Index UV = 0.07 Viteza vântului = 1.54 Unghiul vântului = 20 Stare = nori 50-85%']
+Solca: 13 \ joi \ 01:4:2021 \ 19:21:31
+[' Răsarit = 06:55:03 Apus = 19:45:32 Min (°C) = 7.81 Max (°C) =17.24 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.12 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = cer senin']
+Solca: 13 \ vineri \ 02:4:2021 \ 19:24:29
+[' Răsarit = 06:53:02 Apus = 19:46:56 Min (°C) = 2.07 Max (°C) =9.23 Presiune = 969 Umiditate (%) = 84 Index UV = 0.03 Viteza vântului = 4.22 Unghiul vântului = 339 Stare = nori 85-100%']
+Solca: 13 \ sâmbătă \ 03:4:2021 \ 20:46:11
+[' Răsarit = 06:51:01 Apus = 19:48:21 Min (°C) = 0.71 Max (°C) =7.09 Presiune = 969 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 337 Stare = nori 85-100%']
+Solca: 13 \ duminică \ 04:4:2021 \ 20:24:51
+[' Răsarit = 06:49:00 Apus = 19:49:46 Min (°C) = -0.01 Max (°C) =6.24 Presiune = 973 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 327 Stare = nori 85-100%']
+Solca: 14 \ luni \ 05:4:2021 \ 14:53:17
+[' Răsarit = 06:47:00 Apus = 19:51:11 Min (°C) = -1.07 Max (°C) =11.94 Presiune = 1007 Umiditate (%) = 32 Index UV = 3.21 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = cer senin']
+Solca: 14 \ luni \ 05:4:2021 \ 19:22:51
+[' Răsarit = 06:47:00 Apus = 19:51:11 Min (°C) = -1.07 Max (°C) =9.54 Presiune = 1004 Umiditate (%) = 37 Index UV = 0.14 Viteza vântului = 5.66 Unghiul vântului = 240 Stare = cer senin']
+Solca: 14 \ marți \ 06:4:2021 \ 20:27:41
+[' Răsarit = 06:45:00 Apus = 19:52:36 Min (°C) = 0.5 Max (°C) =8.79 Presiune = 959 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 352 Stare = nori 85-100%']
+Solca: 14 \ miercuri \ 07:4:2021 \ 19:21:43
+[' Răsarit = 06:43:01 Apus = 19:54:01 Min (°C) = -1.89 Max (°C) =4.08 Presiune = 966 Umiditate (%) = 62 Index UV = 0.14 Viteza vântului = 2.9 Unghiul vântului = 294 Stare = nori 85-100%']
+Solca: 14 \ joi \ 08:4:2021 \ 19:21:48
+[' Răsarit = 06:41:02 Apus = 19:55:25 Min (°C) = -4.49 Max (°C) =5.7 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.14 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 10-25%']
+Solca: 14 \ vineri \ 09:4:2021 \ 19:21:49
+[' Răsarit = 06:39:04 Apus = 19:56:50 Min (°C) = -2.2 Max (°C) =8.98 Presiune = 1023 Umiditate (%) = 39 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 180 Stare = cer senin']
+Solca: 14 \ sâmbătă \ 10:4:2021 \ 19:21:24
+[' Răsarit = 06:37:06 Apus = 19:58:15 Min (°C) = -0.71 Max (°C) =14 Presiune = 1020 Umiditate (%) = 30 Index UV = 0.14 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Solca: 14 \ duminică \ 11:4:2021 \ 19:23:04
+[' Răsarit = 06:35:09 Apus = 19:59:40 Min (°C) = 2.67 Max (°C) =15 Presiune = 1022 Umiditate (%) = 26 Index UV = 0.19 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']
+Solca: 15 \ luni \ 12:4:2021 \ 22:07:29
+[' Răsarit = 06:33:12 Apus = 20:01:06 Min (°C) = 4.02 Max (°C) =15.98 Presiune = 975 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 195 Stare = nori 10-25%']
+Solca: 15 \ marți \ 13:4:2021 \ 19:22:55
+[' Răsarit = 06:31:16 Apus = 20:02:31 Min (°C) = 6.76 Max (°C) =16.73 Presiune = 972 Umiditate (%) = 77 Index UV = 0.07 Viteza vântului = 4.36 Unghiul vântului = 349 Stare = nori 85-100%']
+Solca: 15 \ miercuri \ 14:4:2021 \ 19:22:45
+[' Răsarit = 06:29:21 Apus = 20:03:56 Min (°C) = 2.33 Max (°C) =8.58 Presiune = 971 Umiditate (%) = 87 Index UV = 0.05 Viteza vântului = 3.53 Unghiul vântului = 351 Stare = nori 85-100%']
+Solca: 15 \ joi \ 15:4:2021 \ 19:24:39
+[' Răsarit = 06:27:27 Apus = 20:05:21 Min (°C) = 0.7 Max (°C) =5.92 Presiune = 972 Umiditate (%) = 91 Index UV = 0.04 Viteza vântului = 2.59 Unghiul vântului = 348 Stare = nori 85-100%']
+Solca: 15 \ vineri \ 16:4:2021 \ 19:22:21
+[' Răsarit = 06:25:34 Apus = 20:06:46 Min (°C) = -0.48 Max (°C) =9.43 Presiune = 972 Umiditate (%) = 62 Index UV = 0.17 Viteza vântului = 2.57 Unghiul vântului = 294 Stare = nori 85-100%']
+Solca: 15 \ sâmbătă \ 17:4:2021 \ 19:22:11
+[' Răsarit = 06:23:41 Apus = 20:08:12 Min (°C) = -0.47 Max (°C) =10.95 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.15 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = cer senin']
+Solca: 15 \ duminică \ 18:4:2021 \ 19:21:33
+[' Răsarit = 06:21:49 Apus = 20:09:37 Min (°C) = 1.52 Max (°C) =10.59 Presiune = 973 Umiditate (%) = 69 Index UV = 0.13 Viteza vântului = 1.17 Unghiul vântului = 92 Stare = nori 85-100%']
+Solca: 16 \ luni \ 19:4:2021 \ 19:22:31
+[' Răsarit = 06:19:58 Apus = 20:11:02 Min (°C) = 5.06 Max (°C) =10.68 Presiune = 970 Umiditate (%) = 88 Index UV = 0.19 Viteza vântului = 1.54 Unghiul vântului = 113 Stare = nori 50-85%']
+Solca: 16 \ marți \ 20:4:2021 \ 19:21:56
+[' Răsarit = 06:18:08 Apus = 20:12:28 Min (°C) = 4.24 Max (°C) =11.11 Presiune = 968 Umiditate (%) = 75 Index UV = 0.21 Viteza vântului = 1.42 Unghiul vântului = 285 Stare = nori 85-100%']
+Solca: 16 \ miercuri \ 21:4:2021 \ 19:21:55
+[' Răsarit = 06:16:19 Apus = 20:13:53 Min (°C) = 2.83 Max (°C) =13.94 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.23 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = cer senin']
+Solca: 16 \ joi \ 22:4:2021 \ 19:22:24
+[' Răsarit = 06:14:31 Apus = 20:15:19 Min (°C) = 3.4 Max (°C) =15.68 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.23 Viteza vântului = 6.17 Unghiul vântului = 260 Stare = nori 25-50%']
+Solca: 16 \ vineri \ 23:4:2021 \ 19:21:44
+[' Răsarit = 06:12:44 Apus = 20:16:44 Min (°C) = 2.89 Max (°C) =8.87 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 310 Stare = nori 10-25%']
+Solca: 16 \ sâmbătă \ 24:4:2021 \ 19:21:52
+[' Răsarit = 06:10:58 Apus = 20:18:09 Min (°C) = 0.27 Max (°C) =10.78 Presiune = 1021 Umiditate (%) = 46 Index UV = 0.21 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 25-50%']
+Solca: 16 \ duminică \ 25:4:2021 \ 19:22:09
+[' Răsarit = 06:09:13 Apus = 20:19:34 Min (°C) = 2.05 Max (°C) =14.48 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.07 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = nori 25-50%']
+Solca: 17 \ luni \ 26:4:2021 \ 19:21:58
+[' Răsarit = 06:07:29 Apus = 20:21:00 Min (°C) = 1.98 Max (°C) =9.62 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = cer senin']
+Solca: 17 \ marți \ 27:4:2021 \ 19:23:27
+[' Răsarit = 06:05:46 Apus = 20:22:25 Min (°C) = 0.9 Max (°C) =7.26 Presiune = 973 Umiditate (%) = 65 Index UV = 0.22 Viteza vântului = 0.35 Unghiul vântului = 55 Stare = nori 85-100%']
+Solca: 17 \ miercuri \ 28:4:2021 \ 19:21:55
+[' Răsarit = 06:04:05 Apus = 20:23:50 Min (°C) = -0.92 Max (°C) =7.98 Presiune = 1015 Umiditate (%) = 87 Index UV = 0.3 Viteza vântului = 7.72 Unghiul vântului = 140 Stare = nori 85-100%']
+Solca: 17 \ joi \ 29:4:2021 \ 19:14:37
+[' Răsarit = 06:02:25 Apus = 20:25:14 Min (°C) = 1.96 Max (°C) =17.51 Presiune = 968 Umiditate (%) = 71 Index UV = 0.37 Viteza vântului = 3.15 Unghiul vântului = 138 Stare = nori 50-85%']
+Solca: 17 \ joi \ 29:4:2021 \ 19:32:00
+[' Răsarit = 06:02:25 Apus = 20:25:14 Min (°C) = 1.96 Max (°C) =17.15 Presiune = 1011 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 170 Stare = nori 10-25%']
+Solca: 17 \ vineri \ 30:4:2021 \ 19:21:48
+[' Răsarit = 06:00:46 Apus = 20:26:39 Min (°C) = 8.54 Max (°C) =20.46 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.35 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = cer senin']
+Solca: 17 \ sâmbătă \ 01:5:2021 \ 19:23:14
+[' Răsarit = 05:59:08 Apus = 20:28:03 Min (°C) = 9.11 Max (°C) =20.72 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 70 Stare = nori 10-25%']
+Solca: 17 \ duminică \ 02:5:2021 \ 20:29:50
+[' Răsarit = 05:57:32 Apus = 20:29:28 Min (°C) = 12.84 Max (°C) =22.91 Presiune = 1005 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 230 Stare = nori 10-25%']
+Solca: 18 \ luni \ 03:5:2021 \ 19:22:03
+[' Răsarit = 05:55:57 Apus = 20:30:52 Min (°C) = 6.54 Max (°C) =12.89 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.33 Viteza vântului = 3.6 Unghiul vântului = 340 Stare = cer senin']
+Solca: 18 \ marți \ 04:5:2021 \ 19:24:35
+[' Răsarit = 05:54:24 Apus = 20:32:15 Min (°C) = 3.54 Max (°C) =15.48 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.41 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Solca: 18 \ miercuri \ 05:5:2021 \ 19:21:46
+[' Răsarit = 05:52:52 Apus = 20:33:39 Min (°C) = 3.99 Max (°C) =19.42 Presiune = 1005 Umiditate (%) = 40 Index UV = 0.42 Viteza vântului = 6.17 Unghiul vântului = 180 Stare = cer senin']
+Solca: 18 \ joi \ 06:5:2021 \ 19:22:51
+[' Răsarit = 05:51:21 Apus = 20:35:02 Min (°C) = 7.06 Max (°C) =15.67 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.22 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = nori 10-25%']
+Solca: 18 \ vineri \ 07:5:2021 \ 19:21:37
+[' Răsarit = 05:49:52 Apus = 20:36:24 Min (°C) = 5.2 Max (°C) =17.58 Presiune = 964 Umiditate (%) = 77 Index UV = 0.07 Viteza vântului = 4.73 Unghiul vântului = 245 Stare = nori 85-100%']
+Solca: 18 \ sâmbătă \ 08:5:2021 \ 19:22:22
+[' Răsarit = 05:48:24 Apus = 20:37:46 Min (°C) = 3.67 Max (°C) =11.35 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.36 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = cer senin']
+Solca: 18 \ duminică \ 09:5:2021 \ 19:21:37
+[' Răsarit = 05:46:59 Apus = 20:39:08 Min (°C) = 1.2 Max (°C) =16.25 Presiune = 1022 Umiditate (%) = 34 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 130 Stare = cer senin']
+Solca: 19 \ luni \ 10:5:2021 \ 19:22:00
+[' Răsarit = 05:45:34 Apus = 20:40:29 Min (°C) = 5.13 Max (°C) =20.19 Presiune = 1020 Umiditate (%) = 32 Index UV = 0.52 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Solca: 19 \ marți \ 11:5:2021 \ 19:22:47
+[' Răsarit = 05:44:12 Apus = 20:41:50 Min (°C) = 7.14 Max (°C) =20.19 Presiune = 1016 Umiditate (%) = 30 Index UV = 0.49 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = cer senin']
+Solca: 19 \ miercuri \ 12:5:2021 \ 19:22:04
+[' Răsarit = 05:42:51 Apus = 20:43:10 Min (°C) = 8.21 Max (°C) =17.23 Presiune = 1011 Umiditate (%) = 94 Index UV = 0.09 Viteza vântului = 2.75 Unghiul vântului = 117 Stare = nori 85-100%']
+Solca: 19 \ joi \ 13:5:2021 \ 19:23:02
+[' Răsarit = 05:41:32 Apus = 20:44:29 Min (°C) = 8.11 Max (°C) =17.85 Presiune = 1002 Umiditate (%) = 75 Index UV = 0.45 Viteza vântului = 3.49 Unghiul vântului = 143 Stare = nori 85-100%']
+Solca: 19 \ vineri \ 14:5:2021 \ 19:22:45
+[' Răsarit = 05:40:14 Apus = 20:45:48 Min (°C) = 7.93 Max (°C) =16.38 Presiune = 1006 Umiditate (%) = 72 Index UV = 0.47 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = nori 10-25%']
+Solca: 19 \ sâmbătă \ 15:5:2021 \ 19:22:06
+[' Răsarit = 05:38:59 Apus = 20:47:06 Min (°C) = 9.4 Max (°C) =20.19 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.45 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = nori 10-25%']
+Solca: 19 \ duminică \ 16:5:2021 \ 19:22:42
+[' Răsarit = 05:37:45 Apus = 20:48:23 Min (°C) = 8.75 Max (°C) =20.77 Presiune = 1006 Umiditate (%) = 52 Index UV = 0.27 Viteza vântului = 6.17 Unghiul vântului = 150 Stare = cer senin']
+Solca: 20 \ luni \ 17:5:2021 \ 19:23:27
+[' Răsarit = 05:36:33 Apus = 20:49:40 Min (°C) = 9.9 Max (°C) =20 Presiune = 1002 Umiditate (%) = 43 Index UV = 0.55 Viteza vântului = 2.06 Unghiul vântului = 100 Stare = cer senin']
+Solca: 20 \ marți \ 18:5:2021 \ 19:22:56
+[' Răsarit = 05:35:23 Apus = 20:50:55 Min (°C) = 9.87 Max (°C) =14.6 Presiune = 1003 Umiditate (%) = 84 Index UV = 0.15 Viteza vântului = 5.6 Unghiul vântului = 281 Stare = nori 85-100%']
+Solca: 20 \ miercuri \ 19:5:2021 \ 19:21:34
+[' Răsarit = 05:34:15 Apus = 20:52:10 Min (°C) = 10.04 Max (°C) =15.52 Presiune = 1010 Umiditate (%) = 80 Index UV = 0.52 Viteza vântului = 3.22 Unghiul vântului = 1 Stare = nori 50-85%']
+Solca: 20 \ joi \ 20:5:2021 \ 19:22:14
+[' Răsarit = 05:33:09 Apus = 20:53:23 Min (°C) = 7.36 Max (°C) =13.55 Presiune = 1011 Umiditate (%) = 86 Index UV = 0.51 Viteza vântului = 3.97 Unghiul vântului = 352 Stare = nori 85-100%']
+Solca: 20 \ vineri \ 21:5:2021 \ 19:22:33
+[' Răsarit = 05:32:05 Apus = 20:54:36 Min (°C) = 7.51 Max (°C) =18.31 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.62 Viteza vântului = 1.6 Unghiul vântului = 109 Stare = nori 25-50%']
+Solca: 20 \ sâmbătă \ 22:5:2021 \ 19:22:59
+[' Răsarit = 05:31:04 Apus = 20:55:47 Min (°C) = 6.56 Max (°C) =21.77 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 5.22 Unghiul vântului = 248 Stare = nori 85-100%']
+Solca: 20 \ duminică \ 23:5:2021 \ 19:23:06
+[' Răsarit = 05:30:04 Apus = 20:56:57 Min (°C) = 10.38 Max (°C) =18.58 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.5 Viteza vântului = 4.15 Unghiul vântului = 84 Stare = nori 85-100%']
+Solca: 21 \ luni \ 24:5:2021 \ 19:21:44
+[' Răsarit = 05:29:06 Apus = 20:58:06 Min (°C) = 9.62 Max (°C) =17.63 Presiune = 1023 Umiditate (%) = 66 Index UV = 0.58 Viteza vântului = 2.67 Unghiul vântului = 95 Stare = nori 85-100%']
+Solca: 21 \ marți \ 25:5:2021 \ 19:21:54
+[' Răsarit = 05:28:11 Apus = 20:59:14 Min (°C) = 9.07 Max (°C) =23.7 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.67 Viteza vântului = 2.85 Unghiul vântului = 143 Stare = nori 50-85%']
+Solca: 21 \ miercuri \ 26:5:2021 \ 19:24:38
+[' Răsarit = 05:27:17 Apus = 21:00:20 Min (°C) = 9.89 Max (°C) =16.98 Presiune = 1019 Umiditate (%) = 80 Index UV = 0.4 Viteza vântului = 1.7 Unghiul vântului = 115 Stare = nori 85-100%']
+Solca: 21 \ joi \ 27:5:2021 \ 19:22:00
+[' Răsarit = 05:26:26 Apus = 21:01:25 Min (°C) = 11 Max (°C) =19.78 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.6 Viteza vântului = 1.2 Unghiul vântului = 94 Stare = nori 85-100%']
+Solca: 21 \ vineri \ 28:5:2021 \ 19:22:04
+[' Răsarit = 05:25:38 Apus = 21:02:29 Min (°C) = 11.21 Max (°C) =13.84 Presiune = 1015 Umiditate (%) = 97 Index UV = 0.03 Viteza vântului = 3.5 Unghiul vântului = 322 Stare = nori 85-100%']
+Solca: 21 \ sâmbătă \ 29:5:2021 \ 19:21:31
+[' Răsarit = 05:24:51 Apus = 21:03:31 Min (°C) = 10.38 Max (°C) =15.57 Presiune = 1015 Umiditate (%) = 93 Index UV = 0.16 Viteza vântului = 1.72 Unghiul vântului = 328 Stare = nori 85-100%']
+Solca: 21 \ duminică \ 30:5:2021 \ 19:21:18
+[' Răsarit = 05:24:07 Apus = 21:04:31 Min (°C) = 8.51 Max (°C) =14.18 Presiune = 1015 Umiditate (%) = 76 Index UV = 0.08 Viteza vântului = 2.71 Unghiul vântului = 21 Stare = nori 50-85%']
+Solca: 22 \ marți \ 01:6:2021 \ 19:23:15
+[' Răsarit = 05:22:46 Apus = 21:06:27 Min (°C) = 7.72 Max (°C) =11.84 Presiune = 1017 Umiditate (%) = 93 Index UV = 0.27 Viteza vântului = 2.77 Unghiul vântului = 340 Stare = nori 85-100%']
+Solca: 22 \ miercuri \ 02:6:2021 \ 19:19:05
+[' Răsarit = 05:22:09 Apus = 21:07:23 Min (°C) = 7.13 Max (°C) =12.75 Presiune = 1022 Umiditate (%) = 93 Index UV = 0.08 Viteza vântului = 3.82 Unghiul vântului = 26 Stare = ploaie ușoară']
+Solca: 22 \ joi \ 03:6:2021 \ 19:19:32
+[' Răsarit = 05:21:34 Apus = 21:08:16 Min (°C) = 8.47 Max (°C) =18.38 Presiune = 1023 Umiditate (%) = 80 Index UV = 0.69 Viteza vântului = 3.79 Unghiul vântului = 332 Stare = nori 85-100%']
+Solca: 22 \ vineri \ 04:6:2021 \ 19:28:46
+[' Răsarit = 05:21:02 Apus = 21:09:08 Min (°C) = 8.2 Max (°C) =18.88 Presiune = 1023 Umiditate (%) = 68 Index UV = 0.7 Viteza vântului = 2.44 Unghiul vântului = 357 Stare = nori 50-85%']
+Solca: 22 \ sâmbătă \ 05:6:2021 \ 19:26:13
+[' Răsarit = 05:20:33 Apus = 21:09:58 Min (°C) = 10.09 Max (°C) =21.14 Presiune = 1019 Umiditate (%) = 86 Index UV = 0.14 Viteza vântului = 1.19 Unghiul vântului = 204 Stare = nori 85-100%']
+Solca: 22 \ duminică \ 06:6:2021 \ 19:22:29
+[' Răsarit = 05:20:05 Apus = 21:10:46 Min (°C) = 9.73 Max (°C) =19.54 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.75 Viteza vântului = 3.74 Unghiul vântului = 335 Stare = nori 10-25%']
+Solca: 23 \ luni \ 07:6:2021 \ 19:22:21
+[' Răsarit = 05:19:41 Apus = 21:11:32 Min (°C) = 10.06 Max (°C) =21.07 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.72 Viteza vântului = 3.25 Unghiul vântului = 344 Stare = nori 25-50%']
+Solca: 23 \ marți \ 08:6:2021 \ 19:21:21
+[' Răsarit = 05:19:19 Apus = 21:12:16 Min (°C) = 10.79 Max (°C) =20.12 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.74 Viteza vântului = 4 Unghiul vântului = 333 Stare = nori 10-25%']
+Solca: 23 \ miercuri \ 09:6:2021 \ 19:22:57
+[' Răsarit = 05:18:59 Apus = 21:12:58 Min (°C) = 11.47 Max (°C) =21 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.72 Viteza vântului = 3.92 Unghiul vântului = 326 Stare = nori 25-50%']
+Solca: 23 \ joi \ 10:6:2021 \ 19:21:43
+[' Răsarit = 05:18:42 Apus = 21:13:37 Min (°C) = 10.7 Max (°C) =19.85 Presiune = 1013 Umiditate (%) = 94 Index UV = 0.72 Viteza vântului = 4.31 Unghiul vântului = 333 Stare = nori 10-25%']
+Solca: 23 \ vineri \ 11:6:2021 \ 19:21:50
+[' Răsarit = 05:18:27 Apus = 21:14:15 Min (°C) = 10.56 Max (°C) =20.74 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.72 Viteza vântului = 2.9 Unghiul vântului = 348 Stare = nori 25-50%']
+Solca: 23 \ sâmbătă \ 12:6:2021 \ 19:22:05
+[' Răsarit = 05:18:15 Apus = 21:14:50 Min (°C) = 11.32 Max (°C) =21.12 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.68 Viteza vântului = 0.42 Unghiul vântului = 320 Stare = ploaie ușoară']
+Solca: 23 \ duminică \ 13:6:2021 \ 19:27:45
+[' Răsarit = 05:18:06 Apus = 21:15:23 Min (°C) = 11.2 Max (°C) =15.77 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.65 Viteza vântului = 6.29 Unghiul vântului = 339 Stare = nori 50-85%']
+Solca: 24 \ luni \ 14:6:2021 \ 19:21:58
+[' Răsarit = 05:17:59 Apus = 21:15:54 Min (°C) = 9.56 Max (°C) =11.68 Presiune = 1016 Umiditate (%) = 96 Index UV = 0.04 Viteza vântului = 3.08 Unghiul vântului = 304 Stare = nori 85-100%']
+Solca: 24 \ marți \ 15:6:2021 \ 19:24:25
+[' Răsarit = 05:17:55 Apus = 21:16:22 Min (°C) = 10.74 Max (°C) =18.81 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.68 Viteza vântului = 5.06 Unghiul vântului = 335 Stare = nori 50-85%']
+Solca: 24 \ miercuri \ 16:6:2021 \ 19:23:37
+[' Răsarit = 05:17:53 Apus = 21:16:48 Min (°C) = 12.85 Max (°C) =22.53 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.76 Viteza vântului = 4.13 Unghiul vântului = 357 Stare = nori 50-85%']
+Solca: 24 \ joi \ 17:6:2021 \ 19:22:29
+[' Răsarit = 05:17:54 Apus = 21:17:12 Min (°C) = 12.65 Max (°C) =20.94 Presiune = 1019 Umiditate (%) = 88 Index UV = 0.71 Viteza vântului = 3.17 Unghiul vântului = 350 Stare = nori 85-100%']
+Solca: 24 \ vineri \ 18:6:2021 \ 19:23:01
+[' Răsarit = 05:17:57 Apus = 21:17:33 Min (°C) = 14.14 Max (°C) =21.74 Presiune = 1018 Umiditate (%) = 99 Index UV = 0.31 Viteza vântului = 5.06 Unghiul vântului = 53 Stare = nori 85-100%']
+Solca: 24 \ sâmbătă \ 19:6:2021 \ 19:22:41
+[' Răsarit = 05:18:03 Apus = 21:17:51 Min (°C) = 13.57 Max (°C) =20.61 Presiune = 1017 Umiditate (%) = 87 Index UV = 0.66 Viteza vântului = 2.24 Unghiul vântului = 111 Stare = nori 85-100%']
+Solca: 24 \ duminică \ 20:6:2021 \ 19:23:29
+[' Răsarit = 05:18:11 Apus = 21:18:07 Min (°C) = 12.86 Max (°C) =20.78 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.7 Viteza vântului = 2.14 Unghiul vântului = 352 Stare = nori 85-100%']
+Solca: 25 \ luni \ 21:6:2021 \ 19:23:52
+[' Răsarit = 05:18:22 Apus = 21:18:21 Min (°C) = 15.02 Max (°C) =25 Presiune = 1011 Umiditate (%) = 74 Index UV = 0.78 Viteza vântului = 3.28 Unghiul vântului = 125 Stare = nori 50-85%']
+Solca: 25 \ marți \ 22:6:2021 \ 19:23:37
+[' Răsarit = 05:18:36 Apus = 21:18:32 Min (°C) = 15.16 Max (°C) =27.35 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.78 Viteza vântului = 1.79 Unghiul vântului = 105 Stare = cer senin']
+Solca: 25 \ miercuri \ 23:6:2021 \ 19:22:24
+[' Răsarit = 05:18:51 Apus = 21:18:40 Min (°C) = 16.76 Max (°C) =28.33 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.8 Viteza vântului = 1.82 Unghiul vântului = 23 Stare = cer senin']
+Solca: 25 \ joi \ 24:6:2021 \ 19:23:03
+[' Răsarit = 05:19:10 Apus = 21:18:46 Min (°C) = 18.03 Max (°C) =28.89 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.83 Viteza vântului = 1.19 Unghiul vântului = 81 Stare = nori 25-50%']
+Solca: 25 \ vineri \ 25:6:2021 \ 19:22:37
+[' Răsarit = 05:19:30 Apus = 21:18:49 Min (°C) = 18.68 Max (°C) =29.58 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.33 Viteza vântului = 3.63 Unghiul vântului = 293 Stare = ploaie ușoară']
+Solca: 25 \ sâmbătă \ 26:6:2021 \ 19:22:05
+[' Răsarit = 05:19:53 Apus = 21:18:50 Min (°C) = 16.67 Max (°C) =26.18 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.67 Viteza vântului = 2.5 Unghiul vântului = 333 Stare = nori 50-85%']
+Solca: 25 \ duminică \ 27:6:2021 \ 19:21:56
+[' Răsarit = 05:20:19 Apus = 21:18:48 Min (°C) = 14.39 Max (°C) =23.65 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.68 Viteza vântului = 3.05 Unghiul vântului = 350 Stare = nori 50-85%']
+Solca: 26 \ luni \ 28:6:2021 \ 19:25:11
+[' Răsarit = 05:20:46 Apus = 21:18:44 Min (°C) = 15.34 Max (°C) =23.86 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.72 Viteza vântului = 1.71 Unghiul vântului = 350 Stare = nori 10-25%']
+Solca: 26 \ marți \ 29:6:2021 \ 19:23:56
+[' Răsarit = 05:21:16 Apus = 21:18:36 Min (°C) = 14.4 Max (°C) =26.18 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.69 Viteza vântului = 1.35 Unghiul vântului = 71 Stare = nori 50-85%']
+Solca: 26 \ miercuri \ 30:6:2021 \ 19:22:45
+[' Răsarit = 05:21:49 Apus = 21:18:27 Min (°C) = 15.89 Max (°C) =30.04 Presiune = 1012 Umiditate (%) = 95 Index UV = 0.75 Viteza vântului = 3.37 Unghiul vântului = 142 Stare = ploaie ușoară']
+Solca: 26 \ joi \ 01:7:2021 \ 19:23:42
+[' Răsarit = 05:22:23 Apus = 21:18:14 Min (°C) = 16.02 Max (°C) =25.64 Presiune = 1009 Umiditate (%) = 90 Index UV = 0.21 Viteza vântului = 0.99 Unghiul vântului = 54 Stare = nori 50-85%']
+Solca: 26 \ vineri \ 02:7:2021 \ 19:22:06
+[' Răsarit = 05:22:59 Apus = 21:17:59 Min (°C) = 13.4 Max (°C) =20.41 Presiune = 1010 Umiditate (%) = 92 Index UV = 0.58 Viteza vântului = 1.85 Unghiul vântului = 284 Stare = nori 85-100%']
+Solca: 26 \ sâmbătă \ 03:7:2021 \ 19:22:32
+[' Răsarit = 05:23:38 Apus = 21:17:42 Min (°C) = 13.04 Max (°C) =20.63 Presiune = 1010 Umiditate (%) = 89 Index UV = 0.58 Viteza vântului = 1.82 Unghiul vântului = 298 Stare = nori 50-85%']
+Solca: 26 \ duminică \ 04:7:2021 \ 19:22:14
+[' Răsarit = 05:24:19 Apus = 21:17:21 Min (°C) = 13.06 Max (°C) =21.26 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.55 Viteza vântului = 3.8 Unghiul vântului = 356 Stare = nori 50-85%']
+Solca: 27 \ luni \ 05:7:2021 \ 19:22:27
+[' Răsarit = 05:25:02 Apus = 21:16:59 Min (°C) = 13.72 Max (°C) =22.43 Presiune = 1010 Umiditate (%) = 82 Index UV = 0.67 Viteza vântului = 2.77 Unghiul vântului = 311 Stare = nori 85-100%']
+Solca: 27 \ marți \ 06:7:2021 \ 19:23:20
+[' Răsarit = 05:25:46 Apus = 21:16:33 Min (°C) = 16.14 Max (°C) =25.04 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.77 Viteza vântului = 3.75 Unghiul vântului = 358 Stare = nori 25-50%']
+Solca: 27 \ miercuri \ 07:7:2021 \ 19:22:04
+[' Răsarit = 05:26:33 Apus = 21:16:06 Min (°C) = 16.09 Max (°C) =25.8 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.79 Viteza vântului = 3.85 Unghiul vântului = 69 Stare = nori 10-25%']
+Solca: 27 \ joi \ 08:7:2021 \ 19:23:29
+[' Răsarit = 05:27:21 Apus = 21:15:35 Min (°C) = 17.03 Max (°C) =26.8 Presiune = 1022 Umiditate (%) = 66 Index UV = 0.76 Viteza vântului = 3.8 Unghiul vântului = 137 Stare = cer senin']
+Solca: 27 \ vineri \ 09:7:2021 \ 19:22:39
+[' Răsarit = 05:28:12 Apus = 21:15:02 Min (°C) = 16.4 Max (°C) =26.83 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.77 Viteza vântului = 4.86 Unghiul vântului = 124 Stare = cer senin']
+Solca: 27 \ sâmbătă \ 10:7:2021 \ 19:21:58
+[' Răsarit = 05:29:04 Apus = 21:14:27 Min (°C) = 16.25 Max (°C) =26.95 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.72 Viteza vântului = 2.79 Unghiul vântului = 127 Stare = cer senin']
+Solca: 27 \ duminică \ 11:7:2021 \ 19:22:12
+[' Răsarit = 05:29:57 Apus = 21:13:49 Min (°C) = 15.43 Max (°C) =26.53 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.69 Viteza vântului = 3.26 Unghiul vântului = 88 Stare = cer senin']
+Solca: 28 \ luni \ 12:7:2021 \ 19:22:57
+[' Răsarit = 05:30:53 Apus = 21:13:09 Min (°C) = 15.77 Max (°C) =27.44 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.59 Viteza vântului = 1.95 Unghiul vântului = 149 Stare = nori 10-25%']
+Solca: 28 \ marți \ 13:7:2021 \ 19:22:48
+[' Răsarit = 05:31:50 Apus = 21:12:26 Min (°C) = 16.23 Max (°C) =28.54 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.75 Viteza vântului = 3.66 Unghiul vântului = 138 Stare = nori 10-25%']
+Solca: 28 \ miercuri \ 14:7:2021 \ 19:22:17
+[' Răsarit = 05:32:48 Apus = 21:11:41 Min (°C) = 17.14 Max (°C) =29.29 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.76 Viteza vântului = 3.75 Unghiul vântului = 128 Stare = cer senin']
+Solca: 28 \ joi \ 15:7:2021 \ 19:21:59
+[' Răsarit = 05:33:48 Apus = 21:10:54 Min (°C) = 18.41 Max (°C) =30.05 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.41 Viteza vântului = 3.42 Unghiul vântului = 114 Stare = cer senin']
+Solca: 28 \ vineri \ 16:7:2021 \ 19:22:20
+[' Răsarit = 05:34:50 Apus = 21:10:04 Min (°C) = 18.19 Max (°C) =27.94 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.3 Viteza vântului = 0.93 Unghiul vântului = 118 Stare = nori 50-85%']
+Solca: 28 \ sâmbătă \ 17:7:2021 \ 19:22:47
+[' Răsarit = 05:35:53 Apus = 21:09:12 Min (°C) = 16.82 Max (°C) =29.74 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.68 Viteza vântului = 2.52 Unghiul vântului = 102 Stare = cer senin']
+Solca: 28 \ duminică \ 18:7:2021 \ 19:23:08
+[' Răsarit = 05:36:57 Apus = 21:08:18 Min (°C) = 20.55 Max (°C) =29.88 Presiune = 1009 Umiditate (%) = 60 Index UV = 0.64 Viteza vântului = 1.87 Unghiul vântului = 112 Stare = nori 25-50%']
+Solca: 29 \ luni \ 19:7:2021 \ 19:22:24
+[' Răsarit = 05:38:02 Apus = 21:07:22 Min (°C) = 17.19 Max (°C) =25.71 Presiune = 1011 Umiditate (%) = 95 Index UV = 0.4 Viteza vântului = 0.5 Unghiul vântului = 118 Stare = ploaie moderată']
+Solca: 29 \ marți \ 20:7:2021 \ 19:22:32
+[' Răsarit = 05:39:09 Apus = 21:06:23 Min (°C) = 16.49 Max (°C) =20.05 Presiune = 1009 Umiditate (%) = 99 Index UV = 0.06 Viteza vântului = 2.24 Unghiul vântului = 326 Stare = ploaie ușoară']
+Solca: 29 \ miercuri \ 21:7:2021 \ 19:21:45
+[' Răsarit = 05:40:16 Apus = 21:05:22 Min (°C) = 13.44 Max (°C) =17.11 Presiune = 1018 Umiditate (%) = 95 Index UV = 0.12 Viteza vântului = 3.15 Unghiul vântului = 312 Stare = nori 85-100%']
+Solca: 29 \ joi \ 22:7:2021 \ 19:21:57
+[' Răsarit = 05:41:25 Apus = 21:04:20 Min (°C) = 12.53 Max (°C) =21.56 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.48 Viteza vântului = 3.4 Unghiul vântului = 339 Stare = nori 25-50%']
+Solca: 29 \ vineri \ 23:7:2021 \ 19:22:10
+[' Răsarit = 05:42:35 Apus = 21:03:15 Min (°C) = 12.05 Max (°C) =22.22 Presiune = 1017 Umiditate (%) = 78 Index UV = 0.23 Viteza vântului = 1.35 Unghiul vântului = 20 Stare = nori 85-100%']
+Solca: 29 \ sâmbătă \ 24:7:2021 \ 19:29:17
+[' Răsarit = 05:43:46 Apus = 21:02:08 Min (°C) = 14.55 Max (°C) =24.44 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.58 Viteza vântului = 1.65 Unghiul vântului = 104 Stare = nori 50-85%']
+Solca: 29 \ duminică \ 25:7:2021 \ 19:22:50
+[' Răsarit = 05:44:57 Apus = 21:00:58 Min (°C) = 16.52 Max (°C) =25.68 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.57 Viteza vântului = 2.95 Unghiul vântului = 142 Stare = nori 50-85%']
+Solca: 30 \ luni \ 26:7:2021 \ 19:22:48
+[' Răsarit = 05:46:10 Apus = 20:59:47 Min (°C) = 15.47 Max (°C) =28.28 Presiune = 1018 Umiditate (%) = 86 Index UV = 0.59 Viteza vântului = 2.58 Unghiul vântului = 142 Stare = nori 50-85%']
+Solca: 30 \ marți \ 27:7:2021 \ 19:24:48
+[' Răsarit = 05:47:23 Apus = 20:58:35 Min (°C) = 17.72 Max (°C) =30.09 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 0.57 Unghiul vântului = 192 Stare = nori 25-50%']
+Solca: 30 \ miercuri \ 28:7:2021 \ 19:25:08
+[' Răsarit = 05:48:38 Apus = 20:57:20 Min (°C) = 18.35 Max (°C) =31.42 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.53 Viteza vântului = 3.24 Unghiul vântului = 282 Stare = nori 50-85%']
+Solca: 30 \ joi \ 29:7:2021 \ 19:23:57
+[' Răsarit = 05:49:52 Apus = 20:56:03 Min (°C) = 17.95 Max (°C) =32.07 Presiune = 1011 Umiditate (%) = 87 Index UV = 0.36 Viteza vântului = 2.86 Unghiul vântului = 336 Stare = nori 50-85%']
+Solca: 30 \ vineri \ 30:7:2021 \ 19:22:14
+[' Răsarit = 05:51:08 Apus = 20:54:44 Min (°C) = 16.45 Max (°C) =28.28 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.52 Viteza vântului = 2.08 Unghiul vântului = 61 Stare = nori 25-50%']
+Solca: 30 \ sâmbătă \ 31:7:2021 \ 19:21:53
+[' Răsarit = 05:52:24 Apus = 20:53:24 Min (°C) = 15.6 Max (°C) =28.95 Presiune = 1009 Umiditate (%) = 61 Index UV = 0.56 Viteza vântului = 2.07 Unghiul vântului = 106 Stare = nori 10-25%']
+Solca: 30 \ duminică \ 01:8:2021 \ 19:22:40
+[' Răsarit = 05:53:41 Apus = 20:52:02 Min (°C) = 15.7 Max (°C) =29.4 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.55 Viteza vântului = 3.58 Unghiul vântului = 136 Stare = cer senin']
+Solca: 31 \ luni \ 02:8:2021 \ 19:21:40
+[' Răsarit = 05:54:58 Apus = 20:50:38 Min (°C) = 16.46 Max (°C) =29.91 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.51 Viteza vântului = 3.27 Unghiul vântului = 11 Stare = nori 25-50%']
+Solca: 31 \ marți \ 03:8:2021 \ 19:22:23
+[' Răsarit = 05:56:16 Apus = 20:49:13 Min (°C) = 13.27 Max (°C) =22.52 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.42 Viteza vântului = 1.15 Unghiul vântului = 95 Stare = nori 50-85%']
+Solca: 31 \ miercuri \ 04:8:2021 \ 19:19:45
+[' Răsarit = 05:57:34 Apus = 20:47:46 Min (°C) = 14.15 Max (°C) =26.69 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.43 Viteza vântului = 1.05 Unghiul vântului = 149 Stare = nori 50-85%']
+Solca: 31 \ joi \ 05:8:2021 \ 19:18:47
+[' Răsarit = 05:58:53 Apus = 20:46:17 Min (°C) = 15.77 Max (°C) =29.2 Presiune = 1006 Umiditate (%) = 80 Index UV = 0.33 Viteza vântului = 8.25 Unghiul vântului = 254 Stare = nori 50-85%']
+Solca: 31 \ vineri \ 06:8:2021 \ 19:22:11
+[' Răsarit = 06:00:12 Apus = 20:44:47 Min (°C) = 15.34 Max (°C) =25.57 Presiune = 1005 Umiditate (%) = 60 Index UV = 0.27 Viteza vântului = 4.84 Unghiul vântului = 283 Stare = nori 50-85%']
+Solca: 31 \ sâmbătă \ 07:8:2021 \ 19:21:53
+[' Răsarit = 06:01:31 Apus = 20:43:15 Min (°C) = 11.36 Max (°C) =25.26 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.46 Viteza vântului = 1.64 Unghiul vântului = 49 Stare = nori 50-85%']
+Solca: 31 \ duminică \ 08:8:2021 \ 19:21:38
+[' Răsarit = 06:02:51 Apus = 20:41:42 Min (°C) = 13.38 Max (°C) =28.74 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.45 Viteza vântului = 2.21 Unghiul vântului = 114 Stare = cer senin']
+Solca: 32 \ luni \ 09:8:2021 \ 19:23:06
+[' Răsarit = 06:04:11 Apus = 20:40:07 Min (°C) = 17.49 Max (°C) =28.89 Presiune = 1019 Umiditate (%) = 68 Index UV = 0.43 Viteza vântului = 1.52 Unghiul vântului = 253 Stare = nori 85-100%']
+Solca: 32 \ marți \ 10:8:2021 \ 19:23:17
+[' Răsarit = 06:05:31 Apus = 20:38:31 Min (°C) = 15.52 Max (°C) =25.88 Presiune = 1018 Umiditate (%) = 58 Index UV = 0.42 Viteza vântului = 2.23 Unghiul vântului = 32 Stare = nori 50-85%']
+Solca: 32 \ miercuri \ 11:8:2021 \ 19:18:30
+[' Răsarit = 06:06:51 Apus = 20:36:54 Min (°C) = 15 Max (°C) =27.71 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.42 Viteza vântului = 4.26 Unghiul vântului = 343 Stare = nori 50-85%']
+Solca: 32 \ joi \ 12:8:2021 \ 19:20:09
+[' Răsarit = 06:08:12 Apus = 20:35:15 Min (°C) = 14.28 Max (°C) =22.28 Presiune = 1022 Umiditate (%) = 56 Index UV = 0.29 Viteza vântului = 2.6 Unghiul vântului = 345 Stare = nori 50-85%']
+Solca: 32 \ vineri \ 13:8:2021 \ 19:18:37
+[' Răsarit = 06:09:33 Apus = 20:33:34 Min (°C) = 12.39 Max (°C) =24.85 Presiune = 1023 Umiditate (%) = 47 Index UV = 0.37 Viteza vântului = 2.8 Unghiul vântului = 50 Stare = nori 50-85%']
+Solca: 32 \ sâmbătă \ 14:8:2021 \ 19:20:45
+[' Răsarit = 06:10:53 Apus = 20:31:53 Min (°C) = 13.15 Max (°C) =28.36 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.37 Viteza vântului = 1.67 Unghiul vântului = 50 Stare = nori 25-50%']
+Solca: 32 \ duminică \ 15:8:2021 \ 19:19:03
+[' Răsarit = 06:12:14 Apus = 20:30:10 Min (°C) = 15.67 Max (°C) =29.74 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.25 Viteza vântului = 1.46 Unghiul vântului = 24 Stare = nori 10-25%']
+Solca: 33 \ luni \ 16:8:2021 \ 19:18:39
+[' Răsarit = 06:13:35 Apus = 20:28:27 Min (°C) = 17.73 Max (°C) =32.09 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.19 Viteza vântului = 2.13 Unghiul vântului = 156 Stare = nori 50-85%']
+Solca: 33 \ marți \ 17:8:2021 \ 19:19:08
+[' Răsarit = 06:14:56 Apus = 20:26:41 Min (°C) = 17.73 Max (°C) =33.72 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.33 Viteza vântului = 4.5 Unghiul vântului = 320 Stare = nori 50-85%']
+Solca: 33 \ miercuri \ 18:8:2021 \ 19:18:54
+[' Răsarit = 06:16:18 Apus = 20:24:55 Min (°C) = 12.91 Max (°C) =16.35 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.12 Viteza vântului = 0.31 Unghiul vântului = 72 Stare = ploaie ușoară']
+Solca: 33 \ joi \ 19:8:2021 \ 19:18:37
+[' Răsarit = 06:17:39 Apus = 20:23:08 Min (°C) = 12.35 Max (°C) =22.92 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.33 Viteza vântului = 1.15 Unghiul vântului = 33 Stare = nori 10-25%']
+Solca: 33 \ vineri \ 20:8:2021 \ 19:18:46
+[' Răsarit = 06:19:00 Apus = 20:21:20 Min (°C) = 11.3 Max (°C) =24.05 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.32 Viteza vântului = 1.49 Unghiul vântului = 48 Stare = cer senin']
+Solca: 33 \ sâmbătă \ 21:8:2021 \ 19:20:06
+[' Răsarit = 06:20:21 Apus = 20:19:30 Min (°C) = 12.32 Max (°C) =24.57 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.28 Viteza vântului = 1.18 Unghiul vântului = 345 Stare = nori 50-85%']
+Solca: 33 \ duminică \ 22:8:2021 \ 19:18:59
+[' Răsarit = 06:21:42 Apus = 20:17:40 Min (°C) = 13.49 Max (°C) =23.95 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.2 Viteza vântului = 1.37 Unghiul vântului = 338 Stare = nori 85-100%']
+Solca: 34 \ luni \ 23:8:2021 \ 19:18:49
+[' Răsarit = 06:23:03 Apus = 20:15:49 Min (°C) = 14.07 Max (°C) =26.45 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.09 Viteza vântului = 2.41 Unghiul vântului = 160 Stare = nori 50-85%']
+Solca: 34 \ marți \ 24:8:2021 \ 19:18:52
+[' Răsarit = 06:24:24 Apus = 20:13:56 Min (°C) = 16.33 Max (°C) =26.7 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.22 Viteza vântului = 0.66 Unghiul vântului = 173 Stare = nori 85-100%']
+Solca: 34 \ miercuri \ 25:8:2021 \ 19:18:54
+[' Răsarit = 06:25:45 Apus = 20:12:03 Min (°C) = 12.06 Max (°C) =15.96 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.07 Viteza vântului = 2.22 Unghiul vântului = 334 Stare = ploaie ușoară']
+Solca: 34 \ joi \ 26:8:2021 \ 19:20:31
+[' Răsarit = 06:27:06 Apus = 20:10:09 Min (°C) = 11.03 Max (°C) =20.84 Presiune = 1010 Umiditate (%) = 70 Index UV = 0.19 Viteza vântului = 1.36 Unghiul vântului = 48 Stare = nori 50-85%']
+Solca: 34 \ vineri \ 27:8:2021 \ 19:22:54
+[' Răsarit = 06:28:27 Apus = 20:08:14 Min (°C) = 9.66 Max (°C) =22.62 Presiune = 1010 Umiditate (%) = 95 Index UV = 0.04 Viteza vântului = 2.29 Unghiul vântului = 331 Stare = nori 85-100%']
+Solca: 34 \ sâmbătă \ 28:8:2021 \ 19:24:18
+[' Răsarit = 06:29:48 Apus = 20:06:19 Min (°C) = 9.28 Max (°C) =21.14 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.04 Viteza vântului = 3.5 Unghiul vântului = 114 Stare = nori 50-85%']
+Solca: 34 \ duminică \ 29:8:2021 \ 19:23:25
+[' Răsarit = 06:31:09 Apus = 20:04:23 Min (°C) = 12.26 Max (°C) =18.44 Presiune = 1009 Umiditate (%) = 82 Index UV = 0.18 Viteza vântului = 1.45 Unghiul vântului = 21 Stare = nori 25-50%']
+Solca: 35 \ luni \ 30:8:2021 \ 19:23:27
+[' Răsarit = 06:32:29 Apus = 20:02:25 Min (°C) = 13.47 Max (°C) =23.29 Presiune = 1010 Umiditate (%) = 50 Index UV = 0.08 Viteza vântului = 3.92 Unghiul vântului = 258 Stare = nori 10-25%']
+Solca: 35 \ marți \ 31:8:2021 \ 19:23:34
+[' Răsarit = 06:33:50 Apus = 20:00:28 Min (°C) = 9.75 Max (°C) =20.6 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.19 Viteza vântului = 2.76 Unghiul vântului = 239 Stare = nori 50-85%']
+Solca: 35 \ miercuri \ 01:9:2021 \ 19:22:55
+[' Răsarit = 06:35:10 Apus = 19:58:29 Min (°C) = 12.65 Max (°C) =15.99 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.16 Viteza vântului = 4.86 Unghiul vântului = 316 Stare = nori 50-85%']
+Solca: 35 \ joi \ 02:9:2021 \ 19:27:28
+[' Răsarit = 06:36:31 Apus = 19:56:30 Min (°C) = 10.61 Max (°C) =15.99 Presiune = 1021 Umiditate (%) = 67 Index UV = 0.18 Viteza vântului = 5.14 Unghiul vântului = 334 Stare = nori 10-25%']
+Solca: 35 \ vineri \ 03:9:2021 \ 19:22:04
+[' Răsarit = 06:37:51 Apus = 19:54:30 Min (°C) = 7.9 Max (°C) =20.54 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.18 Viteza vântului = 0.78 Unghiul vântului = 31 Stare = nori 50-85%']
+Solca: 35 \ sâmbătă \ 04:9:2021 \ 19:21:14
+[' Răsarit = 06:39:11 Apus = 19:52:30 Min (°C) = 9.51 Max (°C) =21.6 Presiune = 1017 Umiditate (%) = 73 Index UV = 0.17 Viteza vântului = 2.64 Unghiul vântului = 18 Stare = nori 85-100%']
+Solca: 35 \ duminică \ 05:9:2021 \ 19:22:48
+[' Răsarit = 06:40:32 Apus = 19:50:29 Min (°C) = 9.38 Max (°C) =15.41 Presiune = 1024 Umiditate (%) = 55 Index UV = 0.15 Viteza vântului = 1.85 Unghiul vântului = 17 Stare = nori 85-100%']
+Solca: 36 \ luni \ 06:9:2021 \ 19:23:53
+[' Răsarit = 06:41:52 Apus = 19:48:28 Min (°C) = 5.22 Max (°C) =18.01 Presiune = 1025 Umiditate (%) = 51 Index UV = 0.15 Viteza vântului = 2.49 Unghiul vântului = 86 Stare = nori 10-25%']
+Solca: 36 \ marți \ 07:9:2021 \ 19:24:16
+[' Răsarit = 06:43:12 Apus = 19:46:26 Min (°C) = 6.78 Max (°C) =22.34 Presiune = 1024 Umiditate (%) = 51 Index UV = 0.13 Viteza vântului = 2.88 Unghiul vântului = 120 Stare = cer senin']
+Solca: 36 \ miercuri \ 08:9:2021 \ 19:23:15
+[' Răsarit = 06:44:32 Apus = 19:44:24 Min (°C) = 9.13 Max (°C) =21.5 Presiune = 1024 Umiditate (%) = 56 Index UV = 0.14 Viteza vântului = 2.67 Unghiul vântului = 116 Stare = cer senin']
+Solca: 36 \ joi \ 09:9:2021 \ 19:25:03
+[' Răsarit = 06:45:52 Apus = 19:42:22 Min (°C) = 9.28 Max (°C) =22.99 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.13 Viteza vântului = 2.59 Unghiul vântului = 130 Stare = cer senin']
+Solca: 36 \ vineri \ 10:9:2021 \ 19:25:14
+[' Răsarit = 06:47:12 Apus = 19:40:19 Min (°C) = 9.93 Max (°C) =22.9 Presiune = 1018 Umiditate (%) = 41 Index UV = 0.11 Viteza vântului = 1.3 Unghiul vântului = 71 Stare = nori 85-100%']
+Solca: 36 \ sâmbătă \ 11:9:2021 \ 19:22:20
+[' Răsarit = 06:48:32 Apus = 19:38:16 Min (°C) = 10.97 Max (°C) =24.27 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.09 Viteza vântului = 1.7 Unghiul vântului = 77 Stare = nori 85-100%']
+Solca: 36 \ duminică \ 12:9:2021 \ 19:22:52
+[' Răsarit = 06:49:52 Apus = 19:36:12 Min (°C) = 11.82 Max (°C) =23.73 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.09 Viteza vântului = 1.1 Unghiul vântului = 48 Stare = nori 85-100%']
+Solca: 37 \ luni \ 13:9:2021 \ 19:23:24
+[' Răsarit = 06:51:12 Apus = 19:34:08 Min (°C) = 12.37 Max (°C) =24.48 Presiune = 1014 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 31 Stare = nori 10-25%']
+Solca: 37 \ marți \ 14:9:2021 \ 19:24:48
+[' Răsarit = 06:52:32 Apus = 19:32:04 Min (°C) = 12.37 Max (°C) =20.52 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 347 Stare = nori 85-100%']
+Solca: 37 \ joi \ 16:9:2021 \ 19:22:57
+[' Răsarit = 06:55:12 Apus = 19:27:56 Min (°C) = 12.22 Max (°C) =25.49 Presiune = 1015 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 169 Stare = nori 85-100%']
+Solca: 37 \ vineri \ 17:9:2021 \ 19:24:49
+[' Răsarit = 06:56:33 Apus = 19:25:51 Min (°C) = 15.99 Max (°C) =23.51 Presiune = 1007 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 159 Stare = nori 50-85%']
+Solca: 37 \ sâmbătă \ 18:9:2021 \ 19:24:51
+[' Răsarit = 06:57:53 Apus = 19:23:46 Min (°C) = 12.24 Max (°C) =17.92 Presiune = 1010 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 347 Stare = nori 50-85%']
+Solca: 37 \ duminică \ 19:9:2021 \ 19:23:44
+[' Răsarit = 06:59:13 Apus = 19:21:42 Min (°C) = 7.6 Max (°C) =12.95 Presiune = 1012 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 42 Stare = nori 85-100%']
+Solca: 38 \ luni \ 20:9:2021 \ 19:24:21
+[' Răsarit = 07:00:34 Apus = 19:19:37 Min (°C) = 6.34 Max (°C) =10.25 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 346 Stare = nori 85-100%']
+Solca: 38 \ marți \ 21:9:2021 \ 19:22:46
+[' Răsarit = 07:01:54 Apus = 19:17:32 Min (°C) = 4.8 Max (°C) =14.14 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 339 Stare = nori 25-50%']
+Solca: 38 \ miercuri \ 22:9:2021 \ 19:23:54
+[' Răsarit = 07:03:15 Apus = 19:15:28 Min (°C) = 4.74 Max (°C) =10.57 Presiune = 1019 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 334 Stare = nori 85-100%']
+Solca: 38 \ joi \ 23:9:2021 \ 19:21:59
+[' Răsarit = 07:04:36 Apus = 19:13:23 Min (°C) = 5.32 Max (°C) =11.64 Presiune = 1017 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 256 Stare = nori 85-100%']
+Solca: 39 \ luni \ 27:9:2021 \ 19:21:39
+[' Răsarit = 07:10:00 Apus = 19:05:06 Min (°C) = 11.08 Max (°C) =16.4 Presiune = 1020 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 81 Stare = nori 50-85%']
+Solca: 39 \ marți \ 28:9:2021 \ 19:24:46
+[' Răsarit = 07:11:22 Apus = 19:03:02 Min (°C) = 6.54 Max (°C) =13.25 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 119 Stare = nori 85-100%']
+Solca: 39 \ miercuri \ 29:9:2021 \ 19:25:34
+[' Răsarit = 07:12:44 Apus = 19:00:59 Min (°C) = 5.78 Max (°C) =14.11 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 145 Stare = nori 10-25%']
+Solca: 39 \ joi \ 30:9:2021 \ 19:22:34
+[' Răsarit = 07:14:06 Apus = 18:58:56 Min (°C) = 4.16 Max (°C) =16.21 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 133 Stare = nori 25-50%']
+Solca: 39 \ vineri \ 01:10:2021 \ 19:24:14
+[' Răsarit = 07:15:29 Apus = 18:56:53 Min (°C) = 4.78 Max (°C) =14.84 Presiune = 1028 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 133 Stare = nori 85-100%']
+Solca: 39 \ sâmbătă \ 02:10:2021 \ 19:22:58
+[' Răsarit = 07:16:51 Apus = 18:54:50 Min (°C) = 4.28 Max (°C) =15.73 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 131 Stare = cer senin']
+Solca: 39 \ duminică \ 03:10:2021 \ 19:22:03
+[' Răsarit = 07:18:14 Apus = 18:52:48 Min (°C) = 4.66 Max (°C) =16.96 Presiune = 1024 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 141 Stare = cer senin']
+Solca: 40 \ luni \ 04:10:2021 \ 19:27:11
+[' Răsarit = 07:19:37 Apus = 18:50:47 Min (°C) = 5.63 Max (°C) =17.65 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 130 Stare = nori 50-85%']
+Solca: 40 \ marți \ 05:10:2021 \ 19:24:33
+[' Răsarit = 07:21:01 Apus = 18:48:46 Min (°C) = 5.1 Max (°C) =15.95 Presiune = 1026 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 5.18 Unghiul vântului = 139 Stare = cer senin']
+Solca: 40 \ miercuri \ 06:10:2021 \ 19:22:12
+[' Răsarit = 07:22:25 Apus = 18:46:45 Min (°C) = 3.02 Max (°C) =13.77 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.33 Unghiul vântului = 139 Stare = nori 10-25%']
+Solca: 40 \ joi \ 07:10:2021 \ 19:24:39
+[' Răsarit = 07:23:49 Apus = 18:44:45 Min (°C) = 1.97 Max (°C) =9.98 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 111 Stare = nori 85-100%']
+Solca: 40 \ vineri \ 08:10:2021 \ 19:24:12
+[' Răsarit = 07:25:13 Apus = 18:42:46 Min (°C) = -0.48 Max (°C) =9.8 Presiune = 1032 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 36 Stare = nori 25-50%']
+Solca: 40 \ sâmbătă \ 09:10:2021 \ 19:22:10
+[' Răsarit = 07:26:38 Apus = 18:40:47 Min (°C) = -0.4 Max (°C) =9.13 Presiune = 1032 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 33 Stare = nori 50-85%']
+Solca: 40 \ duminică \ 10:10:2021 \ 19:23:25
+[' Răsarit = 07:28:03 Apus = 18:38:49 Min (°C) = 0.15 Max (°C) =11.03 Presiune = 1029 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 134 Stare = nori 25-50%']
+Solca: 41 \ luni \ 11:10:2021 \ 19:23:36
+[' Răsarit = 07:29:29 Apus = 18:36:52 Min (°C) = 1.93 Max (°C) =14.22 Presiune = 1018 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 139 Stare = nori 85-100%']
+Solca: 41 \ marți \ 12:10:2021 \ 19:23:37
+[' Răsarit = 07:30:55 Apus = 18:34:55 Min (°C) = 4.42 Max (°C) =7.79 Presiune = 1014 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 287 Stare = nori 85-100%']
+Solca: 41 \ miercuri \ 13:10:2021 \ 19:23:31
+[' Răsarit = 07:32:21 Apus = 18:32:59 Min (°C) = 2.65 Max (°C) =10.99 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 337 Stare = nori 85-100%']
+Solca: 41 \ joi \ 14:10:2021 \ 19:23:21
+[' Răsarit = 07:33:48 Apus = 18:31:04 Min (°C) = 4.7 Max (°C) =9.87 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 155 Stare = nori 85-100%']
+Solca: 41 \ vineri \ 15:10:2021 \ 19:21:48
+[' Răsarit = 07:35:15 Apus = 18:29:09 Min (°C) = 1.35 Max (°C) =13.63 Presiune = 1019 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 137 Stare = nori 25-50%']
+Solca: 41 \ sâmbătă \ 16:10:2021 \ 19:22:17
+[' Răsarit = 07:36:42 Apus = 18:27:16 Min (°C) = 7.3 Max (°C) =8.83 Presiune = 1020 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 291 Stare = nori 85-100%']
+Solca: 41 \ duminică \ 17:10:2021 \ 19:21:30
+[' Răsarit = 07:38:09 Apus = 18:25:24 Min (°C) = 3.93 Max (°C) =12.27 Presiune = 1021 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 29 Stare = nori 85-100%']
+Solca: 42 \ luni \ 18:10:2021 \ 19:21:40
+[' Răsarit = 07:39:38 Apus = 18:23:32 Min (°C) = 2.34 Max (°C) =11.96 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 346 Stare = nori 85-100%']
+Solca: 42 \ marți \ 19:10:2021 \ 19:23:25
+[' Răsarit = 07:41:06 Apus = 18:21:42 Min (°C) = 4.12 Max (°C) =10.66 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 165 Stare = nori 85-100%']
+Solca: 42 \ miercuri \ 20:10:2021 \ 19:21:05
+[' Răsarit = 07:42:35 Apus = 18:19:52 Min (°C) = 4.68 Max (°C) =17.08 Presiune = 1020 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 226 Stare = nori 50-85%']
+Solca: 42 \ joi \ 21:10:2021 \ 19:23:10
+[' Răsarit = 07:44:04 Apus = 18:18:04 Min (°C) = 7.79 Max (°C) =19.47 Presiune = 1011 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 5.43 Unghiul vântului = 232 Stare = nori 85-100%']
+Solca: 42 \ vineri \ 22:10:2021 \ 19:19:23
+[' Răsarit = 07:45:33 Apus = 18:16:16 Min (°C) = 9.92 Max (°C) =17 Presiune = 1016 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 3.98 Unghiul vântului = 231 Stare = nori 85-100%']
+Solca: 42 \ sâmbătă \ 23:10:2021 \ 19:21:21
+[' Răsarit = 07:47:03 Apus = 18:14:30 Min (°C) = 5.27 Max (°C) =12.6 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 343 Stare = nori 85-100%']
+Solca: 42 \ duminică \ 24:10:2021 \ 19:21:11
+[' Răsarit = 07:48:33 Apus = 18:12:45 Min (°C) = 1.1 Max (°C) =8.63 Presiune = 1034 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 335 Stare = cer senin']
+Solca: 43 \ luni \ 25:10:2021 \ 19:20:31
+[' Răsarit = 07:50:03 Apus = 18:11:01 Min (°C) = -0.37 Max (°C) =10.11 Presiune = 1030 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 152 Stare = cer senin']
+Solca: 43 \ marți \ 26:10:2021 \ 19:19:41
+[' Răsarit = 07:51:34 Apus = 18:09:18 Min (°C) = 1.52 Max (°C) =13.76 Presiune = 1023 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 166 Stare = cer senin']
+Solca: 43 \ miercuri \ 27:10:2021 \ 19:22:33
+[' Răsarit = 07:53:05 Apus = 18:07:37 Min (°C) = 3.16 Max (°C) =13.75 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 316 Stare = nori 50-85%']
+Solca: 43 \ joi \ 28:10:2021 \ 19:20:06
+[' Răsarit = 07:54:36 Apus = 18:05:57 Min (°C) = 4.43 Max (°C) =15.22 Presiune = 1027 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 218 Stare = nori 25-50%']
+Solca: 43 \ vineri \ 29:10:2021 \ 19:20:40
+[' Răsarit = 07:56:07 Apus = 18:04:19 Min (°C) = 5.68 Max (°C) =15.46 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 146 Stare = nori 50-85%']
+Solca: 43 \ sâmbătă \ 30:10:2021 \ 19:20:20
+[' Răsarit = 07:57:39 Apus = 18:02:41 Min (°C) = 4.21 Max (°C) =16.1 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 149 Stare = cer senin']
+Solca: 43 \ duminică \ 31:10:2021 \ 19:20:15
+[' Răsarit = 06:59:11 Apus = 17:01:06 Min (°C) = 3.19 Max (°C) =14.29 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 155 Stare = cer senin']
+Solca: 44 \ luni \ 01:11:2021 \ 19:20:35
+[' Răsarit = 07:00:43 Apus = 16:59:31 Min (°C) = 0.9 Max (°C) =14.35 Presiune = 1012 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 198 Stare = cer senin']
+Solca: 44 \ marți \ 02:11:2021 \ 19:20:50
+[' Răsarit = 07:02:15 Apus = 16:57:59 Min (°C) = 1.49 Max (°C) =11.96 Presiune = 1004 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 185 Stare = nori 85-100%']
+Solca: 44 \ miercuri \ 03:11:2021 \ 19:20:24
+[' Răsarit = 07:03:47 Apus = 16:56:27 Min (°C) = 5.59 Max (°C) =14.2 Presiune = 1016 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 222 Stare = nori 25-50%']
+Solca: 44 \ joi \ 04:11:2021 \ 19:18:27
+[' Răsarit = 07:05:19 Apus = 16:54:58 Min (°C) = 7.48 Max (°C) =20.67 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 215 Stare = nori 85-100%']
+Solca: 44 \ vineri \ 05:11:2021 \ 19:25:05
+[' Răsarit = 07:06:51 Apus = 16:53:30 Min (°C) = 10.82 Max (°C) =20.05 Presiune = 1019 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 317 Stare = nori 50-85%']
+Solca: 44 \ sâmbătă \ 06:11:2021 \ 19:22:32
+[' Răsarit = 07:08:24 Apus = 16:52:04 Min (°C) = 5.6 Max (°C) =10.09 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 189 Stare = nori 85-100%']
+Solca: 44 \ duminică \ 07:11:2021 \ 19:22:28
+[' Răsarit = 07:09:56 Apus = 16:50:39 Min (°C) = 4.27 Max (°C) =13.95 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 217 Stare = nori 85-100%']
+Solca: 45 \ luni \ 08:11:2021 \ 19:22:06
+[' Răsarit = 07:11:28 Apus = 16:49:17 Min (°C) = 5.53 Max (°C) =10.54 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 281 Stare = nori 85-100%']
+Solca: 45 \ marți \ 09:11:2021 \ 19:17:04
+[' Răsarit = 07:13:00 Apus = 16:47:56 Min (°C) = 2.92 Max (°C) =8.56 Presiune = 1034 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 347 Stare = nori 85-100%']
+Solca: 45 \ miercuri \ 10:11:2021 \ 19:22:07
+[' Răsarit = 07:14:32 Apus = 16:46:37 Min (°C) = -0.1 Max (°C) =9.14 Presiune = 1034 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 173 Stare = cer senin']
+Solca: 45 \ joi \ 11:11:2021 \ 19:22:42
+[' Răsarit = 07:16:04 Apus = 16:45:20 Min (°C) = 2.59 Max (°C) =12.61 Presiune = 1024 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 222 Stare = nori 50-85%']
+Solca: 45 \ vineri \ 12:11:2021 \ 19:21:53
+[' Răsarit = 07:17:35 Apus = 16:44:04 Min (°C) = 4.05 Max (°C) =11.94 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.13 Unghiul vântului = 269 Stare = cer senin']
+Solca: 45 \ sâmbătă \ 13:11:2021 \ 19:21:49
+[' Răsarit = 07:19:06 Apus = 16:42:51 Min (°C) = 3.02 Max (°C) =10.85 Presiune = 1021 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 164 Stare = nori 50-85%']
+Solca: 45 \ duminică \ 14:11:2021 \ 19:24:26
+[' Răsarit = 07:20:37 Apus = 16:41:40 Min (°C) = 3.35 Max (°C) =9.3 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 299 Stare = nori 25-50%']
+Solca: 46 \ luni \ 15:11:2021 \ 19:23:11
+[' Răsarit = 07:22:07 Apus = 16:40:31 Min (°C) = 2.58 Max (°C) =7.92 Presiune = 1032 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 120 Stare = nori 85-100%']
+Solca: 46 \ marți \ 16:11:2021 \ 19:22:58
+[' Răsarit = 07:23:37 Apus = 16:39:24 Min (°C) = 1.3 Max (°C) =7.42 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 147 Stare = cer senin']
+Solca: 46 \ miercuri \ 17:11:2021 \ 19:22:35
+[' Răsarit = 07:25:06 Apus = 16:38:19 Min (°C) = -1 Max (°C) =7.2 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 181 Stare = cer senin']
+Solca: 46 \ joi \ 18:11:2021 \ 19:19:06
+[' Răsarit = 07:26:35 Apus = 16:37:16 Min (°C) = 0.12 Max (°C) =7.41 Presiune = 1026 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 328 Stare = nori 85-100%']
+Solca: 46 \ vineri \ 19:11:2021 \ 19:19:21
+[' Răsarit = 07:28:03 Apus = 16:36:16 Min (°C) = 1.99 Max (°C) =6.87 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 252 Stare = nori 85-100%']
+Solca: 46 \ sâmbătă \ 20:11:2021 \ 19:19:03
+[' Răsarit = 07:29:30 Apus = 16:35:17 Min (°C) = 3.61 Max (°C) =10.82 Presiune = 1019 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 242 Stare = cer senin']
+Solca: 46 \ duminică \ 21:11:2021 \ 19:18:47
+[' Răsarit = 07:30:56 Apus = 16:34:22 Min (°C) = 1.65 Max (°C) =11.03 Presiune = 1011 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 240 Stare = nori 10-25%']
+Solca: 47 \ luni \ 22:11:2021 \ 19:19:14
+[' Răsarit = 07:32:22 Apus = 16:33:28 Min (°C) = 1.76 Max (°C) =7.11 Presiune = 1017 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.27 Unghiul vântului = 28 Stare = nori 85-100%']
+Solca: 47 \ marți \ 23:11:2021 \ 19:19:06
+[' Răsarit = 07:33:47 Apus = 16:32:37 Min (°C) = 0.51 Max (°C) =4.45 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 256 Stare = nori 25-50%']
+Solca: 47 \ miercuri \ 24:11:2021 \ 19:21:20
+[' Răsarit = 07:35:10 Apus = 16:31:48 Min (°C) = -0.74 Max (°C) =5.09 Presiune = 1026 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 195 Stare = nori 10-25%']
+Solca: 47 \ joi \ 25:11:2021 \ 19:18:46
+[' Răsarit = 07:36:33 Apus = 16:31:02 Min (°C) = -1.42 Max (°C) =7.46 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 219 Stare = cer senin']
+Solca: 47 \ vineri \ 26:11:2021 \ 19:18:50
+[' Răsarit = 07:37:54 Apus = 16:30:18 Min (°C) = 0.86 Max (°C) =9.35 Presiune = 998 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 160 Stare = nori 85-100%']
+Solca: 47 \ sâmbătă \ 27:11:2021 \ 19:18:50
+[' Răsarit = 07:39:15 Apus = 16:29:37 Min (°C) = 3.93 Max (°C) =9.4 Presiune = 1002 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 227 Stare = nori 50-85%']
+Solca: 47 \ duminică \ 28:11:2021 \ 19:19:24
+[' Răsarit = 07:40:34 Apus = 16:28:58 Min (°C) = 3.36 Max (°C) =12.33 Presiune = 998 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 212 Stare = nori 85-100%']
+Solca: 48 \ luni \ 29:11:2021 \ 19:21:25
+[' Răsarit = 07:41:52 Apus = 16:28:22 Min (°C) = -0.04 Max (°C) =8.45 Presiune = 996 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.91 Unghiul vântului = 277 Stare = nori 85-100%']
+Solca: 48 \ marți \ 30:11:2021 \ 19:19:33
+[' Răsarit = 07:43:08 Apus = 16:27:49 Min (°C) = -0.97 Max (°C) =4.16 Presiune = 1004 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 5.5 Unghiul vântului = 233 Stare = nori 25-50%']
+Solca: 48 \ miercuri \ 01:12:2021 \ 19:19:49
+[' Răsarit = 07:44:23 Apus = 16:27:18 Min (°C) = 0.72 Max (°C) =5.37 Presiune = 1007 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 201 Stare = nori 50-85%']
+Solca: 48 \ joi \ 02:12:2021 \ 19:19:08
+[' Răsarit = 07:45:36 Apus = 16:26:50 Min (°C) = 1.12 Max (°C) =7.63 Presiune = 1003 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 220 Stare = nori 85-100%']
+Solca: 48 \ vineri \ 03:12:2021 \ 19:19:15
+[' Răsarit = 07:46:48 Apus = 16:26:25 Min (°C) = -2.95 Max (°C) =5.42 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 322 Stare = nori 85-100%']
+Solca: 48 \ sâmbătă \ 04:12:2021 \ 19:19:47
+[' Răsarit = 07:47:58 Apus = 16:26:03 Min (°C) = -6.36 Max (°C) =2.61 Presiune = 1011 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 209 Stare = nori 25-50%']
+Solca: 48 \ duminică \ 05:12:2021 \ 19:19:30
+[' Răsarit = 07:49:06 Apus = 16:25:43 Min (°C) = -4.14 Max (°C) =3.42 Presiune = 1010 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 222 Stare = nori 85-100%']
+Solca: 49 \ luni \ 06:12:2021 \ 19:19:24
+[' Răsarit = 07:50:12 Apus = 16:25:26 Min (°C) = -2.82 Max (°C) =3.7 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 268 Stare = nori 50-85%']
+Solca: 49 \ marți \ 07:12:2021 \ 19:19:22
+[' Răsarit = 07:51:17 Apus = 16:25:12 Min (°C) = -1.6 Max (°C) =0.48 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 315 Stare = zăpadă slabă']
+Solca: 49 \ miercuri \ 08:12:2021 \ 19:19:21
+[' Răsarit = 07:52:19 Apus = 16:25:01 Min (°C) = -3.71 Max (°C) =-0.19 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 312 Stare = nori 85-100%']
+Solca: 49 \ joi \ 09:12:2021 \ 19:19:26
+[' Răsarit = 07:53:20 Apus = 16:24:52 Min (°C) = -4.08 Max (°C) =2.39 Presiune = 1012 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 145 Stare = nori 85-100%']
+Solca: 49 \ vineri \ 10:12:2021 \ 19:22:09
+[' Răsarit = 07:54:18 Apus = 16:24:47 Min (°C) = -3.7 Max (°C) =4.27 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 291 Stare = nori 85-100%']
+Solca: 49 \ sâmbătă \ 11:12:2021 \ 19:21:40
+[' Răsarit = 07:55:14 Apus = 16:24:44 Min (°C) = 0.47 Max (°C) =7.76 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 31 Stare = nori 85-100%']
+Solca: 49 \ duminică \ 12:12:2021 \ 19:22:03
+[' Răsarit = 07:56:08 Apus = 16:24:44 Min (°C) = 1.62 Max (°C) =2.87 Presiune = 1017 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 306 Stare = ploaie ușoară']
+Solca: 50 \ luni \ 13:12:2021 \ 19:22:37
+[' Răsarit = 07:57:00 Apus = 16:24:47 Min (°C) = -2.02 Max (°C) =2.24 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 332 Stare = nori 50-85%']
+Solca: 50 \ marți \ 14:12:2021 \ 19:24:11
+[' Răsarit = 07:57:49 Apus = 16:24:53 Min (°C) = -5.12 Max (°C) =1.05 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 335 Stare = nori 85-100%']
+Solca: 50 \ miercuri \ 15:12:2021 \ 19:22:12
+[' Răsarit = 07:58:36 Apus = 16:25:02 Min (°C) = -2.4 Max (°C) =2.07 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 324 Stare = nori 85-100%']
+Solca: 50 \ joi \ 16:12:2021 \ 19:21:37
+[' Răsarit = 07:59:21 Apus = 16:25:14 Min (°C) = -4.12 Max (°C) =3.98 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 267 Stare = nori 85-100%']
+Solca: 50 \ vineri \ 17:12:2021 \ 19:25:54
+[' Răsarit = 08:00:03 Apus = 16:25:29 Min (°C) = -0.14 Max (°C) =3.7 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 318 Stare = zăpadă slabă']
+Solca: 50 \ sâmbătă \ 18:12:2021 \ 19:20:58
+[' Răsarit = 08:00:42 Apus = 16:25:46 Min (°C) = -1.72 Max (°C) =0.16 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 279 Stare = nori 85-100%']
+Solca: 50 \ duminică \ 19:12:2021 \ 19:21:25
+[' Răsarit = 08:01:19 Apus = 16:26:07 Min (°C) = -1.45 Max (°C) =4.25 Presiune = 1009 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 254 Stare = nori 50-85%']
+Solca: 51 \ luni \ 20:12:2021 \ 19:21:53
+[' Răsarit = 08:01:53 Apus = 16:26:30 Min (°C) = -3.61 Max (°C) =0.9 Presiune = 1012 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 282 Stare = nori 85-100%']
+Solca: 51 \ marți \ 21:12:2021 \ 19:24:01
+[' Răsarit = 08:02:25 Apus = 16:26:56 Min (°C) = -10.92 Max (°C) =-4.84 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 317 Stare = nori 50-85%']
+Solca: 51 \ miercuri \ 22:12:2021 \ 19:22:07
+[' Răsarit = 08:02:54 Apus = 16:27:25 Min (°C) = -12.2 Max (°C) =-4.18 Presiune = 1030 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 257 Stare = nori 50-85%']
+Solca: 51 \ joi \ 23:12:2021 \ 19:22:23
+[' Răsarit = 08:03:20 Apus = 16:27:56 Min (°C) = -13.24 Max (°C) =-4.51 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 212 Stare = nori 50-85%']
+Solca: 51 \ vineri \ 24:12:2021 \ 19:22:33
+[' Răsarit = 08:03:44 Apus = 16:28:30 Min (°C) = -6.74 Max (°C) =5.19 Presiune = 1002 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.93 Unghiul vântului = 250 Stare = nori 85-100%']
+Solca: 51 \ sâmbătă \ 25:12:2021 \ 19:22:44
+[' Răsarit = 08:04:05 Apus = 16:29:07 Min (°C) = -4.3 Max (°C) =6.38 Presiune = 1013 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 17 Stare = zăpadă slabă']
+Solca: 51 \ duminică \ 26:12:2021 \ 19:23:55
+[' Răsarit = 08:04:22 Apus = 16:29:47 Min (°C) = -6.36 Max (°C) =-3.99 Presiune = 1019 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 65 Stare = nori 85-100%']
+Solca: 52 \ luni \ 27:12:2021 \ 19:22:07
+[' Răsarit = 08:04:38 Apus = 16:30:29 Min (°C) = -6.67 Max (°C) =-3.08 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 111 Stare = zăpadă slabă']
+Solca: 52 \ marți \ 28:12:2021 \ 19:22:44
+[' Răsarit = 08:04:50 Apus = 16:31:14 Min (°C) = -8.45 Max (°C) =-3.48 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 122 Stare = nori 85-100%']
+Solca: 52 \ miercuri \ 29:12:2021 \ 19:21:54
+[' Răsarit = 08:04:59 Apus = 16:32:01 Min (°C) = -9.09 Max (°C) =-0.46 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 150 Stare = nori 85-100%']
+Solca: 52 \ joi \ 30:12:2021 \ 19:23:00
+[' Răsarit = 08:05:06 Apus = 16:32:51 Min (°C) = -3.65 Max (°C) =2.48 Presiune = 1020 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 230 Stare = nori 85-100%']
+Solca: 52 \ vineri \ 31:12:2021 \ 19:19:15
+[' Răsarit = 08:05:10 Apus = 16:33:43 Min (°C) = 1.09 Max (°C) =6.57 Presiune = 1018 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 243 Stare = nori 85-100%']
+Solca: 00 \ sâmbătă \ 01:1:2022 \ 19:19:58
+[' Răsarit = 08:05:11 Apus = 16:34:38 Min (°C) = 4.19 Max (°C) =7.33 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 295 Stare = nori 85-100%']
+Solca: 00 \ duminică \ 02:1:2022 \ 19:18:45
+[' Răsarit = 08:05:09 Apus = 16:35:35 Min (°C) = 2.16 Max (°C) =6.68 Presiune = 1020 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 221 Stare = nori 50-85%']
+Solca: 01 \ luni \ 03:1:2022 \ 19:18:32
+[' Răsarit = 08:05:04 Apus = 16:36:34 Min (°C) = 3.51 Max (°C) =9.89 Presiune = 1009 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 7.39 Unghiul vântului = 275 Stare = nori 50-85%']
+Solca: 01 \ marți \ 04:1:2022 \ 19:18:37
+[' Răsarit = 08:04:57 Apus = 16:37:35 Min (°C) = 2.42 Max (°C) =8.09 Presiune = 1005 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.15 Unghiul vântului = 217 Stare = nori 85-100%']
+Solca: 01 \ miercuri \ 05:1:2022 \ 19:20:15
+[' Răsarit = 08:04:46 Apus = 16:38:39 Min (°C) = 8.61 Max (°C) =11.62 Presiune = 1000 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 232 Stare = nori 50-85%']
+Solca: 01 \ joi \ 06:1:2022 \ 19:19:02
+[' Răsarit = 08:04:33 Apus = 16:39:44 Min (°C) = -0.6 Max (°C) =8 Presiune = 1012 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 160 Stare = zăpadă slabă']
+Solca: 01 \ vineri \ 07:1:2022 \ 19:20:25
+[' Răsarit = 08:04:17 Apus = 16:40:52 Min (°C) = -4.94 Max (°C) =-0.33 Presiune = 1025 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 153 Stare = nori 10-25%']
+Solca: 01 \ sâmbătă \ 08:1:2022 \ 19:19:44
+[' Răsarit = 08:03:58 Apus = 16:42:01 Min (°C) = -6.5 Max (°C) =1.51 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 156 Stare = nori 85-100%']
+Solca: 01 \ duminică \ 09:1:2022 \ 19:19:14
+[' Răsarit = 08:03:37 Apus = 16:43:12 Min (°C) = -2.25 Max (°C) =3.61 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 331 Stare = nori 50-85%']
+Solca: 02 \ luni \ 10:1:2022 \ 19:19:15
+[' Răsarit = 08:03:12 Apus = 16:44:25 Min (°C) = -3.62 Max (°C) =-0.69 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 339 Stare = nori 85-100%']
+Solca: 02 \ marți \ 11:1:2022 \ 19:20:44
+[' Răsarit = 08:02:46 Apus = 16:45:40 Min (°C) = -6.55 Max (°C) =-3.64 Presiune = 1032 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 323 Stare = nori 85-100%']
+Solca: 02 \ miercuri \ 12:1:2022 \ 19:19:17
+[' Răsarit = 08:02:16 Apus = 16:46:56 Min (°C) = -10.83 Max (°C) =-5.16 Presiune = 1036 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 298 Stare = cer senin']
+Solca: 02 \ joi \ 13:1:2022 \ 19:20:18
+[' Răsarit = 08:01:44 Apus = 16:48:14 Min (°C) = -12.05 Max (°C) =1.68 Presiune = 1029 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 246 Stare = nori 85-100%']
+Solca: 02 \ vineri \ 14:1:2022 \ 19:19:38
+[' Răsarit = 08:01:09 Apus = 16:49:34 Min (°C) = -5.79 Max (°C) =4.38 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 265 Stare = cer senin']
+Solca: 02 \ sâmbătă \ 15:1:2022 \ 19:19:22
+[' Răsarit = 08:00:31 Apus = 16:50:55 Min (°C) = -3.19 Max (°C) =2.58 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.88 Unghiul vântului = 318 Stare = cer senin']
+Solca: 02 \ duminică \ 16:1:2022 \ 19:18:40
+[' Răsarit = 07:59:51 Apus = 16:52:17 Min (°C) = -8.56 Max (°C) =1.77 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 223 Stare = nori 50-85%']
+Solca: 03 \ luni \ 17:1:2022 \ 19:18:47
+[' Răsarit = 07:59:08 Apus = 16:53:41 Min (°C) = -2.68 Max (°C) =3.04 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 8.68 Unghiul vântului = 285 Stare = nori 85-100%']
+Solca: 03 \ marți \ 18:1:2022 \ 19:18:50
+[' Răsarit = 07:58:23 Apus = 16:55:05 Min (°C) = -3.61 Max (°C) =-0.99 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 7.68 Unghiul vântului = 319 Stare = nori 50-85%']
+Solca: 03 \ miercuri \ 19:1:2022 \ 19:19:03
+[' Răsarit = 07:57:36 Apus = 16:56:31 Min (°C) = -6.29 Max (°C) =1.73 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 224 Stare = cer senin']
+Solca: 03 \ joi \ 20:1:2022 \ 19:19:20
+[' Răsarit = 07:56:46 Apus = 16:57:58 Min (°C) = -5.31 Max (°C) =4.01 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 248 Stare = nori 85-100%']
+Solca: 03 \ vineri \ 21:1:2022 \ 19:18:53
+[' Răsarit = 07:55:53 Apus = 16:59:26 Min (°C) = -5.51 Max (°C) =-0.88 Presiune = 1016 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 268 Stare = nori 50-85%']
+Solca: 03 \ sâmbătă \ 22:1:2022 \ 19:21:52
+[' Răsarit = 07:54:58 Apus = 17:00:55 Min (°C) = -6.65 Max (°C) =-1.83 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.11 Unghiul vântului = 325 Stare = snow']
+Solca: 03 \ duminică \ 23:1:2022 \ 19:22:07
+[' Răsarit = 07:54:01 Apus = 17:02:25 Min (°C) = -8.7 Max (°C) =-5.65 Presiune = 1030 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.19 Unghiul vântului = 355 Stare = zăpadă slabă']
+Solca: 04 \ luni \ 24:1:2022 \ 19:22:35
+[' Răsarit = 07:53:02 Apus = 17:03:55 Min (°C) = -11.61 Max (°C) =-5.13 Presiune = 1038 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 285 Stare = nori 25-50%']
+Solca: 04 \ marți \ 25:1:2022 \ 19:22:35
+[' Răsarit = 07:52:00 Apus = 17:05:27 Min (°C) = -12.84 Max (°C) =-1.96 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 245 Stare = zăpadă slabă']
+Solca: 04 \ miercuri \ 26:1:2022 \ 19:22:26
+[' Răsarit = 07:50:57 Apus = 17:06:59 Min (°C) = -5.88 Max (°C) =0.89 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 307 Stare = nori 85-100%']
+Solca: 04 \ joi \ 27:1:2022 \ 19:22:21
+[' Răsarit = 07:49:51 Apus = 17:08:31 Min (°C) = -5.9 Max (°C) =2.64 Presiune = 1018 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 230 Stare = nori 50-85%']
+Solca: 04 \ vineri \ 28:1:2022 \ 19:22:23
+[' Răsarit = 07:48:43 Apus = 17:10:04 Min (°C) = -4.67 Max (°C) =3.65 Presiune = 1013 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.94 Unghiul vântului = 288 Stare = nori 85-100%']
+Solca: 04 \ sâmbătă \ 29:1:2022 \ 19:22:02
+[' Răsarit = 07:47:33 Apus = 17:11:38 Min (°C) = -5.2 Max (°C) =0.54 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 228 Stare = nori 10-25%']
+Solca: 04 \ duminică \ 30:1:2022 \ 19:19:21
+[' Răsarit = 07:46:21 Apus = 17:13:12 Min (°C) = -5.01 Max (°C) =4.59 Presiune = 1002 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 7.4 Unghiul vântului = 276 Stare = nori 50-85%']
+Solca: 05 \ luni \ 31:1:2022 \ 19:19:21
+[' Răsarit = 07:45:07 Apus = 17:14:46 Min (°C) = -2.53 Max (°C) =2.67 Presiune = 1006 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 238 Stare = nori 50-85%']
+Solca: 05 \ marți \ 01:2:2022 \ 19:19:08
+[' Răsarit = 07:43:51 Apus = 17:16:21 Min (°C) = -5.19 Max (°C) =0.72 Presiune = 1011 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 28 Stare = zăpadă slabă']
+Solca: 05 \ miercuri \ 02:2:2022 \ 19:19:21
+[' Răsarit = 07:42:33 Apus = 17:17:56 Min (°C) = -6.66 Max (°C) =2.71 Presiune = 1007 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 240 Stare = nori 50-85%']
+Solca: 05 \ joi \ 03:2:2022 \ 19:19:06
+[' Răsarit = 07:41:13 Apus = 17:19:32 Min (°C) = -6.14 Max (°C) =-0.06 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 290 Stare = nori 10-25%']
+Solca: 05 \ vineri \ 04:2:2022 \ 19:19:22
+[' Răsarit = 07:39:51 Apus = 17:21:07 Min (°C) = -7.04 Max (°C) =3.82 Presiune = 1017 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 236 Stare = nori 85-100%']
+Solca: 05 \ sâmbătă \ 05:2:2022 \ 19:19:07
+[' Răsarit = 07:38:28 Apus = 17:22:43 Min (°C) = -3.98 Max (°C) =7.01 Presiune = 1018 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 329 Stare = snow']
+Solca: 05 \ duminică \ 06:2:2022 \ 19:19:13
+[' Răsarit = 07:37:03 Apus = 17:24:18 Min (°C) = -6.29 Max (°C) =3.48 Presiune = 1013 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.87 Unghiul vântului = 239 Stare = nori 85-100%']
+Solca: 06 \ luni \ 07:2:2022 \ 19:19:15
+[' Răsarit = 07:35:36 Apus = 17:25:54 Min (°C) = 0.18 Max (°C) =5.97 Presiune = 1004 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.9 Unghiul vântului = 319 Stare = zăpadă slabă']
+Solca: 06 \ marți \ 08:2:2022 \ 19:19:04
+[' Răsarit = 07:34:08 Apus = 17:27:30 Min (°C) = -3.46 Max (°C) =1.21 Presiune = 1023 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 287 Stare = nori 50-85%']
+Solca: 06 \ miercuri \ 09:2:2022 \ 19:21:57
+[' Răsarit = 07:32:38 Apus = 17:29:06 Min (°C) = -3.62 Max (°C) =5.2 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 256 Stare = nori 85-100%']
+Solca: 06 \ joi \ 10:2:2022 \ 19:23:19
+[' Răsarit = 07:31:06 Apus = 17:30:41 Min (°C) = -0.88 Max (°C) =8.51 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 237 Stare = nori 10-25%']
+Solca: 06 \ vineri \ 11:2:2022 \ 19:22:06
+[' Răsarit = 07:29:33 Apus = 17:32:17 Min (°C) = -0.01 Max (°C) =8.21 Presiune = 1021 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 233 Stare = nori 50-85%']
+Solca: 06 \ sâmbătă \ 12:2:2022 \ 19:22:31
+[' Răsarit = 07:27:58 Apus = 17:33:52 Min (°C) = -3.85 Max (°C) =2.37 Presiune = 1037 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 307 Stare = nori 10-25%']
+Solca: 06 \ duminică \ 13:2:2022 \ 19:22:32
+[' Răsarit = 07:26:22 Apus = 17:35:28 Min (°C) = -6.47 Max (°C) =5.03 Presiune = 1028 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 187 Stare = cer senin']
+Solca: 07 \ luni \ 14:2:2022 \ 19:22:16
+[' Răsarit = 07:24:45 Apus = 17:37:03 Min (°C) = -5.61 Max (°C) =5.25 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 172 Stare = nori 50-85%']
+Solca: 07 \ marți \ 15:2:2022 \ 19:21:29
+[' Răsarit = 07:23:06 Apus = 17:38:38 Min (°C) = -3.55 Max (°C) =7.72 Presiune = 1019 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 213 Stare = nori 85-100%']
+Solca: 07 \ miercuri \ 16:2:2022 \ 19:22:50
+[' Răsarit = 07:21:26 Apus = 17:40:13 Min (°C) = 0.21 Max (°C) =9.7 Presiune = 1013 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 229 Stare = nori 85-100%']
+Solca: 07 \ joi \ 17:2:2022 \ 19:23:29
+[' Răsarit = 07:19:45 Apus = 17:41:47 Min (°C) = 2 Max (°C) =9.26 Presiune = 998 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 9.02 Unghiul vântului = 277 Stare = nori 25-50%']
+Solca: 07 \ vineri \ 18:2:2022 \ 19:22:21
+[' Răsarit = 07:18:02 Apus = 17:43:22 Min (°C) = 0.49 Max (°C) =6.1 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.2 Unghiul vântului = 258 Stare = nori 25-50%']
+Solca: 07 \ sâmbătă \ 19:2:2022 \ 19:22:32
+[' Răsarit = 07:16:18 Apus = 17:44:56 Min (°C) = -0.06 Max (°C) =9.87 Presiune = 1015 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 284 Stare = nori 50-85%']
+Solca: 07 \ duminică \ 20:2:2022 \ 19:23:49
+[' Răsarit = 07:14:33 Apus = 17:46:29 Min (°C) = 0.93 Max (°C) =7.62 Presiune = 1015 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 252 Stare = nori 50-85%']
+Solca: 08 \ luni \ 21:2:2022 \ 19:21:59
+[' Răsarit = 07:12:47 Apus = 17:48:03 Min (°C) = 1.2 Max (°C) =8.87 Presiune = 1003 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 218 Stare = nori 85-100%']
+Solca: 08 \ marți \ 22:2:2022 \ 19:23:24
+[' Răsarit = 07:10:59 Apus = 17:49:36 Min (°C) = 2.83 Max (°C) =7.49 Presiune = 1014 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 344 Stare = nori 50-85%']
+Solca: 08 \ miercuri \ 23:2:2022 \ 19:22:36
+[' Răsarit = 07:09:11 Apus = 17:51:09 Min (°C) = -0.35 Max (°C) =7.45 Presiune = 1021 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 310 Stare = nori 85-100%']
+Solca: 08 \ joi \ 24:2:2022 \ 19:22:21
+[' Răsarit = 07:07:22 Apus = 17:52:41 Min (°C) = -0.3 Max (°C) =5.75 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 137 Stare = nori 50-85%']
+Solca: 08 \ vineri \ 25:2:2022 \ 19:22:24
+[' Răsarit = 07:05:31 Apus = 17:54:14 Min (°C) = -2.48 Max (°C) =9.13 Presiune = 1020 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 331 Stare = nori 85-100%']
+Solca: 08 \ sâmbătă \ 26:2:2022 \ 19:22:52
+[' Răsarit = 07:03:40 Apus = 17:55:46 Min (°C) = 0.05 Max (°C) =4.38 Presiune = 1030 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 352 Stare = nori 85-100%']
+Solca: 08 \ duminică \ 27:2:2022 \ 19:21:59
+[' Răsarit = 07:01:48 Apus = 17:57:17 Min (°C) = -1.2 Max (°C) =3.01 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 34 Stare = nori 85-100%']
+Solca: 09 \ luni \ 28:2:2022 \ 19:22:39
+[' Răsarit = 06:59:55 Apus = 17:58:48 Min (°C) = -2.11 Max (°C) =1.71 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.59 Unghiul vântului = 21 Stare = nori 85-100%']
+Solca: 09 \ marți \ 01:3:2022 \ 19:22:50
+[' Răsarit = 06:58:01 Apus = 18:00:19 Min (°C) = -3.8 Max (°C) =-0.4 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 334 Stare = zăpadă slabă']
+Solca: 09 \ miercuri \ 02:3:2022 \ 19:21:48
+[' Răsarit = 06:56:06 Apus = 18:01:50 Min (°C) = -5.01 Max (°C) =-0.11 Presiune = 1020 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 319 Stare = nori 85-100%']
+Solca: 09 \ joi \ 03:3:2022 \ 19:22:31
+[' Răsarit = 06:54:10 Apus = 18:03:20 Min (°C) = -4.02 Max (°C) =1.69 Presiune = 1015 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 322 Stare = nori 85-100%']
+Solca: 09 \ vineri \ 04:3:2022 \ 19:22:17
+[' Răsarit = 06:52:14 Apus = 18:04:50 Min (°C) = -5.36 Max (°C) =1.2 Presiune = 1018 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 321 Stare = nori 85-100%']
+Solca: 09 \ sâmbătă \ 05:3:2022 \ 19:19:26
+[' Răsarit = 06:50:17 Apus = 18:06:19 Min (°C) = -5.71 Max (°C) =0.66 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 307 Stare = nori 50-85%']
+Solca: 09 \ duminică \ 06:3:2022 \ 19:19:16
+[' Răsarit = 06:48:20 Apus = 18:07:48 Min (°C) = -5.1 Max (°C) =1.53 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 127 Stare = nori 85-100%']
+Solca: 10 \ luni \ 07:3:2022 \ 19:18:56
+[' Răsarit = 06:46:22 Apus = 18:09:17 Min (°C) = -4.32 Max (°C) =-0.13 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 337 Stare = nori 85-100%']
+Solca: 10 \ marți \ 08:3:2022 \ 19:18:43
+[' Răsarit = 06:44:23 Apus = 18:10:46 Min (°C) = -4.87 Max (°C) =0.94 Presiune = 1019 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.42 Unghiul vântului = 343 Stare = nori 85-100%']
+Solca: 10 \ miercuri \ 09:3:2022 \ 19:18:53
+[' Răsarit = 06:42:24 Apus = 18:12:14 Min (°C) = -6.44 Max (°C) =-1.18 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 339 Stare = nori 50-85%']
+Solca: 10 \ joi \ 10:3:2022 \ 19:18:54
+[' Răsarit = 06:40:24 Apus = 18:13:42 Min (°C) = -7.82 Max (°C) =-3.48 Presiune = 1033 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.89 Unghiul vântului = 18 Stare = nori 85-100%']
+Solca: 10 \ vineri \ 11:3:2022 \ 19:18:49
+[' Răsarit = 06:38:24 Apus = 18:15:10 Min (°C) = -12.54 Max (°C) =-2.03 Presiune = 1033 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.36 Unghiul vântului = 359 Stare = nori 85-100%']
+Solca: 10 \ sâmbătă \ 12:3:2022 \ 19:18:43
+[' Răsarit = 06:36:23 Apus = 18:16:37 Min (°C) = -11.26 Max (°C) =-0.12 Presiune = 1031 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 291 Stare = nori 50-85%']
+Solca: 10 \ duminică \ 13:3:2022 \ 19:18:56
+[' Răsarit = 06:34:22 Apus = 18:18:05 Min (°C) = -4.38 Max (°C) =0.26 Presiune = 1032 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 9 Stare = nori 85-100%']
+Solca: 11 \ luni \ 14:3:2022 \ 19:18:41
+[' Răsarit = 06:32:21 Apus = 18:19:32 Min (°C) = -7.31 Max (°C) =4.3 Presiune = 1036 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 204 Stare = cer senin']
+Solca: 11 \ marți \ 15:3:2022 \ 19:18:52
+[' Răsarit = 06:30:19 Apus = 18:20:58 Min (°C) = -2.76 Max (°C) =9.57 Presiune = 1032 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 241 Stare = cer senin']
+Solca: 11 \ miercuri \ 16:3:2022 \ 19:18:59
+[' Răsarit = 06:28:17 Apus = 18:22:25 Min (°C) = -0.06 Max (°C) =5.81 Presiune = 1027 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.34 Unghiul vântului = 90 Stare = nori 85-100%']
+Solca: 11 \ joi \ 17:3:2022 \ 19:18:56
+[' Răsarit = 06:26:15 Apus = 18:23:51 Min (°C) = -4.44 Max (°C) =1.41 Presiune = 1039 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 54 Stare = nori 50-85%']
+Solca: 11 \ vineri \ 18:3:2022 \ 19:19:04
+[' Răsarit = 06:24:12 Apus = 18:25:17 Min (°C) = -6.11 Max (°C) =1.36 Presiune = 1044 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 310 Stare = nori 85-100%']
+Solca: 11 \ sâmbătă \ 19:3:2022 \ 19:19:10
+[' Răsarit = 06:22:10 Apus = 18:26:43 Min (°C) = -5.65 Max (°C) =1.75 Presiune = 1045 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 61 Stare = cer senin']
+Solca: 11 \ duminică \ 20:3:2022 \ 19:19:03
+[' Răsarit = 06:20:07 Apus = 18:28:09 Min (°C) = -4.96 Max (°C) =4.08 Presiune = 1043 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 300 Stare = cer senin']
+Solca: 12 \ luni \ 21:3:2022 \ 19:19:22
+[' Răsarit = 06:18:04 Apus = 18:29:35 Min (°C) = -2.45 Max (°C) =8.57 Presiune = 1039 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 287 Stare = cer senin']
+Solca: 12 \ marți \ 22:3:2022 \ 19:19:05
+[' Răsarit = 06:16:01 Apus = 18:31:00 Min (°C) = 0.16 Max (°C) =10.74 Presiune = 1037 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 309 Stare = cer senin']
+Solca: 12 \ miercuri \ 23:3:2022 \ 19:18:50
+[' Răsarit = 06:13:58 Apus = 18:32:25 Min (°C) = 0.75 Max (°C) =12.64 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 276 Stare = cer senin']
+Solca: 12 \ joi \ 24:3:2022 \ 19:18:57
+[' Răsarit = 06:11:55 Apus = 18:33:51 Min (°C) = 1.84 Max (°C) =11.54 Presiune = 1024 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.76 Unghiul vântului = 327 Stare = cer senin']
+Solca: 12 \ vineri \ 25:3:2022 \ 19:18:57
+[' Răsarit = 06:09:52 Apus = 18:35:16 Min (°C) = 0.81 Max (°C) =5.98 Presiune = 1027 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 52 Stare = nori 85-100%']
+Solca: 12 \ sâmbătă \ 26:3:2022 \ 19:19:12
+[' Răsarit = 06:07:49 Apus = 18:36:41 Min (°C) = 0.27 Max (°C) =14.26 Presiune = 1021 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 6.41 Unghiul vântului = 270 Stare = nori 50-85%']
+Solca: 12 \ duminică \ 27:3:2022 \ 19:19:06
+[' Răsarit = 07:05:46 Apus = 19:38:06 Min (°C) = 1.65 Max (°C) =8.96 Presiune = 1030 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.36 Unghiul vântului = 341 Stare = nori 10-25%']
+Solca: 13 \ luni \ 28:3:2022 \ 19:19:23
+[' Răsarit = 07:03:43 Apus = 19:39:31 Min (°C) = -0.57 Max (°C) =15.76 Presiune = 1019 Umiditate (%) = 55 Index UV = 0.09 Viteza vântului = 3.51 Unghiul vântului = 244 Stare = cer senin']
+Solca: 13 \ marți \ 29:3:2022 \ 19:19:13
+[' Răsarit = 07:01:41 Apus = 19:40:56 Min (°C) = 3.59 Max (°C) =17.28 Presiune = 1007 Umiditate (%) = 56 Index UV = 0.09 Viteza vântului = 4.02 Unghiul vântului = 232 Stare = nori 25-50%']
+Solca: 13 \ miercuri \ 30:3:2022 \ 19:19:04
+[' Răsarit = 06:59:39 Apus = 19:42:20 Min (°C) = 6.69 Max (°C) =17.05 Presiune = 1004 Umiditate (%) = 56 Index UV = 0.1 Viteza vântului = 0.74 Unghiul vântului = 322 Stare = nori 85-100%']
+Solca: 13 \ joi \ 31:3:2022 \ 19:19:25
+[' Răsarit = 06:57:36 Apus = 19:43:45 Min (°C) = 6.84 Max (°C) =14.1 Presiune = 997 Umiditate (%) = 67 Index UV = 0.01 Viteza vântului = 0.81 Unghiul vântului = 231 Stare = nori 85-100%']
+Solca: 13 \ vineri \ 01:4:2022 \ 19:22:55
+[' Răsarit = 06:55:35 Apus = 19:45:10 Min (°C) = 9.36 Max (°C) =17.17 Presiune = 992 Umiditate (%) = 85 Index UV = 0.06 Viteza vântului = 3.06 Unghiul vântului = 251 Stare = nori 85-100%']
+Solca: 13 \ sâmbătă \ 02:4:2022 \ 19:22:23
+[' Răsarit = 06:53:33 Apus = 19:46:35 Min (°C) = 2.8 Max (°C) =10.58 Presiune = 999 Umiditate (%) = 74 Index UV = 0.09 Viteza vântului = 3.13 Unghiul vântului = 2 Stare = nori 85-100%']
+Solca: 13 \ duminică \ 03:4:2022 \ 19:56:34
+[' Răsarit = 06:51:32 Apus = 19:47:59 Min (°C) = -1.29 Max (°C) =2.86 Presiune = 1013 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.61 Unghiul vântului = 329 Stare = nori 85-100%']
+Solca: 14 \ luni \ 04:4:2022 \ 19:22:27
+[' Răsarit = 06:49:31 Apus = 19:49:24 Min (°C) = -4.01 Max (°C) =4.84 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.13 Viteza vântului = 1.49 Unghiul vântului = 261 Stare = nori 85-100%']
+Solca: 14 \ marți \ 05:4:2022 \ 19:24:22
+[' Răsarit = 06:47:31 Apus = 19:50:49 Min (°C) = -3.06 Max (°C) =10.3 Presiune = 1006 Umiditate (%) = 49 Index UV = 0.12 Viteza vântului = 4.75 Unghiul vântului = 256 Stare = nori 85-100%']
+Solca: 14 \ miercuri \ 06:4:2022 \ 19:22:34
+[' Răsarit = 06:45:31 Apus = 19:52:14 Min (°C) = 2.87 Max (°C) =14.16 Presiune = 1009 Umiditate (%) = 61 Index UV = 0.16 Viteza vântului = 3.78 Unghiul vântului = 231 Stare = nori 50-85%']
+Solca: 14 \ joi \ 07:4:2022 \ 19:22:45
+[' Răsarit = 06:43:31 Apus = 19:53:39 Min (°C) = 5.02 Max (°C) =16.62 Presiune = 996 Umiditate (%) = 47 Index UV = 0.15 Viteza vântului = 2.98 Unghiul vântului = 172 Stare = nori 85-100%']
+Solca: 14 \ vineri \ 08:4:2022 \ 19:22:17
+[' Răsarit = 06:41:32 Apus = 19:55:04 Min (°C) = 5.57 Max (°C) =15.21 Presiune = 1003 Umiditate (%) = 53 Index UV = 0.16 Viteza vântului = 4.54 Unghiul vântului = 276 Stare = nori 50-85%']
+Solca: 14 \ sâmbătă \ 09:4:2022 \ 19:22:31
+[' Răsarit = 06:39:34 Apus = 19:56:29 Min (°C) = 6.52 Max (°C) =16.62 Presiune = 1000 Umiditate (%) = 68 Index UV = 0.02 Viteza vântului = 3.49 Unghiul vântului = 318 Stare = nori 85-100%']
+Solca: 14 \ duminică \ 10:4:2022 \ 19:24:07
+[' Răsarit = 06:37:36 Apus = 19:57:54 Min (°C) = 1.51 Max (°C) =5.56 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.07 Viteza vântului = 3.27 Unghiul vântului = 348 Stare = nori 85-100%']
+Solca: 15 \ luni \ 11:4:2022 \ 19:22:38
+[' Răsarit = 06:35:39 Apus = 19:59:19 Min (°C) = -0.29 Max (°C) =7.4 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.17 Viteza vântului = 4.42 Unghiul vântului = 330 Stare = nori 85-100%']
+Solca: 15 \ marți \ 12:4:2022 \ 19:27:13
+[' Răsarit = 06:33:42 Apus = 20:00:44 Min (°C) = -1.25 Max (°C) =7.92 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.18 Viteza vântului = 4.33 Unghiul vântului = 340 Stare = nori 85-100%']
+Solca: 15 \ miercuri \ 13:4:2022 \ 19:22:10
+[' Răsarit = 06:31:46 Apus = 20:02:09 Min (°C) = -0.34 Max (°C) =9.93 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.16 Viteza vântului = 4.85 Unghiul vântului = 337 Stare = nori 50-85%']
+Solca: 15 \ joi \ 14:4:2022 \ 19:23:19
+[' Răsarit = 06:29:51 Apus = 20:03:34 Min (°C) = 3.18 Max (°C) =15.41 Presiune = 1020 Umiditate (%) = 35 Index UV = 0.21 Viteza vântului = 1.7 Unghiul vântului = 56 Stare = cer senin']
+Solca: 15 \ vineri \ 15:4:2022 \ 19:23:18
+[' Răsarit = 06:27:56 Apus = 20:04:59 Min (°C) = 5.96 Max (°C) =21.46 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.22 Viteza vântului = 3.38 Unghiul vântului = 351 Stare = nori 50-85%']
+Solca: 15 \ sâmbătă \ 16:4:2022 \ 19:23:36
+[' Răsarit = 06:26:03 Apus = 20:06:25 Min (°C) = 3.31 Max (°C) =10.12 Presiune = 1019 Umiditate (%) = 87 Index UV = 0.02 Viteza vântului = 5.47 Unghiul vântului = 348 Stare = nori 85-100%']
+Solca: 15 \ duminică \ 17:4:2022 \ 19:22:56
+[' Răsarit = 06:24:10 Apus = 20:07:50 Min (°C) = -0.85 Max (°C) =4.97 Presiune = 1020 Umiditate (%) = 65 Index UV = 0.2 Viteza vântului = 3.52 Unghiul vântului = 342 Stare = nori 85-100%']
+Solca: 16 \ luni \ 18:4:2022 \ 19:23:50
+[' Răsarit = 06:22:18 Apus = 20:09:15 Min (°C) = -2.03 Max (°C) =6.66 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 1.44 Unghiul vântului = 345 Stare = nori 85-100%']
+Solca: 16 \ marți \ 19:4:2022 \ 19:24:01
+[' Răsarit = 06:20:26 Apus = 20:10:41 Min (°C) = -1.96 Max (°C) =9.28 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.17 Viteza vântului = 1.7 Unghiul vântului = 43 Stare = nori 85-100%']
+Solca: 16 \ miercuri \ 20:4:2022 \ 19:22:50
+[' Răsarit = 06:18:36 Apus = 20:12:06 Min (°C) = 0.25 Max (°C) =7.36 Presiune = 1011 Umiditate (%) = 79 Index UV = 0.18 Viteza vântului = 1.14 Unghiul vântului = 143 Stare = nori 85-100%']
+Solca: 16 \ joi \ 21:4:2022 \ 19:23:02
+[' Răsarit = 06:16:47 Apus = 20:13:31 Min (°C) = 1.71 Max (°C) =12.57 Presiune = 1011 Umiditate (%) = 73 Index UV = 0.17 Viteza vântului = 0.81 Unghiul vântului = 37 Stare = nori 85-100%']
+Solca: 16 \ vineri \ 22:4:2022 \ 19:19:49
+[' Răsarit = 06:14:58 Apus = 20:14:57 Min (°C) = 2.35 Max (°C) =16 Presiune = 1007 Umiditate (%) = 48 Index UV = 0.14 Viteza vântului = 1.68 Unghiul vântului = 211 Stare = nori 50-85%']
+Solca: 16 \ sâmbătă \ 23:4:2022 \ 19:19:49
+[' Răsarit = 06:13:11 Apus = 20:16:22 Min (°C) = 5.56 Max (°C) =11.44 Presiune = 1006 Umiditate (%) = 84 Index UV = 0.14 Viteza vântului = 2.46 Unghiul vântului = 1 Stare = nori 50-85%']
+Solca: 16 \ duminică \ 24:4:2022 \ 19:19:18
+[' Răsarit = 06:11:25 Apus = 20:17:47 Min (°C) = 5.37 Max (°C) =19.47 Presiune = 1007 Umiditate (%) = 57 Index UV = 0.31 Viteza vântului = 2.6 Unghiul vântului = 130 Stare = nori 25-50%']
+Solca: 17 \ luni \ 25:4:2022 \ 19:19:14
+[' Răsarit = 06:09:40 Apus = 20:19:13 Min (°C) = 9.66 Max (°C) =20.62 Presiune = 1006 Umiditate (%) = 75 Index UV = 0.13 Viteza vântului = 5.01 Unghiul vântului = 278 Stare = nori 85-100%']
+Solca: 17 \ marți \ 26:4:2022 \ 19:19:18
+[' Răsarit = 06:07:56 Apus = 20:20:38 Min (°C) = 7.03 Max (°C) =15.44 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.29 Viteza vântului = 2.51 Unghiul vântului = 1 Stare = nori 50-85%']
+Solca: 17 \ miercuri \ 27:4:2022 \ 19:19:20
+[' Răsarit = 06:06:13 Apus = 20:22:03 Min (°C) = 6.54 Max (°C) =11.71 Presiune = 1020 Umiditate (%) = 89 Index UV = 0.1 Viteza vântului = 1.08 Unghiul vântului = 86 Stare = ploaie ușoară']
+Solca: 17 \ joi \ 28:4:2022 \ 19:19:23
+[' Răsarit = 06:04:31 Apus = 20:23:28 Min (°C) = 7.77 Max (°C) =9.63 Presiune = 1022 Umiditate (%) = 95 Index UV = 0.03 Viteza vântului = 2.37 Unghiul vântului = 27 Stare = ploaie ușoară']
+Solca: 17 \ vineri \ 29:4:2022 \ 19:22:17
+[' Răsarit = 06:02:50 Apus = 20:24:53 Min (°C) = 6.79 Max (°C) =12.12 Presiune = 1024 Umiditate (%) = 76 Index UV = 0.26 Viteza vântului = 0.52 Unghiul vântului = 90 Stare = nori 85-100%']
+Solca: 17 \ sâmbătă \ 30:4:2022 \ 19:18:57
+[' Răsarit = 06:01:11 Apus = 20:26:17 Min (°C) = 4.12 Max (°C) =13.74 Presiune = 1021 Umiditate (%) = 67 Index UV = 0.34 Viteza vântului = 1.74 Unghiul vântului = 71 Stare = nori 50-85%']
+Solca: 17 \ duminică \ 01:5:2022 \ 19:19:04
+[' Răsarit = 05:59:33 Apus = 20:27:42 Min (°C) = 5.84 Max (°C) =14.91 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.27 Viteza vântului = 2.5 Unghiul vântului = 136 Stare = nori 85-100%']
+Solca: 18 \ marți \ 03:5:2022 \ 20:19:02
+[' Răsarit = 05:56:21 Apus = 20:30:30 Min (°C) = 7.03 Max (°C) =16.22 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 191 Stare = nori 85-100%']
+Solca: 18 \ miercuri \ 04:5:2022 \ 19:24:29
+[' Răsarit = 05:54:47 Apus = 20:31:54 Min (°C) = 6.88 Max (°C) =14.65 Presiune = 1019 Umiditate (%) = 71 Index UV = 0.21 Viteza vântului = 1.86 Unghiul vântului = 321 Stare = nori 85-100%']
+Solca: 18 \ joi \ 05:5:2022 \ 19:22:53
+[' Răsarit = 05:53:15 Apus = 20:33:17 Min (°C) = 5.19 Max (°C) =15.32 Presiune = 1023 Umiditate (%) = 60 Index UV = 0.41 Viteza vântului = 3.4 Unghiul vântului = 107 Stare = nori 10-25%']
+Solca: 18 \ vineri \ 06:5:2022 \ 19:20:34
+[' Răsarit = 05:51:44 Apus = 20:34:40 Min (°C) = 6.01 Max (°C) =17.54 Presiune = 1021 Umiditate (%) = 62 Index UV = 0.41 Viteza vântului = 3.61 Unghiul vântului = 123 Stare = nori 50-85%']
+Solca: 18 \ sâmbătă \ 07:5:2022 \ 19:19:43
+[' Răsarit = 05:50:15 Apus = 20:36:03 Min (°C) = 8.06 Max (°C) =17.43 Presiune = 1021 Umiditate (%) = 83 Index UV = 0.21 Viteza vântului = 0.91 Unghiul vântului = 242 Stare = nori 85-100%']
+Solca: 18 \ duminică \ 08:5:2022 \ 19:20:35
+[' Răsarit = 05:48:47 Apus = 20:37:25 Min (°C) = 8.04 Max (°C) =17.33 Presiune = 1021 Umiditate (%) = 85 Index UV = 0.41 Viteza vântului = 1.68 Unghiul vântului = 240 Stare = nori 85-100%']
+Solca: 19 \ luni \ 09:5:2022 \ 19:20:22
+[' Răsarit = 05:47:20 Apus = 20:38:47 Min (°C) = 9.12 Max (°C) =17.81 Presiune = 1024 Umiditate (%) = 85 Index UV = 0.3 Viteza vântului = 1.41 Unghiul vântului = 30 Stare = nori 85-100%']
+Solca: 19 \ marți \ 10:5:2022 \ 19:20:19
+[' Răsarit = 05:45:56 Apus = 20:40:09 Min (°C) = 9.05 Max (°C) =16.46 Presiune = 1020 Umiditate (%) = 61 Index UV = 0.34 Viteza vântului = 1.52 Unghiul vântului = 83 Stare = nori 50-85%']
+Solca: 19 \ miercuri \ 11:5:2022 \ 19:20:04
+[' Răsarit = 05:44:33 Apus = 20:41:29 Min (°C) = 8.32 Max (°C) =20.05 Presiune = 1018 Umiditate (%) = 66 Index UV = 0.42 Viteza vântului = 1.04 Unghiul vântului = 41 Stare = nori 50-85%']
+Solca: 19 \ joi \ 12:5:2022 \ 19:20:16
+[' Răsarit = 05:43:11 Apus = 20:42:50 Min (°C) = 10.56 Max (°C) =25.33 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.52 Viteza vântului = 4.55 Unghiul vântului = 273 Stare = cer senin']
+Solca: 19 \ vineri \ 13:5:2022 \ 19:19:41
+[' Răsarit = 05:41:52 Apus = 20:44:09 Min (°C) = 12.99 Max (°C) =22.49 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.45 Viteza vântului = 2.8 Unghiul vântului = 41 Stare = nori 50-85%']
+Solca: 19 \ sâmbătă \ 14:5:2022 \ 19:19:50
+[' Răsarit = 05:40:34 Apus = 20:45:28 Min (°C) = 11.8 Max (°C) =17.77 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.49 Viteza vântului = 4.4 Unghiul vântului = 6 Stare = nori 25-50%']
+Solca: 19 \ duminică \ 15:5:2022 \ 19:19:47
+[' Răsarit = 05:39:18 Apus = 20:46:46 Min (°C) = 9.68 Max (°C) =19 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.22 Viteza vântului = 2.15 Unghiul vântului = 352 Stare = nori 85-100%']
+Solca: 20 \ luni \ 16:5:2022 \ 19:21:07
+[' Răsarit = 05:38:04 Apus = 20:48:04 Min (°C) = 9.92 Max (°C) =18.14 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.37 Viteza vântului = 2.02 Unghiul vântului = 47 Stare = nori 50-85%']
+Solca: 20 \ marți \ 17:5:2022 \ 19:22:55
+[' Răsarit = 05:36:51 Apus = 20:49:20 Min (°C) = 10.01 Max (°C) =18.91 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.07 Viteza vântului = 2.86 Unghiul vântului = 337 Stare = ploaie ușoară']
+Solca: 20 \ miercuri \ 18:5:2022 \ 19:19:58
+[' Răsarit = 05:35:41 Apus = 20:50:36 Min (°C) = 4.76 Max (°C) =10.51 Presiune = 1026 Umiditate (%) = 62 Index UV = 0.42 Viteza vântului = 5.35 Unghiul vântului = 338 Stare = nori 85-100%']
+Solca: 20 \ joi \ 19:5:2022 \ 20:24:46
+[' Răsarit = 05:34:32 Apus = 20:51:51 Min (°C) = 6.17 Max (°C) =17.7 Presiune = 1026 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 0.9 Unghiul vântului = 359 Stare = nori 10-25%']
+Solca: 20 \ vineri \ 20:5:2022 \ 19:19:51
+[' Răsarit = 05:33:26 Apus = 20:53:04 Min (°C) = 8.5 Max (°C) =25.09 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.39 Viteza vântului = 3.48 Unghiul vântului = 285 Stare = nori 85-100%']
+Solca: 20 \ sâmbătă \ 21:5:2022 \ 19:22:19
+[' Răsarit = 05:32:22 Apus = 20:54:17 Min (°C) = 11.81 Max (°C) =24.39 Presiune = 1011 Umiditate (%) = 77 Index UV = 0.43 Viteza vântului = 3.92 Unghiul vântului = 338 Stare = ploaie ușoară']

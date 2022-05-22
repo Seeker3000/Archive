@@ -1,0 +1,954 @@
+Targu_Frumos: 04 \ luni \ 25:1:2021 \ 22:37:55
+[' Răsarit = 07:45:36 Apus = 17:02:47 Min (°C) = 2.29 Max (°C) =8.34 Presiune = 998 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
+Targu_Frumos: 04 \ marți \ 26:1:2021 \ 09:55:19
+[' Răsarit = 07:44:33 Apus = 17:04:17 Min (°C) = 0.07 Max (°C) =5.12 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 1.03 Unghiul vântului = 180 Stare = cer senin']
+Targu_Frumos: 04 \ miercuri \ 27:1:2021 \ 19:16:26
+[' Răsarit = 07:43:28 Apus = 17:05:49 Min (°C) = -1.29 Max (°C) =1.21 Presiune = 1004 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 305 Stare = nori 85-100%']
+Targu_Frumos: 04 \ joi \ 28:1:2021 \ 19:31:16
+[' Răsarit = 07:42:21 Apus = 17:07:20 Min (°C) = -2.35 Max (°C) =1.85 Presiune = 1004 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 293 Stare = nori 50-85%']
+Targu_Frumos: 04 \ vineri \ 29:1:2021 \ 20:17:02
+[' Răsarit = 07:41:12 Apus = 17:08:52 Min (°C) = -2.2 Max (°C) =5.46 Presiune = 997 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 154 Stare = nori 85-100%']
+Targu_Frumos: 04 \ sâmbătă \ 30:1:2021 \ 20:17:59
+[' Răsarit = 07:40:01 Apus = 17:10:25 Min (°C) = 0.55 Max (°C) =9.41 Presiune = 996 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
+Targu_Frumos: 04 \ duminică \ 31:1:2021 \ 19:16:07
+[' Răsarit = 07:38:48 Apus = 17:11:58 Min (°C) = -2.4 Max (°C) =3.02 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 47 Stare = zăpadă slabă']
+Targu_Frumos: 05 \ luni \ 01:2:2021 \ 19:16:48
+[' Răsarit = 07:37:33 Apus = 17:13:31 Min (°C) = -3.62 Max (°C) =0.27 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 50-85%']
+Targu_Frumos: 05 \ marți \ 02:2:2021 \ 20:46:22
+[' Răsarit = 07:36:17 Apus = 17:15:04 Min (°C) = -3.94 Max (°C) =3.79 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = ceață']
+Targu_Frumos: 05 \ miercuri \ 03:2:2021 \ 19:43:25
+[' Răsarit = 07:34:58 Apus = 17:16:38 Min (°C) = 0.87 Max (°C) =7.87 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = cer senin']
+Targu_Frumos: 05 \ joi \ 04:2:2021 \ 19:18:05
+[' Răsarit = 07:33:38 Apus = 17:18:12 Min (°C) = 3.34 Max (°C) =12.47 Presiune = 1006 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 260 Stare = cer senin']
+Targu_Frumos: 05 \ vineri \ 05:2:2021 \ 19:13:51
+[' Răsarit = 07:32:16 Apus = 17:19:46 Min (°C) = 0.31 Max (°C) =2.77 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = ploaie ușoară']
+Targu_Frumos: 05 \ sâmbătă \ 06:2:2021 \ 19:42:35
+[' Răsarit = 07:30:52 Apus = 17:21:20 Min (°C) = -3.79 Max (°C) =0.74 Presiune = 1018 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = snow']
+Targu_Frumos: 05 \ duminică \ 07:2:2021 \ 19:17:53
+[' Răsarit = 07:29:27 Apus = 17:22:54 Min (°C) = -4.97 Max (°C) =-0.82 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 110 Stare = ceață']
+Targu_Frumos: 06 \ luni \ 08:2:2021 \ 20:59:39
+[' Răsarit = 07:27:59 Apus = 17:24:28 Min (°C) = -2.36 Max (°C) =3.83 Presiune = 1000 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 110 Stare = ceață']
+Targu_Frumos: 06 \ marți \ 09:2:2021 \ 19:15:12
+[' Răsarit = 07:26:31 Apus = 17:26:02 Min (°C) = -1.26 Max (°C) =5.11 Presiune = 1007 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = ceață']
+Targu_Frumos: 06 \ miercuri \ 10:2:2021 \ 19:16:00
+[' Răsarit = 07:25:01 Apus = 17:27:36 Min (°C) = 0.52 Max (°C) =5.32 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = nori 10-25%']
+Targu_Frumos: 06 \ joi \ 11:2:2021 \ 19:10:37
+[' Răsarit = 07:23:29 Apus = 17:29:10 Min (°C) = -5.97 Max (°C) =5.31 Presiune = 1009 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 10.73 Unghiul vântului = 312 Stare = zăpadă slabă']
+Targu_Frumos: 06 \ vineri \ 12:2:2021 \ 20:50:09
+[' Răsarit = 07:21:56 Apus = 17:30:43 Min (°C) = -10.77 Max (°C) =-6.41 Presiune = 1020 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 290 Stare = nori 10-25%']
+Targu_Frumos: 06 \ sâmbătă \ 13:2:2021 \ 19:15:08
+[' Răsarit = 07:20:21 Apus = 17:32:17 Min (°C) = -10.56 Max (°C) =-4.49 Presiune = 1023 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 304 Stare = nori 85-100%']
+Targu_Frumos: 06 \ duminică \ 14:2:2021 \ 19:13:47
+[' Răsarit = 07:18:45 Apus = 17:33:50 Min (°C) = -6.66 Max (°C) =-0.72 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 50-85%']
+Targu_Frumos: 07 \ luni \ 15:2:2021 \ 20:10:20
+[' Răsarit = 07:17:08 Apus = 17:35:23 Min (°C) = -5.37 Max (°C) =-0.67 Presiune = 1029 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 50-85%']
+Targu_Frumos: 07 \ marți \ 16:2:2021 \ 19:06:12
+[' Răsarit = 07:15:29 Apus = 17:36:56 Min (°C) = -8.64 Max (°C) =-4.43 Presiune = 1028 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = cer senin']
+Targu_Frumos: 07 \ miercuri \ 17:2:2021 \ 19:14:17
+[' Răsarit = 07:13:49 Apus = 17:38:29 Min (°C) = -8.32 Max (°C) =-0.03 Presiune = 1016 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = cer senin']
+Targu_Frumos: 07 \ joi \ 18:2:2021 \ 19:18:09
+[' Răsarit = 07:12:08 Apus = 17:40:02 Min (°C) = -7.67 Max (°C) =0.69 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = nori 50-85%']
+Targu_Frumos: 07 \ vineri \ 19:2:2021 \ 19:11:10
+[' Răsarit = 07:10:25 Apus = 17:41:34 Min (°C) = -9.53 Max (°C) =-1.18 Presiune = 1027 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 120 Stare = cer senin']
+Targu_Frumos: 07 \ sâmbătă \ 20:2:2021 \ 19:15:27
+[' Răsarit = 07:08:42 Apus = 17:43:06 Min (°C) = -4.56 Max (°C) =2.15 Presiune = 1030 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 310 Stare = nori 25-50%']
+Targu_Frumos: 07 \ duminică \ 21:2:2021 \ 19:12:51
+[' Răsarit = 07:06:57 Apus = 17:44:37 Min (°C) = -2.62 Max (°C) =5.35 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = cer senin']
+Targu_Frumos: 08 \ luni \ 22:2:2021 \ 19:17:27
+[' Răsarit = 07:05:11 Apus = 17:46:08 Min (°C) = -0.36 Max (°C) =7.94 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 55 Stare = cer senin']
+Targu_Frumos: 08 \ marți \ 23:2:2021 \ 19:15:25
+[' Răsarit = 07:03:24 Apus = 17:47:39 Min (°C) = 0.98 Max (°C) =7.85 Presiune = 1033 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = cer senin']
+Targu_Frumos: 08 \ miercuri \ 24:2:2021 \ 19:15:58
+[' Răsarit = 07:01:36 Apus = 17:49:10 Min (°C) = 1.63 Max (°C) =11.01 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = ceață']
+Targu_Frumos: 08 \ joi \ 25:2:2021 \ 19:13:59
+[' Răsarit = 06:59:48 Apus = 17:50:40 Min (°C) = 4.14 Max (°C) =15.55 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = cer senin']
+Targu_Frumos: 08 \ vineri \ 26:2:2021 \ 19:14:46
+[' Răsarit = 06:57:58 Apus = 17:52:10 Min (°C) = 6.05 Max (°C) =16.62 Presiune = 1022 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 30 Stare = cer senin']
+Targu_Frumos: 08 \ sâmbătă \ 27:2:2021 \ 19:12:32
+[' Răsarit = 06:56:07 Apus = 17:53:40 Min (°C) = 3.18 Max (°C) =8.6 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = nori 85-100%']
+Targu_Frumos: 08 \ duminică \ 28:2:2021 \ 19:16:11
+[' Răsarit = 06:54:16 Apus = 17:55:09 Min (°C) = 1.72 Max (°C) =7.39 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 303 Stare = nori 50-85%']
+Targu_Frumos: 09 \ luni \ 01:3:2021 \ 19:10:28
+[' Răsarit = 06:52:24 Apus = 17:56:38 Min (°C) = 2.27 Max (°C) =5.48 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 360 Stare = nori 85-100%']
+Targu_Frumos: 09 \ marți \ 02:3:2021 \ 19:19:01
+[' Răsarit = 06:50:30 Apus = 17:58:07 Min (°C) = 0.92 Max (°C) =12.7 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 300 Stare = cer senin']
+Targu_Frumos: 09 \ miercuri \ 03:3:2021 \ 19:14:27
+[' Răsarit = 06:48:37 Apus = 17:59:35 Min (°C) = 2.85 Max (°C) =10.82 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 112 Stare = cer senin']
+Targu_Frumos: 09 \ joi \ 04:3:2021 \ 19:15:10
+[' Răsarit = 06:46:42 Apus = 18:01:03 Min (°C) = 3.06 Max (°C) =16.25 Presiune = 1010 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 136 Stare = nori 25-50%']
+Targu_Frumos: 09 \ vineri \ 05:3:2021 \ 19:13:08
+[' Răsarit = 06:44:47 Apus = 18:02:31 Min (°C) = 3.36 Max (°C) =13.69 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = nori 10-25%']
+Targu_Frumos: 09 \ sâmbătă \ 06:3:2021 \ 19:14:06
+[' Răsarit = 06:42:51 Apus = 18:03:58 Min (°C) = -0.75 Max (°C) =3.84 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 296 Stare = cer senin']
+Targu_Frumos: 09 \ duminică \ 07:3:2021 \ 19:15:11
+[' Răsarit = 06:40:54 Apus = 18:05:25 Min (°C) = -1.67 Max (°C) =8.16 Presiune = 1015 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 128 Stare = nori 10-25%']
+Targu_Frumos: 10 \ luni \ 08:3:2021 \ 19:18:26
+[' Răsarit = 06:38:57 Apus = 18:06:52 Min (°C) = -0.13 Max (°C) =7.95 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 330 Stare = cer senin']
+Targu_Frumos: 10 \ marți \ 09:3:2021 \ 19:13:25
+[' Răsarit = 06:37:00 Apus = 18:08:18 Min (°C) = -1.23 Max (°C) =3.7 Presiune = 1020 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 52 Stare = nori 85-100%']
+Targu_Frumos: 10 \ miercuri \ 10:3:2021 \ 19:18:46
+[' Răsarit = 06:35:02 Apus = 18:09:44 Min (°C) = -1.04 Max (°C) =2.55 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 150 Stare = cer senin']
+Targu_Frumos: 10 \ joi \ 11:3:2021 \ 19:15:21
+[' Răsarit = 06:33:03 Apus = 18:11:10 Min (°C) = -3.56 Max (°C) =3.04 Presiune = 1021 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Targu_Frumos: 10 \ vineri \ 12:3:2021 \ 19:14:30
+[' Răsarit = 06:31:04 Apus = 18:12:36 Min (°C) = -1.01 Max (°C) =7.74 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = cer senin']
+Targu_Frumos: 10 \ sâmbătă \ 13:3:2021 \ 19:14:43
+[' Răsarit = 06:29:05 Apus = 18:14:01 Min (°C) = 1.65 Max (°C) =8.44 Presiune = 1012 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 157 Stare = cer senin']
+Targu_Frumos: 10 \ duminică \ 14:3:2021 \ 19:17:05
+[' Răsarit = 06:27:05 Apus = 18:15:26 Min (°C) = 1.2 Max (°C) =14.95 Presiune = 1008 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 183 Stare = nori 85-100%']
+Targu_Frumos: 11 \ luni \ 15:3:2021 \ 19:16:31
+[' Răsarit = 06:25:05 Apus = 18:16:51 Min (°C) = 4.64 Max (°C) =9.66 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = ploaie ușoară']
+Targu_Frumos: 11 \ marți \ 16:3:2021 \ 19:15:04
+[' Răsarit = 06:23:05 Apus = 18:18:16 Min (°C) = 3.75 Max (°C) =8.68 Presiune = 1000 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 320 Stare = nori 85-100%']
+Targu_Frumos: 11 \ miercuri \ 17:3:2021 \ 19:15:29
+[' Răsarit = 06:21:05 Apus = 18:19:40 Min (°C) = 1.4 Max (°C) =5.89 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = ploaie ușoară']
+Targu_Frumos: 11 \ joi \ 18:3:2021 \ 19:14:42
+[' Răsarit = 06:19:04 Apus = 18:21:04 Min (°C) = 1.41 Max (°C) =4.91 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = nori 50-85%']
+Targu_Frumos: 11 \ vineri \ 19:3:2021 \ 19:12:11
+[' Răsarit = 06:17:03 Apus = 18:22:28 Min (°C) = 0.5 Max (°C) =3.2 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 10-25%']
+Targu_Frumos: 11 \ sâmbătă \ 20:3:2021 \ 19:14:41
+[' Răsarit = 06:15:02 Apus = 18:23:52 Min (°C) = -0.27 Max (°C) =5.46 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = cer senin']
+Targu_Frumos: 11 \ duminică \ 21:3:2021 \ 19:10:03
+[' Răsarit = 06:13:01 Apus = 18:25:16 Min (°C) = -0.63 Max (°C) =8.24 Presiune = 1009 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 124 Stare = nori 85-100%']
+Targu_Frumos: 12 \ luni \ 22:3:2021 \ 19:15:18
+[' Răsarit = 06:11:00 Apus = 18:26:40 Min (°C) = 0.57 Max (°C) =7.62 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = cer senin']
+Targu_Frumos: 12 \ marți \ 23:3:2021 \ 19:17:06
+[' Răsarit = 06:08:59 Apus = 18:28:03 Min (°C) = -0.9 Max (°C) =5.56 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = nori 25-50%']
+Targu_Frumos: 12 \ miercuri \ 24:3:2021 \ 19:15:38
+[' Răsarit = 06:06:57 Apus = 18:29:27 Min (°C) = -1.01 Max (°C) =2.81 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = zăpadă slabă']
+Targu_Frumos: 12 \ joi \ 25:3:2021 \ 19:15:36
+[' Răsarit = 06:04:56 Apus = 18:30:50 Min (°C) = -0.33 Max (°C) =7.4 Presiune = 1020 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 353 Stare = nori 85-100%']
+Targu_Frumos: 12 \ vineri \ 26:3:2021 \ 19:20:24
+[' Răsarit = 06:02:55 Apus = 18:32:13 Min (°C) = -0.1 Max (°C) =11.05 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Targu_Frumos: 12 \ sâmbătă \ 27:3:2021 \ 19:20:05
+[' Răsarit = 06:00:54 Apus = 18:33:36 Min (°C) = 3.23 Max (°C) =13.77 Presiune = 1025 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 136 Stare = cer senin']
+Targu_Frumos: 12 \ duminică \ 28:3:2021 \ 19:15:53
+[' Răsarit = 06:58:53 Apus = 19:34:59 Min (°C) = 4.46 Max (°C) =16.1 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 310 Stare = nori 25-50%']
+Targu_Frumos: 13 \ luni \ 29:3:2021 \ 19:14:52
+[' Răsarit = 06:56:52 Apus = 19:36:22 Min (°C) = 3.81 Max (°C) =10.95 Presiune = 1031 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 338 Stare = nori 50-85%']
+Targu_Frumos: 13 \ marți \ 30:3:2021 \ 19:13:42
+[' Răsarit = 06:54:52 Apus = 19:37:45 Min (°C) = 3.16 Max (°C) =12.93 Presiune = 1029 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = cer senin']
+Targu_Frumos: 13 \ miercuri \ 31:3:2021 \ 19:13:35
+[' Răsarit = 06:52:52 Apus = 19:39:08 Min (°C) = 5.56 Max (°C) =13.17 Presiune = 1024 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Targu_Frumos: 13 \ joi \ 01:4:2021 \ 19:14:13
+[' Răsarit = 06:50:52 Apus = 19:40:31 Min (°C) = 9.25 Max (°C) =17.92 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.09 Viteza vântului = 2.57 Unghiul vântului = 190 Stare = cer senin']
+Targu_Frumos: 13 \ vineri \ 02:4:2021 \ 19:17:13
+[' Răsarit = 06:48:52 Apus = 19:41:54 Min (°C) = 6.12 Max (°C) =11.61 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.02 Viteza vântului = 8.94 Unghiul vântului = 330 Stare = ploaie ușoară']
+Targu_Frumos: 13 \ sâmbătă \ 03:4:2021 \ 20:38:26
+[' Răsarit = 06:46:53 Apus = 19:43:17 Min (°C) = 2.96 Max (°C) =9.12 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 320 Stare = ploaie ușoară']
+Targu_Frumos: 13 \ duminică \ 04:4:2021 \ 20:17:22
+[' Răsarit = 06:44:54 Apus = 19:44:40 Min (°C) = 3.61 Max (°C) =9.67 Presiune = 1016 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 316 Stare = nori 85-100%']
+Targu_Frumos: 14 \ luni \ 05:4:2021 \ 14:44:55
+[' Răsarit = 06:42:56 Apus = 19:46:03 Min (°C) = 1.17 Max (°C) =12.91 Presiune = 1007 Umiditate (%) = 45 Index UV = 2.96 Viteza vântului = 1.79 Unghiul vântului = 203 Stare = nori 10-25%']
+Targu_Frumos: 14 \ luni \ 05:4:2021 \ 19:15:46
+[' Răsarit = 06:42:56 Apus = 19:46:03 Min (°C) = 1.17 Max (°C) =13.37 Presiune = 1007 Umiditate (%) = 39 Index UV = 0.11 Viteza vântului = 4.92 Unghiul vântului = 201 Stare = nori 50-85%']
+Targu_Frumos: 14 \ marți \ 06:4:2021 \ 20:19:43
+[' Răsarit = 06:40:57 Apus = 19:47:26 Min (°C) = 2.87 Max (°C) =14.78 Presiune = 999 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 330 Stare = cer senin']
+Targu_Frumos: 14 \ miercuri \ 07:4:2021 \ 19:14:05
+[' Răsarit = 06:39:00 Apus = 19:48:49 Min (°C) = 1.28 Max (°C) =6.53 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.12 Viteza vântului = 4.92 Unghiul vântului = 314 Stare = nori 50-85%']
+Targu_Frumos: 14 \ joi \ 08:4:2021 \ 19:13:52
+[' Răsarit = 06:37:03 Apus = 19:50:12 Min (°C) = -0.33 Max (°C) =8.84 Presiune = 1019 Umiditate (%) = 36 Index UV = 0.11 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 10-25%']
+Targu_Frumos: 14 \ vineri \ 09:4:2021 \ 19:14:17
+[' Răsarit = 06:35:06 Apus = 19:51:36 Min (°C) = 0.56 Max (°C) =11.39 Presiune = 1026 Umiditate (%) = 26 Index UV = 0.14 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Targu_Frumos: 14 \ sâmbătă \ 10:4:2021 \ 19:13:49
+[' Răsarit = 06:33:10 Apus = 19:52:59 Min (°C) = 1.33 Max (°C) =13.59 Presiune = 1022 Umiditate (%) = 28 Index UV = 0.15 Viteza vântului = 4.63 Unghiul vântului = 130 Stare = nori 10-25%']
+Targu_Frumos: 14 \ duminică \ 11:4:2021 \ 19:15:24
+[' Răsarit = 06:31:15 Apus = 19:54:22 Min (°C) = 2.9 Max (°C) =14.87 Presiune = 1024 Umiditate (%) = 30 Index UV = 0.16 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = cer senin']
+Targu_Frumos: 15 \ luni \ 12:4:2021 \ 21:59:06
+[' Răsarit = 06:29:21 Apus = 19:55:45 Min (°C) = 4.6 Max (°C) =17.73 Presiune = 1018 Umiditate (%) = 20 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = ploaie ușoară']
+Targu_Frumos: 15 \ marți \ 13:4:2021 \ 19:14:48
+[' Răsarit = 06:27:27 Apus = 19:57:09 Min (°C) = 7.95 Max (°C) =19.38 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.13 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = cer senin']
+Targu_Frumos: 15 \ miercuri \ 14:4:2021 \ 19:15:04
+[' Răsarit = 06:25:33 Apus = 19:58:32 Min (°C) = 5.6 Max (°C) =13.54 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.02 Viteza vântului = 2.6 Unghiul vântului = 301 Stare = ploaie ușoară']
+Targu_Frumos: 15 \ joi \ 15:4:2021 \ 19:15:47
+[' Răsarit = 06:23:41 Apus = 19:59:56 Min (°C) = 2.86 Max (°C) =8.6 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.04 Viteza vântului = 4.92 Unghiul vântului = 315 Stare = ploaie ușoară']
+Targu_Frumos: 15 \ vineri \ 16:4:2021 \ 19:14:31
+[' Răsarit = 06:21:49 Apus = 20:01:19 Min (°C) = 3.58 Max (°C) =11.34 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.16 Viteza vântului = 0.45 Unghiul vântului = 127 Stare = nori 85-100%']
+Targu_Frumos: 15 \ sâmbătă \ 17:4:2021 \ 19:14:20
+[' Răsarit = 06:19:58 Apus = 20:02:43 Min (°C) = 2.83 Max (°C) =13.22 Presiune = 1018 Umiditate (%) = 47 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = cer senin']
+Targu_Frumos: 15 \ duminică \ 18:4:2021 \ 19:13:53
+[' Răsarit = 06:18:08 Apus = 20:04:06 Min (°C) = 4.72 Max (°C) =14.07 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.09 Viteza vântului = 0.89 Unghiul vântului = 67 Stare = nori 85-100%']
+Targu_Frumos: 16 \ luni \ 19:4:2021 \ 19:14:30
+[' Răsarit = 06:16:19 Apus = 20:05:30 Min (°C) = 7.97 Max (°C) =11.13 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.09 Viteza vântului = 0.85 Unghiul vântului = 24 Stare = nori 85-100%']
+Targu_Frumos: 16 \ marți \ 20:4:2021 \ 19:14:07
+[' Răsarit = 06:14:31 Apus = 20:06:53 Min (°C) = 7.77 Max (°C) =12.47 Presiune = 1008 Umiditate (%) = 59 Index UV = 0.17 Viteza vântului = 1.34 Unghiul vântului = 241 Stare = nori 50-85%']
+Targu_Frumos: 16 \ miercuri \ 21:4:2021 \ 19:14:12
+[' Răsarit = 06:12:43 Apus = 20:08:17 Min (°C) = 5.66 Max (°C) =15.9 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 1.34 Unghiul vântului = 202 Stare = nori 85-100%']
+Targu_Frumos: 16 \ joi \ 22:4:2021 \ 19:14:44
+[' Răsarit = 06:10:57 Apus = 20:09:40 Min (°C) = 6.58 Max (°C) =18.56 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.19 Viteza vântului = 2.68 Unghiul vântului = 180 Stare = nori 85-100%']
+Targu_Frumos: 16 \ vineri \ 23:4:2021 \ 19:14:00
+[' Răsarit = 06:09:12 Apus = 20:11:04 Min (°C) = 4.96 Max (°C) =10.78 Presiune = 1019 Umiditate (%) = 66 Index UV = 0.24 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = nori 10-25%']
+Targu_Frumos: 16 \ sâmbătă \ 24:4:2021 \ 19:14:12
+[' Răsarit = 06:07:28 Apus = 20:12:27 Min (°C) = 3.08 Max (°C) =12.34 Presiune = 1021 Umiditate (%) = 37 Index UV = 0.24 Viteza vântului = 2.06 Unghiul vântului = 50 Stare = cer senin']
+Targu_Frumos: 16 \ duminică \ 25:4:2021 \ 19:14:26
+[' Răsarit = 06:05:44 Apus = 20:13:51 Min (°C) = 6.33 Max (°C) =15.76 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.1 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = nori 10-25%']
+Targu_Frumos: 17 \ luni \ 26:4:2021 \ 19:13:57
+[' Răsarit = 06:04:02 Apus = 20:15:14 Min (°C) = 3.97 Max (°C) =10.04 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.25 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 10-25%']
+Targu_Frumos: 17 \ marți \ 27:4:2021 \ 19:15:31
+[' Răsarit = 06:02:22 Apus = 20:16:38 Min (°C) = 4.76 Max (°C) =7.29 Presiune = 1016 Umiditate (%) = 76 Index UV = 0.25 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = nori 10-25%']
+Targu_Frumos: 17 \ miercuri \ 28:4:2021 \ 19:14:14
+[' Răsarit = 06:00:42 Apus = 20:18:01 Min (°C) = 1.4 Max (°C) =7.89 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.17 Viteza vântului = 1.79 Unghiul vântului = 151 Stare = nori 85-100%']
+Targu_Frumos: 17 \ joi \ 29:4:2021 \ 19:24:40
+[' Răsarit = 05:59:03 Apus = 20:19:24 Min (°C) = 2.75 Max (°C) =17.4 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.31 Viteza vântului = 6.69 Unghiul vântului = 150 Stare = cer senin']
+Targu_Frumos: 17 \ vineri \ 30:4:2021 \ 19:14:14
+[' Răsarit = 05:57:26 Apus = 20:20:47 Min (°C) = 8.22 Max (°C) =22.81 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.29 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 10-25%']
+Targu_Frumos: 17 \ sâmbătă \ 01:5:2021 \ 19:15:01
+[' Răsarit = 05:55:50 Apus = 20:22:09 Min (°C) = 11.72 Max (°C) =24.14 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.29 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = cer senin']
+Targu_Frumos: 17 \ duminică \ 02:5:2021 \ 20:21:20
+[' Răsarit = 05:54:16 Apus = 20:23:32 Min (°C) = 15.08 Max (°C) =26.51 Presiune = 1004 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 10-25%']
+Targu_Frumos: 18 \ luni \ 03:5:2021 \ 19:14:25
+[' Răsarit = 05:52:43 Apus = 20:24:54 Min (°C) = 9.28 Max (°C) =18.27 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.05 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = cer senin']
+Targu_Frumos: 18 \ marți \ 04:5:2021 \ 19:15:56
+[' Răsarit = 05:51:11 Apus = 20:26:16 Min (°C) = 6.28 Max (°C) =17.23 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.36 Viteza vântului = 4.12 Unghiul vântului = 100 Stare = cer senin']
+Targu_Frumos: 18 \ miercuri \ 05:5:2021 \ 19:14:06
+[' Răsarit = 05:49:40 Apus = 20:27:38 Min (°C) = 6.14 Max (°C) =20.64 Presiune = 1007 Umiditate (%) = 45 Index UV = 0.36 Viteza vântului = 5.66 Unghiul vântului = 180 Stare = cer senin']
+Targu_Frumos: 18 \ joi \ 06:5:2021 \ 19:15:07
+[' Răsarit = 05:48:12 Apus = 20:28:59 Min (°C) = 10.7 Max (°C) =15.57 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.32 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = cer senin']
+Targu_Frumos: 18 \ vineri \ 07:5:2021 \ 19:13:38
+[' Răsarit = 05:46:44 Apus = 20:30:20 Min (°C) = 7.76 Max (°C) =20.56 Presiune = 1007 Umiditate (%) = 56 Index UV = 0.08 Viteza vântului = 3.58 Unghiul vântului = 172 Stare = nori 85-100%']
+Targu_Frumos: 18 \ sâmbătă \ 08:5:2021 \ 19:14:17
+[' Răsarit = 05:45:18 Apus = 20:31:40 Min (°C) = 7.08 Max (°C) =13.01 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.33 Viteza vântului = 5.36 Unghiul vântului = 318 Stare = nori 10-25%']
+Targu_Frumos: 18 \ duminică \ 09:5:2021 \ 19:13:59
+[' Răsarit = 05:43:54 Apus = 20:33:00 Min (°C) = 4.09 Max (°C) =17.06 Presiune = 1024 Umiditate (%) = 29 Index UV = 0.42 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Targu_Frumos: 19 \ luni \ 10:5:2021 \ 19:14:04
+[' Răsarit = 05:42:32 Apus = 20:34:20 Min (°C) = 6.03 Max (°C) =20.26 Presiune = 1020 Umiditate (%) = 37 Index UV = 0.42 Viteza vântului = 3.6 Unghiul vântului = 160 Stare = cer senin']
+Targu_Frumos: 19 \ marți \ 11:5:2021 \ 19:14:55
+[' Răsarit = 05:41:11 Apus = 20:35:39 Min (°C) = 7.15 Max (°C) =22.6 Presiune = 1016 Umiditate (%) = 31 Index UV = 0.41 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Targu_Frumos: 19 \ miercuri \ 12:5:2021 \ 19:14:08
+[' Răsarit = 05:39:51 Apus = 20:36:57 Min (°C) = 10.95 Max (°C) =17.79 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.1 Viteza vântului = 1.27 Unghiul vântului = 116 Stare = nori 85-100%']
+Targu_Frumos: 19 \ joi \ 13:5:2021 \ 19:14:56
+[' Răsarit = 05:38:34 Apus = 20:38:15 Min (°C) = 8.73 Max (°C) =16.18 Presiune = 1004 Umiditate (%) = 74 Index UV = 0.42 Viteza vântului = 5.96 Unghiul vântului = 155 Stare = nori 50-85%']
+Targu_Frumos: 19 \ vineri \ 14:5:2021 \ 19:14:48
+[' Răsarit = 05:37:18 Apus = 20:39:32 Min (°C) = 8.61 Max (°C) =19.37 Presiune = 1007 Umiditate (%) = 65 Index UV = 0.41 Viteza vântului = 1.79 Unghiul vântului = 269 Stare = nori 50-85%']
+Targu_Frumos: 19 \ sâmbătă \ 15:5:2021 \ 19:14:18
+[' Răsarit = 05:36:04 Apus = 20:40:49 Min (°C) = 10.47 Max (°C) =20.54 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.43 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = nori 10-25%']
+Targu_Frumos: 19 \ duminică \ 16:5:2021 \ 19:14:54
+[' Răsarit = 05:34:52 Apus = 20:42:04 Min (°C) = 10.89 Max (°C) =22.27 Presiune = 1006 Umiditate (%) = 49 Index UV = 0.32 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']
+Targu_Frumos: 20 \ luni \ 17:5:2021 \ 19:15:24
+[' Răsarit = 05:33:41 Apus = 20:43:19 Min (°C) = 12.19 Max (°C) =20.93 Presiune = 1002 Umiditate (%) = 49 Index UV = 0.47 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Targu_Frumos: 20 \ marți \ 18:5:2021 \ 19:14:52
+[' Răsarit = 05:32:33 Apus = 20:44:33 Min (°C) = 11.53 Max (°C) =18.53 Presiune = 1001 Umiditate (%) = 69 Index UV = 0.32 Viteza vântului = 7.95 Unghiul vântului = 303 Stare = ploaie ușoară']
+Targu_Frumos: 20 \ miercuri \ 19:5:2021 \ 19:13:55
+[' Răsarit = 05:31:27 Apus = 20:45:46 Min (°C) = 11.44 Max (°C) =17.68 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.5 Viteza vântului = 3.91 Unghiul vântului = 344 Stare = nori 25-50%']
+Targu_Frumos: 20 \ joi \ 20:5:2021 \ 19:14:24
+[' Răsarit = 05:30:22 Apus = 20:46:58 Min (°C) = 10.13 Max (°C) =15.98 Presiune = 1009 Umiditate (%) = 70 Index UV = 0.45 Viteza vântului = 4.61 Unghiul vântului = 31 Stare = nori 85-100%']
+Targu_Frumos: 20 \ vineri \ 21:5:2021 \ 19:15:30
+[' Răsarit = 05:29:20 Apus = 20:48:09 Min (°C) = 10.24 Max (°C) =20.31 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.52 Viteza vântului = 3.47 Unghiul vântului = 72 Stare = nori 50-85%']
+Targu_Frumos: 20 \ sâmbătă \ 22:5:2021 \ 19:14:52
+[' Răsarit = 05:28:19 Apus = 20:49:19 Min (°C) = 9.15 Max (°C) =22.65 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.52 Viteza vântului = 5.78 Unghiul vântului = 168 Stare = nori 85-100%']
+Targu_Frumos: 20 \ duminică \ 23:5:2021 \ 19:15:13
+[' Răsarit = 05:27:21 Apus = 20:50:28 Min (°C) = 13.58 Max (°C) =23.32 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.55 Viteza vântului = 3.18 Unghiul vântului = 76 Stare = nori 50-85%']
+Targu_Frumos: 21 \ luni \ 24:5:2021 \ 19:13:59
+[' Răsarit = 05:26:24 Apus = 20:51:36 Min (°C) = 10.8 Max (°C) =19.24 Presiune = 1023 Umiditate (%) = 65 Index UV = 0.57 Viteza vântului = 2.36 Unghiul vântului = 42 Stare = nori 50-85%']
+Targu_Frumos: 21 \ marți \ 25:5:2021 \ 19:13:55
+[' Răsarit = 05:25:30 Apus = 20:52:42 Min (°C) = 11.06 Max (°C) =22.05 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.61 Viteza vântului = 6.75 Unghiul vântului = 152 Stare = nori 25-50%']
+Targu_Frumos: 21 \ miercuri \ 26:5:2021 \ 19:16:15
+[' Răsarit = 05:24:38 Apus = 20:53:47 Min (°C) = 13.51 Max (°C) =20.16 Presiune = 1019 Umiditate (%) = 74 Index UV = 0.4 Viteza vântului = 2.35 Unghiul vântului = 23 Stare = nori 85-100%']
+Targu_Frumos: 21 \ joi \ 27:5:2021 \ 19:14:09
+[' Răsarit = 05:23:49 Apus = 20:54:51 Min (°C) = 12.36 Max (°C) =22.1 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.41 Viteza vântului = 1.34 Unghiul vântului = 124 Stare = nori 85-100%']
+Targu_Frumos: 21 \ vineri \ 28:5:2021 \ 19:14:16
+[' Răsarit = 05:23:01 Apus = 20:55:53 Min (°C) = 13.12 Max (°C) =21.1 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.22 Viteza vântului = 5.33 Unghiul vântului = 321 Stare = nori 85-100%']
+Targu_Frumos: 21 \ sâmbătă \ 29:5:2021 \ 19:13:51
+[' Răsarit = 05:22:16 Apus = 20:56:54 Min (°C) = 12.64 Max (°C) =20.18 Presiune = 1014 Umiditate (%) = 73 Index UV = 0.24 Viteza vântului = 3.44 Unghiul vântului = 303 Stare = nori 85-100%']
+Targu_Frumos: 21 \ duminică \ 30:5:2021 \ 19:13:38
+[' Răsarit = 05:21:33 Apus = 20:57:54 Min (°C) = 11.56 Max (°C) =18.36 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.49 Viteza vântului = 5.12 Unghiul vântului = 351 Stare = nori 50-85%']
+Targu_Frumos: 22 \ marți \ 01:6:2021 \ 19:14:42
+[' Răsarit = 05:20:14 Apus = 20:59:48 Min (°C) = 9.67 Max (°C) =15.49 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.42 Viteza vântului = 5.69 Unghiul vântului = 24 Stare = nori 85-100%']
+Targu_Frumos: 22 \ miercuri \ 02:6:2021 \ 19:12:17
+[' Răsarit = 05:19:38 Apus = 21:00:42 Min (°C) = 9.65 Max (°C) =13.3 Presiune = 1019 Umiditate (%) = 91 Index UV = 0.05 Viteza vântului = 7.33 Unghiul vântului = 348 Stare = ploaie ușoară']
+Targu_Frumos: 22 \ joi \ 03:6:2021 \ 19:12:44
+[' Răsarit = 05:19:04 Apus = 21:01:35 Min (°C) = 10.64 Max (°C) =19.72 Presiune = 1022 Umiditate (%) = 72 Index UV = 0.41 Viteza vântului = 4.98 Unghiul vântului = 355 Stare = nori 85-100%']
+Targu_Frumos: 22 \ vineri \ 04:6:2021 \ 19:19:49
+[' Răsarit = 05:18:33 Apus = 21:02:26 Min (°C) = 10.38 Max (°C) =21.25 Presiune = 1022 Umiditate (%) = 64 Index UV = 0.63 Viteza vântului = 2.61 Unghiul vântului = 338 Stare = nori 50-85%']
+Targu_Frumos: 22 \ sâmbătă \ 05:6:2021 \ 19:15:26
+[' Răsarit = 05:18:04 Apus = 21:03:15 Min (°C) = 12.4 Max (°C) =22.61 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.04 Viteza vântului = 2.82 Unghiul vântului = 291 Stare = ploaie ușoară']
+Targu_Frumos: 22 \ duminică \ 06:6:2021 \ 19:14:32
+[' Răsarit = 05:17:38 Apus = 21:04:02 Min (°C) = 13.39 Max (°C) =21.68 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.64 Viteza vântului = 3.36 Unghiul vântului = 323 Stare = nori 50-85%']
+Targu_Frumos: 23 \ luni \ 07:6:2021 \ 19:14:32
+[' Răsarit = 05:17:14 Apus = 21:04:47 Min (°C) = 12.35 Max (°C) =25.04 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.27 Viteza vântului = 2.71 Unghiul vântului = 334 Stare = nori 50-85%']
+Targu_Frumos: 23 \ marți \ 08:6:2021 \ 19:14:07
+[' Răsarit = 05:16:52 Apus = 21:05:30 Min (°C) = 13.29 Max (°C) =24.29 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.65 Viteza vântului = 5.23 Unghiul vântului = 324 Stare = nori 25-50%']
+Targu_Frumos: 23 \ miercuri \ 09:6:2021 \ 19:14:57
+[' Răsarit = 05:16:33 Apus = 21:06:11 Min (°C) = 13.59 Max (°C) =25.04 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.64 Viteza vântului = 5.62 Unghiul vântului = 332 Stare = nori 25-50%']
+Targu_Frumos: 23 \ joi \ 10:6:2021 \ 19:14:04
+[' Răsarit = 05:16:17 Apus = 21:06:50 Min (°C) = 13.35 Max (°C) =22.89 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.64 Viteza vântului = 5.3 Unghiul vântului = 327 Stare = nori 50-85%']
+Targu_Frumos: 23 \ vineri \ 11:6:2021 \ 19:14:03
+[' Răsarit = 05:16:03 Apus = 21:07:27 Min (°C) = 13.07 Max (°C) =23.24 Presiune = 1012 Umiditate (%) = 71 Index UV = 0.55 Viteza vântului = 3.19 Unghiul vântului = 323 Stare = nori 50-85%']
+Targu_Frumos: 23 \ sâmbătă \ 12:6:2021 \ 19:14:16
+[' Răsarit = 05:15:52 Apus = 21:08:02 Min (°C) = 13.61 Max (°C) =25.12 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.46 Viteza vântului = 2.81 Unghiul vântului = 226 Stare = nori 85-100%']
+Targu_Frumos: 23 \ duminică \ 13:6:2021 \ 19:19:44
+[' Răsarit = 05:15:43 Apus = 21:08:34 Min (°C) = 13.6 Max (°C) =17.57 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.58 Viteza vântului = 7.08 Unghiul vântului = 339 Stare = nori 85-100%']
+Targu_Frumos: 24 \ luni \ 14:6:2021 \ 19:14:11
+[' Răsarit = 05:15:36 Apus = 21:09:05 Min (°C) = 11.51 Max (°C) =16.98 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.07 Viteza vântului = 7.07 Unghiul vântului = 312 Stare = nori 85-100%']
+Targu_Frumos: 24 \ marți \ 15:6:2021 \ 19:16:18
+[' Răsarit = 05:15:32 Apus = 21:09:33 Min (°C) = 13.16 Max (°C) =21.25 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.58 Viteza vântului = 8.38 Unghiul vântului = 337 Stare = nori 50-85%']
+Targu_Frumos: 24 \ miercuri \ 16:6:2021 \ 19:15:40
+[' Răsarit = 05:15:31 Apus = 21:09:58 Min (°C) = 15.7 Max (°C) =22.36 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.56 Viteza vântului = 6.41 Unghiul vântului = 356 Stare = ploaie ușoară']
+Targu_Frumos: 24 \ joi \ 17:6:2021 \ 19:14:28
+[' Răsarit = 05:15:32 Apus = 21:10:21 Min (°C) = 14.8 Max (°C) =23.09 Presiune = 1017 Umiditate (%) = 78 Index UV = 0.31 Viteza vântului = 4.49 Unghiul vântului = 355 Stare = nori 85-100%']
+Targu_Frumos: 24 \ vineri \ 18:6:2021 \ 19:15:08
+[' Răsarit = 05:15:35 Apus = 21:10:42 Min (°C) = 17.05 Max (°C) =22.55 Presiune = 1016 Umiditate (%) = 89 Index UV = 0.68 Viteza vântului = 3.67 Unghiul vântului = 36 Stare = nori 85-100%']
+Targu_Frumos: 24 \ sâmbătă \ 19:6:2021 \ 19:14:13
+[' Răsarit = 05:15:41 Apus = 21:11:01 Min (°C) = 15.44 Max (°C) =22.02 Presiune = 1016 Umiditate (%) = 84 Index UV = 0.66 Viteza vântului = 1.67 Unghiul vântului = 20 Stare = nori 85-100%']
+Targu_Frumos: 24 \ duminică \ 20:6:2021 \ 19:15:11
+[' Răsarit = 05:15:50 Apus = 21:11:17 Min (°C) = 15.07 Max (°C) =24.55 Presiune = 1011 Umiditate (%) = 85 Index UV = 0.5 Viteza vântului = 3.03 Unghiul vântului = 340 Stare = nori 85-100%']
+Targu_Frumos: 25 \ luni \ 21:6:2021 \ 19:15:54
+[' Răsarit = 05:16:01 Apus = 21:11:30 Min (°C) = 16.25 Max (°C) =27.45 Presiune = 1011 Umiditate (%) = 73 Index UV = 0.52 Viteza vântului = 2.33 Unghiul vântului = 129 Stare = nori 50-85%']
+Targu_Frumos: 25 \ marți \ 22:6:2021 \ 19:15:22
+[' Răsarit = 05:16:14 Apus = 21:11:41 Min (°C) = 17.51 Max (°C) =28.33 Presiune = 1011 Umiditate (%) = 63 Index UV = 0.69 Viteza vântului = 1.16 Unghiul vântului = 73 Stare = nori 10-25%']
+Targu_Frumos: 25 \ miercuri \ 23:6:2021 \ 19:14:35
+[' Răsarit = 05:16:30 Apus = 21:11:50 Min (°C) = 19.73 Max (°C) =30.61 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.42 Viteza vântului = 2.11 Unghiul vântului = 350 Stare = cer senin']
+Targu_Frumos: 25 \ joi \ 24:6:2021 \ 19:15:18
+[' Răsarit = 05:16:48 Apus = 21:11:56 Min (°C) = 20.09 Max (°C) =31.62 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.65 Viteza vântului = 2.01 Unghiul vântului = 24 Stare = nori 25-50%']
+Targu_Frumos: 25 \ vineri \ 25:6:2021 \ 19:14:39
+[' Răsarit = 05:17:08 Apus = 21:11:59 Min (°C) = 21.7 Max (°C) =31.23 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.51 Viteza vântului = 3.36 Unghiul vântului = 284 Stare = nori 50-85%']
+Targu_Frumos: 25 \ sâmbătă \ 26:6:2021 \ 19:14:12
+[' Răsarit = 05:17:31 Apus = 21:12:00 Min (°C) = 20.51 Max (°C) =29.11 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.71 Viteza vântului = 4.52 Unghiul vântului = 316 Stare = nori 10-25%']
+Targu_Frumos: 25 \ duminică \ 27:6:2021 \ 19:14:08
+[' Răsarit = 05:17:56 Apus = 21:11:59 Min (°C) = 17.23 Max (°C) =25.22 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.69 Viteza vântului = 4.25 Unghiul vântului = 354 Stare = nori 25-50%']
+Targu_Frumos: 26 \ luni \ 28:6:2021 \ 19:16:13
+[' Răsarit = 05:18:23 Apus = 21:11:54 Min (°C) = 16.52 Max (°C) =27.59 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.39 Viteza vântului = 1.37 Unghiul vântului = 27 Stare = nori 50-85%']
+Targu_Frumos: 26 \ marți \ 29:6:2021 \ 19:15:51
+[' Răsarit = 05:18:53 Apus = 21:11:48 Min (°C) = 16.99 Max (°C) =28.98 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.65 Viteza vântului = 1.41 Unghiul vântului = 180 Stare = nori 85-100%']
+Targu_Frumos: 26 \ miercuri \ 30:6:2021 \ 19:14:49
+[' Răsarit = 05:19:25 Apus = 21:11:38 Min (°C) = 18.31 Max (°C) =31.54 Presiune = 1011 Umiditate (%) = 90 Index UV = 0.18 Viteza vântului = 6.88 Unghiul vântului = 24 Stare = ploaie ușoară']
+Targu_Frumos: 26 \ joi \ 01:7:2021 \ 19:15:51
+[' Răsarit = 05:19:59 Apus = 21:11:27 Min (°C) = 16.9 Max (°C) =28.86 Presiune = 1008 Umiditate (%) = 59 Index UV = 0.21 Viteza vântului = 1.45 Unghiul vântului = 78 Stare = ploaie ușoară']
+Targu_Frumos: 26 \ vineri \ 02:7:2021 \ 19:14:16
+[' Răsarit = 05:20:35 Apus = 21:11:12 Min (°C) = 16.84 Max (°C) =22.91 Presiune = 1009 Umiditate (%) = 84 Index UV = 0.4 Viteza vântului = 3.55 Unghiul vântului = 288 Stare = ploaie ușoară']
+Targu_Frumos: 26 \ sâmbătă \ 03:7:2021 \ 19:14:31
+[' Răsarit = 05:21:13 Apus = 21:10:55 Min (°C) = 14.58 Max (°C) =23.54 Presiune = 1009 Umiditate (%) = 73 Index UV = 0.61 Viteza vântului = 3.72 Unghiul vântului = 346 Stare = nori 25-50%']
+Targu_Frumos: 26 \ duminică \ 04:7:2021 \ 19:14:11
+[' Răsarit = 05:21:53 Apus = 21:10:36 Min (°C) = 14.37 Max (°C) =24.27 Presiune = 1008 Umiditate (%) = 75 Index UV = 0.62 Viteza vântului = 5.31 Unghiul vântului = 341 Stare = nori 25-50%']
+Targu_Frumos: 27 \ luni \ 05:7:2021 \ 19:14:48
+[' Răsarit = 05:22:35 Apus = 21:10:14 Min (°C) = 16.57 Max (°C) =22.05 Presiune = 1008 Umiditate (%) = 89 Index UV = 0.12 Viteza vântului = 4.44 Unghiul vântului = 310 Stare = nori 85-100%']
+Targu_Frumos: 27 \ marți \ 06:7:2021 \ 19:15:13
+[' Răsarit = 05:23:18 Apus = 21:09:49 Min (°C) = 18.49 Max (°C) =24.64 Presiune = 1012 Umiditate (%) = 79 Index UV = 0.68 Viteza vântului = 4.89 Unghiul vântului = 351 Stare = nori 50-85%']
+Targu_Frumos: 27 \ miercuri \ 07:7:2021 \ 19:14:14
+[' Răsarit = 05:24:04 Apus = 21:09:22 Min (°C) = 18.26 Max (°C) =27.19 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.68 Viteza vântului = 3.99 Unghiul vântului = 62 Stare = nori 25-50%']
+Targu_Frumos: 27 \ joi \ 08:7:2021 \ 19:15:11
+[' Răsarit = 05:24:52 Apus = 21:08:53 Min (°C) = 18.71 Max (°C) =28.5 Presiune = 1022 Umiditate (%) = 64 Index UV = 0.37 Viteza vântului = 0.44 Unghiul vântului = 279 Stare = nori 85-100%']
+Targu_Frumos: 27 \ vineri \ 09:7:2021 \ 19:14:53
+[' Răsarit = 05:25:41 Apus = 21:08:21 Min (°C) = 19.1 Max (°C) =29.78 Presiune = 1019 Umiditate (%) = 59 Index UV = 0.66 Viteza vântului = 3.79 Unghiul vântului = 102 Stare = cer senin']
+Targu_Frumos: 27 \ sâmbătă \ 10:7:2021 \ 19:14:07
+[' Răsarit = 05:26:32 Apus = 21:07:46 Min (°C) = 16.85 Max (°C) =29.5 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.64 Viteza vântului = 2.46 Unghiul vântului = 108 Stare = cer senin']
+Targu_Frumos: 27 \ duminică \ 11:7:2021 \ 19:14:24
+[' Răsarit = 05:27:25 Apus = 21:07:10 Min (°C) = 17.82 Max (°C) =29.02 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.62 Viteza vântului = 3.53 Unghiul vântului = 129 Stare = nori 25-50%']
+Targu_Frumos: 28 \ luni \ 12:7:2021 \ 19:15:06
+[' Răsarit = 05:28:19 Apus = 21:06:31 Min (°C) = 18 Max (°C) =29.62 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.25 Viteza vântului = 0.98 Unghiul vântului = 233 Stare = nori 25-50%']
+Targu_Frumos: 28 \ marți \ 13:7:2021 \ 19:15:03
+[' Răsarit = 05:29:15 Apus = 21:05:49 Min (°C) = 18 Max (°C) =30.92 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.64 Viteza vântului = 2.39 Unghiul vântului = 111 Stare = cer senin']
+Targu_Frumos: 28 \ miercuri \ 14:7:2021 \ 19:14:27
+[' Răsarit = 05:30:13 Apus = 21:05:05 Min (°C) = 18.93 Max (°C) =31.12 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.66 Viteza vântului = 3.86 Unghiul vântului = 130 Stare = cer senin']
+Targu_Frumos: 28 \ joi \ 15:7:2021 \ 19:14:42
+[' Răsarit = 05:31:12 Apus = 21:04:19 Min (°C) = 19.38 Max (°C) =31.43 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.65 Viteza vântului = 4.58 Unghiul vântului = 134 Stare = cer senin']
+Targu_Frumos: 28 \ vineri \ 16:7:2021 \ 19:14:32
+[' Răsarit = 05:32:12 Apus = 21:03:30 Min (°C) = 18.85 Max (°C) =31.19 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.56 Viteza vântului = 2.89 Unghiul vântului = 90 Stare = nori 10-25%']
+Targu_Frumos: 28 \ sâmbătă \ 17:7:2021 \ 19:14:50
+[' Răsarit = 05:33:13 Apus = 21:02:40 Min (°C) = 19.03 Max (°C) =32.1 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.52 Viteza vântului = 1.8 Unghiul vântului = 79 Stare = nori 10-25%']
+Targu_Frumos: 28 \ duminică \ 18:7:2021 \ 19:15:08
+[' Răsarit = 05:34:16 Apus = 21:01:47 Min (°C) = 22.58 Max (°C) =33.16 Presiune = 1009 Umiditate (%) = 61 Index UV = 0.45 Viteza vântului = 0.98 Unghiul vântului = 312 Stare = nori 50-85%']
+Targu_Frumos: 29 \ luni \ 19:7:2021 \ 19:14:43
+[' Răsarit = 05:35:20 Apus = 21:00:52 Min (°C) = 20.55 Max (°C) =31.13 Presiune = 1009 Umiditate (%) = 77 Index UV = 0.26 Viteza vântului = 4.32 Unghiul vântului = 284 Stare = ploaie intensă']
+Targu_Frumos: 29 \ marți \ 20:7:2021 \ 19:14:30
+[' Răsarit = 05:36:25 Apus = 20:59:54 Min (°C) = 18.26 Max (°C) =25.29 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.47 Viteza vântului = 3.9 Unghiul vântului = 292 Stare = nori 85-100%']
+Targu_Frumos: 29 \ miercuri \ 21:7:2021 \ 19:14:08
+[' Răsarit = 05:37:32 Apus = 20:58:55 Min (°C) = 15.9 Max (°C) =21.6 Presiune = 1015 Umiditate (%) = 88 Index UV = 0.3 Viteza vântului = 7.29 Unghiul vântului = 319 Stare = nori 85-100%']
+Targu_Frumos: 29 \ joi \ 22:7:2021 \ 19:14:01
+[' Răsarit = 05:38:39 Apus = 20:57:53 Min (°C) = 15.44 Max (°C) =24.01 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.55 Viteza vântului = 4.97 Unghiul vântului = 338 Stare = nori 10-25%']
+Targu_Frumos: 29 \ vineri \ 23:7:2021 \ 19:14:23
+[' Răsarit = 05:39:48 Apus = 20:56:50 Min (°C) = 14.34 Max (°C) =25.71 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.33 Viteza vântului = 2.61 Unghiul vântului = 24 Stare = nori 50-85%']
+Targu_Frumos: 29 \ sâmbătă \ 24:7:2021 \ 19:21:25
+[' Răsarit = 05:40:57 Apus = 20:55:44 Min (°C) = 14.73 Max (°C) =27.53 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.22 Viteza vântului = 0.89 Unghiul vântului = 71 Stare = nori 10-25%']
+Targu_Frumos: 29 \ duminică \ 25:7:2021 \ 19:14:48
+[' Răsarit = 05:42:07 Apus = 20:54:37 Min (°C) = 17.51 Max (°C) =28.32 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.52 Viteza vântului = 2.94 Unghiul vântului = 119 Stare = cer senin']
+Targu_Frumos: 30 \ luni \ 26:7:2021 \ 19:14:45
+[' Răsarit = 05:43:18 Apus = 20:53:27 Min (°C) = 16.73 Max (°C) =29.62 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.5 Viteza vântului = 2.72 Unghiul vântului = 117 Stare = cer senin']
+Targu_Frumos: 30 \ marți \ 27:7:2021 \ 19:16:00
+[' Răsarit = 05:44:30 Apus = 20:52:16 Min (°C) = 17.67 Max (°C) =31.89 Presiune = 1016 Umiditate (%) = 66 Index UV = 0.31 Viteza vântului = 2.83 Unghiul vântului = 211 Stare = nori 50-85%']
+Targu_Frumos: 30 \ miercuri \ 28:7:2021 \ 19:17:10
+[' Răsarit = 05:45:43 Apus = 20:51:03 Min (°C) = 20.92 Max (°C) =34.09 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.2 Viteza vântului = 2.62 Unghiul vântului = 135 Stare = nori 25-50%']
+Targu_Frumos: 30 \ joi \ 29:7:2021 \ 19:16:02
+[' Răsarit = 05:46:56 Apus = 20:49:47 Min (°C) = 19.2 Max (°C) =35.65 Presiune = 1009 Umiditate (%) = 66 Index UV = 0.47 Viteza vântului = 6.2 Unghiul vântului = 342 Stare = nori 50-85%']
+Targu_Frumos: 30 \ vineri \ 30:7:2021 \ 19:14:16
+[' Răsarit = 05:48:10 Apus = 20:48:30 Min (°C) = 19.04 Max (°C) =30.24 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.48 Viteza vântului = 2.98 Unghiul vântului = 103 Stare = cer senin']
+Targu_Frumos: 30 \ sâmbătă \ 31:7:2021 \ 19:14:06
+[' Răsarit = 05:49:25 Apus = 20:47:12 Min (°C) = 18.56 Max (°C) =31.65 Presiune = 1008 Umiditate (%) = 49 Index UV = 0.46 Viteza vântului = 2.58 Unghiul vântului = 110 Stare = cer senin']
+Targu_Frumos: 30 \ duminică \ 01:8:2021 \ 19:14:33
+[' Răsarit = 05:50:40 Apus = 20:45:51 Min (°C) = 19.51 Max (°C) =31.98 Presiune = 1008 Umiditate (%) = 47 Index UV = 0.47 Viteza vântului = 3.59 Unghiul vântului = 112 Stare = cer senin']
+Targu_Frumos: 31 \ luni \ 02:8:2021 \ 19:13:55
+[' Răsarit = 05:51:55 Apus = 20:44:29 Min (°C) = 20.39 Max (°C) =33.75 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.44 Viteza vântului = 2.93 Unghiul vântului = 3 Stare = ploaie ușoară']
+Targu_Frumos: 31 \ marți \ 03:8:2021 \ 19:14:25
+[' Răsarit = 05:53:12 Apus = 20:43:05 Min (°C) = 15.68 Max (°C) =26.48 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.32 Viteza vântului = 2.11 Unghiul vântului = 1 Stare = nori 50-85%']
+Targu_Frumos: 31 \ miercuri \ 04:8:2021 \ 19:13:56
+[' Răsarit = 05:54:28 Apus = 20:41:40 Min (°C) = 16.07 Max (°C) =29.19 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.38 Viteza vântului = 5.14 Unghiul vântului = 148 Stare = nori 50-85%']
+Targu_Frumos: 31 \ joi \ 05:8:2021 \ 19:12:08
+[' Răsarit = 05:55:45 Apus = 20:40:13 Min (°C) = 17.08 Max (°C) =32.18 Presiune = 1003 Umiditate (%) = 38 Index UV = 0.41 Viteza vântului = 6.66 Unghiul vântului = 142 Stare = cer senin']
+Targu_Frumos: 31 \ vineri \ 06:8:2021 \ 19:14:28
+[' Răsarit = 05:57:03 Apus = 20:38:44 Min (°C) = 20.34 Max (°C) =30.01 Presiune = 1004 Umiditate (%) = 49 Index UV = 0.35 Viteza vântului = 6.31 Unghiul vântului = 334 Stare = nori 85-100%']
+Targu_Frumos: 31 \ sâmbătă \ 07:8:2021 \ 19:14:02
+[' Răsarit = 05:58:20 Apus = 20:37:14 Min (°C) = 14.75 Max (°C) =27.03 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 3.71 Unghiul vântului = 62 Stare = cer senin']
+Targu_Frumos: 31 \ duminică \ 08:8:2021 \ 19:14:02
+[' Răsarit = 05:59:38 Apus = 20:35:43 Min (°C) = 15.64 Max (°C) =29.42 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.4 Viteza vântului = 3.2 Unghiul vântului = 92 Stare = nori 85-100%']
+Targu_Frumos: 32 \ luni \ 09:8:2021 \ 19:15:06
+[' Răsarit = 06:00:56 Apus = 20:34:10 Min (°C) = 17.96 Max (°C) =32.21 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.31 Viteza vântului = 1.46 Unghiul vântului = 265 Stare = nori 85-100%']
+Targu_Frumos: 32 \ marți \ 10:8:2021 \ 19:15:19
+[' Răsarit = 06:02:15 Apus = 20:32:35 Min (°C) = 18.39 Max (°C) =29.15 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.37 Viteza vântului = 4.23 Unghiul vântului = 17 Stare = nori 25-50%']
+Targu_Frumos: 32 \ miercuri \ 11:8:2021 \ 19:11:51
+[' Răsarit = 06:03:34 Apus = 20:30:59 Min (°C) = 16.74 Max (°C) =30.54 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.35 Viteza vântului = 2.43 Unghiul vântului = 306 Stare = ploaie ușoară']
+Targu_Frumos: 32 \ joi \ 12:8:2021 \ 19:13:13
+[' Răsarit = 06:04:52 Apus = 20:29:22 Min (°C) = 17.3 Max (°C) =26.7 Presiune = 1020 Umiditate (%) = 44 Index UV = 0.32 Viteza vântului = 2.74 Unghiul vântului = 313 Stare = nori 50-85%']
+Targu_Frumos: 32 \ vineri \ 13:8:2021 \ 19:11:59
+[' Răsarit = 06:06:11 Apus = 20:27:44 Min (°C) = 14.73 Max (°C) =27.94 Presiune = 1022 Umiditate (%) = 31 Index UV = 0.34 Viteza vântului = 3.99 Unghiul vântului = 29 Stare = nori 25-50%']
+Targu_Frumos: 32 \ sâmbătă \ 14:8:2021 \ 19:13:25
+[' Răsarit = 06:07:30 Apus = 20:26:04 Min (°C) = 14.75 Max (°C) =28.95 Presiune = 1019 Umiditate (%) = 37 Index UV = 0.33 Viteza vântului = 3.87 Unghiul vântului = 90 Stare = cer senin']
+Targu_Frumos: 32 \ duminică \ 15:8:2021 \ 19:12:18
+[' Răsarit = 06:08:50 Apus = 20:24:23 Min (°C) = 15.66 Max (°C) =31.2 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.32 Viteza vântului = 3.65 Unghiul vântului = 78 Stare = cer senin']
+Targu_Frumos: 33 \ luni \ 16:8:2021 \ 19:11:57
+[' Răsarit = 06:10:09 Apus = 20:22:41 Min (°C) = 17.41 Max (°C) =34.53 Presiune = 1011 Umiditate (%) = 40 Index UV = 0.22 Viteza vântului = 2.75 Unghiul vântului = 79 Stare = nori 50-85%']
+Targu_Frumos: 33 \ marți \ 17:8:2021 \ 19:12:26
+[' Răsarit = 06:11:28 Apus = 20:20:58 Min (°C) = 18.26 Max (°C) =37.27 Presiune = 1007 Umiditate (%) = 24 Index UV = 0.08 Viteza vântului = 1.82 Unghiul vântului = 337 Stare = nori 25-50%']
+Targu_Frumos: 33 \ miercuri \ 18:8:2021 \ 19:12:13
+[' Răsarit = 06:12:48 Apus = 20:19:13 Min (°C) = 15.13 Max (°C) =22.95 Presiune = 1013 Umiditate (%) = 84 Index UV = 0.19 Viteza vântului = 3.53 Unghiul vântului = 342 Stare = ploaie ușoară']
+Targu_Frumos: 33 \ joi \ 19:8:2021 \ 19:11:57
+[' Răsarit = 06:14:07 Apus = 20:17:28 Min (°C) = 14.26 Max (°C) =23.86 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.27 Viteza vântului = 2.91 Unghiul vântului = 6 Stare = nori 25-50%']
+Targu_Frumos: 33 \ vineri \ 20:8:2021 \ 19:12:07
+[' Răsarit = 06:15:26 Apus = 20:15:41 Min (°C) = 13.36 Max (°C) =25.86 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.26 Viteza vântului = 2.46 Unghiul vântului = 23 Stare = cer senin']
+Targu_Frumos: 33 \ sâmbătă \ 21:8:2021 \ 19:13:14
+[' Răsarit = 06:16:46 Apus = 20:13:54 Min (°C) = 14.79 Max (°C) =28.1 Presiune = 1017 Umiditate (%) = 37 Index UV = 0.23 Viteza vântului = 4.55 Unghiul vântului = 30 Stare = nori 85-100%']
+Targu_Frumos: 33 \ duminică \ 22:8:2021 \ 19:12:17
+[' Răsarit = 06:18:05 Apus = 20:12:05 Min (°C) = 16.15 Max (°C) =26.79 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.12 Viteza vântului = 2.51 Unghiul vântului = 92 Stare = nori 50-85%']
+Targu_Frumos: 34 \ luni \ 23:8:2021 \ 19:12:06
+[' Răsarit = 06:19:24 Apus = 20:10:16 Min (°C) = 16.04 Max (°C) =29.71 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.11 Viteza vântului = 2.94 Unghiul vântului = 109 Stare = nori 50-85%']
+Targu_Frumos: 34 \ marți \ 24:8:2021 \ 19:12:05
+[' Răsarit = 06:20:44 Apus = 20:08:25 Min (°C) = 15.72 Max (°C) =31.72 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.09 Viteza vântului = 1.02 Unghiul vântului = 347 Stare = nori 50-85%']
+Targu_Frumos: 34 \ miercuri \ 25:8:2021 \ 19:12:07
+[' Răsarit = 06:22:03 Apus = 20:06:34 Min (°C) = 14.59 Max (°C) =23.77 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.13 Viteza vântului = 4.75 Unghiul vântului = 337 Stare = nori 85-100%']
+Targu_Frumos: 34 \ joi \ 26:8:2021 \ 19:13:16
+[' Răsarit = 06:23:22 Apus = 20:04:42 Min (°C) = 13.78 Max (°C) =21.17 Presiune = 1009 Umiditate (%) = 61 Index UV = 0.04 Viteza vântului = 2.76 Unghiul vântului = 88 Stare = cer senin']
+Targu_Frumos: 34 \ vineri \ 27:8:2021 \ 19:14:47
+[' Răsarit = 06:24:41 Apus = 20:02:48 Min (°C) = 12.62 Max (°C) =25.68 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.16 Viteza vântului = 4.26 Unghiul vântului = 142 Stare = ploaie ușoară']
+Targu_Frumos: 34 \ sâmbătă \ 28:8:2021 \ 19:15:54
+[' Răsarit = 06:26:00 Apus = 20:00:55 Min (°C) = 13.58 Max (°C) =23.14 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.17 Viteza vântului = 3.65 Unghiul vântului = 82 Stare = nori 50-85%']
+Targu_Frumos: 34 \ duminică \ 29:8:2021 \ 19:15:08
+[' Răsarit = 06:27:19 Apus = 19:59:00 Min (°C) = 14.87 Max (°C) =23.52 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.15 Viteza vântului = 1.87 Unghiul vântului = 26 Stare = nori 85-100%']
+Targu_Frumos: 35 \ luni \ 30:8:2021 \ 19:15:03
+[' Răsarit = 06:28:38 Apus = 19:57:05 Min (°C) = 14.98 Max (°C) =25.27 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.12 Viteza vântului = 2.48 Unghiul vântului = 101 Stare = nori 50-85%']
+Targu_Frumos: 35 \ marți \ 31:8:2021 \ 19:14:50
+[' Răsarit = 06:29:57 Apus = 19:55:09 Min (°C) = 13.37 Max (°C) =24.87 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.15 Viteza vântului = 1.85 Unghiul vântului = 223 Stare = nori 85-100%']
+Targu_Frumos: 35 \ miercuri \ 01:9:2021 \ 19:14:32
+[' Răsarit = 06:31:16 Apus = 19:53:12 Min (°C) = 13.97 Max (°C) =17.8 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.14 Viteza vântului = 5.83 Unghiul vântului = 317 Stare = nori 85-100%']
+Targu_Frumos: 35 \ joi \ 02:9:2021 \ 19:18:16
+[' Răsarit = 06:32:34 Apus = 19:51:15 Min (°C) = 13.6 Max (°C) =19.41 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.08 Viteza vântului = 8.05 Unghiul vântului = 341 Stare = nori 25-50%']
+Targu_Frumos: 35 \ vineri \ 03:9:2021 \ 19:14:16
+[' Răsarit = 06:33:53 Apus = 19:49:17 Min (°C) = 10.33 Max (°C) =21.92 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.15 Viteza vântului = 0.5 Unghiul vântului = 51 Stare = nori 10-25%']
+Targu_Frumos: 35 \ sâmbătă \ 04:9:2021 \ 19:13:40
+[' Răsarit = 06:35:11 Apus = 19:47:18 Min (°C) = 12.83 Max (°C) =23.62 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.12 Viteza vântului = 2.99 Unghiul vântului = 37 Stare = nori 85-100%']
+Targu_Frumos: 35 \ duminică \ 05:9:2021 \ 19:14:50
+[' Răsarit = 06:36:30 Apus = 19:45:19 Min (°C) = 12.95 Max (°C) =17.86 Presiune = 1023 Umiditate (%) = 47 Index UV = 0.1 Viteza vântului = 1.15 Unghiul vântului = 338 Stare = nori 25-50%']
+Targu_Frumos: 36 \ luni \ 06:9:2021 \ 19:15:36
+[' Răsarit = 06:37:48 Apus = 19:43:20 Min (°C) = 7.82 Max (°C) =20.25 Presiune = 1025 Umiditate (%) = 35 Index UV = 0.12 Viteza vântului = 3.22 Unghiul vântului = 74 Stare = cer senin']
+Targu_Frumos: 36 \ marți \ 07:9:2021 \ 19:15:36
+[' Răsarit = 06:39:07 Apus = 19:41:20 Min (°C) = 8.6 Max (°C) =22.87 Presiune = 1024 Umiditate (%) = 42 Index UV = 0.1 Viteza vântului = 3.18 Unghiul vântului = 137 Stare = cer senin']
+Targu_Frumos: 36 \ miercuri \ 08:9:2021 \ 19:15:09
+[' Răsarit = 06:40:25 Apus = 19:39:20 Min (°C) = 9.02 Max (°C) =23.08 Presiune = 1024 Umiditate (%) = 39 Index UV = 0.1 Viteza vântului = 2.68 Unghiul vântului = 121 Stare = cer senin']
+Targu_Frumos: 36 \ joi \ 09:9:2021 \ 19:15:56
+[' Răsarit = 06:41:43 Apus = 19:37:19 Min (°C) = 9.57 Max (°C) =24.55 Presiune = 1020 Umiditate (%) = 30 Index UV = 0.09 Viteza vântului = 3.29 Unghiul vântului = 121 Stare = cer senin']
+Targu_Frumos: 36 \ vineri \ 10:9:2021 \ 19:16:56
+[' Răsarit = 06:43:01 Apus = 19:35:18 Min (°C) = 10.72 Max (°C) =25.72 Presiune = 1017 Umiditate (%) = 27 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 70 Stare = nori 85-100%']
+Targu_Frumos: 36 \ sâmbătă \ 11:9:2021 \ 19:14:30
+[' Răsarit = 06:44:20 Apus = 19:33:16 Min (°C) = 12.86 Max (°C) =25.56 Presiune = 1016 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 32 Stare = ploaie ușoară']
+Targu_Frumos: 36 \ duminică \ 12:9:2021 \ 19:14:37
+[' Răsarit = 06:45:38 Apus = 19:31:15 Min (°C) = 14.21 Max (°C) =25.53 Presiune = 1014 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 62 Stare = nori 85-100%']
+Targu_Frumos: 37 \ luni \ 13:9:2021 \ 19:15:05
+[' Răsarit = 06:46:56 Apus = 19:29:13 Min (°C) = 14.21 Max (°C) =26.87 Presiune = 1013 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 23 Stare = cer senin']
+Targu_Frumos: 37 \ marți \ 14:9:2021 \ 19:16:20
+[' Răsarit = 06:48:14 Apus = 19:27:10 Min (°C) = 14.68 Max (°C) =25.43 Presiune = 1016 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.19 Unghiul vântului = 6 Stare = nori 50-85%']
+Targu_Frumos: 37 \ joi \ 16:9:2021 \ 19:14:50
+[' Răsarit = 06:50:51 Apus = 19:23:05 Min (°C) = 13.97 Max (°C) =27.05 Presiune = 1015 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 145 Stare = ploaie ușoară']
+Targu_Frumos: 37 \ vineri \ 17:9:2021 \ 19:16:29
+[' Răsarit = 06:52:09 Apus = 19:21:03 Min (°C) = 15.96 Max (°C) =21.22 Presiune = 1008 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 175 Stare = ploaie ușoară']
+Targu_Frumos: 37 \ sâmbătă \ 18:9:2021 \ 19:16:45
+[' Răsarit = 06:53:28 Apus = 19:19:00 Min (°C) = 14.58 Max (°C) =18.44 Presiune = 1009 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 354 Stare = nori 50-85%']
+Targu_Frumos: 37 \ duminică \ 19:9:2021 \ 19:15:26
+[' Răsarit = 06:54:46 Apus = 19:16:57 Min (°C) = 8.18 Max (°C) =19.78 Presiune = 1013 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.77 Unghiul vântului = 3 Stare = nori 85-100%']
+Targu_Frumos: 38 \ luni \ 20:9:2021 \ 19:15:37
+[' Răsarit = 06:56:05 Apus = 19:14:54 Min (°C) = 7.66 Max (°C) =15.24 Presiune = 1015 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.34 Unghiul vântului = 1 Stare = nori 85-100%']
+Targu_Frumos: 38 \ marți \ 21:9:2021 \ 19:14:46
+[' Răsarit = 06:57:24 Apus = 19:12:51 Min (°C) = 8.2 Max (°C) =16.3 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 5.85 Unghiul vântului = 352 Stare = nori 50-85%']
+Targu_Frumos: 38 \ miercuri \ 22:9:2021 \ 19:15:25
+[' Răsarit = 06:58:43 Apus = 19:10:48 Min (°C) = 6.76 Max (°C) =12.91 Presiune = 1018 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 338 Stare = ploaie ușoară']
+Targu_Frumos: 38 \ joi \ 23:9:2021 \ 19:14:08
+[' Răsarit = 07:00:02 Apus = 19:08:45 Min (°C) = 7.77 Max (°C) =12.43 Presiune = 1017 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 104 Stare = nori 50-85%']
+Targu_Frumos: 39 \ luni \ 27:9:2021 \ 19:14:05
+[' Răsarit = 07:05:19 Apus = 19:00:35 Min (°C) = 12.38 Max (°C) =19.77 Presiune = 1020 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.26 Unghiul vântului = 58 Stare = ploaie ușoară']
+Targu_Frumos: 39 \ marți \ 28:9:2021 \ 19:16:09
+[' Răsarit = 07:06:39 Apus = 18:58:33 Min (°C) = 10.5 Max (°C) =14.18 Presiune = 1024 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 261 Stare = nori 85-100%']
+Targu_Frumos: 39 \ miercuri \ 29:9:2021 \ 19:16:53
+[' Răsarit = 07:07:59 Apus = 18:56:32 Min (°C) = 9.58 Max (°C) =16.69 Presiune = 1027 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 110 Stare = nori 50-85%']
+Targu_Frumos: 39 \ joi \ 30:9:2021 \ 19:14:46
+[' Răsarit = 07:09:20 Apus = 18:54:30 Min (°C) = 7.86 Max (°C) =18.26 Presiune = 1027 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.26 Unghiul vântului = 111 Stare = cer senin']
+Targu_Frumos: 39 \ vineri \ 01:10:2021 \ 19:15:47
+[' Răsarit = 07:10:40 Apus = 18:52:29 Min (°C) = 5.69 Max (°C) =17.36 Presiune = 1028 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 124 Stare = nori 25-50%']
+Targu_Frumos: 39 \ sâmbătă \ 02:10:2021 \ 19:14:37
+[' Răsarit = 07:12:01 Apus = 18:50:29 Min (°C) = 5.88 Max (°C) =17.38 Presiune = 1025 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 127 Stare = nori 10-25%']
+Targu_Frumos: 39 \ duminică \ 03:10:2021 \ 19:14:14
+[' Răsarit = 07:13:22 Apus = 18:48:28 Min (°C) = 5.89 Max (°C) =18.33 Presiune = 1025 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 3.19 Unghiul vântului = 131 Stare = nori 25-50%']
+Targu_Frumos: 40 \ luni \ 04:10:2021 \ 19:18:53
+[' Răsarit = 07:14:44 Apus = 18:46:29 Min (°C) = 6.78 Max (°C) =18.71 Presiune = 1024 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 122 Stare = nori 85-100%']
+Targu_Frumos: 40 \ marți \ 05:10:2021 \ 19:16:26
+[' Răsarit = 07:16:06 Apus = 18:44:29 Min (°C) = 6.89 Max (°C) =18.31 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.61 Unghiul vântului = 131 Stare = cer senin']
+Targu_Frumos: 40 \ miercuri \ 06:10:2021 \ 19:14:24
+[' Răsarit = 07:17:28 Apus = 18:42:31 Min (°C) = 5.89 Max (°C) =16.64 Presiune = 1027 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 5.47 Unghiul vântului = 127 Stare = nori 10-25%']
+Targu_Frumos: 40 \ joi \ 07:10:2021 \ 19:16:39
+[' Răsarit = 07:18:50 Apus = 18:40:32 Min (°C) = 4.34 Max (°C) =14.26 Presiune = 1030 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.57 Unghiul vântului = 77 Stare = nori 50-85%']
+Targu_Frumos: 40 \ vineri \ 08:10:2021 \ 19:16:04
+[' Răsarit = 07:20:13 Apus = 18:38:35 Min (°C) = 2.47 Max (°C) =13.15 Presiune = 1031 Umiditate (%) = 29 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 28 Stare = nori 85-100%']
+Targu_Frumos: 40 \ sâmbătă \ 09:10:2021 \ 19:14:07
+[' Răsarit = 07:21:36 Apus = 18:36:38 Min (°C) = 4.06 Max (°C) =12.68 Presiune = 1030 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 52 Stare = nori 50-85%']
+Targu_Frumos: 40 \ duminică \ 10:10:2021 \ 19:15:24
+[' Răsarit = 07:22:59 Apus = 18:34:41 Min (°C) = 2.58 Max (°C) =13.37 Presiune = 1028 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 37 Stare = nori 25-50%']
+Targu_Frumos: 41 \ luni \ 11:10:2021 \ 19:15:06
+[' Răsarit = 07:24:23 Apus = 18:32:46 Min (°C) = 4.07 Max (°C) =16.33 Presiune = 1019 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 145 Stare = nori 85-100%']
+Targu_Frumos: 41 \ marți \ 12:10:2021 \ 19:15:13
+[' Răsarit = 07:25:47 Apus = 18:30:51 Min (°C) = 7.49 Max (°C) =10.63 Presiune = 1014 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 332 Stare = nori 85-100%']
+Targu_Frumos: 41 \ miercuri \ 13:10:2021 \ 19:15:18
+[' Răsarit = 07:27:11 Apus = 18:28:57 Min (°C) = 5.15 Max (°C) =13.32 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 345 Stare = nori 50-85%']
+Targu_Frumos: 41 \ joi \ 14:10:2021 \ 19:14:54
+[' Răsarit = 07:28:36 Apus = 18:27:03 Min (°C) = 6.94 Max (°C) =12.56 Presiune = 1024 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 120 Stare = nori 85-100%']
+Targu_Frumos: 41 \ vineri \ 15:10:2021 \ 19:14:23
+[' Răsarit = 07:30:01 Apus = 18:25:11 Min (°C) = 4.71 Max (°C) =14.57 Presiune = 1020 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 167 Stare = nori 50-85%']
+Targu_Frumos: 41 \ sâmbătă \ 16:10:2021 \ 19:14:32
+[' Răsarit = 07:31:27 Apus = 18:23:19 Min (°C) = 7.95 Max (°C) =9.9 Presiune = 1020 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 317 Stare = nori 85-100%']
+Targu_Frumos: 41 \ duminică \ 17:10:2021 \ 19:13:45
+[' Răsarit = 07:32:53 Apus = 18:21:29 Min (°C) = 8.53 Max (°C) =13.97 Presiune = 1021 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = nori 10-25%']
+Targu_Frumos: 42 \ luni \ 18:10:2021 \ 19:13:42
+[' Răsarit = 07:34:19 Apus = 18:19:39 Min (°C) = 4.99 Max (°C) =14.17 Presiune = 1024 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 16 Stare = nori 85-100%']
+Targu_Frumos: 42 \ marți \ 19:10:2021 \ 19:15:26
+[' Răsarit = 07:35:45 Apus = 18:17:50 Min (°C) = 8.93 Max (°C) =14.85 Presiune = 1028 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 60 Stare = nori 85-100%']
+Targu_Frumos: 42 \ miercuri \ 20:10:2021 \ 19:13:08
+[' Răsarit = 07:37:12 Apus = 18:16:02 Min (°C) = 6.76 Max (°C) =19.58 Presiune = 1019 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 191 Stare = nori 50-85%']
+Targu_Frumos: 42 \ joi \ 21:10:2021 \ 19:15:01
+[' Răsarit = 07:38:40 Apus = 18:14:16 Min (°C) = 8.37 Max (°C) =24.07 Presiune = 1010 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 240 Stare = nori 85-100%']
+Targu_Frumos: 42 \ vineri \ 22:10:2021 \ 19:12:30
+[' Răsarit = 07:40:07 Apus = 18:12:30 Min (°C) = 13.79 Max (°C) =22.08 Presiune = 1015 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 270 Stare = nori 85-100%']
+Targu_Frumos: 42 \ sâmbătă \ 23:10:2021 \ 19:14:02
+[' Răsarit = 07:41:35 Apus = 18:10:46 Min (°C) = 10.34 Max (°C) =17.25 Presiune = 1022 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 4.94 Unghiul vântului = 357 Stare = ploaie ușoară']
+Targu_Frumos: 42 \ duminică \ 24:10:2021 \ 19:13:52
+[' Răsarit = 07:43:04 Apus = 18:09:02 Min (°C) = 4.25 Max (°C) =10.23 Presiune = 1033 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 353 Stare = nori 10-25%']
+Targu_Frumos: 43 \ luni \ 25:10:2021 \ 19:13:15
+[' Răsarit = 07:44:32 Apus = 18:07:20 Min (°C) = 1.24 Max (°C) =10.26 Presiune = 1031 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 125 Stare = cer senin']
+Targu_Frumos: 43 \ marți \ 26:10:2021 \ 19:12:39
+[' Răsarit = 07:46:01 Apus = 18:05:39 Min (°C) = 1.08 Max (°C) =13.1 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.37 Unghiul vântului = 159 Stare = cer senin']
+Targu_Frumos: 43 \ miercuri \ 27:10:2021 \ 19:14:58
+[' Răsarit = 07:47:30 Apus = 18:04:00 Min (°C) = 2.89 Max (°C) =15.33 Presiune = 1026 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 12 Stare = ploaie ușoară']
+Targu_Frumos: 43 \ joi \ 28:10:2021 \ 19:12:56
+[' Răsarit = 07:49:00 Apus = 18:02:22 Min (°C) = 5.48 Max (°C) =16.32 Presiune = 1026 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 122 Stare = nori 50-85%']
+Targu_Frumos: 43 \ vineri \ 29:10:2021 \ 19:13:26
+[' Răsarit = 07:50:29 Apus = 18:00:45 Min (°C) = 6.81 Max (°C) =16.9 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 144 Stare = nori 10-25%']
+Targu_Frumos: 43 \ sâmbătă \ 30:10:2021 \ 19:13:10
+[' Răsarit = 07:51:59 Apus = 17:59:09 Min (°C) = 5.74 Max (°C) =16.16 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.36 Unghiul vântului = 146 Stare = cer senin']
+Targu_Frumos: 43 \ duminică \ 31:10:2021 \ 19:13:00
+[' Răsarit = 06:53:29 Apus = 16:57:35 Min (°C) = 4.09 Max (°C) =15.38 Presiune = 1021 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 137 Stare = cer senin']
+Targu_Frumos: 44 \ luni \ 01:11:2021 \ 19:13:11
+[' Răsarit = 06:54:59 Apus = 16:56:03 Min (°C) = 3.58 Max (°C) =15.79 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.25 Unghiul vântului = 158 Stare = cer senin']
+Targu_Frumos: 44 \ marți \ 02:11:2021 \ 19:13:36
+[' Răsarit = 06:56:30 Apus = 16:54:32 Min (°C) = 5.9 Max (°C) =13.11 Presiune = 1004 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 157 Stare = nori 85-100%']
+Targu_Frumos: 44 \ miercuri \ 03:11:2021 \ 19:13:16
+[' Răsarit = 06:58:00 Apus = 16:53:02 Min (°C) = 7.65 Max (°C) =18.05 Presiune = 1015 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 119 Stare = nori 50-85%']
+Targu_Frumos: 44 \ joi \ 04:11:2021 \ 19:11:54
+[' Răsarit = 06:59:31 Apus = 16:51:34 Min (°C) = 9.37 Max (°C) =19.39 Presiune = 1013 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 172 Stare = nori 50-85%']
+Targu_Frumos: 44 \ vineri \ 05:11:2021 \ 19:16:17
+[' Răsarit = 07:01:01 Apus = 16:50:08 Min (°C) = 12.12 Max (°C) =23.59 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 333 Stare = nori 50-85%']
+Targu_Frumos: 44 \ sâmbătă \ 06:11:2021 \ 19:14:33
+[' Răsarit = 07:02:32 Apus = 16:48:44 Min (°C) = 8.3 Max (°C) =13.23 Presiune = 1028 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 19 Stare = nori 85-100%']
+Targu_Frumos: 44 \ duminică \ 07:11:2021 \ 19:14:32
+[' Răsarit = 07:04:02 Apus = 16:47:21 Min (°C) = 5.76 Max (°C) =14.69 Presiune = 1016 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 215 Stare = nori 85-100%']
+Targu_Frumos: 45 \ luni \ 08:11:2021 \ 19:14:20
+[' Răsarit = 07:05:33 Apus = 16:46:00 Min (°C) = 7.62 Max (°C) =12.39 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 320 Stare = ploaie ușoară']
+Targu_Frumos: 45 \ marți \ 09:11:2021 \ 19:10:59
+[' Răsarit = 07:07:03 Apus = 16:44:41 Min (°C) = 3.61 Max (°C) =11.84 Presiune = 1033 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 5.89 Unghiul vântului = 348 Stare = nori 85-100%']
+Targu_Frumos: 45 \ miercuri \ 10:11:2021 \ 19:14:21
+[' Răsarit = 07:08:33 Apus = 16:43:23 Min (°C) = -0.78 Max (°C) =8.46 Presiune = 1036 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 152 Stare = cer senin']
+Targu_Frumos: 45 \ joi \ 11:11:2021 \ 19:14:53
+[' Răsarit = 07:10:03 Apus = 16:42:08 Min (°C) = 1.36 Max (°C) =11.45 Presiune = 1025 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 167 Stare = nori 10-25%']
+Targu_Frumos: 45 \ vineri \ 12:11:2021 \ 19:14:09
+[' Răsarit = 07:11:33 Apus = 16:40:54 Min (°C) = 2.41 Max (°C) =12.93 Presiune = 1023 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 55 Stare = cer senin']
+Targu_Frumos: 45 \ sâmbătă \ 13:11:2021 \ 19:13:59
+[' Răsarit = 07:13:02 Apus = 16:39:43 Min (°C) = 3.45 Max (°C) =13.01 Presiune = 1022 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 131 Stare = nori 25-50%']
+Targu_Frumos: 45 \ duminică \ 14:11:2021 \ 19:16:03
+[' Răsarit = 07:14:32 Apus = 16:38:33 Min (°C) = 4.03 Max (°C) =13.18 Presiune = 1024 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 137 Stare = nori 50-85%']
+Targu_Frumos: 46 \ luni \ 15:11:2021 \ 19:15:13
+[' Răsarit = 07:16:00 Apus = 16:37:25 Min (°C) = 8.09 Max (°C) =11.33 Presiune = 1032 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 78 Stare = nori 85-100%']
+Targu_Frumos: 46 \ marți \ 16:11:2021 \ 19:14:42
+[' Răsarit = 07:17:28 Apus = 16:36:20 Min (°C) = 1.45 Max (°C) =7.67 Presiune = 1030 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 132 Stare = nori 10-25%']
+Targu_Frumos: 46 \ miercuri \ 17:11:2021 \ 19:14:46
+[' Răsarit = 07:18:56 Apus = 16:35:16 Min (°C) = -1.81 Max (°C) =7.18 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 138 Stare = nori 85-100%']
+Targu_Frumos: 46 \ joi \ 18:11:2021 \ 19:12:26
+[' Răsarit = 07:20:23 Apus = 16:34:15 Min (°C) = 0.32 Max (°C) =7.99 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 312 Stare = nori 10-25%']
+Targu_Frumos: 46 \ vineri \ 19:11:2021 \ 19:12:30
+[' Răsarit = 07:21:50 Apus = 16:33:16 Min (°C) = 3.51 Max (°C) =9.8 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 260 Stare = nori 85-100%']
+Targu_Frumos: 46 \ sâmbătă \ 20:11:2021 \ 19:12:19
+[' Răsarit = 07:23:16 Apus = 16:32:20 Min (°C) = 6.92 Max (°C) =14.21 Presiune = 1018 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 274 Stare = cer senin']
+Targu_Frumos: 46 \ duminică \ 21:11:2021 \ 19:12:07
+[' Răsarit = 07:24:41 Apus = 16:31:25 Min (°C) = 3.63 Max (°C) =13.25 Presiune = 1011 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 176 Stare = cer senin']
+Targu_Frumos: 47 \ luni \ 22:11:2021 \ 19:12:28
+[' Răsarit = 07:26:05 Apus = 16:30:33 Min (°C) = 3.8 Max (°C) =10.82 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 346 Stare = nori 85-100%']
+Targu_Frumos: 47 \ marți \ 23:11:2021 \ 19:12:19
+[' Răsarit = 07:27:28 Apus = 16:29:43 Min (°C) = 1.28 Max (°C) =6.52 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 262 Stare = nori 25-50%']
+Targu_Frumos: 47 \ miercuri \ 24:11:2021 \ 19:14:40
+[' Răsarit = 07:28:50 Apus = 16:28:56 Min (°C) = 0.79 Max (°C) =6.86 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 168 Stare = nori 10-25%']
+Targu_Frumos: 47 \ joi \ 25:11:2021 \ 19:12:04
+[' Răsarit = 07:30:12 Apus = 16:28:11 Min (°C) = -1.29 Max (°C) =7.15 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.35 Unghiul vântului = 165 Stare = cer senin']
+Targu_Frumos: 47 \ vineri \ 26:11:2021 \ 19:12:10
+[' Răsarit = 07:31:32 Apus = 16:27:28 Min (°C) = 0.22 Max (°C) =10.04 Presiune = 1000 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 8.91 Unghiul vântului = 164 Stare = nori 85-100%']
+Targu_Frumos: 47 \ sâmbătă \ 27:11:2021 \ 19:12:04
+[' Răsarit = 07:32:51 Apus = 16:26:49 Min (°C) = 6.03 Max (°C) =13.25 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 245 Stare = nori 50-85%']
+Targu_Frumos: 47 \ duminică \ 28:11:2021 \ 19:12:39
+[' Răsarit = 07:34:09 Apus = 16:26:11 Min (°C) = 5.13 Max (°C) =14.37 Presiune = 999 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 175 Stare = nori 25-50%']
+Targu_Frumos: 48 \ luni \ 29:11:2021 \ 19:13:30
+[' Răsarit = 07:35:26 Apus = 16:25:36 Min (°C) = 2.87 Max (°C) =10.17 Presiune = 995 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 296 Stare = nori 85-100%']
+Targu_Frumos: 48 \ marți \ 30:11:2021 \ 19:12:39
+[' Răsarit = 07:36:41 Apus = 16:25:04 Min (°C) = 0.82 Max (°C) =5.51 Presiune = 1004 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 260 Stare = nori 25-50%']
+Targu_Frumos: 48 \ miercuri \ 01:12:2021 \ 19:12:51
+[' Răsarit = 07:37:54 Apus = 16:24:34 Min (°C) = 1.09 Max (°C) =8.69 Presiune = 1008 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 138 Stare = nori 85-100%']
+Targu_Frumos: 48 \ joi \ 02:12:2021 \ 19:12:18
+[' Răsarit = 07:39:07 Apus = 16:24:08 Min (°C) = 2.17 Max (°C) =12.25 Presiune = 1004 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 190 Stare = nori 85-100%']
+Targu_Frumos: 48 \ vineri \ 03:12:2021 \ 19:12:27
+[' Răsarit = 07:40:17 Apus = 16:23:43 Min (°C) = 1.36 Max (°C) =7.85 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.71 Unghiul vântului = 333 Stare = nori 85-100%']
+Targu_Frumos: 48 \ sâmbătă \ 04:12:2021 \ 19:12:56
+[' Răsarit = 07:41:26 Apus = 16:23:22 Min (°C) = -1.98 Max (°C) =4.45 Presiune = 1012 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 146 Stare = nori 25-50%']
+Targu_Frumos: 48 \ duminică \ 05:12:2021 \ 19:12:37
+[' Răsarit = 07:42:34 Apus = 16:23:03 Min (°C) = -1.47 Max (°C) =4.96 Presiune = 1009 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 146 Stare = nori 85-100%']
+Targu_Frumos: 49 \ luni \ 06:12:2021 \ 19:12:28
+[' Răsarit = 07:43:39 Apus = 16:22:47 Min (°C) = 0.45 Max (°C) =7.42 Presiune = 1007 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 319 Stare = nori 85-100%']
+Targu_Frumos: 49 \ marți \ 07:12:2021 \ 19:12:28
+[' Răsarit = 07:44:43 Apus = 16:22:34 Min (°C) = 0.68 Max (°C) =1.91 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 4.82 Unghiul vântului = 323 Stare = zăpadă slabă']
+Targu_Frumos: 49 \ miercuri \ 08:12:2021 \ 19:12:28
+[' Răsarit = 07:45:44 Apus = 16:22:23 Min (°C) = -2.23 Max (°C) =1.42 Presiune = 1011 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 324 Stare = nori 85-100%']
+Targu_Frumos: 49 \ joi \ 09:12:2021 \ 19:12:32
+[' Răsarit = 07:46:44 Apus = 16:22:16 Min (°C) = -0.13 Max (°C) =6.12 Presiune = 1013 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 154 Stare = nori 50-85%']
+Targu_Frumos: 49 \ vineri \ 10:12:2021 \ 19:14:29
+[' Răsarit = 07:47:42 Apus = 16:22:11 Min (°C) = 0.82 Max (°C) =10.75 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.73 Unghiul vântului = 167 Stare = nori 85-100%']
+Targu_Frumos: 49 \ sâmbătă \ 11:12:2021 \ 19:13:58
+[' Răsarit = 07:48:37 Apus = 16:22:09 Min (°C) = 6.56 Max (°C) =9.77 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 59 Stare = nori 85-100%']
+Targu_Frumos: 49 \ duminică \ 12:12:2021 \ 19:14:08
+[' Răsarit = 07:49:31 Apus = 16:22:09 Min (°C) = 5.57 Max (°C) =9.08 Presiune = 1015 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 323 Stare = nori 85-100%']
+Targu_Frumos: 50 \ luni \ 13:12:2021 \ 19:13:55
+[' Răsarit = 07:50:22 Apus = 16:22:13 Min (°C) = 0.44 Max (°C) =4.87 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.69 Unghiul vântului = 329 Stare = nori 85-100%']
+Targu_Frumos: 50 \ marți \ 14:12:2021 \ 19:16:09
+[' Răsarit = 07:51:11 Apus = 16:22:20 Min (°C) = -0.35 Max (°C) =2.13 Presiune = 1026 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 326 Stare = nori 85-100%']
+Targu_Frumos: 50 \ miercuri \ 15:12:2021 \ 19:14:25
+[' Răsarit = 07:51:57 Apus = 16:22:29 Min (°C) = -0.02 Max (°C) =2.53 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.3 Unghiul vântului = 338 Stare = nori 10-25%']
+Targu_Frumos: 50 \ joi \ 16:12:2021 \ 19:13:43
+[' Răsarit = 07:52:41 Apus = 16:22:41 Min (°C) = 2.55 Max (°C) =5.97 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.98 Unghiul vântului = 319 Stare = ploaie ușoară']
+Targu_Frumos: 50 \ vineri \ 17:12:2021 \ 19:16:35
+[' Răsarit = 07:53:23 Apus = 16:22:56 Min (°C) = 2.04 Max (°C) =6.24 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 6 Unghiul vântului = 329 Stare = nori 85-100%']
+Targu_Frumos: 50 \ sâmbătă \ 18:12:2021 \ 19:13:30
+[' Răsarit = 07:54:03 Apus = 16:23:14 Min (°C) = 1.1 Max (°C) =3.47 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.79 Unghiul vântului = 321 Stare = nori 50-85%']
+Targu_Frumos: 50 \ duminică \ 19:12:2021 \ 19:13:47
+[' Răsarit = 07:54:39 Apus = 16:23:34 Min (°C) = 0.11 Max (°C) =5.54 Presiune = 1008 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 267 Stare = nori 50-85%']
+Targu_Frumos: 51 \ luni \ 20:12:2021 \ 19:14:13
+[' Răsarit = 07:55:13 Apus = 16:23:58 Min (°C) = 0.33 Max (°C) =3.6 Presiune = 1011 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 7.1 Unghiul vântului = 308 Stare = nori 50-85%']
+Targu_Frumos: 51 \ marți \ 21:12:2021 \ 19:15:53
+[' Răsarit = 07:55:45 Apus = 16:24:24 Min (°C) = -7.06 Max (°C) =-0.26 Presiune = 1025 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 343 Stare = nori 10-25%']
+Targu_Frumos: 51 \ miercuri \ 22:12:2021 \ 19:14:12
+[' Răsarit = 07:56:14 Apus = 16:24:52 Min (°C) = -7.43 Max (°C) =-1.45 Presiune = 1028 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 330 Stare = nori 10-25%']
+Targu_Frumos: 51 \ joi \ 23:12:2021 \ 19:14:40
+[' Răsarit = 07:56:40 Apus = 16:25:24 Min (°C) = -7.07 Max (°C) =-2.79 Presiune = 1023 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 162 Stare = nori 25-50%']
+Targu_Frumos: 51 \ vineri \ 24:12:2021 \ 19:14:24
+[' Răsarit = 07:57:04 Apus = 16:25:58 Min (°C) = -5.26 Max (°C) =3.48 Presiune = 1003 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 225 Stare = nori 85-100%']
+Targu_Frumos: 51 \ sâmbătă \ 25:12:2021 \ 19:14:48
+[' Răsarit = 07:57:25 Apus = 16:26:35 Min (°C) = -0.81 Max (°C) =5.63 Presiune = 1012 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.93 Unghiul vântului = 11 Stare = zăpadă slabă']
+Targu_Frumos: 51 \ duminică \ 26:12:2021 \ 19:15:47
+[' Răsarit = 07:57:43 Apus = 16:27:14 Min (°C) = -3.85 Max (°C) =-1.1 Presiune = 1018 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 40 Stare = snow']
+Targu_Frumos: 52 \ luni \ 27:12:2021 \ 19:14:05
+[' Răsarit = 07:57:59 Apus = 16:27:56 Min (°C) = -3.98 Max (°C) =-1.75 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.42 Unghiul vântului = 93 Stare = snow']
+Targu_Frumos: 52 \ marți \ 28:12:2021 \ 19:14:50
+[' Răsarit = 07:58:11 Apus = 16:28:40 Min (°C) = -4.22 Max (°C) =-2.1 Presiune = 1016 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 341 Stare = nori 85-100%']
+Targu_Frumos: 52 \ miercuri \ 29:12:2021 \ 19:14:04
+[' Răsarit = 07:58:21 Apus = 16:29:27 Min (°C) = -9.52 Max (°C) =-2.07 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 57 Stare = nori 85-100%']
+Targu_Frumos: 52 \ joi \ 30:12:2021 \ 19:14:41
+[' Răsarit = 07:58:28 Apus = 16:30:17 Min (°C) = -5.15 Max (°C) =0.13 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 187 Stare = nori 85-100%']
+Targu_Frumos: 52 \ vineri \ 31:12:2021 \ 19:12:32
+[' Răsarit = 07:58:33 Apus = 16:31:08 Min (°C) = -4.6 Max (°C) =1.89 Presiune = 1017 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 214 Stare = ploaie ușoară']
+Targu_Frumos: 00 \ sâmbătă \ 01:1:2022 \ 19:13:16
+[' Răsarit = 07:58:34 Apus = 16:32:02 Min (°C) = 2.33 Max (°C) =7.04 Presiune = 1019 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 260 Stare = nori 85-100%']
+Targu_Frumos: 00 \ duminică \ 02:1:2022 \ 19:12:05
+[' Răsarit = 07:58:33 Apus = 16:32:59 Min (°C) = 0.32 Max (°C) =5.97 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 171 Stare = nori 50-85%']
+Targu_Frumos: 01 \ luni \ 03:1:2022 \ 19:11:53
+[' Răsarit = 07:58:29 Apus = 16:33:57 Min (°C) = -0.24 Max (°C) =8.88 Presiune = 1009 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.99 Unghiul vântului = 278 Stare = nori 85-100%']
+Targu_Frumos: 01 \ marți \ 04:1:2022 \ 19:11:57
+[' Răsarit = 07:58:22 Apus = 16:34:58 Min (°C) = 4.21 Max (°C) =9.95 Presiune = 1007 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 195 Stare = nori 85-100%']
+Targu_Frumos: 01 \ miercuri \ 05:1:2022 \ 19:13:03
+[' Răsarit = 07:58:12 Apus = 16:36:00 Min (°C) = 7.6 Max (°C) =12.88 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.92 Unghiul vântului = 199 Stare = nori 25-50%']
+Targu_Frumos: 01 \ joi \ 06:1:2022 \ 19:12:14
+[' Răsarit = 07:58:00 Apus = 16:37:05 Min (°C) = 1.68 Max (°C) =8.68 Presiune = 1013 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 306 Stare = nori 85-100%']
+Targu_Frumos: 01 \ vineri \ 07:1:2022 \ 19:13:23
+[' Răsarit = 07:57:45 Apus = 16:38:11 Min (°C) = -1.84 Max (°C) =2.11 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 123 Stare = cer senin']
+Targu_Frumos: 01 \ sâmbătă \ 08:1:2022 \ 19:12:53
+[' Răsarit = 07:57:27 Apus = 16:39:20 Min (°C) = -2.3 Max (°C) =3.87 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 4.55 Unghiul vântului = 154 Stare = nori 85-100%']
+Targu_Frumos: 01 \ duminică \ 09:1:2022 \ 19:12:25
+[' Răsarit = 07:57:07 Apus = 16:40:30 Min (°C) = 1.81 Max (°C) =5.63 Presiune = 1007 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 352 Stare = nori 85-100%']
+Targu_Frumos: 02 \ luni \ 10:1:2022 \ 19:12:26
+[' Răsarit = 07:56:43 Apus = 16:41:42 Min (°C) = -1.27 Max (°C) =2.24 Presiune = 1020 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.86 Unghiul vântului = 348 Stare = nori 85-100%']
+Targu_Frumos: 02 \ marți \ 11:1:2022 \ 19:13:42
+[' Răsarit = 07:56:18 Apus = 16:42:56 Min (°C) = -3.05 Max (°C) =-0.52 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 6.5 Unghiul vântului = 347 Stare = nori 50-85%']
+Targu_Frumos: 02 \ miercuri \ 12:1:2022 \ 19:12:25
+[' Răsarit = 07:55:49 Apus = 16:44:11 Min (°C) = -6.92 Max (°C) =-2.79 Presiune = 1034 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 4.79 Unghiul vântului = 334 Stare = cer senin']
+Targu_Frumos: 02 \ joi \ 13:1:2022 \ 19:13:18
+[' Răsarit = 07:55:18 Apus = 16:45:28 Min (°C) = -7.28 Max (°C) =0.62 Presiune = 1027 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 229 Stare = nori 50-85%']
+Targu_Frumos: 02 \ vineri \ 14:1:2022 \ 19:12:43
+[' Răsarit = 07:54:44 Apus = 16:46:46 Min (°C) = -2.11 Max (°C) =5.65 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 306 Stare = cer senin']
+Targu_Frumos: 02 \ sâmbătă \ 15:1:2022 \ 19:12:26
+[' Răsarit = 07:54:08 Apus = 16:48:06 Min (°C) = 0.83 Max (°C) =4.56 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 8.59 Unghiul vântului = 331 Stare = nori 10-25%']
+Targu_Frumos: 02 \ duminică \ 16:1:2022 \ 19:12:00
+[' Răsarit = 07:53:29 Apus = 16:49:27 Min (°C) = -1.57 Max (°C) =3.32 Presiune = 1023 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 193 Stare = nori 50-85%']
+Targu_Frumos: 03 \ luni \ 17:1:2022 \ 19:12:07
+[' Răsarit = 07:52:48 Apus = 16:50:49 Min (°C) = -0.11 Max (°C) =6.78 Presiune = 1004 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 6.82 Unghiul vântului = 282 Stare = nori 85-100%']
+Targu_Frumos: 03 \ marți \ 18:1:2022 \ 19:12:08
+[' Răsarit = 07:52:04 Apus = 16:52:12 Min (°C) = -0.58 Max (°C) =1.94 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 9.19 Unghiul vântului = 328 Stare = nori 25-50%']
+Targu_Frumos: 03 \ miercuri \ 19:1:2022 \ 19:12:19
+[' Răsarit = 07:51:18 Apus = 16:53:37 Min (°C) = -2.17 Max (°C) =2.89 Presiune = 1025 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 205 Stare = nori 85-100%']
+Targu_Frumos: 03 \ joi \ 20:1:2022 \ 19:12:30
+[' Răsarit = 07:50:29 Apus = 16:55:03 Min (°C) = -3.18 Max (°C) =6.52 Presiune = 1010 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 247 Stare = nori 50-85%']
+Targu_Frumos: 03 \ vineri \ 21:1:2022 \ 19:12:11
+[' Răsarit = 07:49:38 Apus = 16:56:29 Min (°C) = -2.42 Max (°C) =3.36 Presiune = 1016 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.94 Unghiul vântului = 288 Stare = nori 10-25%']
+Targu_Frumos: 03 \ sâmbătă \ 22:1:2022 \ 19:14:01
+[' Răsarit = 07:48:45 Apus = 16:57:57 Min (°C) = -3.39 Max (°C) =1.04 Presiune = 1017 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.16 Unghiul vântului = 303 Stare = nori 85-100%']
+Targu_Frumos: 03 \ duminică \ 23:1:2022 \ 19:14:10
+[' Răsarit = 07:47:49 Apus = 16:59:25 Min (°C) = -5.68 Max (°C) =-2.6 Presiune = 1028 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 6.41 Unghiul vântului = 343 Stare = zăpadă slabă']
+Targu_Frumos: 04 \ luni \ 24:1:2022 \ 19:14:50
+[' Răsarit = 07:46:51 Apus = 17:00:54 Min (°C) = -6.88 Max (°C) =-3.51 Presiune = 1035 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.46 Unghiul vântului = 331 Stare = nori 50-85%']
+Targu_Frumos: 04 \ marți \ 25:1:2022 \ 19:14:34
+[' Răsarit = 07:45:51 Apus = 17:02:24 Min (°C) = -11.7 Max (°C) =-2.1 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 240 Stare = zăpadă slabă']
+Targu_Frumos: 04 \ miercuri \ 26:1:2022 \ 19:14:35
+[' Răsarit = 07:44:49 Apus = 17:03:54 Min (°C) = -4.89 Max (°C) =2.08 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 327 Stare = zăpadă slabă']
+Targu_Frumos: 04 \ joi \ 27:1:2022 \ 19:14:32
+[' Răsarit = 07:43:45 Apus = 17:05:25 Min (°C) = -3.69 Max (°C) =3.04 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 202 Stare = nori 50-85%']
+Targu_Frumos: 04 \ vineri \ 28:1:2022 \ 19:14:19
+[' Răsarit = 07:42:38 Apus = 17:06:57 Min (°C) = -3.87 Max (°C) =4.62 Presiune = 1013 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.66 Unghiul vântului = 262 Stare = nori 50-85%']
+Targu_Frumos: 04 \ sâmbătă \ 29:1:2022 \ 19:14:23
+[' Răsarit = 07:41:30 Apus = 17:08:29 Min (°C) = -2.24 Max (°C) =1.71 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 205 Stare = nori 25-50%']
+Targu_Frumos: 04 \ duminică \ 30:1:2022 \ 19:12:29
+[' Răsarit = 07:40:20 Apus = 17:10:01 Min (°C) = -2.58 Max (°C) =6.55 Presiune = 1003 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.01 Unghiul vântului = 248 Stare = nori 50-85%']
+Targu_Frumos: 05 \ luni \ 31:1:2022 \ 19:12:26
+[' Răsarit = 07:39:07 Apus = 17:11:34 Min (°C) = -0.17 Max (°C) =5.57 Presiune = 1006 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 159 Stare = nori 50-85%']
+Targu_Frumos: 05 \ marți \ 01:2:2022 \ 19:12:18
+[' Răsarit = 07:37:53 Apus = 17:13:07 Min (°C) = -1.19 Max (°C) =3.13 Presiune = 1011 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.09 Unghiul vântului = 176 Stare = nori 85-100%']
+Targu_Frumos: 05 \ miercuri \ 02:2:2022 \ 19:12:31
+[' Răsarit = 07:36:37 Apus = 17:14:40 Min (°C) = -2.71 Max (°C) =5.39 Presiune = 1005 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 215 Stare = nori 50-85%']
+Targu_Frumos: 05 \ joi \ 03:2:2022 \ 19:12:14
+[' Răsarit = 07:35:19 Apus = 17:16:14 Min (°C) = -1.69 Max (°C) =3.25 Presiune = 1021 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 6.12 Unghiul vântului = 335 Stare = cer senin']
+Targu_Frumos: 05 \ vineri \ 04:2:2022 \ 19:12:32
+[' Răsarit = 07:33:59 Apus = 17:17:48 Min (°C) = -2.46 Max (°C) =5.89 Presiune = 1017 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 112 Stare = nori 25-50%']
+Targu_Frumos: 05 \ sâmbătă \ 05:2:2022 \ 19:12:15
+[' Răsarit = 07:32:37 Apus = 17:19:22 Min (°C) = -0.64 Max (°C) =7.97 Presiune = 1017 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.68 Unghiul vântului = 333 Stare = nori 85-100%']
+Targu_Frumos: 05 \ duminică \ 06:2:2022 \ 19:12:24
+[' Răsarit = 07:31:14 Apus = 17:20:56 Min (°C) = -0.52 Max (°C) =7.72 Presiune = 1015 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3.97 Unghiul vântului = 225 Stare = nori 85-100%']
+Targu_Frumos: 06 \ luni \ 07:2:2022 \ 19:12:23
+[' Răsarit = 07:29:49 Apus = 17:22:30 Min (°C) = 3.31 Max (°C) =11.33 Presiune = 1000 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = ploaie ușoară']
+Targu_Frumos: 06 \ marți \ 08:2:2022 \ 19:12:14
+[' Răsarit = 07:28:22 Apus = 17:24:04 Min (°C) = 0.18 Max (°C) =4.25 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.22 Unghiul vântului = 331 Stare = nori 25-50%']
+Targu_Frumos: 06 \ miercuri \ 09:2:2022 \ 19:14:03
+[' Răsarit = 07:26:54 Apus = 17:25:38 Min (°C) = -0.38 Max (°C) =8.32 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.81 Unghiul vântului = 324 Stare = nori 85-100%']
+Targu_Frumos: 06 \ joi \ 10:2:2022 \ 19:15:02
+[' Răsarit = 07:25:24 Apus = 17:27:12 Min (°C) = 2.66 Max (°C) =11.08 Presiune = 1022 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 145 Stare = cer senin']
+Targu_Frumos: 06 \ vineri \ 11:2:2022 \ 19:14:12
+[' Răsarit = 07:23:52 Apus = 17:28:46 Min (°C) = 3.25 Max (°C) =12.19 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 17 Stare = nori 25-50%']
+Targu_Frumos: 06 \ sâmbătă \ 12:2:2022 \ 19:14:19
+[' Răsarit = 07:22:20 Apus = 17:30:19 Min (°C) = 0.07 Max (°C) =6.41 Presiune = 1035 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 5.78 Unghiul vântului = 339 Stare = nori 25-50%']
+Targu_Frumos: 06 \ duminică \ 13:2:2022 \ 19:14:29
+[' Răsarit = 07:20:45 Apus = 17:31:53 Min (°C) = -1.74 Max (°C) =5.83 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 5.15 Unghiul vântului = 164 Stare = nori 10-25%']
+Targu_Frumos: 07 \ luni \ 14:2:2022 \ 19:14:26
+[' Răsarit = 07:19:10 Apus = 17:33:26 Min (°C) = -2.08 Max (°C) =5.92 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.76 Unghiul vântului = 150 Stare = nori 25-50%']
+Targu_Frumos: 07 \ marți \ 15:2:2022 \ 19:13:55
+[' Răsarit = 07:17:33 Apus = 17:35:00 Min (°C) = -1.76 Max (°C) =7.85 Presiune = 1019 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 164 Stare = nori 25-50%']
+Targu_Frumos: 07 \ miercuri \ 16:2:2022 \ 19:14:44
+[' Răsarit = 07:15:54 Apus = 17:36:33 Min (°C) = 2.05 Max (°C) =11.51 Presiune = 1012 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 177 Stare = nori 85-100%']
+Targu_Frumos: 07 \ joi \ 17:2:2022 \ 19:15:14
+[' Răsarit = 07:14:15 Apus = 17:38:05 Min (°C) = 4.16 Max (°C) =14.33 Presiune = 999 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 8.28 Unghiul vântului = 233 Stare = nori 50-85%']
+Targu_Frumos: 07 \ vineri \ 18:2:2022 \ 19:14:16
+[' Răsarit = 07:12:34 Apus = 17:39:38 Min (°C) = 3.96 Max (°C) =10.05 Presiune = 1015 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 277 Stare = nori 50-85%']
+Targu_Frumos: 07 \ sâmbătă \ 19:2:2022 \ 19:14:36
+[' Răsarit = 07:10:52 Apus = 17:41:10 Min (°C) = 2.37 Max (°C) =13.05 Presiune = 1014 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.65 Unghiul vântului = 284 Stare = nori 50-85%']
+Targu_Frumos: 07 \ duminică \ 20:2:2022 \ 19:15:41
+[' Răsarit = 07:09:08 Apus = 17:42:42 Min (°C) = 4.55 Max (°C) =10.3 Presiune = 1015 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 3.27 Unghiul vântului = 275 Stare = nori 50-85%']
+Targu_Frumos: 08 \ luni \ 21:2:2022 \ 19:14:14
+[' Răsarit = 07:07:24 Apus = 17:44:14 Min (°C) = 2.43 Max (°C) =13.9 Presiune = 1004 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 172 Stare = nori 85-100%']
+Targu_Frumos: 08 \ marți \ 22:2:2022 \ 19:15:05
+[' Răsarit = 07:05:38 Apus = 17:45:45 Min (°C) = 5.56 Max (°C) =9.76 Presiune = 1012 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 356 Stare = nori 85-100%']
+Targu_Frumos: 08 \ miercuri \ 23:2:2022 \ 19:14:34
+[' Răsarit = 07:03:52 Apus = 17:47:16 Min (°C) = 3.89 Max (°C) =10.29 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.59 Unghiul vântului = 340 Stare = nori 85-100%']
+Targu_Frumos: 08 \ joi \ 24:2:2022 \ 19:14:27
+[' Răsarit = 07:02:04 Apus = 17:48:47 Min (°C) = 2.59 Max (°C) =6.67 Presiune = 1024 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 79 Stare = nori 50-85%']
+Targu_Frumos: 08 \ vineri \ 25:2:2022 \ 19:14:30
+[' Răsarit = 07:00:16 Apus = 17:50:17 Min (°C) = -0.48 Max (°C) =9.37 Presiune = 1019 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 4.07 Unghiul vântului = 342 Stare = nori 50-85%']
+Targu_Frumos: 08 \ sâmbătă \ 26:2:2022 \ 19:14:48
+[' Răsarit = 06:58:26 Apus = 17:51:47 Min (°C) = 2.94 Max (°C) =6.77 Presiune = 1028 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 7 Stare = nori 85-100%']
+Targu_Frumos: 08 \ duminică \ 27:2:2022 \ 19:14:08
+[' Răsarit = 06:56:36 Apus = 17:53:17 Min (°C) = -0.43 Max (°C) =6.69 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 25 Stare = nori 85-100%']
+Targu_Frumos: 09 \ luni \ 28:2:2022 \ 19:14:35
+[' Răsarit = 06:54:44 Apus = 17:54:46 Min (°C) = 0.18 Max (°C) =4.61 Presiune = 1029 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 6.33 Unghiul vântului = 20 Stare = nori 85-100%']
+Targu_Frumos: 09 \ marți \ 01:3:2022 \ 19:14:43
+[' Răsarit = 06:52:52 Apus = 17:56:15 Min (°C) = -1.79 Max (°C) =2.11 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 331 Stare = nori 85-100%']
+Targu_Frumos: 09 \ miercuri \ 02:3:2022 \ 19:14:05
+[' Răsarit = 06:50:59 Apus = 17:57:44 Min (°C) = -1.35 Max (°C) =2.47 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 5.59 Unghiul vântului = 324 Stare = nori 85-100%']
+Targu_Frumos: 09 \ joi \ 03:3:2022 \ 19:14:32
+[' Răsarit = 06:49:06 Apus = 17:59:13 Min (°C) = -0.84 Max (°C) =4.02 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.28 Unghiul vântului = 324 Stare = nori 85-100%']
+Targu_Frumos: 09 \ vineri \ 04:3:2022 \ 19:14:14
+[' Răsarit = 06:47:11 Apus = 18:00:41 Min (°C) = -2.1 Max (°C) =3.28 Presiune = 1017 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 347 Stare = nori 85-100%']
+Targu_Frumos: 09 \ sâmbătă \ 05:3:2022 \ 19:12:40
+[' Răsarit = 06:45:16 Apus = 18:02:08 Min (°C) = -2.5 Max (°C) =2.81 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 348 Stare = nori 85-100%']
+Targu_Frumos: 09 \ duminică \ 06:3:2022 \ 19:12:28
+[' Răsarit = 06:43:21 Apus = 18:03:36 Min (°C) = -4.12 Max (°C) =2.16 Presiune = 1021 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 140 Stare = nori 85-100%']
+Targu_Frumos: 10 \ luni \ 07:3:2022 \ 19:12:12
+[' Răsarit = 06:41:24 Apus = 18:05:03 Min (°C) = -3.9 Max (°C) =1.95 Presiune = 1017 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 311 Stare = nori 85-100%']
+Targu_Frumos: 10 \ marți \ 08:3:2022 \ 19:12:01
+[' Răsarit = 06:39:27 Apus = 18:06:30 Min (°C) = -3.43 Max (°C) =3.47 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 342 Stare = nori 50-85%']
+Targu_Frumos: 10 \ miercuri \ 09:3:2022 \ 19:12:10
+[' Răsarit = 06:37:30 Apus = 18:07:56 Min (°C) = -4.29 Max (°C) =0.56 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 330 Stare = nori 50-85%']
+Targu_Frumos: 10 \ joi \ 10:3:2022 \ 19:12:10
+[' Răsarit = 06:35:32 Apus = 18:09:22 Min (°C) = -3.64 Max (°C) =-0.25 Presiune = 1030 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 5.26 Unghiul vântului = 18 Stare = nori 85-100%']
+Targu_Frumos: 10 \ vineri \ 11:3:2022 \ 19:12:07
+[' Răsarit = 06:33:34 Apus = 18:10:48 Min (°C) = -6.01 Max (°C) =-1.36 Presiune = 1031 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 18 Stare = nori 85-100%']
+Targu_Frumos: 10 \ sâmbătă \ 12:3:2022 \ 19:12:01
+[' Răsarit = 06:31:35 Apus = 18:12:14 Min (°C) = -4.76 Max (°C) =2.64 Presiune = 1030 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 318 Stare = nori 25-50%']
+Targu_Frumos: 10 \ duminică \ 13:3:2022 \ 19:12:11
+[' Răsarit = 06:29:36 Apus = 18:13:39 Min (°C) = -1.45 Max (°C) =2.56 Presiune = 1031 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 0 Stare = nori 85-100%']
+Targu_Frumos: 11 \ luni \ 14:3:2022 \ 19:12:01
+[' Răsarit = 06:27:36 Apus = 18:15:04 Min (°C) = -1.95 Max (°C) =5.83 Presiune = 1036 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 138 Stare = cer senin']
+Targu_Frumos: 11 \ marți \ 15:3:2022 \ 19:12:09
+[' Răsarit = 06:25:36 Apus = 18:16:29 Min (°C) = 0.16 Max (°C) =9.95 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 32 Stare = nori 50-85%']
+Targu_Frumos: 11 \ miercuri \ 16:3:2022 \ 19:12:13
+[' Răsarit = 06:23:36 Apus = 18:17:54 Min (°C) = 2.23 Max (°C) =8.6 Presiune = 1027 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 4.96 Unghiul vântului = 103 Stare = nori 85-100%']
+Targu_Frumos: 11 \ joi \ 17:3:2022 \ 19:12:11
+[' Răsarit = 06:21:36 Apus = 18:19:19 Min (°C) = -1.39 Max (°C) =3.94 Presiune = 1038 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 31 Stare = nori 50-85%']
+Targu_Frumos: 11 \ vineri \ 18:3:2022 \ 19:12:18
+[' Răsarit = 06:19:35 Apus = 18:20:43 Min (°C) = -3.27 Max (°C) =3.68 Presiune = 1043 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 22 Stare = nori 85-100%']
+Targu_Frumos: 11 \ sâmbătă \ 19:3:2022 \ 19:12:21
+[' Răsarit = 06:17:34 Apus = 18:22:07 Min (°C) = -3.2 Max (°C) =3.88 Presiune = 1043 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 12 Stare = cer senin']
+Targu_Frumos: 11 \ duminică \ 20:3:2022 \ 19:12:14
+[' Răsarit = 06:15:33 Apus = 18:23:31 Min (°C) = -1.98 Max (°C) =6.82 Presiune = 1041 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.35 Unghiul vântului = 339 Stare = cer senin']
+Targu_Frumos: 12 \ luni \ 21:3:2022 \ 19:12:36
+[' Răsarit = 06:13:32 Apus = 18:24:55 Min (°C) = 0.1 Max (°C) =10.79 Presiune = 1036 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 3.84 Unghiul vântului = 336 Stare = cer senin']
+Targu_Frumos: 12 \ marți \ 22:3:2022 \ 19:12:17
+[' Răsarit = 06:11:31 Apus = 18:26:18 Min (°C) = 3.41 Max (°C) =14.11 Presiune = 1034 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 29 Stare = cer senin']
+Targu_Frumos: 12 \ miercuri \ 23:3:2022 \ 19:12:05
+[' Răsarit = 06:09:30 Apus = 18:27:42 Min (°C) = 4.16 Max (°C) =15.05 Presiune = 1027 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 323 Stare = cer senin']
+Targu_Frumos: 12 \ joi \ 24:3:2022 \ 19:12:13
+[' Răsarit = 06:07:28 Apus = 18:29:05 Min (°C) = 6.35 Max (°C) =15.35 Presiune = 1021 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 6.8 Unghiul vântului = 355 Stare = cer senin']
+Targu_Frumos: 12 \ vineri \ 25:3:2022 \ 19:12:10
+[' Răsarit = 06:05:27 Apus = 18:30:29 Min (°C) = 3.6 Max (°C) =8.4 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.71 Unghiul vântului = 356 Stare = nori 50-85%']
+Targu_Frumos: 12 \ sâmbătă \ 26:3:2022 \ 19:12:22
+[' Răsarit = 06:03:26 Apus = 18:31:52 Min (°C) = 1.98 Max (°C) =16.98 Presiune = 1020 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 7.27 Unghiul vântului = 286 Stare = nori 50-85%']
+Targu_Frumos: 12 \ duminică \ 27:3:2022 \ 19:12:18
+[' Răsarit = 07:01:25 Apus = 19:33:15 Min (°C) = 5.26 Max (°C) =11.69 Presiune = 1029 Umiditate (%) = 29 Index UV = 0 Viteza vântului = 6.63 Unghiul vântului = 348 Stare = nori 25-50%']
+Targu_Frumos: 13 \ luni \ 28:3:2022 \ 19:12:33
+[' Răsarit = 06:59:24 Apus = 19:34:38 Min (°C) = 2 Max (°C) =18.04 Presiune = 1018 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.24 Unghiul vântului = 147 Stare = cer senin']
+Targu_Frumos: 13 \ marți \ 29:3:2022 \ 19:12:20
+[' Răsarit = 06:57:23 Apus = 19:36:01 Min (°C) = 6.81 Max (°C) =19.94 Presiune = 1006 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.08 Unghiul vântului = 296 Stare = nori 85-100%']
+Targu_Frumos: 13 \ miercuri \ 30:3:2022 \ 19:12:16
+[' Răsarit = 06:55:23 Apus = 19:37:24 Min (°C) = 9.3 Max (°C) =20.94 Presiune = 1004 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 3.74 Unghiul vântului = 268 Stare = nori 85-100%']
+Targu_Frumos: 13 \ joi \ 31:3:2022 \ 19:12:36
+[' Răsarit = 06:53:23 Apus = 19:38:47 Min (°C) = 11.11 Max (°C) =19.98 Presiune = 996 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 165 Stare = nori 85-100%']
+Targu_Frumos: 13 \ vineri \ 01:4:2022 \ 19:14:48
+[' Răsarit = 06:51:23 Apus = 19:40:10 Min (°C) = 11.69 Max (°C) =22.35 Presiune = 990 Umiditate (%) = 51 Index UV = 0.01 Viteza vântului = 2.33 Unghiul vântului = 267 Stare = nori 85-100%']
+Targu_Frumos: 13 \ sâmbătă \ 02:4:2022 \ 19:14:26
+[' Răsarit = 06:49:23 Apus = 19:41:33 Min (°C) = 7.68 Max (°C) =15.75 Presiune = 998 Umiditate (%) = 61 Index UV = 0.06 Viteza vântului = 3.82 Unghiul vântului = 5 Stare = nori 85-100%']
+Targu_Frumos: 13 \ duminică \ 03:4:2022 \ 19:47:53
+[' Răsarit = 06:47:23 Apus = 19:42:56 Min (°C) = 2.29 Max (°C) =5.98 Presiune = 1011 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 7.4 Unghiul vântului = 325 Stare = nori 85-100%']
+Targu_Frumos: 14 \ luni \ 04:4:2022 \ 19:14:24
+[' Răsarit = 06:45:24 Apus = 19:44:19 Min (°C) = -1.59 Max (°C) =8.17 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.1 Viteza vântului = 3.68 Unghiul vântului = 251 Stare = nori 85-100%']
+Targu_Frumos: 14 \ marți \ 05:4:2022 \ 19:15:36
+[' Răsarit = 06:43:26 Apus = 19:45:42 Min (°C) = -0.71 Max (°C) =13.83 Presiune = 1006 Umiditate (%) = 47 Index UV = 0.09 Viteza vântului = 3.55 Unghiul vântului = 258 Stare = nori 85-100%']
+Targu_Frumos: 14 \ miercuri \ 06:4:2022 \ 19:14:30
+[' Răsarit = 06:41:28 Apus = 19:47:05 Min (°C) = 5.86 Max (°C) =19.04 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.12 Viteza vântului = 4.47 Unghiul vântului = 250 Stare = nori 50-85%']
+Targu_Frumos: 14 \ joi \ 07:4:2022 \ 19:14:45
+[' Răsarit = 06:39:30 Apus = 19:48:28 Min (°C) = 7.45 Max (°C) =17.65 Presiune = 998 Umiditate (%) = 40 Index UV = 0.12 Viteza vântului = 5.71 Unghiul vântului = 139 Stare = nori 85-100%']
+Targu_Frumos: 14 \ vineri \ 08:4:2022 \ 19:14:18
+[' Răsarit = 06:37:33 Apus = 19:49:51 Min (°C) = 5.58 Max (°C) =19.64 Presiune = 1003 Umiditate (%) = 40 Index UV = 0.11 Viteza vântului = 7.22 Unghiul vântului = 261 Stare = nori 50-85%']
+Targu_Frumos: 14 \ sâmbătă \ 09:4:2022 \ 19:14:30
+[' Răsarit = 06:35:36 Apus = 19:51:14 Min (°C) = 11.1 Max (°C) =21.41 Presiune = 1000 Umiditate (%) = 71 Index UV = 0.14 Viteza vântului = 2.81 Unghiul vântului = 208 Stare = nori 85-100%']
+Targu_Frumos: 14 \ duminică \ 10:4:2022 \ 19:15:46
+[' Răsarit = 06:33:40 Apus = 19:52:37 Min (°C) = 4.01 Max (°C) =8.62 Presiune = 1012 Umiditate (%) = 91 Index UV = 0.03 Viteza vântului = 5.83 Unghiul vântului = 351 Stare = nori 85-100%']
+Targu_Frumos: 15 \ luni \ 11:4:2022 \ 19:14:32
+[' Răsarit = 06:31:45 Apus = 19:54:01 Min (°C) = 4.32 Max (°C) =10.35 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.14 Viteza vântului = 5.92 Unghiul vântului = 342 Stare = nori 85-100%']
+Targu_Frumos: 15 \ marți \ 12:4:2022 \ 19:13:30
+[' Răsarit = 06:29:50 Apus = 19:55:24 Min (°C) = 3.07 Max (°C) =10.6 Presiune = 1019 Umiditate (%) = 47 Index UV = 0.16 Viteza vântului = 6.13 Unghiul vântului = 336 Stare = nori 50-85%']
+Targu_Frumos: 15 \ miercuri \ 13:4:2022 \ 19:14:12
+[' Răsarit = 06:27:56 Apus = 19:56:47 Min (°C) = 2.85 Max (°C) =13.14 Presiune = 1020 Umiditate (%) = 46 Index UV = 0.15 Viteza vântului = 7.73 Unghiul vântului = 342 Stare = nori 85-100%']
+Targu_Frumos: 15 \ joi \ 14:4:2022 \ 19:14:44
+[' Răsarit = 06:26:02 Apus = 19:58:11 Min (°C) = 9.32 Max (°C) =16.87 Presiune = 1020 Umiditate (%) = 46 Index UV = 0.17 Viteza vântului = 2.43 Unghiul vântului = 18 Stare = cer senin']
+Targu_Frumos: 15 \ vineri \ 15:4:2022 \ 19:15:03
+[' Răsarit = 06:24:10 Apus = 19:59:34 Min (°C) = 7.56 Max (°C) =22.09 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.19 Viteza vântului = 2.15 Unghiul vântului = 120 Stare = nori 10-25%']
+Targu_Frumos: 15 \ sâmbătă \ 16:4:2022 \ 19:15:20
+[' Răsarit = 06:22:18 Apus = 20:00:58 Min (°C) = 7.51 Max (°C) =15.44 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.02 Viteza vântului = 5.96 Unghiul vântului = 339 Stare = ploaie ușoară']
+Targu_Frumos: 15 \ duminică \ 17:4:2022 \ 19:14:48
+[' Răsarit = 06:20:27 Apus = 20:02:21 Min (°C) = 2.95 Max (°C) =8.89 Presiune = 1018 Umiditate (%) = 47 Index UV = 0.17 Viteza vântului = 5.57 Unghiul vântului = 346 Stare = nori 85-100%']
+Targu_Frumos: 16 \ luni \ 18:4:2022 \ 19:15:23
+[' Răsarit = 06:18:36 Apus = 20:03:45 Min (°C) = -0.18 Max (°C) =10.12 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.19 Viteza vântului = 2.84 Unghiul vântului = 20 Stare = nori 50-85%']
+Targu_Frumos: 16 \ marți \ 19:4:2022 \ 19:15:39
+[' Răsarit = 06:16:47 Apus = 20:05:08 Min (°C) = 0.59 Max (°C) =11.49 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.15 Viteza vântului = 1.85 Unghiul vântului = 90 Stare = nori 85-100%']
+Targu_Frumos: 16 \ miercuri \ 20:4:2022 \ 19:14:43
+[' Răsarit = 06:14:58 Apus = 20:06:32 Min (°C) = 6.29 Max (°C) =10.77 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.16 Viteza vântului = 1.32 Unghiul vântului = 182 Stare = nori 85-100%']
+Targu_Frumos: 16 \ joi \ 21:4:2022 \ 19:15:20
+[' Răsarit = 06:13:11 Apus = 20:07:55 Min (°C) = 4.74 Max (°C) =15.04 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.16 Viteza vântului = 3.37 Unghiul vântului = 46 Stare = nori 85-100%']
+Targu_Frumos: 16 \ vineri \ 22:4:2022 \ 19:12:55
+[' Răsarit = 06:11:24 Apus = 20:09:19 Min (°C) = 5 Max (°C) =18.31 Presiune = 1007 Umiditate (%) = 57 Index UV = 0.15 Viteza vântului = 5.02 Unghiul vântului = 143 Stare = nori 50-85%']
+Targu_Frumos: 16 \ sâmbătă \ 23:4:2022 \ 19:12:52
+[' Răsarit = 06:09:39 Apus = 20:10:43 Min (°C) = 8.05 Max (°C) =19.99 Presiune = 1006 Umiditate (%) = 84 Index UV = 0.14 Viteza vântului = 2.1 Unghiul vântului = 4 Stare = nori 85-100%']
+Targu_Frumos: 16 \ duminică \ 24:4:2022 \ 19:12:26
+[' Răsarit = 06:07:54 Apus = 20:12:06 Min (°C) = 7.91 Max (°C) =21.05 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.26 Viteza vântului = 4.42 Unghiul vântului = 111 Stare = nori 10-25%']
+Targu_Frumos: 17 \ luni \ 25:4:2022 \ 19:12:23
+[' Răsarit = 06:06:11 Apus = 20:13:30 Min (°C) = 11.58 Max (°C) =20.55 Presiune = 1007 Umiditate (%) = 78 Index UV = 0.16 Viteza vântului = 2.84 Unghiul vântului = 241 Stare = nori 85-100%']
+Targu_Frumos: 17 \ marți \ 26:4:2022 \ 19:12:25
+[' Răsarit = 06:04:28 Apus = 20:14:53 Min (°C) = 9.25 Max (°C) =19.35 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.27 Viteza vântului = 4.91 Unghiul vântului = 358 Stare = nori 25-50%']
+Targu_Frumos: 17 \ miercuri \ 27:4:2022 \ 19:12:27
+[' Răsarit = 06:02:47 Apus = 20:16:16 Min (°C) = 7.84 Max (°C) =16.99 Presiune = 1019 Umiditate (%) = 86 Index UV = 0.11 Viteza vântului = 4.38 Unghiul vântului = 353 Stare = nori 85-100%']
+Targu_Frumos: 17 \ joi \ 28:4:2022 \ 19:12:31
+[' Răsarit = 06:01:07 Apus = 20:17:39 Min (°C) = 9.91 Max (°C) =11.44 Presiune = 1021 Umiditate (%) = 97 Index UV = 0.02 Viteza vântului = 4.55 Unghiul vântului = 48 Stare = nori 85-100%']
+Targu_Frumos: 17 \ vineri \ 29:4:2022 \ 19:15:17
+[' Răsarit = 05:59:29 Apus = 20:19:03 Min (°C) = 9.03 Max (°C) =14.01 Presiune = 1024 Umiditate (%) = 80 Index UV = 0.28 Viteza vântului = 1.79 Unghiul vântului = 67 Stare = nori 85-100%']
+Targu_Frumos: 17 \ sâmbătă \ 30:4:2022 \ 19:12:09
+[' Răsarit = 05:57:51 Apus = 20:20:25 Min (°C) = 6.43 Max (°C) =17.53 Presiune = 1021 Umiditate (%) = 64 Index UV = 0.31 Viteza vântului = 1.42 Unghiul vântului = 112 Stare = nori 85-100%']
+Targu_Frumos: 17 \ duminică \ 01:5:2022 \ 19:12:17
+[' Răsarit = 05:56:15 Apus = 20:21:48 Min (°C) = 7.79 Max (°C) =17.71 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.25 Viteza vântului = 3.01 Unghiul vântului = 111 Stare = nori 85-100%']
+Targu_Frumos: 18 \ marți \ 03:5:2022 \ 20:12:55
+[' Răsarit = 05:53:06 Apus = 20:24:33 Min (°C) = 7.82 Max (°C) =18.64 Presiune = 1014 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 157 Stare = nori 85-100%']
+Targu_Frumos: 18 \ miercuri \ 04:5:2022 \ 19:16:55
+[' Răsarit = 05:51:34 Apus = 20:25:55 Min (°C) = 8.8 Max (°C) =18.27 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.21 Viteza vântului = 4.17 Unghiul vântului = 5 Stare = nori 85-100%']
+Targu_Frumos: 18 \ joi \ 05:5:2022 \ 19:15:32
+[' Răsarit = 05:50:04 Apus = 20:27:17 Min (°C) = 9.72 Max (°C) =18.16 Presiune = 1023 Umiditate (%) = 51 Index UV = 0.36 Viteza vântului = 3.15 Unghiul vântului = 69 Stare = cer senin']
+Targu_Frumos: 18 \ vineri \ 06:5:2022 \ 19:13:17
+[' Răsarit = 05:48:34 Apus = 20:28:38 Min (°C) = 7.26 Max (°C) =20.04 Presiune = 1022 Umiditate (%) = 51 Index UV = 0.37 Viteza vântului = 3.51 Unghiul vântului = 133 Stare = cer senin']
+Targu_Frumos: 18 \ sâmbătă \ 07:5:2022 \ 19:12:41
+[' Răsarit = 05:47:07 Apus = 20:29:59 Min (°C) = 7.62 Max (°C) =20.16 Presiune = 1021 Umiditate (%) = 55 Index UV = 0.34 Viteza vântului = 2.55 Unghiul vântului = 166 Stare = nori 85-100%']
+Targu_Frumos: 18 \ duminică \ 08:5:2022 \ 19:13:23
+[' Răsarit = 05:45:40 Apus = 20:31:20 Min (°C) = 7.97 Max (°C) =21.13 Presiune = 1021 Umiditate (%) = 54 Index UV = 0.39 Viteza vântului = 2.57 Unghiul vântului = 155 Stare = nori 50-85%']
+Targu_Frumos: 19 \ luni \ 09:5:2022 \ 19:12:58
+[' Răsarit = 05:44:16 Apus = 20:32:40 Min (°C) = 10.13 Max (°C) =20.7 Presiune = 1023 Umiditate (%) = 74 Index UV = 0.27 Viteza vântului = 4.13 Unghiul vântului = 35 Stare = ploaie ușoară']
+Targu_Frumos: 19 \ marți \ 10:5:2022 \ 19:13:11
+[' Răsarit = 05:42:53 Apus = 20:34:00 Min (°C) = 11.49 Max (°C) =19.82 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.36 Viteza vântului = 0.11 Unghiul vântului = 108 Stare = nori 85-100%']
+Targu_Frumos: 19 \ miercuri \ 11:5:2022 \ 19:12:59
+[' Răsarit = 05:41:31 Apus = 20:35:19 Min (°C) = 10.73 Max (°C) =22.87 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.34 Viteza vântului = 2.2 Unghiul vântului = 44 Stare = nori 85-100%']
+Targu_Frumos: 19 \ joi \ 12:5:2022 \ 19:13:09
+[' Răsarit = 05:40:11 Apus = 20:36:37 Min (°C) = 12.91 Max (°C) =28.16 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.44 Viteza vântului = 3.23 Unghiul vântului = 224 Stare = cer senin']
+Targu_Frumos: 19 \ vineri \ 13:5:2022 \ 19:12:41
+[' Răsarit = 05:38:53 Apus = 20:37:55 Min (°C) = 15.61 Max (°C) =26.3 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.43 Viteza vântului = 3.47 Unghiul vântului = 99 Stare = nori 85-100%']
+Targu_Frumos: 19 \ sâmbătă \ 14:5:2022 \ 19:12:45
+[' Răsarit = 05:37:37 Apus = 20:39:13 Min (°C) = 14.48 Max (°C) =21.76 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.44 Viteza vântului = 4.69 Unghiul vântului = 351 Stare = nori 25-50%']
+Targu_Frumos: 19 \ duminică \ 15:5:2022 \ 19:12:44
+[' Răsarit = 05:36:23 Apus = 20:40:29 Min (°C) = 14.6 Max (°C) =22.04 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.32 Viteza vântului = 2.91 Unghiul vântului = 354 Stare = nori 85-100%']
+Targu_Frumos: 20 \ luni \ 16:5:2022 \ 19:13:57
+[' Răsarit = 05:35:10 Apus = 20:41:45 Min (°C) = 14.38 Max (°C) =23.15 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.38 Viteza vântului = 2.28 Unghiul vântului = 34 Stare = nori 50-85%']
+Targu_Frumos: 20 \ marți \ 17:5:2022 \ 19:15:48
+[' Răsarit = 05:33:59 Apus = 20:43:00 Min (°C) = 13.1 Max (°C) =23 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.09 Viteza vântului = 0.99 Unghiul vântului = 305 Stare = nori 85-100%']
+Targu_Frumos: 20 \ miercuri \ 18:5:2022 \ 19:12:56
+[' Răsarit = 05:32:50 Apus = 20:44:14 Min (°C) = 8.56 Max (°C) =14.27 Presiune = 1024 Umiditate (%) = 57 Index UV = 0.26 Viteza vântului = 7.6 Unghiul vântului = 343 Stare = nori 85-100%']
+Targu_Frumos: 20 \ joi \ 19:5:2022 \ 20:17:47
+[' Răsarit = 05:31:43 Apus = 20:45:28 Min (°C) = 8.8 Max (°C) =20.04 Presiune = 1025 Umiditate (%) = 61 Index UV = 0.12 Viteza vântului = 1.72 Unghiul vântului = 346 Stare = nori 25-50%']
+Targu_Frumos: 20 \ vineri \ 20:5:2022 \ 19:12:44
+[' Răsarit = 05:30:38 Apus = 20:46:40 Min (°C) = 10.44 Max (°C) =26.22 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.4 Viteza vântului = 1.95 Unghiul vântului = 120 Stare = nori 50-85%']
+Targu_Frumos: 20 \ sâmbătă \ 21:5:2022 \ 19:14:39
+[' Răsarit = 05:29:35 Apus = 20:47:51 Min (°C) = 13.67 Max (°C) =28.22 Presiune = 1010 Umiditate (%) = 78 Index UV = 0.52 Viteza vântului = 6.58 Unghiul vântului = 8 Stare = nori 50-85%']

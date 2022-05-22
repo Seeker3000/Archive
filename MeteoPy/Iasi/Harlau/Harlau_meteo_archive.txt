@@ -1,0 +1,954 @@
+Harlau: 04 \ luni \ 25:1:2021 \ 22:37:33
+[' Răsarit = 07:46:41 Apus = 17:02:28 Min (°C) = 1.91 Max (°C) =7.88 Presiune = 1000 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 312 Stare = nori 85-100%']
+Harlau: 04 \ marți \ 26:1:2021 \ 09:54:57
+[' Răsarit = 07:45:37 Apus = 17:04:00 Min (°C) = -0.27 Max (°C) =4.89 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.55 Viteza vântului = 0.45 Unghiul vântului = 267 Stare = nori 85-100%']
+Harlau: 04 \ miercuri \ 27:1:2021 \ 19:16:05
+[' Răsarit = 07:44:32 Apus = 17:05:32 Min (°C) = -1.12 Max (°C) =0.74 Presiune = 1033 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 6.91 Unghiul vântului = 334 Stare = nori 85-100%']
+Harlau: 04 \ joi \ 28:1:2021 \ 19:30:58
+[' Răsarit = 07:43:24 Apus = 17:07:04 Min (°C) = -2.65 Max (°C) =1.23 Presiune = 1030 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 309 Stare = nori 50-85%']
+Harlau: 04 \ vineri \ 29:1:2021 \ 20:16:43
+[' Răsarit = 07:42:14 Apus = 17:08:37 Min (°C) = -2.51 Max (°C) =5.14 Presiune = 1000 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 171 Stare = nori 85-100%']
+Harlau: 04 \ sâmbătă \ 30:1:2021 \ 20:17:37
+[' Răsarit = 07:41:03 Apus = 17:10:10 Min (°C) = -0.06 Max (°C) =9.47 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.71 Unghiul vântului = 219 Stare = nori 25-50%']
+Harlau: 04 \ duminică \ 31:1:2021 \ 19:15:48
+[' Răsarit = 07:39:49 Apus = 17:11:44 Min (°C) = -2.34 Max (°C) =0.59 Presiune = 1034 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 96 Stare = zăpadă slabă']
+Harlau: 05 \ luni \ 01:2:2021 \ 19:16:29
+[' Răsarit = 07:38:34 Apus = 17:13:18 Min (°C) = -4.2 Max (°C) =-0.18 Presiune = 1006 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 302 Stare = zăpadă slabă']
+Harlau: 05 \ marți \ 02:2:2021 \ 20:46:00
+[' Răsarit = 07:37:16 Apus = 17:14:52 Min (°C) = -4.55 Max (°C) =2.15 Presiune = 1014 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 169 Stare = zăpadă slabă']
+Harlau: 05 \ miercuri \ 03:2:2021 \ 19:43:06
+[' Răsarit = 07:35:57 Apus = 17:16:26 Min (°C) = 0.8 Max (°C) =7.48 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 215 Stare = nori 25-50%']
+Harlau: 05 \ joi \ 04:2:2021 \ 19:17:46
+[' Răsarit = 07:34:36 Apus = 17:18:01 Min (°C) = 2.57 Max (°C) =11.5 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 330 Stare = nori 50-85%']
+Harlau: 05 \ vineri \ 05:2:2021 \ 19:13:32
+[' Răsarit = 07:33:13 Apus = 17:19:36 Min (°C) = -0.11 Max (°C) =2.01 Presiune = 1017 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 51 Stare = snow']
+Harlau: 05 \ sâmbătă \ 06:2:2021 \ 19:42:17
+[' Răsarit = 07:31:48 Apus = 17:21:10 Min (°C) = -3.88 Max (°C) =0.46 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 55 Stare = zăpadă slabă']
+Harlau: 05 \ duminică \ 07:2:2021 \ 19:17:34
+[' Răsarit = 07:30:22 Apus = 17:22:45 Min (°C) = -5.29 Max (°C) =-1.64 Presiune = 1016 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 112 Stare = nori 85-100%']
+Harlau: 06 \ luni \ 08:2:2021 \ 20:59:19
+[' Răsarit = 07:28:54 Apus = 17:24:20 Min (°C) = -3.27 Max (°C) =4.04 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = ceață']
+Harlau: 06 \ marți \ 09:2:2021 \ 19:14:54
+[' Răsarit = 07:27:25 Apus = 17:25:55 Min (°C) = 0.14 Max (°C) =5.02 Presiune = 1006 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 105 Stare = zăpadă slabă']
+Harlau: 06 \ miercuri \ 10:2:2021 \ 19:15:41
+[' Răsarit = 07:25:54 Apus = 17:27:29 Min (°C) = 0.4 Max (°C) =4.62 Presiune = 1008 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 98 Stare = zăpadă slabă']
+Harlau: 06 \ joi \ 11:2:2021 \ 19:10:20
+[' Răsarit = 07:24:21 Apus = 17:29:04 Min (°C) = -6.71 Max (°C) =3.09 Presiune = 1034 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 15.65 Unghiul vântului = 315 Stare = zăpadă slabă']
+Harlau: 06 \ vineri \ 12:2:2021 \ 20:49:48
+[' Răsarit = 07:22:47 Apus = 17:30:39 Min (°C) = -11.07 Max (°C) =-7.22 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 291 Stare = nori 85-100%']
+Harlau: 06 \ sâmbătă \ 13:2:2021 \ 19:14:48
+[' Răsarit = 07:21:12 Apus = 17:32:13 Min (°C) = -10.88 Max (°C) =-5.55 Presiune = 1050 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 8.64 Unghiul vântului = 312 Stare = nori 50-85%']
+Harlau: 06 \ duminică \ 14:2:2021 \ 19:13:31
+[' Răsarit = 07:19:35 Apus = 17:33:47 Min (°C) = -6.51 Max (°C) =-1.17 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 312 Stare = nori 85-100%']
+Harlau: 07 \ luni \ 15:2:2021 \ 20:10:01
+[' Răsarit = 07:17:57 Apus = 17:35:21 Min (°C) = -5.97 Max (°C) =-1.43 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 306 Stare = nori 85-100%']
+Harlau: 07 \ marți \ 16:2:2021 \ 19:05:54
+[' Răsarit = 07:16:17 Apus = 17:36:55 Min (°C) = -9.29 Max (°C) =-4.72 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 106 Stare = nori 10-25%']
+Harlau: 07 \ miercuri \ 17:2:2021 \ 19:13:59
+[' Răsarit = 07:14:36 Apus = 17:38:28 Min (°C) = -8.84 Max (°C) =-0.45 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 144 Stare = nori 85-100%']
+Harlau: 07 \ joi \ 18:2:2021 \ 19:17:51
+[' Răsarit = 07:12:54 Apus = 17:40:02 Min (°C) = -8.64 Max (°C) =-0.3 Presiune = 1027 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 331 Stare = nori 50-85%']
+Harlau: 07 \ vineri \ 19:2:2021 \ 19:10:52
+[' Răsarit = 07:11:11 Apus = 17:41:35 Min (°C) = -10.13 Max (°C) =-1.67 Presiune = 1025 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 149 Stare = nori 50-85%']
+Harlau: 07 \ sâmbătă \ 20:2:2021 \ 19:15:09
+[' Răsarit = 07:09:27 Apus = 17:43:07 Min (°C) = -4.71 Max (°C) =1.13 Presiune = 1028 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 58 Stare = nori 25-50%']
+Harlau: 07 \ duminică \ 21:2:2021 \ 19:12:33
+[' Răsarit = 07:07:41 Apus = 17:44:40 Min (°C) = -3.05 Max (°C) =4.73 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 139 Stare = nori 50-85%']
+Harlau: 08 \ luni \ 22:2:2021 \ 19:17:09
+[' Răsarit = 07:05:55 Apus = 17:46:12 Min (°C) = -0.73 Max (°C) =6.96 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 55 Stare = cer senin']
+Harlau: 08 \ marți \ 23:2:2021 \ 19:15:07
+[' Răsarit = 07:04:07 Apus = 17:47:44 Min (°C) = 0.8 Max (°C) =7.18 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = cer senin']
+Harlau: 08 \ miercuri \ 24:2:2021 \ 19:15:40
+[' Răsarit = 07:02:18 Apus = 17:49:15 Min (°C) = 1.3 Max (°C) =9.04 Presiune = 1059 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 222 Stare = nori 85-100%']
+Harlau: 08 \ joi \ 25:2:2021 \ 19:13:41
+[' Răsarit = 07:00:29 Apus = 17:50:46 Min (°C) = 3.74 Max (°C) =14.85 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Harlau: 08 \ vineri \ 26:2:2021 \ 19:14:27
+[' Răsarit = 06:58:38 Apus = 17:52:17 Min (°C) = 5.78 Max (°C) =16.21 Presiune = 1048 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 119 Stare = cer senin']
+Harlau: 08 \ sâmbătă \ 27:2:2021 \ 19:12:11
+[' Răsarit = 06:56:47 Apus = 17:53:47 Min (°C) = 3.1 Max (°C) =8.4 Presiune = 1026 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 312 Stare = nori 85-100%']
+Harlau: 08 \ duminică \ 28:2:2021 \ 19:15:53
+[' Răsarit = 06:54:54 Apus = 17:55:17 Min (°C) = 1.79 Max (°C) =6.83 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 303 Stare = nori 50-85%']
+Harlau: 09 \ luni \ 01:3:2021 \ 19:10:10
+[' Răsarit = 06:53:01 Apus = 17:56:47 Min (°C) = 2.34 Max (°C) =5.39 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 343 Stare = nori 85-100%']
+Harlau: 09 \ marți \ 02:3:2021 \ 19:18:43
+[' Răsarit = 06:51:07 Apus = 17:58:17 Min (°C) = 0.68 Max (°C) =11.8 Presiune = 1025 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 300 Stare = cer senin']
+Harlau: 09 \ miercuri \ 03:3:2021 \ 19:14:07
+[' Răsarit = 06:49:13 Apus = 17:59:46 Min (°C) = 2.48 Max (°C) =10.08 Presiune = 1052 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 124 Stare = cer senin']
+Harlau: 09 \ joi \ 04:3:2021 \ 19:14:51
+[' Răsarit = 06:47:17 Apus = 18:01:15 Min (°C) = 3.48 Max (°C) =16.15 Presiune = 1038 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 279 Stare = nori 10-25%']
+Harlau: 09 \ vineri \ 05:3:2021 \ 19:12:49
+[' Răsarit = 06:45:21 Apus = 18:02:43 Min (°C) = 1.28 Max (°C) =13.3 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = ploaie ușoară']
+Harlau: 09 \ sâmbătă \ 06:3:2021 \ 19:13:47
+[' Răsarit = 06:43:25 Apus = 18:04:11 Min (°C) = -0.76 Max (°C) =3.31 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 296 Stare = cer senin']
+Harlau: 09 \ duminică \ 07:3:2021 \ 19:14:52
+[' Răsarit = 06:41:27 Apus = 18:05:39 Min (°C) = -1.73 Max (°C) =7.57 Presiune = 1043 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 264 Stare = nori 10-25%']
+Harlau: 10 \ luni \ 08:3:2021 \ 19:18:07
+[' Răsarit = 06:39:30 Apus = 18:07:07 Min (°C) = -0.15 Max (°C) =7.59 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 307 Stare = nori 85-100%']
+Harlau: 10 \ marți \ 09:3:2021 \ 19:13:04
+[' Răsarit = 06:37:31 Apus = 18:08:34 Min (°C) = -1.49 Max (°C) =3.26 Presiune = 1046 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 70 Stare = nori 85-100%']
+Harlau: 10 \ miercuri \ 10:3:2021 \ 19:18:28
+[' Răsarit = 06:35:32 Apus = 18:10:01 Min (°C) = -1.31 Max (°C) =2.38 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 119 Stare = nori 85-100%']
+Harlau: 10 \ joi \ 11:3:2021 \ 19:15:00
+[' Răsarit = 06:33:33 Apus = 18:11:27 Min (°C) = -3.73 Max (°C) =2.84 Presiune = 1022 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 150 Stare = nori 25-50%']
+Harlau: 10 \ vineri \ 12:3:2021 \ 19:14:11
+[' Răsarit = 06:31:33 Apus = 18:12:54 Min (°C) = -0.91 Max (°C) =5.86 Presiune = 1038 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 274 Stare = nori 25-50%']
+Harlau: 10 \ sâmbătă \ 13:3:2021 \ 19:14:24
+[' Răsarit = 06:29:33 Apus = 18:14:20 Min (°C) = 1.12 Max (°C) =8.84 Presiune = 1039 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 162 Stare = cer senin']
+Harlau: 10 \ duminică \ 14:3:2021 \ 19:16:46
+[' Răsarit = 06:27:33 Apus = 18:15:46 Min (°C) = 1.42 Max (°C) =15.12 Presiune = 1032 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 222 Stare = ploaie ușoară']
+Harlau: 11 \ luni \ 15:3:2021 \ 19:16:12
+[' Răsarit = 06:25:32 Apus = 18:17:11 Min (°C) = 1.97 Max (°C) =9.09 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = nori 85-100%']
+Harlau: 11 \ marți \ 16:3:2021 \ 19:14:44
+[' Răsarit = 06:23:31 Apus = 18:18:37 Min (°C) = 2.34 Max (°C) =7.54 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 330 Stare = nori 50-85%']
+Harlau: 11 \ miercuri \ 17:3:2021 \ 19:15:10
+[' Răsarit = 06:21:29 Apus = 18:20:02 Min (°C) = 0.83 Max (°C) =6.21 Presiune = 1033 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 5.45 Unghiul vântului = 359 Stare = zăpadă slabă']
+Harlau: 11 \ joi \ 18:3:2021 \ 19:14:23
+[' Răsarit = 06:19:28 Apus = 18:21:27 Min (°C) = 1.06 Max (°C) =4.5 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 334 Stare = nori 85-100%']
+Harlau: 11 \ vineri \ 19:3:2021 \ 19:11:54
+[' Răsarit = 06:17:26 Apus = 18:22:52 Min (°C) = 0.17 Max (°C) =3.08 Presiune = 1017 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 310 Stare = zăpadă slabă']
+Harlau: 11 \ sâmbătă \ 20:3:2021 \ 19:14:22
+[' Răsarit = 06:15:24 Apus = 18:24:17 Min (°C) = -0.55 Max (°C) =5.14 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 350 Stare = nori 50-85%']
+Harlau: 11 \ duminică \ 21:3:2021 \ 19:09:46
+[' Răsarit = 06:13:22 Apus = 18:25:41 Min (°C) = -0.99 Max (°C) =7.9 Presiune = 1036 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 232 Stare = ploaie ușoară']
+Harlau: 12 \ luni \ 22:3:2021 \ 19:15:01
+[' Răsarit = 06:11:20 Apus = 18:27:06 Min (°C) = 0.07 Max (°C) =7.32 Presiune = 1006 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 311 Stare = nori 85-100%']
+Harlau: 12 \ marți \ 23:3:2021 \ 19:16:48
+[' Răsarit = 06:09:18 Apus = 18:28:30 Min (°C) = -1.36 Max (°C) =4.88 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 310 Stare = zăpadă slabă']
+Harlau: 12 \ miercuri \ 24:3:2021 \ 19:15:20
+[' Răsarit = 06:07:16 Apus = 18:29:54 Min (°C) = -1.46 Max (°C) =3.23 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = nori 85-100%']
+Harlau: 12 \ joi \ 25:3:2021 \ 19:15:17
+[' Răsarit = 06:05:14 Apus = 18:31:19 Min (°C) = -0.96 Max (°C) =7.19 Presiune = 1017 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 329 Stare = nori 85-100%']
+Harlau: 12 \ vineri \ 26:3:2021 \ 19:20:06
+[' Răsarit = 06:03:12 Apus = 18:32:43 Min (°C) = -0.6 Max (°C) =10.72 Presiune = 1024 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 332 Stare = cer senin']
+Harlau: 12 \ sâmbătă \ 27:3:2021 \ 19:19:45
+[' Răsarit = 06:01:11 Apus = 18:34:06 Min (°C) = 2.95 Max (°C) =13.4 Presiune = 1049 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 124 Stare = nori 10-25%']
+Harlau: 12 \ duminică \ 28:3:2021 \ 19:15:35
+[' Răsarit = 06:59:09 Apus = 19:35:30 Min (°C) = 4.46 Max (°C) =15.51 Presiune = 1029 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 7.6 Unghiul vântului = 325 Stare = ploaie ușoară']
+Harlau: 13 \ luni \ 29:3:2021 \ 19:14:33
+[' Răsarit = 06:57:08 Apus = 19:36:54 Min (°C) = 3.14 Max (°C) =10.73 Presiune = 1031 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 338 Stare = nori 50-85%']
+Harlau: 13 \ marți \ 30:3:2021 \ 19:13:25
+[' Răsarit = 06:55:06 Apus = 19:38:18 Min (°C) = 3.03 Max (°C) =12.71 Presiune = 1029 Umiditate (%) = 46 Index UV = 0.08 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = ploaie ușoară']
+Harlau: 13 \ miercuri \ 31:3:2021 \ 19:13:15
+[' Răsarit = 06:53:05 Apus = 19:39:42 Min (°C) = 5.68 Max (°C) =12.81 Presiune = 1023 Umiditate (%) = 62 Index UV = 0.04 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = nori 85-100%']
+Harlau: 13 \ joi \ 01:4:2021 \ 19:13:56
+[' Răsarit = 06:51:04 Apus = 19:41:06 Min (°C) = 8.98 Max (°C) =17.72 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.1 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = cer senin']
+Harlau: 13 \ vineri \ 02:4:2021 \ 19:16:55
+[' Răsarit = 06:49:04 Apus = 19:42:29 Min (°C) = 4.95 Max (°C) =10.87 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.02 Viteza vântului = 8.94 Unghiul vântului = 330 Stare = nori 85-100%']
+Harlau: 13 \ sâmbătă \ 03:4:2021 \ 20:38:06
+[' Răsarit = 06:47:04 Apus = 19:43:53 Min (°C) = 2.6 Max (°C) =9.46 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 16 Stare = ploaie ușoară']
+Harlau: 13 \ duminică \ 04:4:2021 \ 20:17:03
+[' Răsarit = 06:45:04 Apus = 19:45:17 Min (°C) = 2.97 Max (°C) =9.6 Presiune = 1016 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 316 Stare = nori 50-85%']
+Harlau: 14 \ luni \ 05:4:2021 \ 14:44:35
+[' Răsarit = 06:43:05 Apus = 19:46:41 Min (°C) = 1.05 Max (°C) =12.59 Presiune = 1007 Umiditate (%) = 45 Index UV = 3.15 Viteza vântului = 1.79 Unghiul vântului = 203 Stare = ploaie ușoară']
+Harlau: 14 \ luni \ 05:4:2021 \ 19:15:29
+[' Răsarit = 06:43:05 Apus = 19:46:41 Min (°C) = 1.05 Max (°C) =12.83 Presiune = 1007 Umiditate (%) = 39 Index UV = 0.12 Viteza vântului = 4.92 Unghiul vântului = 201 Stare = nori 25-50%']
+Harlau: 14 \ marți \ 06:4:2021 \ 20:19:23
+[' Răsarit = 06:41:06 Apus = 19:48:05 Min (°C) = 2.88 Max (°C) =13.71 Presiune = 1001 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 8.05 Unghiul vântului = 318 Stare = nori 85-100%']
+Harlau: 14 \ miercuri \ 07:4:2021 \ 19:13:47
+[' Răsarit = 06:39:08 Apus = 19:49:28 Min (°C) = 0.88 Max (°C) =6.25 Presiune = 1035 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 2.17 Unghiul vântului = 328 Stare = nori 50-85%']
+Harlau: 14 \ joi \ 08:4:2021 \ 19:13:31
+[' Răsarit = 06:37:10 Apus = 19:50:52 Min (°C) = -0.32 Max (°C) =8.27 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.13 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = ploaie ușoară']
+Harlau: 14 \ vineri \ 09:4:2021 \ 19:13:58
+[' Răsarit = 06:35:12 Apus = 19:52:16 Min (°C) = 0.44 Max (°C) =10.64 Presiune = 1023 Umiditate (%) = 34 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Harlau: 14 \ sâmbătă \ 10:4:2021 \ 19:13:31
+[' Răsarit = 06:33:16 Apus = 19:53:40 Min (°C) = 1.42 Max (°C) =13.47 Presiune = 1020 Umiditate (%) = 28 Index UV = 0.16 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = cer senin']
+Harlau: 14 \ duminică \ 11:4:2021 \ 19:15:05
+[' Răsarit = 06:31:20 Apus = 19:55:04 Min (°C) = 3 Max (°C) =14.8 Presiune = 1022 Umiditate (%) = 26 Index UV = 0.17 Viteza vântului = 5.66 Unghiul vântului = 150 Stare = cer senin']
+Harlau: 15 \ luni \ 12:4:2021 \ 21:58:47
+[' Răsarit = 06:29:24 Apus = 19:56:29 Min (°C) = 4.74 Max (°C) =17.34 Presiune = 1018 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = ploaie ușoară']
+Harlau: 15 \ marți \ 13:4:2021 \ 19:14:28
+[' Răsarit = 06:27:29 Apus = 19:57:53 Min (°C) = 7.89 Max (°C) =18.89 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 1.79 Unghiul vântului = 125 Stare = nori 50-85%']
+Harlau: 15 \ miercuri \ 14:4:2021 \ 19:14:45
+[' Răsarit = 06:25:35 Apus = 19:59:17 Min (°C) = 4.79 Max (°C) =13.88 Presiune = 1007 Umiditate (%) = 89 Index UV = 0.02 Viteza vântului = 0.45 Unghiul vântului = 360 Stare = ploaie ușoară']
+Harlau: 15 \ joi \ 15:4:2021 \ 19:15:26
+[' Răsarit = 06:23:42 Apus = 20:00:41 Min (°C) = 2.24 Max (°C) =6.8 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.05 Viteza vântului = 4.92 Unghiul vântului = 315 Stare = ploaie ușoară']
+Harlau: 15 \ vineri \ 16:4:2021 \ 19:14:12
+[' Răsarit = 06:21:49 Apus = 20:02:05 Min (°C) = 2.92 Max (°C) =10.5 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.16 Viteza vântului = 0.45 Unghiul vântului = 127 Stare = nori 85-100%']
+Harlau: 15 \ sâmbătă \ 17:4:2021 \ 19:14:00
+[' Răsarit = 06:19:58 Apus = 20:03:30 Min (°C) = 2.48 Max (°C) =12.68 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.19 Viteza vântului = 2.24 Unghiul vântului = 22 Stare = nori 85-100%']
+Harlau: 15 \ duminică \ 18:4:2021 \ 19:13:35
+[' Răsarit = 06:18:07 Apus = 20:04:54 Min (°C) = 4.73 Max (°C) =13.09 Presiune = 1042 Umiditate (%) = 78 Index UV = 0.04 Viteza vântului = 0.81 Unghiul vântului = 347 Stare = nori 85-100%']
+Harlau: 16 \ luni \ 19:4:2021 \ 19:14:11
+[' Răsarit = 06:16:17 Apus = 20:06:18 Min (°C) = 7.54 Max (°C) =11.11 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.1 Viteza vântului = 1.42 Unghiul vântului = 40 Stare = nori 85-100%']
+Harlau: 16 \ marți \ 20:4:2021 \ 19:13:49
+[' Răsarit = 06:14:28 Apus = 20:07:43 Min (°C) = 7.72 Max (°C) =12.41 Presiune = 1037 Umiditate (%) = 81 Index UV = 0.12 Viteza vântului = 2.8 Unghiul vântului = 296 Stare = nori 50-85%']
+Harlau: 16 \ miercuri \ 21:4:2021 \ 19:13:54
+[' Răsarit = 06:12:40 Apus = 20:09:07 Min (°C) = 5.55 Max (°C) =15.51 Presiune = 1041 Umiditate (%) = 75 Index UV = 0.17 Viteza vântului = 2.99 Unghiul vântului = 147 Stare = nori 50-85%']
+Harlau: 16 \ joi \ 22:4:2021 \ 19:14:25
+[' Răsarit = 06:10:53 Apus = 20:10:32 Min (°C) = 6.37 Max (°C) =18.14 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.21 Viteza vântului = 2.68 Unghiul vântului = 180 Stare = nori 50-85%']
+Harlau: 16 \ vineri \ 23:4:2021 \ 19:13:42
+[' Răsarit = 06:09:07 Apus = 20:11:56 Min (°C) = 5.12 Max (°C) =10.48 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.24 Viteza vântului = 2.68 Unghiul vântului = 286 Stare = nori 50-85%']
+Harlau: 16 \ sâmbătă \ 24:4:2021 \ 19:13:53
+[' Răsarit = 06:07:22 Apus = 20:13:20 Min (°C) = 2.93 Max (°C) =12.02 Presiune = 1021 Umiditate (%) = 40 Index UV = 0.23 Viteza vântului = 6.17 Unghiul vântului = 350 Stare = nori 50-85%']
+Harlau: 16 \ duminică \ 25:4:2021 \ 19:14:04
+[' Răsarit = 06:05:38 Apus = 20:14:45 Min (°C) = 5.06 Max (°C) =15.56 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.21 Viteza vântului = 1.79 Unghiul vântului = 108 Stare = nori 85-100%']
+Harlau: 17 \ luni \ 26:4:2021 \ 19:13:38
+[' Răsarit = 06:03:55 Apus = 20:16:09 Min (°C) = 3.77 Max (°C) =9.83 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.27 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = cer senin']
+Harlau: 17 \ marți \ 27:4:2021 \ 19:15:10
+[' Răsarit = 06:02:13 Apus = 20:17:33 Min (°C) = 4.34 Max (°C) =7.92 Presiune = 1018 Umiditate (%) = 82 Index UV = 0.21 Viteza vântului = 3.58 Unghiul vântului = 332 Stare = nori 85-100%']
+Harlau: 17 \ miercuri \ 28:4:2021 \ 19:13:56
+[' Răsarit = 06:00:33 Apus = 20:18:57 Min (°C) = 1.49 Max (°C) =8.05 Presiune = 1042 Umiditate (%) = 84 Index UV = 0.28 Viteza vântului = 5.39 Unghiul vântului = 166 Stare = nori 85-100%']
+Harlau: 17 \ joi \ 29:4:2021 \ 19:24:22
+[' Răsarit = 05:58:53 Apus = 20:20:21 Min (°C) = 2.44 Max (°C) =17.32 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.33 Viteza vântului = 3.58 Unghiul vântului = 152 Stare = nori 25-50%']
+Harlau: 17 \ vineri \ 30:4:2021 \ 19:13:56
+[' Răsarit = 05:57:15 Apus = 20:21:44 Min (°C) = 8.57 Max (°C) =22.43 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.35 Viteza vântului = 5.66 Unghiul vântului = 270 Stare = nori 10-25%']
+Harlau: 17 \ sâmbătă \ 01:5:2021 \ 19:14:41
+[' Răsarit = 05:55:39 Apus = 20:23:08 Min (°C) = 11.38 Max (°C) =23.44 Presiune = 1038 Umiditate (%) = 75 Index UV = 0.31 Viteza vântului = 2.26 Unghiul vântului = 146 Stare = nori 85-100%']
+Harlau: 17 \ duminică \ 02:5:2021 \ 20:20:59
+[' Răsarit = 05:54:03 Apus = 20:24:31 Min (°C) = 14.78 Max (°C) =25.85 Presiune = 1005 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 230 Stare = nori 10-25%']
+Harlau: 18 \ luni \ 03:5:2021 \ 19:14:07
+[' Răsarit = 05:52:30 Apus = 20:25:54 Min (°C) = 9.42 Max (°C) =17.95 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.14 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Harlau: 18 \ marți \ 04:5:2021 \ 19:15:28
+[' Răsarit = 05:50:57 Apus = 20:27:17 Min (°C) = 6.38 Max (°C) =16.61 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.38 Viteza vântului = 4.63 Unghiul vântului = 140 Stare = cer senin']
+Harlau: 18 \ miercuri \ 05:5:2021 \ 19:13:48
+[' Răsarit = 05:49:26 Apus = 20:28:39 Min (°C) = 6.25 Max (°C) =20.61 Presiune = 1006 Umiditate (%) = 34 Index UV = 0.39 Viteza vântului = 5.14 Unghiul vântului = 190 Stare = cer senin']
+Harlau: 18 \ joi \ 06:5:2021 \ 19:14:47
+[' Răsarit = 05:47:56 Apus = 20:30:01 Min (°C) = 10.24 Max (°C) =15.57 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.28 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 10-25%']
+Harlau: 18 \ vineri \ 07:5:2021 \ 19:13:19
+[' Răsarit = 05:46:28 Apus = 20:31:23 Min (°C) = 7.7 Max (°C) =20.11 Presiune = 1034 Umiditate (%) = 54 Index UV = 0.08 Viteza vântului = 1.84 Unghiul vântului = 347 Stare = nori 85-100%']
+Harlau: 18 \ sâmbătă \ 08:5:2021 \ 19:13:58
+[' Răsarit = 05:45:02 Apus = 20:32:44 Min (°C) = 6.72 Max (°C) =12.37 Presiune = 1045 Umiditate (%) = 56 Index UV = 0.34 Viteza vântului = 5.86 Unghiul vântului = 345 Stare = nori 10-25%']
+Harlau: 18 \ duminică \ 09:5:2021 \ 19:13:40
+[' Răsarit = 05:43:37 Apus = 20:34:05 Min (°C) = 3.77 Max (°C) =17.06 Presiune = 1022 Umiditate (%) = 36 Index UV = 0.43 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Harlau: 19 \ luni \ 10:5:2021 \ 19:13:45
+[' Răsarit = 05:42:13 Apus = 20:35:25 Min (°C) = 6.17 Max (°C) =20.41 Presiune = 1020 Umiditate (%) = 32 Index UV = 0.45 Viteza vântului = 4.63 Unghiul vântului = 150 Stare = cer senin']
+Harlau: 19 \ marți \ 11:5:2021 \ 19:14:35
+[' Răsarit = 05:40:51 Apus = 20:36:45 Min (°C) = 7.69 Max (°C) =21.33 Presiune = 1016 Umiditate (%) = 26 Index UV = 0.43 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Harlau: 19 \ miercuri \ 12:5:2021 \ 19:13:49
+[' Răsarit = 05:39:31 Apus = 20:38:04 Min (°C) = 10.86 Max (°C) =17.39 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.07 Viteza vântului = 1.63 Unghiul vântului = 146 Stare = nori 85-100%']
+Harlau: 19 \ joi \ 13:5:2021 \ 19:14:37
+[' Răsarit = 05:38:13 Apus = 20:39:23 Min (°C) = 8.33 Max (°C) =17.1 Presiune = 1004 Umiditate (%) = 71 Index UV = 0.35 Viteza vântului = 5.99 Unghiul vântului = 151 Stare = nori 85-100%']
+Harlau: 19 \ vineri \ 14:5:2021 \ 19:14:28
+[' Răsarit = 05:36:57 Apus = 20:40:40 Min (°C) = 8.74 Max (°C) =19.06 Presiune = 1034 Umiditate (%) = 74 Index UV = 0.46 Viteza vântului = 4.45 Unghiul vântului = 287 Stare = nori 50-85%']
+Harlau: 19 \ sâmbătă \ 15:5:2021 \ 19:13:58
+[' Răsarit = 05:35:42 Apus = 20:41:58 Min (°C) = 10.76 Max (°C) =20.2 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.48 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 10-25%']
+Harlau: 19 \ duminică \ 16:5:2021 \ 19:14:35
+[' Răsarit = 05:34:29 Apus = 20:43:14 Min (°C) = 10.73 Max (°C) =21.94 Presiune = 1006 Umiditate (%) = 52 Index UV = 0.17 Viteza vântului = 7.72 Unghiul vântului = 160 Stare = cer senin']
+Harlau: 20 \ luni \ 17:5:2021 \ 19:15:02
+[' Răsarit = 05:33:18 Apus = 20:44:29 Min (°C) = 12.26 Max (°C) =20.35 Presiune = 1002 Umiditate (%) = 46 Index UV = 0.49 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Harlau: 20 \ marți \ 18:5:2021 \ 19:14:31
+[' Răsarit = 05:32:09 Apus = 20:45:44 Min (°C) = 11.71 Max (°C) =18.32 Presiune = 1001 Umiditate (%) = 82 Index UV = 0.37 Viteza vântului = 8.79 Unghiul vântului = 295 Stare = ploaie ușoară']
+Harlau: 20 \ miercuri \ 19:5:2021 \ 19:13:36
+[' Răsarit = 05:31:02 Apus = 20:46:58 Min (°C) = 11.26 Max (°C) =17.28 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.52 Viteza vântului = 4.61 Unghiul vântului = 334 Stare = nori 25-50%']
+Harlau: 20 \ joi \ 20:5:2021 \ 19:14:05
+[' Răsarit = 05:29:57 Apus = 20:48:11 Min (°C) = 9.25 Max (°C) =16.46 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.48 Viteza vântului = 4.78 Unghiul vântului = 8 Stare = nori 85-100%']
+Harlau: 20 \ vineri \ 21:5:2021 \ 19:15:12
+[' Răsarit = 05:28:54 Apus = 20:49:22 Min (°C) = 10.25 Max (°C) =20.04 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.55 Viteza vântului = 2.92 Unghiul vântului = 73 Stare = nori 25-50%']
+Harlau: 20 \ sâmbătă \ 22:5:2021 \ 19:14:33
+[' Răsarit = 05:27:52 Apus = 20:50:33 Min (°C) = 9.37 Max (°C) =23.67 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.57 Viteza vântului = 6.2 Unghiul vântului = 164 Stare = nori 85-100%']
+Harlau: 20 \ duminică \ 23:5:2021 \ 19:14:54
+[' Răsarit = 05:26:53 Apus = 20:51:42 Min (°C) = 13.54 Max (°C) =22.31 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.33 Viteza vântului = 1.48 Unghiul vântului = 67 Stare = ploaie ușoară']
+Harlau: 21 \ luni \ 24:5:2021 \ 19:13:39
+[' Răsarit = 05:25:57 Apus = 20:52:51 Min (°C) = 10.41 Max (°C) =19.61 Presiune = 1023 Umiditate (%) = 63 Index UV = 0.58 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = nori 85-100%']
+Harlau: 21 \ marți \ 25:5:2021 \ 19:13:36
+[' Răsarit = 05:25:02 Apus = 20:53:57 Min (°C) = 10.93 Max (°C) =22.74 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.61 Viteza vântului = 6.77 Unghiul vântului = 149 Stare = nori 10-25%']
+Harlau: 21 \ miercuri \ 26:5:2021 \ 19:15:53
+[' Răsarit = 05:24:09 Apus = 20:55:03 Min (°C) = 13.07 Max (°C) =19.84 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.48 Viteza vântului = 1.87 Unghiul vântului = 15 Stare = nori 85-100%']
+Harlau: 21 \ joi \ 27:5:2021 \ 19:13:50
+[' Răsarit = 05:23:19 Apus = 20:56:07 Min (°C) = 12.56 Max (°C) =21.82 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.37 Viteza vântului = 2.3 Unghiul vântului = 139 Stare = nori 85-100%']
+Harlau: 21 \ vineri \ 28:5:2021 \ 19:13:58
+[' Răsarit = 05:22:31 Apus = 20:57:10 Min (°C) = 12.76 Max (°C) =19.31 Presiune = 1013 Umiditate (%) = 94 Index UV = 0.08 Viteza vântului = 5.62 Unghiul vântului = 317 Stare = ploaie ușoară']
+Harlau: 21 \ sâmbătă \ 29:5:2021 \ 19:13:31
+[' Răsarit = 05:21:45 Apus = 20:58:12 Min (°C) = 12.09 Max (°C) =20.05 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.34 Viteza vântului = 3.01 Unghiul vântului = 302 Stare = nori 85-100%']
+Harlau: 21 \ duminică \ 30:5:2021 \ 19:13:20
+[' Răsarit = 05:21:02 Apus = 20:59:12 Min (°C) = 10.59 Max (°C) =18.02 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.57 Viteza vântului = 5.32 Unghiul vântului = 348 Stare = nori 50-85%']
+Harlau: 22 \ marți \ 01:6:2021 \ 19:14:22
+[' Răsarit = 05:19:42 Apus = 21:01:06 Min (°C) = 9.93 Max (°C) =15.68 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.48 Viteza vântului = 5.26 Unghiul vântului = 26 Stare = nori 85-100%']
+Harlau: 22 \ miercuri \ 02:6:2021 \ 19:12:01
+[' Răsarit = 05:19:05 Apus = 21:02:01 Min (°C) = 9.36 Max (°C) =13.1 Presiune = 1020 Umiditate (%) = 90 Index UV = 0.06 Viteza vântului = 7.17 Unghiul vântului = 343 Stare = nori 85-100%']
+Harlau: 22 \ joi \ 03:6:2021 \ 19:12:27
+[' Răsarit = 05:18:31 Apus = 21:02:54 Min (°C) = 10.46 Max (°C) =19.98 Presiune = 1022 Umiditate (%) = 73 Index UV = 0.5 Viteza vântului = 4.64 Unghiul vântului = 357 Stare = nori 85-100%']
+Harlau: 22 \ vineri \ 04:6:2021 \ 19:19:30
+[' Răsarit = 05:17:59 Apus = 21:03:46 Min (°C) = 10.35 Max (°C) =21.03 Presiune = 1022 Umiditate (%) = 67 Index UV = 0.63 Viteza vântului = 2.83 Unghiul vântului = 339 Stare = nori 50-85%']
+Harlau: 22 \ sâmbătă \ 05:6:2021 \ 19:15:03
+[' Răsarit = 05:17:30 Apus = 21:04:35 Min (°C) = 12.26 Max (°C) =21.93 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.07 Viteza vântului = 2.58 Unghiul vântului = 280 Stare = ploaie ușoară']
+Harlau: 22 \ duminică \ 06:6:2021 \ 19:14:14
+[' Răsarit = 05:17:04 Apus = 21:05:23 Min (°C) = 13.26 Max (°C) =21.77 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.68 Viteza vântului = 4.08 Unghiul vântului = 314 Stare = nori 50-85%']
+Harlau: 23 \ luni \ 07:6:2021 \ 19:14:13
+[' Răsarit = 05:16:39 Apus = 21:06:08 Min (°C) = 12.24 Max (°C) =24.76 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.67 Viteza vântului = 3.03 Unghiul vântului = 326 Stare = nori 50-85%']
+Harlau: 23 \ marți \ 08:6:2021 \ 19:13:49
+[' Răsarit = 05:16:18 Apus = 21:06:52 Min (°C) = 12.96 Max (°C) =23.88 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.68 Viteza vântului = 5.68 Unghiul vântului = 323 Stare = nori 25-50%']
+Harlau: 23 \ miercuri \ 09:6:2021 \ 19:14:38
+[' Răsarit = 05:15:58 Apus = 21:07:33 Min (°C) = 13.61 Max (°C) =24.36 Presiune = 1012 Umiditate (%) = 71 Index UV = 0.66 Viteza vântului = 4.89 Unghiul vântului = 328 Stare = nori 25-50%']
+Harlau: 23 \ joi \ 10:6:2021 \ 19:13:44
+[' Răsarit = 05:15:42 Apus = 21:08:13 Min (°C) = 12.91 Max (°C) =22.76 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.65 Viteza vântului = 5.27 Unghiul vântului = 325 Stare = nori 50-85%']
+Harlau: 23 \ vineri \ 11:6:2021 \ 19:13:44
+[' Răsarit = 05:15:27 Apus = 21:08:50 Min (°C) = 12.75 Max (°C) =23.34 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.65 Viteza vântului = 3.51 Unghiul vântului = 319 Stare = nori 50-85%']
+Harlau: 23 \ sâmbătă \ 12:6:2021 \ 19:13:57
+[' Răsarit = 05:15:16 Apus = 21:09:25 Min (°C) = 13.38 Max (°C) =24.57 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.54 Viteza vântului = 1.6 Unghiul vântului = 220 Stare = nori 85-100%']
+Harlau: 23 \ duminică \ 13:6:2021 \ 19:19:25
+[' Răsarit = 05:15:06 Apus = 21:09:57 Min (°C) = 13.38 Max (°C) =17.23 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.59 Viteza vântului = 7.33 Unghiul vântului = 331 Stare = nori 85-100%']
+Harlau: 24 \ luni \ 14:6:2021 \ 19:13:52
+[' Răsarit = 05:15:00 Apus = 21:10:28 Min (°C) = 11.29 Max (°C) =16.12 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.06 Viteza vântului = 7.19 Unghiul vântului = 310 Stare = nori 85-100%']
+Harlau: 24 \ marți \ 15:6:2021 \ 19:15:59
+[' Răsarit = 05:14:56 Apus = 21:10:56 Min (°C) = 13.11 Max (°C) =20.67 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.55 Viteza vântului = 7.64 Unghiul vântului = 335 Stare = nori 50-85%']
+Harlau: 24 \ miercuri \ 16:6:2021 \ 19:15:20
+[' Răsarit = 05:14:54 Apus = 21:11:22 Min (°C) = 15.33 Max (°C) =22.37 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.67 Viteza vântului = 5.7 Unghiul vântului = 356 Stare = ploaie ușoară']
+Harlau: 24 \ joi \ 17:6:2021 \ 19:14:09
+[' Răsarit = 05:14:55 Apus = 21:11:45 Min (°C) = 14.58 Max (°C) =23.22 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.44 Viteza vântului = 4.42 Unghiul vântului = 360 Stare = nori 85-100%']
+Harlau: 24 \ vineri \ 18:6:2021 \ 19:14:45
+[' Răsarit = 05:14:59 Apus = 21:12:06 Min (°C) = 16.36 Max (°C) =22.98 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.34 Viteza vântului = 3.85 Unghiul vântului = 46 Stare = nori 85-100%']
+Harlau: 24 \ sâmbătă \ 19:6:2021 \ 19:13:54
+[' Răsarit = 05:15:04 Apus = 21:12:24 Min (°C) = 15.72 Max (°C) =22.36 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.56 Viteza vântului = 0.95 Unghiul vântului = 49 Stare = nori 50-85%']
+Harlau: 24 \ duminică \ 20:6:2021 \ 19:14:50
+[' Răsarit = 05:15:13 Apus = 21:12:41 Min (°C) = 14.94 Max (°C) =24.25 Presiune = 1011 Umiditate (%) = 82 Index UV = 0.45 Viteza vântului = 3.31 Unghiul vântului = 332 Stare = nori 85-100%']
+Harlau: 25 \ luni \ 21:6:2021 \ 19:15:35
+[' Răsarit = 05:15:24 Apus = 21:12:54 Min (°C) = 16.43 Max (°C) =27.38 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.46 Viteza vântului = 2.77 Unghiul vântului = 124 Stare = nori 85-100%']
+Harlau: 25 \ marți \ 22:6:2021 \ 19:15:00
+[' Răsarit = 05:15:37 Apus = 21:13:05 Min (°C) = 17.55 Max (°C) =29.26 Presiune = 1011 Umiditate (%) = 60 Index UV = 0.72 Viteza vântului = 0.97 Unghiul vântului = 53 Stare = ploaie moderată']
+Harlau: 25 \ miercuri \ 23:6:2021 \ 19:14:17
+[' Răsarit = 05:15:53 Apus = 21:13:14 Min (°C) = 19.59 Max (°C) =30.03 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.73 Viteza vântului = 2.39 Unghiul vântului = 345 Stare = cer senin']
+Harlau: 25 \ joi \ 24:6:2021 \ 19:14:57
+[' Răsarit = 05:16:11 Apus = 21:13:19 Min (°C) = 20.02 Max (°C) =30.92 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.72 Viteza vântului = 1.83 Unghiul vântului = 17 Stare = nori 25-50%']
+Harlau: 25 \ vineri \ 25:6:2021 \ 19:14:20
+[' Răsarit = 05:16:32 Apus = 21:13:23 Min (°C) = 21.58 Max (°C) =31.11 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.54 Viteza vântului = 3.43 Unghiul vântului = 279 Stare = nori 50-85%']
+Harlau: 25 \ sâmbătă \ 26:6:2021 \ 19:13:53
+[' Răsarit = 05:16:54 Apus = 21:13:24 Min (°C) = 20.42 Max (°C) =28.68 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.73 Viteza vântului = 4.6 Unghiul vântului = 314 Stare = nori 10-25%']
+Harlau: 25 \ duminică \ 27:6:2021 \ 19:13:49
+[' Răsarit = 05:17:20 Apus = 21:13:22 Min (°C) = 17.05 Max (°C) =25.69 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.71 Viteza vântului = 4.4 Unghiul vântului = 343 Stare = nori 25-50%']
+Harlau: 26 \ luni \ 28:6:2021 \ 19:15:52
+[' Răsarit = 05:17:47 Apus = 21:13:18 Min (°C) = 16.07 Max (°C) =26.73 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.69 Viteza vântului = 1.35 Unghiul vântului = 356 Stare = nori 50-85%']
+Harlau: 26 \ marți \ 29:6:2021 \ 19:15:32
+[' Răsarit = 05:18:17 Apus = 21:13:11 Min (°C) = 16.75 Max (°C) =28.46 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.7 Viteza vântului = 2.19 Unghiul vântului = 179 Stare = nori 50-85%']
+Harlau: 26 \ miercuri \ 30:6:2021 \ 19:14:30
+[' Răsarit = 05:18:49 Apus = 21:13:01 Min (°C) = 18.1 Max (°C) =31.31 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.37 Viteza vântului = 1.36 Unghiul vântului = 70 Stare = ploaie ușoară']
+Harlau: 26 \ joi \ 01:7:2021 \ 19:15:32
+[' Răsarit = 05:19:23 Apus = 21:12:49 Min (°C) = 16.74 Max (°C) =28.72 Presiune = 1008 Umiditate (%) = 61 Index UV = 0.07 Viteza vântului = 1.13 Unghiul vântului = 97 Stare = nori 10-25%']
+Harlau: 26 \ vineri \ 02:7:2021 \ 19:13:56
+[' Răsarit = 05:19:59 Apus = 21:12:34 Min (°C) = 16.61 Max (°C) =22.33 Presiune = 1009 Umiditate (%) = 84 Index UV = 0.56 Viteza vântului = 2.96 Unghiul vântului = 278 Stare = nori 85-100%']
+Harlau: 26 \ sâmbătă \ 03:7:2021 \ 19:14:13
+[' Răsarit = 05:20:37 Apus = 21:12:17 Min (°C) = 14.81 Max (°C) =23.18 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.67 Viteza vântului = 3.72 Unghiul vântului = 340 Stare = nori 25-50%']
+Harlau: 26 \ duminică \ 04:7:2021 \ 19:13:53
+[' Răsarit = 05:21:18 Apus = 21:11:57 Min (°C) = 14.38 Max (°C) =23.95 Presiune = 1008 Umiditate (%) = 76 Index UV = 0.67 Viteza vântului = 5.2 Unghiul vântului = 332 Stare = nori 50-85%']
+Harlau: 27 \ luni \ 05:7:2021 \ 19:14:28
+[' Răsarit = 05:22:00 Apus = 21:11:35 Min (°C) = 16.57 Max (°C) =23.74 Presiune = 1008 Umiditate (%) = 85 Index UV = 0.54 Viteza vântului = 4.31 Unghiul vântului = 313 Stare = nori 85-100%']
+Harlau: 27 \ marți \ 06:7:2021 \ 19:14:49
+[' Răsarit = 05:22:44 Apus = 21:11:10 Min (°C) = 18.24 Max (°C) =25.34 Presiune = 1012 Umiditate (%) = 79 Index UV = 0.71 Viteza vântului = 4.62 Unghiul vântului = 347 Stare = nori 25-50%']
+Harlau: 27 \ miercuri \ 07:7:2021 \ 19:13:55
+[' Răsarit = 05:23:30 Apus = 21:10:43 Min (°C) = 18 Max (°C) =27.61 Presiune = 1017 Umiditate (%) = 72 Index UV = 0.71 Viteza vântului = 3.49 Unghiul vântului = 58 Stare = nori 25-50%']
+Harlau: 27 \ joi \ 08:7:2021 \ 19:14:49
+[' Răsarit = 05:24:18 Apus = 21:10:13 Min (°C) = 18.67 Max (°C) =28.88 Presiune = 1022 Umiditate (%) = 66 Index UV = 0.48 Viteza vântului = 1.1 Unghiul vântului = 220 Stare = nori 85-100%']
+Harlau: 27 \ vineri \ 09:7:2021 \ 19:14:33
+[' Răsarit = 05:25:08 Apus = 21:09:41 Min (°C) = 19.01 Max (°C) =29.84 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.69 Viteza vântului = 4.07 Unghiul vântului = 113 Stare = cer senin']
+Harlau: 27 \ sâmbătă \ 10:7:2021 \ 19:13:48
+[' Răsarit = 05:26:00 Apus = 21:09:06 Min (°C) = 17.22 Max (°C) =28.99 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.66 Viteza vântului = 2.63 Unghiul vântului = 125 Stare = cer senin']
+Harlau: 27 \ duminică \ 11:7:2021 \ 19:14:05
+[' Răsarit = 05:26:53 Apus = 21:08:29 Min (°C) = 17.84 Max (°C) =29.55 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.54 Viteza vântului = 2.95 Unghiul vântului = 131 Stare = nori 25-50%']
+Harlau: 28 \ luni \ 12:7:2021 \ 19:14:45
+[' Răsarit = 05:27:48 Apus = 21:07:49 Min (°C) = 18.1 Max (°C) =30.03 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.56 Viteza vântului = 1.43 Unghiul vântului = 260 Stare = nori 50-85%']
+Harlau: 28 \ marți \ 13:7:2021 \ 19:14:44
+[' Răsarit = 05:28:44 Apus = 21:07:07 Min (°C) = 17.8 Max (°C) =30.61 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.67 Viteza vântului = 2.94 Unghiul vântului = 134 Stare = cer senin']
+Harlau: 28 \ miercuri \ 14:7:2021 \ 19:14:09
+[' Răsarit = 05:29:42 Apus = 21:06:23 Min (°C) = 19.21 Max (°C) =31.25 Presiune = 1014 Umiditate (%) = 56 Index UV = 0.69 Viteza vântului = 4.52 Unghiul vântului = 135 Stare = ploaie ușoară']
+Harlau: 28 \ joi \ 15:7:2021 \ 19:14:26
+[' Răsarit = 05:30:41 Apus = 21:05:36 Min (°C) = 19.63 Max (°C) =31.59 Presiune = 1011 Umiditate (%) = 52 Index UV = 0.68 Viteza vântului = 5.2 Unghiul vântului = 136 Stare = cer senin']
+Harlau: 28 \ vineri \ 16:7:2021 \ 19:14:13
+[' Răsarit = 05:31:42 Apus = 21:04:47 Min (°C) = 19.12 Max (°C) =30.85 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.44 Viteza vântului = 2.46 Unghiul vântului = 95 Stare = nori 25-50%']
+Harlau: 28 \ sâmbătă \ 17:7:2021 \ 19:14:31
+[' Răsarit = 05:32:44 Apus = 21:03:56 Min (°C) = 18.96 Max (°C) =32.53 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.62 Viteza vântului = 2.26 Unghiul vântului = 70 Stare = nori 10-25%']
+Harlau: 28 \ duminică \ 18:7:2021 \ 19:14:50
+[' Răsarit = 05:33:48 Apus = 21:03:02 Min (°C) = 23.23 Max (°C) =32.89 Presiune = 1008 Umiditate (%) = 59 Index UV = 0.62 Viteza vântului = 1.53 Unghiul vântului = 172 Stare = nori 50-85%']
+Harlau: 29 \ luni \ 19:7:2021 \ 19:14:25
+[' Răsarit = 05:34:52 Apus = 21:02:06 Min (°C) = 20.41 Max (°C) =30.56 Presiune = 1009 Umiditate (%) = 79 Index UV = 0.34 Viteza vântului = 4.19 Unghiul vântului = 260 Stare = ploaie ușoară']
+Harlau: 29 \ marți \ 20:7:2021 \ 19:14:10
+[' Răsarit = 05:35:58 Apus = 21:01:09 Min (°C) = 18.57 Max (°C) =24.76 Presiune = 1008 Umiditate (%) = 87 Index UV = 0.17 Viteza vântului = 3.27 Unghiul vântului = 306 Stare = nori 50-85%']
+Harlau: 29 \ miercuri \ 21:7:2021 \ 19:13:49
+[' Răsarit = 05:37:05 Apus = 21:00:09 Min (°C) = 16.71 Max (°C) =20.37 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.06 Viteza vântului = 7.12 Unghiul vântului = 313 Stare = nori 85-100%']
+Harlau: 29 \ joi \ 22:7:2021 \ 19:13:43
+[' Răsarit = 05:38:13 Apus = 20:59:06 Min (°C) = 15.2 Max (°C) =24.01 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.58 Viteza vântului = 5.25 Unghiul vântului = 340 Stare = nori 10-25%']
+Harlau: 29 \ vineri \ 23:7:2021 \ 19:14:03
+[' Răsarit = 05:39:22 Apus = 20:58:02 Min (°C) = 14.31 Max (°C) =25.59 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.53 Viteza vântului = 2 Unghiul vântului = 2 Stare = nori 50-85%']
+Harlau: 29 \ sâmbătă \ 24:7:2021 \ 19:21:04
+[' Răsarit = 05:40:32 Apus = 20:56:56 Min (°C) = 14.74 Max (°C) =27.52 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.52 Viteza vântului = 2.12 Unghiul vântului = 18 Stare = nori 10-25%']
+Harlau: 29 \ duminică \ 25:7:2021 \ 19:14:28
+[' Răsarit = 05:41:43 Apus = 20:55:48 Min (°C) = 18 Max (°C) =28.44 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.55 Viteza vântului = 2.77 Unghiul vântului = 134 Stare = cer senin']
+Harlau: 30 \ luni \ 26:7:2021 \ 19:14:26
+[' Răsarit = 05:42:55 Apus = 20:54:38 Min (°C) = 17.15 Max (°C) =29.35 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.53 Viteza vântului = 2.97 Unghiul vântului = 122 Stare = cer senin']
+Harlau: 30 \ marți \ 27:7:2021 \ 19:15:40
+[' Răsarit = 05:44:07 Apus = 20:53:25 Min (°C) = 18.21 Max (°C) =31.68 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.28 Viteza vântului = 2.21 Unghiul vântului = 208 Stare = nori 50-85%']
+Harlau: 30 \ miercuri \ 28:7:2021 \ 19:16:51
+[' Răsarit = 05:45:21 Apus = 20:52:12 Min (°C) = 21.29 Max (°C) =34.02 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.51 Viteza vântului = 2.79 Unghiul vântului = 130 Stare = ploaie ușoară']
+Harlau: 30 \ joi \ 29:7:2021 \ 19:15:43
+[' Răsarit = 05:46:35 Apus = 20:50:56 Min (°C) = 19.53 Max (°C) =35.8 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.47 Viteza vântului = 5.11 Unghiul vântului = 331 Stare = ploaie ușoară']
+Harlau: 30 \ vineri \ 30:7:2021 \ 19:13:57
+[' Răsarit = 05:47:49 Apus = 20:49:38 Min (°C) = 18.92 Max (°C) =30.07 Presiune = 1010 Umiditate (%) = 53 Index UV = 0.35 Viteza vântului = 2.64 Unghiul vântului = 118 Stare = cer senin']
+Harlau: 30 \ sâmbătă \ 31:7:2021 \ 19:13:46
+[' Răsarit = 05:49:05 Apus = 20:48:19 Min (°C) = 18.64 Max (°C) =31.88 Presiune = 1008 Umiditate (%) = 46 Index UV = 0.49 Viteza vântului = 3.01 Unghiul vântului = 128 Stare = cer senin']
+Harlau: 30 \ duminică \ 01:8:2021 \ 19:14:14
+[' Răsarit = 05:50:21 Apus = 20:46:57 Min (°C) = 19.28 Max (°C) =31.89 Presiune = 1008 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 3.97 Unghiul vântului = 133 Stare = ploaie ușoară']
+Harlau: 31 \ luni \ 02:8:2021 \ 19:13:37
+[' Răsarit = 05:51:37 Apus = 20:45:35 Min (°C) = 20.68 Max (°C) =33.7 Presiune = 1009 Umiditate (%) = 65 Index UV = 0.46 Viteza vântului = 3.45 Unghiul vântului = 354 Stare = ploaie ușoară']
+Harlau: 31 \ marți \ 03:8:2021 \ 19:14:04
+[' Răsarit = 05:52:54 Apus = 20:44:10 Min (°C) = 15.2 Max (°C) =25.86 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.22 Viteza vântului = 1.09 Unghiul vântului = 236 Stare = nori 50-85%']
+Harlau: 31 \ miercuri \ 04:8:2021 \ 19:13:43
+[' Răsarit = 05:54:11 Apus = 20:42:44 Min (°C) = 16.42 Max (°C) =28.54 Presiune = 1012 Umiditate (%) = 57 Index UV = 0.4 Viteza vântului = 3.39 Unghiul vântului = 141 Stare = nori 85-100%']
+Harlau: 31 \ joi \ 05:8:2021 \ 19:11:53
+[' Răsarit = 05:55:29 Apus = 20:41:16 Min (°C) = 17.19 Max (°C) =31.82 Presiune = 1003 Umiditate (%) = 39 Index UV = 0.42 Viteza vântului = 7.09 Unghiul vântului = 139 Stare = ploaie ușoară']
+Harlau: 31 \ vineri \ 06:8:2021 \ 19:14:09
+[' Răsarit = 05:56:47 Apus = 20:39:47 Min (°C) = 19.38 Max (°C) =30 Presiune = 1004 Umiditate (%) = 50 Index UV = 0.11 Viteza vântului = 5.52 Unghiul vântului = 341 Stare = nori 85-100%']
+Harlau: 31 \ sâmbătă \ 07:8:2021 \ 19:13:44
+[' Răsarit = 05:58:05 Apus = 20:38:16 Min (°C) = 14.43 Max (°C) =27.26 Presiune = 1012 Umiditate (%) = 46 Index UV = 0.39 Viteza vântului = 3.63 Unghiul vântului = 45 Stare = cer senin']
+Harlau: 31 \ duminică \ 08:8:2021 \ 19:13:44
+[' Răsarit = 05:59:24 Apus = 20:36:44 Min (°C) = 15.79 Max (°C) =29.51 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.42 Viteza vântului = 3.12 Unghiul vântului = 113 Stare = ploaie ușoară']
+Harlau: 32 \ luni \ 09:8:2021 \ 19:14:46
+[' Răsarit = 06:00:43 Apus = 20:35:10 Min (°C) = 18.22 Max (°C) =32.63 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.18 Viteza vântului = 1.91 Unghiul vântului = 292 Stare = ploaie ușoară']
+Harlau: 32 \ marți \ 10:8:2021 \ 19:14:43
+[' Răsarit = 06:02:02 Apus = 20:33:35 Min (°C) = 17.62 Max (°C) =28.91 Presiune = 1016 Umiditate (%) = 39 Index UV = 0.39 Viteza vântului = 4.45 Unghiul vântului = 9 Stare = nori 10-25%']
+Harlau: 32 \ miercuri \ 11:8:2021 \ 19:11:34
+[' Răsarit = 06:03:22 Apus = 20:31:58 Min (°C) = 16.86 Max (°C) =30.5 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.25 Viteza vântului = 3.97 Unghiul vântului = 346 Stare = nori 10-25%']
+Harlau: 32 \ joi \ 12:8:2021 \ 19:12:55
+[' Răsarit = 06:04:41 Apus = 20:30:20 Min (°C) = 16.91 Max (°C) =26.15 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.12 Viteza vântului = 3.84 Unghiul vântului = 331 Stare = nori 50-85%']
+Harlau: 32 \ vineri \ 13:8:2021 \ 19:11:42
+[' Răsarit = 06:06:01 Apus = 20:28:41 Min (°C) = 14.37 Max (°C) =27.52 Presiune = 1022 Umiditate (%) = 33 Index UV = 0.36 Viteza vântului = 3.85 Unghiul vântului = 24 Stare = nori 25-50%']
+Harlau: 32 \ sâmbătă \ 14:8:2021 \ 19:13:06
+[' Răsarit = 06:07:21 Apus = 20:27:00 Min (°C) = 14.84 Max (°C) =29.2 Presiune = 1019 Umiditate (%) = 37 Index UV = 0.35 Viteza vântului = 4 Unghiul vântului = 115 Stare = cer senin']
+Harlau: 32 \ duminică \ 15:8:2021 \ 19:12:01
+[' Răsarit = 06:08:41 Apus = 20:25:19 Min (°C) = 16.11 Max (°C) =31.05 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.31 Viteza vântului = 3.72 Unghiul vântului = 106 Stare = cer senin']
+Harlau: 33 \ luni \ 16:8:2021 \ 19:11:41
+[' Răsarit = 06:10:01 Apus = 20:23:36 Min (°C) = 17.94 Max (°C) =34.13 Presiune = 1011 Umiditate (%) = 42 Index UV = 0.07 Viteza vântului = 0.81 Unghiul vântului = 75 Stare = ploaie ușoară']
+Harlau: 33 \ marți \ 17:8:2021 \ 19:12:10
+[' Răsarit = 06:11:21 Apus = 20:21:52 Min (°C) = 19.39 Max (°C) =37.23 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.05 Viteza vântului = 4.33 Unghiul vântului = 336 Stare = ploaie ușoară']
+Harlau: 33 \ miercuri \ 18:8:2021 \ 19:11:57
+[' Răsarit = 06:12:41 Apus = 20:20:07 Min (°C) = 14.69 Max (°C) =21.58 Presiune = 1013 Umiditate (%) = 86 Index UV = 0.19 Viteza vântului = 2.72 Unghiul vântului = 331 Stare = ploaie ușoară']
+Harlau: 33 \ joi \ 19:8:2021 \ 19:11:41
+[' Răsarit = 06:14:01 Apus = 20:18:20 Min (°C) = 13.8 Max (°C) =23.87 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.29 Viteza vântului = 3.3 Unghiul vântului = 2 Stare = nori 10-25%']
+Harlau: 33 \ vineri \ 20:8:2021 \ 19:11:50
+[' Răsarit = 06:15:22 Apus = 20:16:33 Min (°C) = 13.26 Max (°C) =25.66 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.28 Viteza vântului = 2.49 Unghiul vântului = 16 Stare = cer senin']
+Harlau: 33 \ sâmbătă \ 21:8:2021 \ 19:12:57
+[' Răsarit = 06:16:42 Apus = 20:14:45 Min (°C) = 14.6 Max (°C) =27.85 Presiune = 1017 Umiditate (%) = 40 Index UV = 0.22 Viteza vântului = 4.38 Unghiul vântului = 18 Stare = nori 85-100%']
+Harlau: 33 \ duminică \ 22:8:2021 \ 19:12:01
+[' Răsarit = 06:18:02 Apus = 20:12:55 Min (°C) = 15.51 Max (°C) =26.66 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.25 Viteza vântului = 1.97 Unghiul vântului = 124 Stare = nori 25-50%']
+Harlau: 34 \ luni \ 23:8:2021 \ 19:11:50
+[' Răsarit = 06:19:22 Apus = 20:11:05 Min (°C) = 16.8 Max (°C) =29.21 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.09 Viteza vântului = 4.09 Unghiul vântului = 113 Stare = ploaie ușoară']
+Harlau: 34 \ marți \ 24:8:2021 \ 19:11:48
+[' Răsarit = 06:20:42 Apus = 20:09:14 Min (°C) = 15.57 Max (°C) =31.5 Presiune = 1014 Umiditate (%) = 91 Index UV = 0.16 Viteza vântului = 2.11 Unghiul vântului = 357 Stare = nori 85-100%']
+Harlau: 34 \ miercuri \ 25:8:2021 \ 19:11:51
+[' Răsarit = 06:22:02 Apus = 20:07:21 Min (°C) = 14.4 Max (°C) =22.74 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.07 Viteza vântului = 4.3 Unghiul vântului = 330 Stare = nori 85-100%']
+Harlau: 34 \ joi \ 26:8:2021 \ 19:12:59
+[' Răsarit = 06:23:22 Apus = 20:05:28 Min (°C) = 13.36 Max (°C) =21.62 Presiune = 1009 Umiditate (%) = 61 Index UV = 0.08 Viteza vântului = 3.16 Unghiul vântului = 116 Stare = nori 25-50%']
+Harlau: 34 \ vineri \ 27:8:2021 \ 19:14:25
+[' Răsarit = 06:24:42 Apus = 20:03:35 Min (°C) = 12.62 Max (°C) =25.33 Presiune = 1008 Umiditate (%) = 54 Index UV = 0.08 Viteza vântului = 3.21 Unghiul vântului = 168 Stare = ploaie ușoară']
+Harlau: 34 \ sâmbătă \ 28:8:2021 \ 19:15:34
+[' Răsarit = 06:26:02 Apus = 20:01:40 Min (°C) = 12.84 Max (°C) =23.15 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.11 Viteza vântului = 3.23 Unghiul vântului = 101 Stare = ploaie ușoară']
+Harlau: 34 \ duminică \ 29:8:2021 \ 19:14:47
+[' Răsarit = 06:27:22 Apus = 19:59:44 Min (°C) = 14.49 Max (°C) =23.26 Presiune = 1008 Umiditate (%) = 65 Index UV = 0.2 Viteza vântului = 1.87 Unghiul vântului = 12 Stare = nori 85-100%']
+Harlau: 35 \ luni \ 30:8:2021 \ 19:14:40
+[' Răsarit = 06:28:41 Apus = 19:57:48 Min (°C) = 14.66 Max (°C) =25.01 Presiune = 1009 Umiditate (%) = 60 Index UV = 0.17 Viteza vântului = 1.35 Unghiul vântului = 139 Stare = ploaie ușoară']
+Harlau: 35 \ marți \ 31:8:2021 \ 19:14:31
+[' Răsarit = 06:30:01 Apus = 19:55:52 Min (°C) = 13.19 Max (°C) =24.22 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.17 Viteza vântului = 2.2 Unghiul vântului = 244 Stare = ploaie ușoară']
+Harlau: 35 \ miercuri \ 01:9:2021 \ 19:14:11
+[' Răsarit = 06:31:20 Apus = 19:53:54 Min (°C) = 14.31 Max (°C) =17.57 Presiune = 1012 Umiditate (%) = 71 Index UV = 0.15 Viteza vântului = 6.86 Unghiul vântului = 316 Stare = nori 50-85%']
+Harlau: 35 \ joi \ 02:9:2021 \ 19:17:53
+[' Răsarit = 06:32:40 Apus = 19:51:56 Min (°C) = 12.95 Max (°C) =18.2 Presiune = 1020 Umiditate (%) = 57 Index UV = 0.16 Viteza vântului = 6.61 Unghiul vântului = 332 Stare = nori 25-50%']
+Harlau: 35 \ vineri \ 03:9:2021 \ 19:13:55
+[' Răsarit = 06:33:59 Apus = 19:49:57 Min (°C) = 9.86 Max (°C) =21.72 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.16 Viteza vântului = 0.68 Unghiul vântului = 356 Stare = cer senin']
+Harlau: 35 \ sâmbătă \ 04:9:2021 \ 19:13:19
+[' Răsarit = 06:35:19 Apus = 19:47:58 Min (°C) = 13.19 Max (°C) =23.62 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.14 Viteza vântului = 3.92 Unghiul vântului = 22 Stare = ploaie ușoară']
+Harlau: 35 \ duminică \ 05:9:2021 \ 19:14:29
+[' Răsarit = 06:36:38 Apus = 19:45:58 Min (°C) = 12.58 Max (°C) =17.83 Presiune = 1023 Umiditate (%) = 48 Index UV = 0.06 Viteza vântului = 1.24 Unghiul vântului = 309 Stare = nori 25-50%']
+Harlau: 36 \ luni \ 06:9:2021 \ 19:15:17
+[' Răsarit = 06:37:57 Apus = 19:43:58 Min (°C) = 7.78 Max (°C) =19.88 Presiune = 1025 Umiditate (%) = 38 Index UV = 0.13 Viteza vântului = 2.81 Unghiul vântului = 91 Stare = nori 10-25%']
+Harlau: 36 \ marți \ 07:9:2021 \ 19:15:15
+[' Răsarit = 06:39:16 Apus = 19:41:57 Min (°C) = 8.68 Max (°C) =22.99 Presiune = 1024 Umiditate (%) = 43 Index UV = 0.11 Viteza vântului = 3.32 Unghiul vântului = 132 Stare = cer senin']
+Harlau: 36 \ miercuri \ 08:9:2021 \ 19:14:47
+[' Răsarit = 06:40:35 Apus = 19:39:56 Min (°C) = 9.01 Max (°C) =22.95 Presiune = 1024 Umiditate (%) = 41 Index UV = 0.11 Viteza vântului = 2.67 Unghiul vântului = 115 Stare = cer senin']
+Harlau: 36 \ joi \ 09:9:2021 \ 19:15:34
+[' Răsarit = 06:41:54 Apus = 19:37:55 Min (°C) = 9.9 Max (°C) =24.18 Presiune = 1020 Umiditate (%) = 32 Index UV = 0.1 Viteza vântului = 3.14 Unghiul vântului = 121 Stare = cer senin']
+Harlau: 36 \ vineri \ 10:9:2021 \ 19:16:35
+[' Răsarit = 06:43:13 Apus = 19:35:53 Min (°C) = 10.66 Max (°C) =25.12 Presiune = 1018 Umiditate (%) = 29 Index UV = 0.09 Viteza vântului = 2.41 Unghiul vântului = 83 Stare = nori 85-100%']
+Harlau: 36 \ sâmbătă \ 11:9:2021 \ 19:14:11
+[' Răsarit = 06:44:32 Apus = 19:33:50 Min (°C) = 12.82 Max (°C) =25.58 Presiune = 1016 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 34 Stare = ploaie ușoară']
+Harlau: 36 \ duminică \ 12:9:2021 \ 19:14:17
+[' Răsarit = 06:45:51 Apus = 19:31:48 Min (°C) = 13.88 Max (°C) =25.33 Presiune = 1014 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 20 Stare = ploaie ușoară']
+Harlau: 37 \ luni \ 13:9:2021 \ 19:14:44
+[' Răsarit = 06:47:10 Apus = 19:29:45 Min (°C) = 14.23 Max (°C) =26.65 Presiune = 1013 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 22 Stare = cer senin']
+Harlau: 37 \ marți \ 14:9:2021 \ 19:16:00
+[' Răsarit = 06:48:30 Apus = 19:27:42 Min (°C) = 14.75 Max (°C) =24.83 Presiune = 1016 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 1 Stare = nori 50-85%']
+Harlau: 37 \ joi \ 16:9:2021 \ 19:14:31
+[' Răsarit = 06:51:08 Apus = 19:23:35 Min (°C) = 13.94 Max (°C) =26.82 Presiune = 1015 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 142 Stare = ploaie ușoară']
+Harlau: 37 \ vineri \ 17:9:2021 \ 19:16:09
+[' Răsarit = 06:52:27 Apus = 19:21:32 Min (°C) = 16.84 Max (°C) =22.38 Presiune = 1008 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 153 Stare = ploaie ușoară']
+Harlau: 37 \ sâmbătă \ 18:9:2021 \ 19:16:27
+[' Răsarit = 06:53:46 Apus = 19:19:28 Min (°C) = 14.5 Max (°C) =18.05 Presiune = 1009 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 322 Stare = ploaie ușoară']
+Harlau: 37 \ duminică \ 19:9:2021 \ 19:15:04
+[' Răsarit = 06:55:06 Apus = 19:17:24 Min (°C) = 8.17 Max (°C) =18.06 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 338 Stare = nori 85-100%']
+Harlau: 38 \ luni \ 20:9:2021 \ 19:15:15
+[' Răsarit = 06:56:25 Apus = 19:15:21 Min (°C) = 8.47 Max (°C) =14.21 Presiune = 1015 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.94 Unghiul vântului = 348 Stare = nori 85-100%']
+Harlau: 38 \ marți \ 21:9:2021 \ 19:14:25
+[' Răsarit = 06:57:45 Apus = 19:13:17 Min (°C) = 8.01 Max (°C) =15.4 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 5.85 Unghiul vântului = 346 Stare = nori 25-50%']
+Harlau: 38 \ miercuri \ 22:9:2021 \ 19:15:00
+[' Răsarit = 06:59:04 Apus = 19:11:13 Min (°C) = 6.93 Max (°C) =12.16 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 5.46 Unghiul vântului = 329 Stare = nori 85-100%']
+Harlau: 38 \ joi \ 23:9:2021 \ 19:13:50
+[' Răsarit = 07:00:24 Apus = 19:09:10 Min (°C) = 7.47 Max (°C) =13.01 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 306 Stare = nori 50-85%']
+Harlau: 39 \ luni \ 27:9:2021 \ 19:13:47
+[' Răsarit = 07:05:45 Apus = 19:00:57 Min (°C) = 12.75 Max (°C) =19.82 Presiune = 1020 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 63 Stare = ploaie ușoară']
+Harlau: 39 \ marți \ 28:9:2021 \ 19:15:50
+[' Răsarit = 07:07:06 Apus = 18:58:54 Min (°C) = 10.17 Max (°C) =14.36 Presiune = 1024 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 248 Stare = nori 50-85%']
+Harlau: 39 \ miercuri \ 29:9:2021 \ 19:16:34
+[' Răsarit = 07:08:27 Apus = 18:56:51 Min (°C) = 9.21 Max (°C) =16.38 Presiune = 1027 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 122 Stare = nori 50-85%']
+Harlau: 39 \ joi \ 30:9:2021 \ 19:14:26
+[' Răsarit = 07:09:48 Apus = 18:54:49 Min (°C) = 7.32 Max (°C) =17.88 Presiune = 1027 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 113 Stare = cer senin']
+Harlau: 39 \ vineri \ 01:10:2021 \ 19:15:28
+[' Răsarit = 07:11:09 Apus = 18:52:47 Min (°C) = 5.68 Max (°C) =16.84 Presiune = 1028 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 130 Stare = nori 25-50%']
+Harlau: 39 \ sâmbătă \ 02:10:2021 \ 19:14:20
+[' Răsarit = 07:12:31 Apus = 18:50:46 Min (°C) = 5.89 Max (°C) =17.03 Presiune = 1025 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.23 Unghiul vântului = 129 Stare = nori 10-25%']
+Harlau: 39 \ duminică \ 03:10:2021 \ 19:13:56
+[' Răsarit = 07:13:53 Apus = 18:48:45 Min (°C) = 6.01 Max (°C) =17.94 Presiune = 1025 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 132 Stare = nori 10-25%']
+Harlau: 40 \ luni \ 04:10:2021 \ 19:18:31
+[' Răsarit = 07:15:15 Apus = 18:46:44 Min (°C) = 6.83 Max (°C) =18.34 Presiune = 1024 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 123 Stare = nori 85-100%']
+Harlau: 40 \ marți \ 05:10:2021 \ 19:16:08
+[' Răsarit = 07:16:38 Apus = 18:44:44 Min (°C) = 6.82 Max (°C) =17.95 Presiune = 1027 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 132 Stare = cer senin']
+Harlau: 40 \ miercuri \ 06:10:2021 \ 19:14:05
+[' Răsarit = 07:18:00 Apus = 18:42:45 Min (°C) = 5.68 Max (°C) =16.18 Presiune = 1027 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 5.38 Unghiul vântului = 133 Stare = nori 10-25%']
+Harlau: 40 \ joi \ 07:10:2021 \ 19:16:20
+[' Răsarit = 07:19:24 Apus = 18:40:46 Min (°C) = 4.17 Max (°C) =13.9 Presiune = 1030 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 83 Stare = nori 50-85%']
+Harlau: 40 \ vineri \ 08:10:2021 \ 19:15:42
+[' Răsarit = 07:20:47 Apus = 18:38:47 Min (°C) = 2.33 Max (°C) =12.82 Presiune = 1031 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 35 Stare = nori 50-85%']
+Harlau: 40 \ sâmbătă \ 09:10:2021 \ 19:13:47
+[' Răsarit = 07:22:11 Apus = 18:36:49 Min (°C) = 3.3 Max (°C) =12.49 Presiune = 1031 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 47 Stare = nori 50-85%']
+Harlau: 40 \ duminică \ 10:10:2021 \ 19:15:04
+[' Răsarit = 07:23:35 Apus = 18:34:52 Min (°C) = 2.36 Max (°C) =13.07 Presiune = 1028 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 83 Stare = nori 10-25%']
+Harlau: 41 \ luni \ 11:10:2021 \ 19:14:47
+[' Răsarit = 07:25:00 Apus = 18:32:56 Min (°C) = 4.07 Max (°C) =15.58 Presiune = 1018 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 140 Stare = nori 85-100%']
+Harlau: 41 \ marți \ 12:10:2021 \ 19:14:54
+[' Răsarit = 07:26:25 Apus = 18:31:00 Min (°C) = 6.11 Max (°C) =10.18 Presiune = 1014 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.59 Unghiul vântului = 321 Stare = nori 85-100%']
+Harlau: 41 \ miercuri \ 13:10:2021 \ 19:14:58
+[' Răsarit = 07:27:50 Apus = 18:29:05 Min (°C) = 4.57 Max (°C) =12.86 Presiune = 1016 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 335 Stare = nori 50-85%']
+Harlau: 41 \ joi \ 14:10:2021 \ 19:14:34
+[' Răsarit = 07:29:15 Apus = 18:27:11 Min (°C) = 6.11 Max (°C) =12.35 Presiune = 1024 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 101 Stare = nori 85-100%']
+Harlau: 41 \ vineri \ 15:10:2021 \ 19:14:05
+[' Răsarit = 07:30:41 Apus = 18:25:18 Min (°C) = 4.42 Max (°C) =14.2 Presiune = 1020 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.5 Unghiul vântului = 162 Stare = nori 50-85%']
+Harlau: 41 \ sâmbătă \ 16:10:2021 \ 19:14:13
+[' Răsarit = 07:32:08 Apus = 18:23:25 Min (°C) = 7.9 Max (°C) =10.69 Presiune = 1020 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 299 Stare = nori 85-100%']
+Harlau: 41 \ duminică \ 17:10:2021 \ 19:13:27
+[' Răsarit = 07:33:34 Apus = 18:21:34 Min (°C) = 7.5 Max (°C) =13.77 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 45 Stare = nori 10-25%']
+Harlau: 42 \ luni \ 18:10:2021 \ 19:13:23
+[' Răsarit = 07:35:01 Apus = 18:19:43 Min (°C) = 4.51 Max (°C) =13.58 Presiune = 1024 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 349 Stare = nori 85-100%']
+Harlau: 42 \ marți \ 19:10:2021 \ 19:15:04
+[' Răsarit = 07:36:29 Apus = 18:17:54 Min (°C) = 7.94 Max (°C) =13.6 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 348 Stare = nori 85-100%']
+Harlau: 42 \ miercuri \ 20:10:2021 \ 19:12:49
+[' Răsarit = 07:37:56 Apus = 18:16:05 Min (°C) = 6.78 Max (°C) =19.3 Presiune = 1019 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 187 Stare = nori 50-85%']
+Harlau: 42 \ joi \ 21:10:2021 \ 19:14:39
+[' Răsarit = 07:39:25 Apus = 18:14:18 Min (°C) = 9 Max (°C) =23.81 Presiune = 1010 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 238 Stare = nori 85-100%']
+Harlau: 42 \ vineri \ 22:10:2021 \ 19:12:13
+[' Răsarit = 07:40:53 Apus = 18:12:31 Min (°C) = 14.2 Max (°C) =21.49 Presiune = 1015 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 4.32 Unghiul vântului = 274 Stare = nori 85-100%']
+Harlau: 42 \ sâmbătă \ 23:10:2021 \ 19:13:45
+[' Răsarit = 07:42:22 Apus = 18:10:46 Min (°C) = 10.04 Max (°C) =15.23 Presiune = 1022 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 342 Stare = ploaie ușoară']
+Harlau: 42 \ duminică \ 24:10:2021 \ 19:13:35
+[' Răsarit = 07:43:51 Apus = 18:09:02 Min (°C) = 3.95 Max (°C) =9.47 Presiune = 1033 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 343 Stare = nori 25-50%']
+Harlau: 43 \ luni \ 25:10:2021 \ 19:12:58
+[' Răsarit = 07:45:20 Apus = 18:07:19 Min (°C) = 1.11 Max (°C) =10.06 Presiune = 1031 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 128 Stare = cer senin']
+Harlau: 43 \ marți \ 26:10:2021 \ 19:12:23
+[' Răsarit = 07:46:50 Apus = 18:05:37 Min (°C) = 1.04 Max (°C) =12.95 Presiune = 1024 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 5.61 Unghiul vântului = 158 Stare = cer senin']
+Harlau: 43 \ miercuri \ 27:10:2021 \ 19:14:37
+[' Răsarit = 07:48:20 Apus = 18:03:57 Min (°C) = 2.76 Max (°C) =14.86 Presiune = 1026 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 345 Stare = ploaie ușoară']
+Harlau: 43 \ joi \ 28:10:2021 \ 19:12:38
+[' Răsarit = 07:49:50 Apus = 18:02:18 Min (°C) = 5.46 Max (°C) =16.09 Presiune = 1026 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 21 Stare = nori 25-50%']
+Harlau: 43 \ vineri \ 29:10:2021 \ 19:13:07
+[' Răsarit = 07:51:20 Apus = 18:00:40 Min (°C) = 6.86 Max (°C) =16.27 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 146 Stare = cer senin']
+Harlau: 43 \ sâmbătă \ 30:10:2021 \ 19:12:50
+[' Răsarit = 07:52:51 Apus = 17:59:04 Min (°C) = 5.66 Max (°C) =15.98 Presiune = 1025 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.35 Unghiul vântului = 146 Stare = cer senin']
+Harlau: 43 \ duminică \ 31:10:2021 \ 19:12:42
+[' Răsarit = 06:54:22 Apus = 16:57:29 Min (°C) = 3.95 Max (°C) =15.06 Presiune = 1021 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 141 Stare = cer senin']
+Harlau: 44 \ luni \ 01:11:2021 \ 19:12:54
+[' Răsarit = 06:55:53 Apus = 16:55:56 Min (°C) = 3.24 Max (°C) =15.58 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.7 Unghiul vântului = 155 Stare = cer senin']
+Harlau: 44 \ marți \ 02:11:2021 \ 19:13:19
+[' Răsarit = 06:57:24 Apus = 16:54:24 Min (°C) = 5.38 Max (°C) =12.74 Presiune = 1004 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 155 Stare = nori 85-100%']
+Harlau: 44 \ miercuri \ 03:11:2021 \ 19:12:58
+[' Răsarit = 06:58:55 Apus = 16:52:54 Min (°C) = 7.35 Max (°C) =17.54 Presiune = 1015 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 135 Stare = nori 25-50%']
+Harlau: 44 \ joi \ 04:11:2021 \ 19:11:35
+[' Răsarit = 07:00:27 Apus = 16:51:25 Min (°C) = 9.14 Max (°C) =19.34 Presiune = 1013 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 165 Stare = nori 50-85%']
+Harlau: 44 \ vineri \ 05:11:2021 \ 19:15:55
+[' Răsarit = 07:01:58 Apus = 16:49:58 Min (°C) = 12.22 Max (°C) =22.07 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.71 Unghiul vântului = 318 Stare = ploaie ușoară']
+Harlau: 44 \ sâmbătă \ 06:11:2021 \ 19:14:13
+[' Răsarit = 07:03:29 Apus = 16:48:33 Min (°C) = 7.79 Max (°C) =12.35 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 325 Stare = ploaie ușoară']
+Harlau: 44 \ duminică \ 07:11:2021 \ 19:14:12
+[' Răsarit = 07:05:01 Apus = 16:47:10 Min (°C) = 5.28 Max (°C) =13.6 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 207 Stare = nori 85-100%']
+Harlau: 45 \ luni \ 08:11:2021 \ 19:13:59
+[' Răsarit = 07:06:32 Apus = 16:45:48 Min (°C) = 7.82 Max (°C) =11.65 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 286 Stare = nori 85-100%']
+Harlau: 45 \ marți \ 09:11:2021 \ 19:10:44
+[' Răsarit = 07:08:03 Apus = 16:44:28 Min (°C) = 3.33 Max (°C) =11.28 Presiune = 1034 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.32 Unghiul vântului = 340 Stare = nori 50-85%']
+Harlau: 45 \ miercuri \ 10:11:2021 \ 19:14:03
+[' Răsarit = 07:09:34 Apus = 16:43:10 Min (°C) = -0.95 Max (°C) =7.87 Presiune = 1035 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 152 Stare = cer senin']
+Harlau: 45 \ joi \ 11:11:2021 \ 19:14:33
+[' Răsarit = 07:11:05 Apus = 16:41:53 Min (°C) = 1.02 Max (°C) =11.2 Presiune = 1025 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 171 Stare = nori 25-50%']
+Harlau: 45 \ vineri \ 12:11:2021 \ 19:13:50
+[' Răsarit = 07:12:35 Apus = 16:40:39 Min (°C) = 2.88 Max (°C) =12.76 Presiune = 1023 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 27 Stare = cer senin']
+Harlau: 45 \ sâmbătă \ 13:11:2021 \ 19:13:41
+[' Răsarit = 07:14:05 Apus = 16:39:27 Min (°C) = 3.41 Max (°C) =12.26 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 135 Stare = nori 50-85%']
+Harlau: 45 \ duminică \ 14:11:2021 \ 19:15:43
+[' Răsarit = 07:15:35 Apus = 16:38:16 Min (°C) = 3.86 Max (°C) =12.87 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 145 Stare = nori 50-85%']
+Harlau: 46 \ luni \ 15:11:2021 \ 19:14:49
+[' Răsarit = 07:17:04 Apus = 16:37:08 Min (°C) = 7.64 Max (°C) =10.5 Presiune = 1032 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 79 Stare = nori 85-100%']
+Harlau: 46 \ marți \ 16:11:2021 \ 19:14:22
+[' Răsarit = 07:18:33 Apus = 16:36:02 Min (°C) = 1.01 Max (°C) =7.46 Presiune = 1030 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 134 Stare = nori 10-25%']
+Harlau: 46 \ miercuri \ 17:11:2021 \ 19:14:26
+[' Răsarit = 07:20:02 Apus = 16:34:58 Min (°C) = -1.92 Max (°C) =6.82 Presiune = 1024 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 144 Stare = nori 50-85%']
+Harlau: 46 \ joi \ 18:11:2021 \ 19:12:09
+[' Răsarit = 07:21:29 Apus = 16:33:56 Min (°C) = -0.28 Max (°C) =7.65 Presiune = 1025 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 314 Stare = nori 25-50%']
+Harlau: 46 \ vineri \ 19:11:2021 \ 19:12:14
+[' Răsarit = 07:22:57 Apus = 16:32:56 Min (°C) = 3.19 Max (°C) =9.08 Presiune = 1018 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 269 Stare = nori 85-100%']
+Harlau: 46 \ sâmbătă \ 20:11:2021 \ 19:12:02
+[' Răsarit = 07:24:23 Apus = 16:31:59 Min (°C) = 6.98 Max (°C) =13.69 Presiune = 1018 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.93 Unghiul vântului = 304 Stare = cer senin']
+Harlau: 46 \ duminică \ 21:11:2021 \ 19:11:51
+[' Răsarit = 07:25:49 Apus = 16:31:04 Min (°C) = 4.05 Max (°C) =13.16 Presiune = 1011 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 177 Stare = nori 10-25%']
+Harlau: 47 \ luni \ 22:11:2021 \ 19:12:11
+[' Răsarit = 07:27:14 Apus = 16:30:11 Min (°C) = 3.65 Max (°C) =10.23 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 333 Stare = nori 85-100%']
+Harlau: 47 \ marți \ 23:11:2021 \ 19:12:02
+[' Răsarit = 07:28:37 Apus = 16:29:21 Min (°C) = 2.16 Max (°C) =6.37 Presiune = 1023 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 264 Stare = nori 10-25%']
+Harlau: 47 \ miercuri \ 24:11:2021 \ 19:14:23
+[' Răsarit = 07:30:00 Apus = 16:28:33 Min (°C) = 1.43 Max (°C) =6.84 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 176 Stare = nori 10-25%']
+Harlau: 47 \ joi \ 25:11:2021 \ 19:11:48
+[' Răsarit = 07:31:22 Apus = 16:27:47 Min (°C) = -1.5 Max (°C) =6.78 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 160 Stare = cer senin']
+Harlau: 47 \ vineri \ 26:11:2021 \ 19:11:54
+[' Răsarit = 07:32:43 Apus = 16:27:04 Min (°C) = 0.56 Max (°C) =9.76 Presiune = 1000 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 9.37 Unghiul vântului = 161 Stare = nori 85-100%']
+Harlau: 47 \ sâmbătă \ 27:11:2021 \ 19:11:47
+[' Răsarit = 07:34:03 Apus = 16:26:24 Min (°C) = 6.32 Max (°C) =13.38 Presiune = 1002 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 249 Stare = nori 50-85%']
+Harlau: 47 \ duminică \ 28:11:2021 \ 19:12:22
+[' Răsarit = 07:35:21 Apus = 16:25:46 Min (°C) = 5.05 Max (°C) =13.58 Presiune = 998 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 176 Stare = nori 25-50%']
+Harlau: 48 \ luni \ 29:11:2021 \ 19:13:13
+[' Răsarit = 07:36:38 Apus = 16:25:10 Min (°C) = 2.75 Max (°C) =10.28 Presiune = 995 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.82 Unghiul vântului = 322 Stare = nori 85-100%']
+Harlau: 48 \ marți \ 30:11:2021 \ 19:12:22
+[' Răsarit = 07:37:54 Apus = 16:24:38 Min (°C) = 0.69 Max (°C) =5.42 Presiune = 1004 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 264 Stare = nori 25-50%']
+Harlau: 48 \ miercuri \ 01:12:2021 \ 19:12:34
+[' Răsarit = 07:39:08 Apus = 16:24:08 Min (°C) = 1.84 Max (°C) =7.86 Presiune = 1008 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 153 Stare = nori 85-100%']
+Harlau: 48 \ joi \ 02:12:2021 \ 19:12:01
+[' Răsarit = 07:40:21 Apus = 16:23:40 Min (°C) = 2.07 Max (°C) =12.05 Presiune = 1004 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 204 Stare = nori 85-100%']
+Harlau: 48 \ vineri \ 03:12:2021 \ 19:12:11
+[' Răsarit = 07:41:32 Apus = 16:23:15 Min (°C) = 0.73 Max (°C) =6.94 Presiune = 1013 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 4.91 Unghiul vântului = 325 Stare = nori 85-100%']
+Harlau: 48 \ sâmbătă \ 04:12:2021 \ 19:12:40
+[' Răsarit = 07:42:41 Apus = 16:22:53 Min (°C) = -2.81 Max (°C) =3.68 Presiune = 1012 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.97 Unghiul vântului = 149 Stare = nori 25-50%']
+Harlau: 48 \ duminică \ 05:12:2021 \ 19:12:20
+[' Răsarit = 07:43:49 Apus = 16:22:34 Min (°C) = -2.02 Max (°C) =4.12 Presiune = 1009 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 140 Stare = nori 85-100%']
+Harlau: 49 \ luni \ 06:12:2021 \ 19:12:11
+[' Răsarit = 07:44:55 Apus = 16:22:18 Min (°C) = -0.28 Max (°C) =6.46 Presiune = 1007 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 319 Stare = nori 50-85%']
+Harlau: 49 \ marți \ 07:12:2021 \ 19:12:11
+[' Răsarit = 07:45:59 Apus = 16:22:04 Min (°C) = 0.51 Max (°C) =1.53 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 4.98 Unghiul vântului = 321 Stare = ploaie ușoară']
+Harlau: 49 \ miercuri \ 08:12:2021 \ 19:12:12
+[' Răsarit = 07:47:01 Apus = 16:21:53 Min (°C) = -1.85 Max (°C) =0.74 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.91 Unghiul vântului = 320 Stare = nori 85-100%']
+Harlau: 49 \ joi \ 09:12:2021 \ 19:12:15
+[' Răsarit = 07:48:01 Apus = 16:21:45 Min (°C) = -0.54 Max (°C) =5.2 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.86 Unghiul vântului = 149 Stare = nori 50-85%']
+Harlau: 49 \ vineri \ 10:12:2021 \ 19:14:11
+[' Răsarit = 07:48:59 Apus = 16:21:40 Min (°C) = 0.57 Max (°C) =9.02 Presiune = 1004 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 5.01 Unghiul vântului = 159 Stare = nori 85-100%']
+Harlau: 49 \ sâmbătă \ 11:12:2021 \ 19:13:40
+[' Răsarit = 07:49:55 Apus = 16:21:38 Min (°C) = 5.52 Max (°C) =9.23 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 55 Stare = nori 85-100%']
+Harlau: 49 \ duminică \ 12:12:2021 \ 19:13:49
+[' Răsarit = 07:50:49 Apus = 16:21:38 Min (°C) = 4.19 Max (°C) =8.56 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 336 Stare = ploaie ușoară']
+Harlau: 50 \ luni \ 13:12:2021 \ 19:13:37
+[' Răsarit = 07:51:40 Apus = 16:21:42 Min (°C) = 0.78 Max (°C) =4.26 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.34 Unghiul vântului = 319 Stare = nori 85-100%']
+Harlau: 50 \ marți \ 14:12:2021 \ 19:15:49
+[' Răsarit = 07:52:29 Apus = 16:21:48 Min (°C) = -0.63 Max (°C) =1.62 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.11 Unghiul vântului = 322 Stare = nori 85-100%']
+Harlau: 50 \ miercuri \ 15:12:2021 \ 19:14:05
+[' Răsarit = 07:53:16 Apus = 16:21:57 Min (°C) = 0.44 Max (°C) =2.32 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.15 Unghiul vântului = 329 Stare = nori 10-25%']
+Harlau: 50 \ joi \ 16:12:2021 \ 19:13:25
+[' Răsarit = 07:54:00 Apus = 16:22:09 Min (°C) = 1.74 Max (°C) =6.27 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.24 Unghiul vântului = 315 Stare = ploaie ușoară']
+Harlau: 50 \ vineri \ 17:12:2021 \ 19:16:13
+[' Răsarit = 07:54:42 Apus = 16:22:24 Min (°C) = 1.83 Max (°C) =5.67 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 6.13 Unghiul vântului = 323 Stare = nori 85-100%']
+Harlau: 50 \ sâmbătă \ 18:12:2021 \ 19:13:12
+[' Răsarit = 07:55:21 Apus = 16:22:42 Min (°C) = 0.68 Max (°C) =3.05 Presiune = 1025 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 318 Stare = nori 85-100%']
+Harlau: 50 \ duminică \ 19:12:2021 \ 19:13:29
+[' Răsarit = 07:55:58 Apus = 16:23:02 Min (°C) = 0.28 Max (°C) =5.61 Presiune = 1008 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 275 Stare = nori 50-85%']
+Harlau: 51 \ luni \ 20:12:2021 \ 19:13:56
+[' Răsarit = 07:56:33 Apus = 16:23:25 Min (°C) = 0.09 Max (°C) =3.01 Presiune = 1011 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 7.33 Unghiul vântului = 303 Stare = nori 50-85%']
+Harlau: 51 \ marți \ 21:12:2021 \ 19:15:34
+[' Răsarit = 07:57:04 Apus = 16:23:51 Min (°C) = -6.72 Max (°C) =-1.06 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 4.99 Unghiul vântului = 338 Stare = nori 25-50%']
+Harlau: 51 \ miercuri \ 22:12:2021 \ 19:13:53
+[' Răsarit = 07:57:33 Apus = 16:24:20 Min (°C) = -7.41 Max (°C) =-2.54 Presiune = 1028 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 322 Stare = nori 25-50%']
+Harlau: 51 \ joi \ 23:12:2021 \ 19:14:21
+[' Răsarit = 07:57:59 Apus = 16:24:52 Min (°C) = -7.36 Max (°C) =-2.86 Presiune = 1022 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 163 Stare = nori 25-50%']
+Harlau: 51 \ vineri \ 24:12:2021 \ 19:14:05
+[' Răsarit = 07:58:23 Apus = 16:25:26 Min (°C) = -5.42 Max (°C) =2.85 Presiune = 1003 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 222 Stare = nori 85-100%']
+Harlau: 51 \ sâmbătă \ 25:12:2021 \ 19:14:29
+[' Răsarit = 07:58:44 Apus = 16:26:03 Min (°C) = -1.25 Max (°C) =5.31 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 13 Stare = zăpadă slabă']
+Harlau: 51 \ duminică \ 26:12:2021 \ 19:15:25
+[' Răsarit = 07:59:02 Apus = 16:26:42 Min (°C) = -3.33 Max (°C) =-2.03 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 50 Stare = zăpadă slabă']
+Harlau: 52 \ luni \ 27:12:2021 \ 19:13:47
+[' Răsarit = 07:59:17 Apus = 16:27:24 Min (°C) = -4.42 Max (°C) =-2.01 Presiune = 1017 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 102 Stare = zăpadă slabă']
+Harlau: 52 \ marți \ 28:12:2021 \ 19:14:31
+[' Răsarit = 07:59:30 Apus = 16:28:09 Min (°C) = -4.95 Max (°C) =-2.34 Presiune = 1016 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 342 Stare = nori 85-100%']
+Harlau: 52 \ miercuri \ 29:12:2021 \ 19:13:45
+[' Răsarit = 07:59:39 Apus = 16:28:56 Min (°C) = -9.12 Max (°C) =-2.82 Presiune = 1014 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 88 Stare = nori 85-100%']
+Harlau: 52 \ joi \ 30:12:2021 \ 19:14:22
+[' Răsarit = 07:59:46 Apus = 16:29:45 Min (°C) = -4.89 Max (°C) =0.21 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 188 Stare = nori 85-100%']
+Harlau: 52 \ vineri \ 31:12:2021 \ 19:12:15
+[' Răsarit = 07:59:50 Apus = 16:30:37 Min (°C) = -4.06 Max (°C) =8.36 Presiune = 1017 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 238 Stare = nori 85-100%']
+Harlau: 00 \ sâmbătă \ 01:1:2022 \ 19:13:00
+[' Răsarit = 07:59:52 Apus = 16:31:32 Min (°C) = 2.97 Max (°C) =9.61 Presiune = 1018 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.1 Unghiul vântului = 296 Stare = nori 85-100%']
+Harlau: 00 \ duminică \ 02:1:2022 \ 19:11:49
+[' Răsarit = 07:59:50 Apus = 16:32:28 Min (°C) = 1.34 Max (°C) =6.91 Presiune = 1021 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 168 Stare = nori 25-50%']
+Harlau: 01 \ luni \ 03:1:2022 \ 19:11:36
+[' Răsarit = 07:59:46 Apus = 16:33:27 Min (°C) = 1.08 Max (°C) =10.06 Presiune = 1009 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.57 Unghiul vântului = 280 Stare = nori 85-100%']
+Harlau: 01 \ marți \ 04:1:2022 \ 19:11:41
+[' Răsarit = 07:59:39 Apus = 16:34:28 Min (°C) = 4.15 Max (°C) =10.17 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.74 Unghiul vântului = 194 Stare = nori 85-100%']
+Harlau: 01 \ miercuri \ 05:1:2022 \ 19:12:46
+[' Răsarit = 07:59:29 Apus = 16:35:31 Min (°C) = 7.29 Max (°C) =12.77 Presiune = 1002 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 203 Stare = nori 50-85%']
+Harlau: 01 \ joi \ 06:1:2022 \ 19:11:57
+[' Răsarit = 07:59:16 Apus = 16:36:36 Min (°C) = 1.81 Max (°C) =8.61 Presiune = 1013 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 294 Stare = nori 85-100%']
+Harlau: 01 \ vineri \ 07:1:2022 \ 19:13:06
+[' Răsarit = 07:59:01 Apus = 16:37:43 Min (°C) = -1.95 Max (°C) =1.96 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 137 Stare = cer senin']
+Harlau: 01 \ sâmbătă \ 08:1:2022 \ 19:12:37
+[' Răsarit = 07:58:42 Apus = 16:38:52 Min (°C) = -2.62 Max (°C) =3.39 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 4.75 Unghiul vântului = 150 Stare = nori 50-85%']
+Harlau: 01 \ duminică \ 09:1:2022 \ 19:12:08
+[' Răsarit = 07:58:21 Apus = 16:40:02 Min (°C) = 1.38 Max (°C) =5.09 Presiune = 1007 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.16 Unghiul vântului = 334 Stare = nori 85-100%']
+Harlau: 02 \ luni \ 10:1:2022 \ 19:12:09
+[' Răsarit = 07:57:58 Apus = 16:41:15 Min (°C) = -1.35 Max (°C) =1.73 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.09 Unghiul vântului = 347 Stare = nori 85-100%']
+Harlau: 02 \ marți \ 11:1:2022 \ 19:13:25
+[' Răsarit = 07:57:31 Apus = 16:42:29 Min (°C) = -3.17 Max (°C) =-0.85 Presiune = 1031 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.1 Unghiul vântului = 342 Stare = nori 50-85%']
+Harlau: 02 \ miercuri \ 12:1:2022 \ 19:12:09
+[' Răsarit = 07:57:02 Apus = 16:43:45 Min (°C) = -7.1 Max (°C) =-3.29 Presiune = 1034 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 328 Stare = cer senin']
+Harlau: 02 \ joi \ 13:1:2022 \ 19:13:01
+[' Răsarit = 07:56:31 Apus = 16:45:02 Min (°C) = -7.17 Max (°C) =1.1 Presiune = 1027 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 242 Stare = nori 85-100%']
+Harlau: 02 \ vineri \ 14:1:2022 \ 19:12:26
+[' Răsarit = 07:55:56 Apus = 16:46:21 Min (°C) = -1.85 Max (°C) =5.24 Presiune = 1013 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.35 Unghiul vântului = 311 Stare = nori 10-25%']
+Harlau: 02 \ sâmbătă \ 15:1:2022 \ 19:12:09
+[' Răsarit = 07:55:19 Apus = 16:47:41 Min (°C) = 0.48 Max (°C) =3.89 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 8.96 Unghiul vântului = 327 Stare = nori 50-85%']
+Harlau: 02 \ duminică \ 16:1:2022 \ 19:11:43
+[' Răsarit = 07:54:40 Apus = 16:49:03 Min (°C) = -1.82 Max (°C) =3 Presiune = 1023 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 187 Stare = nori 50-85%']
+Harlau: 03 \ luni \ 17:1:2022 \ 19:11:51
+[' Răsarit = 07:53:58 Apus = 16:50:25 Min (°C) = -0.09 Max (°C) =6.17 Presiune = 1004 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 8.12 Unghiul vântului = 278 Stare = nori 85-100%']
+Harlau: 03 \ marți \ 18:1:2022 \ 19:11:51
+[' Răsarit = 07:53:14 Apus = 16:51:49 Min (°C) = -0.81 Max (°C) =1.59 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 9.39 Unghiul vântului = 326 Stare = nori 50-85%']
+Harlau: 03 \ miercuri \ 19:1:2022 \ 19:12:03
+[' Răsarit = 07:52:27 Apus = 16:53:15 Min (°C) = -2.41 Max (°C) =2.54 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 193 Stare = nori 85-100%']
+Harlau: 03 \ joi \ 20:1:2022 \ 19:12:13
+[' Răsarit = 07:51:38 Apus = 16:54:41 Min (°C) = -2.91 Max (°C) =7.13 Presiune = 1010 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 253 Stare = nori 50-85%']
+Harlau: 03 \ vineri \ 21:1:2022 \ 19:11:55
+[' Răsarit = 07:50:46 Apus = 16:56:08 Min (°C) = -2.57 Max (°C) =2.86 Presiune = 1015 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 5.01 Unghiul vântului = 280 Stare = nori 25-50%']
+Harlau: 03 \ sâmbătă \ 22:1:2022 \ 19:13:41
+[' Răsarit = 07:49:52 Apus = 16:57:36 Min (°C) = -3.14 Max (°C) =0.69 Presiune = 1017 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 6.1 Unghiul vântului = 298 Stare = nori 85-100%']
+Harlau: 03 \ duminică \ 23:1:2022 \ 19:13:52
+[' Răsarit = 07:48:56 Apus = 16:59:05 Min (°C) = -5.96 Max (°C) =-3.12 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 343 Stare = zăpadă slabă']
+Harlau: 04 \ luni \ 24:1:2022 \ 19:14:32
+[' Răsarit = 07:47:57 Apus = 17:00:35 Min (°C) = -7.76 Max (°C) =-4.04 Presiune = 1035 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 5.32 Unghiul vântului = 326 Stare = nori 25-50%']
+Harlau: 04 \ marți \ 25:1:2022 \ 19:14:15
+[' Răsarit = 07:46:57 Apus = 17:02:05 Min (°C) = -11.28 Max (°C) =-2.6 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 235 Stare = zăpadă slabă']
+Harlau: 04 \ miercuri \ 26:1:2022 \ 19:14:16
+[' Răsarit = 07:45:54 Apus = 17:03:36 Min (°C) = -3.67 Max (°C) =1.56 Presiune = 1023 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 332 Stare = zăpadă slabă']
+Harlau: 04 \ joi \ 27:1:2022 \ 19:14:11
+[' Răsarit = 07:44:49 Apus = 17:05:08 Min (°C) = -3.51 Max (°C) =2.76 Presiune = 1018 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 204 Stare = nori 50-85%']
+Harlau: 04 \ vineri \ 28:1:2022 \ 19:14:00
+[' Răsarit = 07:43:42 Apus = 17:06:40 Min (°C) = -4 Max (°C) =4.88 Presiune = 1013 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.28 Unghiul vântului = 267 Stare = nori 50-85%']
+Harlau: 04 \ sâmbătă \ 29:1:2022 \ 19:14:04
+[' Răsarit = 07:42:33 Apus = 17:08:13 Min (°C) = -2.55 Max (°C) =1.22 Presiune = 1022 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 211 Stare = nori 25-50%']
+Harlau: 04 \ duminică \ 30:1:2022 \ 19:12:12
+[' Răsarit = 07:41:21 Apus = 17:09:46 Min (°C) = -3 Max (°C) =6.48 Presiune = 1003 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.5 Unghiul vântului = 261 Stare = nori 50-85%']
+Harlau: 05 \ luni \ 31:1:2022 \ 19:12:10
+[' Răsarit = 07:40:08 Apus = 17:11:20 Min (°C) = -0.15 Max (°C) =4.74 Presiune = 1006 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 129 Stare = nori 50-85%']
+Harlau: 05 \ marți \ 01:2:2022 \ 19:12:01
+[' Răsarit = 07:38:53 Apus = 17:12:54 Min (°C) = -2.74 Max (°C) =2.32 Presiune = 1011 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 258 Stare = nori 85-100%']
+Harlau: 05 \ miercuri \ 02:2:2022 \ 19:12:14
+[' Răsarit = 07:37:36 Apus = 17:14:28 Min (°C) = -3.92 Max (°C) =4.42 Presiune = 1006 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 230 Stare = nori 25-50%']
+Harlau: 05 \ joi \ 03:2:2022 \ 19:11:58
+[' Răsarit = 07:36:17 Apus = 17:16:02 Min (°C) = -1.92 Max (°C) =2.63 Presiune = 1021 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5.63 Unghiul vântului = 328 Stare = nori 10-25%']
+Harlau: 05 \ vineri \ 04:2:2022 \ 19:12:15
+[' Răsarit = 07:34:57 Apus = 17:17:37 Min (°C) = -2.75 Max (°C) =4.99 Presiune = 1017 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 126 Stare = nori 25-50%']
+Harlau: 05 \ sâmbătă \ 05:2:2022 \ 19:11:58
+[' Răsarit = 07:33:34 Apus = 17:19:11 Min (°C) = -0.72 Max (°C) =7.76 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.99 Unghiul vântului = 318 Stare = ploaie ușoară']
+Harlau: 05 \ duminică \ 06:2:2022 \ 19:12:07
+[' Răsarit = 07:32:10 Apus = 17:20:46 Min (°C) = -0.76 Max (°C) =7.33 Presiune = 1015 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.7 Unghiul vântului = 233 Stare = nori 85-100%']
+Harlau: 06 \ luni \ 07:2:2022 \ 19:12:06
+[' Răsarit = 07:30:44 Apus = 17:22:21 Min (°C) = 2.6 Max (°C) =9.96 Presiune = 1001 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 323 Stare = ploaie moderată']
+Harlau: 06 \ marți \ 08:2:2022 \ 19:11:57
+[' Răsarit = 07:29:17 Apus = 17:23:56 Min (°C) = -0.32 Max (°C) =3.82 Presiune = 1021 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.25 Unghiul vântului = 326 Stare = nori 25-50%']
+Harlau: 06 \ miercuri \ 09:2:2022 \ 19:13:45
+[' Răsarit = 07:27:48 Apus = 17:25:30 Min (°C) = -0.89 Max (°C) =7.61 Presiune = 1025 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.2 Unghiul vântului = 314 Stare = nori 50-85%']
+Harlau: 06 \ joi \ 10:2:2022 \ 19:14:43
+[' Răsarit = 07:26:17 Apus = 17:27:05 Min (°C) = 3.42 Max (°C) =11.07 Presiune = 1022 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 149 Stare = cer senin']
+Harlau: 06 \ vineri \ 11:2:2022 \ 19:13:53
+[' Răsarit = 07:24:45 Apus = 17:28:40 Min (°C) = 3.21 Max (°C) =11.97 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 359 Stare = nori 50-85%']
+Harlau: 06 \ sâmbătă \ 12:2:2022 \ 19:14:01
+[' Răsarit = 07:23:11 Apus = 17:30:14 Min (°C) = -0.01 Max (°C) =5.79 Presiune = 1035 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.48 Unghiul vântului = 330 Stare = cer senin']
+Harlau: 06 \ duminică \ 13:2:2022 \ 19:14:09
+[' Răsarit = 07:21:36 Apus = 17:31:49 Min (°C) = -1.87 Max (°C) =5.66 Presiune = 1029 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 5.39 Unghiul vântului = 163 Stare = cer senin']
+Harlau: 07 \ luni \ 14:2:2022 \ 19:14:07
+[' Răsarit = 07:20:00 Apus = 17:33:23 Min (°C) = -2.48 Max (°C) =5.76 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.35 Unghiul vântului = 149 Stare = nori 50-85%']
+Harlau: 07 \ marți \ 15:2:2022 \ 19:13:37
+[' Răsarit = 07:18:22 Apus = 17:34:57 Min (°C) = -1.88 Max (°C) =7.17 Presiune = 1019 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 156 Stare = nori 25-50%']
+Harlau: 07 \ miercuri \ 16:2:2022 \ 19:14:22
+[' Răsarit = 07:16:43 Apus = 17:36:31 Min (°C) = 1.88 Max (°C) =10.82 Presiune = 1012 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 170 Stare = nori 85-100%']
+Harlau: 07 \ joi \ 17:2:2022 \ 19:14:55
+[' Răsarit = 07:15:02 Apus = 17:38:04 Min (°C) = 4.03 Max (°C) =13.52 Presiune = 998 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 7.55 Unghiul vântului = 250 Stare = nori 50-85%']
+Harlau: 07 \ vineri \ 18:2:2022 \ 19:13:55
+[' Răsarit = 07:13:21 Apus = 17:39:38 Min (°C) = 3.86 Max (°C) =9.49 Presiune = 1015 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 284 Stare = nori 25-50%']
+Harlau: 07 \ sâmbătă \ 19:2:2022 \ 19:14:18
+[' Răsarit = 07:11:38 Apus = 17:41:11 Min (°C) = 2.13 Max (°C) =12.97 Presiune = 1014 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.42 Unghiul vântului = 280 Stare = nori 50-85%']
+Harlau: 07 \ duminică \ 20:2:2022 \ 19:15:22
+[' Răsarit = 07:09:54 Apus = 17:42:44 Min (°C) = 4.03 Max (°C) =10.18 Presiune = 1015 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 264 Stare = nori 85-100%']
+Harlau: 08 \ luni \ 21:2:2022 \ 19:13:55
+[' Răsarit = 07:08:08 Apus = 17:44:16 Min (°C) = 2.67 Max (°C) =13.46 Presiune = 1003 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 171 Stare = nori 85-100%']
+Harlau: 08 \ marți \ 22:2:2022 \ 19:14:46
+[' Răsarit = 07:06:22 Apus = 17:45:48 Min (°C) = 4.99 Max (°C) =9.92 Presiune = 1012 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.97 Unghiul vântului = 346 Stare = nori 50-85%']
+Harlau: 08 \ miercuri \ 23:2:2022 \ 19:14:16
+[' Răsarit = 07:04:35 Apus = 17:47:20 Min (°C) = 3.2 Max (°C) =9.85 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.55 Unghiul vântului = 333 Stare = nori 85-100%']
+Harlau: 08 \ joi \ 24:2:2022 \ 19:14:05
+[' Răsarit = 07:02:46 Apus = 17:48:52 Min (°C) = 2.51 Max (°C) =6 Presiune = 1024 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 98 Stare = nori 50-85%']
+Harlau: 08 \ vineri \ 25:2:2022 \ 19:14:11
+[' Răsarit = 07:00:57 Apus = 17:50:23 Min (°C) = -0.58 Max (°C) =9.13 Presiune = 1019 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 4.08 Unghiul vântului = 337 Stare = nori 85-100%']
+Harlau: 08 \ sâmbătă \ 26:2:2022 \ 19:14:29
+[' Răsarit = 06:59:07 Apus = 17:51:54 Min (°C) = 2.75 Max (°C) =6.7 Presiune = 1028 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 358 Stare = nori 85-100%']
+Harlau: 08 \ duminică \ 27:2:2022 \ 19:13:50
+[' Răsarit = 06:57:15 Apus = 17:53:24 Min (°C) = -0.55 Max (°C) =6.5 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 21 Stare = nori 85-100%']
+Harlau: 09 \ luni \ 28:2:2022 \ 19:14:16
+[' Răsarit = 06:55:23 Apus = 17:54:54 Min (°C) = 0.09 Max (°C) =4.54 Presiune = 1029 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 5.95 Unghiul vântului = 21 Stare = nori 85-100%']
+Harlau: 09 \ marți \ 01:3:2022 \ 19:14:25
+[' Răsarit = 06:53:30 Apus = 17:56:24 Min (°C) = -2.03 Max (°C) =1.69 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 5.18 Unghiul vântului = 328 Stare = zăpadă slabă']
+Harlau: 09 \ miercuri \ 02:3:2022 \ 19:13:48
+[' Răsarit = 06:51:37 Apus = 17:57:54 Min (°C) = -1.55 Max (°C) =1.9 Presiune = 1018 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 5.41 Unghiul vântului = 321 Stare = nori 85-100%']
+Harlau: 09 \ joi \ 03:3:2022 \ 19:14:12
+[' Răsarit = 06:49:42 Apus = 17:59:23 Min (°C) = -0.87 Max (°C) =3.54 Presiune = 1014 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 318 Stare = nori 85-100%']
+Harlau: 09 \ vineri \ 04:3:2022 \ 19:13:53
+[' Răsarit = 06:47:47 Apus = 18:00:52 Min (°C) = -1.04 Max (°C) =2.63 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 346 Stare = nori 85-100%']
+Harlau: 09 \ sâmbătă \ 05:3:2022 \ 19:12:24
+[' Răsarit = 06:45:51 Apus = 18:02:20 Min (°C) = -2.73 Max (°C) =2.13 Presiune = 1022 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 337 Stare = nori 85-100%']
+Harlau: 09 \ duminică \ 06:3:2022 \ 19:12:11
+[' Răsarit = 06:43:55 Apus = 18:03:49 Min (°C) = -4.47 Max (°C) =2.02 Presiune = 1021 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 151 Stare = nori 85-100%']
+Harlau: 10 \ luni \ 07:3:2022 \ 19:11:56
+[' Răsarit = 06:41:58 Apus = 18:05:16 Min (°C) = -4.26 Max (°C) =1.78 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 296 Stare = nori 85-100%']
+Harlau: 10 \ marți \ 08:3:2022 \ 19:11:44
+[' Răsarit = 06:40:00 Apus = 18:06:44 Min (°C) = -3.67 Max (°C) =3.12 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.43 Unghiul vântului = 337 Stare = nori 50-85%']
+Harlau: 10 \ miercuri \ 09:3:2022 \ 19:11:54
+[' Răsarit = 06:38:02 Apus = 18:08:11 Min (°C) = -5.27 Max (°C) =0.49 Presiune = 1023 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 322 Stare = nori 85-100%']
+Harlau: 10 \ joi \ 10:3:2022 \ 19:11:54
+[' Răsarit = 06:36:03 Apus = 18:09:38 Min (°C) = -3.99 Max (°C) =-0.49 Presiune = 1031 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 5.09 Unghiul vântului = 17 Stare = nori 85-100%']
+Harlau: 10 \ vineri \ 11:3:2022 \ 19:11:51
+[' Răsarit = 06:34:04 Apus = 18:11:05 Min (°C) = -6.25 Max (°C) =-1.27 Presiune = 1031 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 5.97 Unghiul vântului = 17 Stare = nori 85-100%']
+Harlau: 10 \ sâmbătă \ 12:3:2022 \ 19:11:44
+[' Răsarit = 06:32:04 Apus = 18:12:32 Min (°C) = -5.2 Max (°C) =2.53 Presiune = 1030 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 316 Stare = nori 25-50%']
+Harlau: 10 \ duminică \ 13:3:2022 \ 19:11:54
+[' Răsarit = 06:30:04 Apus = 18:13:58 Min (°C) = -1.63 Max (°C) =2.12 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 3 Stare = nori 85-100%']
+Harlau: 11 \ luni \ 14:3:2022 \ 19:11:45
+[' Răsarit = 06:28:04 Apus = 18:15:24 Min (°C) = -2.53 Max (°C) =5.58 Presiune = 1036 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 151 Stare = cer senin']
+Harlau: 11 \ marți \ 15:3:2022 \ 19:11:52
+[' Răsarit = 06:26:03 Apus = 18:16:50 Min (°C) = -0.07 Max (°C) =9.53 Presiune = 1031 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 353 Stare = nori 50-85%']
+Harlau: 11 \ miercuri \ 16:3:2022 \ 19:11:57
+[' Răsarit = 06:24:02 Apus = 18:18:15 Min (°C) = 1.99 Max (°C) =8.03 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 103 Stare = nori 85-100%']
+Harlau: 11 \ joi \ 17:3:2022 \ 19:11:54
+[' Răsarit = 06:22:01 Apus = 18:19:40 Min (°C) = -1.52 Max (°C) =3.61 Presiune = 1038 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 33 Stare = nori 25-50%']
+Harlau: 11 \ vineri \ 18:3:2022 \ 19:12:01
+[' Răsarit = 06:19:59 Apus = 18:21:05 Min (°C) = -3.31 Max (°C) =3.43 Presiune = 1043 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 17 Stare = nori 85-100%']
+Harlau: 11 \ sâmbătă \ 19:3:2022 \ 19:12:05
+[' Răsarit = 06:17:57 Apus = 18:22:30 Min (°C) = -3.19 Max (°C) =3.71 Presiune = 1044 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 5 Stare = cer senin']
+Harlau: 11 \ duminică \ 20:3:2022 \ 19:11:57
+[' Răsarit = 06:15:56 Apus = 18:23:55 Min (°C) = -2.1 Max (°C) =6.62 Presiune = 1041 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 340 Stare = cer senin']
+Harlau: 12 \ luni \ 21:3:2022 \ 19:12:19
+[' Răsarit = 06:13:54 Apus = 18:25:20 Min (°C) = -0.08 Max (°C) =10.56 Presiune = 1037 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 3.64 Unghiul vântului = 332 Stare = cer senin']
+Harlau: 12 \ marți \ 22:3:2022 \ 19:12:01
+[' Răsarit = 06:11:52 Apus = 18:26:44 Min (°C) = 2.77 Max (°C) =13.93 Presiune = 1035 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 23 Stare = cer senin']
+Harlau: 12 \ miercuri \ 23:3:2022 \ 19:11:49
+[' Răsarit = 06:09:50 Apus = 18:28:09 Min (°C) = 3.97 Max (°C) =14.91 Presiune = 1027 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 312 Stare = cer senin']
+Harlau: 12 \ joi \ 24:3:2022 \ 19:11:57
+[' Răsarit = 06:07:48 Apus = 18:29:33 Min (°C) = 6.2 Max (°C) =14.4 Presiune = 1022 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 6.45 Unghiul vântului = 350 Stare = cer senin']
+Harlau: 12 \ vineri \ 25:3:2022 \ 19:11:53
+[' Răsarit = 06:05:46 Apus = 18:30:57 Min (°C) = 3.22 Max (°C) =8.28 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 352 Stare = nori 50-85%']
+Harlau: 12 \ sâmbătă \ 26:3:2022 \ 19:12:04
+[' Răsarit = 06:03:44 Apus = 18:32:21 Min (°C) = 2.1 Max (°C) =16.91 Presiune = 1020 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 7.81 Unghiul vântului = 286 Stare = nori 50-85%']
+Harlau: 12 \ duminică \ 27:3:2022 \ 19:12:01
+[' Răsarit = 07:01:42 Apus = 19:33:45 Min (°C) = 4.5 Max (°C) =11.19 Presiune = 1029 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 6.14 Unghiul vântului = 339 Stare = nori 25-50%']
+Harlau: 13 \ luni \ 28:3:2022 \ 19:12:16
+[' Răsarit = 06:59:40 Apus = 19:35:09 Min (°C) = 1.76 Max (°C) =15.42 Presiune = 1018 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 161 Stare = cer senin']
+Harlau: 13 \ marți \ 29:3:2022 \ 19:12:04
+[' Răsarit = 06:57:39 Apus = 19:36:33 Min (°C) = 6.76 Max (°C) =20.13 Presiune = 1006 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 4.87 Unghiul vântului = 285 Stare = nori 85-100%']
+Harlau: 13 \ miercuri \ 30:3:2022 \ 19:11:59
+[' Răsarit = 06:55:37 Apus = 19:37:57 Min (°C) = 9.28 Max (°C) =20.75 Presiune = 1004 Umiditate (%) = 44 Index UV = 0.08 Viteza vântului = 2.73 Unghiul vântului = 344 Stare = nori 85-100%']
+Harlau: 13 \ joi \ 31:3:2022 \ 19:12:19
+[' Răsarit = 06:53:36 Apus = 19:39:20 Min (°C) = 10.29 Max (°C) =19.33 Presiune = 996 Umiditate (%) = 46 Index UV = 0.07 Viteza vântului = 1.97 Unghiul vântului = 81 Stare = nori 85-100%']
+Harlau: 13 \ vineri \ 01:4:2022 \ 19:14:26
+[' Răsarit = 06:51:35 Apus = 19:40:44 Min (°C) = 11.93 Max (°C) =21.81 Presiune = 990 Umiditate (%) = 53 Index UV = 0.01 Viteza vântului = 1.77 Unghiul vântului = 306 Stare = nori 50-85%']
+Harlau: 13 \ sâmbătă \ 02:4:2022 \ 19:14:07
+[' Răsarit = 06:49:35 Apus = 19:42:08 Min (°C) = 6.56 Max (°C) =13.69 Presiune = 998 Umiditate (%) = 61 Index UV = 0.04 Viteza vântului = 5.1 Unghiul vântului = 350 Stare = ploaie ușoară']
+Harlau: 13 \ duminică \ 03:4:2022 \ 19:47:34
+[' Răsarit = 06:47:35 Apus = 19:43:32 Min (°C) = 1.63 Max (°C) =6.13 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 7.59 Unghiul vântului = 325 Stare = nori 85-100%']
+Harlau: 14 \ luni \ 04:4:2022 \ 19:14:04
+[' Răsarit = 06:45:35 Apus = 19:44:55 Min (°C) = -2.08 Max (°C) =7.24 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.11 Viteza vântului = 2.54 Unghiul vântului = 266 Stare = nori 85-100%']
+Harlau: 14 \ marți \ 05:4:2022 \ 19:15:11
+[' Răsarit = 06:43:35 Apus = 19:46:19 Min (°C) = -0.99 Max (°C) =13.12 Presiune = 1006 Umiditate (%) = 44 Index UV = 0.08 Viteza vântului = 6.42 Unghiul vântului = 278 Stare = nori 85-100%']
+Harlau: 14 \ miercuri \ 06:4:2022 \ 19:14:12
+[' Răsarit = 06:41:36 Apus = 19:47:43 Min (°C) = 5.55 Max (°C) =18.79 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.14 Viteza vântului = 2.93 Unghiul vântului = 278 Stare = nori 50-85%']
+Harlau: 14 \ joi \ 07:4:2022 \ 19:14:24
+[' Răsarit = 06:39:38 Apus = 19:49:07 Min (°C) = 7.59 Max (°C) =17.65 Presiune = 998 Umiditate (%) = 40 Index UV = 0.13 Viteza vântului = 6.12 Unghiul vântului = 146 Stare = nori 85-100%']
+Harlau: 14 \ vineri \ 08:4:2022 \ 19:13:59
+[' Răsarit = 06:37:40 Apus = 19:50:31 Min (°C) = 5.86 Max (°C) =19.1 Presiune = 1003 Umiditate (%) = 40 Index UV = 0.14 Viteza vântului = 4.7 Unghiul vântului = 280 Stare = nori 25-50%']
+Harlau: 14 \ sâmbătă \ 09:4:2022 \ 19:14:12
+[' Răsarit = 06:35:42 Apus = 19:51:55 Min (°C) = 10.32 Max (°C) =20.87 Presiune = 1000 Umiditate (%) = 57 Index UV = 0.16 Viteza vântului = 3.13 Unghiul vântului = 221 Stare = nori 85-100%']
+Harlau: 14 \ duminică \ 10:4:2022 \ 19:15:24
+[' Răsarit = 06:33:46 Apus = 19:53:19 Min (°C) = 3.79 Max (°C) =7.62 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.05 Viteza vântului = 5.41 Unghiul vântului = 349 Stare = nori 85-100%']
+Harlau: 15 \ luni \ 11:4:2022 \ 19:14:13
+[' Răsarit = 06:31:49 Apus = 19:54:43 Min (°C) = 3.74 Max (°C) =9.94 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.16 Viteza vântului = 5.76 Unghiul vântului = 337 Stare = nori 85-100%']
+Harlau: 15 \ marți \ 12:4:2022 \ 19:13:12
+[' Răsarit = 06:29:54 Apus = 19:56:07 Min (°C) = 2.7 Max (°C) =10.35 Presiune = 1019 Umiditate (%) = 48 Index UV = 0.17 Viteza vântului = 5.98 Unghiul vântului = 328 Stare = nori 50-85%']
+Harlau: 15 \ miercuri \ 13:4:2022 \ 19:13:54
+[' Răsarit = 06:27:59 Apus = 19:57:31 Min (°C) = 2.54 Max (°C) =12.68 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.17 Viteza vântului = 7.15 Unghiul vântului = 344 Stare = nori 85-100%']
+Harlau: 15 \ joi \ 14:4:2022 \ 19:14:26
+[' Răsarit = 06:26:05 Apus = 19:58:55 Min (°C) = 8.82 Max (°C) =16.53 Presiune = 1020 Umiditate (%) = 44 Index UV = 0.19 Viteza vântului = 2.17 Unghiul vântului = 0 Stare = nori 10-25%']
+Harlau: 15 \ vineri \ 15:4:2022 \ 19:14:45
+[' Răsarit = 06:24:11 Apus = 20:00:20 Min (°C) = 7.61 Max (°C) =22.02 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.2 Viteza vântului = 2.27 Unghiul vântului = 127 Stare = nori 25-50%']
+Harlau: 15 \ sâmbătă \ 16:4:2022 \ 19:15:01
+[' Răsarit = 06:22:18 Apus = 20:01:44 Min (°C) = 7.3 Max (°C) =14.49 Presiune = 1016 Umiditate (%) = 80 Index UV = 0.02 Viteza vântului = 7.4 Unghiul vântului = 351 Stare = nori 85-100%']
+Harlau: 15 \ duminică \ 17:4:2022 \ 19:14:30
+[' Răsarit = 06:20:26 Apus = 20:03:08 Min (°C) = 2.37 Max (°C) =8.69 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.19 Viteza vântului = 5.31 Unghiul vântului = 344 Stare = nori 85-100%']
+Harlau: 16 \ luni \ 18:4:2022 \ 19:15:04
+[' Răsarit = 06:18:35 Apus = 20:04:32 Min (°C) = -0.71 Max (°C) =10.18 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.2 Viteza vântului = 2.93 Unghiul vântului = 8 Stare = nori 50-85%']
+Harlau: 16 \ marți \ 19:4:2022 \ 19:15:20
+[' Răsarit = 06:16:45 Apus = 20:05:57 Min (°C) = -0.1 Max (°C) =11.29 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.16 Viteza vântului = 1.73 Unghiul vântului = 41 Stare = nori 85-100%']
+Harlau: 16 \ miercuri \ 20:4:2022 \ 19:14:22
+[' Răsarit = 06:14:56 Apus = 20:07:21 Min (°C) = 4.95 Max (°C) =11.05 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.11 Viteza vântului = 1.41 Unghiul vântului = 219 Stare = nori 85-100%']
+Harlau: 16 \ joi \ 21:4:2022 \ 19:14:58
+[' Răsarit = 06:13:07 Apus = 20:08:46 Min (°C) = 4.55 Max (°C) =12.91 Presiune = 1011 Umiditate (%) = 80 Index UV = 0.14 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = nori 85-100%']
+Harlau: 16 \ vineri \ 22:4:2022 \ 19:12:38
+[' Răsarit = 06:11:20 Apus = 20:10:10 Min (°C) = 4.87 Max (°C) =17.71 Presiune = 1007 Umiditate (%) = 54 Index UV = 0.17 Viteza vântului = 4.7 Unghiul vântului = 147 Stare = nori 50-85%']
+Harlau: 16 \ sâmbătă \ 23:4:2022 \ 19:12:34
+[' Răsarit = 06:09:34 Apus = 20:11:34 Min (°C) = 7.54 Max (°C) =18.42 Presiune = 1006 Umiditate (%) = 82 Index UV = 0.14 Viteza vântului = 2.7 Unghiul vântului = 332 Stare = nori 85-100%']
+Harlau: 16 \ duminică \ 24:4:2022 \ 19:12:09
+[' Răsarit = 06:07:48 Apus = 20:12:59 Min (°C) = 6.88 Max (°C) =20.56 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.28 Viteza vântului = 3.82 Unghiul vântului = 109 Stare = nori 25-50%']
+Harlau: 17 \ luni \ 25:4:2022 \ 19:12:06
+[' Răsarit = 06:06:04 Apus = 20:14:23 Min (°C) = 10.86 Max (°C) =20.4 Presiune = 1006 Umiditate (%) = 80 Index UV = 0.13 Viteza vântului = 4.97 Unghiul vântului = 233 Stare = nori 85-100%']
+Harlau: 17 \ marți \ 26:4:2022 \ 19:12:08
+[' Răsarit = 06:04:21 Apus = 20:15:47 Min (°C) = 9.04 Max (°C) =18.89 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.28 Viteza vântului = 4.55 Unghiul vântului = 348 Stare = nori 50-85%']
+Harlau: 17 \ miercuri \ 27:4:2022 \ 19:12:10
+[' Răsarit = 06:02:39 Apus = 20:17:11 Min (°C) = 8.34 Max (°C) =16.14 Presiune = 1019 Umiditate (%) = 84 Index UV = 0.11 Viteza vântului = 2.81 Unghiul vântului = 8 Stare = ploaie ușoară']
+Harlau: 17 \ joi \ 28:4:2022 \ 19:12:14
+[' Răsarit = 06:00:58 Apus = 20:18:35 Min (°C) = 9.44 Max (°C) =10.88 Presiune = 1021 Umiditate (%) = 98 Index UV = 0.01 Viteza vântului = 3.23 Unghiul vântului = 45 Stare = ploaie ușoară']
+Harlau: 17 \ vineri \ 29:4:2022 \ 19:15:00
+[' Răsarit = 05:59:19 Apus = 20:19:59 Min (°C) = 8.77 Max (°C) =13.79 Presiune = 1024 Umiditate (%) = 81 Index UV = 0.29 Viteza vântului = 1.86 Unghiul vântului = 89 Stare = nori 85-100%']
+Harlau: 17 \ sâmbătă \ 30:4:2022 \ 19:11:53
+[' Răsarit = 05:57:40 Apus = 20:21:23 Min (°C) = 6.43 Max (°C) =17.46 Presiune = 1021 Umiditate (%) = 61 Index UV = 0.23 Viteza vântului = 1.6 Unghiul vântului = 81 Stare = nori 50-85%']
+Harlau: 17 \ duminică \ 01:5:2022 \ 19:12:01
+[' Răsarit = 05:56:03 Apus = 20:22:46 Min (°C) = 7.63 Max (°C) =17.4 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.26 Viteza vântului = 3.39 Unghiul vântului = 122 Stare = nori 85-100%']
+Harlau: 18 \ marți \ 03:5:2022 \ 20:12:41
+[' Răsarit = 05:52:53 Apus = 20:25:33 Min (°C) = 8.12 Max (°C) =18.82 Presiune = 1014 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 170 Stare = nori 85-100%']
+Harlau: 18 \ miercuri \ 04:5:2022 \ 19:16:38
+[' Răsarit = 05:51:21 Apus = 20:26:56 Min (°C) = 8.93 Max (°C) =18.18 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.27 Viteza vântului = 3.34 Unghiul vântului = 354 Stare = nori 85-100%']
+Harlau: 18 \ joi \ 05:5:2022 \ 19:15:14
+[' Răsarit = 05:49:49 Apus = 20:28:18 Min (°C) = 8.86 Max (°C) =17.96 Presiune = 1023 Umiditate (%) = 49 Index UV = 0.38 Viteza vântului = 3.09 Unghiul vântului = 78 Stare = cer senin']
+Harlau: 18 \ vineri \ 06:5:2022 \ 19:12:58
+[' Răsarit = 05:48:19 Apus = 20:29:40 Min (°C) = 7.3 Max (°C) =18.56 Presiune = 1022 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 4.02 Unghiul vântului = 134 Stare = nori 10-25%']
+Harlau: 18 \ sâmbătă \ 07:5:2022 \ 19:12:24
+[' Răsarit = 05:46:51 Apus = 20:31:02 Min (°C) = 7.87 Max (°C) =20.02 Presiune = 1021 Umiditate (%) = 55 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 165 Stare = nori 85-100%']
+Harlau: 18 \ duminică \ 08:5:2022 \ 19:13:06
+[' Răsarit = 05:45:24 Apus = 20:32:23 Min (°C) = 8.94 Max (°C) =20.06 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.35 Viteza vântului = 2.81 Unghiul vântului = 155 Stare = nori 50-85%']
+Harlau: 19 \ luni \ 09:5:2022 \ 19:12:40
+[' Răsarit = 05:43:58 Apus = 20:33:44 Min (°C) = 10.79 Max (°C) =20.9 Presiune = 1023 Umiditate (%) = 71 Index UV = 0.3 Viteza vântului = 3.8 Unghiul vântului = 42 Stare = nori 50-85%']
+Harlau: 19 \ marți \ 10:5:2022 \ 19:12:54
+[' Răsarit = 05:42:34 Apus = 20:35:05 Min (°C) = 10.59 Max (°C) =19.62 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.41 Viteza vântului = 0.88 Unghiul vântului = 202 Stare = nori 85-100%']
+Harlau: 19 \ miercuri \ 11:5:2022 \ 19:12:41
+[' Răsarit = 05:41:12 Apus = 20:36:25 Min (°C) = 10.54 Max (°C) =22.68 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.39 Viteza vântului = 1.52 Unghiul vântului = 28 Stare = nori 85-100%']
+Harlau: 19 \ joi \ 12:5:2022 \ 19:12:51
+[' Răsarit = 05:39:52 Apus = 20:37:44 Min (°C) = 13.12 Max (°C) =28.08 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.46 Viteza vântului = 1.93 Unghiul vântului = 240 Stare = cer senin']
+Harlau: 19 \ vineri \ 13:5:2022 \ 19:12:24
+[' Răsarit = 05:38:33 Apus = 20:39:03 Min (°C) = 15.45 Max (°C) =26.48 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.43 Viteza vântului = 2.34 Unghiul vântului = 73 Stare = nori 85-100%']
+Harlau: 19 \ sâmbătă \ 14:5:2022 \ 19:12:28
+[' Răsarit = 05:37:16 Apus = 20:40:21 Min (°C) = 14.23 Max (°C) =21.57 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.47 Viteza vântului = 4.9 Unghiul vântului = 342 Stare = nori 10-25%']
+Harlau: 19 \ duminică \ 15:5:2022 \ 19:12:27
+[' Răsarit = 05:36:01 Apus = 20:41:38 Min (°C) = 13.15 Max (°C) =21.08 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.35 Viteza vântului = 3.52 Unghiul vântului = 336 Stare = nori 85-100%']
+Harlau: 20 \ luni \ 16:5:2022 \ 19:13:39
+[' Răsarit = 05:34:48 Apus = 20:42:54 Min (°C) = 12.63 Max (°C) =22.96 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.28 Viteza vântului = 1.94 Unghiul vântului = 16 Stare = nori 50-85%']
+Harlau: 20 \ marți \ 17:5:2022 \ 19:15:31
+[' Răsarit = 05:33:36 Apus = 20:44:10 Min (°C) = 12.81 Max (°C) =22.3 Presiune = 1014 Umiditate (%) = 90 Index UV = 0.12 Viteza vântului = 2.02 Unghiul vântului = 324 Stare = nori 85-100%']
+Harlau: 20 \ miercuri \ 18:5:2022 \ 19:12:38
+[' Răsarit = 05:32:27 Apus = 20:45:25 Min (°C) = 7.66 Max (°C) =14.07 Presiune = 1024 Umiditate (%) = 57 Index UV = 0.29 Viteza vântului = 6.84 Unghiul vântului = 338 Stare = nori 85-100%']
+Harlau: 20 \ joi \ 19:5:2022 \ 20:17:30
+[' Răsarit = 05:31:19 Apus = 20:46:39 Min (°C) = 7.88 Max (°C) =19.09 Presiune = 1025 Umiditate (%) = 60 Index UV = 0.12 Viteza vântului = 1.82 Unghiul vântului = 320 Stare = nori 25-50%']
+Harlau: 20 \ vineri \ 20:5:2022 \ 19:12:27
+[' Răsarit = 05:30:13 Apus = 20:47:52 Min (°C) = 10.53 Max (°C) =26.01 Presiune = 1018 Umiditate (%) = 51 Index UV = 0.36 Viteza vântului = 1.84 Unghiul vântului = 144 Stare = nori 85-100%']
+Harlau: 20 \ sâmbătă \ 21:5:2022 \ 19:14:21
+[' Răsarit = 05:29:10 Apus = 20:49:04 Min (°C) = 13.92 Max (°C) =26.77 Presiune = 1011 Umiditate (%) = 76 Index UV = 0.48 Viteza vântului = 5.5 Unghiul vântului = 355 Stare = nori 85-100%']

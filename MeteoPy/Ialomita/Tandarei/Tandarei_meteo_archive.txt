@@ -1,0 +1,954 @@
+Tandarei: 04 \ luni \ 25:1:2021 \ 22:37:22
+[' Răsarit = 07:35:33 Apus = 17:07:39 Min (°C) = 2.92 Max (°C) =10.66 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 244 Stare = cer senin']
+Tandarei: 04 \ marți \ 26:1:2021 \ 09:54:47
+[' Răsarit = 07:34:37 Apus = 17:09:02 Min (°C) = 1.31 Max (°C) =4.92 Presiune = 1006 Umiditate (%) = 62 Index UV = 0.48 Viteza vântului = 0.89 Unghiul vântului = 4 Stare = nori 85-100%']
+Tandarei: 04 \ miercuri \ 27:1:2021 \ 19:15:54
+[' Răsarit = 07:33:40 Apus = 17:10:25 Min (°C) = -0.8 Max (°C) =1.67 Presiune = 1008 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 9.07 Unghiul vântului = 343 Stare = nori 85-100%']
+Tandarei: 04 \ joi \ 28:1:2021 \ 19:30:48
+[' Răsarit = 07:32:41 Apus = 17:11:50 Min (°C) = -2.68 Max (°C) =0.74 Presiune = 1011 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 258 Stare = nori 50-85%']
+Tandarei: 04 \ vineri \ 29:1:2021 \ 20:16:33
+[' Răsarit = 07:31:39 Apus = 17:13:14 Min (°C) = -4.28 Max (°C) =3.89 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 228 Stare = nori 50-85%']
+Tandarei: 04 \ sâmbătă \ 30:1:2021 \ 20:17:27
+[' Răsarit = 07:30:36 Apus = 17:14:39 Min (°C) = 1.49 Max (°C) =5.56 Presiune = 1000 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 226 Stare = nori 50-85%']
+Tandarei: 04 \ duminică \ 31:1:2021 \ 19:15:39
+[' Răsarit = 07:29:31 Apus = 17:16:04 Min (°C) = 2.57 Max (°C) =6.13 Presiune = 1005 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 35 Stare = nori 85-100%']
+Tandarei: 05 \ luni \ 01:2:2021 \ 19:16:20
+[' Răsarit = 07:28:24 Apus = 17:17:29 Min (°C) = 3.16 Max (°C) =5.69 Presiune = 1007 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 201 Stare = nori 85-100%']
+Tandarei: 05 \ marți \ 02:2:2021 \ 20:45:49
+[' Răsarit = 07:27:16 Apus = 17:18:55 Min (°C) = 1.29 Max (°C) =6.91 Presiune = 1017 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 277 Stare = nori 85-100%']
+Tandarei: 05 \ miercuri \ 03:2:2021 \ 19:42:57
+[' Răsarit = 07:26:05 Apus = 17:20:20 Min (°C) = 3.02 Max (°C) =10.62 Presiune = 1017 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 264 Stare = nori 50-85%']
+Tandarei: 05 \ joi \ 04:2:2021 \ 19:17:37
+[' Răsarit = 07:24:53 Apus = 17:21:46 Min (°C) = 5.09 Max (°C) =13.88 Presiune = 1012 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 283 Stare = nori 25-50%']
+Tandarei: 05 \ vineri \ 05:2:2021 \ 19:13:23
+[' Răsarit = 07:23:39 Apus = 17:23:12 Min (°C) = 4.37 Max (°C) =11.11 Presiune = 1019 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 122 Stare = nori 85-100%']
+Tandarei: 05 \ sâmbătă \ 06:2:2021 \ 19:42:08
+[' Răsarit = 07:22:23 Apus = 17:24:37 Min (°C) = 3.74 Max (°C) =10.14 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 95 Stare = nori 50-85%']
+Tandarei: 05 \ duminică \ 07:2:2021 \ 19:17:24
+[' Răsarit = 07:21:06 Apus = 17:26:03 Min (°C) = 2.7 Max (°C) =7.77 Presiune = 1012 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 5.5 Unghiul vântului = 114 Stare = nori 85-100%']
+Tandarei: 06 \ luni \ 08:2:2021 \ 20:59:09
+[' Răsarit = 07:19:47 Apus = 17:27:29 Min (°C) = 6.99 Max (°C) =15.99 Presiune = 998 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 181 Stare = nori 85-100%']
+Tandarei: 06 \ marți \ 09:2:2021 \ 19:14:44
+[' Răsarit = 07:18:27 Apus = 17:28:55 Min (°C) = 6.94 Max (°C) =15.18 Presiune = 1007 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 122 Stare = nori 85-100%']
+Tandarei: 06 \ miercuri \ 10:2:2021 \ 19:15:32
+[' Răsarit = 07:17:05 Apus = 17:30:20 Min (°C) = 9.55 Max (°C) =15.75 Presiune = 1008 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 193 Stare = nori 50-85%']
+Tandarei: 06 \ joi \ 11:2:2021 \ 19:10:12
+[' Răsarit = 07:15:42 Apus = 17:31:46 Min (°C) = 2.3 Max (°C) =16.17 Presiune = 1004 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 85-100%']
+Tandarei: 06 \ vineri \ 12:2:2021 \ 20:49:38
+[' Răsarit = 07:14:17 Apus = 17:33:11 Min (°C) = -4.73 Max (°C) =0.25 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.98 Unghiul vântului = 339 Stare = nori 85-100%']
+Tandarei: 06 \ sâmbătă \ 13:2:2021 \ 19:14:39
+[' Răsarit = 07:12:51 Apus = 17:34:36 Min (°C) = -6.31 Max (°C) =-1.79 Presiune = 1029 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 323 Stare = cer senin']
+Tandarei: 06 \ duminică \ 14:2:2021 \ 19:13:23
+[' Răsarit = 07:11:24 Apus = 17:36:01 Min (°C) = -4.75 Max (°C) =0.22 Presiune = 1030 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 343 Stare = nori 85-100%']
+Tandarei: 07 \ luni \ 15:2:2021 \ 20:09:52
+[' Răsarit = 07:09:55 Apus = 17:37:25 Min (°C) = -3.98 Max (°C) =1.96 Presiune = 1029 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 13 Stare = nori 50-85%']
+Tandarei: 07 \ marți \ 16:2:2021 \ 19:05:45
+[' Răsarit = 07:08:25 Apus = 17:38:50 Min (°C) = -5.17 Max (°C) =-1.8 Presiune = 1029 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = cer senin']
+Tandarei: 07 \ miercuri \ 17:2:2021 \ 19:13:50
+[' Răsarit = 07:06:53 Apus = 17:40:14 Min (°C) = -6.36 Max (°C) =1.53 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.36 Unghiul vântului = 186 Stare = nori 50-85%']
+Tandarei: 07 \ joi \ 18:2:2021 \ 19:17:42
+[' Răsarit = 07:05:21 Apus = 17:41:38 Min (°C) = -2.84 Max (°C) =4.48 Presiune = 1022 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.69 Unghiul vântului = 10 Stare = nori 50-85%']
+Tandarei: 07 \ vineri \ 19:2:2021 \ 19:10:43
+[' Răsarit = 07:03:47 Apus = 17:43:01 Min (°C) = -4.74 Max (°C) =0.56 Presiune = 1029 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 108 Stare = nori 25-50%']
+Tandarei: 07 \ sâmbătă \ 20:2:2021 \ 19:15:00
+[' Răsarit = 07:02:12 Apus = 17:44:24 Min (°C) = -2.26 Max (°C) =5.63 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.89 Unghiul vântului = 131 Stare = nori 85-100%']
+Tandarei: 07 \ duminică \ 21:2:2021 \ 19:12:24
+[' Răsarit = 07:00:36 Apus = 17:45:47 Min (°C) = 0.83 Max (°C) =7.79 Presiune = 1031 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 238 Stare = nori 50-85%']
+Tandarei: 08 \ luni \ 22:2:2021 \ 19:17:00
+[' Răsarit = 06:58:59 Apus = 17:47:10 Min (°C) = 0.97 Max (°C) =11.14 Presiune = 1028 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 223 Stare = cer senin']
+Tandarei: 08 \ marți \ 23:2:2021 \ 19:14:58
+[' Răsarit = 06:57:21 Apus = 17:48:32 Min (°C) = 2.86 Max (°C) =12.41 Presiune = 1033 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 54 Stare = cer senin']
+Tandarei: 08 \ miercuri \ 24:2:2021 \ 19:15:31
+[' Răsarit = 06:55:42 Apus = 17:49:54 Min (°C) = 2.35 Max (°C) =10.39 Presiune = 1035 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 206 Stare = nori 25-50%']
+Tandarei: 08 \ joi \ 25:2:2021 \ 19:13:33
+[' Răsarit = 06:54:02 Apus = 17:51:16 Min (°C) = 5.46 Max (°C) =15.15 Presiune = 1032 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 225 Stare = cer senin']
+Tandarei: 08 \ vineri \ 26:2:2021 \ 19:14:18
+[' Răsarit = 06:52:21 Apus = 17:52:37 Min (°C) = 7.01 Max (°C) =18.22 Presiune = 1022 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 199 Stare = cer senin']
+Tandarei: 08 \ sâmbătă \ 27:2:2021 \ 19:12:01
+[' Răsarit = 06:50:39 Apus = 17:53:58 Min (°C) = 6.74 Max (°C) =14.19 Presiune = 1023 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 21 Stare = nori 10-25%']
+Tandarei: 08 \ duminică \ 28:2:2021 \ 19:15:44
+[' Răsarit = 06:48:56 Apus = 17:55:18 Min (°C) = 4.31 Max (°C) =9.13 Presiune = 1027 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 136 Stare = nori 50-85%']
+Tandarei: 09 \ luni \ 01:3:2021 \ 19:10:01
+[' Răsarit = 06:47:12 Apus = 17:56:38 Min (°C) = 3 Max (°C) =6.02 Presiune = 1031 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 10 Stare = nori 85-100%']
+Tandarei: 09 \ marți \ 02:3:2021 \ 19:18:34
+[' Răsarit = 06:45:28 Apus = 17:57:58 Min (°C) = 0.64 Max (°C) =7.41 Presiune = 1028 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 176 Stare = nori 25-50%']
+Tandarei: 09 \ miercuri \ 03:3:2021 \ 19:13:58
+[' Răsarit = 06:43:43 Apus = 17:59:18 Min (°C) = 4.27 Max (°C) =12.17 Presiune = 1029 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 257 Stare = cer senin']
+Tandarei: 09 \ joi \ 04:3:2021 \ 19:14:43
+[' Răsarit = 06:41:57 Apus = 18:00:37 Min (°C) = 4.46 Max (°C) =15.96 Presiune = 1015 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 243 Stare = nori 25-50%']
+Tandarei: 09 \ vineri \ 05:3:2021 \ 19:12:40
+[' Răsarit = 06:40:11 Apus = 18:01:56 Min (°C) = 5.52 Max (°C) =16.15 Presiune = 1013 Umiditate (%) = 6 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 227 Stare = nori 50-85%']
+Tandarei: 09 \ sâmbătă \ 06:3:2021 \ 19:13:38
+[' Răsarit = 06:38:24 Apus = 18:03:14 Min (°C) = 2.1 Max (°C) =9.3 Presiune = 1029 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 22 Stare = nori 50-85%']
+Tandarei: 09 \ duminică \ 07:3:2021 \ 19:14:42
+[' Răsarit = 06:36:36 Apus = 18:04:33 Min (°C) = -0.25 Max (°C) =7.21 Presiune = 1022 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 259 Stare = cer senin']
+Tandarei: 10 \ luni \ 08:3:2021 \ 19:17:58
+[' Răsarit = 06:34:48 Apus = 18:05:51 Min (°C) = 0.31 Max (°C) =10.44 Presiune = 1014 Umiditate (%) = 15 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 250 Stare = nori 10-25%']
+Tandarei: 10 \ marți \ 09:3:2021 \ 19:12:54
+[' Răsarit = 06:32:59 Apus = 18:07:08 Min (°C) = 0.81 Max (°C) =7.55 Presiune = 1021 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 130 Stare = nori 85-100%']
+Tandarei: 10 \ miercuri \ 10:3:2021 \ 19:18:19
+[' Răsarit = 06:31:10 Apus = 18:08:26 Min (°C) = -0.27 Max (°C) =4.55 Presiune = 1017 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 67 Stare = zăpadă slabă']
+Tandarei: 10 \ joi \ 11:3:2021 \ 19:14:49
+[' Răsarit = 06:29:20 Apus = 18:09:43 Min (°C) = -2.36 Max (°C) =3.55 Presiune = 1024 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 285 Stare = cer senin']
+Tandarei: 10 \ vineri \ 12:3:2021 \ 19:14:02
+[' Răsarit = 06:27:30 Apus = 18:11:00 Min (°C) = -2.24 Max (°C) =6.01 Presiune = 1017 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 287 Stare = nori 25-50%']
+Tandarei: 10 \ sâmbătă \ 13:3:2021 \ 19:14:14
+[' Răsarit = 06:25:39 Apus = 18:12:16 Min (°C) = 1.54 Max (°C) =11.52 Presiune = 1016 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 282 Stare = nori 50-85%']
+Tandarei: 10 \ duminică \ 14:3:2021 \ 19:16:37
+[' Răsarit = 06:23:48 Apus = 18:13:32 Min (°C) = 2.96 Max (°C) =17.22 Presiune = 1007 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 329 Stare = cer senin']
+Tandarei: 11 \ luni \ 15:3:2021 \ 19:16:03
+[' Răsarit = 06:21:57 Apus = 18:14:49 Min (°C) = 7.29 Max (°C) =15.13 Presiune = 997 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 122 Stare = nori 85-100%']
+Tandarei: 11 \ marți \ 16:3:2021 \ 19:14:35
+[' Răsarit = 06:20:06 Apus = 18:16:04 Min (°C) = 7.63 Max (°C) =9.85 Presiune = 996 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.65 Unghiul vântului = 19 Stare = nori 85-100%']
+Tandarei: 11 \ miercuri \ 17:3:2021 \ 19:15:02
+[' Răsarit = 06:18:14 Apus = 18:17:20 Min (°C) = 4.44 Max (°C) =7.17 Presiune = 1004 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 356 Stare = nori 85-100%']
+Tandarei: 11 \ joi \ 18:3:2021 \ 19:14:14
+[' Răsarit = 06:16:22 Apus = 18:18:36 Min (°C) = 3.35 Max (°C) =6.67 Presiune = 1013 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 33 Stare = nori 25-50%']
+Tandarei: 11 \ vineri \ 19:3:2021 \ 19:11:45
+[' Răsarit = 06:14:30 Apus = 18:19:51 Min (°C) = 1.06 Max (°C) =7.22 Presiune = 1016 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 271 Stare = nori 50-85%']
+Tandarei: 11 \ sâmbătă \ 20:3:2021 \ 19:14:12
+[' Răsarit = 06:12:38 Apus = 18:21:06 Min (°C) = 0.77 Max (°C) =8.32 Presiune = 1019 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 73 Stare = nori 50-85%']
+Tandarei: 11 \ duminică \ 21:3:2021 \ 19:09:38
+[' Răsarit = 06:10:45 Apus = 18:22:21 Min (°C) = 2.29 Max (°C) =8.35 Presiune = 1013 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 136 Stare = nori 85-100%']
+Tandarei: 12 \ luni \ 22:3:2021 \ 19:14:52
+[' Răsarit = 06:08:53 Apus = 18:23:36 Min (°C) = 1.67 Max (°C) =4.84 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.4 Unghiul vântului = 29 Stare = zăpadă slabă']
+Tandarei: 12 \ marți \ 23:3:2021 \ 19:16:39
+[' Răsarit = 06:07:00 Apus = 18:24:51 Min (°C) = 0.54 Max (°C) =8.24 Presiune = 1012 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 269 Stare = nori 85-100%']
+Tandarei: 12 \ miercuri \ 24:3:2021 \ 19:15:10
+[' Răsarit = 06:05:08 Apus = 18:26:05 Min (°C) = -0.51 Max (°C) =3.72 Presiune = 1016 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 2 Stare = zăpadă slabă']
+Tandarei: 12 \ joi \ 25:3:2021 \ 19:15:08
+[' Răsarit = 06:03:16 Apus = 18:27:20 Min (°C) = 0.64 Max (°C) =5.77 Presiune = 1020 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 85-100%']
+Tandarei: 12 \ vineri \ 26:3:2021 \ 19:19:55
+[' Răsarit = 06:01:23 Apus = 18:28:34 Min (°C) = 3.06 Max (°C) =11.56 Presiune = 1023 Umiditate (%) = 26 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 277 Stare = nori 50-85%']
+Tandarei: 12 \ sâmbătă \ 27:3:2021 \ 19:19:36
+[' Răsarit = 05:59:31 Apus = 18:29:49 Min (°C) = 4.09 Max (°C) =14.79 Presiune = 1026 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.77 Unghiul vântului = 229 Stare = cer senin']
+Tandarei: 12 \ duminică \ 28:3:2021 \ 19:15:27
+[' Răsarit = 06:57:39 Apus = 19:31:03 Min (°C) = 5.99 Max (°C) =17.83 Presiune = 1024 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 266 Stare = nori 10-25%']
+Tandarei: 13 \ luni \ 29:3:2021 \ 19:14:25
+[' Răsarit = 06:55:47 Apus = 19:32:17 Min (°C) = 5.03 Max (°C) =14.28 Presiune = 1029 Umiditate (%) = 7 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 21 Stare = nori 50-85%']
+Tandarei: 13 \ marți \ 30:3:2021 \ 19:13:16
+[' Răsarit = 06:53:55 Apus = 19:33:31 Min (°C) = 5.19 Max (°C) =12.83 Presiune = 1029 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 52 Stare = nori 85-100%']
+Tandarei: 13 \ miercuri \ 31:3:2021 \ 19:13:06
+[' Răsarit = 06:52:04 Apus = 19:34:46 Min (°C) = 3.93 Max (°C) =13.89 Presiune = 1023 Umiditate (%) = 6 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 18 Stare = nori 85-100%']
+Tandarei: 13 \ joi \ 01:4:2021 \ 19:13:47
+[' Răsarit = 06:50:13 Apus = 19:36:00 Min (°C) = 3.53 Max (°C) =14.54 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 211 Stare = nori 25-50%']
+Tandarei: 13 \ vineri \ 02:4:2021 \ 19:16:46
+[' Răsarit = 06:48:22 Apus = 19:37:14 Min (°C) = 6.86 Max (°C) =18.88 Presiune = 1007 Umiditate (%) = 45 Index UV = 0.02 Viteza vântului = 4.92 Unghiul vântului = 358 Stare = nori 85-100%']
+Tandarei: 13 \ sâmbătă \ 03:4:2021 \ 20:37:56
+[' Răsarit = 06:46:31 Apus = 19:38:28 Min (°C) = 7.08 Max (°C) =13.63 Presiune = 1010 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 137 Stare = nori 85-100%']
+Tandarei: 13 \ duminică \ 04:4:2021 \ 20:16:54
+[' Răsarit = 06:44:41 Apus = 19:39:42 Min (°C) = 6.28 Max (°C) =10 Presiune = 1015 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 193 Stare = nori 85-100%']
+Tandarei: 14 \ luni \ 05:4:2021 \ 14:44:26
+[' Răsarit = 06:42:51 Apus = 19:40:57 Min (°C) = 3.6 Max (°C) =14.44 Presiune = 1015 Umiditate (%) = 31 Index UV = 3.29 Viteza vântului = 2.24 Unghiul vântului = 252 Stare = nori 25-50%']
+Tandarei: 14 \ luni \ 05:4:2021 \ 19:15:18
+[' Răsarit = 06:42:51 Apus = 19:40:57 Min (°C) = 3.6 Max (°C) =12.73 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.1 Viteza vântului = 6.41 Unghiul vântului = 232 Stare = nori 50-85%']
+Tandarei: 14 \ marți \ 06:4:2021 \ 20:19:13
+[' Răsarit = 06:41:02 Apus = 19:42:11 Min (°C) = 3.56 Max (°C) =16.86 Presiune = 1000 Umiditate (%) = 24 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 50-85%']
+Tandarei: 14 \ miercuri \ 07:4:2021 \ 19:13:35
+[' Răsarit = 06:39:13 Apus = 19:43:25 Min (°C) = 2.98 Max (°C) =11.78 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.04 Viteza vântului = 1.34 Unghiul vântului = 72 Stare = nori 85-100%']
+Tandarei: 14 \ joi \ 08:4:2021 \ 19:13:22
+[' Răsarit = 06:37:25 Apus = 19:44:40 Min (°C) = 2.17 Max (°C) =10.35 Presiune = 1021 Umiditate (%) = 44 Index UV = 0.11 Viteza vântului = 2.81 Unghiul vântului = 8 Stare = nori 85-100%']
+Tandarei: 14 \ vineri \ 09:4:2021 \ 19:13:49
+[' Răsarit = 06:35:37 Apus = 19:45:54 Min (°C) = 1.85 Max (°C) =11.07 Presiune = 1028 Umiditate (%) = 37 Index UV = 0.12 Viteza vântului = 2.47 Unghiul vântului = 318 Stare = nori 50-85%']
+Tandarei: 14 \ sâmbătă \ 10:4:2021 \ 19:13:22
+[' Răsarit = 06:33:50 Apus = 19:47:09 Min (°C) = 2.92 Max (°C) =13.17 Presiune = 1024 Umiditate (%) = 39 Index UV = 0.13 Viteza vântului = 1.64 Unghiul vântului = 168 Stare = cer senin']
+Tandarei: 14 \ duminică \ 11:4:2021 \ 19:14:56
+[' Răsarit = 06:32:03 Apus = 19:48:23 Min (°C) = 4.03 Max (°C) =14.67 Presiune = 1025 Umiditate (%) = 38 Index UV = 0.14 Viteza vântului = 0.68 Unghiul vântului = 77 Stare = cer senin']
+Tandarei: 15 \ luni \ 12:4:2021 \ 21:58:38
+[' Răsarit = 06:30:17 Apus = 19:49:38 Min (°C) = 6.04 Max (°C) =18.19 Presiune = 1019 Umiditate (%) = 6 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 130 Stare = cer senin']
+Tandarei: 15 \ marți \ 13:4:2021 \ 19:14:18
+[' Răsarit = 06:28:32 Apus = 19:50:52 Min (°C) = 8.47 Max (°C) =20.02 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.14 Viteza vântului = 7.63 Unghiul vântului = 147 Stare = nori 85-100%']
+Tandarei: 15 \ miercuri \ 14:4:2021 \ 19:14:36
+[' Răsarit = 06:26:47 Apus = 19:52:07 Min (°C) = 7.62 Max (°C) =11.11 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.1 Viteza vântului = 4.02 Unghiul vântului = 266 Stare = nori 85-100%']
+Tandarei: 15 \ joi \ 15:4:2021 \ 19:15:15
+[' Răsarit = 06:25:04 Apus = 19:53:22 Min (°C) = 5.03 Max (°C) =11.93 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.12 Viteza vântului = 5.22 Unghiul vântului = 241 Stare = nori 85-100%']
+Tandarei: 15 \ vineri \ 16:4:2021 \ 19:14:03
+[' Răsarit = 06:23:21 Apus = 19:54:37 Min (°C) = 4.04 Max (°C) =13.89 Presiune = 1019 Umiditate (%) = 6 Index UV = 0.17 Viteza vântului = 3.58 Unghiul vântului = 260 Stare = nori 50-85%']
+Tandarei: 15 \ sâmbătă \ 17:4:2021 \ 19:13:50
+[' Răsarit = 06:21:38 Apus = 19:55:51 Min (°C) = 4.25 Max (°C) =14.71 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.15 Viteza vântului = 1.79 Unghiul vântului = 109 Stare = nori 50-85%']
+Tandarei: 15 \ duminică \ 18:4:2021 \ 19:13:25
+[' Răsarit = 06:19:57 Apus = 19:57:06 Min (°C) = 8.42 Max (°C) =10.56 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.03 Viteza vântului = 1.34 Unghiul vântului = 7 Stare = nori 85-100%']
+Tandarei: 16 \ luni \ 19:4:2021 \ 19:14:02
+[' Răsarit = 06:18:16 Apus = 19:58:21 Min (°C) = 6.96 Max (°C) =14.59 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.05 Viteza vântului = 0.45 Unghiul vântului = 76 Stare = nori 85-100%']
+Tandarei: 16 \ marți \ 20:4:2021 \ 19:13:39
+[' Răsarit = 06:16:37 Apus = 19:59:36 Min (°C) = 8.62 Max (°C) =13.89 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.18 Viteza vântului = 0.45 Unghiul vântului = 18 Stare = nori 85-100%']
+Tandarei: 16 \ miercuri \ 21:4:2021 \ 19:13:45
+[' Răsarit = 06:14:58 Apus = 20:00:51 Min (°C) = 8.53 Max (°C) =17.78 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.17 Viteza vântului = 2.68 Unghiul vântului = 7 Stare = ploaie ușoară']
+Tandarei: 16 \ joi \ 22:4:2021 \ 19:14:16
+[' Răsarit = 06:13:20 Apus = 20:02:06 Min (°C) = 7.77 Max (°C) =18.91 Presiune = 1018 Umiditate (%) = 51 Index UV = 0.2 Viteza vântului = 3.68 Unghiul vântului = 239 Stare = nori 25-50%']
+Tandarei: 16 \ vineri \ 23:4:2021 \ 19:13:33
+[' Răsarit = 06:11:44 Apus = 20:03:21 Min (°C) = 9.37 Max (°C) =14.65 Presiune = 1018 Umiditate (%) = 74 Index UV = 0.06 Viteza vântului = 2.68 Unghiul vântului = 42 Stare = ploaie ușoară']
+Tandarei: 16 \ sâmbătă \ 24:4:2021 \ 19:13:44
+[' Răsarit = 06:10:08 Apus = 20:04:36 Min (°C) = 7.35 Max (°C) =16.06 Presiune = 1021 Umiditate (%) = 56 Index UV = 0.12 Viteza vântului = 5.42 Unghiul vântului = 162 Stare = nori 50-85%']
+Tandarei: 16 \ duminică \ 25:4:2021 \ 19:13:55
+[' Răsarit = 06:08:33 Apus = 20:05:51 Min (°C) = 6.2 Max (°C) =16.59 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.15 Viteza vântului = 6.22 Unghiul vântului = 146 Stare = nori 50-85%']
+Tandarei: 17 \ luni \ 26:4:2021 \ 19:13:29
+[' Răsarit = 06:07:00 Apus = 20:07:06 Min (°C) = 6.14 Max (°C) =16.15 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.27 Viteza vântului = 5.36 Unghiul vântului = 61 Stare = nori 25-50%']
+Tandarei: 17 \ marți \ 27:4:2021 \ 19:14:57
+[' Răsarit = 06:05:27 Apus = 20:08:21 Min (°C) = 8.63 Max (°C) =14.44 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.05 Viteza vântului = 3.58 Unghiul vântului = 34 Stare = nori 85-100%']
+Tandarei: 17 \ miercuri \ 28:4:2021 \ 19:13:46
+[' Răsarit = 06:03:56 Apus = 20:09:36 Min (°C) = 6.65 Max (°C) =13.89 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 3.58 Unghiul vântului = 74 Stare = nori 85-100%']
+Tandarei: 17 \ joi \ 29:4:2021 \ 19:24:13
+[' Răsarit = 06:02:26 Apus = 20:10:50 Min (°C) = 7.87 Max (°C) =17.66 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.22 Viteza vântului = 0.82 Unghiul vântului = 186 Stare = nori 85-100%']
+Tandarei: 17 \ vineri \ 30:4:2021 \ 19:13:46
+[' Răsarit = 06:00:57 Apus = 20:12:05 Min (°C) = 9.72 Max (°C) =23.09 Presiune = 1011 Umiditate (%) = 61 Index UV = 0.3 Viteza vântului = 3.54 Unghiul vântului = 243 Stare = nori 10-25%']
+Tandarei: 17 \ sâmbătă \ 01:5:2021 \ 19:14:31
+[' Răsarit = 05:59:30 Apus = 20:13:19 Min (°C) = 14.67 Max (°C) =25.97 Presiune = 1011 Umiditate (%) = 63 Index UV = 0.22 Viteza vântului = 4.92 Unghiul vântului = 124 Stare = nori 85-100%']
+Tandarei: 17 \ duminică \ 02:5:2021 \ 20:20:48
+[' Răsarit = 05:58:03 Apus = 20:14:34 Min (°C) = 17.89 Max (°C) =29.49 Presiune = 1006 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 4.72 Unghiul vântului = 253 Stare = nori 50-85%']
+Tandarei: 18 \ luni \ 03:5:2021 \ 19:13:57
+[' Răsarit = 05:56:38 Apus = 20:15:48 Min (°C) = 15.39 Max (°C) =24.73 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.29 Viteza vântului = 4.45 Unghiul vântului = 31 Stare = nori 85-100%']
+Tandarei: 18 \ marți \ 04:5:2021 \ 19:15:19
+[' Răsarit = 05:55:15 Apus = 20:17:01 Min (°C) = 11.11 Max (°C) =18.21 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.33 Viteza vântului = 4.48 Unghiul vântului = 147 Stare = nori 25-50%']
+Tandarei: 18 \ miercuri \ 05:5:2021 \ 19:13:38
+[' Răsarit = 05:53:52 Apus = 20:18:15 Min (°C) = 9.33 Max (°C) =20.3 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.32 Viteza vântului = 7.12 Unghiul vântului = 156 Stare = nori 50-85%']
+Tandarei: 18 \ joi \ 06:5:2021 \ 19:14:38
+[' Răsarit = 05:52:32 Apus = 20:19:28 Min (°C) = 10.32 Max (°C) =22.38 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.35 Viteza vântului = 4.25 Unghiul vântului = 25 Stare = nori 85-100%']
+Tandarei: 18 \ vineri \ 07:5:2021 \ 19:13:10
+[' Răsarit = 05:51:12 Apus = 20:20:41 Min (°C) = 11.66 Max (°C) =25.32 Presiune = 1008 Umiditate (%) = 56 Index UV = 0.35 Viteza vântului = 3.59 Unghiul vântului = 228 Stare = nori 50-85%']
+Tandarei: 18 \ sâmbătă \ 08:5:2021 \ 19:13:48
+[' Răsarit = 05:49:54 Apus = 20:21:54 Min (°C) = 11.71 Max (°C) =16.9 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.13 Viteza vântului = 1.96 Unghiul vântului = 180 Stare = nori 85-100%']
+Tandarei: 18 \ duminică \ 09:5:2021 \ 19:13:31
+[' Răsarit = 05:48:38 Apus = 20:23:06 Min (°C) = 6.8 Max (°C) =17.33 Presiune = 1026 Umiditate (%) = 39 Index UV = 0.39 Viteza vântului = 1.48 Unghiul vântului = 131 Stare = nori 10-25%']
+Tandarei: 19 \ luni \ 10:5:2021 \ 19:13:36
+[' Răsarit = 05:47:23 Apus = 20:24:17 Min (°C) = 7.14 Max (°C) =19.2 Presiune = 1022 Umiditate (%) = 47 Index UV = 0.4 Viteza vântului = 5.36 Unghiul vântului = 145 Stare = cer senin']
+Tandarei: 19 \ marți \ 11:5:2021 \ 19:14:26
+[' Răsarit = 05:46:10 Apus = 20:25:29 Min (°C) = 6.77 Max (°C) =20.81 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.38 Viteza vântului = 0.83 Unghiul vântului = 90 Stare = cer senin']
+Tandarei: 19 \ miercuri \ 12:5:2021 \ 19:13:39
+[' Răsarit = 05:44:58 Apus = 20:26:39 Min (°C) = 10.45 Max (°C) =22.89 Presiune = 1010 Umiditate (%) = 68 Index UV = 0.31 Viteza vântului = 7.61 Unghiul vântului = 109 Stare = nori 50-85%']
+Tandarei: 19 \ joi \ 13:5:2021 \ 19:14:27
+[' Răsarit = 05:43:48 Apus = 20:27:50 Min (°C) = 11.08 Max (°C) =21.04 Presiune = 1005 Umiditate (%) = 59 Index UV = 0.41 Viteza vântului = 4.38 Unghiul vântului = 151 Stare = nori 50-85%']
+Tandarei: 19 \ vineri \ 14:5:2021 \ 19:14:19
+[' Răsarit = 05:42:40 Apus = 20:28:59 Min (°C) = 11.46 Max (°C) =22.24 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.23 Viteza vântului = 4.02 Unghiul vântului = 257 Stare = nori 10-25%']
+Tandarei: 19 \ sâmbătă \ 15:5:2021 \ 19:13:49
+[' Răsarit = 05:41:33 Apus = 20:30:08 Min (°C) = 12.02 Max (°C) =24.86 Presiune = 1009 Umiditate (%) = 24 Index UV = 0.2 Viteza vântului = 3.13 Unghiul vântului = 201 Stare = nori 50-85%']
+Tandarei: 19 \ duminică \ 16:5:2021 \ 19:14:25
+[' Răsarit = 05:40:28 Apus = 20:31:17 Min (°C) = 13.68 Max (°C) =21.33 Presiune = 1008 Umiditate (%) = 42 Index UV = 0.29 Viteza vântului = 2.24 Unghiul vântului = 269 Stare = nori 85-100%']
+Tandarei: 20 \ luni \ 17:5:2021 \ 19:14:53
+[' Răsarit = 05:39:25 Apus = 20:32:24 Min (°C) = 12.12 Max (°C) =22.17 Presiune = 1006 Umiditate (%) = 34 Index UV = 0.25 Viteza vântului = 2.24 Unghiul vântului = 267 Stare = nori 85-100%']
+Tandarei: 20 \ marți \ 18:5:2021 \ 19:14:21
+[' Răsarit = 05:38:24 Apus = 20:33:31 Min (°C) = 14.23 Max (°C) =20.13 Presiune = 1005 Umiditate (%) = 59 Index UV = 0.36 Viteza vântului = 6.12 Unghiul vântului = 294 Stare = nori 50-85%']
+Tandarei: 20 \ miercuri \ 19:5:2021 \ 19:13:27
+[' Răsarit = 05:37:24 Apus = 20:34:37 Min (°C) = 12.89 Max (°C) =23.08 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.39 Viteza vântului = 3.24 Unghiul vântului = 220 Stare = nori 10-25%']
+Tandarei: 20 \ joi \ 20:5:2021 \ 19:13:56
+[' Răsarit = 05:36:27 Apus = 20:35:43 Min (°C) = 11.03 Max (°C) =17.26 Presiune = 1009 Umiditate (%) = 92 Index UV = 0.13 Viteza vântului = 4.96 Unghiul vântului = 337 Stare = nori 85-100%']
+Tandarei: 20 \ vineri \ 21:5:2021 \ 19:14:54
+[' Răsarit = 05:35:31 Apus = 20:36:47 Min (°C) = 11.35 Max (°C) =20.61 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.45 Viteza vântului = 4.22 Unghiul vântului = 37 Stare = nori 50-85%']
+Tandarei: 20 \ sâmbătă \ 22:5:2021 \ 19:14:24
+[' Răsarit = 05:34:37 Apus = 20:37:50 Min (°C) = 11.18 Max (°C) =23.09 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.5 Viteza vântului = 2.68 Unghiul vântului = 210 Stare = nori 50-85%']
+Tandarei: 20 \ duminică \ 23:5:2021 \ 19:14:45
+[' Răsarit = 05:33:45 Apus = 20:38:53 Min (°C) = 14.35 Max (°C) =26.58 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.5 Viteza vântului = 3.02 Unghiul vântului = 182 Stare = nori 85-100%']
+Tandarei: 21 \ luni \ 24:5:2021 \ 19:13:30
+[' Răsarit = 05:32:55 Apus = 20:39:54 Min (°C) = 16.89 Max (°C) =23.67 Presiune = 1022 Umiditate (%) = 52 Index UV = 0.52 Viteza vântului = 4.45 Unghiul vântului = 51 Stare = nori 50-85%']
+Tandarei: 21 \ marți \ 25:5:2021 \ 19:13:26
+[' Răsarit = 05:32:07 Apus = 20:40:54 Min (°C) = 13.44 Max (°C) =24.07 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.5 Viteza vântului = 4.54 Unghiul vântului = 138 Stare = nori 85-100%']
+Tandarei: 21 \ miercuri \ 26:5:2021 \ 19:15:43
+[' Răsarit = 05:31:21 Apus = 20:41:54 Min (°C) = 14.02 Max (°C) =26.07 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.55 Viteza vântului = 4.35 Unghiul vântului = 120 Stare = nori 85-100%']
+Tandarei: 21 \ joi \ 27:5:2021 \ 19:13:40
+[' Răsarit = 05:30:37 Apus = 20:42:51 Min (°C) = 13.9 Max (°C) =25.19 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.49 Viteza vântului = 4.92 Unghiul vântului = 132 Stare = nori 50-85%']
+Tandarei: 21 \ vineri \ 28:5:2021 \ 19:13:49
+[' Răsarit = 05:29:55 Apus = 20:43:48 Min (°C) = 14.28 Max (°C) =23.89 Presiune = 1011 Umiditate (%) = 72 Index UV = 0.17 Viteza vântului = 5.34 Unghiul vântului = 293 Stare = nori 85-100%']
+Tandarei: 21 \ sâmbătă \ 29:5:2021 \ 19:13:23
+[' Răsarit = 05:29:15 Apus = 20:44:44 Min (°C) = 14.35 Max (°C) =22.67 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.36 Viteza vântului = 2.57 Unghiul vântului = 288 Stare = nori 85-100%']
+Tandarei: 21 \ duminică \ 30:5:2021 \ 19:13:10
+[' Răsarit = 05:28:38 Apus = 20:45:38 Min (°C) = 14.25 Max (°C) =21.72 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.08 Viteza vântului = 3.47 Unghiul vântului = 30 Stare = nori 85-100%']
+Tandarei: 22 \ marți \ 01:6:2021 \ 19:14:13
+[' Răsarit = 05:27:29 Apus = 20:47:21 Min (°C) = 10.49 Max (°C) =12.56 Presiune = 1013 Umiditate (%) = 95 Index UV = 0.06 Viteza vântului = 7.91 Unghiul vântului = 353 Stare = nori 85-100%']
+Tandarei: 22 \ miercuri \ 02:6:2021 \ 19:11:52
+[' Răsarit = 05:26:57 Apus = 20:48:11 Min (°C) = 10.19 Max (°C) =16.16 Presiune = 1018 Umiditate (%) = 81 Index UV = 0.1 Viteza vântului = 8.84 Unghiul vântului = 343 Stare = nori 85-100%']
+Tandarei: 22 \ joi \ 03:6:2021 \ 19:12:19
+[' Răsarit = 05:26:28 Apus = 20:48:59 Min (°C) = 11.14 Max (°C) =19.49 Presiune = 1020 Umiditate (%) = 67 Index UV = 0.51 Viteza vântului = 6.42 Unghiul vântului = 344 Stare = nori 85-100%']
+Tandarei: 22 \ vineri \ 04:6:2021 \ 19:19:20
+[' Răsarit = 05:26:02 Apus = 20:49:46 Min (°C) = 12.05 Max (°C) =22.45 Presiune = 1022 Umiditate (%) = 63 Index UV = 0.32 Viteza vântului = 2.45 Unghiul vântului = 322 Stare = nori 50-85%']
+Tandarei: 22 \ sâmbătă \ 05:6:2021 \ 19:14:53
+[' Răsarit = 05:25:37 Apus = 20:50:31 Min (°C) = 13.41 Max (°C) =25.61 Presiune = 1018 Umiditate (%) = 52 Index UV = 0.56 Viteza vântului = 2.66 Unghiul vântului = 259 Stare = nori 50-85%']
+Tandarei: 22 \ duminică \ 06:6:2021 \ 19:14:05
+[' Răsarit = 05:25:14 Apus = 20:51:14 Min (°C) = 14.79 Max (°C) =23.11 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.39 Viteza vântului = 2.29 Unghiul vântului = 348 Stare = nori 85-100%']
+Tandarei: 23 \ luni \ 07:6:2021 \ 19:14:04
+[' Răsarit = 05:24:54 Apus = 20:51:56 Min (°C) = 14.46 Max (°C) =24.88 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.45 Viteza vântului = 1.68 Unghiul vântului = 60 Stare = nori 50-85%']
+Tandarei: 23 \ marți \ 08:6:2021 \ 19:13:40
+[' Răsarit = 05:24:36 Apus = 20:52:35 Min (°C) = 16.41 Max (°C) =26.05 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.3 Viteza vântului = 2.41 Unghiul vântului = 1 Stare = nori 50-85%']
+Tandarei: 23 \ miercuri \ 09:6:2021 \ 19:14:29
+[' Răsarit = 05:24:20 Apus = 20:53:13 Min (°C) = 15.59 Max (°C) =26.88 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.56 Viteza vântului = 3.6 Unghiul vântului = 7 Stare = nori 50-85%']
+Tandarei: 23 \ joi \ 10:6:2021 \ 19:13:35
+[' Răsarit = 05:24:07 Apus = 20:53:49 Min (°C) = 15.8 Max (°C) =25.66 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.37 Viteza vântului = 3.12 Unghiul vântului = 325 Stare = nori 25-50%']
+Tandarei: 23 \ vineri \ 11:6:2021 \ 19:13:35
+[' Răsarit = 05:23:56 Apus = 20:54:24 Min (°C) = 15.61 Max (°C) =25.44 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.33 Viteza vântului = 1.76 Unghiul vântului = 302 Stare = nori 85-100%']
+Tandarei: 23 \ sâmbătă \ 12:6:2021 \ 19:13:47
+[' Răsarit = 05:23:47 Apus = 20:54:56 Min (°C) = 15.72 Max (°C) =25.8 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.58 Viteza vântului = 4 Unghiul vântului = 246 Stare = nori 85-100%']
+Tandarei: 23 \ duminică \ 13:6:2021 \ 19:19:16
+[' Răsarit = 05:23:40 Apus = 20:55:26 Min (°C) = 13.36 Max (°C) =24.38 Presiune = 1011 Umiditate (%) = 85 Index UV = 0.25 Viteza vântului = 6.57 Unghiul vântului = 9 Stare = nori 85-100%']
+Tandarei: 24 \ luni \ 14:6:2021 \ 19:13:43
+[' Răsarit = 05:23:35 Apus = 20:55:54 Min (°C) = 11.05 Max (°C) =20.57 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.52 Viteza vântului = 4.21 Unghiul vântului = 345 Stare = nori 85-100%']
+Tandarei: 24 \ marți \ 15:6:2021 \ 19:15:49
+[' Răsarit = 05:23:33 Apus = 20:56:21 Min (°C) = 13.28 Max (°C) =17.44 Presiune = 1007 Umiditate (%) = 90 Index UV = 0.43 Viteza vântului = 4.43 Unghiul vântului = 350 Stare = ploaie ușoară']
+Tandarei: 24 \ miercuri \ 16:6:2021 \ 19:14:55
+[' Răsarit = 05:23:33 Apus = 20:56:45 Min (°C) = 15.8 Max (°C) =20.19 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.12 Viteza vântului = 2.82 Unghiul vântului = 15 Stare = ploaie ușoară']
+Tandarei: 24 \ joi \ 17:6:2021 \ 19:13:56
+[' Răsarit = 05:23:35 Apus = 20:57:07 Min (°C) = 15.93 Max (°C) =26.16 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.38 Viteza vântului = 4.7 Unghiul vântului = 8 Stare = nori 85-100%']
+Tandarei: 24 \ vineri \ 18:6:2021 \ 19:14:36
+[' Răsarit = 05:23:40 Apus = 20:57:27 Min (°C) = 17.86 Max (°C) =22.04 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.32 Viteza vântului = 4.06 Unghiul vântului = 352 Stare = nori 85-100%']
+Tandarei: 24 \ sâmbătă \ 19:6:2021 \ 19:13:42
+[' Răsarit = 05:23:47 Apus = 20:57:45 Min (°C) = 16.89 Max (°C) =22.75 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.08 Viteza vântului = 5.66 Unghiul vântului = 60 Stare = nori 85-100%']
+Tandarei: 24 \ duminică \ 20:6:2021 \ 19:14:41
+[' Răsarit = 05:23:55 Apus = 20:58:00 Min (°C) = 15.52 Max (°C) =23.47 Presiune = 1010 Umiditate (%) = 75 Index UV = 0.62 Viteza vântului = 3.32 Unghiul vântului = 323 Stare = nori 50-85%']
+Tandarei: 25 \ luni \ 21:6:2021 \ 19:15:26
+[' Răsarit = 05:24:06 Apus = 20:58:14 Min (°C) = 16.52 Max (°C) =26.58 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.54 Viteza vântului = 0.97 Unghiul vântului = 355 Stare = nori 85-100%']
+Tandarei: 25 \ marți \ 22:6:2021 \ 19:14:51
+[' Răsarit = 05:24:20 Apus = 20:58:25 Min (°C) = 18.52 Max (°C) =28.42 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.63 Viteza vântului = 1.77 Unghiul vântului = 288 Stare = nori 50-85%']
+Tandarei: 25 \ miercuri \ 23:6:2021 \ 19:14:06
+[' Răsarit = 05:24:35 Apus = 20:58:34 Min (°C) = 19.51 Max (°C) =31.16 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.64 Viteza vântului = 0.41 Unghiul vântului = 29 Stare = nori 50-85%']
+Tandarei: 25 \ joi \ 24:6:2021 \ 19:14:48
+[' Răsarit = 05:24:52 Apus = 20:58:40 Min (°C) = 19.51 Max (°C) =31.3 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.64 Viteza vântului = 4.81 Unghiul vântului = 289 Stare = nori 10-25%']
+Tandarei: 25 \ vineri \ 25:6:2021 \ 19:14:10
+[' Răsarit = 05:25:12 Apus = 20:58:45 Min (°C) = 21.96 Max (°C) =32.4 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.64 Viteza vântului = 2.96 Unghiul vântului = 7 Stare = cer senin']
+Tandarei: 25 \ sâmbătă \ 26:6:2021 \ 19:13:43
+[' Răsarit = 05:25:34 Apus = 20:58:47 Min (°C) = 21.71 Max (°C) =31.67 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.65 Viteza vântului = 1.57 Unghiul vântului = 329 Stare = cer senin']
+Tandarei: 25 \ duminică \ 27:6:2021 \ 19:13:40
+[' Răsarit = 05:25:57 Apus = 20:58:47 Min (°C) = 19.8 Max (°C) =28.68 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.11 Viteza vântului = 2.8 Unghiul vântului = 0 Stare = cer senin']
+Tandarei: 26 \ luni \ 28:6:2021 \ 19:15:42
+[' Răsarit = 05:26:23 Apus = 20:58:44 Min (°C) = 19.01 Max (°C) =29.15 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.28 Viteza vântului = 1.59 Unghiul vântului = 278 Stare = cer senin']
+Tandarei: 26 \ marți \ 29:6:2021 \ 19:15:18
+[' Răsarit = 05:26:50 Apus = 20:58:39 Min (°C) = 19.77 Max (°C) =30.77 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.66 Viteza vântului = 1.71 Unghiul vântului = 246 Stare = cer senin']
+Tandarei: 26 \ miercuri \ 30:6:2021 \ 19:14:21
+[' Răsarit = 05:27:20 Apus = 20:58:32 Min (°C) = 20.79 Max (°C) =32.75 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.64 Viteza vântului = 6 Unghiul vântului = 169 Stare = cer senin']
+Tandarei: 26 \ joi \ 01:7:2021 \ 19:15:22
+[' Răsarit = 05:27:51 Apus = 20:58:23 Min (°C) = 20.33 Max (°C) =31.71 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.63 Viteza vântului = 2 Unghiul vântului = 225 Stare = cer senin']
+Tandarei: 26 \ vineri \ 02:7:2021 \ 19:13:47
+[' Răsarit = 05:28:25 Apus = 20:58:11 Min (°C) = 19.51 Max (°C) =26.66 Presiune = 1008 Umiditate (%) = 62 Index UV = 0.25 Viteza vântului = 3.13 Unghiul vântului = 328 Stare = nori 50-85%']
+Tandarei: 26 \ sâmbătă \ 03:7:2021 \ 19:14:02
+[' Răsarit = 05:29:00 Apus = 20:57:57 Min (°C) = 17.15 Max (°C) =25.64 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.41 Viteza vântului = 3.2 Unghiul vântului = 300 Stare = ploaie ușoară']
+Tandarei: 26 \ duminică \ 04:7:2021 \ 19:13:44
+[' Răsarit = 05:29:36 Apus = 20:57:41 Min (°C) = 16.07 Max (°C) =26.12 Presiune = 1007 Umiditate (%) = 62 Index UV = 0.39 Viteza vântului = 4.55 Unghiul vântului = 317 Stare = nori 25-50%']
+Tandarei: 27 \ luni \ 05:7:2021 \ 19:14:19
+[' Răsarit = 05:30:15 Apus = 20:57:22 Min (°C) = 17.21 Max (°C) =24.59 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.1 Viteza vântului = 4.53 Unghiul vântului = 357 Stare = nori 85-100%']
+Tandarei: 27 \ marți \ 06:7:2021 \ 19:14:40
+[' Răsarit = 05:30:55 Apus = 20:57:01 Min (°C) = 18.71 Max (°C) =26.66 Presiune = 1010 Umiditate (%) = 68 Index UV = 0.61 Viteza vântului = 5.65 Unghiul vântului = 15 Stare = nori 50-85%']
+Tandarei: 27 \ miercuri \ 07:7:2021 \ 19:13:46
+[' Răsarit = 05:31:37 Apus = 20:56:38 Min (°C) = 20.05 Max (°C) =29.23 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.6 Viteza vântului = 4.13 Unghiul vântului = 29 Stare = nori 50-85%']
+Tandarei: 27 \ joi \ 08:7:2021 \ 19:14:40
+[' Răsarit = 05:32:21 Apus = 20:56:13 Min (°C) = 19.45 Max (°C) =27.25 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.57 Viteza vântului = 3.63 Unghiul vântului = 93 Stare = nori 25-50%']
+Tandarei: 27 \ vineri \ 09:7:2021 \ 19:14:24
+[' Răsarit = 05:33:06 Apus = 20:55:45 Min (°C) = 19.28 Max (°C) =30.6 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.4 Viteza vântului = 4.47 Unghiul vântului = 123 Stare = nori 10-25%']
+Tandarei: 27 \ sâmbătă \ 10:7:2021 \ 19:13:38
+[' Răsarit = 05:33:52 Apus = 20:55:15 Min (°C) = 17.47 Max (°C) =30.09 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.59 Viteza vântului = 3.51 Unghiul vântului = 10 Stare = cer senin']
+Tandarei: 27 \ duminică \ 11:7:2021 \ 19:13:54
+[' Răsarit = 05:34:41 Apus = 20:54:43 Min (°C) = 19.36 Max (°C) =31.08 Presiune = 1013 Umiditate (%) = 67 Index UV = 0.4 Viteza vântului = 3.89 Unghiul vântului = 10 Stare = nori 25-50%']
+Tandarei: 28 \ luni \ 12:7:2021 \ 19:14:36
+[' Răsarit = 05:35:30 Apus = 20:54:09 Min (°C) = 18.79 Max (°C) =32.27 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.49 Viteza vântului = 0.17 Unghiul vântului = 306 Stare = nori 10-25%']
+Tandarei: 28 \ marți \ 13:7:2021 \ 19:14:36
+[' Răsarit = 05:36:21 Apus = 20:53:32 Min (°C) = 19.88 Max (°C) =31 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.6 Viteza vântului = 3.19 Unghiul vântului = 65 Stare = cer senin']
+Tandarei: 28 \ miercuri \ 14:7:2021 \ 19:13:59
+[' Răsarit = 05:37:13 Apus = 20:52:54 Min (°C) = 20.03 Max (°C) =32.22 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.6 Viteza vântului = 4.35 Unghiul vântului = 129 Stare = cer senin']
+Tandarei: 28 \ joi \ 15:7:2021 \ 19:14:18
+[' Răsarit = 05:38:06 Apus = 20:52:13 Min (°C) = 20.15 Max (°C) =32.26 Presiune = 1011 Umiditate (%) = 41 Index UV = 0.61 Viteza vântului = 3.71 Unghiul vântului = 126 Stare = cer senin']
+Tandarei: 28 \ vineri \ 16:7:2021 \ 19:13:57
+[' Răsarit = 05:39:01 Apus = 20:51:30 Min (°C) = 19.17 Max (°C) =32.9 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.58 Viteza vântului = 4.04 Unghiul vântului = 110 Stare = cer senin']
+Tandarei: 28 \ sâmbătă \ 17:7:2021 \ 19:14:21
+[' Răsarit = 05:39:57 Apus = 20:50:45 Min (°C) = 20.14 Max (°C) =34.35 Presiune = 1007 Umiditate (%) = 45 Index UV = 0.31 Viteza vântului = 5.08 Unghiul vântului = 117 Stare = cer senin']
+Tandarei: 28 \ duminică \ 18:7:2021 \ 19:14:41
+[' Răsarit = 05:40:54 Apus = 20:49:58 Min (°C) = 21.04 Max (°C) =34.49 Presiune = 1006 Umiditate (%) = 43 Index UV = 0.54 Viteza vântului = 5.27 Unghiul vântului = 111 Stare = cer senin']
+Tandarei: 29 \ luni \ 19:7:2021 \ 19:14:16
+[' Răsarit = 05:41:52 Apus = 20:49:09 Min (°C) = 21.69 Max (°C) =34.71 Presiune = 1006 Umiditate (%) = 45 Index UV = 0.48 Viteza vântului = 4.95 Unghiul vântului = 141 Stare = nori 25-50%']
+Tandarei: 29 \ marți \ 20:7:2021 \ 19:14:01
+[' Răsarit = 05:42:51 Apus = 20:48:18 Min (°C) = 19.03 Max (°C) =30.95 Presiune = 1007 Umiditate (%) = 55 Index UV = 0.51 Viteza vântului = 5.11 Unghiul vântului = 247 Stare = nori 10-25%']
+Tandarei: 29 \ miercuri \ 21:7:2021 \ 19:13:41
+[' Răsarit = 05:43:51 Apus = 20:47:25 Min (°C) = 19.23 Max (°C) =27.17 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.47 Viteza vântului = 7.39 Unghiul vântului = 351 Stare = nori 50-85%']
+Tandarei: 29 \ joi \ 22:7:2021 \ 19:13:33
+[' Răsarit = 05:44:52 Apus = 20:46:30 Min (°C) = 18.05 Max (°C) =27.37 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.21 Viteza vântului = 5.64 Unghiul vântului = 18 Stare = nori 25-50%']
+Tandarei: 29 \ vineri \ 23:7:2021 \ 19:13:54
+[' Răsarit = 05:45:53 Apus = 20:45:33 Min (°C) = 16.15 Max (°C) =27.66 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.42 Viteza vântului = 3.26 Unghiul vântului = 59 Stare = nori 25-50%']
+Tandarei: 29 \ sâmbătă \ 24:7:2021 \ 19:20:55
+[' Răsarit = 05:46:56 Apus = 20:44:34 Min (°C) = 16.57 Max (°C) =28.19 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.47 Viteza vântului = 2.7 Unghiul vântului = 33 Stare = cer senin']
+Tandarei: 29 \ duminică \ 25:7:2021 \ 19:14:18
+[' Răsarit = 05:47:59 Apus = 20:43:34 Min (°C) = 16.91 Max (°C) =29.91 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.46 Viteza vântului = 1.53 Unghiul vântului = 94 Stare = cer senin']
+Tandarei: 30 \ luni \ 26:7:2021 \ 19:14:15
+[' Răsarit = 05:49:03 Apus = 20:42:31 Min (°C) = 17.19 Max (°C) =31.54 Presiune = 1017 Umiditate (%) = 32 Index UV = 0.46 Viteza vântului = 1.47 Unghiul vântului = 304 Stare = cer senin']
+Tandarei: 30 \ marți \ 27:7:2021 \ 19:15:31
+[' Răsarit = 05:50:08 Apus = 20:41:27 Min (°C) = 19.65 Max (°C) =33.99 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.46 Viteza vântului = 0.94 Unghiul vântului = 194 Stare = cer senin']
+Tandarei: 30 \ miercuri \ 28:7:2021 \ 19:16:42
+[' Răsarit = 05:51:14 Apus = 20:40:21 Min (°C) = 21.82 Max (°C) =36.21 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.38 Viteza vântului = 2.77 Unghiul vântului = 105 Stare = cer senin']
+Tandarei: 30 \ joi \ 29:7:2021 \ 19:15:34
+[' Răsarit = 05:52:20 Apus = 20:39:13 Min (°C) = 21.94 Max (°C) =37.1 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.14 Viteza vântului = 5.37 Unghiul vântului = 3 Stare = nori 25-50%']
+Tandarei: 30 \ vineri \ 30:7:2021 \ 19:13:47
+[' Răsarit = 05:53:26 Apus = 20:38:03 Min (°C) = 21.92 Max (°C) =35.61 Presiune = 1008 Umiditate (%) = 37 Index UV = 0.44 Viteza vântului = 3.66 Unghiul vântului = 94 Stare = cer senin']
+Tandarei: 30 \ sâmbătă \ 31:7:2021 \ 19:13:36
+[' Răsarit = 05:54:33 Apus = 20:36:52 Min (°C) = 21.33 Max (°C) =35.97 Presiune = 1008 Umiditate (%) = 42 Index UV = 0.44 Viteza vântului = 7.19 Unghiul vântului = 111 Stare = cer senin']
+Tandarei: 30 \ duminică \ 01:8:2021 \ 19:14:03
+[' Răsarit = 05:55:41 Apus = 20:35:39 Min (°C) = 21.16 Max (°C) =39.49 Presiune = 1008 Umiditate (%) = 34 Index UV = 0.44 Viteza vântului = 3.99 Unghiul vântului = 114 Stare = cer senin']
+Tandarei: 31 \ luni \ 02:8:2021 \ 19:13:28
+[' Răsarit = 05:56:49 Apus = 20:34:25 Min (°C) = 22.84 Max (°C) =41.16 Presiune = 1005 Umiditate (%) = 19 Index UV = 0.42 Viteza vântului = 4.24 Unghiul vântului = 281 Stare = cer senin']
+Tandarei: 31 \ marți \ 03:8:2021 \ 19:13:55
+[' Răsarit = 05:57:57 Apus = 20:33:09 Min (°C) = 21.75 Max (°C) =33.38 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.1 Viteza vântului = 5.71 Unghiul vântului = 27 Stare = nori 25-50%']
+Tandarei: 31 \ miercuri \ 04:8:2021 \ 19:13:36
+[' Răsarit = 05:59:06 Apus = 20:31:51 Min (°C) = 20.46 Max (°C) =33.64 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.32 Viteza vântului = 5.67 Unghiul vântului = 119 Stare = nori 50-85%']
+Tandarei: 31 \ joi \ 05:8:2021 \ 19:11:46
+[' Răsarit = 06:00:15 Apus = 20:30:32 Min (°C) = 19.89 Max (°C) =36.37 Presiune = 1004 Umiditate (%) = 42 Index UV = 0.36 Viteza vântului = 9.51 Unghiul vântului = 137 Stare = nori 25-50%']
+Tandarei: 31 \ vineri \ 06:8:2021 \ 19:13:58
+[' Răsarit = 06:01:25 Apus = 20:29:11 Min (°C) = 23.56 Max (°C) =30.5 Presiune = 1002 Umiditate (%) = 38 Index UV = 0.33 Viteza vântului = 2.13 Unghiul vântului = 30 Stare = nori 85-100%']
+Tandarei: 31 \ sâmbătă \ 07:8:2021 \ 19:13:29
+[' Răsarit = 06:02:35 Apus = 20:27:49 Min (°C) = 19.77 Max (°C) =29.43 Presiune = 1011 Umiditate (%) = 28 Index UV = 0.37 Viteza vântului = 4.52 Unghiul vântului = 51 Stare = cer senin']
+Tandarei: 31 \ duminică \ 08:8:2021 \ 19:13:34
+[' Răsarit = 06:03:45 Apus = 20:26:25 Min (°C) = 17.73 Max (°C) =31.47 Presiune = 1014 Umiditate (%) = 29 Index UV = 0.36 Viteza vântului = 2.07 Unghiul vântului = 51 Stare = cer senin']
+Tandarei: 32 \ luni \ 09:8:2021 \ 19:14:37
+[' Răsarit = 06:04:55 Apus = 20:25:00 Min (°C) = 19.33 Max (°C) =33.77 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.35 Viteza vântului = 2.87 Unghiul vântului = 56 Stare = nori 10-25%']
+Tandarei: 32 \ marți \ 10:8:2021 \ 19:14:35
+[' Răsarit = 06:06:05 Apus = 20:23:34 Min (°C) = 21.63 Max (°C) =33.87 Presiune = 1013 Umiditate (%) = 32 Index UV = 0.32 Viteza vântului = 3.32 Unghiul vântului = 16 Stare = nori 10-25%']
+Tandarei: 32 \ miercuri \ 11:8:2021 \ 19:11:26
+[' Răsarit = 06:07:16 Apus = 20:22:06 Min (°C) = 19.85 Max (°C) =33.49 Presiune = 1012 Umiditate (%) = 24 Index UV = 0.27 Viteza vântului = 5.2 Unghiul vântului = 50 Stare = cer senin']
+Tandarei: 32 \ joi \ 12:8:2021 \ 19:12:47
+[' Răsarit = 06:08:26 Apus = 20:20:38 Min (°C) = 20.49 Max (°C) =32.11 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.23 Viteza vântului = 4.68 Unghiul vântului = 42 Stare = nori 25-50%']
+Tandarei: 32 \ vineri \ 13:8:2021 \ 19:11:34
+[' Răsarit = 06:09:37 Apus = 20:19:07 Min (°C) = 19.66 Max (°C) =29.82 Presiune = 1021 Umiditate (%) = 30 Index UV = 0.32 Viteza vântului = 4.51 Unghiul vântului = 52 Stare = cer senin']
+Tandarei: 32 \ sâmbătă \ 14:8:2021 \ 19:12:57
+[' Răsarit = 06:10:48 Apus = 20:17:36 Min (°C) = 16.69 Max (°C) =30.35 Presiune = 1019 Umiditate (%) = 27 Index UV = 0.3 Viteza vântului = 3.83 Unghiul vântului = 61 Stare = cer senin']
+Tandarei: 32 \ duminică \ 15:8:2021 \ 19:11:53
+[' Răsarit = 06:11:59 Apus = 20:16:03 Min (°C) = 16.72 Max (°C) =32.93 Presiune = 1014 Umiditate (%) = 22 Index UV = 0.29 Viteza vântului = 2.68 Unghiul vântului = 100 Stare = cer senin']
+Tandarei: 33 \ luni \ 16:8:2021 \ 19:11:33
+[' Răsarit = 06:13:10 Apus = 20:14:30 Min (°C) = 18.82 Max (°C) =34.39 Presiune = 1012 Umiditate (%) = 22 Index UV = 0.29 Viteza vântului = 7.44 Unghiul vântului = 131 Stare = cer senin']
+Tandarei: 33 \ marți \ 17:8:2021 \ 19:12:01
+[' Răsarit = 06:14:21 Apus = 20:12:55 Min (°C) = 17.95 Max (°C) =35.72 Presiune = 1008 Umiditate (%) = 23 Index UV = 0.28 Viteza vântului = 7.63 Unghiul vântului = 130 Stare = cer senin']
+Tandarei: 33 \ miercuri \ 18:8:2021 \ 19:11:49
+[' Răsarit = 06:15:32 Apus = 20:11:19 Min (°C) = 17.15 Max (°C) =31.93 Presiune = 1008 Umiditate (%) = 31 Index UV = 0.26 Viteza vântului = 3.99 Unghiul vântului = 39 Stare = nori 25-50%']
+Tandarei: 33 \ joi \ 19:8:2021 \ 19:11:33
+[' Răsarit = 06:16:42 Apus = 20:09:41 Min (°C) = 16.86 Max (°C) =26.86 Presiune = 1013 Umiditate (%) = 32 Index UV = 0.24 Viteza vântului = 5 Unghiul vântului = 16 Stare = nori 25-50%']
+Tandarei: 33 \ vineri \ 20:8:2021 \ 19:11:42
+[' Răsarit = 06:17:53 Apus = 20:08:03 Min (°C) = 15.48 Max (°C) =28.7 Presiune = 1014 Umiditate (%) = 28 Index UV = 0.24 Viteza vântului = 2.87 Unghiul vântului = 38 Stare = cer senin']
+Tandarei: 33 \ sâmbătă \ 21:8:2021 \ 19:12:49
+[' Răsarit = 06:19:04 Apus = 20:06:24 Min (°C) = 16.97 Max (°C) =29.95 Presiune = 1015 Umiditate (%) = 30 Index UV = 0.21 Viteza vântului = 2.57 Unghiul vântului = 24 Stare = nori 25-50%']
+Tandarei: 33 \ duminică \ 22:8:2021 \ 19:11:52
+[' Răsarit = 06:20:15 Apus = 20:04:44 Min (°C) = 18.38 Max (°C) =30.95 Presiune = 1016 Umiditate (%) = 30 Index UV = 0.22 Viteza vântului = 4.24 Unghiul vântului = 48 Stare = nori 25-50%']
+Tandarei: 34 \ luni \ 23:8:2021 \ 19:11:41
+[' Răsarit = 06:21:26 Apus = 20:03:03 Min (°C) = 18.76 Max (°C) =30.95 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.21 Viteza vântului = 6.37 Unghiul vântului = 127 Stare = nori 50-85%']
+Tandarei: 34 \ marți \ 24:8:2021 \ 19:11:40
+[' Răsarit = 06:22:37 Apus = 20:01:21 Min (°C) = 17.72 Max (°C) =31.6 Presiune = 1012 Umiditate (%) = 27 Index UV = 0.21 Viteza vântului = 5.98 Unghiul vântului = 120 Stare = cer senin']
+Tandarei: 34 \ miercuri \ 25:8:2021 \ 19:11:42
+[' Răsarit = 06:23:47 Apus = 19:59:38 Min (°C) = 17.71 Max (°C) =31.58 Presiune = 1009 Umiditate (%) = 34 Index UV = 0.2 Viteza vântului = 7.64 Unghiul vântului = 128 Stare = cer senin']
+Tandarei: 34 \ joi \ 26:8:2021 \ 19:12:50
+[' Răsarit = 06:24:58 Apus = 19:57:55 Min (°C) = 16.54 Max (°C) =29.57 Presiune = 1009 Umiditate (%) = 35 Index UV = 0.11 Viteza vântului = 4.25 Unghiul vântului = 223 Stare = nori 50-85%']
+Tandarei: 34 \ vineri \ 27:8:2021 \ 19:14:16
+[' Răsarit = 06:26:09 Apus = 19:56:10 Min (°C) = 16.51 Max (°C) =30.16 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.14 Viteza vântului = 5.24 Unghiul vântului = 142 Stare = nori 50-85%']
+Tandarei: 34 \ sâmbătă \ 28:8:2021 \ 19:15:24
+[' Răsarit = 06:27:19 Apus = 19:54:25 Min (°C) = 18.51 Max (°C) =30.1 Presiune = 1011 Umiditate (%) = 63 Index UV = 0.05 Viteza vântului = 2.79 Unghiul vântului = 75 Stare = nori 50-85%']
+Tandarei: 34 \ duminică \ 29:8:2021 \ 19:14:37
+[' Răsarit = 06:28:30 Apus = 19:52:39 Min (°C) = 18.49 Max (°C) =30.49 Presiune = 1005 Umiditate (%) = 46 Index UV = 0.18 Viteza vântului = 3.02 Unghiul vântului = 5 Stare = nori 10-25%']
+Tandarei: 35 \ luni \ 30:8:2021 \ 19:14:31
+[' Răsarit = 06:29:40 Apus = 19:50:52 Min (°C) = 19.35 Max (°C) =28.74 Presiune = 1010 Umiditate (%) = 27 Index UV = 0.16 Viteza vântului = 5.92 Unghiul vântului = 258 Stare = cer senin']
+Tandarei: 35 \ marți \ 31:8:2021 \ 19:14:21
+[' Răsarit = 06:30:50 Apus = 19:49:05 Min (°C) = 15.16 Max (°C) =28.57 Presiune = 1012 Umiditate (%) = 27 Index UV = 0.16 Viteza vântului = 5.3 Unghiul vântului = 273 Stare = cer senin']
+Tandarei: 35 \ miercuri \ 01:9:2021 \ 19:13:54
+[' Răsarit = 06:32:00 Apus = 19:47:17 Min (°C) = 15.54 Max (°C) =27.77 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.09 Viteza vântului = 6.81 Unghiul vântului = 354 Stare = nori 50-85%']
+Tandarei: 35 \ joi \ 02:9:2021 \ 19:17:43
+[' Răsarit = 06:33:10 Apus = 19:45:28 Min (°C) = 15.53 Max (°C) =21.45 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.07 Viteza vântului = 6.05 Unghiul vântului = 18 Stare = nori 85-100%']
+Tandarei: 35 \ vineri \ 03:9:2021 \ 19:13:46
+[' Răsarit = 06:34:20 Apus = 19:43:39 Min (°C) = 12.01 Max (°C) =23.67 Presiune = 1018 Umiditate (%) = 33 Index UV = 0.14 Viteza vântului = 2.7 Unghiul vântului = 256 Stare = nori 10-25%']
+Tandarei: 35 \ sâmbătă \ 04:9:2021 \ 19:13:11
+[' Răsarit = 06:35:30 Apus = 19:41:49 Min (°C) = 12.72 Max (°C) =26.45 Presiune = 1014 Umiditate (%) = 28 Index UV = 0.12 Viteza vântului = 1.97 Unghiul vântului = 31 Stare = nori 50-85%']
+Tandarei: 35 \ duminică \ 05:9:2021 \ 19:14:19
+[' Răsarit = 06:36:40 Apus = 19:39:58 Min (°C) = 13.72 Max (°C) =26.22 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.08 Viteza vântului = 5.48 Unghiul vântului = 33 Stare = nori 85-100%']
+Tandarei: 36 \ luni \ 06:9:2021 \ 19:15:07
+[' Răsarit = 06:37:50 Apus = 19:38:07 Min (°C) = 10.74 Max (°C) =23.75 Presiune = 1023 Umiditate (%) = 25 Index UV = 0.1 Viteza vântului = 3.48 Unghiul vântului = 51 Stare = cer senin']
+Tandarei: 36 \ marți \ 07:9:2021 \ 19:15:05
+[' Răsarit = 06:39:00 Apus = 19:36:16 Min (°C) = 10.66 Max (°C) =24.24 Presiune = 1025 Umiditate (%) = 40 Index UV = 0.1 Viteza vântului = 6.74 Unghiul vântului = 119 Stare = cer senin']
+Tandarei: 36 \ miercuri \ 08:9:2021 \ 19:14:38
+[' Răsarit = 06:40:09 Apus = 19:34:24 Min (°C) = 9.76 Max (°C) =25.08 Presiune = 1023 Umiditate (%) = 38 Index UV = 0.09 Viteza vântului = 6.27 Unghiul vântului = 115 Stare = nori 50-85%']
+Tandarei: 36 \ joi \ 09:9:2021 \ 19:15:24
+[' Răsarit = 06:41:19 Apus = 19:32:32 Min (°C) = 11.59 Max (°C) =26.55 Presiune = 1019 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 5.96 Unghiul vântului = 116 Stare = cer senin']
+Tandarei: 36 \ vineri \ 10:9:2021 \ 19:16:24
+[' Răsarit = 06:42:29 Apus = 19:30:40 Min (°C) = 11.57 Max (°C) =26.2 Presiune = 1016 Umiditate (%) = 20 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 26 Stare = nori 85-100%']
+Tandarei: 36 \ sâmbătă \ 11:9:2021 \ 19:14:02
+[' Răsarit = 06:43:38 Apus = 19:28:47 Min (°C) = 14.43 Max (°C) =29.04 Presiune = 1014 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 46 Stare = nori 50-85%']
+Tandarei: 36 \ duminică \ 12:9:2021 \ 19:14:08
+[' Răsarit = 06:44:48 Apus = 19:26:54 Min (°C) = 15.43 Max (°C) =29.99 Presiune = 1012 Umiditate (%) = 27 Index UV = 0 Viteza vântului = 3.99 Unghiul vântului = 54 Stare = nori 10-25%']
+Tandarei: 37 \ luni \ 13:9:2021 \ 19:14:34
+[' Răsarit = 06:45:57 Apus = 19:25:00 Min (°C) = 14.9 Max (°C) =28.98 Presiune = 1012 Umiditate (%) = 20 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 348 Stare = nori 85-100%']
+Tandarei: 37 \ marți \ 14:9:2021 \ 19:15:48
+[' Răsarit = 06:47:07 Apus = 19:23:07 Min (°C) = 15.58 Max (°C) =29.61 Presiune = 1014 Umiditate (%) = 29 Index UV = 0 Viteza vântului = 3.3 Unghiul vântului = 3 Stare = nori 25-50%']
+Tandarei: 37 \ joi \ 16:9:2021 \ 19:14:21
+[' Răsarit = 06:49:26 Apus = 19:19:19 Min (°C) = 16.51 Max (°C) =30.28 Presiune = 1015 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 5.94 Unghiul vântului = 130 Stare = nori 10-25%']
+Tandarei: 37 \ vineri \ 17:9:2021 \ 19:15:59
+[' Răsarit = 06:50:36 Apus = 19:17:25 Min (°C) = 17.1 Max (°C) =32.79 Presiune = 1008 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 3.74 Unghiul vântului = 178 Stare = nori 85-100%']
+Tandarei: 37 \ sâmbătă \ 18:9:2021 \ 19:16:18
+[' Răsarit = 06:51:46 Apus = 19:15:31 Min (°C) = 17.81 Max (°C) =26.59 Presiune = 1008 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 31 Stare = nori 50-85%']
+Tandarei: 37 \ duminică \ 19:9:2021 \ 19:14:54
+[' Răsarit = 06:52:56 Apus = 19:13:36 Min (°C) = 16.32 Max (°C) =26.33 Presiune = 1009 Umiditate (%) = 27 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 274 Stare = cer senin']
+Tandarei: 38 \ luni \ 20:9:2021 \ 19:15:02
+[' Răsarit = 06:54:06 Apus = 19:11:42 Min (°C) = 12.89 Max (°C) =25.45 Presiune = 1010 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 5.86 Unghiul vântului = 100 Stare = ploaie ușoară']
+Tandarei: 38 \ marți \ 21:9:2021 \ 19:14:16
+[' Răsarit = 06:55:16 Apus = 19:09:48 Min (°C) = 11.03 Max (°C) =17.44 Presiune = 1021 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 4.04 Unghiul vântului = 248 Stare = nori 85-100%']
+Tandarei: 38 \ miercuri \ 22:9:2021 \ 19:14:51
+[' Răsarit = 06:56:26 Apus = 19:07:54 Min (°C) = 9.31 Max (°C) =14.54 Presiune = 1017 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 230 Stare = nori 85-100%']
+Tandarei: 38 \ joi \ 23:9:2021 \ 19:13:41
+[' Răsarit = 06:57:36 Apus = 19:05:59 Min (°C) = 10.29 Max (°C) =14.43 Presiune = 1019 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 4 Stare = nori 85-100%']
+Tandarei: 39 \ luni \ 27:9:2021 \ 19:13:39
+[' Răsarit = 07:02:20 Apus = 18:58:24 Min (°C) = 14.66 Max (°C) =24.98 Presiune = 1018 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 4.3 Unghiul vântului = 84 Stare = cer senin']
+Tandarei: 39 \ marți \ 28:9:2021 \ 19:15:40
+[' Răsarit = 07:03:31 Apus = 18:56:31 Min (°C) = 12.9 Max (°C) =17.62 Presiune = 1022 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.71 Unghiul vântului = 355 Stare = nori 85-100%']
+Tandarei: 39 \ miercuri \ 29:9:2021 \ 19:16:24
+[' Răsarit = 07:04:42 Apus = 18:54:38 Min (°C) = 13.58 Max (°C) =19.95 Presiune = 1025 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 70 Stare = nori 85-100%']
+Tandarei: 39 \ joi \ 30:9:2021 \ 19:14:16
+[' Răsarit = 07:05:54 Apus = 18:52:45 Min (°C) = 9.53 Max (°C) =18.72 Presiune = 1027 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 108 Stare = nori 85-100%']
+Tandarei: 39 \ vineri \ 01:10:2021 \ 19:15:18
+[' Răsarit = 07:07:06 Apus = 18:50:53 Min (°C) = 7.62 Max (°C) =18.78 Presiune = 1027 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 5.52 Unghiul vântului = 80 Stare = nori 10-25%']
+Tandarei: 39 \ sâmbătă \ 02:10:2021 \ 19:14:11
+[' Răsarit = 07:08:18 Apus = 18:49:01 Min (°C) = 7.44 Max (°C) =18.54 Presiune = 1024 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 3.07 Unghiul vântului = 50 Stare = cer senin']
+Tandarei: 39 \ duminică \ 03:10:2021 \ 19:13:46
+[' Răsarit = 07:09:31 Apus = 18:47:09 Min (°C) = 7.66 Max (°C) =19.57 Presiune = 1024 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 71 Stare = nori 10-25%']
+Tandarei: 40 \ luni \ 04:10:2021 \ 19:18:22
+[' Răsarit = 07:10:44 Apus = 18:45:18 Min (°C) = 8.96 Max (°C) =19.49 Presiune = 1024 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 106 Stare = nori 85-100%']
+Tandarei: 40 \ marți \ 05:10:2021 \ 19:15:59
+[' Răsarit = 07:11:57 Apus = 18:43:27 Min (°C) = 8.56 Max (°C) =19.69 Presiune = 1027 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 5.11 Unghiul vântului = 114 Stare = nori 10-25%']
+Tandarei: 40 \ miercuri \ 06:10:2021 \ 19:13:56
+[' Răsarit = 07:13:10 Apus = 18:41:37 Min (°C) = 7.97 Max (°C) =17.14 Presiune = 1026 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 6.32 Unghiul vântului = 87 Stare = nori 85-100%']
+Tandarei: 40 \ joi \ 07:10:2021 \ 19:16:11
+[' Răsarit = 07:14:24 Apus = 18:39:48 Min (°C) = 8.2 Max (°C) =14.17 Presiune = 1027 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 6.85 Unghiul vântului = 57 Stare = nori 85-100%']
+Tandarei: 40 \ vineri \ 08:10:2021 \ 19:15:33
+[' Răsarit = 07:15:38 Apus = 18:37:59 Min (°C) = 9.64 Max (°C) =13.48 Presiune = 1026 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 6.71 Unghiul vântului = 61 Stare = nori 85-100%']
+Tandarei: 40 \ sâmbătă \ 09:10:2021 \ 19:13:38
+[' Răsarit = 07:16:52 Apus = 18:36:10 Min (°C) = 7.44 Max (°C) =11.77 Presiune = 1027 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 4.55 Unghiul vântului = 34 Stare = nori 85-100%']
+Tandarei: 40 \ duminică \ 10:10:2021 \ 19:14:55
+[' Răsarit = 07:18:07 Apus = 18:34:23 Min (°C) = 4.52 Max (°C) =16.01 Presiune = 1025 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.39 Unghiul vântului = 48 Stare = nori 50-85%']
+Tandarei: 41 \ luni \ 11:10:2021 \ 19:14:37
+[' Răsarit = 07:19:22 Apus = 18:32:36 Min (°C) = 7 Max (°C) =16.69 Presiune = 1018 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 129 Stare = nori 85-100%']
+Tandarei: 41 \ marți \ 12:10:2021 \ 19:14:42
+[' Răsarit = 07:20:38 Apus = 18:30:49 Min (°C) = 10.54 Max (°C) =12.92 Presiune = 1010 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.52 Unghiul vântului = 360 Stare = nori 85-100%']
+Tandarei: 41 \ miercuri \ 13:10:2021 \ 19:14:49
+[' Răsarit = 07:21:53 Apus = 18:29:04 Min (°C) = 9.23 Max (°C) =14.14 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.37 Unghiul vântului = 261 Stare = nori 50-85%']
+Tandarei: 41 \ joi \ 14:10:2021 \ 19:14:22
+[' Răsarit = 07:23:09 Apus = 18:27:19 Min (°C) = 9.17 Max (°C) =12.18 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 5.44 Unghiul vântului = 19 Stare = ploaie ușoară']
+Tandarei: 41 \ vineri \ 15:10:2021 \ 19:13:55
+[' Răsarit = 07:24:26 Apus = 18:25:35 Min (°C) = 8.4 Max (°C) =12.27 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 48 Stare = nori 85-100%']
+Tandarei: 41 \ sâmbătă \ 16:10:2021 \ 19:14:04
+[' Răsarit = 07:25:43 Apus = 18:23:52 Min (°C) = 9.79 Max (°C) =14.68 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 7.43 Unghiul vântului = 20 Stare = ploaie ușoară']
+Tandarei: 41 \ duminică \ 17:10:2021 \ 19:13:17
+[' Răsarit = 07:27:00 Apus = 18:22:10 Min (°C) = 9.86 Max (°C) =11.72 Presiune = 1021 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 287 Stare = nori 85-100%']
+Tandarei: 42 \ luni \ 18:10:2021 \ 19:13:14
+[' Răsarit = 07:28:18 Apus = 18:20:29 Min (°C) = 9.43 Max (°C) =16.28 Presiune = 1023 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 265 Stare = nori 85-100%']
+Tandarei: 42 \ marți \ 19:10:2021 \ 19:14:53
+[' Răsarit = 07:29:36 Apus = 18:18:49 Min (°C) = 8.43 Max (°C) =15.7 Presiune = 1029 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 52 Stare = nori 85-100%']
+Tandarei: 42 \ miercuri \ 20:10:2021 \ 19:12:40
+[' Răsarit = 07:30:54 Apus = 18:17:10 Min (°C) = 8.6 Max (°C) =17.8 Presiune = 1025 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 219 Stare = nori 10-25%']
+Tandarei: 42 \ joi \ 21:10:2021 \ 19:14:29
+[' Răsarit = 07:32:13 Apus = 18:15:31 Min (°C) = 8.83 Max (°C) =19.76 Presiune = 1015 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.55 Unghiul vântului = 215 Stare = cer senin']
+Tandarei: 42 \ vineri \ 22:10:2021 \ 19:12:05
+[' Răsarit = 07:33:32 Apus = 18:13:54 Min (°C) = 10.3 Max (°C) =21.17 Presiune = 1016 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.16 Unghiul vântului = 241 Stare = nori 85-100%']
+Tandarei: 42 \ sâmbătă \ 23:10:2021 \ 19:13:36
+[' Răsarit = 07:34:51 Apus = 18:12:19 Min (°C) = 13.56 Max (°C) =17.86 Presiune = 1020 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 27 Stare = nori 85-100%']
+Tandarei: 42 \ duminică \ 24:10:2021 \ 19:13:26
+[' Răsarit = 07:36:11 Apus = 18:10:44 Min (°C) = 8.38 Max (°C) =14.19 Presiune = 1031 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.07 Unghiul vântului = 23 Stare = nori 10-25%']
+Tandarei: 43 \ luni \ 25:10:2021 \ 19:12:49
+[' Răsarit = 07:37:31 Apus = 18:09:10 Min (°C) = 4.1 Max (°C) =11.13 Presiune = 1032 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 55 Stare = cer senin']
+Tandarei: 43 \ marți \ 26:10:2021 \ 19:12:13
+[' Răsarit = 07:38:52 Apus = 18:07:38 Min (°C) = 4.72 Max (°C) =13.62 Presiune = 1027 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 121 Stare = cer senin']
+Tandarei: 43 \ miercuri \ 27:10:2021 \ 19:14:28
+[' Răsarit = 07:40:12 Apus = 18:06:07 Min (°C) = 6.54 Max (°C) =13.85 Presiune = 1026 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 307 Stare = cer senin']
+Tandarei: 43 \ joi \ 28:10:2021 \ 19:12:30
+[' Răsarit = 07:41:33 Apus = 18:04:37 Min (°C) = 6.85 Max (°C) =15.47 Presiune = 1027 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 28 Stare = nori 10-25%']
+Tandarei: 43 \ vineri \ 29:10:2021 \ 19:12:58
+[' Răsarit = 07:42:54 Apus = 18:03:09 Min (°C) = 7.94 Max (°C) =16.49 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 118 Stare = cer senin']
+Tandarei: 43 \ sâmbătă \ 30:10:2021 \ 19:12:41
+[' Răsarit = 07:44:16 Apus = 18:01:42 Min (°C) = 8.14 Max (°C) =16.24 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 105 Stare = cer senin']
+Tandarei: 43 \ duminică \ 31:10:2021 \ 19:12:33
+[' Răsarit = 06:45:38 Apus = 17:00:16 Min (°C) = 6.92 Max (°C) =14.04 Presiune = 1021 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 171 Stare = nori 85-100%']
+Tandarei: 44 \ luni \ 01:11:2021 \ 19:12:45
+[' Răsarit = 06:46:59 Apus = 16:58:52 Min (°C) = 10.86 Max (°C) =15.67 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 126 Stare = nori 85-100%']
+Tandarei: 44 \ marți \ 02:11:2021 \ 19:13:10
+[' Răsarit = 06:48:22 Apus = 16:57:29 Min (°C) = 8.56 Max (°C) =18.21 Presiune = 1006 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.94 Unghiul vântului = 202 Stare = ploaie ușoară']
+Tandarei: 44 \ miercuri \ 03:11:2021 \ 19:12:50
+[' Răsarit = 06:49:44 Apus = 16:56:08 Min (°C) = 9.02 Max (°C) =18.15 Presiune = 1017 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 175 Stare = nori 25-50%']
+Tandarei: 44 \ joi \ 04:11:2021 \ 19:11:28
+[' Răsarit = 06:51:06 Apus = 16:54:48 Min (°C) = 11.44 Max (°C) =23.5 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 146 Stare = cer senin']
+Tandarei: 44 \ vineri \ 05:11:2021 \ 19:15:43
+[' Răsarit = 06:52:28 Apus = 16:53:30 Min (°C) = 13.81 Max (°C) =25.11 Presiune = 1016 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 200 Stare = nori 25-50%']
+Tandarei: 44 \ sâmbătă \ 06:11:2021 \ 19:14:03
+[' Răsarit = 06:53:51 Apus = 16:52:14 Min (°C) = 12.55 Max (°C) =18.09 Presiune = 1027 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 28 Stare = nori 50-85%']
+Tandarei: 44 \ duminică \ 07:11:2021 \ 19:14:03
+[' Răsarit = 06:55:13 Apus = 16:50:59 Min (°C) = 9.84 Max (°C) =17.74 Presiune = 1019 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 175 Stare = nori 85-100%']
+Tandarei: 45 \ luni \ 08:11:2021 \ 19:13:50
+[' Răsarit = 06:56:36 Apus = 16:49:46 Min (°C) = 11.79 Max (°C) =20.12 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 360 Stare = nori 85-100%']
+Tandarei: 45 \ marți \ 09:11:2021 \ 19:10:37
+[' Răsarit = 06:57:58 Apus = 16:48:34 Min (°C) = 6.16 Max (°C) =12.35 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 281 Stare = nori 85-100%']
+Tandarei: 45 \ miercuri \ 10:11:2021 \ 19:13:53
+[' Răsarit = 06:59:21 Apus = 16:47:25 Min (°C) = 2.23 Max (°C) =8.16 Presiune = 1037 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 88 Stare = cer senin']
+Tandarei: 45 \ joi \ 11:11:2021 \ 19:14:23
+[' Răsarit = 07:00:43 Apus = 16:46:17 Min (°C) = 2.52 Max (°C) =10.6 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 152 Stare = cer senin']
+Tandarei: 45 \ vineri \ 12:11:2021 \ 19:13:41
+[' Răsarit = 07:02:05 Apus = 16:45:11 Min (°C) = 4.63 Max (°C) =12.57 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 99 Stare = nori 25-50%']
+Tandarei: 45 \ sâmbătă \ 13:11:2021 \ 19:13:32
+[' Răsarit = 07:03:27 Apus = 16:44:07 Min (°C) = 5.73 Max (°C) =13.94 Presiune = 1023 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.57 Unghiul vântului = 121 Stare = nori 50-85%']
+Tandarei: 45 \ duminică \ 14:11:2021 \ 19:15:33
+[' Răsarit = 07:04:48 Apus = 16:43:05 Min (°C) = 9.99 Max (°C) =12.59 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 28 Stare = nori 85-100%']
+Tandarei: 46 \ luni \ 15:11:2021 \ 19:14:40
+[' Răsarit = 07:06:09 Apus = 16:42:05 Min (°C) = 6.63 Max (°C) =12.42 Presiune = 1030 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3.62 Unghiul vântului = 46 Stare = nori 10-25%']
+Tandarei: 46 \ marți \ 16:11:2021 \ 19:14:13
+[' Răsarit = 07:07:30 Apus = 16:41:07 Min (°C) = 4.61 Max (°C) =9.22 Presiune = 1030 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 84 Stare = nori 25-50%']
+Tandarei: 46 \ miercuri \ 17:11:2021 \ 19:14:17
+[' Răsarit = 07:08:51 Apus = 16:40:11 Min (°C) = 1.72 Max (°C) =8.37 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 350 Stare = nori 85-100%']
+Tandarei: 46 \ joi \ 18:11:2021 \ 19:12:01
+[' Răsarit = 07:10:11 Apus = 16:39:17 Min (°C) = 2.95 Max (°C) =9.52 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 342 Stare = nori 85-100%']
+Tandarei: 46 \ vineri \ 19:11:2021 \ 19:12:05
+[' Răsarit = 07:11:30 Apus = 16:38:25 Min (°C) = 4.48 Max (°C) =10.6 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.72 Unghiul vântului = 260 Stare = nori 85-100%']
+Tandarei: 46 \ sâmbătă \ 20:11:2021 \ 19:11:54
+[' Răsarit = 07:12:49 Apus = 16:37:35 Min (°C) = 6.78 Max (°C) =15.39 Presiune = 1018 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 9 Stare = cer senin']
+Tandarei: 46 \ duminică \ 21:11:2021 \ 19:11:43
+[' Răsarit = 07:14:07 Apus = 16:36:48 Min (°C) = 6.1 Max (°C) =13.93 Presiune = 1013 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.33 Unghiul vântului = 226 Stare = cer senin']
+Tandarei: 47 \ luni \ 22:11:2021 \ 19:12:03
+[' Răsarit = 07:15:25 Apus = 16:36:02 Min (°C) = 5.67 Max (°C) =12.95 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 37 Stare = nori 50-85%']
+Tandarei: 47 \ marți \ 23:11:2021 \ 19:11:54
+[' Răsarit = 07:16:42 Apus = 16:35:19 Min (°C) = 5.05 Max (°C) =8.79 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.78 Unghiul vântului = 24 Stare = nori 85-100%']
+Tandarei: 47 \ miercuri \ 24:11:2021 \ 19:14:15
+[' Răsarit = 07:17:57 Apus = 16:34:38 Min (°C) = 2.08 Max (°C) =7.43 Presiune = 1027 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 93 Stare = cer senin']
+Tandarei: 47 \ joi \ 25:11:2021 \ 19:11:40
+[' Răsarit = 07:19:13 Apus = 16:33:59 Min (°C) = 1.15 Max (°C) =9.21 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.72 Unghiul vântului = 170 Stare = cer senin']
+Tandarei: 47 \ vineri \ 26:11:2021 \ 19:11:45
+[' Răsarit = 07:20:27 Apus = 16:33:23 Min (°C) = 3.3 Max (°C) =12.89 Presiune = 1003 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 6.71 Unghiul vântului = 161 Stare = nori 85-100%']
+Tandarei: 47 \ sâmbătă \ 27:11:2021 \ 19:11:39
+[' Răsarit = 07:21:40 Apus = 16:32:49 Min (°C) = 6.57 Max (°C) =14.44 Presiune = 1005 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 211 Stare = nori 50-85%']
+Tandarei: 47 \ duminică \ 28:11:2021 \ 19:12:14
+[' Răsarit = 07:22:52 Apus = 16:32:17 Min (°C) = 9.08 Max (°C) =15.18 Presiune = 1002 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 194 Stare = nori 50-85%']
+Tandarei: 48 \ luni \ 29:11:2021 \ 19:13:04
+[' Răsarit = 07:24:03 Apus = 16:31:48 Min (°C) = 8.4 Max (°C) =14.6 Presiune = 997 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.01 Unghiul vântului = 238 Stare = nori 85-100%']
+Tandarei: 48 \ marți \ 30:11:2021 \ 19:12:14
+[' Răsarit = 07:25:13 Apus = 16:31:21 Min (°C) = 2.57 Max (°C) =6.96 Presiune = 1007 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 4.9 Unghiul vântului = 281 Stare = nori 85-100%']
+Tandarei: 48 \ miercuri \ 01:12:2021 \ 19:12:25
+[' Răsarit = 07:26:21 Apus = 16:30:57 Min (°C) = 1.65 Max (°C) =8.85 Presiune = 1011 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 222 Stare = cer senin']
+Tandarei: 48 \ joi \ 02:12:2021 \ 19:11:53
+[' Răsarit = 07:27:28 Apus = 16:30:35 Min (°C) = 3.94 Max (°C) =11.8 Presiune = 1008 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.35 Unghiul vântului = 193 Stare = nori 85-100%']
+Tandarei: 48 \ vineri \ 03:12:2021 \ 19:12:02
+[' Răsarit = 07:28:34 Apus = 16:30:15 Min (°C) = 5.25 Max (°C) =14.02 Presiune = 1010 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.42 Unghiul vântului = 355 Stare = nori 50-85%']
+Tandarei: 48 \ sâmbătă \ 04:12:2021 \ 19:12:32
+[' Răsarit = 07:29:39 Apus = 16:29:58 Min (°C) = 2.23 Max (°C) =4.48 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 319 Stare = nori 85-100%']
+Tandarei: 48 \ duminică \ 05:12:2021 \ 19:12:12
+[' Răsarit = 07:30:41 Apus = 16:29:44 Min (°C) = 3.17 Max (°C) =8.09 Presiune = 1010 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 158 Stare = nori 85-100%']
+Tandarei: 49 \ luni \ 06:12:2021 \ 19:12:03
+[' Răsarit = 07:31:43 Apus = 16:29:32 Min (°C) = 6.33 Max (°C) =14.3 Presiune = 1006 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 164 Stare = nori 85-100%']
+Tandarei: 49 \ marți \ 07:12:2021 \ 19:12:03
+[' Răsarit = 07:32:42 Apus = 16:29:23 Min (°C) = 4.39 Max (°C) =12.1 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 8.16 Unghiul vântului = 10 Stare = nori 85-100%']
+Tandarei: 49 \ miercuri \ 08:12:2021 \ 19:12:03
+[' Răsarit = 07:33:41 Apus = 16:29:16 Min (°C) = 2.58 Max (°C) =4.18 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 286 Stare = nori 85-100%']
+Tandarei: 49 \ joi \ 09:12:2021 \ 19:12:06
+[' Răsarit = 07:34:37 Apus = 16:29:12 Min (°C) = 1.74 Max (°C) =8.58 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 123 Stare = nori 25-50%']
+Tandarei: 49 \ vineri \ 10:12:2021 \ 19:14:02
+[' Răsarit = 07:35:31 Apus = 16:29:10 Min (°C) = 6.81 Max (°C) =14.86 Presiune = 1006 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 9.72 Unghiul vântului = 171 Stare = nori 85-100%']
+Tandarei: 49 \ sâmbătă \ 11:12:2021 \ 19:13:30
+[' Răsarit = 07:36:24 Apus = 16:29:11 Min (°C) = 6.73 Max (°C) =13.32 Presiune = 1012 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 7.28 Unghiul vântului = 139 Stare = ploaie ușoară']
+Tandarei: 49 \ duminică \ 12:12:2021 \ 19:13:40
+[' Răsarit = 07:37:14 Apus = 16:29:15 Min (°C) = 8.35 Max (°C) =13.94 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 156 Stare = nori 85-100%']
+Tandarei: 50 \ luni \ 13:12:2021 \ 19:13:28
+[' Răsarit = 07:38:03 Apus = 16:29:21 Min (°C) = 3.94 Max (°C) =7.12 Presiune = 1021 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 5.27 Unghiul vântului = 3 Stare = nori 85-100%']
+Tandarei: 50 \ marți \ 14:12:2021 \ 19:15:39
+[' Răsarit = 07:38:50 Apus = 16:29:29 Min (°C) = 1.97 Max (°C) =5.72 Presiune = 1024 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 5.34 Unghiul vântului = 2 Stare = nori 50-85%']
+Tandarei: 50 \ miercuri \ 15:12:2021 \ 19:13:56
+[' Răsarit = 07:39:35 Apus = 16:29:41 Min (°C) = 2.35 Max (°C) =4.53 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 8.57 Unghiul vântului = 358 Stare = nori 85-100%']
+Tandarei: 50 \ joi \ 16:12:2021 \ 19:13:16
+[' Răsarit = 07:40:17 Apus = 16:29:54 Min (°C) = 2.17 Max (°C) =3.84 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.39 Unghiul vântului = 359 Stare = nori 85-100%']
+Tandarei: 50 \ vineri \ 17:12:2021 \ 19:16:02
+[' Răsarit = 07:40:57 Apus = 16:30:11 Min (°C) = 3.48 Max (°C) =7.12 Presiune = 1020 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 6.54 Unghiul vântului = 0 Stare = nori 50-85%']
+Tandarei: 50 \ sâmbătă \ 18:12:2021 \ 19:13:02
+[' Răsarit = 07:41:36 Apus = 16:30:30 Min (°C) = 0.87 Max (°C) =4.76 Presiune = 1025 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.23 Unghiul vântului = 359 Stare = nori 25-50%']
+Tandarei: 50 \ duminică \ 19:12:2021 \ 19:13:20
+[' Răsarit = 07:42:11 Apus = 16:30:51 Min (°C) = -0.76 Max (°C) =5.42 Presiune = 1010 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 6.48 Unghiul vântului = 249 Stare = nori 50-85%']
+Tandarei: 51 \ luni \ 20:12:2021 \ 19:13:45
+[' Răsarit = 07:42:45 Apus = 16:31:15 Min (°C) = 0.6 Max (°C) =5.09 Presiune = 1013 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 278 Stare = nori 50-85%']
+Tandarei: 51 \ marți \ 21:12:2021 \ 19:15:24
+[' Răsarit = 07:43:16 Apus = 16:31:41 Min (°C) = -2.65 Max (°C) =0.46 Presiune = 1024 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 319 Stare = nori 25-50%']
+Tandarei: 51 \ miercuri \ 22:12:2021 \ 19:13:43
+[' Răsarit = 07:43:45 Apus = 16:32:10 Min (°C) = -4.46 Max (°C) =0.92 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 272 Stare = nori 50-85%']
+Tandarei: 51 \ joi \ 23:12:2021 \ 19:14:12
+[' Răsarit = 07:44:12 Apus = 16:32:41 Min (°C) = -5.3 Max (°C) =-0.85 Presiune = 1026 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 157 Stare = nori 10-25%']
+Tandarei: 51 \ vineri \ 24:12:2021 \ 19:13:56
+[' Răsarit = 07:44:36 Apus = 16:33:15 Min (°C) = -3.19 Max (°C) =4.49 Presiune = 1009 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 5.64 Unghiul vântului = 239 Stare = nori 85-100%']
+Tandarei: 51 \ sâmbătă \ 25:12:2021 \ 19:14:20
+[' Răsarit = 07:44:58 Apus = 16:33:51 Min (°C) = 4.4 Max (°C) =11.44 Presiune = 1010 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.86 Unghiul vântului = 228 Stare = nori 50-85%']
+Tandarei: 51 \ duminică \ 26:12:2021 \ 19:15:15
+[' Răsarit = 07:45:17 Apus = 16:34:29 Min (°C) = 1.72 Max (°C) =6.87 Presiune = 1016 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.92 Unghiul vântului = 22 Stare = nori 85-100%']
+Tandarei: 52 \ luni \ 27:12:2021 \ 19:13:37
+[' Răsarit = 07:45:34 Apus = 16:35:10 Min (°C) = 1.45 Max (°C) =5.13 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 3.36 Unghiul vântului = 37 Stare = nori 85-100%']
+Tandarei: 52 \ marți \ 28:12:2021 \ 19:14:21
+[' Răsarit = 07:45:48 Apus = 16:35:52 Min (°C) = 0.11 Max (°C) =2.52 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 24 Stare = nori 85-100%']
+Tandarei: 52 \ miercuri \ 29:12:2021 \ 19:13:35
+[' Răsarit = 07:46:00 Apus = 16:36:37 Min (°C) = -1.33 Max (°C) =2.75 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 66 Stare = nori 85-100%']
+Tandarei: 52 \ joi \ 30:12:2021 \ 19:14:13
+[' Răsarit = 07:46:10 Apus = 16:37:24 Min (°C) = 1.16 Max (°C) =2.55 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 308 Stare = nori 85-100%']
+Tandarei: 52 \ vineri \ 31:12:2021 \ 19:12:07
+[' Răsarit = 07:46:16 Apus = 16:38:14 Min (°C) = 1.41 Max (°C) =8.01 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 4.62 Unghiul vântului = 248 Stare = nori 85-100%']
+Tandarei: 00 \ sâmbătă \ 01:1:2022 \ 19:12:51
+[' Răsarit = 07:46:21 Apus = 16:39:05 Min (°C) = 6.4 Max (°C) =13.95 Presiune = 1018 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 338 Stare = nori 85-100%']
+Tandarei: 00 \ duminică \ 02:1:2022 \ 19:11:41
+[' Răsarit = 07:46:22 Apus = 16:39:58 Min (°C) = 6.12 Max (°C) =10.11 Presiune = 1024 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.1 Unghiul vântului = 173 Stare = nori 10-25%']
+Tandarei: 01 \ luni \ 03:1:2022 \ 19:11:28
+[' Răsarit = 07:46:21 Apus = 16:40:53 Min (°C) = 4.76 Max (°C) =10.7 Presiune = 1011 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.57 Unghiul vântului = 292 Stare = nori 85-100%']
+Tandarei: 01 \ marți \ 04:1:2022 \ 19:11:32
+[' Răsarit = 07:46:18 Apus = 16:41:50 Min (°C) = 5.9 Max (°C) =11.87 Presiune = 1011 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 197 Stare = nori 50-85%']
+Tandarei: 01 \ miercuri \ 05:1:2022 \ 19:12:38
+[' Răsarit = 07:46:12 Apus = 16:42:49 Min (°C) = 6.32 Max (°C) =13.77 Presiune = 1006 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 225 Stare = nori 50-85%']
+Tandarei: 01 \ joi \ 06:1:2022 \ 19:11:49
+[' Răsarit = 07:46:04 Apus = 16:43:50 Min (°C) = 7.1 Max (°C) =14.62 Presiune = 1010 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.99 Unghiul vântului = 255 Stare = cer senin']
+Tandarei: 01 \ vineri \ 07:1:2022 \ 19:12:58
+[' Răsarit = 07:45:53 Apus = 16:44:52 Min (°C) = 3.34 Max (°C) =6.05 Presiune = 1024 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = nori 85-100%']
+Tandarei: 01 \ sâmbătă \ 08:1:2022 \ 19:12:28
+[' Răsarit = 07:45:40 Apus = 16:45:56 Min (°C) = 1.79 Max (°C) =6.33 Presiune = 1015 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 62 Stare = nori 85-100%']
+Tandarei: 01 \ duminică \ 09:1:2022 \ 19:12:00
+[' Răsarit = 07:45:24 Apus = 16:47:02 Min (°C) = 6.37 Max (°C) =8.17 Presiune = 1006 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 334 Stare = nori 85-100%']
+Tandarei: 02 \ luni \ 10:1:2022 \ 19:12:01
+[' Răsarit = 07:45:05 Apus = 16:48:09 Min (°C) = 2.83 Max (°C) =6.9 Presiune = 1014 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 10.06 Unghiul vântului = 22 Stare = nori 85-100%']
+Tandarei: 02 \ marți \ 11:1:2022 \ 19:13:17
+[' Răsarit = 07:44:44 Apus = 16:49:18 Min (°C) = -1.54 Max (°C) =2.33 Presiune = 1025 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 9.68 Unghiul vântului = 19 Stare = nori 25-50%']
+Tandarei: 02 \ miercuri \ 12:1:2022 \ 19:12:00
+[' Răsarit = 07:44:21 Apus = 16:50:28 Min (°C) = -4.06 Max (°C) =-1.45 Presiune = 1032 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 5.79 Unghiul vântului = 14 Stare = cer senin']
+Tandarei: 02 \ joi \ 13:1:2022 \ 19:12:53
+[' Răsarit = 07:43:55 Apus = 16:51:39 Min (°C) = -6.3 Max (°C) =-0.3 Presiune = 1031 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.27 Unghiul vântului = 238 Stare = nori 25-50%']
+Tandarei: 02 \ vineri \ 14:1:2022 \ 19:12:18
+[' Răsarit = 07:43:27 Apus = 16:52:52 Min (°C) = -2.84 Max (°C) =4.99 Presiune = 1014 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 6.73 Unghiul vântului = 261 Stare = cer senin']
+Tandarei: 02 \ sâmbătă \ 15:1:2022 \ 19:12:01
+[' Răsarit = 07:42:57 Apus = 16:54:06 Min (°C) = 0.65 Max (°C) =6.67 Presiune = 1022 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 7.32 Unghiul vântului = 319 Stare = cer senin']
+Tandarei: 02 \ duminică \ 16:1:2022 \ 19:11:35
+[' Răsarit = 07:42:24 Apus = 16:55:21 Min (°C) = -1.19 Max (°C) =3.9 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 223 Stare = nori 10-25%']
+Tandarei: 03 \ luni \ 17:1:2022 \ 19:11:43
+[' Răsarit = 07:41:49 Apus = 16:56:37 Min (°C) = -0.55 Max (°C) =6.16 Presiune = 1010 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 5.1 Unghiul vântului = 253 Stare = nori 25-50%']
+Tandarei: 03 \ marți \ 18:1:2022 \ 19:11:43
+[' Răsarit = 07:41:11 Apus = 16:57:54 Min (°C) = -0.01 Max (°C) =4.86 Presiune = 1025 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 4.82 Unghiul vântului = 326 Stare = nori 50-85%']
+Tandarei: 03 \ miercuri \ 19:1:2022 \ 19:11:55
+[' Răsarit = 07:40:31 Apus = 16:59:12 Min (°C) = -1.35 Max (°C) =3.62 Presiune = 1027 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 252 Stare = nori 25-50%']
+Tandarei: 03 \ joi \ 20:1:2022 \ 19:12:05
+[' Răsarit = 07:39:49 Apus = 17:00:31 Min (°C) = -1.79 Max (°C) =6.28 Presiune = 1013 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.34 Unghiul vântului = 239 Stare = cer senin']
+Tandarei: 03 \ vineri \ 21:1:2022 \ 19:11:47
+[' Răsarit = 07:39:05 Apus = 17:01:51 Min (°C) = -0.58 Max (°C) =3.56 Presiune = 1017 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 240 Stare = nori 25-50%']
+Tandarei: 03 \ sâmbătă \ 22:1:2022 \ 19:13:32
+[' Răsarit = 07:38:19 Apus = 17:03:12 Min (°C) = -3.15 Max (°C) =2.17 Presiune = 1017 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 356 Stare = nori 25-50%']
+Tandarei: 03 \ duminică \ 23:1:2022 \ 19:13:43
+[' Răsarit = 07:37:30 Apus = 17:04:33 Min (°C) = -3.44 Max (°C) =0.82 Presiune = 1024 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.08 Unghiul vântului = 356 Stare = nori 85-100%']
+Tandarei: 04 \ luni \ 24:1:2022 \ 19:14:21
+[' Răsarit = 07:36:39 Apus = 17:05:55 Min (°C) = -4.58 Max (°C) =-1.03 Presiune = 1032 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 7.59 Unghiul vântului = 359 Stare = nori 85-100%']
+Tandarei: 04 \ marți \ 25:1:2022 \ 19:14:06
+[' Răsarit = 07:35:47 Apus = 17:07:17 Min (°C) = -3.75 Max (°C) =-0.25 Presiune = 1026 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 259 Stare = nori 50-85%']
+Tandarei: 04 \ miercuri \ 26:1:2022 \ 19:14:07
+[' Răsarit = 07:34:52 Apus = 17:08:40 Min (°C) = -3.62 Max (°C) =3.07 Presiune = 1023 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 294 Stare = nori 85-100%']
+Tandarei: 04 \ joi \ 27:1:2022 \ 19:14:02
+[' Răsarit = 07:33:55 Apus = 17:10:04 Min (°C) = -2.41 Max (°C) =5.54 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.86 Unghiul vântului = 225 Stare = nori 10-25%']
+Tandarei: 04 \ vineri \ 28:1:2022 \ 19:13:50
+[' Răsarit = 07:32:56 Apus = 17:11:28 Min (°C) = -0.53 Max (°C) =6.85 Presiune = 1016 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.06 Unghiul vântului = 277 Stare = nori 50-85%']
+Tandarei: 04 \ sâmbătă \ 29:1:2022 \ 19:13:55
+[' Răsarit = 07:31:55 Apus = 17:12:52 Min (°C) = -0.06 Max (°C) =5.49 Presiune = 1024 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 256 Stare = nori 50-85%']
+Tandarei: 04 \ duminică \ 30:1:2022 \ 19:12:04
+[' Răsarit = 07:30:53 Apus = 17:14:17 Min (°C) = -0.84 Max (°C) =5.83 Presiune = 1007 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 274 Stare = nori 50-85%']
+Tandarei: 05 \ luni \ 31:1:2022 \ 19:12:01
+[' Răsarit = 07:29:48 Apus = 17:15:42 Min (°C) = 1.56 Max (°C) =7.85 Presiune = 1009 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.89 Unghiul vântului = 214 Stare = nori 25-50%']
+Tandarei: 05 \ marți \ 01:2:2022 \ 19:11:53
+[' Răsarit = 07:28:42 Apus = 17:17:07 Min (°C) = 1.12 Max (°C) =6.64 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 84 Stare = nori 85-100%']
+Tandarei: 05 \ miercuri \ 02:2:2022 \ 19:12:05
+[' Răsarit = 07:27:33 Apus = 17:18:33 Min (°C) = 1.53 Max (°C) =4.44 Presiune = 1007 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.59 Unghiul vântului = 229 Stare = nori 85-100%']
+Tandarei: 05 \ joi \ 03:2:2022 \ 19:11:49
+[' Răsarit = 07:26:23 Apus = 17:19:58 Min (°C) = 1.2 Max (°C) =7 Presiune = 1019 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 6.19 Unghiul vântului = 348 Stare = nori 50-85%']
+Tandarei: 05 \ vineri \ 04:2:2022 \ 19:12:06
+[' Răsarit = 07:25:11 Apus = 17:21:24 Min (°C) = -1.55 Max (°C) =6.11 Presiune = 1019 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 3.43 Unghiul vântului = 222 Stare = nori 10-25%']
+Tandarei: 05 \ sâmbătă \ 05:2:2022 \ 19:11:50
+[' Răsarit = 07:23:58 Apus = 17:22:50 Min (°C) = -0.68 Max (°C) =8.49 Presiune = 1016 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 270 Stare = nori 50-85%']
+Tandarei: 05 \ duminică \ 06:2:2022 \ 19:11:59
+[' Răsarit = 07:22:43 Apus = 17:24:15 Min (°C) = 0.73 Max (°C) =9.04 Presiune = 1019 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 232 Stare = nori 25-50%']
+Tandarei: 06 \ luni \ 07:2:2022 \ 19:11:57
+[' Răsarit = 07:21:26 Apus = 17:25:41 Min (°C) = 2.29 Max (°C) =10.4 Presiune = 1003 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.49 Unghiul vântului = 220 Stare = nori 85-100%']
+Tandarei: 06 \ marți \ 08:2:2022 \ 19:11:49
+[' Răsarit = 07:20:08 Apus = 17:27:07 Min (°C) = 2.58 Max (°C) =6.8 Presiune = 1019 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 9.09 Unghiul vântului = 4 Stare = nori 10-25%']
+Tandarei: 06 \ miercuri \ 09:2:2022 \ 19:13:33
+[' Răsarit = 07:18:48 Apus = 17:28:33 Min (°C) = -0.18 Max (°C) =9.64 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.23 Unghiul vântului = 314 Stare = nori 25-50%']
+Tandarei: 06 \ joi \ 10:2:2022 \ 19:14:33
+[' Răsarit = 07:17:26 Apus = 17:29:58 Min (°C) = 2.19 Max (°C) =11.29 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 214 Stare = cer senin']
+Tandarei: 06 \ vineri \ 11:2:2022 \ 19:13:44
+[' Răsarit = 07:16:03 Apus = 17:31:24 Min (°C) = 3.59 Max (°C) =13.44 Presiune = 1020 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 289 Stare = cer senin']
+Tandarei: 06 \ sâmbătă \ 12:2:2022 \ 19:13:52
+[' Răsarit = 07:14:39 Apus = 17:32:49 Min (°C) = 3.58 Max (°C) =8.64 Presiune = 1033 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.26 Unghiul vântului = 41 Stare = nori 85-100%']
+Tandarei: 06 \ duminică \ 13:2:2022 \ 19:14:00
+[' Răsarit = 07:13:13 Apus = 17:34:14 Min (°C) = -0.44 Max (°C) =6.06 Presiune = 1031 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.23 Unghiul vântului = 103 Stare = nori 85-100%']
+Tandarei: 07 \ luni \ 14:2:2022 \ 19:13:57
+[' Răsarit = 07:11:46 Apus = 17:35:39 Min (°C) = 2.31 Max (°C) =6.84 Presiune = 1024 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 139 Stare = nori 85-100%']
+Tandarei: 07 \ marți \ 15:2:2022 \ 19:13:28
+[' Răsarit = 07:10:18 Apus = 17:37:04 Min (°C) = 0.83 Max (°C) =10.37 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 221 Stare = cer senin']
+Tandarei: 07 \ miercuri \ 16:2:2022 \ 19:14:12
+[' Răsarit = 07:08:48 Apus = 17:38:28 Min (°C) = 4.02 Max (°C) =14.63 Presiune = 1015 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.77 Unghiul vântului = 172 Stare = nori 85-100%']
+Tandarei: 07 \ joi \ 17:2:2022 \ 19:14:46
+[' Răsarit = 07:07:17 Apus = 17:39:52 Min (°C) = 5.95 Max (°C) =14.9 Presiune = 1005 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 5.8 Unghiul vântului = 230 Stare = nori 85-100%']
+Tandarei: 07 \ vineri \ 18:2:2022 \ 19:13:46
+[' Răsarit = 07:05:44 Apus = 17:41:16 Min (°C) = 6.06 Max (°C) =10.74 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 278 Stare = nori 25-50%']
+Tandarei: 07 \ sâmbătă \ 19:2:2022 \ 19:14:06
+[' Răsarit = 07:04:11 Apus = 17:42:40 Min (°C) = 3.26 Max (°C) =14.86 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 281 Stare = nori 50-85%']
+Tandarei: 07 \ duminică \ 20:2:2022 \ 19:15:13
+[' Răsarit = 07:02:36 Apus = 17:44:03 Min (°C) = 7.21 Max (°C) =10.67 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 141 Stare = nori 85-100%']
+Tandarei: 08 \ luni \ 21:2:2022 \ 19:13:46
+[' Răsarit = 07:01:01 Apus = 17:45:26 Min (°C) = 4.09 Max (°C) =13.69 Presiune = 1007 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 246 Stare = cer senin']
+Tandarei: 08 \ marți \ 22:2:2022 \ 19:14:37
+[' Răsarit = 06:59:24 Apus = 17:46:49 Min (°C) = 6.92 Max (°C) =12.82 Presiune = 1010 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 4.85 Unghiul vântului = 14 Stare = nori 85-100%']
+Tandarei: 08 \ miercuri \ 23:2:2022 \ 19:14:07
+[' Răsarit = 06:57:46 Apus = 17:48:11 Min (°C) = 5.35 Max (°C) =11.29 Presiune = 1019 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 242 Stare = nori 85-100%']
+Tandarei: 08 \ joi \ 24:2:2022 \ 19:13:56
+[' Răsarit = 06:56:07 Apus = 17:49:33 Min (°C) = 4.9 Max (°C) =9.21 Presiune = 1023 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.26 Unghiul vântului = 9 Stare = nori 85-100%']
+Tandarei: 08 \ vineri \ 25:2:2022 \ 19:14:02
+[' Răsarit = 06:54:27 Apus = 17:50:55 Min (°C) = 1.4 Max (°C) =10.45 Presiune = 1017 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 251 Stare = nori 25-50%']
+Tandarei: 08 \ sâmbătă \ 26:2:2022 \ 19:14:19
+[' Răsarit = 06:52:47 Apus = 17:52:16 Min (°C) = 3.54 Max (°C) =8.34 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 45 Stare = nori 85-100%']
+Tandarei: 08 \ duminică \ 27:2:2022 \ 19:13:40
+[' Răsarit = 06:51:05 Apus = 17:53:37 Min (°C) = 1.51 Max (°C) =8.76 Presiune = 1025 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 6.24 Unghiul vântului = 79 Stare = nori 85-100%']
+Tandarei: 09 \ luni \ 28:2:2022 \ 19:14:07
+[' Răsarit = 06:49:22 Apus = 17:54:58 Min (°C) = 0.78 Max (°C) =4.5 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 8.13 Unghiul vântului = 2 Stare = zăpadă slabă']
+Tandarei: 09 \ marți \ 01:3:2022 \ 19:14:14
+[' Răsarit = 06:47:39 Apus = 17:56:18 Min (°C) = 0.27 Max (°C) =2.47 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 5.73 Unghiul vântului = 342 Stare = zăpadă slabă']
+Tandarei: 09 \ miercuri \ 02:3:2022 \ 19:13:36
+[' Răsarit = 06:45:55 Apus = 17:57:38 Min (°C) = -0.32 Max (°C) =3.38 Presiune = 1016 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.06 Unghiul vântului = 344 Stare = nori 85-100%']
+Tandarei: 09 \ joi \ 03:3:2022 \ 19:14:03
+[' Răsarit = 06:44:10 Apus = 17:58:57 Min (°C) = -0.72 Max (°C) =6.11 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 351 Stare = nori 85-100%']
+Tandarei: 09 \ vineri \ 04:3:2022 \ 19:13:44
+[' Răsarit = 06:42:24 Apus = 18:00:17 Min (°C) = -1.84 Max (°C) =5.75 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 62 Stare = nori 85-100%']
+Tandarei: 09 \ sâmbătă \ 05:3:2022 \ 19:12:16
+[' Răsarit = 06:40:38 Apus = 18:01:36 Min (°C) = -1.28 Max (°C) =6.53 Presiune = 1020 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 52 Stare = nori 25-50%']
+Tandarei: 09 \ duminică \ 06:3:2022 \ 19:12:03
+[' Răsarit = 06:38:51 Apus = 18:02:54 Min (°C) = -2.41 Max (°C) =4.65 Presiune = 1020 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.57 Unghiul vântului = 72 Stare = nori 85-100%']
+Tandarei: 10 \ luni \ 07:3:2022 \ 19:11:48
+[' Răsarit = 06:37:04 Apus = 18:04:13 Min (°C) = -0.61 Max (°C) =2.99 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 22 Stare = nori 85-100%']
+Tandarei: 10 \ marți \ 08:3:2022 \ 19:11:36
+[' Răsarit = 06:35:15 Apus = 18:05:31 Min (°C) = -1.22 Max (°C) =4.45 Presiune = 1017 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 324 Stare = nori 50-85%']
+Tandarei: 10 \ miercuri \ 09:3:2022 \ 19:11:46
+[' Răsarit = 06:33:27 Apus = 18:06:48 Min (°C) = -0.89 Max (°C) =3.92 Presiune = 1021 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 5.02 Unghiul vântului = 22 Stare = nori 50-85%']
+Tandarei: 10 \ joi \ 10:3:2022 \ 19:11:45
+[' Răsarit = 06:31:38 Apus = 18:08:06 Min (°C) = -2.58 Max (°C) =2.2 Presiune = 1026 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 6.65 Unghiul vântului = 23 Stare = nori 50-85%']
+Tandarei: 10 \ vineri \ 11:3:2022 \ 19:11:43
+[' Răsarit = 06:29:48 Apus = 18:09:23 Min (°C) = -4.83 Max (°C) =-1.36 Presiune = 1028 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 7.24 Unghiul vântului = 360 Stare = nori 85-100%']
+Tandarei: 10 \ sâmbătă \ 12:3:2022 \ 19:11:36
+[' Răsarit = 06:27:58 Apus = 18:10:40 Min (°C) = -4.56 Max (°C) =1.56 Presiune = 1030 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 38 Stare = nori 85-100%']
+Tandarei: 10 \ duminică \ 13:3:2022 \ 19:11:46
+[' Răsarit = 06:26:08 Apus = 18:11:56 Min (°C) = -1.89 Max (°C) =4.53 Presiune = 1030 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 34 Stare = nori 85-100%']
+Tandarei: 11 \ luni \ 14:3:2022 \ 19:11:37
+[' Răsarit = 06:24:17 Apus = 18:13:13 Min (°C) = -1.45 Max (°C) =6.52 Presiune = 1036 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 108 Stare = nori 50-85%']
+Tandarei: 11 \ marți \ 15:3:2022 \ 19:11:44
+[' Răsarit = 06:22:26 Apus = 18:14:29 Min (°C) = -0.42 Max (°C) =9.75 Presiune = 1031 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 135 Stare = nori 50-85%']
+Tandarei: 11 \ miercuri \ 16:3:2022 \ 19:11:48
+[' Răsarit = 06:20:34 Apus = 18:15:45 Min (°C) = 2.81 Max (°C) =11.21 Presiune = 1024 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 5.26 Unghiul vântului = 95 Stare = nori 85-100%']
+Tandarei: 11 \ joi \ 17:3:2022 \ 19:11:46
+[' Răsarit = 06:18:43 Apus = 18:17:01 Min (°C) = 0.69 Max (°C) =5.18 Presiune = 1035 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 46 Stare = nori 25-50%']
+Tandarei: 11 \ vineri \ 18:3:2022 \ 19:11:53
+[' Răsarit = 06:16:51 Apus = 18:18:16 Min (°C) = -2.56 Max (°C) =3.47 Presiune = 1041 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.39 Unghiul vântului = 42 Stare = nori 50-85%']
+Tandarei: 11 \ sâmbătă \ 19:3:2022 \ 19:11:56
+[' Răsarit = 06:14:59 Apus = 18:19:32 Min (°C) = -3.41 Max (°C) =3.82 Presiune = 1041 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.2 Unghiul vântului = 34 Stare = nori 10-25%']
+Tandarei: 11 \ duminică \ 20:3:2022 \ 19:11:49
+[' Răsarit = 06:13:06 Apus = 18:20:47 Min (°C) = -2.21 Max (°C) =7.3 Presiune = 1038 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 38 Stare = nori 10-25%']
+Tandarei: 12 \ luni \ 21:3:2022 \ 19:12:10
+[' Răsarit = 06:11:14 Apus = 18:22:02 Min (°C) = -0.75 Max (°C) =10.48 Presiune = 1033 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 4.1 Unghiul vântului = 14 Stare = nori 50-85%']
+Tandarei: 12 \ marți \ 22:3:2022 \ 19:11:53
+[' Răsarit = 06:09:22 Apus = 18:23:17 Min (°C) = 3.87 Max (°C) =13.22 Presiune = 1032 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 7.99 Unghiul vântului = 62 Stare = nori 10-25%']
+Tandarei: 12 \ miercuri \ 23:3:2022 \ 19:11:41
+[' Răsarit = 06:07:29 Apus = 18:24:31 Min (°C) = 1.89 Max (°C) =13.02 Presiune = 1027 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 69 Stare = cer senin']
+Tandarei: 12 \ joi \ 24:3:2022 \ 19:11:48
+[' Răsarit = 06:05:37 Apus = 18:25:46 Min (°C) = 3.79 Max (°C) =18.1 Presiune = 1018 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 4.9 Unghiul vântului = 1 Stare = nori 10-25%']
+Tandarei: 12 \ vineri \ 25:3:2022 \ 19:11:45
+[' Răsarit = 06:03:44 Apus = 18:27:01 Min (°C) = 5.52 Max (°C) =11.98 Presiune = 1024 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 4 Stare = nori 85-100%']
+Tandarei: 12 \ sâmbătă \ 26:3:2022 \ 19:11:56
+[' Răsarit = 06:01:52 Apus = 18:28:15 Min (°C) = 2.93 Max (°C) =15.26 Presiune = 1023 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 5.04 Unghiul vântului = 238 Stare = cer senin']
+Tandarei: 12 \ duminică \ 27:3:2022 \ 19:11:53
+[' Răsarit = 07:00:00 Apus = 19:29:29 Min (°C) = 7.63 Max (°C) =14.58 Presiune = 1028 Umiditate (%) = 28 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 34 Stare = nori 25-50%']
+Tandarei: 13 \ luni \ 28:3:2022 \ 19:12:08
+[' Răsarit = 06:58:08 Apus = 19:30:44 Min (°C) = 5.09 Max (°C) =16.82 Presiune = 1022 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 4.19 Unghiul vântului = 180 Stare = cer senin']
+Tandarei: 13 \ marți \ 29:3:2022 \ 19:11:55
+[' Răsarit = 06:56:16 Apus = 19:31:58 Min (°C) = 8.52 Max (°C) =20.02 Presiune = 1009 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.89 Unghiul vântului = 235 Stare = nori 85-100%']
+Tandarei: 13 \ miercuri \ 30:3:2022 \ 19:11:51
+[' Răsarit = 06:54:24 Apus = 19:33:12 Min (°C) = 9.74 Max (°C) =22.42 Presiune = 1006 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 4.14 Unghiul vântului = 227 Stare = nori 25-50%']
+Tandarei: 13 \ joi \ 31:3:2022 \ 19:12:11
+[' Răsarit = 06:52:32 Apus = 19:34:27 Min (°C) = 10.87 Max (°C) =22.19 Presiune = 1001 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 222 Stare = nori 85-100%']
+Tandarei: 13 \ vineri \ 01:4:2022 \ 19:14:16
+[' Răsarit = 06:50:41 Apus = 19:35:41 Min (°C) = 15.78 Max (°C) =24.37 Presiune = 994 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 9.97 Unghiul vântului = 206 Stare = cer senin']
+Tandarei: 13 \ sâmbătă \ 02:4:2022 \ 19:13:58
+[' Răsarit = 06:48:50 Apus = 19:36:55 Min (°C) = 11.04 Max (°C) =19.79 Presiune = 999 Umiditate (%) = 58 Index UV = 0.09 Viteza vântului = 6.11 Unghiul vântului = 228 Stare = nori 50-85%']
+Tandarei: 13 \ duminică \ 03:4:2022 \ 19:47:21
+[' Răsarit = 06:46:59 Apus = 19:38:09 Min (°C) = 8.26 Max (°C) =15.07 Presiune = 1010 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 4.75 Unghiul vântului = 308 Stare = nori 25-50%']
+Tandarei: 14 \ luni \ 04:4:2022 \ 19:13:54
+[' Răsarit = 06:45:09 Apus = 19:39:23 Min (°C) = 3.26 Max (°C) =10.69 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.09 Viteza vântului = 4.65 Unghiul vântului = 237 Stare = nori 85-100%']
+Tandarei: 14 \ marți \ 05:4:2022 \ 19:15:01
+[' Răsarit = 06:43:19 Apus = 19:40:38 Min (°C) = 2.86 Max (°C) =15.18 Presiune = 1010 Umiditate (%) = 34 Index UV = 0.11 Viteza vântului = 4.3 Unghiul vântului = 259 Stare = cer senin']
+Tandarei: 14 \ miercuri \ 06:4:2022 \ 19:14:03
+[' Răsarit = 06:41:30 Apus = 19:41:52 Min (°C) = 6.89 Max (°C) =19.53 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.12 Viteza vântului = 2.56 Unghiul vântului = 203 Stare = cer senin']
+Tandarei: 14 \ joi \ 07:4:2022 \ 19:14:14
+[' Răsarit = 06:39:41 Apus = 19:43:06 Min (°C) = 7.92 Max (°C) =18.28 Presiune = 999 Umiditate (%) = 79 Index UV = 0.05 Viteza vântului = 5.28 Unghiul vântului = 109 Stare = ploaie ușoară']
+Tandarei: 14 \ vineri \ 08:4:2022 \ 19:13:50
+[' Răsarit = 06:37:53 Apus = 19:44:21 Min (°C) = 8.05 Max (°C) =21.68 Presiune = 1005 Umiditate (%) = 42 Index UV = 0.12 Viteza vântului = 3.38 Unghiul vântului = 244 Stare = nori 50-85%']
+Tandarei: 14 \ sâmbătă \ 09:4:2022 \ 19:13:59
+[' Răsarit = 06:36:05 Apus = 19:45:35 Min (°C) = 12.49 Max (°C) =23.7 Presiune = 1001 Umiditate (%) = 42 Index UV = 0.14 Viteza vântului = 3.12 Unghiul vântului = 233 Stare = cer senin']
+Tandarei: 14 \ duminică \ 10:4:2022 \ 19:15:15
+[' Răsarit = 06:34:17 Apus = 19:46:49 Min (°C) = 5.13 Max (°C) =16.33 Presiune = 1008 Umiditate (%) = 87 Index UV = 0.01 Viteza vântului = 9.7 Unghiul vântului = 355 Stare = nori 85-100%']
+Tandarei: 15 \ luni \ 11:4:2022 \ 19:14:04
+[' Răsarit = 06:32:31 Apus = 19:48:04 Min (°C) = 4.42 Max (°C) =11.92 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.14 Viteza vântului = 6.85 Unghiul vântului = 342 Stare = nori 85-100%']
+Tandarei: 15 \ marți \ 12:4:2022 \ 19:13:04
+[' Răsarit = 06:30:44 Apus = 19:49:19 Min (°C) = 4.08 Max (°C) =12.17 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.13 Viteza vântului = 3.16 Unghiul vântului = 293 Stare = nori 50-85%']
+Tandarei: 15 \ miercuri \ 13:4:2022 \ 19:13:41
+[' Răsarit = 06:28:59 Apus = 19:50:33 Min (°C) = 5.58 Max (°C) =14.74 Presiune = 1019 Umiditate (%) = 35 Index UV = 0.15 Viteza vântului = 2.87 Unghiul vântului = 343 Stare = nori 50-85%']
+Tandarei: 15 \ joi \ 14:4:2022 \ 19:14:17
+[' Răsarit = 06:27:14 Apus = 19:51:48 Min (°C) = 9.29 Max (°C) =19.03 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.17 Viteza vântului = 1.64 Unghiul vântului = 289 Stare = nori 10-25%']
+Tandarei: 15 \ vineri \ 15:4:2022 \ 19:14:34
+[' Răsarit = 06:25:30 Apus = 19:53:03 Min (°C) = 9.59 Max (°C) =22.32 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.18 Viteza vântului = 3 Unghiul vântului = 209 Stare = cer senin']
+Tandarei: 15 \ sâmbătă \ 16:4:2022 \ 19:14:47
+[' Răsarit = 06:23:47 Apus = 19:54:17 Min (°C) = 10.94 Max (°C) =20.41 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.16 Viteza vântului = 4.28 Unghiul vântului = 23 Stare = nori 85-100%']
+Tandarei: 15 \ duminică \ 17:4:2022 \ 19:14:18
+[' Răsarit = 06:22:04 Apus = 19:55:32 Min (°C) = 4.34 Max (°C) =11.41 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.11 Viteza vântului = 6.45 Unghiul vântului = 42 Stare = nori 85-100%']
+Tandarei: 16 \ luni \ 18:4:2022 \ 19:14:54
+[' Răsarit = 06:20:23 Apus = 19:56:47 Min (°C) = 4.86 Max (°C) =9.55 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.12 Viteza vântului = 3.48 Unghiul vântului = 37 Stare = nori 85-100%']
+Tandarei: 16 \ marți \ 19:4:2022 \ 19:15:08
+[' Răsarit = 06:18:42 Apus = 19:58:02 Min (°C) = 4.28 Max (°C) =10.77 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.15 Viteza vântului = 4.1 Unghiul vântului = 260 Stare = nori 85-100%']
+Tandarei: 16 \ miercuri \ 20:4:2022 \ 19:14:13
+[' Răsarit = 06:17:02 Apus = 19:59:17 Min (°C) = 3.93 Max (°C) =14.42 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.1 Viteza vântului = 1.97 Unghiul vântului = 244 Stare = nori 85-100%']
+Tandarei: 16 \ joi \ 21:4:2022 \ 19:14:49
+[' Răsarit = 06:15:23 Apus = 20:00:32 Min (°C) = 4.31 Max (°C) =15.88 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.19 Viteza vântului = 4.58 Unghiul vântului = 231 Stare = nori 50-85%']
+Tandarei: 16 \ vineri \ 22:4:2022 \ 19:12:30
+[' Răsarit = 06:13:45 Apus = 20:01:47 Min (°C) = 7.37 Max (°C) =19.42 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.21 Viteza vântului = 6.49 Unghiul vântului = 155 Stare = nori 85-100%']
+Tandarei: 16 \ sâmbătă \ 23:4:2022 \ 19:12:26
+[' Răsarit = 06:12:08 Apus = 20:03:02 Min (°C) = 10.48 Max (°C) =21.95 Presiune = 1006 Umiditate (%) = 50 Index UV = 0.22 Viteza vântului = 5.98 Unghiul vântului = 246 Stare = nori 10-25%']
+Tandarei: 16 \ duminică \ 24:4:2022 \ 19:12:01
+[' Răsarit = 06:10:32 Apus = 20:04:17 Min (°C) = 10.61 Max (°C) =23.45 Presiune = 1009 Umiditate (%) = 47 Index UV = 0.22 Viteza vântului = 1.78 Unghiul vântului = 212 Stare = nori 50-85%']
+Tandarei: 17 \ luni \ 25:4:2022 \ 19:11:58
+[' Răsarit = 06:08:57 Apus = 20:05:32 Min (°C) = 13.02 Max (°C) =24.48 Presiune = 1006 Umiditate (%) = 53 Index UV = 0.22 Viteza vântului = 3.88 Unghiul vântului = 249 Stare = nori 50-85%']
+Tandarei: 17 \ marți \ 26:4:2022 \ 19:12:00
+[' Răsarit = 06:07:24 Apus = 20:06:47 Min (°C) = 12.27 Max (°C) =23.94 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.26 Viteza vântului = 0.98 Unghiul vântului = 255 Stare = nori 10-25%']
+Tandarei: 17 \ miercuri \ 27:4:2022 \ 19:12:02
+[' Răsarit = 06:05:51 Apus = 20:08:02 Min (°C) = 12.97 Max (°C) =21.65 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.16 Viteza vântului = 5.17 Unghiul vântului = 131 Stare = nori 25-50%']
+Tandarei: 17 \ joi \ 28:4:2022 \ 19:12:06
+[' Răsarit = 06:04:19 Apus = 20:09:17 Min (°C) = 11.57 Max (°C) =21.47 Presiune = 1018 Umiditate (%) = 83 Index UV = 0.09 Viteza vântului = 3.08 Unghiul vântului = 231 Stare = nori 85-100%']
+Tandarei: 17 \ vineri \ 29:4:2022 \ 19:14:52
+[' Răsarit = 06:02:49 Apus = 20:10:31 Min (°C) = 12.45 Max (°C) =16.21 Presiune = 1022 Umiditate (%) = 66 Index UV = 0.23 Viteza vântului = 5.81 Unghiul vântului = 19 Stare = nori 85-100%']
+Tandarei: 17 \ sâmbătă \ 30:4:2022 \ 19:11:44
+[' Răsarit = 06:01:20 Apus = 20:11:46 Min (°C) = 10.25 Max (°C) =17.49 Presiune = 1020 Umiditate (%) = 57 Index UV = 0.27 Viteza vântului = 3.76 Unghiul vântului = 68 Stare = nori 50-85%']
+Tandarei: 17 \ duminică \ 01:5:2022 \ 19:11:53
+[' Răsarit = 05:59:52 Apus = 20:13:00 Min (°C) = 8.82 Max (°C) =18.77 Presiune = 1019 Umiditate (%) = 47 Index UV = 0.3 Viteza vântului = 4.85 Unghiul vântului = 120 Stare = nori 50-85%']
+Tandarei: 18 \ marți \ 03:5:2022 \ 20:12:33
+[' Răsarit = 05:57:00 Apus = 20:15:29 Min (°C) = 9.05 Max (°C) =16.99 Presiune = 1016 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 138 Stare = nori 85-100%']
+Tandarei: 18 \ miercuri \ 04:5:2022 \ 19:16:30
+[' Răsarit = 05:55:36 Apus = 20:16:42 Min (°C) = 9.71 Max (°C) =19.99 Presiune = 1016 Umiditate (%) = 41 Index UV = 0.32 Viteza vântului = 1.11 Unghiul vântului = 232 Stare = nori 85-100%']
+Tandarei: 18 \ joi \ 05:5:2022 \ 19:15:05
+[' Răsarit = 05:54:13 Apus = 20:17:56 Min (°C) = 12.04 Max (°C) =20.5 Presiune = 1022 Umiditate (%) = 41 Index UV = 0.32 Viteza vântului = 4.09 Unghiul vântului = 33 Stare = nori 50-85%']
+Tandarei: 18 \ vineri \ 06:5:2022 \ 19:12:49
+[' Răsarit = 05:52:52 Apus = 20:19:09 Min (°C) = 9.25 Max (°C) =20.4 Presiune = 1022 Umiditate (%) = 46 Index UV = 0.34 Viteza vântului = 5.99 Unghiul vântului = 125 Stare = cer senin']
+Tandarei: 18 \ sâmbătă \ 07:5:2022 \ 19:12:15
+[' Răsarit = 05:51:32 Apus = 20:20:22 Min (°C) = 7.34 Max (°C) =20.13 Presiune = 1022 Umiditate (%) = 48 Index UV = 0.35 Viteza vântului = 6.45 Unghiul vântului = 134 Stare = nori 85-100%']
+Tandarei: 18 \ duminică \ 08:5:2022 \ 19:12:57
+[' Răsarit = 05:50:14 Apus = 20:21:35 Min (°C) = 5.87 Max (°C) =20.26 Presiune = 1021 Umiditate (%) = 44 Index UV = 0.36 Viteza vântului = 5.03 Unghiul vântului = 128 Stare = nori 10-25%']
+Tandarei: 19 \ luni \ 09:5:2022 \ 19:12:31
+[' Răsarit = 05:48:57 Apus = 20:22:47 Min (°C) = 7.35 Max (°C) =21.65 Presiune = 1021 Umiditate (%) = 37 Index UV = 0.37 Viteza vântului = 1.59 Unghiul vântului = 116 Stare = nori 10-25%']
+Tandarei: 19 \ marți \ 10:5:2022 \ 19:12:45
+[' Răsarit = 05:47:42 Apus = 20:23:59 Min (°C) = 10.32 Max (°C) =20.26 Presiune = 1020 Umiditate (%) = 70 Index UV = 0.16 Viteza vântului = 3.23 Unghiul vântului = 110 Stare = nori 50-85%']
+Tandarei: 19 \ miercuri \ 11:5:2022 \ 19:12:32
+[' Răsarit = 05:46:29 Apus = 20:25:11 Min (°C) = 10.87 Max (°C) =22.67 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 2.16 Unghiul vântului = 295 Stare = nori 50-85%']
+Tandarei: 19 \ joi \ 12:5:2022 \ 19:12:42
+[' Răsarit = 05:45:16 Apus = 20:26:21 Min (°C) = 13.74 Max (°C) =27.3 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.41 Viteza vântului = 4.29 Unghiul vântului = 226 Stare = cer senin']
+Tandarei: 19 \ vineri \ 13:5:2022 \ 19:12:15
+[' Răsarit = 05:44:06 Apus = 20:27:32 Min (°C) = 15.66 Max (°C) =28.94 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.41 Viteza vântului = 3.16 Unghiul vântului = 200 Stare = nori 10-25%']
+Tandarei: 19 \ sâmbătă \ 14:5:2022 \ 19:12:19
+[' Răsarit = 05:42:57 Apus = 20:28:42 Min (°C) = 16.01 Max (°C) =27.14 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.19 Viteza vântului = 4.49 Unghiul vântului = 33 Stare = nori 50-85%']
+Tandarei: 19 \ duminică \ 15:5:2022 \ 19:12:18
+[' Răsarit = 05:41:50 Apus = 20:29:51 Min (°C) = 17 Max (°C) =22.62 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.4 Viteza vântului = 3.83 Unghiul vântului = 207 Stare = nori 50-85%']
+Tandarei: 20 \ luni \ 16:5:2022 \ 19:13:30
+[' Răsarit = 05:40:45 Apus = 20:30:59 Min (°C) = 13.55 Max (°C) =24.34 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.28 Viteza vântului = 0.69 Unghiul vântului = 199 Stare = nori 25-50%']
+Tandarei: 20 \ marți \ 17:5:2022 \ 19:15:22
+[' Răsarit = 05:39:41 Apus = 20:32:07 Min (°C) = 14.96 Max (°C) =26.97 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.05 Viteza vântului = 5.4 Unghiul vântului = 8 Stare = nori 85-100%']
+Tandarei: 20 \ miercuri \ 18:5:2022 \ 19:12:30
+[' Răsarit = 05:38:39 Apus = 20:33:14 Min (°C) = 10.67 Max (°C) =16.84 Presiune = 1022 Umiditate (%) = 48 Index UV = 0.4 Viteza vântului = 9.72 Unghiul vântului = 3 Stare = nori 85-100%']
+Tandarei: 20 \ joi \ 19:5:2022 \ 20:17:21
+[' Răsarit = 05:37:39 Apus = 20:34:21 Min (°C) = 8.88 Max (°C) =20.97 Presiune = 1026 Umiditate (%) = 51 Index UV = 0.1 Viteza vântului = 2.94 Unghiul vântului = 10 Stare = cer senin']
+Tandarei: 20 \ vineri \ 20:5:2022 \ 19:12:18
+[' Răsarit = 05:36:41 Apus = 20:35:26 Min (°C) = 11.64 Max (°C) =25.33 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.46 Viteza vântului = 4.28 Unghiul vântului = 232 Stare = nori 50-85%']
+Tandarei: 20 \ sâmbătă \ 21:5:2022 \ 19:14:12
+[' Răsarit = 05:35:45 Apus = 20:36:31 Min (°C) = 13.57 Max (°C) =28.45 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.47 Viteza vântului = 4.79 Unghiul vântului = 239 Stare = nori 25-50%']

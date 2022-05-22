@@ -1,0 +1,956 @@
+Breaza: 04 \ luni \ 25:1:2021 \ 22:42:57
+[' Răsarit = 07:44:59 Apus = 17:14:03 Min (°C) = -3.33 Max (°C) =5.05 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 339 Stare = nori 25-50%']
+Breaza: 04 \ marți \ 26:1:2021 \ 09:59:49
+[' Răsarit = 07:44:03 Apus = 17:15:28 Min (°C) = -1.42 Max (°C) =1.92 Presiune = 1006 Umiditate (%) = 90 Index UV = 0.48 Viteza vântului = 0.89 Unghiul vântului = 271 Stare = nori 85-100%']
+Breaza: 04 \ miercuri \ 27:1:2021 \ 19:20:41
+[' Răsarit = 07:43:04 Apus = 17:16:53 Min (°C) = -1.74 Max (°C) =0.77 Presiune = 1007 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 85-100%']
+Breaza: 04 \ joi \ 28:1:2021 \ 19:35:24
+[' Răsarit = 07:42:03 Apus = 17:18:19 Min (°C) = -4.1 Max (°C) =0.16 Presiune = 1009 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 341 Stare = nori 50-85%']
+Breaza: 04 \ vineri \ 29:1:2021 \ 20:21:13
+[' Răsarit = 07:41:00 Apus = 17:19:45 Min (°C) = -3.67 Max (°C) =3.22 Presiune = 1003 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 334 Stare = nori 85-100%']
+Breaza: 04 \ sâmbătă \ 30:1:2021 \ 20:22:49
+[' Răsarit = 07:39:55 Apus = 17:21:11 Min (°C) = 0.83 Max (°C) =7.15 Presiune = 1001 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 332 Stare = nori 25-50%']
+Breaza: 04 \ duminică \ 31:1:2021 \ 19:20:14
+[' Răsarit = 07:38:48 Apus = 17:22:38 Min (°C) = 0.81 Max (°C) =4.78 Presiune = 1006 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 60 Stare = nori 85-100%']
+Breaza: 05 \ luni \ 01:2:2021 \ 19:21:12
+[' Răsarit = 07:37:40 Apus = 17:24:05 Min (°C) = 1.99 Max (°C) =6.61 Presiune = 1008 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 322 Stare = cer senin']
+Breaza: 05 \ marți \ 02:2:2021 \ 20:51:55
+[' Răsarit = 07:36:30 Apus = 17:25:32 Min (°C) = 1.87 Max (°C) =6.94 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 320 Stare = nori 25-50%']
+Breaza: 05 \ miercuri \ 03:2:2021 \ 19:47:41
+[' Răsarit = 07:35:17 Apus = 17:26:59 Min (°C) = 2.85 Max (°C) =9.75 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 248 Stare = nori 50-85%']
+Breaza: 05 \ joi \ 04:2:2021 \ 19:22:20
+[' Răsarit = 07:34:04 Apus = 17:28:26 Min (°C) = 4.2 Max (°C) =12.49 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 216 Stare = nori 10-25%']
+Breaza: 05 \ vineri \ 05:2:2021 \ 19:18:04
+[' Răsarit = 07:32:48 Apus = 17:29:54 Min (°C) = 3.01 Max (°C) =7.15 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 6 Stare = nori 50-85%']
+Breaza: 05 \ sâmbătă \ 06:2:2021 \ 19:46:47
+[' Răsarit = 07:31:31 Apus = 17:31:21 Min (°C) = 2.85 Max (°C) =9.14 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.11 Unghiul vântului = 71 Stare = nori 85-100%']
+Breaza: 05 \ duminică \ 07:2:2021 \ 19:22:17
+[' Răsarit = 07:30:12 Apus = 17:32:49 Min (°C) = 0.49 Max (°C) =4.56 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 48 Stare = nori 85-100%']
+Breaza: 06 \ luni \ 08:2:2021 \ 21:04:15
+[' Răsarit = 07:28:51 Apus = 17:34:16 Min (°C) = 2.06 Max (°C) =8.71 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 312 Stare = nori 85-100%']
+Breaza: 06 \ marți \ 09:2:2021 \ 19:19:25
+[' Răsarit = 07:27:29 Apus = 17:35:43 Min (°C) = 3.77 Max (°C) =10.63 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 216 Stare = nori 85-100%']
+Breaza: 06 \ miercuri \ 10:2:2021 \ 19:20:10
+[' Răsarit = 07:26:06 Apus = 17:37:11 Min (°C) = 5.55 Max (°C) =11 Presiune = 1009 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 255 Stare = nori 50-85%']
+Breaza: 06 \ joi \ 11:2:2021 \ 19:14:21
+[' Răsarit = 07:24:41 Apus = 17:38:38 Min (°C) = -1.8 Max (°C) =8.73 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 313 Stare = ploaie ușoară']
+Breaza: 06 \ vineri \ 12:2:2021 \ 20:54:40
+[' Răsarit = 07:23:14 Apus = 17:40:05 Min (°C) = -9.65 Max (°C) =-2.86 Presiune = 1022 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 235 Stare = nori 10-25%']
+Breaza: 06 \ sâmbătă \ 13:2:2021 \ 19:19:18
+[' Răsarit = 07:21:46 Apus = 17:41:31 Min (°C) = -10.9 Max (°C) =-4.75 Presiune = 1028 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 253 Stare = nori 10-25%']
+Breaza: 06 \ duminică \ 14:2:2021 \ 19:17:21
+[' Răsarit = 07:20:17 Apus = 17:42:58 Min (°C) = -8.49 Max (°C) =-2.13 Presiune = 1031 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 351 Stare = nori 85-100%']
+Breaza: 07 \ luni \ 15:2:2021 \ 20:14:37
+[' Răsarit = 07:18:47 Apus = 17:44:24 Min (°C) = -6.31 Max (°C) =-0.4 Presiune = 1030 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 356 Stare = cer senin']
+Breaza: 07 \ marți \ 16:2:2021 \ 19:10:12
+[' Răsarit = 07:17:15 Apus = 17:45:50 Min (°C) = -6.63 Max (°C) =-1.03 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 146 Stare = nori 25-50%']
+Breaza: 07 \ miercuri \ 17:2:2021 \ 19:18:17
+[' Răsarit = 07:15:42 Apus = 17:47:16 Min (°C) = -7.14 Max (°C) =2.54 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 322 Stare = nori 85-100%']
+Breaza: 07 \ joi \ 18:2:2021 \ 19:22:09
+[' Răsarit = 07:14:07 Apus = 17:48:42 Min (°C) = -1.95 Max (°C) =4.84 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 19 Stare = nori 50-85%']
+Breaza: 07 \ vineri \ 19:2:2021 \ 19:15:16
+[' Răsarit = 07:12:32 Apus = 17:50:07 Min (°C) = -6.25 Max (°C) =-0.01 Presiune = 1030 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 252 Stare = nori 85-100%']
+Breaza: 07 \ sâmbătă \ 20:2:2021 \ 19:19:29
+[' Răsarit = 07:10:55 Apus = 17:51:32 Min (°C) = -2.89 Max (°C) =2.35 Presiune = 1032 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 87 Stare = nori 85-100%']
+Breaza: 07 \ duminică \ 21:2:2021 \ 19:16:58
+[' Răsarit = 07:09:17 Apus = 17:52:57 Min (°C) = -1.61 Max (°C) =7.6 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 318 Stare = nori 25-50%']
+Breaza: 08 \ luni \ 22:2:2021 \ 19:21:45
+[' Răsarit = 07:07:38 Apus = 17:54:21 Min (°C) = 2.35 Max (°C) =10.4 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 339 Stare = nori 25-50%']
+Breaza: 08 \ marți \ 23:2:2021 \ 19:19:29
+[' Răsarit = 07:05:58 Apus = 17:55:45 Min (°C) = 4.48 Max (°C) =12.58 Presiune = 1033 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 357 Stare = cer senin']
+Breaza: 08 \ miercuri \ 24:2:2021 \ 19:20:04
+[' Răsarit = 07:04:17 Apus = 17:57:09 Min (°C) = 2.33 Max (°C) =12.09 Presiune = 1036 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 345 Stare = cer senin']
+Breaza: 08 \ joi \ 25:2:2021 \ 19:18:04
+[' Răsarit = 07:02:36 Apus = 17:58:32 Min (°C) = 5.69 Max (°C) =15.57 Presiune = 1033 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 341 Stare = nori 10-25%']
+Breaza: 08 \ vineri \ 26:2:2021 \ 19:18:51
+[' Răsarit = 07:00:53 Apus = 17:59:55 Min (°C) = 7.8 Max (°C) =18.51 Presiune = 1024 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 340 Stare = cer senin']
+Breaza: 08 \ sâmbătă \ 27:2:2021 \ 19:17:06
+[' Răsarit = 06:59:09 Apus = 18:01:18 Min (°C) = 3.47 Max (°C) =13.97 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 34 Stare = nori 50-85%']
+Breaza: 08 \ duminică \ 28:2:2021 \ 19:20:18
+[' Răsarit = 06:57:25 Apus = 18:02:40 Min (°C) = 1.02 Max (°C) =7.53 Presiune = 1028 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 356 Stare = nori 10-25%']
+Breaza: 09 \ luni \ 01:3:2021 \ 19:14:33
+[' Răsarit = 06:55:39 Apus = 18:04:02 Min (°C) = 1.64 Max (°C) =6.12 Presiune = 1032 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.25 Unghiul vântului = 249 Stare = nori 50-85%']
+Breaza: 09 \ marți \ 02:3:2021 \ 19:23:06
+[' Răsarit = 06:53:53 Apus = 18:05:24 Min (°C) = 0.05 Max (°C) =8.75 Presiune = 1030 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 70 Stare = cer senin']
+Breaza: 09 \ miercuri \ 03:3:2021 \ 19:18:34
+[' Răsarit = 06:52:06 Apus = 18:06:45 Min (°C) = 2.71 Max (°C) =11 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 277 Stare = cer senin']
+Breaza: 09 \ joi \ 04:3:2021 \ 19:19:18
+[' Răsarit = 06:50:19 Apus = 18:08:06 Min (°C) = 3.99 Max (°C) =14.02 Presiune = 1016 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 330 Stare = cer senin']
+Breaza: 09 \ vineri \ 05:3:2021 \ 19:17:23
+[' Răsarit = 06:48:30 Apus = 18:09:27 Min (°C) = 3.85 Max (°C) =12.64 Presiune = 1013 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 291 Stare = nori 50-85%']
+Breaza: 09 \ sâmbătă \ 06:3:2021 \ 19:18:12
+[' Răsarit = 06:46:42 Apus = 18:10:47 Min (°C) = -1.97 Max (°C) =5.6 Presiune = 1030 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 298 Stare = zăpadă slabă']
+Breaza: 09 \ duminică \ 07:3:2021 \ 19:19:20
+[' Răsarit = 06:44:52 Apus = 18:12:07 Min (°C) = -3.56 Max (°C) =4.56 Presiune = 1021 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 307 Stare = cer senin']
+Breaza: 10 \ luni \ 08:3:2021 \ 19:22:35
+[' Răsarit = 06:43:02 Apus = 18:13:27 Min (°C) = -1.11 Max (°C) =7.25 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 359 Stare = nori 10-25%']
+Breaza: 10 \ marți \ 09:3:2021 \ 19:18:04
+[' Răsarit = 06:41:11 Apus = 18:14:47 Min (°C) = -1.84 Max (°C) =3.13 Presiune = 1021 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 119 Stare = nori 85-100%']
+Breaza: 10 \ miercuri \ 10:3:2021 \ 19:22:54
+[' Răsarit = 06:39:20 Apus = 18:16:06 Min (°C) = -2.44 Max (°C) =-0.36 Presiune = 1019 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 278 Stare = nori 85-100%']
+Breaza: 10 \ joi \ 11:3:2021 \ 19:19:28
+[' Răsarit = 06:37:29 Apus = 18:17:25 Min (°C) = -4.71 Max (°C) =-0.47 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 174 Stare = zăpadă slabă']
+Breaza: 10 \ vineri \ 12:3:2021 \ 19:18:37
+[' Răsarit = 06:35:37 Apus = 18:18:43 Min (°C) = -4.87 Max (°C) =4.55 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 291 Stare = nori 10-25%']
+Breaza: 10 \ sâmbătă \ 13:3:2021 \ 19:18:53
+[' Răsarit = 06:33:44 Apus = 18:20:02 Min (°C) = -0.65 Max (°C) =5.81 Presiune = 846 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 335 Stare = nori 50-85%']
+Breaza: 10 \ duminică \ 14:3:2021 \ 19:21:15
+[' Răsarit = 06:31:52 Apus = 18:21:20 Min (°C) = 0.65 Max (°C) =10.21 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 306 Stare = nori 50-85%']
+Breaza: 11 \ luni \ 15:3:2021 \ 19:20:41
+[' Răsarit = 06:29:59 Apus = 18:22:38 Min (°C) = 4.42 Max (°C) =9.31 Presiune = 998 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 49 Stare = nori 85-100%']
+Breaza: 11 \ marți \ 16:3:2021 \ 19:19:13
+[' Răsarit = 06:28:05 Apus = 18:23:55 Min (°C) = 3.89 Max (°C) =6.34 Presiune = 1000 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 49 Stare = nori 85-100%']
+Breaza: 11 \ miercuri \ 17:3:2021 \ 19:19:38
+[' Răsarit = 06:26:12 Apus = 18:25:13 Min (°C) = 2.18 Max (°C) =5.58 Presiune = 1005 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 346 Stare = nori 85-100%']
+Breaza: 11 \ joi \ 18:3:2021 \ 19:18:50
+[' Răsarit = 06:24:18 Apus = 18:26:30 Min (°C) = 0.06 Max (°C) =7.18 Presiune = 1013 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 138 Stare = nori 85-100%']
+Breaza: 11 \ vineri \ 19:3:2021 \ 19:16:17
+[' Răsarit = 06:22:24 Apus = 18:27:47 Min (°C) = -2.16 Max (°C) =1.27 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 357 Stare = zăpadă slabă']
+Breaza: 11 \ sâmbătă \ 20:3:2021 \ 19:18:53
+[' Răsarit = 06:20:30 Apus = 18:29:04 Min (°C) = -4.08 Max (°C) =3.8 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 16 Stare = zăpadă slabă']
+Breaza: 11 \ duminică \ 21:3:2021 \ 19:14:07
+[' Răsarit = 06:18:36 Apus = 18:30:21 Min (°C) = -2.63 Max (°C) =3.33 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 157 Stare = nori 85-100%']
+Breaza: 12 \ luni \ 22:3:2021 \ 19:19:16
+[' Răsarit = 06:16:42 Apus = 18:31:37 Min (°C) = -1.47 Max (°C) =2.32 Presiune = 1009 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.23 Unghiul vântului = 192 Stare = zăpadă slabă']
+Breaza: 12 \ marți \ 23:3:2021 \ 19:21:10
+[' Răsarit = 06:14:48 Apus = 18:32:54 Min (°C) = -3.49 Max (°C) =4.29 Presiune = 1012 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 286 Stare = nori 10-25%']
+Breaza: 12 \ miercuri \ 24:3:2021 \ 19:19:39
+[' Răsarit = 06:12:53 Apus = 18:34:10 Min (°C) = -5.14 Max (°C) =1.75 Presiune = 1017 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 332 Stare = nori 85-100%']
+Breaza: 12 \ joi \ 25:3:2021 \ 19:19:41
+[' Răsarit = 06:10:59 Apus = 18:35:27 Min (°C) = -3.97 Max (°C) =3.33 Presiune = 1021 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 322 Stare = nori 85-100%']
+Breaza: 12 \ vineri \ 26:3:2021 \ 19:24:30
+[' Răsarit = 06:09:05 Apus = 18:36:43 Min (°C) = -0.76 Max (°C) =8.03 Presiune = 1026 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.55 Unghiul vântului = 353 Stare = cer senin']
+Breaza: 12 \ sâmbătă \ 27:3:2021 \ 19:24:14
+[' Răsarit = 06:07:11 Apus = 18:37:59 Min (°C) = 0.41 Max (°C) =11.62 Presiune = 1026 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 322 Stare = cer senin']
+Breaza: 12 \ duminică \ 28:3:2021 \ 19:19:54
+[' Răsarit = 07:05:17 Apus = 19:39:15 Min (°C) = 3.37 Max (°C) =13.27 Presiune = 1025 Umiditate (%) = 73 Index UV = 0.03 Viteza vântului = 4.39 Unghiul vântului = 358 Stare = nori 85-100%']
+Breaza: 13 \ luni \ 29:3:2021 \ 19:18:48
+[' Răsarit = 07:03:23 Apus = 19:40:31 Min (°C) = 1.28 Max (°C) =9.53 Presiune = 1024 Umiditate (%) = 41 Index UV = 0.08 Viteza vântului = 2.68 Unghiul vântului = 270 Stare = nori 50-85%']
+Breaza: 13 \ marți \ 30:3:2021 \ 19:17:44
+[' Răsarit = 07:01:30 Apus = 19:41:47 Min (°C) = 1.14 Max (°C) =10.7 Presiune = 1029 Umiditate (%) = 65 Index UV = 0.1 Viteza vântului = 1.12 Unghiul vântului = 54 Stare = nori 25-50%']
+Breaza: 13 \ miercuri \ 31:3:2021 \ 19:17:49
+[' Răsarit = 06:59:37 Apus = 19:43:03 Min (°C) = 1.38 Max (°C) =12.43 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.07 Viteza vântului = 0.36 Unghiul vântului = 120 Stare = nori 85-100%']
+Breaza: 13 \ joi \ 01:4:2021 \ 19:18:16
+[' Răsarit = 06:57:44 Apus = 19:44:19 Min (°C) = 4.68 Max (°C) =12.24 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.11 Viteza vântului = 2.44 Unghiul vântului = 241 Stare = nori 50-85%']
+Breaza: 13 \ vineri \ 02:4:2021 \ 19:21:10
+[' Răsarit = 06:55:51 Apus = 19:45:35 Min (°C) = 6.56 Max (°C) =16.59 Presiune = 1008 Umiditate (%) = 59 Index UV = 0.04 Viteza vântului = 1.79 Unghiul vântului = 254 Stare = nori 50-85%']
+Breaza: 13 \ sâmbătă \ 03:4:2021 \ 20:42:44
+[' Răsarit = 06:53:59 Apus = 19:46:51 Min (°C) = 4.53 Max (°C) =8.04 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 7 Stare = nori 85-100%']
+Breaza: 13 \ duminică \ 04:4:2021 \ 20:21:28
+[' Răsarit = 06:52:07 Apus = 19:48:07 Min (°C) = 2.78 Max (°C) =7.01 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 272 Stare = nori 85-100%']
+Breaza: 14 \ luni \ 05:4:2021 \ 14:49:33
+[' Răsarit = 06:50:15 Apus = 19:49:23 Min (°C) = -0.91 Max (°C) =8.33 Presiune = 1012 Umiditate (%) = 64 Index UV = 2.68 Viteza vântului = 1.34 Unghiul vântului = 117 Stare = nori 50-85%']
+Breaza: 14 \ luni \ 05:4:2021 \ 19:19:40
+[' Răsarit = 06:50:15 Apus = 19:49:23 Min (°C) = -0.91 Max (°C) =7.78 Presiune = 1010 Umiditate (%) = 72 Index UV = 0.14 Viteza vântului = 1.34 Unghiul vântului = 188 Stare = nori 25-50%']
+Breaza: 14 \ marți \ 06:4:2021 \ 20:24:04
+[' Răsarit = 06:48:24 Apus = 19:50:40 Min (°C) = -0.36 Max (°C) =11.88 Presiune = 999 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 288 Stare = nori 85-100%']
+Breaza: 14 \ miercuri \ 07:4:2021 \ 19:18:14
+[' Răsarit = 06:46:34 Apus = 19:51:56 Min (°C) = -2.21 Max (°C) =4.19 Presiune = 1008 Umiditate (%) = 81 Index UV = 0.13 Viteza vântului = 0.83 Unghiul vântului = 329 Stare = nori 85-100%']
+Breaza: 14 \ joi \ 08:4:2021 \ 19:18:19
+[' Răsarit = 06:44:43 Apus = 19:53:12 Min (°C) = -2.68 Max (°C) =7.22 Presiune = 1019 Umiditate (%) = 37 Index UV = 0.17 Viteza vântului = 2.24 Unghiul vântului = 241 Stare = nori 50-85%']
+Breaza: 14 \ vineri \ 09:4:2021 \ 19:18:25
+[' Răsarit = 06:42:54 Apus = 19:54:28 Min (°C) = -2.2 Max (°C) =8.33 Presiune = 1025 Umiditate (%) = 46 Index UV = 0.16 Viteza vântului = 1.59 Unghiul vântului = 258 Stare = nori 85-100%']
+Breaza: 14 \ sâmbătă \ 10:4:2021 \ 19:18:00
+[' Răsarit = 06:41:05 Apus = 19:55:44 Min (°C) = -0.97 Max (°C) =10.35 Presiune = 854 Umiditate (%) = 40 Index UV = 0.18 Viteza vântului = 2.1 Unghiul vântului = 207 Stare = nori 50-85%']
+Breaza: 14 \ duminică \ 11:4:2021 \ 19:19:37
+[' Răsarit = 06:39:16 Apus = 19:57:01 Min (°C) = 1.97 Max (°C) =12.78 Presiune = 1024 Umiditate (%) = 42 Index UV = 0.19 Viteza vântului = 0.89 Unghiul vântului = 109 Stare = nori 10-25%']
+Breaza: 15 \ luni \ 12:4:2021 \ 22:03:42
+[' Răsarit = 06:37:29 Apus = 19:58:17 Min (°C) = 3.12 Max (°C) =17.19 Presiune = 1019 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 339 Stare = nori 25-50%']
+Breaza: 15 \ marți \ 13:4:2021 \ 19:19:20
+[' Răsarit = 06:35:42 Apus = 19:59:33 Min (°C) = 7.54 Max (°C) =16.67 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.17 Viteza vântului = 1.34 Unghiul vântului = 100 Stare = nori 85-100%']
+Breaza: 15 \ miercuri \ 14:4:2021 \ 19:19:19
+[' Răsarit = 06:33:55 Apus = 20:00:50 Min (°C) = 3.92 Max (°C) =9.28 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.06 Viteza vântului = 1.51 Unghiul vântului = 329 Stare = nori 85-100%']
+Breaza: 15 \ joi \ 15:4:2021 \ 19:20:47
+[' Răsarit = 06:32:10 Apus = 20:02:06 Min (°C) = 0.61 Max (°C) =8.95 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.13 Viteza vântului = 0.45 Unghiul vântului = 182 Stare = nori 85-100%']
+Breaza: 15 \ vineri \ 16:4:2021 \ 19:18:53
+[' Răsarit = 06:30:25 Apus = 20:03:23 Min (°C) = 0.99 Max (°C) =8.89 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.17 Viteza vântului = 0.43 Unghiul vântului = 343 Stare = nori 85-100%']
+Breaza: 15 \ sâmbătă \ 17:4:2021 \ 19:18:42
+[' Răsarit = 06:28:41 Apus = 20:04:40 Min (°C) = 1.03 Max (°C) =10.76 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.17 Viteza vântului = 1.22 Unghiul vântului = 145 Stare = nori 85-100%']
+Breaza: 15 \ duminică \ 18:4:2021 \ 19:18:07
+[' Răsarit = 06:26:58 Apus = 20:05:56 Min (°C) = 3.56 Max (°C) =5.58 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 0.84 Unghiul vântului = 57 Stare = nori 85-100%']
+Breaza: 16 \ luni \ 19:4:2021 \ 19:18:58
+[' Răsarit = 06:25:16 Apus = 20:07:13 Min (°C) = 2.97 Max (°C) =10.09 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.03 Viteza vântului = 1.36 Unghiul vântului = 106 Stare = nori 85-100%']
+Breaza: 16 \ marți \ 20:4:2021 \ 19:18:19
+[' Răsarit = 06:23:34 Apus = 20:08:30 Min (°C) = 5.03 Max (°C) =10.4 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.15 Viteza vântului = 0.09 Unghiul vântului = 151 Stare = ploaie ușoară']
+Breaza: 16 \ miercuri \ 21:4:2021 \ 19:18:25
+[' Răsarit = 06:21:54 Apus = 20:09:46 Min (°C) = 4.19 Max (°C) =13.26 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.22 Viteza vântului = 0.87 Unghiul vântului = 294 Stare = nori 85-100%']
+Breaza: 16 \ joi \ 22:4:2021 \ 19:18:59
+[' Răsarit = 06:20:14 Apus = 20:11:03 Min (°C) = 4.49 Max (°C) =15.83 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.26 Viteza vântului = 3.45 Unghiul vântului = 250 Stare = nori 50-85%']
+Breaza: 16 \ vineri \ 23:4:2021 \ 19:18:16
+[' Răsarit = 06:18:36 Apus = 20:12:20 Min (°C) = 6.48 Max (°C) =13.36 Presiune = 1017 Umiditate (%) = 61 Index UV = 0.24 Viteza vântului = 0.89 Unghiul vântului = 247 Stare = nori 25-50%']
+Breaza: 16 \ sâmbătă \ 24:4:2021 \ 19:18:24
+[' Răsarit = 06:16:58 Apus = 20:13:37 Min (°C) = 3.47 Max (°C) =11.8 Presiune = 1020 Umiditate (%) = 60 Index UV = 0.26 Viteza vântului = 1.79 Unghiul vântului = 130 Stare = nori 85-100%']
+Breaza: 16 \ duminică \ 25:4:2021 \ 19:18:42
+[' Răsarit = 06:15:22 Apus = 20:14:53 Min (°C) = 5.81 Max (°C) =13.33 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.17 Viteza vântului = 0.89 Unghiul vântului = 123 Stare = nori 85-100%']
+Breaza: 17 \ luni \ 26:4:2021 \ 19:18:16
+[' Răsarit = 06:13:47 Apus = 20:16:10 Min (°C) = 4.86 Max (°C) =16.32 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.28 Viteza vântului = 0.89 Unghiul vântului = 76 Stare = nori 85-100%']
+Breaza: 17 \ marți \ 27:4:2021 \ 19:19:56
+[' Răsarit = 06:12:13 Apus = 20:17:27 Min (°C) = 5.85 Max (°C) =8.78 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.06 Viteza vântului = 1.96 Unghiul vântului = 97 Stare = nori 85-100%']
+Breaza: 17 \ miercuri \ 28:4:2021 \ 19:18:29
+[' Răsarit = 06:10:40 Apus = 20:18:43 Min (°C) = 3.65 Max (°C) =6.67 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.27 Viteza vântului = 1.98 Unghiul vântului = 94 Stare = nori 85-100%']
+Breaza: 17 \ joi \ 29:4:2021 \ 19:10:46
+[' Răsarit = 06:09:08 Apus = 20:19:59 Min (°C) = 5.41 Max (°C) =15 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.37 Viteza vântului = 0.89 Unghiul vântului = 133 Stare = nori 85-100%']
+Breaza: 17 \ joi \ 29:4:2021 \ 19:28:44
+[' Răsarit = 06:09:08 Apus = 20:19:59 Min (°C) = 5.41 Max (°C) =14.44 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.37 Viteza vântului = 1.34 Unghiul vântului = 63 Stare = nori 85-100%']
+Breaza: 17 \ vineri \ 30:4:2021 \ 19:18:22
+[' Răsarit = 06:07:37 Apus = 20:21:16 Min (°C) = 7.34 Max (°C) =20.73 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.38 Viteza vântului = 2 Unghiul vântului = 274 Stare = nori 50-85%']
+Breaza: 17 \ sâmbătă \ 01:5:2021 \ 19:19:34
+[' Răsarit = 06:06:08 Apus = 20:22:32 Min (°C) = 11.69 Max (°C) =21.47 Presiune = 852 Umiditate (%) = 80 Index UV = 0.24 Viteza vântului = 0.88 Unghiul vântului = 143 Stare = nori 85-100%']
+Breaza: 17 \ duminică \ 02:5:2021 \ 20:25:58
+[' Răsarit = 06:04:40 Apus = 20:23:48 Min (°C) = 9.44 Max (°C) =23.62 Presiune = 849 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 297 Stare = nori 25-50%']
+Breaza: 18 \ luni \ 03:5:2021 \ 19:18:36
+[' Răsarit = 06:03:13 Apus = 20:25:03 Min (°C) = 6.14 Max (°C) =20.54 Presiune = 850 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 2.95 Unghiul vântului = 1 Stare = nori 85-100%']
+Breaza: 18 \ marți \ 04:5:2021 \ 19:20:37
+[' Răsarit = 06:01:48 Apus = 20:26:19 Min (°C) = 4.95 Max (°C) =14.61 Presiune = 851 Umiditate (%) = 62 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 212 Stare = nori 50-85%']
+Breaza: 18 \ miercuri \ 05:5:2021 \ 19:18:20
+[' Răsarit = 06:00:24 Apus = 20:27:34 Min (°C) = 7.1 Max (°C) =15.89 Presiune = 846 Umiditate (%) = 87 Index UV = 0.39 Viteza vântului = 1.82 Unghiul vântului = 226 Stare = nori 85-100%']
+Breaza: 18 \ joi \ 06:5:2021 \ 19:19:21
+[' Răsarit = 05:59:02 Apus = 20:28:49 Min (°C) = 9 Max (°C) =17.36 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.21 Viteza vântului = 1.14 Unghiul vântului = 317 Stare = nori 50-85%']
+Breaza: 18 \ vineri \ 07:5:2021 \ 19:17:56
+[' Răsarit = 05:57:41 Apus = 20:30:03 Min (°C) = 8.65 Max (°C) =19.36 Presiune = 847 Umiditate (%) = 66 Index UV = 0.38 Viteza vântului = 3.87 Unghiul vântului = 238 Stare = nori 50-85%']
+Breaza: 18 \ sâmbătă \ 08:5:2021 \ 19:18:34
+[' Răsarit = 05:56:21 Apus = 20:31:17 Min (°C) = 6.16 Max (°C) =12.96 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.4 Viteza vântului = 0.89 Unghiul vântului = 135 Stare = nori 85-100%']
+Breaza: 18 \ duminică \ 09:5:2021 \ 19:18:13
+[' Răsarit = 05:55:03 Apus = 20:32:31 Min (°C) = 3.39 Max (°C) =14.57 Presiune = 858 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 4.02 Unghiul vântului = 224 Stare = nori 50-85%']
+Breaza: 19 \ luni \ 10:5:2021 \ 19:18:22
+[' Răsarit = 05:53:47 Apus = 20:33:44 Min (°C) = 5.39 Max (°C) =16.67 Presiune = 857 Umiditate (%) = 61 Index UV = 0.5 Viteza vântului = 4.02 Unghiul vântului = 229 Stare = cer senin']
+Breaza: 19 \ marți \ 11:5:2021 \ 19:19:17
+[' Răsarit = 05:52:32 Apus = 20:34:57 Min (°C) = 6.26 Max (°C) =18.25 Presiune = 840 Umiditate (%) = 62 Index UV = 0.42 Viteza vântului = 4.02 Unghiul vântului = 232 Stare = cer senin']
+Breaza: 19 \ miercuri \ 12:5:2021 \ 19:18:29
+[' Răsarit = 05:51:19 Apus = 20:36:10 Min (°C) = 8.18 Max (°C) =19.37 Presiune = 1008 Umiditate (%) = 61 Index UV = 0.51 Viteza vântului = 3 Unghiul vântului = 107 Stare = nori 50-85%']
+Breaza: 19 \ joi \ 13:5:2021 \ 19:19:26
+[' Răsarit = 05:50:08 Apus = 20:37:21 Min (°C) = 8.75 Max (°C) =15.19 Presiune = 1005 Umiditate (%) = 73 Index UV = 0.49 Viteza vântului = 2.08 Unghiul vântului = 206 Stare = nori 50-85%']
+Breaza: 19 \ vineri \ 14:5:2021 \ 19:19:10
+[' Răsarit = 05:48:58 Apus = 20:38:33 Min (°C) = 8.83 Max (°C) =16.7 Presiune = 1009 Umiditate (%) = 56 Index UV = 0.43 Viteza vântului = 1.99 Unghiul vântului = 283 Stare = nori 50-85%']
+Breaza: 19 \ sâmbătă \ 15:5:2021 \ 19:18:39
+[' Răsarit = 05:47:50 Apus = 20:39:43 Min (°C) = 8.11 Max (°C) =20 Presiune = 1009 Umiditate (%) = 59 Index UV = 0.47 Viteza vântului = 2.17 Unghiul vântului = 130 Stare = nori 10-25%']
+Breaza: 19 \ duminică \ 16:5:2021 \ 19:19:15
+[' Răsarit = 05:46:43 Apus = 20:40:53 Min (°C) = 10.77 Max (°C) =17.22 Presiune = 1007 Umiditate (%) = 82 Index UV = 0.53 Viteza vântului = 0.29 Unghiul vântului = 89 Stare = nori 50-85%']
+Breaza: 20 \ luni \ 17:5:2021 \ 19:19:49
+[' Răsarit = 05:45:39 Apus = 20:42:02 Min (°C) = 9.18 Max (°C) =18.89 Presiune = 1004 Umiditate (%) = 59 Index UV = 0.4 Viteza vântului = 1.79 Unghiul vântului = 223 Stare = nori 85-100%']
+Breaza: 20 \ marți \ 18:5:2021 \ 19:19:10
+[' Răsarit = 05:44:36 Apus = 20:43:10 Min (°C) = 7.95 Max (°C) =15.4 Presiune = 1005 Umiditate (%) = 68 Index UV = 0.07 Viteza vântului = 4 Unghiul vântului = 280 Stare = nori 50-85%']
+Breaza: 20 \ miercuri \ 19:5:2021 \ 19:18:04
+[' Răsarit = 05:43:35 Apus = 20:44:18 Min (°C) = 7.03 Max (°C) =20.18 Presiune = 1009 Umiditate (%) = 64 Index UV = 0.32 Viteza vântului = 0.61 Unghiul vântului = 352 Stare = nori 85-100%']
+Breaza: 20 \ joi \ 20:5:2021 \ 19:18:42
+[' Răsarit = 05:42:36 Apus = 20:45:24 Min (°C) = 8.78 Max (°C) =11.1 Presiune = 1011 Umiditate (%) = 95 Index UV = 0.04 Viteza vântului = 1.02 Unghiul vântului = 347 Stare = ploaie ușoară']
+Breaza: 20 \ vineri \ 21:5:2021 \ 19:19:21
+[' Răsarit = 05:41:39 Apus = 20:46:30 Min (°C) = 8.06 Max (°C) =17.66 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.54 Viteza vântului = 0.78 Unghiul vântului = 267 Stare = nori 50-85%']
+Breaza: 20 \ sâmbătă \ 22:5:2021 \ 19:19:28
+[' Răsarit = 05:40:44 Apus = 20:47:35 Min (°C) = 8 Max (°C) =19.06 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.63 Viteza vântului = 4.1 Unghiul vântului = 228 Stare = nori 10-25%']
+Breaza: 20 \ duminică \ 23:5:2021 \ 19:19:35
+[' Răsarit = 05:39:50 Apus = 20:48:39 Min (°C) = 12.21 Max (°C) =22.66 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.64 Viteza vântului = 3.58 Unghiul vântului = 208 Stare = nori 85-100%']
+Breaza: 21 \ luni \ 24:5:2021 \ 19:18:19
+[' Răsarit = 05:38:59 Apus = 20:49:41 Min (°C) = 12.93 Max (°C) =22.54 Presiune = 1022 Umiditate (%) = 64 Index UV = 0.68 Viteza vântului = 2.34 Unghiul vântului = 160 Stare = nori 50-85%']
+Breaza: 21 \ marți \ 25:5:2021 \ 19:18:20
+[' Răsarit = 05:38:10 Apus = 20:50:43 Min (°C) = 10.31 Max (°C) =20.44 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.66 Viteza vântului = 2.17 Unghiul vântului = 208 Stare = nori 50-85%']
+Breaza: 21 \ miercuri \ 26:5:2021 \ 19:20:51
+[' Răsarit = 05:37:23 Apus = 20:51:43 Min (°C) = 13.96 Max (°C) =22.75 Presiune = 1017 Umiditate (%) = 88 Index UV = 0.37 Viteza vântului = 2.38 Unghiul vântului = 95 Stare = nori 85-100%']
+Breaza: 21 \ joi \ 27:5:2021 \ 19:18:30
+[' Răsarit = 05:36:38 Apus = 20:52:42 Min (°C) = 13.12 Max (°C) =20.19 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.55 Viteza vântului = 2.11 Unghiul vântului = 150 Stare = nori 85-100%']
+Breaza: 21 \ vineri \ 28:5:2021 \ 19:18:29
+[' Răsarit = 05:35:55 Apus = 20:53:40 Min (°C) = 11.58 Max (°C) =13.56 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.06 Viteza vântului = 3.45 Unghiul vântului = 350 Stare = nori 85-100%']
+Breaza: 21 \ sâmbătă \ 29:5:2021 \ 19:18:08
+[' Răsarit = 05:35:14 Apus = 20:54:36 Min (°C) = 10.93 Max (°C) =18.68 Presiune = 1013 Umiditate (%) = 86 Index UV = 0.61 Viteza vântului = 0.62 Unghiul vântului = 304 Stare = nori 50-85%']
+Breaza: 21 \ duminică \ 30:5:2021 \ 19:17:51
+[' Răsarit = 05:34:35 Apus = 20:55:31 Min (°C) = 10.57 Max (°C) =14.58 Presiune = 1015 Umiditate (%) = 87 Index UV = 0.3 Viteza vântului = 1.91 Unghiul vântului = 355 Stare = nori 85-100%']
+Breaza: 22 \ marți \ 01:6:2021 \ 19:19:15
+[' Răsarit = 05:33:24 Apus = 20:57:17 Min (°C) = 6.61 Max (°C) =9.63 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.08 Viteza vântului = 3.07 Unghiul vântului = 352 Stare = nori 85-100%']
+Breaza: 22 \ miercuri \ 02:6:2021 \ 19:16:02
+[' Răsarit = 05:32:52 Apus = 20:58:08 Min (°C) = 7.03 Max (°C) =13.66 Presiune = 1018 Umiditate (%) = 85 Index UV = 0.1 Viteza vântului = 1.11 Unghiul vântului = 338 Stare = nori 85-100%']
+Breaza: 22 \ joi \ 03:6:2021 \ 19:16:29
+[' Răsarit = 05:32:22 Apus = 20:58:57 Min (°C) = 8.99 Max (°C) =16.28 Presiune = 1022 Umiditate (%) = 70 Index UV = 0.26 Viteza vântului = 0.85 Unghiul vântului = 325 Stare = nori 85-100%']
+Breaza: 22 \ vineri \ 04:6:2021 \ 19:24:56
+[' Răsarit = 05:31:54 Apus = 20:59:44 Min (°C) = 9.2 Max (°C) =18.86 Presiune = 1023 Umiditate (%) = 71 Index UV = 0.69 Viteza vântului = 1.29 Unghiul vântului = 119 Stare = nori 85-100%']
+Breaza: 22 \ sâmbătă \ 05:6:2021 \ 19:20:11
+[' Răsarit = 05:31:29 Apus = 21:00:30 Min (°C) = 9.78 Max (°C) =20.85 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.62 Viteza vântului = 2.59 Unghiul vântului = 220 Stare = nori 50-85%']
+Breaza: 22 \ duminică \ 06:6:2021 \ 19:18:59
+[' Răsarit = 05:31:05 Apus = 21:01:14 Min (°C) = 11.39 Max (°C) =18.77 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.69 Viteza vântului = 0.58 Unghiul vântului = 107 Stare = nori 10-25%']
+Breaza: 23 \ luni \ 07:6:2021 \ 19:18:48
+[' Răsarit = 05:30:44 Apus = 21:01:56 Min (°C) = 10.85 Max (°C) =19.73 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.72 Viteza vântului = 0.52 Unghiul vântului = 332 Stare = nori 25-50%']
+Breaza: 23 \ marți \ 08:6:2021 \ 19:18:07
+[' Răsarit = 05:30:26 Apus = 21:02:37 Min (°C) = 11.63 Max (°C) =19.6 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.71 Viteza vântului = 0.62 Unghiul vântului = 328 Stare = ploaie ușoară']
+Breaza: 23 \ miercuri \ 09:6:2021 \ 19:19:19
+[' Răsarit = 05:30:09 Apus = 21:03:15 Min (°C) = 12.02 Max (°C) =22.82 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.68 Viteza vântului = 1.42 Unghiul vântului = 321 Stare = nori 25-50%']
+Breaza: 23 \ joi \ 10:6:2021 \ 19:18:15
+[' Răsarit = 05:29:55 Apus = 21:03:52 Min (°C) = 12.51 Max (°C) =19.99 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.7 Viteza vântului = 1 Unghiul vântului = 308 Stare = nori 85-100%']
+Breaza: 23 \ vineri \ 11:6:2021 \ 19:18:20
+[' Răsarit = 05:29:43 Apus = 21:04:27 Min (°C) = 11.68 Max (°C) =19.68 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.33 Viteza vântului = 0.88 Unghiul vântului = 323 Stare = nori 50-85%']
+Breaza: 23 \ sâmbătă \ 12:6:2021 \ 19:18:35
+[' Răsarit = 05:29:34 Apus = 21:05:00 Min (°C) = 11.6 Max (°C) =19.89 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.31 Viteza vântului = 1.38 Unghiul vântului = 302 Stare = nori 25-50%']
+Breaza: 23 \ duminică \ 13:6:2021 \ 19:24:00
+[' Răsarit = 05:29:27 Apus = 21:05:30 Min (°C) = 9.38 Max (°C) =17.72 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.63 Viteza vântului = 2.7 Unghiul vântului = 355 Stare = nori 50-85%']
+Breaza: 24 \ luni \ 14:6:2021 \ 19:18:30
+[' Răsarit = 05:29:22 Apus = 21:05:59 Min (°C) = 7.99 Max (°C) =16.82 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.49 Viteza vântului = 2.57 Unghiul vântului = 6 Stare = nori 50-85%']
+Breaza: 24 \ marți \ 15:6:2021 \ 19:20:47
+[' Răsarit = 05:29:19 Apus = 21:06:25 Min (°C) = 8.46 Max (°C) =18.01 Presiune = 1011 Umiditate (%) = 75 Index UV = 0.12 Viteza vântului = 4.21 Unghiul vântului = 342 Stare = nori 50-85%']
+Breaza: 24 \ miercuri \ 16:6:2021 \ 19:20:01
+[' Răsarit = 05:29:19 Apus = 21:06:50 Min (°C) = 13.72 Max (°C) =21.86 Presiune = 1013 Umiditate (%) = 63 Index UV = 0.63 Viteza vântului = 1.27 Unghiul vântului = 341 Stare = nori 85-100%']
+Breaza: 24 \ joi \ 17:6:2021 \ 19:18:53
+[' Răsarit = 05:29:21 Apus = 21:07:12 Min (°C) = 13.32 Max (°C) =23.76 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.44 Viteza vântului = 0.41 Unghiul vântului = 229 Stare = nori 85-100%']
+Breaza: 24 \ vineri \ 18:6:2021 \ 19:19:29
+[' Răsarit = 05:29:25 Apus = 21:07:32 Min (°C) = 14.68 Max (°C) =18.57 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.08 Viteza vântului = 1.31 Unghiul vântului = 29 Stare = ploaie ușoară']
+Breaza: 24 \ sâmbătă \ 19:6:2021 \ 19:18:54
+[' Răsarit = 05:29:32 Apus = 21:07:50 Min (°C) = 13.42 Max (°C) =19.31 Presiune = 1014 Umiditate (%) = 83 Index UV = 0.38 Viteza vântului = 3.33 Unghiul vântului = 58 Stare = nori 50-85%']
+Breaza: 24 \ duminică \ 20:6:2021 \ 19:19:36
+[' Răsarit = 05:29:41 Apus = 21:08:06 Min (°C) = 13.91 Max (°C) =20.87 Presiune = 1011 Umiditate (%) = 84 Index UV = 0.59 Viteza vântului = 1.41 Unghiul vântului = 259 Stare = nori 85-100%']
+Breaza: 25 \ luni \ 21:6:2021 \ 19:20:19
+[' Răsarit = 05:29:52 Apus = 21:08:19 Min (°C) = 12.62 Max (°C) =22.35 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.74 Viteza vântului = 0.54 Unghiul vântului = 210 Stare = nori 50-85%']
+Breaza: 25 \ marți \ 22:6:2021 \ 19:19:43
+[' Răsarit = 05:30:05 Apus = 21:08:30 Min (°C) = 14.4 Max (°C) =25.36 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.76 Viteza vântului = 0.79 Unghiul vântului = 198 Stare = nori 10-25%']
+Breaza: 25 \ miercuri \ 23:6:2021 \ 19:18:51
+[' Răsarit = 05:30:20 Apus = 21:08:39 Min (°C) = 17.19 Max (°C) =28.93 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.74 Viteza vântului = 1.33 Unghiul vântului = 290 Stare = ploaie moderată']
+Breaza: 25 \ joi \ 24:6:2021 \ 19:19:32
+[' Răsarit = 05:30:38 Apus = 21:08:46 Min (°C) = 18.11 Max (°C) =30.02 Presiune = 1015 Umiditate (%) = 82 Index UV = 0.82 Viteza vântului = 0.49 Unghiul vântului = 265 Stare = ploaie moderată']
+Breaza: 25 \ vineri \ 25:6:2021 \ 19:19:03
+[' Răsarit = 05:30:58 Apus = 21:08:50 Min (°C) = 18.58 Max (°C) =30.65 Presiune = 1014 Umiditate (%) = 87 Index UV = 0.38 Viteza vântului = 4.69 Unghiul vântului = 353 Stare = nori 85-100%']
+Breaza: 25 \ sâmbătă \ 26:6:2021 \ 19:18:31
+[' Răsarit = 05:31:20 Apus = 21:08:52 Min (°C) = 17.07 Max (°C) =29.3 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.07 Viteza vântului = 3.36 Unghiul vântului = 2 Stare = nori 50-85%']
+Breaza: 25 \ duminică \ 27:6:2021 \ 19:18:25
+[' Răsarit = 05:31:44 Apus = 21:08:51 Min (°C) = 16.39 Max (°C) =23.87 Presiune = 1015 Umiditate (%) = 86 Index UV = 0.73 Viteza vântului = 1.87 Unghiul vântului = 304 Stare = nori 50-85%']
+Breaza: 26 \ luni \ 28:6:2021 \ 19:21:33
+[' Răsarit = 05:32:09 Apus = 21:08:48 Min (°C) = 15.7 Max (°C) =23.19 Presiune = 1018 Umiditate (%) = 80 Index UV = 0.75 Viteza vântului = 1.51 Unghiul vântului = 266 Stare = nori 25-50%']
+Breaza: 26 \ marți \ 29:6:2021 \ 19:20:21
+[' Răsarit = 05:32:37 Apus = 21:08:43 Min (°C) = 16.21 Max (°C) =26.8 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.78 Viteza vântului = 2.3 Unghiul vântului = 223 Stare = nori 25-50%']
+Breaza: 26 \ miercuri \ 30:6:2021 \ 19:19:14
+[' Răsarit = 05:33:07 Apus = 21:08:36 Min (°C) = 18.24 Max (°C) =29.85 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.68 Viteza vântului = 1.53 Unghiul vântului = 245 Stare = nori 25-50%']
+Breaza: 26 \ joi \ 01:7:2021 \ 19:20:09
+[' Răsarit = 05:33:39 Apus = 21:08:26 Min (°C) = 18.53 Max (°C) =28.13 Presiune = 1011 Umiditate (%) = 86 Index UV = 0.12 Viteza vântului = 5.45 Unghiul vântului = 358 Stare = nori 10-25%']
+Breaza: 26 \ vineri \ 02:7:2021 \ 19:18:37
+[' Răsarit = 05:34:13 Apus = 21:08:14 Min (°C) = 15.61 Max (°C) =21.48 Presiune = 1010 Umiditate (%) = 83 Index UV = 0.11 Viteza vântului = 1.51 Unghiul vântului = 354 Stare = nori 25-50%']
+Breaza: 26 \ sâmbătă \ 03:7:2021 \ 19:18:51
+[' Răsarit = 05:34:49 Apus = 21:07:59 Min (°C) = 12.51 Max (°C) =20.84 Presiune = 1010 Umiditate (%) = 71 Index UV = 0.47 Viteza vântului = 2.56 Unghiul vântului = 343 Stare = nori 85-100%']
+Breaza: 26 \ duminică \ 04:7:2021 \ 19:18:30
+[' Răsarit = 05:35:26 Apus = 21:07:42 Min (°C) = 12.85 Max (°C) =23.03 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.67 Viteza vântului = 1.98 Unghiul vântului = 356 Stare = nori 50-85%']
+Breaza: 27 \ luni \ 05:7:2021 \ 19:19:00
+[' Răsarit = 05:36:06 Apus = 21:07:23 Min (°C) = 13.75 Max (°C) =23.94 Presiune = 1009 Umiditate (%) = 77 Index UV = 0.3 Viteza vântului = 0.43 Unghiul vântului = 56 Stare = nori 85-100%']
+Breaza: 27 \ marți \ 06:7:2021 \ 19:19:46
+[' Răsarit = 05:36:47 Apus = 21:07:01 Min (°C) = 16.92 Max (°C) =26.58 Presiune = 1012 Umiditate (%) = 67 Index UV = 0.71 Viteza vântului = 0.78 Unghiul vântului = 354 Stare = nori 50-85%']
+Breaza: 27 \ miercuri \ 07:7:2021 \ 19:18:28
+[' Răsarit = 05:37:29 Apus = 21:06:37 Min (°C) = 17.35 Max (°C) =26.98 Presiune = 1017 Umiditate (%) = 78 Index UV = 0.77 Viteza vântului = 1.11 Unghiul vântului = 180 Stare = ploaie ușoară']
+Breaza: 27 \ joi \ 08:7:2021 \ 19:19:39
+[' Răsarit = 05:38:14 Apus = 21:06:11 Min (°C) = 16.98 Max (°C) =25.86 Presiune = 1022 Umiditate (%) = 73 Index UV = 0.65 Viteza vântului = 2.96 Unghiul vântului = 81 Stare = nori 50-85%']
+Breaza: 27 \ vineri \ 09:7:2021 \ 19:19:09
+[' Răsarit = 05:39:00 Apus = 21:05:42 Min (°C) = 16.8 Max (°C) =26.52 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.74 Viteza vântului = 1.87 Unghiul vântului = 127 Stare = nori 50-85%']
+Breaza: 27 \ sâmbătă \ 10:7:2021 \ 19:18:31
+[' Răsarit = 05:39:47 Apus = 21:05:12 Min (°C) = 16.26 Max (°C) =26.45 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.69 Viteza vântului = 2.12 Unghiul vântului = 141 Stare = nori 10-25%']
+Breaza: 27 \ duminică \ 11:7:2021 \ 19:18:42
+[' Răsarit = 05:40:36 Apus = 21:04:39 Min (°C) = 16.86 Max (°C) =27.26 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.56 Viteza vântului = 2.59 Unghiul vântului = 59 Stare = nori 85-100%']
+Breaza: 28 \ luni \ 12:7:2021 \ 19:19:29
+[' Răsarit = 05:41:27 Apus = 21:04:03 Min (°C) = 15.75 Max (°C) =26.57 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.34 Viteza vântului = 0.9 Unghiul vântului = 357 Stare = nori 50-85%']
+Breaza: 28 \ marți \ 13:7:2021 \ 19:19:20
+[' Răsarit = 05:42:18 Apus = 21:03:26 Min (°C) = 17.25 Max (°C) =27.56 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.66 Viteza vântului = 1.75 Unghiul vântului = 94 Stare = nori 50-85%']
+Breaza: 28 \ miercuri \ 14:7:2021 \ 19:18:46
+[' Răsarit = 05:43:12 Apus = 21:02:46 Min (°C) = 17.93 Max (°C) =28.35 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.75 Viteza vântului = 2.71 Unghiul vântului = 138 Stare = cer senin']
+Breaza: 28 \ joi \ 15:7:2021 \ 19:18:31
+[' Răsarit = 05:44:06 Apus = 21:02:04 Min (°C) = 17.87 Max (°C) =28.8 Presiune = 1013 Umiditate (%) = 67 Index UV = 0.73 Viteza vântului = 2.95 Unghiul vântului = 132 Stare = cer senin']
+Breaza: 28 \ vineri \ 16:7:2021 \ 19:18:45
+[' Răsarit = 05:45:02 Apus = 21:01:20 Min (°C) = 18.56 Max (°C) =28.3 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.7 Viteza vântului = 2.97 Unghiul vântului = 98 Stare = cer senin']
+Breaza: 28 \ sâmbătă \ 17:7:2021 \ 19:19:13
+[' Răsarit = 05:45:59 Apus = 21:00:34 Min (°C) = 18.17 Max (°C) =29.38 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.67 Viteza vântului = 3.77 Unghiul vântului = 69 Stare = cer senin']
+Breaza: 28 \ duminică \ 18:7:2021 \ 19:19:37
+[' Răsarit = 05:46:57 Apus = 20:59:46 Min (°C) = 19.62 Max (°C) =30.08 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.59 Viteza vântului = 4.21 Unghiul vântului = 113 Stare = cer senin']
+Breaza: 29 \ luni \ 19:7:2021 \ 19:18:57
+[' Răsarit = 05:47:56 Apus = 20:58:56 Min (°C) = 19.8 Max (°C) =30.05 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.61 Viteza vântului = 1.75 Unghiul vântului = 109 Stare = nori 50-85%']
+Breaza: 29 \ marți \ 20:7:2021 \ 19:18:57
+[' Răsarit = 05:48:56 Apus = 20:58:03 Min (°C) = 17.47 Max (°C) =24.73 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.38 Viteza vântului = 1.98 Unghiul vântului = 291 Stare = ploaie ușoară']
+Breaza: 29 \ miercuri \ 21:7:2021 \ 19:18:15
+[' Răsarit = 05:49:58 Apus = 20:57:09 Min (°C) = 15.81 Max (°C) =23.6 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.57 Viteza vântului = 1.85 Unghiul vântului = 348 Stare = nori 25-50%']
+Breaza: 29 \ joi \ 22:7:2021 \ 19:18:15
+[' Răsarit = 05:51:00 Apus = 20:56:13 Min (°C) = 14.02 Max (°C) =24.19 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.58 Viteza vântului = 0.96 Unghiul vântului = 347 Stare = nori 50-85%']
+Breaza: 29 \ vineri \ 23:7:2021 \ 19:18:36
+[' Răsarit = 05:52:03 Apus = 20:55:15 Min (°C) = 13.99 Max (°C) =23.34 Presiune = 1016 Umiditate (%) = 79 Index UV = 0.56 Viteza vântului = 0.69 Unghiul vântului = 72 Stare = nori 85-100%']
+Breaza: 29 \ sâmbătă \ 24:7:2021 \ 19:25:41
+[' Răsarit = 05:53:07 Apus = 20:54:14 Min (°C) = 15.18 Max (°C) =22.5 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.44 Viteza vântului = 0.87 Unghiul vântului = 75 Stare = nori 50-85%']
+Breaza: 29 \ duminică \ 25:7:2021 \ 19:19:13
+[' Răsarit = 05:54:12 Apus = 20:53:12 Min (°C) = 14.75 Max (°C) =24.79 Presiune = 1018 Umiditate (%) = 58 Index UV = 0.6 Viteza vântului = 0.54 Unghiul vântului = 185 Stare = nori 50-85%']
+Breaza: 30 \ luni \ 26:7:2021 \ 19:19:08
+[' Răsarit = 05:55:17 Apus = 20:52:08 Min (°C) = 15.91 Max (°C) =27.09 Presiune = 1018 Umiditate (%) = 67 Index UV = 0.54 Viteza vântului = 1.93 Unghiul vântului = 199 Stare = nori 10-25%']
+Breaza: 30 \ marți \ 27:7:2021 \ 19:20:48
+[' Răsarit = 05:56:23 Apus = 20:51:03 Min (°C) = 18.17 Max (°C) =30.92 Presiune = 1017 Umiditate (%) = 76 Index UV = 0.59 Viteza vântului = 1.85 Unghiul vântului = 330 Stare = nori 25-50%']
+Breaza: 30 \ miercuri \ 28:7:2021 \ 19:21:29
+[' Răsarit = 05:57:30 Apus = 20:49:55 Min (°C) = 19.99 Max (°C) =32.7 Presiune = 1017 Umiditate (%) = 80 Index UV = 0.27 Viteza vântului = 4.97 Unghiul vântului = 321 Stare = nori 85-100%']
+Breaza: 30 \ joi \ 29:7:2021 \ 19:20:21
+[' Răsarit = 05:58:38 Apus = 20:48:46 Min (°C) = 20.09 Max (°C) =33.3 Presiune = 1013 Umiditate (%) = 84 Index UV = 0.29 Viteza vântului = 2.6 Unghiul vântului = 27 Stare = nori 50-85%']
+Breaza: 30 \ vineri \ 30:7:2021 \ 19:18:34
+[' Răsarit = 05:59:46 Apus = 20:47:35 Min (°C) = 19.45 Max (°C) =29.59 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.26 Viteza vântului = 1.43 Unghiul vântului = 293 Stare = cer senin']
+Breaza: 30 \ sâmbătă \ 31:7:2021 \ 19:18:24
+[' Răsarit = 06:00:55 Apus = 20:46:22 Min (°C) = 19.55 Max (°C) =31.66 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.38 Viteza vântului = 2.49 Unghiul vântului = 261 Stare = nori 10-25%']
+Breaza: 30 \ duminică \ 01:8:2021 \ 19:18:57
+[' Răsarit = 06:02:04 Apus = 20:45:07 Min (°C) = 19.71 Max (°C) =32.69 Presiune = 1009 Umiditate (%) = 40 Index UV = 0.55 Viteza vântului = 0.8 Unghiul vântului = 231 Stare = cer senin']
+Breaza: 31 \ luni \ 02:8:2021 \ 19:18:09
+[' Răsarit = 06:03:13 Apus = 20:43:51 Min (°C) = 21.82 Max (°C) =33.35 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.53 Viteza vântului = 2.39 Unghiul vântului = 264 Stare = cer senin']
+Breaza: 31 \ marți \ 03:8:2021 \ 19:18:46
+[' Răsarit = 06:04:23 Apus = 20:42:34 Min (°C) = 16.5 Max (°C) =26.35 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.46 Viteza vântului = 2.53 Unghiul vântului = 57 Stare = nori 85-100%']
+Breaza: 31 \ miercuri \ 04:8:2021 \ 19:17:09
+[' Răsarit = 06:05:34 Apus = 20:41:14 Min (°C) = 16.45 Max (°C) =27.29 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.45 Viteza vântului = 1.28 Unghiul vântului = 352 Stare = nori 50-85%']
+Breaza: 31 \ joi \ 05:8:2021 \ 19:15:48
+[' Răsarit = 06:06:44 Apus = 20:39:54 Min (°C) = 17.85 Max (°C) =31.11 Presiune = 1004 Umiditate (%) = 37 Index UV = 0.42 Viteza vântului = 3 Unghiul vântului = 91 Stare = nori 10-25%']
+Breaza: 31 \ vineri \ 06:8:2021 \ 19:18:40
+[' Răsarit = 06:07:55 Apus = 20:38:31 Min (°C) = 18.48 Max (°C) =27.52 Presiune = 1004 Umiditate (%) = 76 Index UV = 0.44 Viteza vântului = 4.59 Unghiul vântului = 7 Stare = nori 50-85%']
+Breaza: 31 \ sâmbătă \ 07:8:2021 \ 19:18:22
+[' Răsarit = 06:09:07 Apus = 20:37:08 Min (°C) = 14.31 Max (°C) =27.18 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.45 Viteza vântului = 0.42 Unghiul vântului = 277 Stare = cer senin']
+Breaza: 31 \ duminică \ 08:8:2021 \ 19:18:15
+[' Răsarit = 06:10:18 Apus = 20:35:42 Min (°C) = 15.28 Max (°C) =28.6 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.46 Viteza vântului = 0.58 Unghiul vântului = 230 Stare = cer senin']
+Breaza: 32 \ luni \ 09:8:2021 \ 19:19:31
+[' Răsarit = 06:11:30 Apus = 20:34:16 Min (°C) = 18.51 Max (°C) =31.38 Presiune = 1018 Umiditate (%) = 78 Index UV = 0.16 Viteza vântului = 5.25 Unghiul vântului = 5 Stare = nori 25-50%']
+Breaza: 32 \ marți \ 10:8:2021 \ 19:19:38
+[' Răsarit = 06:12:42 Apus = 20:32:48 Min (°C) = 19.45 Max (°C) =28.45 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.4 Viteza vântului = 2.7 Unghiul vântului = 355 Stare = nori 50-85%']
+Breaza: 32 \ miercuri \ 11:8:2021 \ 19:15:31
+[' Răsarit = 06:13:54 Apus = 20:31:19 Min (°C) = 17.38 Max (°C) =29.99 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.42 Viteza vântului = 2.36 Unghiul vântului = 7 Stare = cer senin']
+Breaza: 32 \ joi \ 12:8:2021 \ 19:17:03
+[' Răsarit = 06:15:07 Apus = 20:29:48 Min (°C) = 18.07 Max (°C) =26.99 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.41 Viteza vântului = 2.5 Unghiul vântului = 76 Stare = nori 50-85%']
+Breaza: 32 \ vineri \ 13:8:2021 \ 19:15:38
+[' Răsarit = 06:16:19 Apus = 20:28:16 Min (°C) = 15.48 Max (°C) =25.68 Presiune = 1022 Umiditate (%) = 73 Index UV = 0.4 Viteza vântului = 0.83 Unghiul vântului = 107 Stare = nori 50-85%']
+Breaza: 32 \ sâmbătă \ 14:8:2021 \ 19:17:29
+[' Răsarit = 06:17:32 Apus = 20:26:43 Min (°C) = 14.95 Max (°C) =28.49 Presiune = 1020 Umiditate (%) = 61 Index UV = 0.4 Viteza vântului = 0.44 Unghiul vântului = 95 Stare = cer senin']
+Breaza: 32 \ duminică \ 15:8:2021 \ 19:16:01
+[' Răsarit = 06:18:44 Apus = 20:25:09 Min (°C) = 16.53 Max (°C) =30.03 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.38 Viteza vântului = 1.02 Unghiul vântului = 318 Stare = nori 25-50%']
+Breaza: 33 \ luni \ 16:8:2021 \ 19:15:38
+[' Răsarit = 06:19:57 Apus = 20:23:33 Min (°C) = 18.7 Max (°C) =30.77 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.33 Viteza vântului = 0.7 Unghiul vântului = 205 Stare = cer senin']
+Breaza: 33 \ marți \ 17:8:2021 \ 19:16:09
+[' Răsarit = 06:21:09 Apus = 20:21:57 Min (°C) = 18.99 Max (°C) =31.68 Presiune = 1009 Umiditate (%) = 34 Index UV = 0.31 Viteza vântului = 0.85 Unghiul vântului = 30 Stare = cer senin']
+Breaza: 33 \ miercuri \ 18:8:2021 \ 19:15:54
+[' Răsarit = 06:22:22 Apus = 20:20:19 Min (°C) = 16.76 Max (°C) =26.11 Presiune = 1010 Umiditate (%) = 80 Index UV = 0.19 Viteza vântului = 2.66 Unghiul vântului = 61 Stare = nori 50-85%']
+Breaza: 33 \ joi \ 19:8:2021 \ 19:15:38
+[' Răsarit = 06:23:35 Apus = 20:18:40 Min (°C) = 11.65 Max (°C) =24.48 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.33 Viteza vântului = 1.31 Unghiul vântului = 18 Stare = nori 25-50%']
+Breaza: 33 \ vineri \ 20:8:2021 \ 19:15:48
+[' Răsarit = 06:24:47 Apus = 20:17:00 Min (°C) = 12.96 Max (°C) =24.93 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.32 Viteza vântului = 1.17 Unghiul vântului = 252 Stare = cer senin']
+Breaza: 33 \ sâmbătă \ 21:8:2021 \ 19:17:02
+[' Răsarit = 06:26:00 Apus = 20:15:19 Min (°C) = 14.29 Max (°C) =25.65 Presiune = 1017 Umiditate (%) = 82 Index UV = 0.2 Viteza vântului = 2.27 Unghiul vântului = 358 Stare = nori 50-85%']
+Breaza: 33 \ duminică \ 22:8:2021 \ 19:15:59
+[' Răsarit = 06:27:13 Apus = 20:13:37 Min (°C) = 18.22 Max (°C) =24.95 Presiune = 1019 Umiditate (%) = 81 Index UV = 0.26 Viteza vântului = 1.69 Unghiul vântului = 10 Stare = nori 85-100%']
+Breaza: 34 \ luni \ 23:8:2021 \ 19:15:48
+[' Răsarit = 06:28:25 Apus = 20:11:55 Min (°C) = 16.15 Max (°C) =26.91 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.27 Viteza vântului = 0.75 Unghiul vântului = 144 Stare = nori 50-85%']
+Breaza: 34 \ marți \ 24:8:2021 \ 19:15:48
+[' Răsarit = 06:29:38 Apus = 20:10:11 Min (°C) = 15.52 Max (°C) =27.28 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.26 Viteza vântului = 1 Unghiul vântului = 271 Stare = nori 50-85%']
+Breaza: 34 \ miercuri \ 25:8:2021 \ 19:15:51
+[' Răsarit = 06:30:50 Apus = 20:08:26 Min (°C) = 16.45 Max (°C) =26.47 Presiune = 1011 Umiditate (%) = 82 Index UV = 0.18 Viteza vântului = 2.72 Unghiul vântului = 16 Stare = nori 85-100%']
+Breaza: 34 \ joi \ 26:8:2021 \ 19:17:14
+[' Răsarit = 06:32:02 Apus = 20:06:41 Min (°C) = 14.21 Max (°C) =20.69 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.24 Viteza vântului = 1.75 Unghiul vântului = 355 Stare = nori 10-25%']
+Breaza: 34 \ vineri \ 27:8:2021 \ 19:19:12
+[' Răsarit = 06:33:15 Apus = 20:04:55 Min (°C) = 13.29 Max (°C) =23.17 Presiune = 1010 Umiditate (%) = 77 Index UV = 0.23 Viteza vântului = 1.12 Unghiul vântului = 332 Stare = nori 25-50%']
+Breaza: 34 \ sâmbătă \ 28:8:2021 \ 19:20:31
+[' Răsarit = 06:34:27 Apus = 20:03:08 Min (°C) = 14.99 Max (°C) =23.7 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.18 Viteza vântului = 3.12 Unghiul vântului = 89 Stare = nori 50-85%']
+Breaza: 34 \ duminică \ 29:8:2021 \ 19:19:39
+[' Răsarit = 06:35:39 Apus = 20:01:20 Min (°C) = 15.96 Max (°C) =21.89 Presiune = 1007 Umiditate (%) = 82 Index UV = 0.21 Viteza vântului = 0.37 Unghiul vântului = 223 Stare = nori 50-85%']
+Breaza: 35 \ luni \ 30:8:2021 \ 19:19:36
+[' Răsarit = 06:36:51 Apus = 19:59:31 Min (°C) = 14.21 Max (°C) =23.21 Presiune = 1011 Umiditate (%) = 77 Index UV = 0.19 Viteza vântului = 2.37 Unghiul vântului = 335 Stare = cer senin']
+Breaza: 35 \ marți \ 31:8:2021 \ 19:19:40
+[' Răsarit = 06:38:03 Apus = 19:57:42 Min (°C) = 11.22 Max (°C) =21.87 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.15 Viteza vântului = 1.74 Unghiul vântului = 315 Stare = nori 25-50%']
+Breaza: 35 \ miercuri \ 01:9:2021 \ 19:19:15
+[' Răsarit = 06:39:15 Apus = 19:55:52 Min (°C) = 11.35 Max (°C) =20.55 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.05 Viteza vântului = 2.41 Unghiul vântului = 316 Stare = nori 85-100%']
+Breaza: 35 \ joi \ 02:9:2021 \ 19:23:16
+[' Răsarit = 06:40:27 Apus = 19:54:02 Min (°C) = 11.8 Max (°C) =18.79 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.15 Viteza vântului = 2.22 Unghiul vântului = 350 Stare = nori 85-100%']
+Breaza: 35 \ vineri \ 03:9:2021 \ 19:18:37
+[' Răsarit = 06:41:39 Apus = 19:52:11 Min (°C) = 9 Max (°C) =19.29 Presiune = 1018 Umiditate (%) = 78 Index UV = 0.18 Viteza vântului = 1.61 Unghiul vântului = 214 Stare = nori 25-50%']
+Breaza: 35 \ sâmbătă \ 04:9:2021 \ 19:17:51
+[' Răsarit = 06:42:50 Apus = 19:50:19 Min (°C) = 10.22 Max (°C) =21.57 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.12 Viteza vântului = 0.54 Unghiul vântului = 182 Stare = nori 85-100%']
+Breaza: 35 \ duminică \ 05:9:2021 \ 19:19:17
+[' Răsarit = 06:44:02 Apus = 19:48:27 Min (°C) = 12.87 Max (°C) =18.44 Presiune = 1022 Umiditate (%) = 78 Index UV = 0.14 Viteza vântului = 2.34 Unghiul vântului = 77 Stare = nori 85-100%']
+Breaza: 36 \ luni \ 06:9:2021 \ 19:20:11
+[' Răsarit = 06:45:13 Apus = 19:46:34 Min (°C) = 8.65 Max (°C) =18.38 Presiune = 1024 Umiditate (%) = 77 Index UV = 0.13 Viteza vântului = 1.47 Unghiul vântului = 149 Stare = nori 25-50%']
+Breaza: 36 \ marți \ 07:9:2021 \ 19:20:24
+[' Răsarit = 06:46:25 Apus = 19:44:41 Min (°C) = 8.39 Max (°C) =19.46 Presiune = 1025 Umiditate (%) = 78 Index UV = 0.12 Viteza vântului = 1.43 Unghiul vântului = 139 Stare = cer senin']
+Breaza: 36 \ miercuri \ 08:9:2021 \ 19:19:44
+[' Răsarit = 06:47:36 Apus = 19:42:48 Min (°C) = 8.73 Max (°C) =20.4 Presiune = 1024 Umiditate (%) = 73 Index UV = 0.12 Viteza vântului = 1.56 Unghiul vântului = 89 Stare = nori 25-50%']
+Breaza: 36 \ joi \ 09:9:2021 \ 19:20:49
+[' Răsarit = 06:48:48 Apus = 19:40:54 Min (°C) = 10.16 Max (°C) =20.95 Presiune = 1020 Umiditate (%) = 70 Index UV = 0.13 Viteza vântului = 1.45 Unghiul vântului = 85 Stare = nori 25-50%']
+Breaza: 36 \ vineri \ 10:9:2021 \ 19:21:27
+[' Răsarit = 06:49:59 Apus = 19:39:00 Min (°C) = 10.66 Max (°C) =22.13 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.11 Viteza vântului = 0.47 Unghiul vântului = 240 Stare = nori 85-100%']
+Breaza: 36 \ sâmbătă \ 11:9:2021 \ 19:18:47
+[' Răsarit = 06:51:11 Apus = 19:37:05 Min (°C) = 12.77 Max (°C) =23.98 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.11 Viteza vântului = 0.84 Unghiul vântului = 143 Stare = nori 25-50%']
+Breaza: 36 \ duminică \ 12:9:2021 \ 19:19:06
+[' Răsarit = 06:52:22 Apus = 19:35:10 Min (°C) = 13.43 Max (°C) =24.8 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.1 Viteza vântului = 0.8 Unghiul vântului = 289 Stare = nori 10-25%']
+Breaza: 37 \ luni \ 13:9:2021 \ 19:19:38
+[' Răsarit = 06:53:33 Apus = 19:33:15 Min (°C) = 14.28 Max (°C) =25.17 Presiune = 1015 Umiditate (%) = 79 Index UV = 0.1 Viteza vântului = 1.9 Unghiul vântului = 345 Stare = nori 85-100%']
+Breaza: 37 \ marți \ 14:9:2021 \ 19:21:02
+[' Răsarit = 06:54:45 Apus = 19:31:20 Min (°C) = 14.32 Max (°C) =24.18 Presiune = 1016 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 323 Stare = nori 25-50%']
+Breaza: 37 \ joi \ 16:9:2021 \ 19:19:20
+[' Răsarit = 06:57:08 Apus = 19:27:28 Min (°C) = 14.86 Max (°C) =25.96 Presiune = 1016 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 259 Stare = nori 50-85%']
+Breaza: 37 \ vineri \ 17:9:2021 \ 19:20:55
+[' Răsarit = 06:58:19 Apus = 19:25:32 Min (°C) = 16.52 Max (°C) =24.76 Presiune = 1009 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 273 Stare = nori 85-100%']
+Breaza: 37 \ sâmbătă \ 18:9:2021 \ 19:21:19
+[' Răsarit = 06:59:31 Apus = 19:23:36 Min (°C) = 14.51 Max (°C) =21.33 Presiune = 1009 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 23 Stare = nori 50-85%']
+Breaza: 37 \ duminică \ 19:9:2021 \ 19:20:06
+[' Răsarit = 07:00:42 Apus = 19:21:40 Min (°C) = 10.35 Max (°C) =21.71 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 343 Stare = nori 50-85%']
+Breaza: 38 \ luni \ 20:9:2021 \ 19:20:29
+[' Răsarit = 07:01:54 Apus = 19:19:44 Min (°C) = 10.35 Max (°C) =17.93 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 23 Stare = nori 85-100%']
+Breaza: 38 \ marți \ 21:9:2021 \ 19:19:11
+[' Răsarit = 07:03:06 Apus = 19:17:48 Min (°C) = 8.31 Max (°C) =14.85 Presiune = 1021 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 57 Stare = nori 85-100%']
+Breaza: 38 \ miercuri \ 22:9:2021 \ 19:19:56
+[' Răsarit = 07:04:18 Apus = 19:15:52 Min (°C) = 6.32 Max (°C) =12.43 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 330 Stare = nori 85-100%']
+Breaza: 38 \ joi \ 23:9:2021 \ 19:18:33
+[' Răsarit = 07:05:30 Apus = 19:13:56 Min (°C) = 5.6 Max (°C) =13.41 Presiune = 1019 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 20 Stare = nori 50-85%']
+Breaza: 39 \ luni \ 27:9:2021 \ 19:18:11
+[' Răsarit = 07:10:20 Apus = 19:06:14 Min (°C) = 11.83 Max (°C) =21.51 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 125 Stare = cer senin']
+Breaza: 39 \ marți \ 28:9:2021 \ 19:20:54
+[' Răsarit = 07:11:33 Apus = 19:04:19 Min (°C) = 10.62 Max (°C) =14.19 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 105 Stare = nori 85-100%']
+Breaza: 39 \ miercuri \ 29:9:2021 \ 19:21:43
+[' Răsarit = 07:12:47 Apus = 19:02:24 Min (°C) = 8.75 Max (°C) =11.58 Presiune = 1026 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 23 Stare = nori 85-100%']
+Breaza: 39 \ joi \ 30:9:2021 \ 19:19:02
+[' Răsarit = 07:14:00 Apus = 19:00:30 Min (°C) = 6.19 Max (°C) =14.93 Presiune = 1027 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 55 Stare = nori 85-100%']
+Breaza: 39 \ vineri \ 01:10:2021 \ 19:20:24
+[' Răsarit = 07:15:14 Apus = 18:58:35 Min (°C) = 5.6 Max (°C) =14.73 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 77 Stare = nori 50-85%']
+Breaza: 39 \ sâmbătă \ 02:10:2021 \ 19:19:09
+[' Răsarit = 07:16:28 Apus = 18:56:42 Min (°C) = 4.62 Max (°C) =14.61 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 100 Stare = cer senin']
+Breaza: 39 \ duminică \ 03:10:2021 \ 19:18:32
+[' Răsarit = 07:17:42 Apus = 18:54:48 Min (°C) = 5.15 Max (°C) =15.45 Presiune = 1025 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 101 Stare = cer senin']
+Breaza: 40 \ luni \ 04:10:2021 \ 19:23:21
+[' Răsarit = 07:18:57 Apus = 18:52:55 Min (°C) = 6.16 Max (°C) =16.23 Presiune = 1024 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 118 Stare = nori 50-85%']
+Breaza: 40 \ marți \ 05:10:2021 \ 19:20:51
+[' Răsarit = 07:20:12 Apus = 18:51:03 Min (°C) = 6.18 Max (°C) =15.05 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 55 Stare = cer senin']
+Breaza: 40 \ miercuri \ 06:10:2021 \ 19:18:40
+[' Răsarit = 07:21:27 Apus = 18:49:11 Min (°C) = 4.95 Max (°C) =12.53 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.44 Unghiul vântului = 91 Stare = nori 85-100%']
+Breaza: 40 \ joi \ 07:10:2021 \ 19:21:09
+[' Răsarit = 07:22:42 Apus = 18:47:20 Min (°C) = 5.37 Max (°C) =9.7 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.16 Unghiul vântului = 70 Stare = nori 85-100%']
+Breaza: 40 \ vineri \ 08:10:2021 \ 19:20:36
+[' Răsarit = 07:23:58 Apus = 18:45:29 Min (°C) = 5.67 Max (°C) =9.94 Presiune = 1027 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 64 Stare = nori 85-100%']
+Breaza: 40 \ sâmbătă \ 09:10:2021 \ 19:18:32
+[' Răsarit = 07:25:14 Apus = 18:43:39 Min (°C) = 4.16 Max (°C) =9.84 Presiune = 1028 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 86 Stare = nori 85-100%']
+Breaza: 40 \ duminică \ 10:10:2021 \ 19:19:46
+[' Răsarit = 07:26:31 Apus = 18:41:49 Min (°C) = 3.8 Max (°C) =13.05 Presiune = 1027 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 70 Stare = nori 50-85%']
+Breaza: 41 \ luni \ 11:10:2021 \ 19:19:48
+[' Răsarit = 07:27:48 Apus = 18:40:01 Min (°C) = 5.35 Max (°C) =12.36 Presiune = 1019 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 40 Stare = ploaie ușoară']
+Breaza: 41 \ marți \ 12:10:2021 \ 19:19:49
+[' Răsarit = 07:29:05 Apus = 18:38:13 Min (°C) = 7.79 Max (°C) =11.27 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 315 Stare = nori 85-100%']
+Breaza: 41 \ miercuri \ 13:10:2021 \ 19:19:45
+[' Răsarit = 07:30:23 Apus = 18:36:25 Min (°C) = 7.26 Max (°C) =10.15 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 198 Stare = nori 85-100%']
+Breaza: 41 \ joi \ 14:10:2021 \ 19:19:32
+[' Răsarit = 07:31:40 Apus = 18:34:39 Min (°C) = 4.99 Max (°C) =7.17 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 60 Stare = ploaie ușoară']
+Breaza: 41 \ vineri \ 15:10:2021 \ 19:18:36
+[' Răsarit = 07:32:59 Apus = 18:32:53 Min (°C) = 5.13 Max (°C) =8.8 Presiune = 1019 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 41 Stare = nori 85-100%']
+Breaza: 41 \ sâmbătă \ 16:10:2021 \ 19:18:48
+[' Răsarit = 07:34:17 Apus = 18:31:08 Min (°C) = 8.38 Max (°C) =9.58 Presiune = 1018 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 352 Stare = nori 85-100%']
+Breaza: 41 \ duminică \ 17:10:2021 \ 19:18:03
+[' Răsarit = 07:35:36 Apus = 18:29:25 Min (°C) = 7.79 Max (°C) =9.35 Presiune = 1021 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 250 Stare = nori 85-100%']
+Breaza: 42 \ luni \ 18:10:2021 \ 19:18:03
+[' Răsarit = 07:36:56 Apus = 18:27:42 Min (°C) = 6.62 Max (°C) =13.63 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 347 Stare = nori 50-85%']
+Breaza: 42 \ marți \ 19:10:2021 \ 19:19:47
+[' Răsarit = 07:38:16 Apus = 18:26:00 Min (°C) = 5.68 Max (°C) =12.87 Presiune = 1029 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 306 Stare = nori 50-85%']
+Breaza: 42 \ miercuri \ 20:10:2021 \ 19:17:31
+[' Răsarit = 07:39:36 Apus = 18:24:19 Min (°C) = 6.12 Max (°C) =14.9 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 265 Stare = nori 25-50%']
+Breaza: 42 \ joi \ 21:10:2021 \ 19:19:32
+[' Răsarit = 07:40:56 Apus = 18:22:39 Min (°C) = 7.21 Max (°C) =17.6 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 286 Stare = nori 10-25%']
+Breaza: 42 \ vineri \ 22:10:2021 \ 19:16:19
+[' Răsarit = 07:42:17 Apus = 18:21:00 Min (°C) = 9.49 Max (°C) =18.2 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 342 Stare = nori 85-100%']
+Breaza: 42 \ sâmbătă \ 23:10:2021 \ 19:18:04
+[' Răsarit = 07:43:38 Apus = 18:19:23 Min (°C) = 9.29 Max (°C) =14.77 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 19 Stare = nori 85-100%']
+Breaza: 42 \ duminică \ 24:10:2021 \ 19:17:55
+[' Răsarit = 07:45:00 Apus = 18:17:46 Min (°C) = 4.69 Max (°C) =11.26 Presiune = 1032 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 338 Stare = nori 50-85%']
+Breaza: 43 \ luni \ 25:10:2021 \ 19:17:16
+[' Răsarit = 07:46:21 Apus = 18:16:11 Min (°C) = 1.7 Max (°C) =8.78 Presiune = 1032 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 139 Stare = cer senin']
+Breaza: 43 \ marți \ 26:10:2021 \ 19:16:31
+[' Răsarit = 07:47:44 Apus = 18:14:37 Min (°C) = 1.06 Max (°C) =8.95 Presiune = 1027 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 28 Stare = cer senin']
+Breaza: 43 \ miercuri \ 27:10:2021 \ 19:19:11
+[' Răsarit = 07:49:06 Apus = 18:13:04 Min (°C) = 2.82 Max (°C) =13.05 Presiune = 1027 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 350 Stare = cer senin']
+Breaza: 43 \ joi \ 28:10:2021 \ 19:16:52
+[' Răsarit = 07:50:29 Apus = 18:11:32 Min (°C) = 4.85 Max (°C) =13.54 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 324 Stare = nori 10-25%']
+Breaza: 43 \ vineri \ 29:10:2021 \ 19:17:26
+[' Răsarit = 07:51:52 Apus = 18:10:02 Min (°C) = 6.48 Max (°C) =13.92 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 65 Stare = cer senin']
+Breaza: 43 \ sâmbătă \ 30:10:2021 \ 19:17:08
+[' Răsarit = 07:53:15 Apus = 18:08:34 Min (°C) = 5.02 Max (°C) =12.67 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 66 Stare = cer senin']
+Breaza: 43 \ duminică \ 31:10:2021 \ 19:17:01
+[' Răsarit = 06:54:38 Apus = 17:07:06 Min (°C) = 3.2 Max (°C) =11.26 Presiune = 1022 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 198 Stare = nori 25-50%']
+Breaza: 44 \ luni \ 01:11:2021 \ 19:17:21
+[' Răsarit = 06:56:02 Apus = 17:05:40 Min (°C) = 6.38 Max (°C) =8.01 Presiune = 1014 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 222 Stare = nori 85-100%']
+Breaza: 44 \ marți \ 02:11:2021 \ 19:17:35
+[' Răsarit = 06:57:26 Apus = 17:04:16 Min (°C) = 3.6 Max (°C) =11.51 Presiune = 1006 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 224 Stare = nori 85-100%']
+Breaza: 44 \ miercuri \ 03:11:2021 \ 19:17:11
+[' Răsarit = 06:58:49 Apus = 17:02:53 Min (°C) = 6.31 Max (°C) =14.87 Presiune = 1016 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 10 Stare = nori 50-85%']
+Breaza: 44 \ joi \ 04:11:2021 \ 19:15:30
+[' Răsarit = 07:00:13 Apus = 17:01:32 Min (°C) = 8.46 Max (°C) =18.97 Presiune = 1017 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 315 Stare = nori 50-85%']
+Breaza: 44 \ vineri \ 05:11:2021 \ 19:21:16
+[' Răsarit = 07:01:37 Apus = 17:00:12 Min (°C) = 13.73 Max (°C) =22.65 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 328 Stare = nori 50-85%']
+Breaza: 44 \ sâmbătă \ 06:11:2021 \ 19:18:56
+[' Răsarit = 07:03:02 Apus = 16:58:54 Min (°C) = 10.93 Max (°C) =15.69 Presiune = 1027 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 192 Stare = nori 85-100%']
+Breaza: 44 \ duminică \ 07:11:2021 \ 19:18:54
+[' Răsarit = 07:04:26 Apus = 16:57:38 Min (°C) = 8.26 Max (°C) =14.42 Presiune = 1018 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 278 Stare = nori 85-100%']
+Breaza: 45 \ luni \ 08:11:2021 \ 19:18:40
+[' Răsarit = 07:05:50 Apus = 16:56:23 Min (°C) = 11.07 Max (°C) =18.79 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.26 Unghiul vântului = 345 Stare = nori 85-100%']
+Breaza: 45 \ marți \ 09:11:2021 \ 19:14:20
+[' Răsarit = 07:07:14 Apus = 16:55:10 Min (°C) = 3.99 Max (°C) =9.99 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 284 Stare = nori 50-85%']
+Breaza: 45 \ miercuri \ 10:11:2021 \ 19:18:40
+[' Răsarit = 07:08:38 Apus = 16:53:59 Min (°C) = 1.66 Max (°C) =5.74 Presiune = 1037 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 328 Stare = nori 10-25%']
+Breaza: 45 \ joi \ 11:11:2021 \ 19:19:12
+[' Răsarit = 07:10:02 Apus = 16:52:50 Min (°C) = 1.16 Max (°C) =9.13 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 300 Stare = nori 50-85%']
+Breaza: 45 \ vineri \ 12:11:2021 \ 19:18:26
+[' Răsarit = 07:11:25 Apus = 16:51:42 Min (°C) = 4.98 Max (°C) =12.49 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 349 Stare = nori 50-85%']
+Breaza: 45 \ sâmbătă \ 13:11:2021 \ 19:18:22
+[' Răsarit = 07:12:48 Apus = 16:50:37 Min (°C) = 4.52 Max (°C) =11.24 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 29 Stare = nori 85-100%']
+Breaza: 45 \ duminică \ 14:11:2021 \ 19:20:44
+[' Răsarit = 07:14:12 Apus = 16:49:33 Min (°C) = 4.08 Max (°C) =9.5 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 5 Stare = nori 50-85%']
+Breaza: 46 \ luni \ 15:11:2021 \ 19:19:36
+[' Răsarit = 07:15:34 Apus = 16:48:31 Min (°C) = 4.13 Max (°C) =10.03 Presiune = 1030 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 45 Stare = nori 10-25%']
+Breaza: 46 \ marți \ 16:11:2021 \ 19:19:10
+[' Răsarit = 07:16:57 Apus = 16:47:32 Min (°C) = 2.48 Max (°C) =5.51 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 94 Stare = nori 50-85%']
+Breaza: 46 \ miercuri \ 17:11:2021 \ 19:19:06
+[' Răsarit = 07:18:19 Apus = 16:46:34 Min (°C) = 0.78 Max (°C) =6.21 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 247 Stare = nori 85-100%']
+Breaza: 46 \ joi \ 18:11:2021 \ 19:16:06
+[' Răsarit = 07:19:40 Apus = 16:45:39 Min (°C) = 1.71 Max (°C) =9 Presiune = 1025 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 1 Stare = nori 25-50%']
+Breaza: 46 \ vineri \ 19:11:2021 \ 19:16:16
+[' Răsarit = 07:21:01 Apus = 16:44:45 Min (°C) = 2.51 Max (°C) =7.97 Presiune = 1021 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 346 Stare = nori 85-100%']
+Breaza: 46 \ sâmbătă \ 20:11:2021 \ 19:16:01
+[' Răsarit = 07:22:21 Apus = 16:43:54 Min (°C) = 4.71 Max (°C) =10.9 Presiune = 1019 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.24 Unghiul vântului = 352 Stare = cer senin']
+Breaza: 46 \ duminică \ 21:11:2021 \ 19:15:48
+[' Răsarit = 07:23:41 Apus = 16:43:05 Min (°C) = 4.31 Max (°C) =11.53 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 310 Stare = cer senin']
+Breaza: 47 \ luni \ 22:11:2021 \ 19:16:10
+[' Răsarit = 07:25:00 Apus = 16:42:18 Min (°C) = 5.74 Max (°C) =10.45 Presiune = 1016 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 13 Stare = nori 85-100%']
+Breaza: 47 \ marți \ 23:11:2021 \ 19:16:04
+[' Răsarit = 07:26:18 Apus = 16:41:34 Min (°C) = 2.69 Max (°C) =6.73 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 242 Stare = nori 85-100%']
+Breaza: 47 \ miercuri \ 24:11:2021 \ 19:18:22
+[' Răsarit = 07:27:35 Apus = 16:40:52 Min (°C) = 0.99 Max (°C) =4.42 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 226 Stare = nori 85-100%']
+Breaza: 47 \ joi \ 25:11:2021 \ 19:15:47
+[' Răsarit = 07:28:51 Apus = 16:40:12 Min (°C) = -0.96 Max (°C) =4.9 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 314 Stare = cer senin']
+Breaza: 47 \ vineri \ 26:11:2021 \ 19:15:51
+[' Răsarit = 07:30:07 Apus = 16:39:34 Min (°C) = 0.51 Max (°C) =6.93 Presiune = 1003 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 27 Stare = nori 85-100%']
+Breaza: 47 \ sâmbătă \ 27:11:2021 \ 19:15:49
+[' Răsarit = 07:31:21 Apus = 16:38:59 Min (°C) = 3.13 Max (°C) =9.25 Presiune = 1005 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 313 Stare = nori 50-85%']
+Breaza: 47 \ duminică \ 28:11:2021 \ 19:16:22
+[' Răsarit = 07:32:34 Apus = 16:38:26 Min (°C) = 5.99 Max (°C) =11.96 Presiune = 1001 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 287 Stare = nori 50-85%']
+Breaza: 48 \ luni \ 29:11:2021 \ 19:18:07
+[' Răsarit = 07:33:46 Apus = 16:37:56 Min (°C) = 2.53 Max (°C) =9.41 Presiune = 998 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 343 Stare = nori 50-85%']
+Breaza: 48 \ marți \ 30:11:2021 \ 19:16:26
+[' Răsarit = 07:34:57 Apus = 16:37:28 Min (°C) = -0.72 Max (°C) =3.1 Presiune = 1008 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 340 Stare = nori 25-50%']
+Breaza: 48 \ miercuri \ 01:12:2021 \ 19:16:42
+[' Răsarit = 07:36:07 Apus = 16:37:02 Min (°C) = -1.22 Max (°C) =5.7 Presiune = 1012 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 349 Stare = nori 50-85%']
+Breaza: 48 \ joi \ 02:12:2021 \ 19:16:03
+[' Răsarit = 07:37:15 Apus = 16:36:39 Min (°C) = 1.52 Max (°C) =8.39 Presiune = 1008 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 283 Stare = nori 50-85%']
+Breaza: 48 \ vineri \ 03:12:2021 \ 19:16:12
+[' Răsarit = 07:38:22 Apus = 16:36:19 Min (°C) = 4.01 Max (°C) =10.14 Presiune = 1010 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 11 Stare = nori 85-100%']
+Breaza: 48 \ sâmbătă \ 04:12:2021 \ 19:16:42
+[' Răsarit = 07:39:27 Apus = 16:36:01 Min (°C) = 1.19 Max (°C) =1.98 Presiune = 1013 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 228 Stare = nori 85-100%']
+Breaza: 48 \ duminică \ 05:12:2021 \ 19:16:26
+[' Răsarit = 07:40:31 Apus = 16:35:46 Min (°C) = -0.28 Max (°C) =6.21 Presiune = 1010 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 335 Stare = nori 25-50%']
+Breaza: 49 \ luni \ 06:12:2021 \ 19:16:17
+[' Răsarit = 07:41:33 Apus = 16:35:33 Min (°C) = 1.38 Max (°C) =8.02 Presiune = 1006 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 9 Stare = nori 85-100%']
+Breaza: 49 \ marți \ 07:12:2021 \ 19:16:15
+[' Răsarit = 07:42:33 Apus = 16:35:23 Min (°C) = 4.37 Max (°C) =5.82 Presiune = 1002 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 29 Stare = nori 85-100%']
+Breaza: 49 \ miercuri \ 08:12:2021 \ 19:16:15
+[' Răsarit = 07:43:32 Apus = 16:35:16 Min (°C) = 1.14 Max (°C) =4.69 Presiune = 1010 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 343 Stare = nori 50-85%']
+Breaza: 49 \ joi \ 09:12:2021 \ 19:16:18
+[' Răsarit = 07:44:29 Apus = 16:35:11 Min (°C) = -0.14 Max (°C) =5.47 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 31 Stare = nori 85-100%']
+Breaza: 49 \ vineri \ 10:12:2021 \ 19:18:42
+[' Răsarit = 07:45:24 Apus = 16:35:09 Min (°C) = 2.42 Max (°C) =6.21 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 148 Stare = nori 85-100%']
+Breaza: 49 \ sâmbătă \ 11:12:2021 \ 19:18:14
+[' Răsarit = 07:46:17 Apus = 16:35:09 Min (°C) = 2.58 Max (°C) =6.97 Presiune = 1011 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 62 Stare = ploaie ușoară']
+Breaza: 49 \ duminică \ 12:12:2021 \ 19:18:33
+[' Răsarit = 07:47:08 Apus = 16:35:12 Min (°C) = 6.33 Max (°C) =9.41 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 13 Stare = nori 50-85%']
+Breaza: 50 \ luni \ 13:12:2021 \ 19:18:38
+[' Răsarit = 07:47:58 Apus = 16:35:17 Min (°C) = 3.44 Max (°C) =6.29 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 26 Stare = nori 85-100%']
+Breaza: 50 \ marți \ 14:12:2021 \ 19:20:38
+[' Răsarit = 07:48:45 Apus = 16:35:26 Min (°C) = 1.16 Max (°C) =4.95 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 330 Stare = nori 85-100%']
+Breaza: 50 \ miercuri \ 15:12:2021 \ 19:18:43
+[' Răsarit = 07:49:30 Apus = 16:35:37 Min (°C) = 0.52 Max (°C) =5.13 Presiune = 1027 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 354 Stare = nori 10-25%']
+Breaza: 50 \ joi \ 16:12:2021 \ 19:18:10
+[' Răsarit = 07:50:13 Apus = 16:35:50 Min (°C) = -0.11 Max (°C) =4.71 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 348 Stare = nori 50-85%']
+Breaza: 50 \ vineri \ 17:12:2021 \ 19:21:47
+[' Răsarit = 07:50:53 Apus = 16:36:06 Min (°C) = -1.56 Max (°C) =3.64 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 334 Stare = nori 50-85%']
+Breaza: 50 \ sâmbătă \ 18:12:2021 \ 19:17:36
+[' Răsarit = 07:51:32 Apus = 16:36:25 Min (°C) = -1.16 Max (°C) =2.55 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 339 Stare = nori 50-85%']
+Breaza: 50 \ duminică \ 19:12:2021 \ 19:18:02
+[' Răsarit = 07:52:08 Apus = 16:36:46 Min (°C) = -1.89 Max (°C) =4.35 Presiune = 1010 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 328 Stare = nori 50-85%']
+Breaza: 51 \ luni \ 20:12:2021 \ 19:18:23
+[' Răsarit = 07:52:41 Apus = 16:37:10 Min (°C) = -2.28 Max (°C) =2.6 Presiune = 1014 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 321 Stare = nori 10-25%']
+Breaza: 51 \ marți \ 21:12:2021 \ 19:20:20
+[' Răsarit = 07:53:13 Apus = 16:37:36 Min (°C) = -5.35 Max (°C) =-2.01 Presiune = 1025 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 333 Stare = cer senin']
+Breaza: 51 \ miercuri \ 22:12:2021 \ 19:18:29
+[' Răsarit = 07:53:42 Apus = 16:38:05 Min (°C) = -7.18 Max (°C) =-2.66 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 351 Stare = nori 50-85%']
+Breaza: 51 \ joi \ 23:12:2021 \ 19:18:54
+[' Răsarit = 07:54:08 Apus = 16:38:36 Min (°C) = -8.53 Max (°C) =-4.47 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 231 Stare = nori 50-85%']
+Breaza: 51 \ vineri \ 24:12:2021 \ 19:18:55
+[' Răsarit = 07:54:32 Apus = 16:39:10 Min (°C) = -6.48 Max (°C) =3.59 Presiune = 1008 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 299 Stare = nori 25-50%']
+Breaza: 51 \ sâmbătă \ 25:12:2021 \ 19:19:09
+[' Răsarit = 07:54:54 Apus = 16:39:46 Min (°C) = 2.49 Max (°C) =8.6 Presiune = 1010 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 313 Stare = nori 85-100%']
+Breaza: 51 \ duminică \ 26:12:2021 \ 19:20:20
+[' Răsarit = 07:55:13 Apus = 16:40:24 Min (°C) = -1.6 Max (°C) =6.46 Presiune = 1015 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 145 Stare = nori 85-100%']
+Breaza: 52 \ luni \ 27:12:2021 \ 19:18:26
+[' Răsarit = 07:55:30 Apus = 16:41:05 Min (°C) = 0.02 Max (°C) =1.79 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 51 Stare = zăpadă slabă']
+Breaza: 52 \ marți \ 28:12:2021 \ 19:19:13
+[' Răsarit = 07:55:43 Apus = 16:41:48 Min (°C) = -1.42 Max (°C) =1.52 Presiune = 1014 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 46 Stare = nori 85-100%']
+Breaza: 52 \ miercuri \ 29:12:2021 \ 19:18:24
+[' Răsarit = 07:55:55 Apus = 16:42:34 Min (°C) = -1.38 Max (°C) =3.35 Presiune = 1012 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 16 Stare = nori 85-100%']
+Breaza: 52 \ joi \ 30:12:2021 \ 19:19:12
+[' Răsarit = 07:56:04 Apus = 16:43:21 Min (°C) = 1.67 Max (°C) =4.93 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 322 Stare = nori 85-100%']
+Breaza: 52 \ vineri \ 31:12:2021 \ 19:16:14
+[' Răsarit = 07:56:10 Apus = 16:44:11 Min (°C) = 1.47 Max (°C) =8.68 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 341 Stare = nori 85-100%']
+Breaza: 00 \ sâmbătă \ 01:1:2022 \ 19:16:57
+[' Răsarit = 07:56:14 Apus = 16:45:03 Min (°C) = 6.45 Max (°C) =10.81 Presiune = 1020 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 323 Stare = nori 85-100%']
+Breaza: 00 \ duminică \ 02:1:2022 \ 19:15:46
+[' Răsarit = 07:56:15 Apus = 16:45:57 Min (°C) = 4.19 Max (°C) =7.7 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 270 Stare = nori 50-85%']
+Breaza: 01 \ luni \ 03:1:2022 \ 19:15:33
+[' Răsarit = 07:56:13 Apus = 16:46:53 Min (°C) = 4.39 Max (°C) =12.55 Presiune = 1011 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 300 Stare = nori 85-100%']
+Breaza: 01 \ marți \ 04:1:2022 \ 19:15:38
+[' Răsarit = 07:56:09 Apus = 16:47:50 Min (°C) = 3.64 Max (°C) =9.6 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 271 Stare = nori 50-85%']
+Breaza: 01 \ miercuri \ 05:1:2022 \ 19:17:03
+[' Răsarit = 07:56:03 Apus = 16:48:50 Min (°C) = 4.41 Max (°C) =11.98 Presiune = 1006 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 317 Stare = cer senin']
+Breaza: 01 \ joi \ 06:1:2022 \ 19:15:59
+[' Răsarit = 07:55:54 Apus = 16:49:52 Min (°C) = 4.3 Max (°C) =11.22 Presiune = 1011 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 346 Stare = nori 25-50%']
+Breaza: 01 \ vineri \ 07:1:2022 \ 19:17:19
+[' Răsarit = 07:55:42 Apus = 16:50:55 Min (°C) = -0.86 Max (°C) =3.74 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 116 Stare = zăpadă slabă']
+Breaza: 01 \ sâmbătă \ 08:1:2022 \ 19:16:41
+[' Răsarit = 07:55:27 Apus = 16:52:00 Min (°C) = -1.92 Max (°C) =1.8 Presiune = 1016 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 50 Stare = zăpadă slabă']
+Breaza: 01 \ duminică \ 09:1:2022 \ 19:16:10
+[' Răsarit = 07:55:11 Apus = 16:53:06 Min (°C) = 1.84 Max (°C) =3.86 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 16 Stare = nori 85-100%']
+Breaza: 02 \ luni \ 10:1:2022 \ 19:16:11
+[' Răsarit = 07:54:51 Apus = 16:54:14 Min (°C) = 2.8 Max (°C) =5.64 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 38 Stare = nori 85-100%']
+Breaza: 02 \ marți \ 11:1:2022 \ 19:17:39
+[' Răsarit = 07:54:29 Apus = 16:55:24 Min (°C) = -1.62 Max (°C) =3.42 Presiune = 1025 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 359 Stare = nori 50-85%']
+Breaza: 02 \ miercuri \ 12:1:2022 \ 19:16:13
+[' Răsarit = 07:54:05 Apus = 16:56:35 Min (°C) = -4.48 Max (°C) =-0.54 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 299 Stare = nori 25-50%']
+Breaza: 02 \ joi \ 13:1:2022 \ 19:17:12
+[' Răsarit = 07:53:38 Apus = 16:57:48 Min (°C) = -6.78 Max (°C) =0.04 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 339 Stare = nori 25-50%']
+Breaza: 02 \ vineri \ 14:1:2022 \ 19:16:32
+[' Răsarit = 07:53:09 Apus = 16:59:02 Min (°C) = -2.24 Max (°C) =6.08 Presiune = 1016 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.17 Unghiul vântului = 344 Stare = cer senin']
+Breaza: 02 \ sâmbătă \ 15:1:2022 \ 19:16:17
+[' Răsarit = 07:52:37 Apus = 17:00:17 Min (°C) = -1.83 Max (°C) =3.05 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 330 Stare = cer senin']
+Breaza: 02 \ duminică \ 16:1:2022 \ 19:15:41
+[' Răsarit = 07:52:03 Apus = 17:01:33 Min (°C) = -2.87 Max (°C) =2.81 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 311 Stare = nori 25-50%']
+Breaza: 03 \ luni \ 17:1:2022 \ 19:15:48
+[' Răsarit = 07:51:27 Apus = 17:02:50 Min (°C) = -0.31 Max (°C) =5.75 Presiune = 1010 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.48 Unghiul vântului = 278 Stare = nori 50-85%']
+Breaza: 03 \ marți \ 18:1:2022 \ 19:15:49
+[' Răsarit = 07:50:48 Apus = 17:04:09 Min (°C) = -3.27 Max (°C) =0.91 Presiune = 1027 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 302 Stare = cer senin']
+Breaza: 03 \ miercuri \ 19:1:2022 \ 19:16:00
+[' Răsarit = 07:50:07 Apus = 17:05:28 Min (°C) = -5.1 Max (°C) =1.08 Presiune = 1028 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 335 Stare = cer senin']
+Breaza: 03 \ joi \ 20:1:2022 \ 19:16:16
+[' Răsarit = 07:49:23 Apus = 17:06:48 Min (°C) = -2.88 Max (°C) =5.68 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 330 Stare = nori 10-25%']
+Breaza: 03 \ vineri \ 21:1:2022 \ 19:15:53
+[' Răsarit = 07:48:38 Apus = 17:08:09 Min (°C) = -4.86 Max (°C) =1.01 Presiune = 1018 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 351 Stare = nori 50-85%']
+Breaza: 03 \ sâmbătă \ 22:1:2022 \ 19:18:21
+[' Răsarit = 07:47:50 Apus = 17:09:31 Min (°C) = -6.59 Max (°C) =-2.01 Presiune = 1018 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 345 Stare = nori 50-85%']
+Breaza: 03 \ duminică \ 23:1:2022 \ 19:18:34
+[' Răsarit = 07:47:00 Apus = 17:10:54 Min (°C) = -6.98 Max (°C) =-2.53 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 35 Stare = nori 50-85%']
+Breaza: 04 \ luni \ 24:1:2022 \ 19:19:06
+[' Răsarit = 07:46:08 Apus = 17:12:17 Min (°C) = -7.97 Max (°C) =-3.25 Presiune = 1034 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 352 Stare = nori 85-100%']
+Breaza: 04 \ marți \ 25:1:2022 \ 19:18:56
+[' Răsarit = 07:45:14 Apus = 17:13:41 Min (°C) = -8.15 Max (°C) =-1.68 Presiune = 1028 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 349 Stare = nori 50-85%']
+Breaza: 04 \ miercuri \ 26:1:2022 \ 19:18:54
+[' Răsarit = 07:44:17 Apus = 17:15:06 Min (°C) = -5.83 Max (°C) =0.88 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 351 Stare = nori 50-85%']
+Breaza: 04 \ joi \ 27:1:2022 \ 19:18:51
+[' Răsarit = 07:43:19 Apus = 17:16:31 Min (°C) = -4.08 Max (°C) =3.63 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 331 Stare = nori 50-85%']
+Breaza: 04 \ vineri \ 28:1:2022 \ 19:18:42
+[' Răsarit = 07:42:19 Apus = 17:17:57 Min (°C) = -2.36 Max (°C) =5.77 Presiune = 1017 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 334 Stare = nori 50-85%']
+Breaza: 04 \ sâmbătă \ 29:1:2022 \ 19:18:41
+[' Răsarit = 07:41:16 Apus = 17:19:23 Min (°C) = -2.9 Max (°C) =3.36 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 355 Stare = nori 50-85%']
+Breaza: 04 \ duminică \ 30:1:2022 \ 19:16:15
+[' Răsarit = 07:40:12 Apus = 17:20:49 Min (°C) = -3.34 Max (°C) =4.69 Presiune = 1009 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 294 Stare = nori 25-50%']
+Breaza: 05 \ luni \ 31:1:2022 \ 19:16:14
+[' Răsarit = 07:39:06 Apus = 17:22:15 Min (°C) = -1.34 Max (°C) =3.82 Presiune = 1008 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 309 Stare = nori 85-100%']
+Breaza: 05 \ marți \ 01:2:2022 \ 19:16:04
+[' Răsarit = 07:37:58 Apus = 17:23:42 Min (°C) = -0.84 Max (°C) =3.91 Presiune = 1010 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 333 Stare = nori 85-100%']
+Breaza: 05 \ miercuri \ 02:2:2022 \ 19:16:17
+[' Răsarit = 07:36:48 Apus = 17:25:09 Min (°C) = -2.67 Max (°C) =3.09 Presiune = 1008 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 337 Stare = nori 85-100%']
+Breaza: 05 \ joi \ 03:2:2022 \ 19:16:01
+[' Răsarit = 07:35:36 Apus = 17:26:36 Min (°C) = -2.03 Max (°C) =3.77 Presiune = 1021 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 348 Stare = nori 25-50%']
+Breaza: 05 \ vineri \ 04:2:2022 \ 19:16:18
+[' Răsarit = 07:34:23 Apus = 17:28:04 Min (°C) = -4.56 Max (°C) =3.72 Presiune = 1019 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 332 Stare = nori 85-100%']
+Breaza: 05 \ sâmbătă \ 05:2:2022 \ 19:16:02
+[' Răsarit = 07:33:07 Apus = 17:29:31 Min (°C) = -1.31 Max (°C) =7.81 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 349 Stare = nori 50-85%']
+Breaza: 05 \ duminică \ 06:2:2022 \ 19:16:10
+[' Răsarit = 07:31:51 Apus = 17:30:59 Min (°C) = -1.72 Max (°C) =5.28 Presiune = 1019 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 322 Stare = nori 50-85%']
+Breaza: 06 \ luni \ 07:2:2022 \ 19:16:09
+[' Răsarit = 07:30:32 Apus = 17:32:26 Min (°C) = -0.34 Max (°C) =7.21 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 302 Stare = nori 85-100%']
+Breaza: 06 \ marți \ 08:2:2022 \ 19:15:59
+[' Răsarit = 07:29:12 Apus = 17:33:54 Min (°C) = -0.81 Max (°C) =2.91 Presiune = 1021 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 339 Stare = cer senin']
+Breaza: 06 \ miercuri \ 09:2:2022 \ 19:18:28
+[' Răsarit = 07:27:50 Apus = 17:35:21 Min (°C) = -1.66 Max (°C) =6.24 Presiune = 1028 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 337 Stare = nori 50-85%']
+Breaza: 06 \ joi \ 10:2:2022 \ 19:19:34
+[' Răsarit = 07:26:27 Apus = 17:36:48 Min (°C) = 0.95 Max (°C) =9.4 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 315 Stare = cer senin']
+Breaza: 06 \ vineri \ 11:2:2022 \ 19:18:34
+[' Răsarit = 07:25:03 Apus = 17:38:15 Min (°C) = 3 Max (°C) =11.6 Presiune = 1021 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 351 Stare = cer senin']
+Breaza: 06 \ sâmbătă \ 12:2:2022 \ 19:18:43
+[' Răsarit = 07:23:37 Apus = 17:39:42 Min (°C) = -1.12 Max (°C) =5.08 Presiune = 1034 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 3 Stare = nori 50-85%']
+Breaza: 06 \ duminică \ 13:2:2022 \ 19:18:50
+[' Răsarit = 07:22:09 Apus = 17:41:09 Min (°C) = -1.68 Max (°C) =1.55 Presiune = 1031 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 135 Stare = nori 85-100%']
+Breaza: 07 \ luni \ 14:2:2022 \ 19:18:42
+[' Răsarit = 07:20:40 Apus = 17:42:36 Min (°C) = -2.33 Max (°C) =2.54 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 228 Stare = nori 50-85%']
+Breaza: 07 \ marți \ 15:2:2022 \ 19:18:03
+[' Răsarit = 07:19:10 Apus = 17:44:02 Min (°C) = -1.5 Max (°C) =7.56 Presiune = 1021 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 320 Stare = cer senin']
+Breaza: 07 \ miercuri \ 16:2:2022 \ 19:19:17
+[' Răsarit = 07:17:38 Apus = 17:45:28 Min (°C) = 2.21 Max (°C) =10.44 Presiune = 1015 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 300 Stare = nori 85-100%']
+Breaza: 07 \ joi \ 17:2:2022 \ 19:19:47
+[' Răsarit = 07:16:06 Apus = 17:46:54 Min (°C) = 3.5 Max (°C) =9.88 Presiune = 1005 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 304 Stare = nori 50-85%']
+Breaza: 07 \ vineri \ 18:2:2022 \ 19:18:41
+[' Răsarit = 07:14:31 Apus = 17:48:20 Min (°C) = 1.62 Max (°C) =7.19 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 342 Stare = cer senin']
+Breaza: 07 \ sâmbătă \ 19:2:2022 \ 19:18:57
+[' Răsarit = 07:12:56 Apus = 17:49:45 Min (°C) = 0.68 Max (°C) =11.39 Presiune = 1018 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 345 Stare = nori 25-50%']
+Breaza: 07 \ duminică \ 20:2:2022 \ 19:20:05
+[' Răsarit = 07:11:20 Apus = 17:51:10 Min (°C) = 1.67 Max (°C) =5.01 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 344 Stare = nori 85-100%']
+Breaza: 08 \ luni \ 21:2:2022 \ 19:18:34
+[' Răsarit = 07:09:42 Apus = 17:52:35 Min (°C) = 0.72 Max (°C) =8.49 Presiune = 1007 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 306 Stare = nori 50-85%']
+Breaza: 08 \ marți \ 22:2:2022 \ 19:19:44
+[' Răsarit = 07:08:04 Apus = 17:54:00 Min (°C) = 3.34 Max (°C) =9.52 Presiune = 1012 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.3 Unghiul vântului = 356 Stare = nori 85-100%']
+Breaza: 08 \ miercuri \ 23:2:2022 \ 19:18:56
+[' Răsarit = 07:06:24 Apus = 17:55:24 Min (°C) = 1.51 Max (°C) =6.86 Presiune = 1020 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 328 Stare = nori 85-100%']
+Breaza: 08 \ joi \ 24:2:2022 \ 19:18:45
+[' Răsarit = 07:04:43 Apus = 17:56:48 Min (°C) = -0.06 Max (°C) =5.94 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 360 Stare = nori 25-50%']
+Breaza: 08 \ vineri \ 25:2:2022 \ 19:18:52
+[' Răsarit = 07:03:02 Apus = 17:58:11 Min (°C) = -1.02 Max (°C) =9.44 Presiune = 1018 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 343 Stare = nori 25-50%']
+Breaza: 08 \ sâmbătă \ 26:2:2022 \ 19:19:16
+[' Răsarit = 07:01:19 Apus = 17:59:34 Min (°C) = 1.06 Max (°C) =6.7 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 88 Stare = nori 85-100%']
+Breaza: 08 \ duminică \ 27:2:2022 \ 19:18:26
+[' Răsarit = 06:59:36 Apus = 18:00:57 Min (°C) = -0.97 Max (°C) =4.75 Presiune = 1025 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.2 Unghiul vântului = 50 Stare = nori 85-100%']
+Breaza: 09 \ luni \ 28:2:2022 \ 19:19:02
+[' Răsarit = 06:57:51 Apus = 18:02:19 Min (°C) = -0.75 Max (°C) =1.99 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.55 Unghiul vântului = 7 Stare = nori 85-100%']
+Breaza: 09 \ marți \ 01:3:2022 \ 19:19:15
+[' Răsarit = 06:56:06 Apus = 18:03:41 Min (°C) = -1.96 Max (°C) =2.32 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 343 Stare = zăpadă slabă']
+Breaza: 09 \ miercuri \ 02:3:2022 \ 19:18:24
+[' Răsarit = 06:54:20 Apus = 18:05:03 Min (°C) = -2.43 Max (°C) =2.93 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 339 Stare = nori 85-100%']
+Breaza: 09 \ joi \ 03:3:2022 \ 19:18:54
+[' Răsarit = 06:52:34 Apus = 18:06:25 Min (°C) = -2.94 Max (°C) =4.72 Presiune = 1014 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 358 Stare = nori 85-100%']
+Breaza: 09 \ vineri \ 04:3:2022 \ 19:18:42
+[' Răsarit = 06:50:46 Apus = 18:07:46 Min (°C) = -1.54 Max (°C) =2.05 Presiune = 1016 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 123 Stare = nori 85-100%']
+Breaza: 09 \ sâmbătă \ 05:3:2022 \ 19:16:24
+[' Răsarit = 06:48:58 Apus = 18:09:06 Min (°C) = -2.25 Max (°C) =1.99 Presiune = 1020 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 81 Stare = nori 85-100%']
+Breaza: 09 \ duminică \ 06:3:2022 \ 19:16:12
+[' Răsarit = 06:47:09 Apus = 18:10:27 Min (°C) = -3.53 Max (°C) =2.1 Presiune = 1021 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 95 Stare = nori 85-100%']
+Breaza: 10 \ luni \ 07:3:2022 \ 19:15:54
+[' Răsarit = 06:45:20 Apus = 18:11:47 Min (°C) = -2.78 Max (°C) =1.42 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 196 Stare = zăpadă slabă']
+Breaza: 10 \ marți \ 08:3:2022 \ 19:15:42
+[' Răsarit = 06:43:30 Apus = 18:13:07 Min (°C) = -4.13 Max (°C) =0.93 Presiune = 1019 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 330 Stare = nori 50-85%']
+Breaza: 10 \ miercuri \ 09:3:2022 \ 19:15:52
+[' Răsarit = 06:41:40 Apus = 18:14:26 Min (°C) = -4.76 Max (°C) =0.57 Presiune = 1022 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 45 Stare = nori 85-100%']
+Breaza: 10 \ joi \ 10:3:2022 \ 19:15:52
+[' Răsarit = 06:39:49 Apus = 18:15:45 Min (°C) = -5.58 Max (°C) =-0.9 Presiune = 1028 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 26 Stare = zăpadă slabă']
+Breaza: 10 \ vineri \ 11:3:2022 \ 19:15:48
+[' Răsarit = 06:37:57 Apus = 18:17:04 Min (°C) = -8.51 Max (°C) =-2.26 Presiune = 1029 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 30 Stare = zăpadă slabă']
+Breaza: 10 \ sâmbătă \ 12:3:2022 \ 19:15:42
+[' Răsarit = 06:36:06 Apus = 18:18:23 Min (°C) = -7.81 Max (°C) =0.26 Presiune = 1031 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 347 Stare = nori 50-85%']
+Breaza: 10 \ duminică \ 13:3:2022 \ 19:15:54
+[' Răsarit = 06:34:13 Apus = 18:19:41 Min (°C) = -4.27 Max (°C) =2.45 Presiune = 1030 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 13 Stare = nori 85-100%']
+Breaza: 11 \ luni \ 14:3:2022 \ 19:15:42
+[' Răsarit = 06:32:21 Apus = 18:21:00 Min (°C) = -4.2 Max (°C) =3.98 Presiune = 1037 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 342 Stare = nori 85-100%']
+Breaza: 11 \ marți \ 15:3:2022 \ 19:15:50
+[' Răsarit = 06:30:28 Apus = 18:22:18 Min (°C) = -1.76 Max (°C) =7.93 Presiune = 1033 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 349 Stare = nori 85-100%']
+Breaza: 11 \ miercuri \ 16:3:2022 \ 19:15:57
+[' Răsarit = 06:28:35 Apus = 18:23:35 Min (°C) = 0.72 Max (°C) =6.13 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 48 Stare = nori 85-100%']
+Breaza: 11 \ joi \ 17:3:2022 \ 19:15:54
+[' Răsarit = 06:26:41 Apus = 18:24:53 Min (°C) = -3.27 Max (°C) =1.84 Presiune = 1036 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 85 Stare = zăpadă slabă']
+Breaza: 11 \ vineri \ 18:3:2022 \ 19:16:01
+[' Răsarit = 06:24:47 Apus = 18:26:10 Min (°C) = -6.52 Max (°C) =3.06 Presiune = 1042 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 14 Stare = nori 50-85%']
+Breaza: 11 \ sâmbătă \ 19:3:2022 \ 19:16:06
+[' Răsarit = 06:22:54 Apus = 18:27:27 Min (°C) = -5.63 Max (°C) =1.47 Presiune = 1042 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 53 Stare = nori 85-100%']
+Breaza: 11 \ duminică \ 20:3:2022 \ 19:15:59
+[' Răsarit = 06:21:00 Apus = 18:28:44 Min (°C) = -5.09 Max (°C) =4.08 Presiune = 1040 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 357 Stare = nori 25-50%']
+Breaza: 12 \ luni \ 21:3:2022 \ 19:16:19
+[' Răsarit = 06:19:05 Apus = 18:30:01 Min (°C) = -2.07 Max (°C) =7.51 Presiune = 1035 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.26 Unghiul vântului = 1 Stare = nori 50-85%']
+Breaza: 12 \ marți \ 22:3:2022 \ 19:16:01
+[' Răsarit = 06:17:11 Apus = 18:31:18 Min (°C) = 2.52 Max (°C) =11.55 Presiune = 1032 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 32 Stare = cer senin']
+Breaza: 12 \ miercuri \ 23:3:2022 \ 19:15:48
+[' Răsarit = 06:15:17 Apus = 18:32:34 Min (°C) = 1.94 Max (°C) =11.46 Presiune = 1028 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 350 Stare = cer senin']
+Breaza: 12 \ joi \ 24:3:2022 \ 19:15:55
+[' Răsarit = 06:13:23 Apus = 18:33:51 Min (°C) = 3.79 Max (°C) =15.08 Presiune = 1019 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 349 Stare = cer senin']
+Breaza: 12 \ vineri \ 25:3:2022 \ 19:15:54
+[' Răsarit = 06:11:28 Apus = 18:35:07 Min (°C) = 1.54 Max (°C) =10.05 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 14 Stare = nori 25-50%']
+Breaza: 12 \ sâmbătă \ 26:3:2022 \ 19:16:07
+[' Răsarit = 06:09:34 Apus = 18:36:23 Min (°C) = 0.27 Max (°C) =12.93 Presiune = 1024 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 317 Stare = cer senin']
+Breaza: 12 \ duminică \ 27:3:2022 \ 19:16:03
+[' Răsarit = 07:07:40 Apus = 19:37:40 Min (°C) = 5.6 Max (°C) =15.61 Presiune = 1026 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 99 Stare = nori 25-50%']
+Breaza: 13 \ luni \ 28:3:2022 \ 19:16:18
+[' Răsarit = 07:05:46 Apus = 19:38:56 Min (°C) = 2.15 Max (°C) =14.15 Presiune = 1022 Umiditate (%) = 26 Index UV = 0.09 Viteza vântului = 2.22 Unghiul vântului = 216 Stare = cer senin']
+Breaza: 13 \ marți \ 29:3:2022 \ 19:16:05
+[' Răsarit = 07:03:53 Apus = 19:40:12 Min (°C) = 6.36 Max (°C) =18 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.1 Viteza vântului = 2.34 Unghiul vântului = 278 Stare = nori 85-100%']
+Breaza: 13 \ miercuri \ 30:3:2022 \ 19:16:01
+[' Răsarit = 07:01:59 Apus = 19:41:28 Min (°C) = 7.96 Max (°C) =18.35 Presiune = 1006 Umiditate (%) = 36 Index UV = 0.1 Viteza vântului = 3.45 Unghiul vântului = 246 Stare = nori 50-85%']
+Breaza: 13 \ joi \ 31:3:2022 \ 19:16:22
+[' Răsarit = 07:00:06 Apus = 19:42:44 Min (°C) = 8.94 Max (°C) =12.07 Presiune = 1002 Umiditate (%) = 73 Index UV = 0.03 Viteza vântului = 1.55 Unghiul vântului = 205 Stare = nori 85-100%']
+Breaza: 13 \ vineri \ 01:4:2022 \ 19:19:15
+[' Răsarit = 06:58:13 Apus = 19:44:00 Min (°C) = 9.32 Max (°C) =18.86 Presiune = 993 Umiditate (%) = 63 Index UV = 0.03 Viteza vântului = 1.81 Unghiul vântului = 289 Stare = nori 50-85%']
+Breaza: 13 \ sâmbătă \ 02:4:2022 \ 19:18:49
+[' Răsarit = 06:56:20 Apus = 19:45:16 Min (°C) = 7.4 Max (°C) =12.64 Presiune = 999 Umiditate (%) = 71 Index UV = 0.1 Viteza vântului = 3.71 Unghiul vântului = 238 Stare = nori 25-50%']
+Breaza: 13 \ duminică \ 03:4:2022 \ 19:52:35
+[' Răsarit = 06:54:27 Apus = 19:46:32 Min (°C) = 2.27 Max (°C) =9.3 Presiune = 1010 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 347 Stare = nori 85-100%']
+Breaza: 14 \ luni \ 04:4:2022 \ 19:18:50
+[' Răsarit = 06:52:35 Apus = 19:47:48 Min (°C) = -0.58 Max (°C) =6.3 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.1 Viteza vântului = 3.01 Unghiul vântului = 223 Stare = nori 85-100%']
+Breaza: 14 \ marți \ 05:4:2022 \ 19:20:41
+[' Răsarit = 06:50:44 Apus = 19:49:04 Min (°C) = -1.08 Max (°C) =10.52 Presiune = 1009 Umiditate (%) = 48 Index UV = 0.15 Viteza vântului = 2.15 Unghiul vântului = 257 Stare = cer senin']
+Breaza: 14 \ miercuri \ 06:4:2022 \ 19:18:58
+[' Răsarit = 06:48:53 Apus = 19:50:20 Min (°C) = 4.7 Max (°C) =14.89 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.15 Viteza vântului = 1.67 Unghiul vântului = 167 Stare = nori 10-25%']
+Breaza: 14 \ joi \ 07:4:2022 \ 19:19:07
+[' Răsarit = 06:47:02 Apus = 19:51:36 Min (°C) = 6.55 Max (°C) =13.77 Presiune = 998 Umiditate (%) = 81 Index UV = 0.08 Viteza vântului = 1.93 Unghiul vântului = 134 Stare = nori 85-100%']
+Breaza: 14 \ vineri \ 08:4:2022 \ 19:18:44
+[' Răsarit = 06:45:12 Apus = 19:52:52 Min (°C) = 5.69 Max (°C) =18.64 Presiune = 1005 Umiditate (%) = 58 Index UV = 0.12 Viteza vântului = 2.26 Unghiul vântului = 219 Stare = nori 85-100%']
+Breaza: 14 \ sâmbătă \ 09:4:2022 \ 19:18:54
+[' Răsarit = 06:43:22 Apus = 19:54:08 Min (°C) = 10.12 Max (°C) =19.55 Presiune = 1002 Umiditate (%) = 45 Index UV = 0.18 Viteza vântului = 5.54 Unghiul vântului = 254 Stare = nori 50-85%']
+Breaza: 14 \ duminică \ 10:4:2022 \ 19:20:24
+[' Răsarit = 06:41:33 Apus = 19:55:25 Min (°C) = 3.85 Max (°C) =11.14 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.05 Viteza vântului = 2.74 Unghiul vântului = 5 Stare = nori 85-100%']
+Breaza: 15 \ luni \ 11:4:2022 \ 19:18:57
+[' Răsarit = 06:39:44 Apus = 19:56:41 Min (°C) = 2.57 Max (°C) =8.86 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.18 Viteza vântului = 2.94 Unghiul vântului = 331 Stare = nori 50-85%']
+Breaza: 15 \ marți \ 12:4:2022 \ 19:18:11
+[' Răsarit = 06:37:56 Apus = 19:57:57 Min (°C) = -0.02 Max (°C) =9.52 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.18 Viteza vântului = 1.19 Unghiul vântului = 11 Stare = nori 50-85%']
+Breaza: 15 \ miercuri \ 13:4:2022 \ 19:18:34
+[' Răsarit = 06:36:09 Apus = 19:59:14 Min (°C) = 0.7 Max (°C) =11.42 Presiune = 1020 Umiditate (%) = 48 Index UV = 0.2 Viteza vântului = 1.1 Unghiul vântului = 342 Stare = cer senin']
+Breaza: 15 \ joi \ 14:4:2022 \ 19:19:18
+[' Răsarit = 06:34:23 Apus = 20:00:30 Min (°C) = 4.13 Max (°C) =16.15 Presiune = 1020 Umiditate (%) = 43 Index UV = 0.21 Viteza vântului = 2.18 Unghiul vântului = 193 Stare = nori 25-50%']
+Breaza: 15 \ vineri \ 15:4:2022 \ 19:19:35
+[' Răsarit = 06:32:37 Apus = 20:01:47 Min (°C) = 7.21 Max (°C) =18.94 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.22 Viteza vântului = 3.01 Unghiul vântului = 210 Stare = nori 25-50%']
+Breaza: 15 \ sâmbătă \ 16:4:2022 \ 19:19:51
+[' Răsarit = 06:30:52 Apus = 20:03:03 Min (°C) = 9.67 Max (°C) =15.61 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.02 Viteza vântului = 2.39 Unghiul vântului = 26 Stare = ploaie ușoară']
+Breaza: 15 \ duminică \ 17:4:2022 \ 19:19:18
+[' Răsarit = 06:29:08 Apus = 20:04:20 Min (°C) = 2.42 Max (°C) =9.11 Presiune = 1016 Umiditate (%) = 85 Index UV = 0.15 Viteza vântului = 1.73 Unghiul vântului = 23 Stare = nori 85-100%']
+Breaza: 16 \ luni \ 18:4:2022 \ 19:20:01
+[' Răsarit = 06:27:24 Apus = 20:05:37 Min (°C) = 0.5 Max (°C) =9.12 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.14 Viteza vântului = 2.07 Unghiul vântului = 174 Stare = nori 85-100%']
+Breaza: 16 \ marți \ 19:4:2022 \ 19:20:17
+[' Răsarit = 06:25:42 Apus = 20:06:53 Min (°C) = 0.4 Max (°C) =4.5 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.12 Viteza vântului = 1.43 Unghiul vântului = 250 Stare = nori 85-100%']
+Breaza: 16 \ miercuri \ 20:4:2022 \ 19:19:12
+[' Răsarit = 06:24:00 Apus = 20:08:10 Min (°C) = -0.6 Max (°C) =9.34 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.14 Viteza vântului = 1.6 Unghiul vântului = 275 Stare = nori 85-100%']
+Breaza: 16 \ joi \ 21:4:2022 \ 19:19:35
+[' Răsarit = 06:22:19 Apus = 20:09:27 Min (°C) = 1.35 Max (°C) =13.33 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.21 Viteza vântului = 3.7 Unghiul vântului = 237 Stare = nori 85-100%']
+Breaza: 16 \ vineri \ 22:4:2022 \ 19:16:44
+[' Răsarit = 06:20:40 Apus = 20:10:44 Min (°C) = 4.33 Max (°C) =14.63 Presiune = 1010 Umiditate (%) = 72 Index UV = 0.18 Viteza vântului = 1.61 Unghiul vântului = 68 Stare = nori 50-85%']
+Breaza: 16 \ sâmbătă \ 23:4:2022 \ 19:16:42
+[' Răsarit = 06:19:01 Apus = 20:12:00 Min (°C) = 7.87 Max (°C) =16.62 Presiune = 1006 Umiditate (%) = 71 Index UV = 0.29 Viteza vântului = 1.71 Unghiul vântului = 300 Stare = nori 50-85%']
+Breaza: 16 \ duminică \ 24:4:2022 \ 19:16:14
+[' Răsarit = 06:17:23 Apus = 20:13:17 Min (°C) = 7.39 Max (°C) =19.67 Presiune = 1009 Umiditate (%) = 63 Index UV = 0.28 Viteza vântului = 2.34 Unghiul vântului = 185 Stare = nori 85-100%']
+Breaza: 17 \ luni \ 25:4:2022 \ 19:16:09
+[' Răsarit = 06:15:47 Apus = 20:14:34 Min (°C) = 11.02 Max (°C) =18.85 Presiune = 1007 Umiditate (%) = 53 Index UV = 0.3 Viteza vântului = 4.06 Unghiul vântului = 267 Stare = nori 25-50%']
+Breaza: 17 \ marți \ 26:4:2022 \ 19:16:11
+[' Răsarit = 06:14:11 Apus = 20:15:50 Min (°C) = 8.01 Max (°C) =19.11 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.29 Viteza vântului = 1.91 Unghiul vântului = 29 Stare = nori 85-100%']
+Breaza: 17 \ miercuri \ 27:4:2022 \ 19:16:15
+[' Răsarit = 06:12:37 Apus = 20:17:07 Min (°C) = 10.25 Max (°C) =17.38 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.17 Viteza vântului = 0.34 Unghiul vântului = 125 Stare = nori 85-100%']
+Breaza: 17 \ joi \ 28:4:2022 \ 19:16:17
+[' Răsarit = 06:11:03 Apus = 20:18:23 Min (°C) = 9.02 Max (°C) =12.64 Presiune = 1019 Umiditate (%) = 82 Index UV = 0.1 Viteza vântului = 0.82 Unghiul vântului = 52 Stare = nori 85-100%']
+Breaza: 17 \ vineri \ 29:4:2022 \ 19:19:10
+[' Răsarit = 06:09:31 Apus = 20:19:40 Min (°C) = 7.28 Max (°C) =13.25 Presiune = 1022 Umiditate (%) = 80 Index UV = 0.25 Viteza vântului = 1.04 Unghiul vântului = 75 Stare = nori 85-100%']
+Breaza: 17 \ sâmbătă \ 30:4:2022 \ 19:15:53
+[' Răsarit = 06:08:00 Apus = 20:20:56 Min (°C) = 4.73 Max (°C) =15.11 Presiune = 1021 Umiditate (%) = 66 Index UV = 0.25 Viteza vântului = 0.91 Unghiul vântului = 69 Stare = nori 85-100%']
+Breaza: 17 \ duminică \ 01:5:2022 \ 19:16:01
+[' Răsarit = 06:06:31 Apus = 20:22:12 Min (°C) = 5.83 Max (°C) =13.97 Presiune = 1019 Umiditate (%) = 69 Index UV = 0.24 Viteza vântului = 1.26 Unghiul vântului = 126 Stare = nori 85-100%']
+Breaza: 18 \ marți \ 03:5:2022 \ 20:16:19
+[' Răsarit = 06:03:36 Apus = 20:24:44 Min (°C) = 6.54 Max (°C) =14.47 Presiune = 1016 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 188 Stare = nori 85-100%']
+Breaza: 18 \ miercuri \ 04:5:2022 \ 19:21:12
+[' Răsarit = 06:02:10 Apus = 20:25:59 Min (°C) = 7.02 Max (°C) =15.43 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.26 Viteza vântului = 0.71 Unghiul vântului = 60 Stare = nori 85-100%']
+Breaza: 18 \ joi \ 05:5:2022 \ 19:19:36
+[' Răsarit = 06:00:46 Apus = 20:27:15 Min (°C) = 7.43 Max (°C) =14.45 Presiune = 1023 Umiditate (%) = 76 Index UV = 0.4 Viteza vântului = 0.96 Unghiul vântului = 213 Stare = nori 85-100%']
+Breaza: 18 \ vineri \ 06:5:2022 \ 19:17:18
+[' Răsarit = 05:59:23 Apus = 20:28:30 Min (°C) = 6.86 Max (°C) =16.96 Presiune = 1022 Umiditate (%) = 54 Index UV = 0.25 Viteza vântului = 2.14 Unghiul vântului = 142 Stare = nori 50-85%']
+Breaza: 18 \ sâmbătă \ 07:5:2022 \ 19:16:33
+[' Răsarit = 05:58:01 Apus = 20:29:44 Min (°C) = 6.41 Max (°C) =17.33 Presiune = 1021 Umiditate (%) = 48 Index UV = 0.39 Viteza vântului = 2.05 Unghiul vântului = 152 Stare = nori 25-50%']
+Breaza: 18 \ duminică \ 08:5:2022 \ 19:17:21
+[' Răsarit = 05:56:42 Apus = 20:30:58 Min (°C) = 6.19 Max (°C) =17.84 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.24 Viteza vântului = 1.85 Unghiul vântului = 157 Stare = nori 85-100%']
+Breaza: 19 \ luni \ 09:5:2022 \ 19:16:56
+[' Răsarit = 05:55:23 Apus = 20:32:12 Min (°C) = 7.98 Max (°C) =17.38 Presiune = 1022 Umiditate (%) = 81 Index UV = 0.41 Viteza vântului = 1.09 Unghiul vântului = 349 Stare = nori 85-100%']
+Breaza: 19 \ marți \ 10:5:2022 \ 19:17:08
+[' Răsarit = 05:54:06 Apus = 20:33:26 Min (°C) = 9.31 Max (°C) =13.5 Presiune = 1021 Umiditate (%) = 82 Index UV = 0.4 Viteza vântului = 0.81 Unghiul vântului = 58 Stare = nori 85-100%']
+Breaza: 19 \ miercuri \ 11:5:2022 \ 19:16:54
+[' Răsarit = 05:52:51 Apus = 20:34:39 Min (°C) = 7.97 Max (°C) =19.02 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.45 Viteza vântului = 0.39 Unghiul vântului = 335 Stare = nori 85-100%']
+Breaza: 19 \ joi \ 12:5:2022 \ 19:17:04
+[' Răsarit = 05:51:38 Apus = 20:35:51 Min (°C) = 11.72 Max (°C) =23.96 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.51 Viteza vântului = 2.83 Unghiul vântului = 220 Stare = nori 10-25%']
+Breaza: 19 \ vineri \ 13:5:2022 \ 19:16:33
+[' Răsarit = 05:50:26 Apus = 20:37:03 Min (°C) = 14.35 Max (°C) =24.7 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.24 Viteza vântului = 1.26 Unghiul vântului = 339 Stare = nori 50-85%']
+Breaza: 19 \ sâmbătă \ 14:5:2022 \ 19:16:39
+[' Răsarit = 05:49:15 Apus = 20:38:14 Min (°C) = 13.71 Max (°C) =24.57 Presiune = 1015 Umiditate (%) = 96 Index UV = 0.36 Viteza vântului = 1.17 Unghiul vântului = 40 Stare = nori 85-100%']
+Breaza: 19 \ duminică \ 15:5:2022 \ 19:16:39
+[' Răsarit = 05:48:07 Apus = 20:39:25 Min (°C) = 12.69 Max (°C) =21.62 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.51 Viteza vântului = 1.29 Unghiul vântului = 241 Stare = nori 25-50%']
+Breaza: 20 \ luni \ 16:5:2022 \ 19:17:52
+[' Răsarit = 05:47:00 Apus = 20:40:35 Min (°C) = 12.03 Max (°C) =19.94 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.52 Viteza vântului = 0.84 Unghiul vântului = 253 Stare = nori 50-85%']
+Breaza: 20 \ marți \ 17:5:2022 \ 19:19:43
+[' Răsarit = 05:45:55 Apus = 20:41:44 Min (°C) = 12.17 Max (°C) =23.17 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.42 Viteza vântului = 3.11 Unghiul vântului = 14 Stare = ploaie ușoară']
+Breaza: 20 \ miercuri \ 18:5:2022 \ 19:16:49
+[' Răsarit = 05:44:52 Apus = 20:42:53 Min (°C) = 7.36 Max (°C) =14.4 Presiune = 1022 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 2.31 Unghiul vântului = 1 Stare = nori 10-25%']
+Breaza: 20 \ joi \ 19:5:2022 \ 20:21:39
+[' Răsarit = 05:43:50 Apus = 20:44:01 Min (°C) = 5.6 Max (°C) =18.85 Presiune = 1026 Umiditate (%) = 52 Index UV = 0.14 Viteza vântului = 0.59 Unghiul vântului = 326 Stare = cer senin']
+Breaza: 20 \ vineri \ 20:5:2022 \ 19:16:39
+[' Răsarit = 05:42:51 Apus = 20:45:07 Min (°C) = 9.08 Max (°C) =23.39 Presiune = 1021 Umiditate (%) = 52 Index UV = 0.51 Viteza vântului = 2.85 Unghiul vântului = 238 Stare = nori 50-85%']
+Breaza: 20 \ sâmbătă \ 21:5:2022 \ 19:18:58
+[' Răsarit = 05:41:53 Apus = 20:46:13 Min (°C) = 12.88 Max (°C) =26.83 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.61 Viteza vântului = 0.66 Unghiul vântului = 284 Stare = nori 50-85%']

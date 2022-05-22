@@ -1,0 +1,954 @@
+Ghimbav: 04 \ luni \ 25:1:2021 \ 22:28:33
+[' Răsarit = 07:47:02 Apus = 17:13:20 Min (°C) = -5.86 Max (°C) =4.67 Presiune = 832 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 10-25%']
+Ghimbav: 04 \ marți \ 26:1:2021 \ 09:47:09
+[' Răsarit = 07:46:04 Apus = 17:14:46 Min (°C) = -3.38 Max (°C) =-0.4 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.33 Viteza vântului = 1.12 Unghiul vântului = 303 Stare = nori 85-100%']
+Ghimbav: 04 \ miercuri \ 27:1:2021 \ 19:06:53
+[' Răsarit = 07:45:04 Apus = 17:16:13 Min (°C) = -3.9 Max (°C) =-2.53 Presiune = 1004 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 292 Stare = zăpadă slabă']
+Ghimbav: 04 \ joi \ 28:1:2021 \ 19:23:36
+[' Răsarit = 07:44:01 Apus = 17:17:40 Min (°C) = -5.97 Max (°C) =-2.51 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 04 \ vineri \ 29:1:2021 \ 20:08:55
+[' Răsarit = 07:42:57 Apus = 17:19:08 Min (°C) = -6.03 Max (°C) =2.87 Presiune = 998 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 198 Stare = nori 85-100%']
+Ghimbav: 04 \ sâmbătă \ 30:1:2021 \ 20:09:06
+[' Răsarit = 07:41:51 Apus = 17:20:35 Min (°C) = -0.17 Max (°C) =5.62 Presiune = 962 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 25-50%']
+Ghimbav: 04 \ duminică \ 31:1:2021 \ 19:08:36
+[' Răsarit = 07:40:43 Apus = 17:22:03 Min (°C) = 1.02 Max (°C) =6.82 Presiune = 998 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 45 Stare = nori 50-85%']
+Ghimbav: 05 \ luni \ 01:2:2021 \ 19:08:54
+[' Răsarit = 07:39:33 Apus = 17:23:32 Min (°C) = 0.41 Max (°C) =4.12 Presiune = 967 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 146 Stare = nori 50-85%']
+Ghimbav: 05 \ marți \ 02:2:2021 \ 20:37:06
+[' Răsarit = 07:38:21 Apus = 17:25:00 Min (°C) = 1.41 Max (°C) =8.27 Presiune = 847 Umiditate (%) = 10 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 222 Stare = nori 25-50%']
+Ghimbav: 05 \ miercuri \ 03:2:2021 \ 19:35:27
+[' Răsarit = 07:37:07 Apus = 17:26:29 Min (°C) = 1.59 Max (°C) =7.6 Presiune = 1009 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = nori 50-85%']
+Ghimbav: 05 \ joi \ 04:2:2021 \ 19:10:21
+[' Răsarit = 07:35:52 Apus = 17:27:58 Min (°C) = 3 Max (°C) =9.78 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 05 \ vineri \ 05:2:2021 \ 19:06:03
+[' Răsarit = 07:34:35 Apus = 17:29:27 Min (°C) = 2.46 Max (°C) =9.3 Presiune = 849 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 8.94 Unghiul vântului = 237 Stare = nori 50-85%']
+Ghimbav: 05 \ sâmbătă \ 06:2:2021 \ 19:34:51
+[' Răsarit = 07:33:16 Apus = 17:30:56 Min (°C) = 3.82 Max (°C) =12.64 Presiune = 1007 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 05 \ duminică \ 07:2:2021 \ 19:09:51
+[' Răsarit = 07:31:56 Apus = 17:32:25 Min (°C) = 3.48 Max (°C) =9.3 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 06 \ luni \ 08:2:2021 \ 20:51:16
+[' Răsarit = 07:30:34 Apus = 17:33:54 Min (°C) = 3.11 Max (°C) =11.24 Presiune = 992 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 06 \ marți \ 09:2:2021 \ 19:07:27
+[' Răsarit = 07:29:10 Apus = 17:35:23 Min (°C) = 3.61 Max (°C) =11.03 Presiune = 967 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 172 Stare = nori 85-100%']
+Ghimbav: 06 \ miercuri \ 10:2:2021 \ 19:08:13
+[' Răsarit = 07:27:45 Apus = 17:36:51 Min (°C) = 3.9 Max (°C) =10.81 Presiune = 969 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 177 Stare = nori 50-85%']
+Ghimbav: 06 \ joi \ 11:2:2021 \ 19:03:41
+[' Răsarit = 07:26:18 Apus = 17:38:20 Min (°C) = -5.72 Max (°C) =11.42 Presiune = 1005 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 292 Stare = zăpadă slabă']
+Ghimbav: 06 \ vineri \ 12:2:2021 \ 20:42:11
+[' Răsarit = 07:24:50 Apus = 17:39:49 Min (°C) = -11.9 Max (°C) =-6.51 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = zăpadă slabă']
+Ghimbav: 06 \ sâmbătă \ 13:2:2021 \ 19:07:25
+[' Răsarit = 07:23:21 Apus = 17:41:17 Min (°C) = -12.28 Max (°C) =-7.51 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 10-25%']
+Ghimbav: 06 \ duminică \ 14:2:2021 \ 19:07:10
+[' Răsarit = 07:21:50 Apus = 17:42:45 Min (°C) = -10.48 Max (°C) =-4.8 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 07 \ luni \ 15:2:2021 \ 20:02:15
+[' Răsarit = 07:20:18 Apus = 17:44:13 Min (°C) = -7.29 Max (°C) =-3.88 Presiune = 1023 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 292 Stare = zăpadă slabă']
+Ghimbav: 07 \ marți \ 16:2:2021 \ 18:58:49
+[' Răsarit = 07:18:44 Apus = 17:45:41 Min (°C) = -7.94 Max (°C) =-2.93 Presiune = 1020 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 225 Stare = cer senin']
+Ghimbav: 07 \ miercuri \ 17:2:2021 \ 19:06:42
+[' Răsarit = 07:17:10 Apus = 17:47:08 Min (°C) = -8.37 Max (°C) =1 Presiune = 1011 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 07 \ joi \ 18:2:2021 \ 19:10:42
+[' Răsarit = 07:15:34 Apus = 17:48:35 Min (°C) = -2.68 Max (°C) =0.94 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = zăpadă slabă']
+Ghimbav: 07 \ vineri \ 19:2:2021 \ 19:03:36
+[' Răsarit = 07:13:57 Apus = 17:50:02 Min (°C) = -4.44 Max (°C) =2.89 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 196 Stare = nori 85-100%']
+Ghimbav: 07 \ sâmbătă \ 20:2:2021 \ 19:08:01
+[' Răsarit = 07:12:18 Apus = 17:51:29 Min (°C) = -1.08 Max (°C) =2.67 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 8 Stare = nori 85-100%']
+Ghimbav: 07 \ duminică \ 21:2:2021 \ 19:05:21
+[' Răsarit = 07:10:39 Apus = 17:52:55 Min (°C) = -2.44 Max (°C) =5.82 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 50-85%']
+Ghimbav: 08 \ luni \ 22:2:2021 \ 19:09:54
+[' Răsarit = 07:08:58 Apus = 17:54:21 Min (°C) = -0.35 Max (°C) =8.63 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 260 Stare = cer senin']
+Ghimbav: 08 \ marți \ 23:2:2021 \ 19:07:49
+[' Răsarit = 07:07:17 Apus = 17:55:47 Min (°C) = 1.49 Max (°C) =9.9 Presiune = 995 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 266 Stare = cer senin']
+Ghimbav: 08 \ miercuri \ 24:2:2021 \ 19:08:27
+[' Răsarit = 07:05:34 Apus = 17:57:12 Min (°C) = 1.47 Max (°C) =10.16 Presiune = 865 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 333 Stare = cer senin']
+Ghimbav: 08 \ joi \ 25:2:2021 \ 19:06:28
+[' Răsarit = 07:03:51 Apus = 17:58:37 Min (°C) = 3.39 Max (°C) =13.11 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 279 Stare = nori 10-25%']
+Ghimbav: 08 \ vineri \ 26:2:2021 \ 19:07:08
+[' Răsarit = 07:02:07 Apus = 18:00:02 Min (°C) = 4.21 Max (°C) =15.16 Presiune = 1019 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = cer senin']
+Ghimbav: 08 \ sâmbătă \ 27:2:2021 \ 19:04:06
+[' Răsarit = 07:00:21 Apus = 18:01:26 Min (°C) = 2.28 Max (°C) =11.65 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 08 \ duminică \ 28:2:2021 \ 19:08:40
+[' Răsarit = 06:58:35 Apus = 18:02:50 Min (°C) = -2.87 Max (°C) =4.34 Presiune = 854 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 25-50%']
+Ghimbav: 09 \ luni \ 01:3:2021 \ 19:02:55
+[' Răsarit = 06:56:48 Apus = 18:04:14 Min (°C) = 0.52 Max (°C) =3.65 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 295 Stare = nori 85-100%']
+Ghimbav: 09 \ marți \ 02:3:2021 \ 19:11:25
+[' Răsarit = 06:55:00 Apus = 18:05:37 Min (°C) = -1.1 Max (°C) =6.67 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Ghimbav: 09 \ miercuri \ 03:3:2021 \ 19:06:46
+[' Răsarit = 06:53:12 Apus = 18:07:00 Min (°C) = 0.26 Max (°C) =9.53 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
+Ghimbav: 09 \ joi \ 04:3:2021 \ 19:07:33
+[' Răsarit = 06:51:23 Apus = 18:08:22 Min (°C) = 1.94 Max (°C) =12.76 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 25-50%']
+Ghimbav: 09 \ vineri \ 05:3:2021 \ 19:05:32
+[' Răsarit = 06:49:33 Apus = 18:09:45 Min (°C) = 1.71 Max (°C) =11.94 Presiune = 846 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 09 \ sâmbătă \ 06:3:2021 \ 19:06:30
+[' Răsarit = 06:47:42 Apus = 18:11:07 Min (°C) = -2.27 Max (°C) =4.42 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = nori 25-50%']
+Ghimbav: 09 \ duminică \ 07:3:2021 \ 19:07:28
+[' Răsarit = 06:45:51 Apus = 18:12:28 Min (°C) = -4.44 Max (°C) =3.87 Presiune = 848 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 280 Stare = cer senin']
+Ghimbav: 10 \ luni \ 08:3:2021 \ 19:10:33
+[' Răsarit = 06:43:59 Apus = 18:13:50 Min (°C) = -3.99 Max (°C) =5.57 Presiune = 844 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 339 Stare = cer senin']
+Ghimbav: 10 \ marți \ 09:3:2021 \ 19:04:48
+[' Răsarit = 06:42:07 Apus = 18:15:11 Min (°C) = -3.29 Max (°C) =4.4 Presiune = 1013 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 158 Stare = nori 85-100%']
+Ghimbav: 10 \ miercuri \ 10:3:2021 \ 19:11:06
+[' Răsarit = 06:40:15 Apus = 18:16:32 Min (°C) = -1.21 Max (°C) =3.18 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 10 \ joi \ 11:3:2021 \ 19:06:47
+[' Răsarit = 06:38:21 Apus = 18:17:52 Min (°C) = -4.09 Max (°C) =3.7 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 10 \ vineri \ 12:3:2021 \ 19:06:50
+[' Răsarit = 06:36:28 Apus = 18:19:12 Min (°C) = -2.75 Max (°C) =7 Presiune = 1009 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 10 \ sâmbătă \ 13:3:2021 \ 19:07:00
+[' Răsarit = 06:34:34 Apus = 18:20:32 Min (°C) = 0.89 Max (°C) =6.09 Presiune = 1010 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 304 Stare = nori 85-100%']
+Ghimbav: 10 \ duminică \ 14:3:2021 \ 19:09:18
+[' Răsarit = 06:32:39 Apus = 18:21:52 Min (°C) = 0.17 Max (°C) =12.57 Presiune = 970 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 205 Stare = nori 85-100%']
+Ghimbav: 11 \ luni \ 15:3:2021 \ 19:08:43
+[' Răsarit = 06:30:45 Apus = 18:23:11 Min (°C) = 3.7 Max (°C) =10.27 Presiune = 994 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 45 Stare = ploaie ușoară']
+Ghimbav: 11 \ marți \ 16:3:2021 \ 19:07:14
+[' Răsarit = 06:28:50 Apus = 18:24:31 Min (°C) = 0.32 Max (°C) =5.02 Presiune = 998 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 225 Stare = zăpadă slabă']
+Ghimbav: 11 \ miercuri \ 17:3:2021 \ 19:07:47
+[' Răsarit = 06:26:55 Apus = 18:25:50 Min (°C) = 0.12 Max (°C) =1.21 Presiune = 1002 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = zăpadă slabă']
+Ghimbav: 11 \ joi \ 18:3:2021 \ 19:06:54
+[' Răsarit = 06:24:59 Apus = 18:27:09 Min (°C) = -0.25 Max (°C) =4.43 Presiune = 1006 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Ghimbav: 11 \ vineri \ 19:3:2021 \ 19:04:33
+[' Răsarit = 06:23:04 Apus = 18:28:28 Min (°C) = -2.47 Max (°C) =4 Presiune = 1009 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = zăpadă slabă']
+Ghimbav: 11 \ sâmbătă \ 20:3:2021 \ 19:06:59
+[' Răsarit = 06:21:08 Apus = 18:29:46 Min (°C) = -8.1 Max (°C) =1.5 Presiune = 1016 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 139 Stare = nori 85-100%']
+Ghimbav: 11 \ duminică \ 21:3:2021 \ 19:02:49
+[' Răsarit = 06:19:12 Apus = 18:31:04 Min (°C) = -5.14 Max (°C) =3.67 Presiune = 1009 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 167 Stare = nori 50-85%']
+Ghimbav: 12 \ luni \ 22:3:2021 \ 19:08:04
+[' Răsarit = 06:17:17 Apus = 18:32:23 Min (°C) = -3.11 Max (°C) =1.33 Presiune = 1004 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 45 Stare = snow']
+Ghimbav: 12 \ marți \ 23:3:2021 \ 19:09:33
+[' Răsarit = 06:15:21 Apus = 18:33:41 Min (°C) = -4.45 Max (°C) =1.46 Presiune = 1006 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 12 \ miercuri \ 24:3:2021 \ 19:08:06
+[' Răsarit = 06:13:25 Apus = 18:34:59 Min (°C) = -6.11 Max (°C) =0.34 Presiune = 1012 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 225 Stare = zăpadă slabă']
+Ghimbav: 12 \ joi \ 25:3:2021 \ 19:07:56
+[' Răsarit = 06:11:29 Apus = 18:36:17 Min (°C) = -4.6 Max (°C) =1.68 Presiune = 1016 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 264 Stare = nori 85-100%']
+Ghimbav: 12 \ vineri \ 26:3:2021 \ 19:12:52
+[' Răsarit = 06:09:33 Apus = 18:37:35 Min (°C) = -3.83 Max (°C) =5.36 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 230 Stare = nori 10-25%']
+Ghimbav: 12 \ sâmbătă \ 27:3:2021 \ 19:12:23
+[' Răsarit = 06:07:38 Apus = 18:38:53 Min (°C) = -3 Max (°C) =10.1 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 223 Stare = nori 10-25%']
+Ghimbav: 12 \ duminică \ 28:3:2021 \ 19:08:21
+[' Răsarit = 07:05:42 Apus = 19:40:10 Min (°C) = 0.7 Max (°C) =11.17 Presiune = 1025 Umiditate (%) = 73 Index UV = 0.02 Viteza vântului = 2.06 Unghiul vântului = 318 Stare = nori 85-100%']
+Ghimbav: 13 \ luni \ 29:3:2021 \ 19:07:24
+[' Răsarit = 07:03:47 Apus = 19:41:28 Min (°C) = -1.24 Max (°C) =8.33 Presiune = 1026 Umiditate (%) = 39 Index UV = 0.09 Viteza vântului = 2.24 Unghiul vântului = 180 Stare = nori 50-85%']
+Ghimbav: 13 \ marți \ 30:3:2021 \ 19:06:17
+[' Răsarit = 07:01:52 Apus = 19:42:46 Min (°C) = -2.13 Max (°C) =12.78 Presiune = 1029 Umiditate (%) = 46 Index UV = 0.09 Viteza vântului = 1.34 Unghiul vântului = 125 Stare = nori 25-50%']
+Ghimbav: 13 \ miercuri \ 31:3:2021 \ 19:05:50
+[' Răsarit = 06:59:57 Apus = 19:44:03 Min (°C) = 0.46 Max (°C) =12.07 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.05 Viteza vântului = 0.45 Unghiul vântului = 158 Stare = nori 85-100%']
+Ghimbav: 13 \ joi \ 01:4:2021 \ 19:06:48
+[' Răsarit = 06:58:02 Apus = 19:45:21 Min (°C) = 5.34 Max (°C) =14.67 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.1 Viteza vântului = 1 Unghiul vântului = 232 Stare = nori 50-85%']
+Ghimbav: 13 \ vineri \ 02:4:2021 \ 19:09:33
+[' Răsarit = 06:56:08 Apus = 19:46:39 Min (°C) = 6.61 Max (°C) =14.79 Presiune = 1006 Umiditate (%) = 86 Index UV = 0.02 Viteza vântului = 0.89 Unghiul vântului = 225 Stare = nori 50-85%']
+Ghimbav: 13 \ sâmbătă \ 03:4:2021 \ 20:30:32
+[' Răsarit = 06:54:14 Apus = 19:47:56 Min (°C) = 3.6 Max (°C) =9.84 Presiune = 1007 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = ploaie ușoară']
+Ghimbav: 13 \ duminică \ 04:4:2021 \ 20:09:40
+[' Răsarit = 06:52:20 Apus = 19:49:14 Min (°C) = 2.13 Max (°C) =7.2 Presiune = 1009 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 14 \ luni \ 05:4:2021 \ 14:36:25
+[' Răsarit = 06:50:27 Apus = 19:50:31 Min (°C) = -1.63 Max (°C) =8.64 Presiune = 1007 Umiditate (%) = 53 Index UV = 1.71 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 14 \ luni \ 05:4:2021 \ 19:07:48
+[' Răsarit = 06:50:27 Apus = 19:50:31 Min (°C) = -1.63 Max (°C) =7.82 Presiune = 1006 Umiditate (%) = 51 Index UV = 0.14 Viteza vântului = 1.34 Unghiul vântului = 180 Stare = nori 50-85%']
+Ghimbav: 14 \ marți \ 06:4:2021 \ 20:11:28
+[' Răsarit = 06:48:35 Apus = 19:51:49 Min (°C) = -0.83 Max (°C) =12.41 Presiune = 998 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.26 Unghiul vântului = 289 Stare = nori 85-100%']
+Ghimbav: 14 \ miercuri \ 07:4:2021 \ 19:06:10
+[' Răsarit = 06:46:42 Apus = 19:53:07 Min (°C) = -4.39 Max (°C) =2.31 Presiune = 1006 Umiditate (%) = 63 Index UV = 0.13 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 14 \ joi \ 08:4:2021 \ 19:06:01
+[' Răsarit = 06:44:51 Apus = 19:54:25 Min (°C) = -7.98 Max (°C) =3.78 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.15 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 50-85%']
+Ghimbav: 14 \ vineri \ 09:4:2021 \ 19:06:10
+[' Răsarit = 06:42:59 Apus = 19:55:42 Min (°C) = -3.58 Max (°C) =6.92 Presiune = 1023 Umiditate (%) = 37 Index UV = 0.17 Viteza vântului = 0.89 Unghiul vântului = 338 Stare = nori 10-25%']
+Ghimbav: 14 \ sâmbătă \ 10:4:2021 \ 19:05:59
+[' Răsarit = 06:41:09 Apus = 19:57:00 Min (°C) = -2.27 Max (°C) =10.77 Presiune = 854 Umiditate (%) = 39 Index UV = 0.18 Viteza vântului = 1.27 Unghiul vântului = 325 Stare = cer senin']
+Ghimbav: 14 \ duminică \ 11:4:2021 \ 19:07:35
+[' Răsarit = 06:39:19 Apus = 19:58:18 Min (°C) = 0.58 Max (°C) =13.36 Presiune = 856 Umiditate (%) = 58 Index UV = 0.19 Viteza vântului = 2.45 Unghiul vântului = 144 Stare = cer senin']
+Ghimbav: 15 \ luni \ 12:4:2021 \ 21:51:11
+[' Răsarit = 06:37:29 Apus = 19:59:36 Min (°C) = 1.85 Max (°C) =16.7 Presiune = 854 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 180 Stare = cer senin']
+Ghimbav: 15 \ marți \ 13:4:2021 \ 19:06:15
+[' Răsarit = 06:35:41 Apus = 20:00:54 Min (°C) = 6.41 Max (°C) =17.45 Presiune = 1010 Umiditate (%) = 32 Index UV = 0.06 Viteza vântului = 0.89 Unghiul vântului = 180 Stare = nori 85-100%']
+Ghimbav: 15 \ miercuri \ 14:4:2021 \ 19:06:52
+[' Răsarit = 06:33:53 Apus = 20:02:12 Min (°C) = 1.68 Max (°C) =9.37 Presiune = 1008 Umiditate (%) = 89 Index UV = 0.05 Viteza vântului = 4.47 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 15 \ joi \ 15:4:2021 \ 19:06:43
+[' Răsarit = 06:32:06 Apus = 20:03:31 Min (°C) = -0.23 Max (°C) =4.43 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.14 Viteza vântului = 1.99 Unghiul vântului = 321 Stare = nori 85-100%']
+Ghimbav: 15 \ vineri \ 16:4:2021 \ 19:06:16
+[' Răsarit = 06:30:19 Apus = 20:04:49 Min (°C) = 0 Max (°C) =6.79 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.21 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 15 \ sâmbătă \ 17:4:2021 \ 19:06:06
+[' Răsarit = 06:28:34 Apus = 20:06:07 Min (°C) = -1.23 Max (°C) =12.4 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 15 \ duminică \ 18:4:2021 \ 19:05:57
+[' Răsarit = 06:26:49 Apus = 20:07:25 Min (°C) = 2.43 Max (°C) =10.4 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.06 Viteza vântului = 1.34 Unghiul vântului = 23 Stare = nori 85-100%']
+Ghimbav: 16 \ luni \ 19:4:2021 \ 19:06:15
+[' Răsarit = 06:25:05 Apus = 20:08:43 Min (°C) = 4.04 Max (°C) =10.79 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.1 Viteza vântului = 0.45 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 16 \ marți \ 20:4:2021 \ 19:06:21
+[' Răsarit = 06:23:22 Apus = 20:10:02 Min (°C) = 4.48 Max (°C) =8.11 Presiune = 1007 Umiditate (%) = 78 Index UV = 0.21 Viteza vântului = 1.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 16 \ miercuri \ 21:4:2021 \ 19:06:19
+[' Răsarit = 06:21:40 Apus = 20:11:20 Min (°C) = 5.16 Max (°C) =12.13 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.22 Viteza vântului = 4.02 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 16 \ joi \ 22:4:2021 \ 19:06:50
+[' Răsarit = 06:19:59 Apus = 20:12:38 Min (°C) = 3.09 Max (°C) =15.42 Presiune = 979 Umiditate (%) = 51 Index UV = 0.25 Viteza vântului = 2.42 Unghiul vântului = 246 Stare = nori 85-100%']
+Ghimbav: 16 \ vineri \ 23:4:2021 \ 19:06:17
+[' Răsarit = 06:18:19 Apus = 20:13:57 Min (°C) = 5.32 Max (°C) =11.11 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.28 Viteza vântului = 1.34 Unghiul vântului = 158 Stare = nori 50-85%']
+Ghimbav: 16 \ sâmbătă \ 24:4:2021 \ 19:06:19
+[' Răsarit = 06:16:40 Apus = 20:15:15 Min (°C) = 1.03 Max (°C) =13.03 Presiune = 1017 Umiditate (%) = 35 Index UV = 0.29 Viteza vântului = 0.89 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 16 \ duminică \ 25:4:2021 \ 19:06:16
+[' Răsarit = 06:15:02 Apus = 20:16:33 Min (°C) = 4.15 Max (°C) =13.87 Presiune = 1012 Umiditate (%) = 46 Index UV = 0.31 Viteza vântului = 0.45 Unghiul vântului = 180 Stare = nori 85-100%']
+Ghimbav: 17 \ luni \ 26:4:2021 \ 19:06:01
+[' Răsarit = 06:13:25 Apus = 20:17:52 Min (°C) = 3.73 Max (°C) =13.14 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.27 Viteza vântului = 1.34 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 17 \ marți \ 27:4:2021 \ 19:06:51
+[' Răsarit = 06:11:49 Apus = 20:19:10 Min (°C) = 4.56 Max (°C) =7.89 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.23 Viteza vântului = 1.34 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 17 \ miercuri \ 28:4:2021 \ 19:06:20
+[' Răsarit = 06:10:15 Apus = 20:20:28 Min (°C) = 3.17 Max (°C) =8.91 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.31 Viteza vântului = 2.38 Unghiul vântului = 140 Stare = nori 85-100%']
+Ghimbav: 17 \ joi \ 29:4:2021 \ 19:16:52
+[' Răsarit = 06:08:42 Apus = 20:21:46 Min (°C) = 3.82 Max (°C) =18.33 Presiune = 1010 Umiditate (%) = 50 Index UV = 0.37 Viteza vântului = 0.89 Unghiul vântului = 180 Stare = nori 50-85%']
+Ghimbav: 17 \ vineri \ 30:4:2021 \ 19:06:27
+[' Răsarit = 06:07:10 Apus = 20:23:03 Min (°C) = 8.16 Max (°C) =19.85 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.37 Viteza vântului = 1.79 Unghiul vântului = 0 Stare = nori 50-85%']
+Ghimbav: 17 \ sâmbătă \ 01:5:2021 \ 19:06:31
+[' Răsarit = 06:05:39 Apus = 20:24:21 Min (°C) = 9.44 Max (°C) =23.38 Presiune = 852 Umiditate (%) = 79 Index UV = 0.29 Viteza vântului = 2.56 Unghiul vântului = 173 Stare = nori 85-100%']
+Ghimbav: 17 \ duminică \ 02:5:2021 \ 20:12:46
+[' Răsarit = 06:04:09 Apus = 20:25:38 Min (°C) = 9.44 Max (°C) =23.14 Presiune = 849 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 280 Stare = nori 85-100%']
+Ghimbav: 18 \ luni \ 03:5:2021 \ 19:06:25
+[' Răsarit = 06:02:41 Apus = 20:26:56 Min (°C) = 7.31 Max (°C) =15.06 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.37 Viteza vântului = 4.84 Unghiul vântului = 326 Stare = nori 25-50%']
+Ghimbav: 18 \ marți \ 04:5:2021 \ 19:06:44
+[' Răsarit = 06:01:14 Apus = 20:28:12 Min (°C) = 2.74 Max (°C) =16.14 Presiune = 1009 Umiditate (%) = 35 Index UV = 0.41 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 25-50%']
+Ghimbav: 18 \ miercuri \ 05:5:2021 \ 19:06:16
+[' Răsarit = 05:59:49 Apus = 20:29:29 Min (°C) = 4.44 Max (°C) =17.73 Presiune = 846 Umiditate (%) = 86 Index UV = 0.43 Viteza vântului = 1.37 Unghiul vântului = 225 Stare = nori 50-85%']
+Ghimbav: 18 \ joi \ 06:5:2021 \ 19:06:29
+[' Răsarit = 05:58:25 Apus = 20:30:46 Min (°C) = 8.75 Max (°C) =15.25 Presiune = 1012 Umiditate (%) = 44 Index UV = 0.37 Viteza vântului = 2.12 Unghiul vântului = 324 Stare = nori 85-100%']
+Ghimbav: 18 \ vineri \ 07:5:2021 \ 19:05:53
+[' Răsarit = 05:57:03 Apus = 20:32:02 Min (°C) = 7 Max (°C) =19.84 Presiune = 1006 Umiditate (%) = 42 Index UV = 0.37 Viteza vântului = 0.45 Unghiul vântului = 203 Stare = nori 85-100%']
+Ghimbav: 18 \ sâmbătă \ 08:5:2021 \ 19:06:21
+[' Răsarit = 05:55:42 Apus = 20:33:17 Min (°C) = 4.96 Max (°C) =11.95 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.39 Viteza vântului = 0.89 Unghiul vântului = 135 Stare = nori 10-25%']
+Ghimbav: 18 \ duminică \ 09:5:2021 \ 19:06:13
+[' Răsarit = 05:54:22 Apus = 20:34:32 Min (°C) = 1.05 Max (°C) =16.08 Presiune = 1021 Umiditate (%) = 27 Index UV = 0.47 Viteza vântului = 0.64 Unghiul vântului = 93 Stare = nori 10-25%']
+Ghimbav: 19 \ luni \ 10:5:2021 \ 19:06:10
+[' Răsarit = 05:53:04 Apus = 20:35:47 Min (°C) = 4.33 Max (°C) =20.53 Presiune = 857 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 4.92 Unghiul vântului = 230 Stare = cer senin']
+Ghimbav: 19 \ marți \ 11:5:2021 \ 19:06:37
+[' Răsarit = 05:51:48 Apus = 20:37:01 Min (°C) = 7.26 Max (°C) =22.34 Presiune = 840 Umiditate (%) = 60 Index UV = 0.48 Viteza vântului = 4.02 Unghiul vântului = 244 Stare = cer senin']
+Ghimbav: 19 \ miercuri \ 12:5:2021 \ 19:06:09
+[' Răsarit = 05:50:34 Apus = 20:38:15 Min (°C) = 6.75 Max (°C) =21.87 Presiune = 1006 Umiditate (%) = 60 Index UV = 0.45 Viteza vântului = 3.32 Unghiul vântului = 140 Stare = nori 50-85%']
+Ghimbav: 19 \ joi \ 13:5:2021 \ 19:06:36
+[' Răsarit = 05:49:21 Apus = 20:39:28 Min (°C) = 9.6 Max (°C) =17.85 Presiune = 1002 Umiditate (%) = 56 Index UV = 0.4 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 19 \ vineri \ 14:5:2021 \ 19:06:35
+[' Răsarit = 05:48:09 Apus = 20:40:41 Min (°C) = 8.55 Max (°C) =15.33 Presiune = 806 Umiditate (%) = 86 Index UV = 0.5 Viteza vântului = 8.94 Unghiul vântului = 253 Stare = nori 85-100%']
+Ghimbav: 19 \ sâmbătă \ 15:5:2021 \ 19:06:22
+[' Răsarit = 05:47:00 Apus = 20:41:53 Min (°C) = 8.51 Max (°C) =20.26 Presiune = 1006 Umiditate (%) = 42 Index UV = 0.48 Viteza vântului = 0.89 Unghiul vântului = 22 Stare = nori 50-85%']
+Ghimbav: 19 \ duminică \ 16:5:2021 \ 19:06:51
+[' Răsarit = 05:45:52 Apus = 20:43:04 Min (°C) = 9.98 Max (°C) =17.64 Presiune = 1005 Umiditate (%) = 63 Index UV = 0.36 Viteza vântului = 4.47 Unghiul vântului = 270 Stare = nori 25-50%']
+Ghimbav: 20 \ luni \ 17:5:2021 \ 19:07:01
+[' Răsarit = 05:44:46 Apus = 20:44:14 Min (°C) = 9.34 Max (°C) =19.62 Presiune = 1000 Umiditate (%) = 38 Index UV = 0.42 Viteza vântului = 5.36 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 20 \ marți \ 18:5:2021 \ 19:06:50
+[' Răsarit = 05:43:42 Apus = 20:45:24 Min (°C) = 8.24 Max (°C) =13.27 Presiune = 1008 Umiditate (%) = 96 Index UV = 0.07 Viteza vântului = 5.39 Unghiul vântului = 305 Stare = nori 85-100%']
+Ghimbav: 20 \ miercuri \ 19:5:2021 \ 19:06:04
+[' Răsarit = 05:42:40 Apus = 20:46:33 Min (°C) = 7.8 Max (°C) =17.68 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.4 Viteza vântului = 0.13 Unghiul vântului = 187 Stare = nori 85-100%']
+Ghimbav: 20 \ joi \ 20:5:2021 \ 19:06:24
+[' Răsarit = 05:41:40 Apus = 20:47:40 Min (°C) = 8.05 Max (°C) =10.61 Presiune = 1007 Umiditate (%) = 78 Index UV = 0.13 Viteza vântului = 0.64 Unghiul vântului = 237 Stare = ploaie ușoară']
+Ghimbav: 20 \ vineri \ 21:5:2021 \ 19:07:11
+[' Răsarit = 05:40:42 Apus = 20:48:47 Min (°C) = 7.81 Max (°C) =15.27 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.59 Viteza vântului = 2.44 Unghiul vântului = 313 Stare = nori 10-25%']
+Ghimbav: 20 \ sâmbătă \ 22:5:2021 \ 19:06:42
+[' Răsarit = 05:39:45 Apus = 20:49:53 Min (°C) = 6.22 Max (°C) =21.02 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.59 Viteza vântului = 1.94 Unghiul vântului = 316 Stare = nori 25-50%']
+Ghimbav: 20 \ duminică \ 23:5:2021 \ 19:07:06
+[' Răsarit = 05:38:51 Apus = 20:50:58 Min (°C) = 10.53 Max (°C) =23.25 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.64 Viteza vântului = 3.8 Unghiul vântului = 201 Stare = nori 50-85%']
+Ghimbav: 21 \ luni \ 24:5:2021 \ 19:06:03
+[' Răsarit = 05:37:58 Apus = 20:52:02 Min (°C) = 11.34 Max (°C) =20.39 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.68 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 50-85%']
+Ghimbav: 21 \ marți \ 25:5:2021 \ 19:06:04
+[' Răsarit = 05:37:08 Apus = 20:53:05 Min (°C) = 9.84 Max (°C) =25.1 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.65 Viteza vântului = 3.11 Unghiul vântului = 213 Stare = cer senin']
+Ghimbav: 21 \ miercuri \ 26:5:2021 \ 19:07:24
+[' Răsarit = 05:36:20 Apus = 20:54:06 Min (°C) = 13.08 Max (°C) =21.38 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.59 Viteza vântului = 1.48 Unghiul vântului = 118 Stare = nori 85-100%']
+Ghimbav: 21 \ joi \ 27:5:2021 \ 19:06:10
+[' Răsarit = 05:35:34 Apus = 20:55:06 Min (°C) = 12.6 Max (°C) =21.13 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.56 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Ghimbav: 21 \ vineri \ 28:5:2021 \ 19:06:31
+[' Răsarit = 05:34:50 Apus = 20:56:05 Min (°C) = 11.28 Max (°C) =13.21 Presiune = 1010 Umiditate (%) = 83 Index UV = 0.08 Viteza vântului = 2.24 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 21 \ sâmbătă \ 29:5:2021 \ 19:06:04
+[' Răsarit = 05:34:08 Apus = 20:57:02 Min (°C) = 10.97 Max (°C) =17.76 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.63 Viteza vântului = 1.83 Unghiul vântului = 298 Stare = nori 85-100%']
+Ghimbav: 21 \ duminică \ 30:5:2021 \ 19:05:47
+[' Răsarit = 05:33:28 Apus = 20:57:59 Min (°C) = 9.97 Max (°C) =14.8 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.58 Viteza vântului = 2.01 Unghiul vântului = 259 Stare = nori 85-100%']
+Ghimbav: 22 \ marți \ 01:6:2021 \ 19:06:33
+[' Răsarit = 05:32:15 Apus = 20:59:46 Min (°C) = 6.53 Max (°C) =9.19 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.1 Viteza vântului = 1.58 Unghiul vântului = 271 Stare = nori 85-100%']
+Ghimbav: 22 \ miercuri \ 02:6:2021 \ 19:05:18
+[' Răsarit = 05:31:42 Apus = 21:00:38 Min (°C) = 6.67 Max (°C) =12.52 Presiune = 1020 Umiditate (%) = 71 Index UV = 0.24 Viteza vântului = 2.05 Unghiul vântului = 31 Stare = nori 85-100%']
+Ghimbav: 22 \ joi \ 03:6:2021 \ 19:05:47
+[' Răsarit = 05:31:11 Apus = 21:01:28 Min (°C) = 7.6 Max (°C) =14.69 Presiune = 1019 Umiditate (%) = 69 Index UV = 0.44 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 22 \ vineri \ 04:6:2021 \ 19:10:52
+[' Răsarit = 05:30:43 Apus = 21:02:16 Min (°C) = 7.24 Max (°C) =18.36 Presiune = 1023 Umiditate (%) = 53 Index UV = 0.45 Viteza vântului = 1.67 Unghiul vântului = 346 Stare = nori 85-100%']
+Ghimbav: 22 \ sâmbătă \ 05:6:2021 \ 19:06:42
+[' Răsarit = 05:30:16 Apus = 21:03:02 Min (°C) = 7.87 Max (°C) =21.09 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.7 Viteza vântului = 2.65 Unghiul vântului = 318 Stare = nori 10-25%']
+Ghimbav: 22 \ duminică \ 06:6:2021 \ 19:06:24
+[' Răsarit = 05:29:52 Apus = 21:03:47 Min (°C) = 10.15 Max (°C) =17.6 Presiune = 1016 Umiditate (%) = 61 Index UV = 0.69 Viteza vântului = 1.5 Unghiul vântului = 298 Stare = nori 10-25%']
+Ghimbav: 23 \ luni \ 07:6:2021 \ 19:06:30
+[' Răsarit = 05:29:31 Apus = 21:04:30 Min (°C) = 9.53 Max (°C) =20.56 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.7 Viteza vântului = 1 Unghiul vântului = 323 Stare = nori 10-25%']
+Ghimbav: 23 \ marți \ 08:6:2021 \ 19:06:29
+[' Răsarit = 05:29:12 Apus = 21:05:11 Min (°C) = 10.43 Max (°C) =20.02 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.69 Viteza vântului = 1.55 Unghiul vântului = 308 Stare = cer senin']
+Ghimbav: 23 \ miercuri \ 09:6:2021 \ 19:06:39
+[' Răsarit = 05:28:55 Apus = 21:05:50 Min (°C) = 10.27 Max (°C) =23 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.7 Viteza vântului = 2.64 Unghiul vântului = 346 Stare = nori 50-85%']
+Ghimbav: 23 \ joi \ 10:6:2021 \ 19:06:13
+[' Răsarit = 05:28:40 Apus = 21:06:27 Min (°C) = 10.97 Max (°C) =19.4 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.7 Viteza vântului = 2.37 Unghiul vântului = 308 Stare = nori 25-50%']
+Ghimbav: 23 \ vineri \ 11:6:2021 \ 19:06:06
+[' Răsarit = 05:28:28 Apus = 21:07:03 Min (°C) = 10.53 Max (°C) =19.46 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.62 Viteza vântului = 1.66 Unghiul vântului = 258 Stare = nori 85-100%']
+Ghimbav: 23 \ sâmbătă \ 12:6:2021 \ 19:06:10
+[' Răsarit = 05:28:18 Apus = 21:07:36 Min (°C) = 10.14 Max (°C) =19.66 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.68 Viteza vântului = 1.84 Unghiul vântului = 213 Stare = ploaie ușoară']
+Ghimbav: 23 \ duminică \ 13:6:2021 \ 19:11:13
+[' Răsarit = 05:28:10 Apus = 21:08:07 Min (°C) = 10.39 Max (°C) =16.11 Presiune = 1007 Umiditate (%) = 86 Index UV = 0.63 Viteza vântului = 2.24 Unghiul vântului = 202 Stare = nori 50-85%']
+Ghimbav: 24 \ luni \ 14:6:2021 \ 19:06:15
+[' Răsarit = 05:28:05 Apus = 21:08:36 Min (°C) = 7.94 Max (°C) =12.12 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.15 Viteza vântului = 3.58 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 24 \ marți \ 15:6:2021 \ 19:08:05
+[' Răsarit = 05:28:02 Apus = 21:09:03 Min (°C) = 7.78 Max (°C) =15.28 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.11 Viteza vântului = 0.88 Unghiul vântului = 307 Stare = nori 85-100%']
+Ghimbav: 24 \ miercuri \ 16:6:2021 \ 19:07:03
+[' Răsarit = 05:28:02 Apus = 21:09:27 Min (°C) = 12.22 Max (°C) =19.08 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.7 Viteza vântului = 1.78 Unghiul vântului = 298 Stare = nori 85-100%']
+Ghimbav: 24 \ joi \ 17:6:2021 \ 19:06:36
+[' Răsarit = 05:28:03 Apus = 21:09:50 Min (°C) = 11.59 Max (°C) =20.59 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.48 Viteza vântului = 1.47 Unghiul vântului = 21 Stare = nori 85-100%']
+Ghimbav: 24 \ vineri \ 18:6:2021 \ 19:06:59
+[' Răsarit = 05:28:08 Apus = 21:10:10 Min (°C) = 14.34 Max (°C) =17.57 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.69 Viteza vântului = 1.7 Unghiul vântului = 350 Stare = ploaie ușoară']
+Ghimbav: 24 \ sâmbătă \ 19:6:2021 \ 19:06:02
+[' Răsarit = 05:28:14 Apus = 21:10:28 Min (°C) = 12.74 Max (°C) =16.55 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.69 Viteza vântului = 1.29 Unghiul vântului = 90 Stare = nori 85-100%']
+Ghimbav: 24 \ duminică \ 20:6:2021 \ 19:06:56
+[' Răsarit = 05:28:23 Apus = 21:10:44 Min (°C) = 12.2 Max (°C) =21.22 Presiune = 1009 Umiditate (%) = 82 Index UV = 0.62 Viteza vântului = 0.45 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 25 \ luni \ 21:6:2021 \ 19:07:21
+[' Răsarit = 05:28:34 Apus = 21:10:57 Min (°C) = 11.67 Max (°C) =23.57 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.67 Viteza vântului = 1.04 Unghiul vântului = 57 Stare = nori 50-85%']
+Ghimbav: 25 \ marți \ 22:6:2021 \ 19:07:10
+[' Răsarit = 05:28:47 Apus = 21:11:09 Min (°C) = 13.54 Max (°C) =26.27 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.75 Viteza vântului = 1.91 Unghiul vântului = 319 Stare = cer senin']
+Ghimbav: 25 \ miercuri \ 23:6:2021 \ 19:06:40
+[' Răsarit = 05:29:02 Apus = 21:11:17 Min (°C) = 15.32 Max (°C) =27.43 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.64 Viteza vântului = 2.26 Unghiul vântului = 303 Stare = cer senin']
+Ghimbav: 25 \ joi \ 24:6:2021 \ 19:07:04
+[' Răsarit = 05:29:20 Apus = 21:11:24 Min (°C) = 16.09 Max (°C) =29.26 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.8 Viteza vântului = 1.74 Unghiul vântului = 333 Stare = cer senin']
+Ghimbav: 25 \ vineri \ 25:6:2021 \ 19:06:37
+[' Răsarit = 05:29:40 Apus = 21:11:28 Min (°C) = 17.32 Max (°C) =30.18 Presiune = 1017 Umiditate (%) = 95 Index UV = 0.54 Viteza vântului = 2.47 Unghiul vântului = 124 Stare = nori 50-85%']
+Ghimbav: 25 \ sâmbătă \ 26:6:2021 \ 19:06:12
+[' Răsarit = 05:30:02 Apus = 21:11:29 Min (°C) = 15.87 Max (°C) =26.83 Presiune = 1015 Umiditate (%) = 97 Index UV = 0.25 Viteza vântului = 1.74 Unghiul vântului = 102 Stare = nori 50-85%']
+Ghimbav: 25 \ duminică \ 27:6:2021 \ 19:06:10
+[' Răsarit = 05:30:26 Apus = 21:11:29 Min (°C) = 14.79 Max (°C) =24.45 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.74 Viteza vântului = 2.53 Unghiul vântului = 323 Stare = nori 25-50%']
+Ghimbav: 26 \ luni \ 28:6:2021 \ 19:07:21
+[' Răsarit = 05:30:52 Apus = 21:11:25 Min (°C) = 14.39 Max (°C) =25.82 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.77 Viteza vântului = 2.17 Unghiul vântului = 315 Stare = nori 10-25%']
+Ghimbav: 26 \ marți \ 29:6:2021 \ 19:07:04
+[' Răsarit = 05:31:21 Apus = 21:11:20 Min (°C) = 15.02 Max (°C) =28.35 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.78 Viteza vântului = 1.17 Unghiul vântului = 308 Stare = nori 10-25%']
+Ghimbav: 26 \ miercuri \ 30:6:2021 \ 19:06:39
+[' Răsarit = 05:31:51 Apus = 21:11:12 Min (°C) = 16.67 Max (°C) =31.17 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.37 Viteza vântului = 4.15 Unghiul vântului = 294 Stare = nori 50-85%']
+Ghimbav: 26 \ joi \ 01:7:2021 \ 19:07:26
+[' Răsarit = 05:32:24 Apus = 21:11:02 Min (°C) = 14.52 Max (°C) =26.64 Presiune = 1014 Umiditate (%) = 95 Index UV = 0.27 Viteza vântului = 1.17 Unghiul vântului = 142 Stare = ploaie ușoară']
+Ghimbav: 26 \ vineri \ 02:7:2021 \ 19:06:20
+[' Răsarit = 05:32:58 Apus = 21:10:49 Min (°C) = 14.2 Max (°C) =19.32 Presiune = 1011 Umiditate (%) = 66 Index UV = 0.32 Viteza vântului = 2.34 Unghiul vântului = 322 Stare = nori 50-85%']
+Ghimbav: 26 \ sâmbătă \ 03:7:2021 \ 19:06:22
+[' Răsarit = 05:33:34 Apus = 21:10:34 Min (°C) = 10.67 Max (°C) =17.77 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.41 Viteza vântului = 3.61 Unghiul vântului = 300 Stare = nori 50-85%']
+Ghimbav: 26 \ duminică \ 04:7:2021 \ 19:06:20
+[' Răsarit = 05:34:12 Apus = 21:10:16 Min (°C) = 12.45 Max (°C) =18.13 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.39 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = nori 50-85%']
+Ghimbav: 27 \ luni \ 05:7:2021 \ 19:06:44
+[' Răsarit = 05:34:52 Apus = 21:09:56 Min (°C) = 12.18 Max (°C) =20.6 Presiune = 1010 Umiditate (%) = 90 Index UV = 0.46 Viteza vântului = 2.04 Unghiul vântului = 295 Stare = nori 85-100%']
+Ghimbav: 27 \ marți \ 06:7:2021 \ 19:06:52
+[' Răsarit = 05:35:34 Apus = 21:09:34 Min (°C) = 14.97 Max (°C) =24.31 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.74 Viteza vântului = 2.45 Unghiul vântului = 308 Stare = nori 25-50%']
+Ghimbav: 27 \ miercuri \ 07:7:2021 \ 19:06:19
+[' Răsarit = 05:36:17 Apus = 21:09:09 Min (°C) = 15.24 Max (°C) =26.68 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.75 Viteza vântului = 0.89 Unghiul vântului = 90 Stare = cer senin']
+Ghimbav: 27 \ joi \ 08:7:2021 \ 19:06:37
+[' Răsarit = 05:37:02 Apus = 21:08:42 Min (°C) = 15.9 Max (°C) =26.33 Presiune = 1022 Umiditate (%) = 55 Index UV = 0.74 Viteza vântului = 3.04 Unghiul vântului = 78 Stare = nori 10-25%']
+Ghimbav: 27 \ vineri \ 09:7:2021 \ 19:06:49
+[' Răsarit = 05:37:49 Apus = 21:08:13 Min (°C) = 14.99 Max (°C) =28.02 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.73 Viteza vântului = 1.7 Unghiul vântului = 110 Stare = nori 10-25%']
+Ghimbav: 27 \ sâmbătă \ 10:7:2021 \ 19:06:05
+[' Răsarit = 05:38:37 Apus = 21:07:42 Min (°C) = 14.71 Max (°C) =27.23 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.72 Viteza vântului = 1.68 Unghiul vântului = 157 Stare = nori 25-50%']
+Ghimbav: 27 \ duminică \ 11:7:2021 \ 19:06:15
+[' Răsarit = 05:39:27 Apus = 21:07:08 Min (°C) = 14.53 Max (°C) =27.61 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.54 Viteza vântului = 2.41 Unghiul vântului = 91 Stare = nori 25-50%']
+Ghimbav: 28 \ luni \ 12:7:2021 \ 19:06:51
+[' Răsarit = 05:40:18 Apus = 21:06:31 Min (°C) = 14.25 Max (°C) =26.74 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.68 Viteza vântului = 0.84 Unghiul vântului = 99 Stare = cer senin']
+Ghimbav: 28 \ marți \ 13:7:2021 \ 19:07:07
+[' Răsarit = 05:41:11 Apus = 21:05:53 Min (°C) = 14.87 Max (°C) =28.1 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.72 Viteza vântului = 1.37 Unghiul vântului = 102 Stare = cer senin']
+Ghimbav: 28 \ miercuri \ 14:7:2021 \ 19:06:31
+[' Răsarit = 05:42:05 Apus = 21:05:12 Min (°C) = 16.62 Max (°C) =29.91 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.73 Viteza vântului = 3.09 Unghiul vântului = 155 Stare = cer senin']
+Ghimbav: 28 \ joi \ 15:7:2021 \ 19:06:58
+[' Răsarit = 05:43:01 Apus = 21:04:30 Min (°C) = 16.27 Max (°C) =30.7 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.71 Viteza vântului = 2.47 Unghiul vântului = 126 Stare = cer senin']
+Ghimbav: 28 \ vineri \ 16:7:2021 \ 19:06:30
+[' Răsarit = 05:43:58 Apus = 21:03:45 Min (°C) = 16.85 Max (°C) =29.88 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.69 Viteza vântului = 3.03 Unghiul vântului = 103 Stare = cer senin']
+Ghimbav: 28 \ sâmbătă \ 17:7:2021 \ 19:06:48
+[' Răsarit = 05:44:56 Apus = 21:02:57 Min (°C) = 15.25 Max (°C) =29.3 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.64 Viteza vântului = 3.35 Unghiul vântului = 102 Stare = cer senin']
+Ghimbav: 28 \ duminică \ 18:7:2021 \ 19:06:44
+[' Răsarit = 05:45:55 Apus = 21:02:08 Min (°C) = 16.3 Max (°C) =29.79 Presiune = 1008 Umiditate (%) = 58 Index UV = 0.64 Viteza vântului = 3.77 Unghiul vântului = 86 Stare = nori 25-50%']
+Ghimbav: 29 \ luni \ 19:7:2021 \ 19:06:49
+[' Răsarit = 05:46:55 Apus = 21:01:17 Min (°C) = 17.23 Max (°C) =31.14 Presiune = 1010 Umiditate (%) = 82 Index UV = 0.27 Viteza vântului = 0.74 Unghiul vântului = 47 Stare = nori 85-100%']
+Ghimbav: 29 \ marți \ 20:7:2021 \ 19:06:23
+[' Răsarit = 05:47:57 Apus = 21:00:23 Min (°C) = 16.62 Max (°C) =23.92 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.31 Viteza vântului = 1.34 Unghiul vântului = 225 Stare = ploaie ușoară']
+Ghimbav: 29 \ miercuri \ 21:7:2021 \ 19:06:25
+[' Răsarit = 05:48:59 Apus = 20:59:28 Min (°C) = 14.63 Max (°C) =18.14 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.59 Viteza vântului = 1.79 Unghiul vântului = 292 Stare = nori 50-85%']
+Ghimbav: 29 \ joi \ 22:7:2021 \ 19:06:05
+[' Răsarit = 05:50:02 Apus = 20:58:30 Min (°C) = 13.36 Max (°C) =20.97 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.56 Viteza vântului = 2.43 Unghiul vântului = 291 Stare = nori 50-85%']
+Ghimbav: 29 \ vineri \ 23:7:2021 \ 19:06:30
+[' Răsarit = 05:51:07 Apus = 20:57:31 Min (°C) = 11.82 Max (°C) =23.23 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.26 Viteza vântului = 0.94 Unghiul vântului = 205 Stare = nori 85-100%']
+Ghimbav: 29 \ sâmbătă \ 24:7:2021 \ 19:13:19
+[' Răsarit = 05:52:12 Apus = 20:56:29 Min (°C) = 13.46 Max (°C) =23.95 Presiune = 1017 Umiditate (%) = 50 Index UV = 0.42 Viteza vântului = 1.08 Unghiul vântului = 77 Stare = nori 85-100%']
+Ghimbav: 29 \ duminică \ 25:7:2021 \ 19:06:27
+[' Răsarit = 05:53:18 Apus = 20:55:26 Min (°C) = 12.79 Max (°C) =24.88 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.59 Viteza vântului = 1.33 Unghiul vântului = 110 Stare = nori 25-50%']
+Ghimbav: 30 \ luni \ 26:7:2021 \ 19:06:43
+[' Răsarit = 05:54:25 Apus = 20:54:21 Min (°C) = 14.26 Max (°C) =28.51 Presiune = 1017 Umiditate (%) = 52 Index UV = 0.54 Viteza vântului = 0.77 Unghiul vântului = 101 Stare = nori 25-50%']
+Ghimbav: 30 \ marți \ 27:7:2021 \ 19:07:21
+[' Răsarit = 05:55:32 Apus = 20:53:14 Min (°C) = 17.08 Max (°C) =30.76 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.58 Viteza vântului = 2.71 Unghiul vântului = 207 Stare = nori 25-50%']
+Ghimbav: 30 \ miercuri \ 28:7:2021 \ 19:08:47
+[' Răsarit = 05:56:40 Apus = 20:52:05 Min (°C) = 18.27 Max (°C) =32.29 Presiune = 1018 Umiditate (%) = 75 Index UV = 0.12 Viteza vântului = 1.77 Unghiul vântului = 245 Stare = nori 50-85%']
+Ghimbav: 30 \ joi \ 29:7:2021 \ 19:06:54
+[' Răsarit = 05:57:49 Apus = 20:50:54 Min (°C) = 17.62 Max (°C) =32.84 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.26 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 50-85%']
+Ghimbav: 30 \ vineri \ 30:7:2021 \ 19:06:07
+[' Răsarit = 05:58:59 Apus = 20:49:42 Min (°C) = 16.95 Max (°C) =29.93 Presiune = 1009 Umiditate (%) = 55 Index UV = 0.55 Viteza vântului = 3.58 Unghiul vântului = 225 Stare = nori 50-85%']
+Ghimbav: 30 \ sâmbătă \ 31:7:2021 \ 19:06:03
+[' Răsarit = 06:00:09 Apus = 20:48:28 Min (°C) = 17.3 Max (°C) =30.56 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.38 Viteza vântului = 1.87 Unghiul vântului = 217 Stare = nori 50-85%']
+Ghimbav: 30 \ duminică \ 01:8:2021 \ 19:06:22
+[' Răsarit = 06:01:19 Apus = 20:47:12 Min (°C) = 17.03 Max (°C) =31.93 Presiune = 1009 Umiditate (%) = 33 Index UV = 0.52 Viteza vântului = 2.12 Unghiul vântului = 137 Stare = cer senin']
+Ghimbav: 31 \ luni \ 02:8:2021 \ 19:06:02
+[' Răsarit = 06:02:30 Apus = 20:45:54 Min (°C) = 18.96 Max (°C) =30.94 Presiune = 1011 Umiditate (%) = 61 Index UV = 0.51 Viteza vântului = 4.29 Unghiul vântului = 326 Stare = cer senin']
+Ghimbav: 31 \ marți \ 03:8:2021 \ 19:06:11
+[' Răsarit = 06:03:42 Apus = 20:44:35 Min (°C) = 16.56 Max (°C) =25.16 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.37 Viteza vântului = 0.8 Unghiul vântului = 86 Stare = nori 85-100%']
+Ghimbav: 31 \ miercuri \ 04:8:2021 \ 19:07:58
+[' Răsarit = 06:04:54 Apus = 20:43:14 Min (°C) = 14.46 Max (°C) =28.26 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.43 Viteza vântului = 2.2 Unghiul vântului = 205 Stare = nori 50-85%']
+Ghimbav: 31 \ joi \ 05:8:2021 \ 19:05:14
+[' Răsarit = 06:06:06 Apus = 20:41:52 Min (°C) = 15.33 Max (°C) =31.62 Presiune = 1005 Umiditate (%) = 33 Index UV = 0.41 Viteza vântului = 1.32 Unghiul vântului = 107 Stare = nori 25-50%']
+Ghimbav: 31 \ vineri \ 06:8:2021 \ 19:06:18
+[' Răsarit = 06:07:18 Apus = 20:40:29 Min (°C) = 15.1 Max (°C) =22.52 Presiune = 1004 Umiditate (%) = 50 Index UV = 0.42 Viteza vântului = 4.47 Unghiul vântului = 292 Stare = nori 50-85%']
+Ghimbav: 31 \ sâmbătă \ 07:8:2021 \ 19:05:59
+[' Răsarit = 06:08:31 Apus = 20:39:03 Min (°C) = 11.39 Max (°C) =24.5 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.45 Viteza vântului = 1.3 Unghiul vântului = 273 Stare = cer senin']
+Ghimbav: 31 \ duminică \ 08:8:2021 \ 19:06:10
+[' Răsarit = 06:09:44 Apus = 20:37:37 Min (°C) = 12.36 Max (°C) =29.09 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.45 Viteza vântului = 0.52 Unghiul vântului = 302 Stare = cer senin']
+Ghimbav: 32 \ luni \ 09:8:2021 \ 19:06:58
+[' Răsarit = 06:10:57 Apus = 20:36:09 Min (°C) = 16.28 Max (°C) =31.6 Presiune = 1020 Umiditate (%) = 87 Index UV = 0.17 Viteza vântului = 4.6 Unghiul vântului = 189 Stare = nori 50-85%']
+Ghimbav: 32 \ marți \ 10:8:2021 \ 19:06:53
+[' Răsarit = 06:12:11 Apus = 20:34:39 Min (°C) = 16.32 Max (°C) =29.21 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.27 Viteza vântului = 2.85 Unghiul vântului = 273 Stare = nori 10-25%']
+Ghimbav: 32 \ miercuri \ 11:8:2021 \ 19:05:05
+[' Răsarit = 06:13:25 Apus = 20:33:08 Min (°C) = 14.53 Max (°C) =27.93 Presiune = 1015 Umiditate (%) = 40 Index UV = 0.39 Viteza vântului = 2.29 Unghiul vântului = 279 Stare = cer senin']
+Ghimbav: 32 \ joi \ 12:8:2021 \ 19:06:03
+[' Răsarit = 06:14:38 Apus = 20:31:36 Min (°C) = 15.05 Max (°C) =26.38 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.4 Viteza vântului = 2.25 Unghiul vântului = 1 Stare = nori 25-50%']
+Ghimbav: 32 \ vineri \ 13:8:2021 \ 19:05:11
+[' Răsarit = 06:15:52 Apus = 20:30:03 Min (°C) = 12.8 Max (°C) =26.85 Presiune = 1022 Umiditate (%) = 43 Index UV = 0.39 Viteza vântului = 1.4 Unghiul vântului = 282 Stare = nori 25-50%']
+Ghimbav: 32 \ sâmbătă \ 14:8:2021 \ 19:05:55
+[' Răsarit = 06:17:06 Apus = 20:28:28 Min (°C) = 12.25 Max (°C) =27.55 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.39 Viteza vântului = 1.42 Unghiul vântului = 245 Stare = cer senin']
+Ghimbav: 32 \ duminică \ 15:8:2021 \ 19:05:20
+[' Răsarit = 06:18:20 Apus = 20:26:52 Min (°C) = 13.95 Max (°C) =29.34 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.37 Viteza vântului = 1.05 Unghiul vântului = 211 Stare = cer senin']
+Ghimbav: 33 \ luni \ 16:8:2021 \ 19:05:09
+[' Răsarit = 06:19:35 Apus = 20:25:15 Min (°C) = 16.06 Max (°C) =32.46 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.37 Viteza vântului = 1.07 Unghiul vântului = 149 Stare = cer senin']
+Ghimbav: 33 \ marți \ 17:8:2021 \ 19:05:37
+[' Răsarit = 06:20:49 Apus = 20:23:37 Min (°C) = 16.97 Max (°C) =33.08 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.13 Viteza vântului = 0.56 Unghiul vântului = 46 Stare = nori 25-50%']
+Ghimbav: 33 \ miercuri \ 18:8:2021 \ 19:05:24
+[' Răsarit = 06:22:03 Apus = 20:21:58 Min (°C) = 14.71 Max (°C) =22.23 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.16 Viteza vântului = 2.17 Unghiul vântului = 293 Stare = ploaie ușoară']
+Ghimbav: 33 \ joi \ 19:8:2021 \ 19:05:08
+[' Răsarit = 06:23:17 Apus = 20:20:18 Min (°C) = 10.18 Max (°C) =21.79 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.32 Viteza vântului = 2.35 Unghiul vântului = 319 Stare = cer senin']
+Ghimbav: 33 \ vineri \ 20:8:2021 \ 19:05:19
+[' Răsarit = 06:24:31 Apus = 20:18:36 Min (°C) = 9.78 Max (°C) =24.42 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.32 Viteza vântului = 1.22 Unghiul vântului = 5 Stare = cer senin']
+Ghimbav: 33 \ sâmbătă \ 21:8:2021 \ 19:06:04
+[' Răsarit = 06:25:46 Apus = 20:16:54 Min (°C) = 12.02 Max (°C) =25.36 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.26 Viteza vântului = 1.5 Unghiul vântului = 206 Stare = nori 85-100%']
+Ghimbav: 33 \ duminică \ 22:8:2021 \ 19:05:25
+[' Răsarit = 06:27:00 Apus = 20:15:10 Min (°C) = 15.71 Max (°C) =25.27 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.11 Viteza vântului = 1.73 Unghiul vântului = 191 Stare = nori 50-85%']
+Ghimbav: 34 \ luni \ 23:8:2021 \ 19:05:16
+[' Răsarit = 06:28:14 Apus = 20:13:26 Min (°C) = 13.71 Max (°C) =27.8 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.25 Viteza vântului = 2.28 Unghiul vântului = 198 Stare = nori 50-85%']
+Ghimbav: 34 \ marți \ 24:8:2021 \ 19:05:11
+[' Răsarit = 06:29:28 Apus = 20:11:41 Min (°C) = 13.92 Max (°C) =28.33 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.18 Viteza vântului = 1.02 Unghiul vântului = 267 Stare = nori 85-100%']
+Ghimbav: 34 \ miercuri \ 25:8:2021 \ 19:05:14
+[' Răsarit = 06:30:42 Apus = 20:09:54 Min (°C) = 13.81 Max (°C) =25.1 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.18 Viteza vântului = 0.05 Unghiul vântului = 49 Stare = nori 85-100%']
+Ghimbav: 34 \ joi \ 26:8:2021 \ 19:06:07
+[' Răsarit = 06:31:56 Apus = 20:08:07 Min (°C) = 13.66 Max (°C) =17.87 Presiune = 1011 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 0.52 Unghiul vântului = 232 Stare = nori 85-100%']
+Ghimbav: 34 \ vineri \ 27:8:2021 \ 19:06:33
+[' Răsarit = 06:33:10 Apus = 20:06:20 Min (°C) = 10.53 Max (°C) =23.76 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.16 Viteza vântului = 2.57 Unghiul vântului = 294 Stare = nori 25-50%']
+Ghimbav: 34 \ sâmbătă \ 28:8:2021 \ 19:07:22
+[' Răsarit = 06:34:24 Apus = 20:04:31 Min (°C) = 12.35 Max (°C) =23.31 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.15 Viteza vântului = 1.68 Unghiul vântului = 152 Stare = nori 50-85%']
+Ghimbav: 34 \ duminică \ 29:8:2021 \ 19:06:31
+[' Răsarit = 06:35:37 Apus = 20:02:42 Min (°C) = 15.1 Max (°C) =19.86 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.2 Viteza vântului = 0.93 Unghiul vântului = 128 Stare = nori 85-100%']
+Ghimbav: 35 \ luni \ 30:8:2021 \ 19:06:30
+[' Răsarit = 06:36:51 Apus = 20:00:52 Min (°C) = 12.55 Max (°C) =18.32 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.15 Viteza vântului = 2.87 Unghiul vântului = 285 Stare = nori 50-85%']
+Ghimbav: 35 \ marți \ 31:8:2021 \ 19:06:30
+[' Răsarit = 06:38:05 Apus = 19:59:01 Min (°C) = 8.65 Max (°C) =20.86 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.18 Viteza vântului = 1.92 Unghiul vântului = 288 Stare = ploaie ușoară']
+Ghimbav: 35 \ miercuri \ 01:9:2021 \ 19:06:03
+[' Răsarit = 06:39:18 Apus = 19:57:09 Min (°C) = 9.67 Max (°C) =17.77 Presiune = 1015 Umiditate (%) = 80 Index UV = 0.04 Viteza vântului = 3.78 Unghiul vântului = 286 Stare = nori 85-100%']
+Ghimbav: 35 \ joi \ 02:9:2021 \ 19:08:26
+[' Răsarit = 06:40:31 Apus = 19:55:17 Min (°C) = 11.36 Max (°C) =15.93 Presiune = 1021 Umiditate (%) = 73 Index UV = 0.11 Viteza vântului = 4.46 Unghiul vântului = 285 Stare = nori 85-100%']
+Ghimbav: 35 \ vineri \ 03:9:2021 \ 19:06:10
+[' Răsarit = 06:41:45 Apus = 19:53:25 Min (°C) = 6.96 Max (°C) =19.07 Presiune = 1019 Umiditate (%) = 55 Index UV = 0.18 Viteza vântului = 1.88 Unghiul vântului = 318 Stare = nori 10-25%']
+Ghimbav: 35 \ sâmbătă \ 04:9:2021 \ 19:05:56
+[' Răsarit = 06:42:58 Apus = 19:51:31 Min (°C) = 7.97 Max (°C) =20.25 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.17 Viteza vântului = 1.2 Unghiul vântului = 2 Stare = nori 25-50%']
+Ghimbav: 35 \ duminică \ 05:9:2021 \ 19:06:32
+[' Răsarit = 06:44:11 Apus = 19:49:38 Min (°C) = 9.08 Max (°C) =20.8 Presiune = 1021 Umiditate (%) = 77 Index UV = 0.05 Viteza vântului = 2.32 Unghiul vântului = 91 Stare = nori 50-85%']
+Ghimbav: 36 \ luni \ 06:9:2021 \ 19:07:27
+[' Răsarit = 06:45:24 Apus = 19:47:44 Min (°C) = 8.62 Max (°C) =20.48 Presiune = 1023 Umiditate (%) = 56 Index UV = 0.15 Viteza vântului = 0.69 Unghiul vântului = 128 Stare = nori 25-50%']
+Ghimbav: 36 \ marți \ 07:9:2021 \ 19:06:46
+[' Răsarit = 06:46:38 Apus = 19:45:49 Min (°C) = 7.83 Max (°C) =22.43 Presiune = 1024 Umiditate (%) = 58 Index UV = 0.14 Viteza vântului = 0.56 Unghiul vântului = 96 Stare = nori 25-50%']
+Ghimbav: 36 \ miercuri \ 08:9:2021 \ 19:07:02
+[' Răsarit = 06:47:51 Apus = 19:43:54 Min (°C) = 7.97 Max (°C) =21.69 Presiune = 1023 Umiditate (%) = 51 Index UV = 0.13 Viteza vântului = 1.75 Unghiul vântului = 91 Stare = nori 10-25%']
+Ghimbav: 36 \ joi \ 09:9:2021 \ 19:06:59
+[' Răsarit = 06:49:04 Apus = 19:41:58 Min (°C) = 7.66 Max (°C) =22.27 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.12 Viteza vântului = 1.96 Unghiul vântului = 114 Stare = nori 10-25%']
+Ghimbav: 36 \ vineri \ 10:9:2021 \ 19:07:41
+[' Răsarit = 06:50:17 Apus = 19:40:02 Min (°C) = 7.48 Max (°C) =23.35 Presiune = 1018 Umiditate (%) = 32 Index UV = 0.11 Viteza vântului = 0.47 Unghiul vântului = 172 Stare = nori 50-85%']
+Ghimbav: 36 \ sâmbătă \ 11:9:2021 \ 19:06:32
+[' Răsarit = 06:51:30 Apus = 19:38:06 Min (°C) = 9.33 Max (°C) =23.69 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.1 Viteza vântului = 0.57 Unghiul vântului = 113 Stare = nori 85-100%']
+Ghimbav: 36 \ duminică \ 12:9:2021 \ 19:06:20
+[' Răsarit = 06:52:43 Apus = 19:36:10 Min (°C) = 9.64 Max (°C) =23.59 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.1 Viteza vântului = 0.46 Unghiul vântului = 197 Stare = cer senin']
+Ghimbav: 37 \ luni \ 13:9:2021 \ 19:06:28
+[' Răsarit = 06:53:56 Apus = 19:34:13 Min (°C) = 11.23 Max (°C) =22.45 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.1 Viteza vântului = 1 Unghiul vântului = 180 Stare = nori 85-100%']
+Ghimbav: 37 \ marți \ 14:9:2021 \ 19:07:46
+[' Răsarit = 06:55:09 Apus = 19:32:16 Min (°C) = 11.14 Max (°C) =24.66 Presiune = 1017 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 257 Stare = nori 25-50%']
+Ghimbav: 37 \ joi \ 16:9:2021 \ 19:06:26
+[' Răsarit = 06:57:35 Apus = 19:28:21 Min (°C) = 12.46 Max (°C) =25.71 Presiune = 1016 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 128 Stare = nori 50-85%']
+Ghimbav: 37 \ vineri \ 17:9:2021 \ 19:07:39
+[' Răsarit = 06:58:48 Apus = 19:26:24 Min (°C) = 15.04 Max (°C) =23.75 Presiune = 1009 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 290 Stare = ploaie ușoară']
+Ghimbav: 37 \ sâmbătă \ 18:9:2021 \ 19:08:17
+[' Răsarit = 07:00:01 Apus = 19:24:26 Min (°C) = 12.24 Max (°C) =17.43 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.98 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 37 \ duminică \ 19:9:2021 \ 19:06:48
+[' Răsarit = 07:01:14 Apus = 19:22:29 Min (°C) = 9.39 Max (°C) =19.51 Presiune = 1012 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 316 Stare = nori 50-85%']
+Ghimbav: 38 \ luni \ 20:9:2021 \ 19:06:46
+[' Răsarit = 07:02:28 Apus = 19:20:31 Min (°C) = 8.21 Max (°C) =17.68 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 288 Stare = nori 85-100%']
+Ghimbav: 38 \ marți \ 21:9:2021 \ 19:06:15
+[' Răsarit = 07:03:41 Apus = 19:18:33 Min (°C) = 6.17 Max (°C) =13.04 Presiune = 1023 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 325 Stare = nori 85-100%']
+Ghimbav: 38 \ miercuri \ 22:9:2021 \ 19:06:53
+[' Răsarit = 07:04:55 Apus = 19:16:36 Min (°C) = 3.86 Max (°C) =10.8 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 332 Stare = nori 85-100%']
+Ghimbav: 38 \ joi \ 23:9:2021 \ 19:06:05
+[' Răsarit = 07:06:08 Apus = 19:14:38 Min (°C) = 5.09 Max (°C) =8.69 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 277 Stare = nori 85-100%']
+Ghimbav: 39 \ luni \ 27:9:2021 \ 19:06:24
+[' Răsarit = 07:11:05 Apus = 19:06:49 Min (°C) = 9.8 Max (°C) =23.44 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 0 Stare = nori 50-85%']
+Ghimbav: 39 \ marți \ 28:9:2021 \ 19:07:19
+[' Răsarit = 07:12:20 Apus = 19:04:53 Min (°C) = 9.78 Max (°C) =14.45 Presiune = 1017 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 89 Stare = nori 85-100%']
+Ghimbav: 39 \ miercuri \ 29:9:2021 \ 19:07:41
+[' Răsarit = 07:13:34 Apus = 19:02:56 Min (°C) = 8.86 Max (°C) =11.01 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 133 Stare = nori 85-100%']
+Ghimbav: 39 \ joi \ 30:9:2021 \ 19:06:32
+[' Răsarit = 07:14:50 Apus = 19:01:00 Min (°C) = 5.18 Max (°C) =16.81 Presiune = 1021 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 95 Stare = nori 85-100%']
+Ghimbav: 39 \ vineri \ 01:10:2021 \ 19:07:12
+[' Răsarit = 07:16:05 Apus = 18:59:04 Min (°C) = 5.08 Max (°C) =16.18 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 84 Stare = nori 50-85%']
+Ghimbav: 39 \ sâmbătă \ 02:10:2021 \ 19:06:30
+[' Răsarit = 07:17:21 Apus = 18:57:09 Min (°C) = 3.33 Max (°C) =16.38 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 107 Stare = cer senin']
+Ghimbav: 39 \ duminică \ 03:10:2021 \ 19:06:08
+[' Răsarit = 07:18:36 Apus = 18:55:14 Min (°C) = 4.01 Max (°C) =18.07 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 129 Stare = cer senin']
+Ghimbav: 40 \ luni \ 04:10:2021 \ 19:09:59
+[' Răsarit = 07:19:53 Apus = 18:53:20 Min (°C) = 4.92 Max (°C) =19.06 Presiune = 1022 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 184 Stare = nori 85-100%']
+Ghimbav: 40 \ marți \ 05:10:2021 \ 19:07:55
+[' Răsarit = 07:21:09 Apus = 18:51:26 Min (°C) = 5.99 Max (°C) =18.11 Presiune = 1021 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = cer senin']
+Ghimbav: 40 \ miercuri \ 06:10:2021 \ 19:06:29
+[' Răsarit = 07:22:26 Apus = 18:49:32 Min (°C) = 3.53 Max (°C) =14.88 Presiune = 1020 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 67 Stare = nori 50-85%']
+Ghimbav: 40 \ joi \ 07:10:2021 \ 19:07:51
+[' Răsarit = 07:23:43 Apus = 18:47:39 Min (°C) = 3.96 Max (°C) =12.57 Presiune = 1022 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 67 Stare = nori 85-100%']
+Ghimbav: 40 \ vineri \ 08:10:2021 \ 19:07:14
+[' Răsarit = 07:25:00 Apus = 18:45:47 Min (°C) = 4.07 Max (°C) =10.57 Presiune = 1023 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 40 \ sâmbătă \ 09:10:2021 \ 19:06:02
+[' Răsarit = 07:26:18 Apus = 18:43:55 Min (°C) = 3.15 Max (°C) =9.75 Presiune = 1024 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 40 \ duminică \ 10:10:2021 \ 19:07:12
+[' Răsarit = 07:27:36 Apus = 18:42:04 Min (°C) = 1.36 Max (°C) =14.86 Presiune = 1020 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 45 Stare = nori 50-85%']
+Ghimbav: 41 \ luni \ 11:10:2021 \ 19:06:38
+[' Răsarit = 07:28:55 Apus = 18:40:14 Min (°C) = 3.46 Max (°C) =15.83 Presiune = 1012 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 67 Stare = ploaie ușoară']
+Ghimbav: 41 \ marți \ 12:10:2021 \ 19:06:41
+[' Răsarit = 07:30:13 Apus = 18:38:24 Min (°C) = 6.86 Max (°C) =8.72 Presiune = 1007 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 41 \ miercuri \ 13:10:2021 \ 19:06:40
+[' Răsarit = 07:31:33 Apus = 18:36:35 Min (°C) = 4.9 Max (°C) =8.5 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.25 Unghiul vântului = 18 Stare = nori 85-100%']
+Ghimbav: 41 \ joi \ 14:10:2021 \ 19:06:20
+[' Răsarit = 07:32:52 Apus = 18:34:47 Min (°C) = 4.94 Max (°C) =7 Presiune = 1018 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 78 Stare = ploaie ușoară']
+Ghimbav: 41 \ vineri \ 15:10:2021 \ 19:06:25
+[' Răsarit = 07:34:12 Apus = 18:33:00 Min (°C) = 4.61 Max (°C) =8.31 Presiune = 1014 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 114 Stare = nori 85-100%']
+Ghimbav: 41 \ sâmbătă \ 16:10:2021 \ 19:06:34
+[' Răsarit = 07:35:32 Apus = 18:31:14 Min (°C) = 6.54 Max (°C) =7.52 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 56 Stare = nori 85-100%']
+Ghimbav: 41 \ duminică \ 17:10:2021 \ 19:05:48
+[' Răsarit = 07:36:53 Apus = 18:29:28 Min (°C) = 6.53 Max (°C) =10.13 Presiune = 1017 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.14 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 42 \ luni \ 18:10:2021 \ 19:05:51
+[' Răsarit = 07:38:14 Apus = 18:27:44 Min (°C) = 6.35 Max (°C) =12.25 Presiune = 1019 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 323 Stare = nori 50-85%']
+Ghimbav: 42 \ marți \ 19:10:2021 \ 19:07:16
+[' Răsarit = 07:39:35 Apus = 18:26:00 Min (°C) = 4.87 Max (°C) =12.07 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 323 Stare = nori 50-85%']
+Ghimbav: 42 \ miercuri \ 20:10:2021 \ 19:05:38
+[' Răsarit = 07:40:57 Apus = 18:24:18 Min (°C) = 4.38 Max (°C) =16.04 Presiune = 1019 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 201 Stare = nori 50-85%']
+Ghimbav: 42 \ joi \ 21:10:2021 \ 19:06:30
+[' Răsarit = 07:42:19 Apus = 18:22:36 Min (°C) = 6.6 Max (°C) =19.03 Presiune = 1009 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 235 Stare = nori 25-50%']
+Ghimbav: 42 \ vineri \ 22:10:2021 \ 19:05:21
+[' Răsarit = 07:43:41 Apus = 18:20:56 Min (°C) = 8.61 Max (°C) =16.87 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 42 \ sâmbătă \ 23:10:2021 \ 19:06:32
+[' Răsarit = 07:45:04 Apus = 18:19:17 Min (°C) = 7.22 Max (°C) =12.56 Presiune = 1018 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 42 \ duminică \ 24:10:2021 \ 19:06:14
+[' Răsarit = 07:46:27 Apus = 18:17:38 Min (°C) = 2.77 Max (°C) =9.3 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = cer senin']
+Ghimbav: 43 \ luni \ 25:10:2021 \ 19:05:53
+[' Răsarit = 07:47:51 Apus = 18:16:02 Min (°C) = 0.23 Max (°C) =11.21 Presiune = 1024 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 154 Stare = cer senin']
+Ghimbav: 43 \ marți \ 26:10:2021 \ 19:05:27
+[' Răsarit = 07:49:14 Apus = 18:14:26 Min (°C) = 0.84 Max (°C) =13.39 Presiune = 1025 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 162 Stare = cer senin']
+Ghimbav: 43 \ miercuri \ 27:10:2021 \ 19:06:37
+[' Răsarit = 07:50:38 Apus = 18:12:52 Min (°C) = 1.61 Max (°C) =12.03 Presiune = 1022 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 247 Stare = nori 10-25%']
+Ghimbav: 43 \ joi \ 28:10:2021 \ 19:05:35
+[' Răsarit = 07:52:03 Apus = 18:11:19 Min (°C) = 2 Max (°C) =12.97 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 202 Stare = nori 25-50%']
+Ghimbav: 43 \ vineri \ 29:10:2021 \ 19:06:01
+[' Răsarit = 07:53:27 Apus = 18:09:47 Min (°C) = 4.82 Max (°C) =16.47 Presiune = 1019 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = cer senin']
+Ghimbav: 43 \ sâmbătă \ 30:10:2021 \ 19:05:51
+[' Răsarit = 07:54:52 Apus = 18:08:17 Min (°C) = 4.1 Max (°C) =16.34 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 148 Stare = cer senin']
+Ghimbav: 43 \ duminică \ 31:10:2021 \ 19:05:37
+[' Răsarit = 06:56:17 Apus = 17:06:48 Min (°C) = 2.39 Max (°C) =14.67 Presiune = 1014 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 22 Stare = cer senin']
+Ghimbav: 44 \ luni \ 01:11:2021 \ 19:05:49
+[' Răsarit = 06:57:42 Apus = 17:05:20 Min (°C) = 2.35 Max (°C) =12.15 Presiune = 1007 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 164 Stare = nori 10-25%']
+Ghimbav: 44 \ marți \ 02:11:2021 \ 19:06:06
+[' Răsarit = 06:59:07 Apus = 17:03:54 Min (°C) = 2.08 Max (°C) =14.04 Presiune = 1001 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 44 \ miercuri \ 03:11:2021 \ 19:06:02
+[' Răsarit = 07:00:33 Apus = 17:02:30 Min (°C) = 5.56 Max (°C) =13.59 Presiune = 1011 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 67 Stare = nori 50-85%']
+Ghimbav: 44 \ joi \ 04:11:2021 \ 19:05:08
+[' Răsarit = 07:01:58 Apus = 17:01:07 Min (°C) = 8.21 Max (°C) =21.57 Presiune = 1016 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.67 Unghiul vântului = 184 Stare = nori 10-25%']
+Ghimbav: 44 \ vineri \ 05:11:2021 \ 19:07:13
+[' Răsarit = 07:03:24 Apus = 16:59:46 Min (°C) = 12.33 Max (°C) =24.55 Presiune = 1014 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 44 \ sâmbătă \ 06:11:2021 \ 19:06:41
+[' Răsarit = 07:04:49 Apus = 16:58:26 Min (°C) = 10.37 Max (°C) =12.58 Presiune = 1023 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 294 Stare = nori 85-100%']
+Ghimbav: 44 \ duminică \ 07:11:2021 \ 19:06:25
+[' Răsarit = 07:06:15 Apus = 16:57:08 Min (°C) = 8.31 Max (°C) =17.5 Presiune = 1013 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 238 Stare = nori 85-100%']
+Ghimbav: 45 \ luni \ 08:11:2021 \ 19:06:13
+[' Răsarit = 07:07:40 Apus = 16:55:52 Min (°C) = 8.31 Max (°C) =13.72 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 67 Stare = nori 85-100%']
+Ghimbav: 45 \ marți \ 09:11:2021 \ 19:04:45
+[' Răsarit = 07:09:06 Apus = 16:54:38 Min (°C) = 3.39 Max (°C) =8.3 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 301 Stare = nori 85-100%']
+Ghimbav: 45 \ miercuri \ 10:11:2021 \ 19:06:08
+[' Răsarit = 07:10:31 Apus = 16:53:25 Min (°C) = 1.62 Max (°C) =10.2 Presiune = 1028 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 157 Stare = cer senin']
+Ghimbav: 45 \ joi \ 11:11:2021 \ 19:06:44
+[' Răsarit = 07:11:57 Apus = 16:52:15 Min (°C) = 2.41 Max (°C) =12.56 Presiune = 1020 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 183 Stare = nori 85-100%']
+Ghimbav: 45 \ vineri \ 12:11:2021 \ 19:06:07
+[' Răsarit = 07:13:22 Apus = 16:51:06 Min (°C) = 4.55 Max (°C) =14.27 Presiune = 1017 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 165 Stare = nori 25-50%']
+Ghimbav: 45 \ sâmbătă \ 13:11:2021 \ 19:06:06
+[' Răsarit = 07:14:46 Apus = 16:49:59 Min (°C) = 5.27 Max (°C) =14.38 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 158 Stare = nori 85-100%']
+Ghimbav: 45 \ duminică \ 14:11:2021 \ 19:07:23
+[' Răsarit = 07:16:11 Apus = 16:48:54 Min (°C) = 3.63 Max (°C) =12.22 Presiune = 1017 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 160 Stare = nori 50-85%']
+Ghimbav: 46 \ luni \ 15:11:2021 \ 19:06:48
+[' Răsarit = 07:17:35 Apus = 16:47:51 Min (°C) = 2.4 Max (°C) =11.48 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 22 Stare = cer senin']
+Ghimbav: 46 \ marți \ 16:11:2021 \ 19:06:37
+[' Răsarit = 07:18:59 Apus = 16:46:50 Min (°C) = 1.48 Max (°C) =10.13 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 45 Stare = nori 10-25%']
+Ghimbav: 46 \ miercuri \ 17:11:2021 \ 19:06:41
+[' Răsarit = 07:20:22 Apus = 16:45:51 Min (°C) = 0.32 Max (°C) =8.94 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 46 \ joi \ 18:11:2021 \ 19:05:36
+[' Răsarit = 07:21:44 Apus = 16:44:54 Min (°C) = 0.83 Max (°C) =6.97 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 305 Stare = nori 50-85%']
+Ghimbav: 46 \ vineri \ 19:11:2021 \ 19:05:30
+[' Răsarit = 07:23:07 Apus = 16:44:00 Min (°C) = 2.73 Max (°C) =6.1 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 46 \ sâmbătă \ 20:11:2021 \ 19:05:25
+[' Răsarit = 07:24:28 Apus = 16:43:07 Min (°C) = 3.34 Max (°C) =6.09 Presiune = 1016 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 46 \ duminică \ 21:11:2021 \ 19:05:19
+[' Răsarit = 07:25:49 Apus = 16:42:17 Min (°C) = 3.14 Max (°C) =11.3 Presiune = 1013 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 216 Stare = cer senin']
+Ghimbav: 47 \ luni \ 22:11:2021 \ 19:05:32
+[' Răsarit = 07:27:09 Apus = 16:41:29 Min (°C) = 2.51 Max (°C) =10.78 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 181 Stare = nori 85-100%']
+Ghimbav: 47 \ marți \ 23:11:2021 \ 19:05:26
+[' Răsarit = 07:28:28 Apus = 16:40:43 Min (°C) = 2.81 Max (°C) =5.29 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 291 Stare = nori 85-100%']
+Ghimbav: 47 \ miercuri \ 24:11:2021 \ 19:07:51
+[' Răsarit = 07:29:47 Apus = 16:40:00 Min (°C) = -0.81 Max (°C) =5.84 Presiune = 1020 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 182 Stare = cer senin']
+Ghimbav: 47 \ joi \ 25:11:2021 \ 19:05:14
+[' Răsarit = 07:31:04 Apus = 16:39:19 Min (°C) = -1.19 Max (°C) =7.06 Presiune = 1011 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 174 Stare = cer senin']
+Ghimbav: 47 \ vineri \ 26:11:2021 \ 19:05:20
+[' Răsarit = 07:32:21 Apus = 16:38:40 Min (°C) = 0.38 Max (°C) =10.39 Presiune = 1001 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 158 Stare = nori 85-100%']
+Ghimbav: 47 \ sâmbătă \ 27:11:2021 \ 19:05:12
+[' Răsarit = 07:33:36 Apus = 16:38:04 Min (°C) = 3.34 Max (°C) =10.51 Presiune = 1005 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 188 Stare = nori 10-25%']
+Ghimbav: 47 \ duminică \ 28:11:2021 \ 19:05:43
+[' Răsarit = 07:34:51 Apus = 16:37:30 Min (°C) = 4.62 Max (°C) =12.52 Presiune = 1000 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 173 Stare = nori 50-85%']
+Ghimbav: 48 \ luni \ 29:11:2021 \ 19:06:13
+[' Răsarit = 07:36:04 Apus = 16:36:58 Min (°C) = 0.55 Max (°C) =7.65 Presiune = 1000 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 293 Stare = nori 85-100%']
+Ghimbav: 48 \ marți \ 30:11:2021 \ 19:05:37
+[' Răsarit = 07:37:15 Apus = 16:36:29 Min (°C) = -1.98 Max (°C) =0.59 Presiune = 1010 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 4.37 Unghiul vântului = 285 Stare = nori 85-100%']
+Ghimbav: 48 \ miercuri \ 01:12:2021 \ 19:05:41
+[' Răsarit = 07:38:26 Apus = 16:36:03 Min (°C) = -1.39 Max (°C) =3.87 Presiune = 1005 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 48 \ joi \ 02:12:2021 \ 19:05:21
+[' Răsarit = 07:39:35 Apus = 16:35:39 Min (°C) = 1.14 Max (°C) =8.76 Presiune = 1001 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 67 Stare = nori 50-85%']
+Ghimbav: 48 \ vineri \ 03:12:2021 \ 19:05:29
+[' Răsarit = 07:40:43 Apus = 16:35:18 Min (°C) = 1.4 Max (°C) =11.49 Presiune = 1005 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 48 \ sâmbătă \ 04:12:2021 \ 19:05:56
+[' Răsarit = 07:41:49 Apus = 16:34:59 Min (°C) = -0.73 Max (°C) =4.02 Presiune = 1005 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 45 Stare = nori 50-85%']
+Ghimbav: 48 \ duminică \ 05:12:2021 \ 19:05:33
+[' Răsarit = 07:42:53 Apus = 16:34:43 Min (°C) = -0.81 Max (°C) =6.76 Presiune = 1003 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 50-85%']
+Ghimbav: 49 \ luni \ 06:12:2021 \ 19:05:22
+[' Răsarit = 07:43:56 Apus = 16:34:30 Min (°C) = 1.85 Max (°C) =9.42 Presiune = 1001 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 239 Stare = nori 85-100%']
+Ghimbav: 49 \ marți \ 07:12:2021 \ 19:05:25
+[' Răsarit = 07:44:58 Apus = 16:34:19 Min (°C) = 1.04 Max (°C) =4.23 Presiune = 1000 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 321 Stare = ploaie ușoară']
+Ghimbav: 49 \ miercuri \ 08:12:2021 \ 19:05:23
+[' Răsarit = 07:45:57 Apus = 16:34:11 Min (°C) = 0.65 Max (°C) =1.42 Presiune = 1005 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 295 Stare = ploaie ușoară']
+Ghimbav: 49 \ joi \ 09:12:2021 \ 19:05:29
+[' Răsarit = 07:46:55 Apus = 16:34:05 Min (°C) = -0.88 Max (°C) =7.68 Presiune = 1005 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 141 Stare = nori 85-100%']
+Ghimbav: 49 \ vineri \ 10:12:2021 \ 19:06:38
+[' Răsarit = 07:47:50 Apus = 16:34:02 Min (°C) = 1.41 Max (°C) =6.54 Presiune = 1001 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 211 Stare = nori 85-100%']
+Ghimbav: 49 \ sâmbătă \ 11:12:2021 \ 19:06:05
+[' Răsarit = 07:48:44 Apus = 16:34:02 Min (°C) = 1.45 Max (°C) =6.75 Presiune = 1005 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 107 Stare = nori 85-100%']
+Ghimbav: 49 \ duminică \ 12:12:2021 \ 19:06:07
+[' Răsarit = 07:49:36 Apus = 16:34:05 Min (°C) = 5.01 Max (°C) =9.89 Presiune = 1007 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 145 Stare = nori 25-50%']
+Ghimbav: 50 \ luni \ 13:12:2021 \ 19:06:11
+[' Răsarit = 07:50:25 Apus = 16:34:10 Min (°C) = 2.68 Max (°C) =4.86 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 298 Stare = nori 85-100%']
+Ghimbav: 50 \ marți \ 14:12:2021 \ 19:07:41
+[' Răsarit = 07:51:13 Apus = 16:34:18 Min (°C) = 1.06 Max (°C) =2.8 Presiune = 1019 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 50 \ miercuri \ 15:12:2021 \ 19:06:25
+[' Răsarit = 07:51:58 Apus = 16:34:28 Min (°C) = -0.66 Max (°C) =1.3 Presiune = 1022 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 50 \ joi \ 16:12:2021 \ 19:06:00
+[' Răsarit = 07:52:41 Apus = 16:34:41 Min (°C) = -2.24 Max (°C) =1.47 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 299 Stare = nori 50-85%']
+Ghimbav: 50 \ vineri \ 17:12:2021 \ 19:07:16
+[' Răsarit = 07:53:22 Apus = 16:34:57 Min (°C) = -1.14 Max (°C) =1 Presiune = 1015 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 310 Stare = zăpadă slabă']
+Ghimbav: 50 \ sâmbătă \ 18:12:2021 \ 19:05:51
+[' Răsarit = 07:54:01 Apus = 16:35:16 Min (°C) = -1.57 Max (°C) =0.19 Presiune = 1019 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 50 \ duminică \ 19:12:2021 \ 19:06:00
+[' Răsarit = 07:54:37 Apus = 16:35:37 Min (°C) = -3.36 Max (°C) =1.68 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 306 Stare = zăpadă slabă']
+Ghimbav: 51 \ luni \ 20:12:2021 \ 19:06:20
+[' Răsarit = 07:55:11 Apus = 16:36:00 Min (°C) = -2.94 Max (°C) =0.04 Presiune = 1008 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 225 Stare = zăpadă slabă']
+Ghimbav: 51 \ marți \ 21:12:2021 \ 19:07:42
+[' Răsarit = 07:55:42 Apus = 16:36:27 Min (°C) = -6.26 Max (°C) =-2.54 Presiune = 1019 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 292 Stare = nori 50-85%']
+Ghimbav: 51 \ miercuri \ 22:12:2021 \ 19:06:10
+[' Răsarit = 07:56:11 Apus = 16:36:55 Min (°C) = -9.67 Max (°C) =-4.14 Presiune = 1023 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 51 \ joi \ 23:12:2021 \ 19:06:42
+[' Răsarit = 07:56:38 Apus = 16:37:27 Min (°C) = -11.14 Max (°C) =-4.55 Presiune = 1017 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 150 Stare = nori 50-85%']
+Ghimbav: 51 \ vineri \ 24:12:2021 \ 19:06:11
+[' Răsarit = 07:57:02 Apus = 16:38:01 Min (°C) = -7.79 Max (°C) =5.47 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 51 \ sâmbătă \ 25:12:2021 \ 19:06:30
+[' Răsarit = 07:57:23 Apus = 16:38:37 Min (°C) = 3.05 Max (°C) =7.34 Presiune = 1005 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 175 Stare = nori 85-100%']
+Ghimbav: 51 \ duminică \ 26:12:2021 \ 19:06:18
+[' Răsarit = 07:57:42 Apus = 16:39:16 Min (°C) = -0.49 Max (°C) =5.31 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 52 \ luni \ 27:12:2021 \ 19:06:16
+[' Răsarit = 07:57:58 Apus = 16:39:57 Min (°C) = 1.2 Max (°C) =2.76 Presiune = 1005 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 114 Stare = nori 85-100%']
+Ghimbav: 52 \ marți \ 28:12:2021 \ 19:06:35
+[' Răsarit = 07:58:12 Apus = 16:40:40 Min (°C) = -0.06 Max (°C) =1.88 Presiune = 1005 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 149 Stare = nori 85-100%']
+Ghimbav: 52 \ miercuri \ 29:12:2021 \ 19:06:14
+[' Răsarit = 07:58:23 Apus = 16:41:26 Min (°C) = -1.05 Max (°C) =6.52 Presiune = 1005 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 52 \ joi \ 30:12:2021 \ 19:06:31
+[' Răsarit = 07:58:31 Apus = 16:42:14 Min (°C) = 1.33 Max (°C) =3.97 Presiune = 1018 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 52 \ vineri \ 31:12:2021 \ 19:05:43
+[' Răsarit = 07:58:37 Apus = 16:43:04 Min (°C) = 0.93 Max (°C) =4.64 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 275 Stare = nori 85-100%']
+Ghimbav: 00 \ sâmbătă \ 01:1:2022 \ 19:06:24
+[' Răsarit = 07:58:40 Apus = 16:43:56 Min (°C) = 4.75 Max (°C) =7.33 Presiune = 1016 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.38 Unghiul vântului = 303 Stare = ploaie ușoară']
+Ghimbav: 00 \ duminică \ 02:1:2022 \ 19:05:19
+[' Răsarit = 07:58:41 Apus = 16:44:51 Min (°C) = 4.05 Max (°C) =8.47 Presiune = 1016 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 225 Stare = nori 50-85%']
+Ghimbav: 01 \ luni \ 03:1:2022 \ 19:05:07
+[' Răsarit = 07:58:39 Apus = 16:45:47 Min (°C) = 3.37 Max (°C) =10.81 Presiune = 1009 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 01 \ marți \ 04:1:2022 \ 19:05:07
+[' Răsarit = 07:58:34 Apus = 16:46:45 Min (°C) = 3.36 Max (°C) =9.54 Presiune = 1006 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 01 \ miercuri \ 05:1:2022 \ 19:05:42
+[' Răsarit = 07:58:27 Apus = 16:47:46 Min (°C) = 3.97 Max (°C) =12.28 Presiune = 1001 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 179 Stare = nori 10-25%']
+Ghimbav: 01 \ joi \ 06:1:2022 \ 19:05:16
+[' Răsarit = 07:58:17 Apus = 16:48:48 Min (°C) = 1.21 Max (°C) =10.26 Presiune = 1009 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 01 \ vineri \ 07:1:2022 \ 19:06:16
+[' Răsarit = 07:58:05 Apus = 16:49:52 Min (°C) = -0.66 Max (°C) =3.09 Presiune = 1022 Umiditate (%) = 12 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 129 Stare = nori 50-85%']
+Ghimbav: 01 \ sâmbătă \ 08:1:2022 \ 19:05:53
+[' Răsarit = 07:57:49 Apus = 16:50:58 Min (°C) = -1.03 Max (°C) =5.32 Presiune = 1008 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 01 \ duminică \ 09:1:2022 \ 19:05:25
+[' Răsarit = 07:57:32 Apus = 16:52:05 Min (°C) = 1.26 Max (°C) =3.48 Presiune = 1002 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 301 Stare = nori 85-100%']
+Ghimbav: 02 \ luni \ 10:1:2022 \ 19:05:40
+[' Răsarit = 07:57:11 Apus = 16:53:14 Min (°C) = -0.47 Max (°C) =4.55 Presiune = 1010 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 02 \ marți \ 11:1:2022 \ 19:06:42
+[' Răsarit = 07:56:49 Apus = 16:54:25 Min (°C) = -3.98 Max (°C) =0.72 Presiune = 1021 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 45 Stare = nori 10-25%']
+Ghimbav: 02 \ miercuri \ 12:1:2022 \ 19:05:26
+[' Răsarit = 07:56:23 Apus = 16:55:37 Min (°C) = -6.92 Max (°C) =-2.53 Presiune = 1026 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 315 Stare = cer senin']
+Ghimbav: 02 \ joi \ 13:1:2022 \ 19:06:14
+[' Răsarit = 07:55:55 Apus = 16:56:50 Min (°C) = -8.45 Max (°C) =-2.92 Presiune = 1029 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 247 Stare = nori 25-50%']
+Ghimbav: 02 \ vineri \ 14:1:2022 \ 19:05:41
+[' Răsarit = 07:55:25 Apus = 16:58:05 Min (°C) = -4.68 Max (°C) =0.4 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 02 \ sâmbătă \ 15:1:2022 \ 19:05:26
+[' Răsarit = 07:54:52 Apus = 16:59:21 Min (°C) = -2.79 Max (°C) =0.54 Presiune = 1021 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 270 Stare = nori 25-50%']
+Ghimbav: 02 \ duminică \ 16:1:2022 \ 19:05:10
+[' Răsarit = 07:54:17 Apus = 17:00:39 Min (°C) = -5.38 Max (°C) =0.69 Presiune = 1020 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 211 Stare = nori 25-50%']
+Ghimbav: 03 \ luni \ 17:1:2022 \ 19:05:16
+[' Răsarit = 07:53:40 Apus = 17:01:57 Min (°C) = -3.07 Max (°C) =1.88 Presiune = 1006 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 315 Stare = zăpadă slabă']
+Ghimbav: 03 \ marți \ 18:1:2022 \ 19:05:14
+[' Răsarit = 07:53:00 Apus = 17:03:17 Min (°C) = -4.68 Max (°C) =-2.51 Presiune = 1023 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 7.15 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 03 \ miercuri \ 19:1:2022 \ 19:05:26
+[' Răsarit = 07:52:18 Apus = 17:04:37 Min (°C) = -8.45 Max (°C) =-1.88 Presiune = 1031 Umiditate (%) = 18 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 229 Stare = nori 25-50%']
+Ghimbav: 03 \ joi \ 20:1:2022 \ 19:05:26
+[' Răsarit = 07:51:33 Apus = 17:05:59 Min (°C) = -9.62 Max (°C) =1.02 Presiune = 1017 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 245 Stare = nori 25-50%']
+Ghimbav: 03 \ vineri \ 21:1:2022 \ 19:05:20
+[' Răsarit = 07:50:46 Apus = 17:07:21 Min (°C) = -8.23 Max (°C) =-1.33 Presiune = 1021 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 293 Stare = zăpadă slabă']
+Ghimbav: 03 \ sâmbătă \ 22:1:2022 \ 19:06:03
+[' Răsarit = 07:49:57 Apus = 17:08:44 Min (°C) = -9.56 Max (°C) =-4.53 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 03 \ duminică \ 23:1:2022 \ 19:06:11
+[' Răsarit = 07:49:06 Apus = 17:10:08 Min (°C) = -11.26 Max (°C) =-5.42 Presiune = 1018 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 324 Stare = nori 85-100%']
+Ghimbav: 04 \ luni \ 24:1:2022 \ 19:06:50
+[' Răsarit = 07:48:12 Apus = 17:11:33 Min (°C) = -14.34 Max (°C) =-6.24 Presiune = 1028 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 04 \ marți \ 25:1:2022 \ 19:06:24
+[' Răsarit = 07:47:17 Apus = 17:12:58 Min (°C) = -16 Max (°C) =-6.31 Presiune = 1033 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 274 Stare = nori 85-100%']
+Ghimbav: 04 \ miercuri \ 26:1:2022 \ 19:06:37
+[' Răsarit = 07:46:19 Apus = 17:14:24 Min (°C) = -9.15 Max (°C) =-3.58 Presiune = 1029 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 326 Stare = nori 85-100%']
+Ghimbav: 04 \ joi \ 27:1:2022 \ 19:06:33
+[' Răsarit = 07:45:19 Apus = 17:15:51 Min (°C) = -6.92 Max (°C) =-0.33 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 233 Stare = nori 85-100%']
+Ghimbav: 04 \ vineri \ 28:1:2022 \ 19:06:19
+[' Răsarit = 07:44:17 Apus = 17:17:18 Min (°C) = -7.29 Max (°C) =1.09 Presiune = 1012 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 04 \ sâmbătă \ 29:1:2022 \ 19:06:30
+[' Răsarit = 07:43:14 Apus = 17:18:45 Min (°C) = -7.32 Max (°C) =-1.01 Presiune = 1027 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 295 Stare = nori 50-85%']
+Ghimbav: 04 \ duminică \ 30:1:2022 \ 19:05:25
+[' Răsarit = 07:42:08 Apus = 17:20:13 Min (°C) = -9.91 Max (°C) =2.42 Presiune = 1004 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 282 Stare = nori 85-100%']
+Ghimbav: 05 \ luni \ 31:1:2022 \ 19:05:25
+[' Răsarit = 07:41:00 Apus = 17:21:41 Min (°C) = -3.54 Max (°C) =0.81 Presiune = 1011 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 249 Stare = nori 50-85%']
+Ghimbav: 05 \ marți \ 01:2:2022 \ 19:05:20
+[' Răsarit = 07:39:51 Apus = 17:23:09 Min (°C) = -7.57 Max (°C) =-0.05 Presiune = 1011 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 266 Stare = nori 85-100%']
+Ghimbav: 05 \ miercuri \ 02:2:2022 \ 19:05:32
+[' Răsarit = 07:38:39 Apus = 17:24:38 Min (°C) = -6.24 Max (°C) =0.56 Presiune = 1010 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 229 Stare = nori 85-100%']
+Ghimbav: 05 \ joi \ 03:2:2022 \ 19:05:16
+[' Răsarit = 07:37:26 Apus = 17:26:06 Min (°C) = -5.72 Max (°C) =0.59 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.57 Unghiul vântului = 290 Stare = nori 50-85%']
+Ghimbav: 05 \ vineri \ 04:2:2022 \ 19:05:28
+[' Răsarit = 07:36:11 Apus = 17:27:35 Min (°C) = -9.27 Max (°C) =2.86 Presiune = 1014 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 206 Stare = nori 85-100%']
+Ghimbav: 05 \ sâmbătă \ 05:2:2022 \ 19:05:16
+[' Răsarit = 07:34:55 Apus = 17:29:04 Min (°C) = -4.2 Max (°C) =3.18 Presiune = 1014 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 05 \ duminică \ 06:2:2022 \ 19:05:26
+[' Răsarit = 07:33:36 Apus = 17:30:33 Min (°C) = -4.26 Max (°C) =3.15 Presiune = 1013 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 178 Stare = nori 85-100%']
+Ghimbav: 06 \ luni \ 07:2:2022 \ 19:05:22
+[' Răsarit = 07:32:16 Apus = 17:32:02 Min (°C) = -2.94 Max (°C) =5.9 Presiune = 1005 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.18 Unghiul vântului = 294 Stare = nori 85-100%']
+Ghimbav: 06 \ marți \ 08:2:2022 \ 19:05:16
+[' Răsarit = 07:30:55 Apus = 17:33:31 Min (°C) = -2.33 Max (°C) =-0.15 Presiune = 1019 Umiditate (%) = 29 Index UV = 0 Viteza vântului = 4.39 Unghiul vântului = 309 Stare = nori 50-85%']
+Ghimbav: 06 \ miercuri \ 09:2:2022 \ 19:06:01
+[' Răsarit = 07:29:32 Apus = 17:35:00 Min (°C) = -2.41 Max (°C) =2.17 Presiune = 1025 Umiditate (%) = 18 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 319 Stare = nori 85-100%']
+Ghimbav: 06 \ joi \ 10:2:2022 \ 19:06:48
+[' Răsarit = 07:28:07 Apus = 17:36:29 Min (°C) = -0.84 Max (°C) =7.57 Presiune = 1021 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 203 Stare = cer senin']
+Ghimbav: 06 \ vineri \ 11:2:2022 \ 19:06:14
+[' Răsarit = 07:26:41 Apus = 17:37:57 Min (°C) = -1.25 Max (°C) =7.69 Presiune = 1024 Umiditate (%) = 22 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 229 Stare = cer senin']
+Ghimbav: 06 \ sâmbătă \ 12:2:2022 \ 19:06:14
+[' Răsarit = 07:25:13 Apus = 17:39:26 Min (°C) = -2.49 Max (°C) =2.94 Presiune = 1036 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 121 Stare = nori 25-50%']
+Ghimbav: 06 \ duminică \ 13:2:2022 \ 19:06:27
+[' Răsarit = 07:23:44 Apus = 17:40:54 Min (°C) = -3.38 Max (°C) =3.02 Presiune = 1024 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 145 Stare = nori 85-100%']
+Ghimbav: 07 \ luni \ 14:2:2022 \ 19:06:16
+[' Răsarit = 07:22:13 Apus = 17:42:22 Min (°C) = -2.68 Max (°C) =4.16 Presiune = 1015 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 175 Stare = nori 85-100%']
+Ghimbav: 07 \ marți \ 15:2:2022 \ 19:06:11
+[' Răsarit = 07:20:42 Apus = 17:43:50 Min (°C) = -2.72 Max (°C) =7.88 Presiune = 1015 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 169 Stare = nori 25-50%']
+Ghimbav: 07 \ miercuri \ 16:2:2022 \ 19:06:19
+[' Răsarit = 07:19:09 Apus = 17:45:18 Min (°C) = 0.05 Max (°C) =8.49 Presiune = 1016 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 226 Stare = nori 50-85%']
+Ghimbav: 07 \ joi \ 17:2:2022 \ 19:06:58
+[' Răsarit = 07:17:34 Apus = 17:46:46 Min (°C) = 0.31 Max (°C) =8.89 Presiune = 1005 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 222 Stare = nori 85-100%']
+Ghimbav: 07 \ vineri \ 18:2:2022 \ 19:06:03
+[' Răsarit = 07:15:58 Apus = 17:48:13 Min (°C) = -0.19 Max (°C) =5.55 Presiune = 1011 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 07 \ sâmbătă \ 19:2:2022 \ 19:06:17
+[' Răsarit = 07:14:22 Apus = 17:49:40 Min (°C) = -0.89 Max (°C) =10.8 Presiune = 1012 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 07 \ duminică \ 20:2:2022 \ 19:07:13
+[' Răsarit = 07:12:44 Apus = 17:51:07 Min (°C) = 1.46 Max (°C) =4.71 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 08 \ luni \ 21:2:2022 \ 19:06:14
+[' Răsarit = 07:11:05 Apus = 17:52:33 Min (°C) = -0.9 Max (°C) =9.46 Presiune = 1007 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 08 \ marți \ 22:2:2022 \ 19:06:40
+[' Răsarit = 07:09:24 Apus = 17:53:59 Min (°C) = 1.6 Max (°C) =3.9 Presiune = 1010 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 08 \ miercuri \ 23:2:2022 \ 19:06:20
+[' Răsarit = 07:07:43 Apus = 17:55:25 Min (°C) = -0.34 Max (°C) =5.56 Presiune = 1017 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 315 Stare = nori 85-100%']
+Ghimbav: 08 \ joi \ 24:2:2022 \ 19:06:19
+[' Răsarit = 07:06:01 Apus = 17:56:50 Min (°C) = -2.67 Max (°C) =1.79 Presiune = 1026 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 202 Stare = nori 50-85%']
+Ghimbav: 08 \ vineri \ 25:2:2022 \ 19:06:19
+[' Răsarit = 07:04:18 Apus = 17:58:15 Min (°C) = -3.42 Max (°C) =6.54 Presiune = 1014 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 268 Stare = nori 25-50%']
+Ghimbav: 08 \ sâmbătă \ 26:2:2022 \ 19:06:38
+[' Răsarit = 07:02:33 Apus = 17:59:40 Min (°C) = -0.82 Max (°C) =5.59 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 08 \ duminică \ 27:2:2022 \ 19:06:04
+[' Răsarit = 07:00:48 Apus = 18:01:04 Min (°C) = -2.36 Max (°C) =4.35 Presiune = 1023 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 09 \ luni \ 28:2:2022 \ 19:06:22
+[' Răsarit = 06:59:02 Apus = 18:02:28 Min (°C) = -2 Max (°C) =0.87 Presiune = 1023 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 09 \ marți \ 01:3:2022 \ 19:06:26
+[' Răsarit = 06:57:16 Apus = 18:03:52 Min (°C) = -3.67 Max (°C) =0.85 Presiune = 1018 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 45 Stare = zăpadă slabă']
+Ghimbav: 09 \ miercuri \ 02:3:2022 \ 19:06:08
+[' Răsarit = 06:55:28 Apus = 18:05:15 Min (°C) = -3.05 Max (°C) =0.67 Presiune = 1010 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 290 Stare = nori 85-100%']
+Ghimbav: 09 \ joi \ 03:3:2022 \ 19:06:07
+[' Răsarit = 06:53:40 Apus = 18:06:39 Min (°C) = -2.62 Max (°C) =1.64 Presiune = 1008 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 250 Stare = nori 85-100%']
+Ghimbav: 09 \ vineri \ 04:3:2022 \ 19:06:06
+[' Răsarit = 06:51:51 Apus = 18:08:01 Min (°C) = -3.03 Max (°C) =2.88 Presiune = 1009 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 289 Stare = nori 85-100%']
+Ghimbav: 09 \ sâmbătă \ 05:3:2022 \ 19:05:41
+[' Răsarit = 06:50:01 Apus = 18:09:24 Min (°C) = -3.47 Max (°C) =3.77 Presiune = 1013 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 144 Stare = nori 85-100%']
+Ghimbav: 09 \ duminică \ 06:3:2022 \ 19:05:33
+[' Răsarit = 06:48:11 Apus = 18:10:46 Min (°C) = -7.72 Max (°C) =3.3 Presiune = 1012 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 10 \ luni \ 07:3:2022 \ 19:05:21
+[' Răsarit = 06:46:20 Apus = 18:12:07 Min (°C) = -2.96 Max (°C) =1 Presiune = 1009 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 247 Stare = nori 85-100%']
+Ghimbav: 10 \ marți \ 08:3:2022 \ 19:05:09
+[' Răsarit = 06:44:28 Apus = 18:13:29 Min (°C) = -5.38 Max (°C) =-0.48 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 222 Stare = nori 50-85%']
+Ghimbav: 10 \ miercuri \ 09:3:2022 \ 19:05:18
+[' Răsarit = 06:42:36 Apus = 18:14:50 Min (°C) = -6.22 Max (°C) =-0.77 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 84 Stare = nori 85-100%']
+Ghimbav: 10 \ joi \ 10:3:2022 \ 19:05:18
+[' Răsarit = 06:40:43 Apus = 18:16:11 Min (°C) = -8 Max (°C) =-1.72 Presiune = 1020 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 10 \ vineri \ 11:3:2022 \ 19:05:16
+[' Răsarit = 06:38:50 Apus = 18:17:31 Min (°C) = -11.53 Max (°C) =-3.45 Presiune = 1023 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 45 Stare = nori 85-100%']
+Ghimbav: 10 \ sâmbătă \ 12:3:2022 \ 19:05:10
+[' Răsarit = 06:36:57 Apus = 18:18:52 Min (°C) = -9.54 Max (°C) =-2 Presiune = 1033 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 235 Stare = nori 50-85%']
+Ghimbav: 10 \ duminică \ 13:3:2022 \ 19:05:15
+[' Răsarit = 06:35:03 Apus = 18:20:12 Min (°C) = -6.53 Max (°C) =0.53 Presiune = 1031 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 194 Stare = nori 50-85%']
+Ghimbav: 11 \ luni \ 14:3:2022 \ 19:05:10
+[' Răsarit = 06:33:09 Apus = 18:21:32 Min (°C) = -6.7 Max (°C) =4.13 Presiune = 1038 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 226 Stare = cer senin']
+Ghimbav: 11 \ marți \ 15:3:2022 \ 19:05:17
+[' Răsarit = 06:31:14 Apus = 18:22:51 Min (°C) = -4.73 Max (°C) =5.38 Presiune = 1034 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 11 \ miercuri \ 16:3:2022 \ 19:05:21
+[' Răsarit = 06:29:19 Apus = 18:24:10 Min (°C) = -2.09 Max (°C) =5.61 Presiune = 1018 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 11 \ joi \ 17:3:2022 \ 19:05:15
+[' Răsarit = 06:27:24 Apus = 18:25:30 Min (°C) = -8.05 Max (°C) =1.42 Presiune = 1038 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 114 Stare = nori 50-85%']
+Ghimbav: 11 \ vineri \ 18:3:2022 \ 19:05:22
+[' Răsarit = 06:25:29 Apus = 18:26:49 Min (°C) = -10.3 Max (°C) =0.96 Presiune = 1043 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 54 Stare = nori 50-85%']
+Ghimbav: 11 \ sâmbătă \ 19:3:2022 \ 19:05:26
+[' Răsarit = 06:23:34 Apus = 18:28:07 Min (°C) = -8.67 Max (°C) =0.77 Presiune = 1044 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 100 Stare = nori 85-100%']
+Ghimbav: 11 \ duminică \ 20:3:2022 \ 19:05:18
+[' Răsarit = 06:21:38 Apus = 18:29:26 Min (°C) = -8.53 Max (°C) =2.36 Presiune = 1042 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 43 Stare = nori 25-50%']
+Ghimbav: 12 \ luni \ 21:3:2022 \ 19:05:38
+[' Răsarit = 06:19:42 Apus = 18:30:44 Min (°C) = -4.62 Max (°C) =6.68 Presiune = 1038 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 82 Stare = nori 50-85%']
+Ghimbav: 12 \ marți \ 22:3:2022 \ 19:05:25
+[' Răsarit = 06:17:46 Apus = 18:32:03 Min (°C) = -0.99 Max (°C) =10.58 Presiune = 1035 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 350 Stare = cer senin']
+Ghimbav: 12 \ miercuri \ 23:3:2022 \ 19:05:12
+[' Răsarit = 06:15:50 Apus = 18:33:21 Min (°C) = -2.37 Max (°C) =8.72 Presiune = 1030 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 224 Stare = cer senin']
+Ghimbav: 12 \ joi \ 24:3:2022 \ 19:05:19
+[' Răsarit = 06:13:55 Apus = 18:34:39 Min (°C) = -0.89 Max (°C) =12.38 Presiune = 1021 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 259 Stare = cer senin']
+Ghimbav: 12 \ vineri \ 25:3:2022 \ 19:05:16
+[' Răsarit = 06:11:59 Apus = 18:35:57 Min (°C) = 0.49 Max (°C) =8.22 Presiune = 1021 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 45 Stare = nori 50-85%']
+Ghimbav: 12 \ sâmbătă \ 26:3:2022 \ 19:05:21
+[' Răsarit = 06:10:03 Apus = 18:37:15 Min (°C) = -0.99 Max (°C) =11.18 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 259 Stare = cer senin']
+Ghimbav: 12 \ duminică \ 27:3:2022 \ 19:05:24
+[' Răsarit = 07:08:07 Apus = 19:38:33 Min (°C) = 4.2 Max (°C) =12.48 Presiune = 1027 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 303 Stare = nori 25-50%']
+Ghimbav: 13 \ luni \ 28:3:2022 \ 19:05:34
+[' Răsarit = 07:06:12 Apus = 19:39:50 Min (°C) = 0.98 Max (°C) =14.53 Presiune = 1021 Umiditate (%) = 21 Index UV = 0.09 Viteza vântului = 1.16 Unghiul vântului = 280 Stare = cer senin']
+Ghimbav: 13 \ marți \ 29:3:2022 \ 19:05:25
+[' Răsarit = 07:04:16 Apus = 19:41:08 Min (°C) = 4.28 Max (°C) =15.34 Presiune = 1009 Umiditate (%) = 28 Index UV = 0.1 Viteza vântului = 0.98 Unghiul vântului = 231 Stare = nori 50-85%']
+Ghimbav: 13 \ miercuri \ 30:3:2022 \ 19:05:22
+[' Răsarit = 07:02:21 Apus = 19:42:26 Min (°C) = 6.54 Max (°C) =17.62 Presiune = 1002 Umiditate (%) = 27 Index UV = 0.09 Viteza vântului = 0.62 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 13 \ joi \ 31:3:2022 \ 19:05:34
+[' Răsarit = 07:00:26 Apus = 19:43:43 Min (°C) = 6.71 Max (°C) =13.9 Presiune = 997 Umiditate (%) = 46 Index UV = 0.05 Viteza vântului = 1.34 Unghiul vântului = 270 Stare = nori 85-100%']
+Ghimbav: 13 \ vineri \ 01:4:2022 \ 19:06:24
+[' Răsarit = 06:58:32 Apus = 19:45:01 Min (°C) = 8.93 Max (°C) =19.04 Presiune = 992 Umiditate (%) = 42 Index UV = 0.11 Viteza vântului = 0.84 Unghiul vântului = 271 Stare = nori 50-85%']
+Ghimbav: 13 \ sâmbătă \ 02:4:2022 \ 19:06:17
+[' Răsarit = 06:56:37 Apus = 19:46:19 Min (°C) = 6.47 Max (°C) =9.34 Presiune = 996 Umiditate (%) = 96 Index UV = 0.04 Viteza vântului = 0.5 Unghiul vântului = 313 Stare = nori 50-85%']
+Ghimbav: 13 \ duminică \ 03:4:2022 \ 19:38:59
+[' Răsarit = 06:54:43 Apus = 19:47:36 Min (°C) = 0.69 Max (°C) =5.42 Presiune = 1006 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 14 \ luni \ 04:4:2022 \ 19:06:10
+[' Răsarit = 06:52:49 Apus = 19:48:54 Min (°C) = -3.69 Max (°C) =5.74 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.13 Viteza vântului = 2.68 Unghiul vântului = 202 Stare = nori 85-100%']
+Ghimbav: 14 \ marți \ 05:4:2022 \ 19:06:50
+[' Răsarit = 06:50:56 Apus = 19:50:12 Min (°C) = -3.24 Max (°C) =11.53 Presiune = 1009 Umiditate (%) = 36 Index UV = 0.15 Viteza vântului = 3.19 Unghiul vântului = 289 Stare = nori 50-85%']
+Ghimbav: 14 \ miercuri \ 06:4:2022 \ 19:06:23
+[' Răsarit = 06:49:03 Apus = 19:51:29 Min (°C) = 2.23 Max (°C) =15.89 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 0.57 Unghiul vântului = 331 Stare = nori 25-50%']
+Ghimbav: 14 \ joi \ 07:4:2022 \ 19:06:21
+[' Răsarit = 06:47:11 Apus = 19:52:47 Min (°C) = 5.02 Max (°C) =15 Presiune = 996 Umiditate (%) = 28 Index UV = 0.09 Viteza vântului = 2.4 Unghiul vântului = 318 Stare = nori 85-100%']
+Ghimbav: 14 \ vineri \ 08:4:2022 \ 19:06:06
+[' Răsarit = 06:45:19 Apus = 19:54:05 Min (°C) = 6.06 Max (°C) =14.77 Presiune = 1006 Umiditate (%) = 75 Index UV = 0.12 Viteza vântului = 0.75 Unghiul vântului = 38 Stare = nori 85-100%']
+Ghimbav: 14 \ sâmbătă \ 09:4:2022 \ 19:06:16
+[' Răsarit = 06:43:28 Apus = 19:55:23 Min (°C) = 7.53 Max (°C) =18.36 Presiune = 999 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 0.72 Unghiul vântului = 128 Stare = nori 50-85%']
+Ghimbav: 14 \ duminică \ 10:4:2022 \ 19:06:52
+[' Răsarit = 06:41:37 Apus = 19:56:40 Min (°C) = 2.27 Max (°C) =9.87 Presiune = 1007 Umiditate (%) = 75 Index UV = 0.03 Viteza vântului = 1.8 Unghiul vântului = 355 Stare = nori 85-100%']
+Ghimbav: 15 \ luni \ 11:4:2022 \ 19:06:20
+[' Răsarit = 06:39:47 Apus = 19:57:58 Min (°C) = 1.44 Max (°C) =6.78 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.18 Viteza vântului = 4.02 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 15 \ marți \ 12:4:2022 \ 19:05:49
+[' Răsarit = 06:37:57 Apus = 19:59:16 Min (°C) = -1.88 Max (°C) =8.28 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.19 Viteza vântului = 2.24 Unghiul vântului = 315 Stare = nori 50-85%']
+Ghimbav: 15 \ miercuri \ 13:4:2022 \ 19:06:11
+[' Răsarit = 06:36:09 Apus = 20:00:34 Min (°C) = -0.58 Max (°C) =10.42 Presiune = 1021 Umiditate (%) = 31 Index UV = 0.17 Viteza vântului = 2.97 Unghiul vântului = 305 Stare = cer senin']
+Ghimbav: 15 \ joi \ 14:4:2022 \ 19:06:07
+[' Răsarit = 06:34:20 Apus = 20:01:52 Min (°C) = 1.45 Max (°C) =15.98 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.21 Viteza vântului = 0.99 Unghiul vântului = 349 Stare = nori 10-25%']
+Ghimbav: 15 \ vineri \ 15:4:2022 \ 19:06:50
+[' Răsarit = 06:32:33 Apus = 20:03:10 Min (°C) = 5.56 Max (°C) =20.07 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.22 Viteza vântului = 2.25 Unghiul vântului = 306 Stare = nori 25-50%']
+Ghimbav: 15 \ sâmbătă \ 16:4:2022 \ 19:06:45
+[' Răsarit = 06:30:46 Apus = 20:04:29 Min (°C) = 8.29 Max (°C) =13.17 Presiune = 1011 Umiditate (%) = 94 Index UV = 0.2 Viteza vântului = 2.24 Unghiul vântului = 225 Stare = ploaie ușoară']
+Ghimbav: 15 \ duminică \ 17:4:2022 \ 19:06:17
+[' Răsarit = 06:29:01 Apus = 20:05:47 Min (°C) = 0.95 Max (°C) =7.5 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.08 Viteza vântului = 3.13 Unghiul vântului = 22 Stare = nori 85-100%']
+Ghimbav: 16 \ luni \ 18:4:2022 \ 19:06:51
+[' Răsarit = 06:27:16 Apus = 20:07:05 Min (°C) = -1.5 Max (°C) =8.06 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.22 Viteza vântului = 1.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 16 \ marți \ 19:4:2022 \ 19:07:16
+[' Răsarit = 06:25:32 Apus = 20:08:23 Min (°C) = -0.88 Max (°C) =7.7 Presiune = 1008 Umiditate (%) = 49 Index UV = 0.17 Viteza vântului = 6.26 Unghiul vântului = 225 Stare = nori 85-100%']
+Ghimbav: 16 \ miercuri \ 20:4:2022 \ 19:06:35
+[' Răsarit = 06:23:48 Apus = 20:09:42 Min (°C) = -0.6 Max (°C) =10.62 Presiune = 1011 Umiditate (%) = 42 Index UV = 0.2 Viteza vântului = 2.2 Unghiul vântului = 228 Stare = nori 85-100%']
+Ghimbav: 16 \ joi \ 21:4:2022 \ 19:06:44
+[' Răsarit = 06:22:06 Apus = 20:11:00 Min (°C) = 0.94 Max (°C) =13.13 Presiune = 1008 Umiditate (%) = 36 Index UV = 0.26 Viteza vântului = 0.89 Unghiul vântului = 292 Stare = nori 85-100%']
+Ghimbav: 16 \ vineri \ 22:4:2022 \ 19:05:38
+[' Răsarit = 06:20:25 Apus = 20:12:18 Min (°C) = 3.08 Max (°C) =17.25 Presiune = 1005 Umiditate (%) = 50 Index UV = 0.27 Viteza vântului = 3.13 Unghiul vântului = 270 Stare = nori 50-85%']
+Ghimbav: 16 \ sâmbătă \ 23:4:2022 \ 19:05:41
+[' Răsarit = 06:18:44 Apus = 20:13:37 Min (°C) = 6.79 Max (°C) =15.04 Presiune = 1005 Umiditate (%) = 61 Index UV = 0.25 Viteza vântului = 1.8 Unghiul vântului = 276 Stare = nori 50-85%']
+Ghimbav: 16 \ duminică \ 24:4:2022 \ 19:05:25
+[' Răsarit = 06:17:05 Apus = 20:14:55 Min (°C) = 5.78 Max (°C) =20.64 Presiune = 1008 Umiditate (%) = 37 Index UV = 0.27 Viteza vântului = 1.84 Unghiul vântului = 138 Stare = nori 85-100%']
+Ghimbav: 17 \ luni \ 25:4:2022 \ 19:05:23
+[' Răsarit = 06:15:27 Apus = 20:16:13 Min (°C) = 10 Max (°C) =19.67 Presiune = 1007 Umiditate (%) = 50 Index UV = 0.28 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = nori 25-50%']
+Ghimbav: 17 \ marți \ 26:4:2022 \ 19:05:29
+[' Răsarit = 06:13:50 Apus = 20:17:32 Min (°C) = 6.34 Max (°C) =18.08 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.24 Viteza vântului = 1.13 Unghiul vântului = 264 Stare = nori 50-85%']
+Ghimbav: 17 \ miercuri \ 27:4:2022 \ 19:05:29
+[' Răsarit = 06:12:14 Apus = 20:18:50 Min (°C) = 7.4 Max (°C) =18.95 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.11 Viteza vântului = 0.89 Unghiul vântului = 90 Stare = ploaie ușoară']
+Ghimbav: 17 \ joi \ 28:4:2022 \ 19:05:33
+[' Răsarit = 06:10:39 Apus = 20:20:08 Min (°C) = 8.51 Max (°C) =11.17 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.03 Viteza vântului = 1.25 Unghiul vântului = 294 Stare = nori 85-100%']
+Ghimbav: 17 \ vineri \ 29:4:2022 \ 19:06:03
+[' Răsarit = 06:09:05 Apus = 20:21:26 Min (°C) = 6.63 Max (°C) =11.94 Presiune = 1020 Umiditate (%) = 62 Index UV = 0.32 Viteza vântului = 2.24 Unghiul vântului = 90 Stare = nori 85-100%']
+Ghimbav: 17 \ sâmbătă \ 30:4:2022 \ 19:05:16
+[' Răsarit = 06:07:33 Apus = 20:22:43 Min (°C) = 3.45 Max (°C) =15.42 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.35 Viteza vântului = 0.89 Unghiul vântului = 45 Stare = nori 25-50%']
+Ghimbav: 17 \ duminică \ 01:5:2022 \ 19:05:23
+[' Răsarit = 06:06:02 Apus = 20:24:01 Min (°C) = 3.9 Max (°C) =15.97 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.37 Viteza vântului = 3.58 Unghiul vântului = 90 Stare = nori 50-85%']
+Ghimbav: 18 \ marți \ 03:5:2022 \ 20:06:33
+[' Răsarit = 06:03:04 Apus = 20:26:36 Min (°C) = 5.19 Max (°C) =16.71 Presiune = 1014 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 185 Stare = nori 85-100%']
+Ghimbav: 18 \ miercuri \ 04:5:2022 \ 19:09:34
+[' Răsarit = 06:01:36 Apus = 20:27:53 Min (°C) = 7.6 Max (°C) =15.21 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.11 Viteza vântului = 0.95 Unghiul vântului = 63 Stare = nori 85-100%']
+Ghimbav: 18 \ joi \ 05:5:2022 \ 19:05:34
+[' Răsarit = 06:00:11 Apus = 20:29:10 Min (°C) = 6.97 Max (°C) =17.71 Presiune = 1021 Umiditate (%) = 37 Index UV = 0.28 Viteza vântului = 1.45 Unghiul vântului = 62 Stare = nori 50-85%']
+Ghimbav: 18 \ vineri \ 06:5:2022 \ 19:05:39
+[' Răsarit = 05:58:46 Apus = 20:30:26 Min (°C) = 6.02 Max (°C) =18.81 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.41 Viteza vântului = 1.47 Unghiul vântului = 161 Stare = nori 50-85%']
+Ghimbav: 18 \ sâmbătă \ 07:5:2022 \ 19:05:30
+[' Răsarit = 05:57:24 Apus = 20:31:42 Min (°C) = 6.18 Max (°C) =20.38 Presiune = 1018 Umiditate (%) = 38 Index UV = 0.39 Viteza vântului = 3.16 Unghiul vântului = 164 Stare = nori 50-85%']
+Ghimbav: 18 \ duminică \ 08:5:2022 \ 19:06:04
+[' Răsarit = 05:56:02 Apus = 20:32:58 Min (°C) = 6.33 Max (°C) =20.69 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.18 Viteza vântului = 0.75 Unghiul vântului = 182 Stare = nori 50-85%']
+Ghimbav: 19 \ luni \ 09:5:2022 \ 19:05:40
+[' Răsarit = 05:54:42 Apus = 20:34:13 Min (°C) = 7.53 Max (°C) =17.97 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.14 Viteza vântului = 0.89 Unghiul vântului = 90 Stare = nori 50-85%']
+Ghimbav: 19 \ marți \ 10:5:2022 \ 19:05:57
+[' Răsarit = 05:53:24 Apus = 20:35:28 Min (°C) = 8.8 Max (°C) =15.67 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.43 Viteza vântului = 0.45 Unghiul vântului = 22 Stare = nori 50-85%']
+Ghimbav: 19 \ miercuri \ 11:5:2022 \ 19:05:35
+[' Răsarit = 05:52:08 Apus = 20:36:42 Min (°C) = 7.26 Max (°C) =19.31 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.45 Viteza vântului = 3.25 Unghiul vântului = 301 Stare = nori 85-100%']
+Ghimbav: 19 \ joi \ 12:5:2022 \ 19:05:40
+[' Răsarit = 05:50:53 Apus = 20:37:56 Min (°C) = 9.38 Max (°C) =23.17 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.5 Viteza vântului = 2.11 Unghiul vântului = 304 Stare = cer senin']
+Ghimbav: 19 \ vineri \ 13:5:2022 \ 19:05:30
+[' Răsarit = 05:49:39 Apus = 20:39:10 Min (°C) = 11.92 Max (°C) =25.55 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.51 Viteza vântului = 1.93 Unghiul vântului = 222 Stare = nori 50-85%']
+Ghimbav: 19 \ sâmbătă \ 14:5:2022 \ 19:05:29
+[' Răsarit = 05:48:28 Apus = 20:40:22 Min (°C) = 11.77 Max (°C) =21.5 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 3.29 Unghiul vântului = 336 Stare = nori 50-85%']
+Ghimbav: 19 \ duminică \ 15:5:2022 \ 19:05:32
+[' Răsarit = 05:47:18 Apus = 20:41:34 Min (°C) = 10.89 Max (°C) =21.29 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.44 Viteza vântului = 2.95 Unghiul vântului = 335 Stare = nori 25-50%']
+Ghimbav: 20 \ luni \ 16:5:2022 \ 19:06:37
+[' Răsarit = 05:46:10 Apus = 20:42:46 Min (°C) = 11.55 Max (°C) =22.64 Presiune = 1017 Umiditate (%) = 32 Index UV = 0.51 Viteza vântului = 2.65 Unghiul vântului = 340 Stare = nori 50-85%']
+Ghimbav: 20 \ marți \ 17:5:2022 \ 19:08:27
+[' Răsarit = 05:45:03 Apus = 20:43:56 Min (°C) = 11.31 Max (°C) =22.21 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.23 Viteza vântului = 0.73 Unghiul vântului = 323 Stare = ploaie ușoară']
+Ghimbav: 20 \ miercuri \ 18:5:2022 \ 19:05:42
+[' Răsarit = 05:43:59 Apus = 20:45:06 Min (°C) = 5.9 Max (°C) =13.75 Presiune = 1023 Umiditate (%) = 37 Index UV = 0.48 Viteza vântului = 5.79 Unghiul vântului = 343 Stare = nori 50-85%']
+Ghimbav: 20 \ joi \ 19:5:2022 \ 20:10:36
+[' Răsarit = 05:42:56 Apus = 20:46:15 Min (°C) = 4.08 Max (°C) =17.06 Presiune = 1027 Umiditate (%) = 67 Index UV = 0.14 Viteza vântului = 1.69 Unghiul vântului = 299 Stare = cer senin']
+Ghimbav: 20 \ vineri \ 20:5:2022 \ 19:05:30
+[' Răsarit = 05:41:55 Apus = 20:47:23 Min (°C) = 6.22 Max (°C) =22.25 Presiune = 1022 Umiditate (%) = 28 Index UV = 0.46 Viteza vântului = 2.12 Unghiul vântului = 313 Stare = nori 25-50%']
+Ghimbav: 20 \ sâmbătă \ 21:5:2022 \ 19:06:24
+[' Răsarit = 05:40:56 Apus = 20:48:30 Min (°C) = 10.07 Max (°C) =24.95 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.57 Viteza vântului = 5 Unghiul vântului = 294 Stare = nori 50-85%']

@@ -1,0 +1,952 @@
+Moldova_Noua: 04 \ luni \ 25:1:2021 \ 22:30:26
+[' Răsarit = 07:59:44 Apus = 17:31:19 Min (°C) = 0.61 Max (°C) =7.92 Presiune = 990 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 125 Stare = ploaie ușoară']
+Moldova_Noua: 04 \ marți \ 26:1:2021 \ 09:48:41
+[' Răsarit = 07:58:48 Apus = 17:32:42 Min (°C) = 0.01 Max (°C) =2.3 Presiune = 996 Umiditate (%) = 90 Index UV = 0.51 Viteza vântului = 0.45 Unghiul vântului = 205 Stare = nori 85-100%']
+Moldova_Noua: 04 \ miercuri \ 27:1:2021 \ 19:08:32
+[' Răsarit = 07:57:50 Apus = 17:34:06 Min (°C) = -2.31 Max (°C) =1.27 Presiune = 1000 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 239 Stare = nori 85-100%']
+Moldova_Noua: 04 \ joi \ 28:1:2021 \ 19:25:07
+[' Răsarit = 07:56:51 Apus = 17:35:31 Min (°C) = -2.51 Max (°C) =2.1 Presiune = 997 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 95 Stare = nori 85-100%']
+Moldova_Noua: 04 \ vineri \ 29:1:2021 \ 20:10:33
+[' Răsarit = 07:55:49 Apus = 17:36:55 Min (°C) = -0.41 Max (°C) =10 Presiune = 1001 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 160 Stare = nori 85-100%']
+Moldova_Noua: 04 \ sâmbătă \ 30:1:2021 \ 20:10:52
+[' Răsarit = 07:54:46 Apus = 17:38:21 Min (°C) = 3.45 Max (°C) =10 Presiune = 1000 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 150 Stare = cer senin']
+Moldova_Noua: 04 \ duminică \ 31:1:2021 \ 19:10:06
+[' Răsarit = 07:53:40 Apus = 17:39:46 Min (°C) = 3.74 Max (°C) =7.22 Presiune = 986 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.12 Unghiul vântului = 106 Stare = ploaie ușoară']
+Moldova_Noua: 05 \ luni \ 01:2:2021 \ 19:10:28
+[' Răsarit = 07:52:33 Apus = 17:41:11 Min (°C) = 3.01 Max (°C) =7.54 Presiune = 990 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 88 Stare = nori 50-85%']
+Moldova_Noua: 05 \ marți \ 02:2:2021 \ 20:38:48
+[' Răsarit = 07:51:24 Apus = 17:42:37 Min (°C) = 3.52 Max (°C) =9.76 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 106 Stare = nori 50-85%']
+Moldova_Noua: 05 \ miercuri \ 03:2:2021 \ 19:37:07
+[' Răsarit = 07:50:13 Apus = 17:44:03 Min (°C) = 3.67 Max (°C) =12.11 Presiune = 998 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 111 Stare = nori 50-85%']
+Moldova_Noua: 05 \ joi \ 04:2:2021 \ 19:11:53
+[' Răsarit = 07:49:01 Apus = 17:45:29 Min (°C) = 6.01 Max (°C) =11 Presiune = 1017 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Moldova_Noua: 05 \ vineri \ 05:2:2021 \ 19:07:37
+[' Răsarit = 07:47:46 Apus = 17:46:55 Min (°C) = 5.59 Max (°C) =14.84 Presiune = 1016 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = cer senin']
+Moldova_Noua: 05 \ sâmbătă \ 06:2:2021 \ 19:36:25
+[' Răsarit = 07:46:31 Apus = 17:48:21 Min (°C) = 7.01 Max (°C) =15.39 Presiune = 998 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 130 Stare = nori 85-100%']
+Moldova_Noua: 05 \ duminică \ 07:2:2021 \ 19:11:27
+[' Răsarit = 07:45:13 Apus = 17:49:47 Min (°C) = 5.68 Max (°C) =9.37 Presiune = 988 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 94 Stare = nori 85-100%']
+Moldova_Noua: 06 \ luni \ 08:2:2021 \ 20:53:00
+[' Răsarit = 07:43:54 Apus = 17:51:13 Min (°C) = 3.98 Max (°C) =9.44 Presiune = 985 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 114 Stare = nori 85-100%']
+Moldova_Noua: 06 \ marți \ 09:2:2021 \ 19:08:59
+[' Răsarit = 07:42:33 Apus = 17:52:39 Min (°C) = 4.5 Max (°C) =13.67 Presiune = 988 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 143 Stare = ploaie ușoară']
+Moldova_Noua: 06 \ miercuri \ 10:2:2021 \ 19:09:47
+[' Răsarit = 07:41:11 Apus = 17:54:05 Min (°C) = 6.63 Max (°C) =13.51 Presiune = 989 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 224 Stare = ploaie ușoară']
+Moldova_Noua: 06 \ joi \ 11:2:2021 \ 19:05:07
+[' Răsarit = 07:39:47 Apus = 17:55:31 Min (°C) = -4.95 Max (°C) =9.91 Presiune = 1005 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 288 Stare = zăpadă slabă']
+Moldova_Noua: 06 \ vineri \ 12:2:2021 \ 20:43:44
+[' Răsarit = 07:38:22 Apus = 17:56:56 Min (°C) = -7.81 Max (°C) =-4.62 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 330 Stare = nori 25-50%']
+Moldova_Noua: 06 \ sâmbătă \ 13:2:2021 \ 19:08:58
+[' Răsarit = 07:36:56 Apus = 17:58:22 Min (°C) = -9.11 Max (°C) =-4.79 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 86 Stare = nori 85-100%']
+Moldova_Noua: 06 \ duminică \ 14:2:2021 \ 19:08:30
+[' Răsarit = 07:35:28 Apus = 17:59:47 Min (°C) = -8.08 Max (°C) =-1.11 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 348 Stare = nori 25-50%']
+Moldova_Noua: 07 \ luni \ 15:2:2021 \ 20:03:54
+[' Răsarit = 07:33:59 Apus = 18:01:12 Min (°C) = -6.49 Max (°C) =0.37 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 291 Stare = cer senin']
+Moldova_Noua: 07 \ marți \ 16:2:2021 \ 19:00:18
+[' Răsarit = 07:32:28 Apus = 18:02:37 Min (°C) = -5.7 Max (°C) =1.27 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 123 Stare = nori 25-50%']
+Moldova_Noua: 07 \ miercuri \ 17:2:2021 \ 19:08:11
+[' Răsarit = 07:30:57 Apus = 18:04:01 Min (°C) = -2.82 Max (°C) =5.24 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 287 Stare = nori 85-100%']
+Moldova_Noua: 07 \ joi \ 18:2:2021 \ 19:12:12
+[' Răsarit = 07:29:24 Apus = 18:05:25 Min (°C) = 1.9 Max (°C) =5.92 Presiune = 1009 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 32 Stare = nori 85-100%']
+Moldova_Noua: 07 \ vineri \ 19:2:2021 \ 19:05:07
+[' Răsarit = 07:27:50 Apus = 18:06:49 Min (°C) = 0.25 Max (°C) =4.89 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 96 Stare = nori 85-100%']
+Moldova_Noua: 07 \ sâmbătă \ 20:2:2021 \ 19:09:31
+[' Răsarit = 07:26:14 Apus = 18:08:12 Min (°C) = 0.07 Max (°C) =7.46 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 134 Stare = nori 50-85%']
+Moldova_Noua: 07 \ duminică \ 21:2:2021 \ 19:06:51
+[' Răsarit = 07:24:38 Apus = 18:09:36 Min (°C) = 0.49 Max (°C) =8.2 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 80 Stare = cer senin']
+Moldova_Noua: 08 \ luni \ 22:2:2021 \ 19:11:25
+[' Răsarit = 07:23:01 Apus = 18:10:59 Min (°C) = 1.92 Max (°C) =13.44 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 12 Stare = cer senin']
+Moldova_Noua: 08 \ marți \ 23:2:2021 \ 19:09:20
+[' Răsarit = 07:21:22 Apus = 18:12:21 Min (°C) = 5 Max (°C) =13.8 Presiune = 1019 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 319 Stare = cer senin']
+Moldova_Noua: 08 \ miercuri \ 24:2:2021 \ 19:09:57
+[' Răsarit = 07:19:43 Apus = 18:13:43 Min (°C) = 4.57 Max (°C) =10.93 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 140 Stare = nori 25-50%']
+Moldova_Noua: 08 \ joi \ 25:2:2021 \ 19:07:59
+[' Răsarit = 07:18:02 Apus = 18:15:05 Min (°C) = 5.56 Max (°C) =16.73 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 69 Stare = cer senin']
+Moldova_Noua: 08 \ vineri \ 26:2:2021 \ 19:08:39
+[' Răsarit = 07:16:21 Apus = 18:16:27 Min (°C) = 7.54 Max (°C) =18.04 Presiune = 1010 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 325 Stare = cer senin']
+Moldova_Noua: 08 \ sâmbătă \ 27:2:2021 \ 19:05:48
+[' Răsarit = 07:14:39 Apus = 18:17:48 Min (°C) = 4.92 Max (°C) =13.05 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.97 Unghiul vântului = 323 Stare = nori 25-50%']
+Moldova_Noua: 08 \ duminică \ 28:2:2021 \ 19:10:10
+[' Răsarit = 07:12:56 Apus = 18:19:09 Min (°C) = 1.31 Max (°C) =9.82 Presiune = 1018 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.03 Unghiul vântului = 340 Stare = cer senin']
+Moldova_Noua: 09 \ luni \ 01:3:2021 \ 19:04:25
+[' Răsarit = 07:11:12 Apus = 18:20:29 Min (°C) = 1.55 Max (°C) =8.98 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 327 Stare = cer senin']
+Moldova_Noua: 09 \ marți \ 02:3:2021 \ 19:12:57
+[' Răsarit = 07:09:27 Apus = 18:21:50 Min (°C) = 1.49 Max (°C) =9.84 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 318 Stare = cer senin']
+Moldova_Noua: 09 \ miercuri \ 03:3:2021 \ 19:08:17
+[' Răsarit = 07:07:42 Apus = 18:23:09 Min (°C) = 2.06 Max (°C) =13.27 Presiune = 1015 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 303 Stare = cer senin']
+Moldova_Noua: 09 \ joi \ 04:3:2021 \ 19:09:04
+[' Răsarit = 07:05:56 Apus = 18:24:29 Min (°C) = 4.79 Max (°C) =15.13 Presiune = 1016 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 210 Stare = cer senin']
+Moldova_Noua: 09 \ vineri \ 05:3:2021 \ 19:07:02
+[' Răsarit = 07:04:09 Apus = 18:25:48 Min (°C) = 5.25 Max (°C) =14.43 Presiune = 1003 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 336 Stare = nori 85-100%']
+Moldova_Noua: 09 \ sâmbătă \ 06:3:2021 \ 19:08:01
+[' Răsarit = 07:02:21 Apus = 18:27:07 Min (°C) = 0.3 Max (°C) =6.86 Presiune = 1017 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 330 Stare = cer senin']
+Moldova_Noua: 09 \ duminică \ 07:3:2021 \ 19:09:00
+[' Răsarit = 07:00:33 Apus = 18:28:26 Min (°C) = -0.95 Max (°C) =8.05 Presiune = 1007 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 19 Stare = cer senin']
+Moldova_Noua: 10 \ luni \ 08:3:2021 \ 19:12:05
+[' Răsarit = 06:58:45 Apus = 18:29:44 Min (°C) = 0.63 Max (°C) =9.28 Presiune = 1003 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 345 Stare = cer senin']
+Moldova_Noua: 10 \ marți \ 09:3:2021 \ 19:06:31
+[' Răsarit = 06:56:56 Apus = 18:31:02 Min (°C) = 0.04 Max (°C) =8.49 Presiune = 1004 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 100 Stare = nori 85-100%']
+Moldova_Noua: 10 \ miercuri \ 10:3:2021 \ 19:12:37
+[' Răsarit = 06:55:06 Apus = 18:32:20 Min (°C) = 0.4 Max (°C) =4.46 Presiune = 1004 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 343 Stare = nori 85-100%']
+Moldova_Noua: 10 \ joi \ 11:3:2021 \ 19:08:30
+[' Răsarit = 06:53:16 Apus = 18:33:37 Min (°C) = -1.86 Max (°C) =6.63 Presiune = 1006 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 247 Stare = nori 10-25%']
+Moldova_Noua: 10 \ vineri \ 12:3:2021 \ 19:08:25
+[' Răsarit = 06:51:26 Apus = 18:34:54 Min (°C) = 0.39 Max (°C) =9.38 Presiune = 1001 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 154 Stare = nori 50-85%']
+Moldova_Noua: 10 \ sâmbătă \ 13:3:2021 \ 19:08:32
+[' Răsarit = 06:49:35 Apus = 18:36:11 Min (°C) = 5.16 Max (°C) =10.74 Presiune = 1000 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 154 Stare = nori 50-85%']
+Moldova_Noua: 10 \ duminică \ 14:3:2021 \ 19:10:50
+[' Răsarit = 06:47:43 Apus = 18:37:28 Min (°C) = 4.2 Max (°C) =14.67 Presiune = 991 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 316 Stare = nori 85-100%']
+Moldova_Noua: 11 \ luni \ 15:3:2021 \ 19:10:14
+[' Răsarit = 06:45:52 Apus = 18:38:44 Min (°C) = 4.44 Max (°C) =8.61 Presiune = 988 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 270 Stare = ploaie ușoară']
+Moldova_Noua: 11 \ marți \ 16:3:2021 \ 19:08:46
+[' Răsarit = 06:44:00 Apus = 18:40:00 Min (°C) = 1.91 Max (°C) =6.67 Presiune = 994 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 275 Stare = nori 85-100%']
+Moldova_Noua: 11 \ miercuri \ 17:3:2021 \ 19:09:20
+[' Răsarit = 06:42:08 Apus = 18:41:16 Min (°C) = 2.24 Max (°C) =5.56 Presiune = 997 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 282 Stare = nori 85-100%']
+Moldova_Noua: 11 \ joi \ 18:3:2021 \ 19:08:27
+[' Răsarit = 06:40:16 Apus = 18:42:32 Min (°C) = 1.32 Max (°C) =3.21 Presiune = 1001 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 310 Stare = nori 85-100%']
+Moldova_Noua: 11 \ vineri \ 19:3:2021 \ 19:06:03
+[' Răsarit = 06:38:23 Apus = 18:43:48 Min (°C) = 0.4 Max (°C) =6.53 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 358 Stare = nori 50-85%']
+Moldova_Noua: 11 \ sâmbătă \ 20:3:2021 \ 19:08:30
+[' Răsarit = 06:36:31 Apus = 18:45:03 Min (°C) = -0.23 Max (°C) =7.92 Presiune = 1004 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 59 Stare = nori 85-100%']
+Moldova_Noua: 11 \ duminică \ 21:3:2021 \ 19:04:16
+[' Răsarit = 06:34:38 Apus = 18:46:18 Min (°C) = 0.9 Max (°C) =6.48 Presiune = 998 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.91 Unghiul vântului = 93 Stare = nori 85-100%']
+Moldova_Noua: 12 \ luni \ 22:3:2021 \ 19:09:30
+[' Răsarit = 06:32:45 Apus = 18:47:34 Min (°C) = 1.51 Max (°C) =6.08 Presiune = 997 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 273 Stare = nori 85-100%']
+Moldova_Noua: 12 \ marți \ 23:3:2021 \ 19:11:04
+[' Răsarit = 06:30:53 Apus = 18:48:49 Min (°C) = -1.1 Max (°C) =8.41 Presiune = 1003 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.85 Unghiul vântului = 336 Stare = nori 25-50%']
+Moldova_Noua: 12 \ miercuri \ 24:3:2021 \ 19:09:35
+[' Răsarit = 06:29:00 Apus = 18:50:04 Min (°C) = 0.92 Max (°C) =7.48 Presiune = 1004 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 303 Stare = nori 85-100%']
+Moldova_Noua: 12 \ joi \ 25:3:2021 \ 19:09:30
+[' Răsarit = 06:27:07 Apus = 18:51:18 Min (°C) = -0.76 Max (°C) =10 Presiune = 1020 Umiditate (%) = 27 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 12 \ vineri \ 26:3:2021 \ 19:14:22
+[' Răsarit = 06:25:14 Apus = 18:52:33 Min (°C) = 0.43 Max (°C) =11.62 Presiune = 1010 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 336 Stare = nori 25-50%']
+Moldova_Noua: 12 \ sâmbătă \ 27:3:2021 \ 19:13:54
+[' Răsarit = 06:23:22 Apus = 18:53:48 Min (°C) = 2.52 Max (°C) =16.08 Presiune = 1009 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 174 Stare = nori 25-50%']
+Moldova_Noua: 12 \ duminică \ 28:3:2021 \ 19:09:52
+[' Răsarit = 07:21:29 Apus = 19:55:02 Min (°C) = 6.97 Max (°C) =13.82 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 0.45 Unghiul vântului = 248 Stare = nori 85-100%']
+Moldova_Noua: 13 \ luni \ 29:3:2021 \ 19:08:55
+[' Răsarit = 07:19:37 Apus = 19:56:17 Min (°C) = 4.24 Max (°C) =15 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.11 Viteza vântului = 2.96 Unghiul vântului = 347 Stare = nori 50-85%']
+Moldova_Noua: 13 \ marți \ 30:3:2021 \ 19:07:35
+[' Răsarit = 07:17:45 Apus = 19:57:32 Min (°C) = 6.07 Max (°C) =17 Presiune = 1028 Umiditate (%) = 39 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 13 \ miercuri \ 31:3:2021 \ 19:07:22
+[' Răsarit = 07:15:53 Apus = 19:58:46 Min (°C) = 6.62 Max (°C) =18.94 Presiune = 1023 Umiditate (%) = 37 Index UV = 0.13 Viteza vântului = 3.6 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 13 \ joi \ 01:4:2021 \ 19:08:16
+[' Răsarit = 07:14:02 Apus = 20:00:01 Min (°C) = 7.85 Max (°C) =20.56 Presiune = 1000 Umiditate (%) = 47 Index UV = 0.13 Viteza vântului = 1.6 Unghiul vântului = 169 Stare = nori 85-100%']
+Moldova_Noua: 13 \ vineri \ 02:4:2021 \ 19:11:08
+[' Răsarit = 07:12:11 Apus = 20:01:15 Min (°C) = 10.1 Max (°C) =18.89 Presiune = 996 Umiditate (%) = 52 Index UV = 0.18 Viteza vântului = 0.45 Unghiul vântului = 275 Stare = nori 85-100%']
+Moldova_Noua: 13 \ sâmbătă \ 03:4:2021 \ 20:32:09
+[' Răsarit = 07:10:20 Apus = 20:02:30 Min (°C) = 5.69 Max (°C) =11.47 Presiune = 1000 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 238 Stare = nori 85-100%']
+Moldova_Noua: 13 \ duminică \ 04:4:2021 \ 20:11:15
+[' Răsarit = 07:08:29 Apus = 20:03:44 Min (°C) = 2.61 Max (°C) =8.41 Presiune = 1002 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 323 Stare = nori 85-100%']
+Moldova_Noua: 14 \ luni \ 05:4:2021 \ 14:38:03
+[' Răsarit = 07:06:39 Apus = 20:04:59 Min (°C) = 2.26 Max (°C) =12.22 Presiune = 1000 Umiditate (%) = 48 Index UV = 3.74 Viteza vântului = 0.45 Unghiul vântului = 255 Stare = nori 25-50%']
+Moldova_Noua: 14 \ luni \ 05:4:2021 \ 19:09:16
+[' Răsarit = 07:06:39 Apus = 20:04:59 Min (°C) = 2.26 Max (°C) =13.33 Presiune = 995 Umiditate (%) = 46 Index UV = 0.21 Viteza vântului = 0.45 Unghiul vântului = 141 Stare = cer senin']
+Moldova_Noua: 14 \ marți \ 06:4:2021 \ 20:13:09
+[' Răsarit = 07:04:50 Apus = 20:06:14 Min (°C) = 2.45 Max (°C) =11.28 Presiune = 992 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 277 Stare = nori 85-100%']
+Moldova_Noua: 14 \ miercuri \ 07:4:2021 \ 19:07:45
+[' Răsarit = 07:03:01 Apus = 20:07:28 Min (°C) = -0.47 Max (°C) =7.02 Presiune = 999 Umiditate (%) = 57 Index UV = 0.18 Viteza vântului = 0.89 Unghiul vântului = 302 Stare = nori 85-100%']
+Moldova_Noua: 14 \ joi \ 08:4:2021 \ 19:07:32
+[' Răsarit = 07:01:12 Apus = 20:08:43 Min (°C) = -2.23 Max (°C) =8.33 Presiune = 1011 Umiditate (%) = 47 Index UV = 0.21 Viteza vântului = 1.79 Unghiul vântului = 340 Stare = nori 85-100%']
+Moldova_Noua: 14 \ vineri \ 09:4:2021 \ 19:07:48
+[' Răsarit = 06:59:24 Apus = 20:09:58 Min (°C) = -1.26 Max (°C) =12.89 Presiune = 1026 Umiditate (%) = 22 Index UV = 0.25 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = cer senin']
+Moldova_Noua: 14 \ sâmbătă \ 10:4:2021 \ 19:07:31
+[' Răsarit = 06:57:36 Apus = 20:11:12 Min (°C) = 1.71 Max (°C) =16.67 Presiune = 1006 Umiditate (%) = 34 Index UV = 0.25 Viteza vântului = 0.98 Unghiul vântului = 161 Stare = nori 10-25%']
+Moldova_Noua: 14 \ duminică \ 11:4:2021 \ 19:09:07
+[' Răsarit = 06:55:49 Apus = 20:12:27 Min (°C) = 4.95 Max (°C) =19 Presiune = 1020 Umiditate (%) = 22 Index UV = 0.23 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = cer senin']
+Moldova_Noua: 15 \ luni \ 12:4:2021 \ 21:52:45
+[' Răsarit = 06:54:03 Apus = 20:13:42 Min (°C) = 8.55 Max (°C) =21.1 Presiune = 1014 Umiditate (%) = 26 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 130 Stare = cer senin']
+Moldova_Noua: 15 \ marți \ 13:4:2021 \ 19:07:48
+[' Răsarit = 06:52:18 Apus = 20:14:57 Min (°C) = 6.02 Max (°C) =12.18 Presiune = 1002 Umiditate (%) = 88 Index UV = 0.02 Viteza vântului = 2.41 Unghiul vântului = 295 Stare = ploaie ușoară']
+Moldova_Noua: 15 \ miercuri \ 14:4:2021 \ 19:08:28
+[' Răsarit = 06:50:33 Apus = 20:16:12 Min (°C) = 2 Max (°C) =5.06 Presiune = 1005 Umiditate (%) = 89 Index UV = 0.08 Viteza vântului = 4.29 Unghiul vântului = 289 Stare = nori 85-100%']
+Moldova_Noua: 15 \ joi \ 15:4:2021 \ 19:08:29
+[' Răsarit = 06:48:49 Apus = 20:17:27 Min (°C) = 2.16 Max (°C) =7.27 Presiune = 1007 Umiditate (%) = 81 Index UV = 0.23 Viteza vântului = 0.45 Unghiul vântului = 244 Stare = ploaie ușoară']
+Moldova_Noua: 15 \ vineri \ 16:4:2021 \ 19:07:54
+[' Răsarit = 06:47:05 Apus = 20:18:42 Min (°C) = -1.12 Max (°C) =8.89 Presiune = 1007 Umiditate (%) = 63 Index UV = 0.3 Viteza vântului = 0.45 Unghiul vântului = 41 Stare = nori 50-85%']
+Moldova_Noua: 15 \ sâmbătă \ 17:4:2021 \ 19:07:41
+[' Răsarit = 06:45:23 Apus = 20:19:58 Min (°C) = 0.14 Max (°C) =10.95 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.14 Viteza vântului = 1.68 Unghiul vântului = 98 Stare = ploaie ușoară']
+Moldova_Noua: 15 \ duminică \ 18:4:2021 \ 19:07:34
+[' Răsarit = 06:43:41 Apus = 20:21:13 Min (°C) = 4.13 Max (°C) =7.78 Presiune = 1003 Umiditate (%) = 84 Index UV = 0.04 Viteza vântului = 0.45 Unghiul vântului = 120 Stare = nori 85-100%']
+Moldova_Noua: 16 \ luni \ 19:4:2021 \ 19:07:50
+[' Răsarit = 06:42:00 Apus = 20:22:28 Min (°C) = 4.75 Max (°C) =12.78 Presiune = 999 Umiditate (%) = 59 Index UV = 0.16 Viteza vântului = 0.45 Unghiul vântului = 278 Stare = nori 85-100%']
+Moldova_Noua: 16 \ marți \ 20:4:2021 \ 19:07:54
+[' Răsarit = 06:40:20 Apus = 20:23:43 Min (°C) = 4.87 Max (°C) =11.85 Presiune = 999 Umiditate (%) = 74 Index UV = 0.29 Viteza vântului = 0.45 Unghiul vântului = 91 Stare = nori 85-100%']
+Moldova_Noua: 16 \ miercuri \ 21:4:2021 \ 19:07:52
+[' Răsarit = 06:38:41 Apus = 20:24:59 Min (°C) = 5.75 Max (°C) =15 Presiune = 1003 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 2.03 Unghiul vântului = 309 Stare = nori 50-85%']
+Moldova_Noua: 16 \ joi \ 22:4:2021 \ 19:08:24
+[' Răsarit = 06:37:03 Apus = 20:26:14 Min (°C) = 5.85 Max (°C) =20 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.27 Viteza vântului = 2.57 Unghiul vântului = 200 Stare = cer senin']
+Moldova_Noua: 16 \ vineri \ 23:4:2021 \ 19:07:50
+[' Răsarit = 06:35:26 Apus = 20:27:29 Min (°C) = 7.37 Max (°C) =15 Presiune = 1008 Umiditate (%) = 41 Index UV = 0.38 Viteza vântului = 0.89 Unghiul vântului = 269 Stare = cer senin']
+Moldova_Noua: 16 \ sâmbătă \ 24:4:2021 \ 19:07:55
+[' Răsarit = 06:33:50 Apus = 20:28:45 Min (°C) = 3.44 Max (°C) =17 Presiune = 1021 Umiditate (%) = 34 Index UV = 0.39 Viteza vântului = 4.12 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 16 \ duminică \ 25:4:2021 \ 19:07:51
+[' Răsarit = 06:32:15 Apus = 20:30:00 Min (°C) = 3.76 Max (°C) =20 Presiune = 1016 Umiditate (%) = 26 Index UV = 0.44 Viteza vântului = 3.6 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 17 \ luni \ 26:4:2021 \ 19:07:34
+[' Răsarit = 06:30:41 Apus = 20:31:15 Min (°C) = 6.81 Max (°C) =15.16 Presiune = 1000 Umiditate (%) = 39 Index UV = 0.28 Viteza vântului = 2.01 Unghiul vântului = 325 Stare = nori 85-100%']
+Moldova_Noua: 17 \ marți \ 27:4:2021 \ 19:08:34
+[' Răsarit = 06:29:09 Apus = 20:32:30 Min (°C) = 7.94 Max (°C) =13.72 Presiune = 997 Umiditate (%) = 78 Index UV = 0.19 Viteza vântului = 0.45 Unghiul vântului = 60 Stare = ploaie ușoară']
+Moldova_Noua: 17 \ miercuri \ 28:4:2021 \ 19:07:53
+[' Răsarit = 06:27:37 Apus = 20:33:45 Min (°C) = 8.49 Max (°C) =11.8 Presiune = 997 Umiditate (%) = 74 Index UV = 0.31 Viteza vântului = 1.34 Unghiul vântului = 107 Stare = nori 85-100%']
+Moldova_Noua: 17 \ joi \ 29:4:2021 \ 19:18:32
+[' Răsarit = 06:26:07 Apus = 20:35:00 Min (°C) = 7.18 Max (°C) =18.5 Presiune = 996 Umiditate (%) = 63 Index UV = 0.42 Viteza vântului = 1.79 Unghiul vântului = 178 Stare = nori 10-25%']
+Moldova_Noua: 17 \ vineri \ 30:4:2021 \ 19:08:00
+[' Răsarit = 06:24:38 Apus = 20:36:15 Min (°C) = 9.09 Max (°C) =24.44 Presiune = 997 Umiditate (%) = 49 Index UV = 0.44 Viteza vântului = 1.34 Unghiul vântului = 70 Stare = nori 85-100%']
+Moldova_Noua: 17 \ sâmbătă \ 01:5:2021 \ 19:08:12
+[' Răsarit = 06:23:10 Apus = 20:37:30 Min (°C) = 13.74 Max (°C) =25.32 Presiune = 993 Umiditate (%) = 53 Index UV = 0.31 Viteza vântului = 1.79 Unghiul vântului = 156 Stare = nori 85-100%']
+Moldova_Noua: 17 \ duminică \ 02:5:2021 \ 20:14:29
+[' Răsarit = 06:21:43 Apus = 20:38:44 Min (°C) = 14.91 Max (°C) =25.23 Presiune = 1008 Umiditate (%) = 43 Index UV = 0.03 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Moldova_Noua: 18 \ luni \ 03:5:2021 \ 19:08:03
+[' Răsarit = 06:20:18 Apus = 20:39:59 Min (°C) = 8.89 Max (°C) =17.22 Presiune = 1005 Umiditate (%) = 43 Index UV = 0.54 Viteza vântului = 0.89 Unghiul vântului = 304 Stare = nori 85-100%']
+Moldova_Noua: 18 \ marți \ 04:5:2021 \ 19:08:59
+[' Răsarit = 06:18:54 Apus = 20:41:13 Min (°C) = 4.79 Max (°C) =21.06 Presiune = 1013 Umiditate (%) = 28 Index UV = 0.53 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 18 \ miercuri \ 05:5:2021 \ 19:07:49
+[' Răsarit = 06:17:31 Apus = 20:42:26 Min (°C) = 9.88 Max (°C) =23 Presiune = 1005 Umiditate (%) = 33 Index UV = 0.47 Viteza vântului = 4.12 Unghiul vântului = 160 Stare = nori 25-50%']
+Moldova_Noua: 18 \ joi \ 06:5:2021 \ 19:08:02
+[' Răsarit = 06:16:10 Apus = 20:43:40 Min (°C) = 8.31 Max (°C) =18.33 Presiune = 1000 Umiditate (%) = 44 Index UV = 0.53 Viteza vântului = 0.89 Unghiul vântului = 68 Stare = nori 25-50%']
+Moldova_Noua: 18 \ vineri \ 07:5:2021 \ 19:07:27
+[' Răsarit = 06:14:51 Apus = 20:44:53 Min (°C) = 9.45 Max (°C) =22.55 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.52 Viteza vântului = 5.66 Unghiul vântului = 0 Stare = cer senin']
+Moldova_Noua: 18 \ sâmbătă \ 08:5:2021 \ 19:07:54
+[' Răsarit = 06:13:33 Apus = 20:46:06 Min (°C) = 7.8 Max (°C) =16.67 Presiune = 1007 Umiditate (%) = 38 Index UV = 0.58 Viteza vântului = 0.89 Unghiul vântului = 296 Stare = nori 25-50%']
+Moldova_Noua: 18 \ duminică \ 09:5:2021 \ 19:07:44
+[' Răsarit = 06:12:16 Apus = 20:47:18 Min (°C) = 3.91 Max (°C) =21 Presiune = 1021 Umiditate (%) = 32 Index UV = 0.63 Viteza vântului = 6.17 Unghiul vântului = 150 Stare = cer senin']
+Moldova_Noua: 19 \ luni \ 10:5:2021 \ 19:07:43
+[' Răsarit = 06:11:01 Apus = 20:48:30 Min (°C) = 9.88 Max (°C) =24 Presiune = 1016 Umiditate (%) = 33 Index UV = 0.65 Viteza vântului = 9.26 Unghiul vântului = 150 Stare = cer senin']
+Moldova_Noua: 19 \ marți \ 11:5:2021 \ 19:08:15
+[' Răsarit = 06:09:47 Apus = 20:49:42 Min (°C) = 10.57 Max (°C) =25 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.65 Viteza vântului = 9.77 Unghiul vântului = 150 Stare = cer senin']
+Moldova_Noua: 19 \ miercuri \ 12:5:2021 \ 19:07:42
+[' Răsarit = 06:08:36 Apus = 20:50:53 Min (°C) = 12.27 Max (°C) =22.21 Presiune = 1005 Umiditate (%) = 61 Index UV = 0.26 Viteza vântului = 2.49 Unghiul vântului = 154 Stare = ploaie ușoară']
+Moldova_Noua: 19 \ joi \ 13:5:2021 \ 19:08:22
+[' Răsarit = 06:07:25 Apus = 20:52:04 Min (°C) = 9.21 Max (°C) =17.67 Presiune = 1006 Umiditate (%) = 94 Index UV = 0.48 Viteza vântului = 0.99 Unghiul vântului = 175 Stare = nori 85-100%']
+Moldova_Noua: 19 \ vineri \ 14:5:2021 \ 19:08:10
+[' Răsarit = 06:06:17 Apus = 20:53:13 Min (°C) = 10.94 Max (°C) =21 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.64 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = nori 25-50%']
+Moldova_Noua: 19 \ sâmbătă \ 15:5:2021 \ 19:07:58
+[' Răsarit = 06:05:10 Apus = 20:54:23 Min (°C) = 9.29 Max (°C) =22.6 Presiune = 993 Umiditate (%) = 56 Index UV = 0.62 Viteza vântului = 0.89 Unghiul vântului = 188 Stare = nori 85-100%']
+Moldova_Noua: 19 \ duminică \ 16:5:2021 \ 19:08:29
+[' Răsarit = 06:04:05 Apus = 20:55:31 Min (°C) = 10.43 Max (°C) =20 Presiune = 1009 Umiditate (%) = 56 Index UV = 0.66 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = nori 10-25%']
+Moldova_Noua: 20 \ luni \ 17:5:2021 \ 19:08:38
+[' Răsarit = 06:03:01 Apus = 20:56:39 Min (°C) = 9.98 Max (°C) =15.71 Presiune = 993 Umiditate (%) = 87 Index UV = 0.21 Viteza vântului = 0.89 Unghiul vântului = 302 Stare = ploaie intensă']
+Moldova_Noua: 20 \ marți \ 18:5:2021 \ 19:08:25
+[' Răsarit = 06:02:00 Apus = 20:57:46 Min (°C) = 9.17 Max (°C) =20.41 Presiune = 1012 Umiditate (%) = 67 Index UV = 0.67 Viteza vântului = 5.46 Unghiul vântului = 322 Stare = nori 25-50%']
+Moldova_Noua: 20 \ miercuri \ 19:5:2021 \ 19:07:39
+[' Răsarit = 06:01:00 Apus = 20:58:53 Min (°C) = 8.23 Max (°C) =20.52 Presiune = 1006 Umiditate (%) = 81 Index UV = 0.18 Viteza vântului = 3.15 Unghiul vântului = 322 Stare = ploaie moderată']
+Moldova_Noua: 20 \ joi \ 20:5:2021 \ 19:08:00
+[' Răsarit = 06:00:02 Apus = 20:59:58 Min (°C) = 9.08 Max (°C) =13.35 Presiune = 1012 Umiditate (%) = 98 Index UV = 0.55 Viteza vântului = 1.88 Unghiul vântului = 233 Stare = ploaie ușoară']
+Moldova_Noua: 20 \ vineri \ 21:5:2021 \ 19:08:40
+[' Răsarit = 05:59:06 Apus = 21:01:03 Min (°C) = 8.98 Max (°C) =21.68 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.74 Viteza vântului = 1.81 Unghiul vântului = 326 Stare = nori 10-25%']
+Moldova_Noua: 20 \ sâmbătă \ 22:5:2021 \ 19:08:08
+[' Răsarit = 05:58:12 Apus = 21:02:06 Min (°C) = 9.42 Max (°C) =23.77 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.75 Viteza vântului = 1.12 Unghiul vântului = 158 Stare = nori 50-85%']
+Moldova_Noua: 20 \ duminică \ 23:5:2021 \ 19:08:43
+[' Răsarit = 05:57:20 Apus = 21:03:09 Min (°C) = 12.08 Max (°C) =27.41 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.81 Viteza vântului = 0.89 Unghiul vântului = 162 Stare = nori 50-85%']
+Moldova_Noua: 21 \ luni \ 24:5:2021 \ 19:07:36
+[' Răsarit = 05:56:30 Apus = 21:04:11 Min (°C) = 11.62 Max (°C) =22.6 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.83 Viteza vântului = 2.96 Unghiul vântului = 109 Stare = nori 85-100%']
+Moldova_Noua: 21 \ marți \ 25:5:2021 \ 19:07:41
+[' Răsarit = 05:55:42 Apus = 21:05:11 Min (°C) = 14.89 Max (°C) =25.41 Presiune = 1015 Umiditate (%) = 76 Index UV = 0.8 Viteza vântului = 4.49 Unghiul vântului = 107 Stare = cer senin']
+Moldova_Noua: 21 \ miercuri \ 26:5:2021 \ 19:09:01
+[' Răsarit = 05:54:55 Apus = 21:06:10 Min (°C) = 11 Max (°C) =21.41 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.78 Viteza vântului = 2.33 Unghiul vântului = 321 Stare = nori 50-85%']
+Moldova_Noua: 21 \ joi \ 27:5:2021 \ 19:07:44
+[' Răsarit = 05:54:11 Apus = 21:07:09 Min (°C) = 11.48 Max (°C) =22.41 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.53 Viteza vântului = 1.34 Unghiul vântului = 7 Stare = ploaie ușoară']
+Moldova_Noua: 21 \ vineri \ 28:5:2021 \ 19:08:03
+[' Răsarit = 05:53:29 Apus = 21:08:05 Min (°C) = 12.71 Max (°C) =20.41 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.23 Viteza vântului = 3.43 Unghiul vântului = 300 Stare = nori 85-100%']
+Moldova_Noua: 21 \ sâmbătă \ 29:5:2021 \ 19:07:38
+[' Răsarit = 05:52:49 Apus = 21:09:01 Min (°C) = 10.17 Max (°C) =21.13 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.66 Viteza vântului = 4.59 Unghiul vântului = 320 Stare = nori 85-100%']
+Moldova_Noua: 21 \ duminică \ 30:5:2021 \ 19:07:21
+[' Răsarit = 05:52:11 Apus = 21:09:55 Min (°C) = 7.7 Max (°C) =18.57 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.73 Viteza vântului = 3.75 Unghiul vântului = 335 Stare = nori 50-85%']
+Moldova_Noua: 22 \ marți \ 01:6:2021 \ 19:08:06
+[' Răsarit = 05:51:02 Apus = 21:11:39 Min (°C) = 8.59 Max (°C) =15.19 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.74 Viteza vântului = 2.84 Unghiul vântului = 322 Stare = nori 85-100%']
+Moldova_Noua: 22 \ miercuri \ 02:6:2021 \ 19:06:43
+[' Răsarit = 05:50:31 Apus = 21:12:29 Min (°C) = 8.26 Max (°C) =20.57 Presiune = 1019 Umiditate (%) = 58 Index UV = 0.77 Viteza vântului = 3.36 Unghiul vântului = 332 Stare = nori 50-85%']
+Moldova_Noua: 22 \ joi \ 03:6:2021 \ 19:07:11
+[' Răsarit = 05:50:01 Apus = 21:13:17 Min (°C) = 8.38 Max (°C) =21.68 Presiune = 1022 Umiditate (%) = 60 Index UV = 0.58 Viteza vântului = 3.04 Unghiul vântului = 344 Stare = nori 85-100%']
+Moldova_Noua: 22 \ vineri \ 04:6:2021 \ 19:12:39
+[' Răsarit = 05:49:34 Apus = 21:14:04 Min (°C) = 11.95 Max (°C) =24.41 Presiune = 1022 Umiditate (%) = 53 Index UV = 0.77 Viteza vântului = 2.88 Unghiul vântului = 354 Stare = nori 25-50%']
+Moldova_Noua: 22 \ sâmbătă \ 05:6:2021 \ 19:08:26
+[' Răsarit = 05:49:10 Apus = 21:14:49 Min (°C) = 10.85 Max (°C) =25.41 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.89 Viteza vântului = 1.27 Unghiul vântului = 297 Stare = nori 10-25%']
+Moldova_Noua: 22 \ duminică \ 06:6:2021 \ 19:08:03
+[' Răsarit = 05:48:47 Apus = 21:15:33 Min (°C) = 12.82 Max (°C) =25.29 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.59 Viteza vântului = 2.62 Unghiul vântului = 336 Stare = nori 85-100%']
+Moldova_Noua: 23 \ luni \ 07:6:2021 \ 19:08:06
+[' Răsarit = 05:48:27 Apus = 21:16:14 Min (°C) = 12.2 Max (°C) =26.41 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.89 Viteza vântului = 2.87 Unghiul vântului = 341 Stare = nori 25-50%']
+Moldova_Noua: 23 \ marți \ 08:6:2021 \ 19:07:59
+[' Răsarit = 05:48:09 Apus = 21:16:54 Min (°C) = 12.57 Max (°C) =27.41 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.88 Viteza vântului = 3.94 Unghiul vântului = 350 Stare = nori 25-50%']
+Moldova_Noua: 23 \ miercuri \ 09:6:2021 \ 19:08:17
+[' Răsarit = 05:47:53 Apus = 21:17:32 Min (°C) = 12.8 Max (°C) =28.41 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.88 Viteza vântului = 3.12 Unghiul vântului = 18 Stare = nori 10-25%']
+Moldova_Noua: 23 \ joi \ 10:6:2021 \ 19:07:47
+[' Răsarit = 05:47:39 Apus = 21:18:08 Min (°C) = 13.29 Max (°C) =26.16 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.68 Viteza vântului = 4.93 Unghiul vântului = 345 Stare = nori 85-100%']
+Moldova_Noua: 23 \ vineri \ 11:6:2021 \ 19:07:43
+[' Răsarit = 05:47:28 Apus = 21:18:43 Min (°C) = 12.35 Max (°C) =24.61 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.5 Viteza vântului = 3.13 Unghiul vântului = 325 Stare = nori 50-85%']
+Moldova_Noua: 23 \ sâmbătă \ 12:6:2021 \ 19:07:47
+[' Răsarit = 05:47:19 Apus = 21:19:15 Min (°C) = 11.99 Max (°C) =24.21 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.48 Viteza vântului = 4.23 Unghiul vântului = 294 Stare = nori 10-25%']
+Moldova_Noua: 23 \ duminică \ 13:6:2021 \ 19:12:59
+[' Răsarit = 05:47:12 Apus = 21:19:45 Min (°C) = 14.22 Max (°C) =21.41 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.48 Viteza vântului = 4.44 Unghiul vântului = 342 Stare = nori 25-50%']
+Moldova_Noua: 24 \ luni \ 14:6:2021 \ 19:07:50
+[' Răsarit = 05:47:08 Apus = 21:20:13 Min (°C) = 10.46 Max (°C) =18.9 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.76 Viteza vântului = 5.59 Unghiul vântului = 336 Stare = nori 50-85%']
+Moldova_Noua: 24 \ marți \ 15:6:2021 \ 19:09:41
+[' Răsarit = 05:47:05 Apus = 21:20:40 Min (°C) = 7.72 Max (°C) =24.46 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.79 Viteza vântului = 5.04 Unghiul vântului = 333 Stare = nori 50-85%']
+Moldova_Noua: 24 \ miercuri \ 16:6:2021 \ 19:08:38
+[' Răsarit = 05:47:05 Apus = 21:21:04 Min (°C) = 12.83 Max (°C) =27.41 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.92 Viteza vântului = 3.39 Unghiul vântului = 318 Stare = nori 85-100%']
+Moldova_Noua: 24 \ joi \ 17:6:2021 \ 19:08:03
+[' Răsarit = 05:47:08 Apus = 21:21:26 Min (°C) = 14.55 Max (°C) =28.9 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.65 Viteza vântului = 0.97 Unghiul vântului = 356 Stare = nori 50-85%']
+Moldova_Noua: 24 \ vineri \ 18:6:2021 \ 19:08:35
+[' Răsarit = 05:47:12 Apus = 21:21:46 Min (°C) = 15.39 Max (°C) =29.41 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.9 Viteza vântului = 2.68 Unghiul vântului = 314 Stare = nori 85-100%']
+Moldova_Noua: 24 \ sâmbătă \ 19:6:2021 \ 19:07:37
+[' Răsarit = 05:47:19 Apus = 21:22:04 Min (°C) = 15.88 Max (°C) =29.41 Presiune = 1011 Umiditate (%) = 48 Index UV = 0.93 Viteza vântului = 3.39 Unghiul vântului = 340 Stare = nori 10-25%']
+Moldova_Noua: 24 \ duminică \ 20:6:2021 \ 19:08:31
+[' Răsarit = 05:47:28 Apus = 21:22:19 Min (°C) = 15.2 Max (°C) =30.57 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.95 Viteza vântului = 2.85 Unghiul vântului = 345 Stare = nori 10-25%']
+Moldova_Noua: 25 \ luni \ 21:6:2021 \ 19:08:58
+[' Răsarit = 05:47:39 Apus = 21:22:33 Min (°C) = 16.94 Max (°C) =31.22 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.94 Viteza vântului = 1.72 Unghiul vântului = 325 Stare = nori 10-25%']
+Moldova_Noua: 25 \ marți \ 22:6:2021 \ 19:08:43
+[' Răsarit = 05:47:52 Apus = 21:22:44 Min (°C) = 18.64 Max (°C) =35.57 Presiune = 1011 Umiditate (%) = 44 Index UV = 1.01 Viteza vântului = 1.54 Unghiul vântului = 354 Stare = cer senin']
+Moldova_Noua: 25 \ miercuri \ 23:6:2021 \ 19:08:16
+[' Răsarit = 05:48:07 Apus = 21:22:53 Min (°C) = 20.96 Max (°C) =36.13 Presiune = 1014 Umiditate (%) = 31 Index UV = 1.01 Viteza vântului = 2.76 Unghiul vântului = 345 Stare = cer senin']
+Moldova_Noua: 25 \ joi \ 24:6:2021 \ 19:08:41
+[' Răsarit = 05:48:25 Apus = 21:22:59 Min (°C) = 20.89 Max (°C) =37.7 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.99 Viteza vântului = 2.02 Unghiul vântului = 224 Stare = nori 25-50%']
+Moldova_Noua: 25 \ vineri \ 25:6:2021 \ 19:08:17
+[' Răsarit = 05:48:44 Apus = 21:23:03 Min (°C) = 18.83 Max (°C) =36.4 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.63 Viteza vântului = 5.84 Unghiul vântului = 295 Stare = ploaie ușoară']
+Moldova_Noua: 25 \ sâmbătă \ 26:6:2021 \ 19:07:46
+[' Răsarit = 05:49:06 Apus = 21:23:05 Min (°C) = 18.74 Max (°C) =30.57 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.93 Viteza vântului = 3.12 Unghiul vântului = 330 Stare = nori 25-50%']
+Moldova_Noua: 25 \ duminică \ 27:6:2021 \ 19:07:44
+[' Răsarit = 05:49:30 Apus = 21:23:05 Min (°C) = 16.6 Max (°C) =31.68 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.93 Viteza vântului = 4.08 Unghiul vântului = 306 Stare = cer senin']
+Moldova_Noua: 26 \ luni \ 28:6:2021 \ 19:08:59
+[' Răsarit = 05:49:55 Apus = 21:23:03 Min (°C) = 17.09 Max (°C) =33.9 Presiune = 1015 Umiditate (%) = 29 Index UV = 0.95 Viteza vântului = 2.6 Unghiul vântului = 359 Stare = cer senin']
+Moldova_Noua: 26 \ marți \ 29:6:2021 \ 19:08:46
+[' Răsarit = 05:50:23 Apus = 21:22:58 Min (°C) = 18.31 Max (°C) =35.4 Presiune = 1010 Umiditate (%) = 29 Index UV = 0.98 Viteza vântului = 2.8 Unghiul vântului = 112 Stare = cer senin']
+Moldova_Noua: 26 \ miercuri \ 30:6:2021 \ 19:08:14
+[' Răsarit = 05:50:53 Apus = 21:22:51 Min (°C) = 20.67 Max (°C) =37.32 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.93 Viteza vântului = 2.7 Unghiul vântului = 334 Stare = nori 50-85%']
+Moldova_Noua: 26 \ joi \ 01:7:2021 \ 19:09:06
+[' Răsarit = 05:51:24 Apus = 21:22:41 Min (°C) = 19.09 Max (°C) =30.95 Presiune = 1009 Umiditate (%) = 32 Index UV = 0.87 Viteza vântului = 4.35 Unghiul vântului = 332 Stare = cer senin']
+Moldova_Noua: 26 \ vineri \ 02:7:2021 \ 19:07:53
+[' Răsarit = 05:51:58 Apus = 21:22:29 Min (°C) = 14.57 Max (°C) =26.83 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.62 Viteza vântului = 6.37 Unghiul vântului = 306 Stare = nori 50-85%']
+Moldova_Noua: 26 \ sâmbătă \ 03:7:2021 \ 19:08:00
+[' Răsarit = 05:52:33 Apus = 21:22:15 Min (°C) = 13.62 Max (°C) =23.42 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.47 Viteza vântului = 1.66 Unghiul vântului = 293 Stare = ploaie ușoară']
+Moldova_Noua: 26 \ duminică \ 04:7:2021 \ 19:07:54
+[' Răsarit = 05:53:10 Apus = 21:21:59 Min (°C) = 12.92 Max (°C) =28.62 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.64 Viteza vântului = 2.27 Unghiul vântului = 319 Stare = nori 50-85%']
+Moldova_Noua: 27 \ luni \ 05:7:2021 \ 19:08:17
+[' Răsarit = 05:53:49 Apus = 21:21:40 Min (°C) = 16.31 Max (°C) =31.13 Presiune = 1009 Umiditate (%) = 36 Index UV = 0.65 Viteza vântului = 3.01 Unghiul vântului = 333 Stare = nori 50-85%']
+Moldova_Noua: 27 \ marți \ 06:7:2021 \ 19:08:29
+[' Răsarit = 05:54:29 Apus = 21:21:19 Min (°C) = 15.76 Max (°C) =32.72 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.95 Viteza vântului = 3.73 Unghiul vântului = 328 Stare = nori 25-50%']
+Moldova_Noua: 27 \ miercuri \ 07:7:2021 \ 19:07:52
+[' Răsarit = 05:55:11 Apus = 21:20:55 Min (°C) = 17.98 Max (°C) =35.83 Presiune = 1013 Umiditate (%) = 25 Index UV = 0.95 Viteza vântului = 2.42 Unghiul vântului = 327 Stare = cer senin']
+Moldova_Noua: 27 \ joi \ 08:7:2021 \ 19:08:18
+[' Răsarit = 05:55:55 Apus = 21:20:30 Min (°C) = 19.81 Max (°C) =35.64 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.7 Viteza vântului = 5.11 Unghiul vântului = 120 Stare = cer senin']
+Moldova_Noua: 27 \ vineri \ 09:7:2021 \ 19:08:24
+[' Răsarit = 05:56:40 Apus = 21:20:02 Min (°C) = 22.58 Max (°C) =33.52 Presiune = 1014 Umiditate (%) = 33 Index UV = 0.9 Viteza vântului = 5.95 Unghiul vântului = 124 Stare = cer senin']
+Moldova_Noua: 27 \ sâmbătă \ 10:7:2021 \ 19:07:40
+[' Răsarit = 05:57:27 Apus = 21:19:32 Min (°C) = 20.17 Max (°C) =32.81 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.89 Viteza vântului = 4.03 Unghiul vântului = 70 Stare = nori 50-85%']
+Moldova_Noua: 27 \ duminică \ 11:7:2021 \ 19:07:52
+[' Răsarit = 05:58:15 Apus = 21:19:00 Min (°C) = 17.34 Max (°C) =33.44 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.88 Viteza vântului = 5.15 Unghiul vântului = 115 Stare = nori 10-25%']
+Moldova_Noua: 28 \ luni \ 12:7:2021 \ 19:08:26
+[' Răsarit = 05:59:05 Apus = 21:18:25 Min (°C) = 17.56 Max (°C) =35.02 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.77 Viteza vântului = 3.39 Unghiul vântului = 106 Stare = cer senin']
+Moldova_Noua: 28 \ marți \ 13:7:2021 \ 19:08:44
+[' Răsarit = 05:59:56 Apus = 21:17:49 Min (°C) = 19.41 Max (°C) =36.22 Presiune = 1009 Umiditate (%) = 22 Index UV = 0.92 Viteza vântului = 4.45 Unghiul vântului = 109 Stare = cer senin']
+Moldova_Noua: 28 \ miercuri \ 14:7:2021 \ 19:08:07
+[' Răsarit = 06:00:48 Apus = 21:17:10 Min (°C) = 22.11 Max (°C) =36.64 Presiune = 1008 Umiditate (%) = 27 Index UV = 0.88 Viteza vântului = 8.89 Unghiul vântului = 116 Stare = cer senin']
+Moldova_Noua: 28 \ joi \ 15:7:2021 \ 19:08:33
+[' Răsarit = 06:01:42 Apus = 21:16:29 Min (°C) = 22.63 Max (°C) =35.55 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.48 Viteza vântului = 3.55 Unghiul vântului = 59 Stare = nori 50-85%']
+Moldova_Noua: 28 \ vineri \ 16:7:2021 \ 19:08:04
+[' Răsarit = 06:02:37 Apus = 21:15:46 Min (°C) = 17.73 Max (°C) =32.33 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.38 Viteza vântului = 5.9 Unghiul vântului = 233 Stare = ploaie moderată']
+Moldova_Noua: 28 \ sâmbătă \ 17:7:2021 \ 19:08:22
+[' Răsarit = 06:03:33 Apus = 21:15:00 Min (°C) = 17.28 Max (°C) =31.72 Presiune = 1007 Umiditate (%) = 48 Index UV = 0.61 Viteza vântului = 3.44 Unghiul vântului = 339 Stare = nori 85-100%']
+Moldova_Noua: 28 \ duminică \ 18:7:2021 \ 19:08:17
+[' Răsarit = 06:04:30 Apus = 21:14:13 Min (°C) = 17.31 Max (°C) =34.39 Presiune = 1004 Umiditate (%) = 41 Index UV = 0.48 Viteza vântului = 1.4 Unghiul vântului = 312 Stare = nori 85-100%']
+Moldova_Noua: 29 \ luni \ 19:7:2021 \ 19:08:25
+[' Răsarit = 06:05:28 Apus = 21:13:24 Min (°C) = 17.41 Max (°C) =28.57 Presiune = 1007 Umiditate (%) = 80 Index UV = 0.28 Viteza vântului = 2.14 Unghiul vântului = 305 Stare = ploaie moderată']
+Moldova_Noua: 29 \ marți \ 20:7:2021 \ 19:08:03
+[' Răsarit = 06:06:27 Apus = 21:12:33 Min (°C) = 18.06 Max (°C) =26.68 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.55 Viteza vântului = 3.88 Unghiul vântului = 323 Stare = nori 25-50%']
+Moldova_Noua: 29 \ miercuri \ 21:7:2021 \ 19:07:57
+[' Răsarit = 06:07:28 Apus = 21:11:39 Min (°C) = 12.75 Max (°C) =26.41 Presiune = 1018 Umiditate (%) = 65 Index UV = 0.38 Viteza vântului = 4.4 Unghiul vântului = 311 Stare = nori 50-85%']
+Moldova_Noua: 29 \ joi \ 22:7:2021 \ 19:07:38
+[' Răsarit = 06:08:29 Apus = 21:10:44 Min (°C) = 13.04 Max (°C) =28.35 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.76 Viteza vântului = 4.12 Unghiul vântului = 328 Stare = cer senin']
+Moldova_Noua: 29 \ vineri \ 23:7:2021 \ 19:08:06
+[' Răsarit = 06:09:31 Apus = 21:09:47 Min (°C) = 13.83 Max (°C) =29.37 Presiune = 1014 Umiditate (%) = 32 Index UV = 0.68 Viteza vântului = 3.21 Unghiul vântului = 328 Stare = nori 25-50%']
+Moldova_Noua: 29 \ sâmbătă \ 24:7:2021 \ 19:14:58
+[' Răsarit = 06:10:34 Apus = 21:08:48 Min (°C) = 15.21 Max (°C) =30.57 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.66 Viteza vântului = 0.72 Unghiul vântului = 172 Stare = nori 50-85%']
+Moldova_Noua: 29 \ duminică \ 25:7:2021 \ 19:08:04
+[' Răsarit = 06:11:37 Apus = 21:07:47 Min (°C) = 16.68 Max (°C) =31.55 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.73 Viteza vântului = 3.72 Unghiul vântului = 135 Stare = nori 10-25%']
+Moldova_Noua: 30 \ luni \ 26:7:2021 \ 19:08:21
+[' Răsarit = 06:12:42 Apus = 21:06:44 Min (°C) = 17.15 Max (°C) =33.63 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.53 Viteza vântului = 1.67 Unghiul vântului = 231 Stare = nori 50-85%']
+Moldova_Noua: 30 \ marți \ 27:7:2021 \ 19:09:07
+[' Răsarit = 06:13:47 Apus = 21:05:39 Min (°C) = 20.48 Max (°C) =37.62 Presiune = 1015 Umiditate (%) = 24 Index UV = 0.74 Viteza vântului = 2.44 Unghiul vântului = 294 Stare = nori 10-25%']
+Moldova_Noua: 30 \ miercuri \ 28:7:2021 \ 19:10:32
+[' Răsarit = 06:14:52 Apus = 21:04:33 Min (°C) = 20.44 Max (°C) =38.85 Presiune = 1011 Umiditate (%) = 22 Index UV = 0.73 Viteza vântului = 4.01 Unghiul vântului = 210 Stare = nori 25-50%']
+Moldova_Noua: 30 \ joi \ 29:7:2021 \ 19:08:48
+[' Răsarit = 06:15:59 Apus = 21:03:25 Min (°C) = 21.2 Max (°C) =34.93 Presiune = 1011 Umiditate (%) = 33 Index UV = 0.71 Viteza vântului = 2.93 Unghiul vântului = 349 Stare = cer senin']
+Moldova_Noua: 30 \ vineri \ 30:7:2021 \ 19:07:46
+[' Răsarit = 06:17:05 Apus = 21:02:15 Min (°C) = 19.22 Max (°C) =35.18 Presiune = 1008 Umiditate (%) = 25 Index UV = 0.72 Viteza vântului = 1.96 Unghiul vântului = 307 Stare = cer senin']
+Moldova_Noua: 30 \ sâmbătă \ 31:7:2021 \ 19:07:42
+[' Răsarit = 06:18:13 Apus = 21:01:03 Min (°C) = 20.82 Max (°C) =36.73 Presiune = 1007 Umiditate (%) = 21 Index UV = 0.59 Viteza vântului = 3.7 Unghiul vântului = 317 Stare = nori 25-50%']
+Moldova_Noua: 30 \ duminică \ 01:8:2021 \ 19:07:59
+[' Răsarit = 06:19:21 Apus = 20:59:50 Min (°C) = 20.22 Max (°C) =39.04 Presiune = 1004 Umiditate (%) = 16 Index UV = 0.36 Viteza vântului = 4.52 Unghiul vântului = 219 Stare = nori 25-50%']
+Moldova_Noua: 31 \ luni \ 02:8:2021 \ 19:07:35
+[' Răsarit = 06:20:29 Apus = 20:58:35 Min (°C) = 20.5 Max (°C) =30.85 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.67 Viteza vântului = 3.77 Unghiul vântului = 338 Stare = cer senin']
+Moldova_Noua: 31 \ marți \ 03:8:2021 \ 19:07:51
+[' Răsarit = 06:21:38 Apus = 20:57:19 Min (°C) = 15.57 Max (°C) =31.76 Presiune = 1012 Umiditate (%) = 26 Index UV = 0.61 Viteza vântului = 0.75 Unghiul vântului = 281 Stare = nori 50-85%']
+Moldova_Noua: 31 \ miercuri \ 04:8:2021 \ 19:09:08
+[' Răsarit = 06:22:47 Apus = 20:56:01 Min (°C) = 17.98 Max (°C) =32.91 Presiune = 1012 Umiditate (%) = 20 Index UV = 0.6 Viteza vântului = 2.49 Unghiul vântului = 305 Stare = nori 50-85%']
+Moldova_Noua: 31 \ joi \ 05:8:2021 \ 19:06:39
+[' Răsarit = 06:23:56 Apus = 20:54:41 Min (°C) = 19.85 Max (°C) =32.99 Presiune = 1005 Umiditate (%) = 61 Index UV = 0.53 Viteza vântului = 2.02 Unghiul vântului = 341 Stare = nori 50-85%']
+Moldova_Noua: 31 \ vineri \ 06:8:2021 \ 19:07:59
+[' Răsarit = 06:25:06 Apus = 20:53:20 Min (°C) = 15.31 Max (°C) =27.72 Presiune = 1006 Umiditate (%) = 30 Index UV = 0.52 Viteza vântului = 5.1 Unghiul vântului = 321 Stare = nori 50-85%']
+Moldova_Noua: 31 \ sâmbătă \ 07:8:2021 \ 19:07:27
+[' Răsarit = 06:26:16 Apus = 20:51:58 Min (°C) = 14.16 Max (°C) =32.24 Presiune = 1010 Umiditate (%) = 26 Index UV = 0.61 Viteza vântului = 1.27 Unghiul vântului = 355 Stare = cer senin']
+Moldova_Noua: 31 \ duminică \ 08:8:2021 \ 19:07:43
+[' Răsarit = 06:27:26 Apus = 20:50:34 Min (°C) = 17.93 Max (°C) =36.27 Presiune = 1012 Umiditate (%) = 21 Index UV = 0.59 Viteza vântului = 4.35 Unghiul vântului = 96 Stare = cer senin']
+Moldova_Noua: 32 \ luni \ 09:8:2021 \ 19:08:36
+[' Răsarit = 06:28:37 Apus = 20:49:09 Min (°C) = 20.68 Max (°C) =36.15 Presiune = 1015 Umiditate (%) = 23 Index UV = 0.57 Viteza vântului = 4.42 Unghiul vântului = 339 Stare = cer senin']
+Moldova_Noua: 32 \ marți \ 10:8:2021 \ 19:08:25
+[' Răsarit = 06:29:47 Apus = 20:47:42 Min (°C) = 21.3 Max (°C) =34.42 Presiune = 1014 Umiditate (%) = 26 Index UV = 0.57 Viteza vântului = 2.18 Unghiul vântului = 318 Stare = cer senin']
+Moldova_Noua: 32 \ miercuri \ 11:8:2021 \ 19:06:26
+[' Răsarit = 06:30:58 Apus = 20:46:14 Min (°C) = 18.64 Max (°C) =35.42 Presiune = 1012 Umiditate (%) = 18 Index UV = 0.56 Viteza vântului = 5.12 Unghiul vântului = 4 Stare = cer senin']
+Moldova_Noua: 32 \ joi \ 12:8:2021 \ 19:07:26
+[' Răsarit = 06:32:09 Apus = 20:44:45 Min (°C) = 18.84 Max (°C) =32.27 Presiune = 1018 Umiditate (%) = 22 Index UV = 0.54 Viteza vântului = 4.79 Unghiul vântului = 342 Stare = cer senin']
+Moldova_Noua: 32 \ vineri \ 13:8:2021 \ 19:06:33
+[' Răsarit = 06:33:20 Apus = 20:43:15 Min (°C) = 16.7 Max (°C) =33.54 Presiune = 1019 Umiditate (%) = 23 Index UV = 0.53 Viteza vântului = 1.54 Unghiul vântului = 333 Stare = cer senin']
+Moldova_Noua: 32 \ sâmbătă \ 14:8:2021 \ 19:07:24
+[' Răsarit = 06:34:31 Apus = 20:41:43 Min (°C) = 17.59 Max (°C) =34.4 Presiune = 1017 Umiditate (%) = 23 Index UV = 0.52 Viteza vântului = 3.03 Unghiul vântului = 3 Stare = cer senin']
+Moldova_Noua: 32 \ duminică \ 15:8:2021 \ 19:06:44
+[' Răsarit = 06:35:43 Apus = 20:40:10 Min (°C) = 19.51 Max (°C) =36.18 Presiune = 1012 Umiditate (%) = 23 Index UV = 0.52 Viteza vântului = 1.36 Unghiul vântului = 327 Stare = nori 10-25%']
+Moldova_Noua: 33 \ luni \ 16:8:2021 \ 19:06:31
+[' Răsarit = 06:36:54 Apus = 20:38:36 Min (°C) = 21.21 Max (°C) =37.7 Presiune = 1008 Umiditate (%) = 17 Index UV = 0.5 Viteza vântului = 5.22 Unghiul vântului = 111 Stare = cer senin']
+Moldova_Noua: 33 \ marți \ 17:8:2021 \ 19:06:59
+[' Răsarit = 06:38:05 Apus = 20:37:01 Min (°C) = 21.06 Max (°C) =32.28 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.46 Viteza vântului = 6.17 Unghiul vântului = 335 Stare = nori 25-50%']
+Moldova_Noua: 33 \ miercuri \ 18:8:2021 \ 19:06:45
+[' Răsarit = 06:39:16 Apus = 20:35:24 Min (°C) = 11.39 Max (°C) =25.4 Presiune = 1013 Umiditate (%) = 27 Index UV = 0.38 Viteza vântului = 4.12 Unghiul vântului = 322 Stare = nori 50-85%']
+Moldova_Noua: 33 \ joi \ 19:8:2021 \ 19:06:30
+[' Răsarit = 06:40:28 Apus = 20:33:47 Min (°C) = 9.98 Max (°C) =27.3 Presiune = 1013 Umiditate (%) = 22 Index UV = 0.44 Viteza vântului = 3 Unghiul vântului = 331 Stare = cer senin']
+Moldova_Noua: 33 \ vineri \ 20:8:2021 \ 19:06:40
+[' Răsarit = 06:41:39 Apus = 20:32:08 Min (°C) = 11.75 Max (°C) =30.11 Presiune = 1014 Umiditate (%) = 22 Index UV = 0.44 Viteza vântului = 1.59 Unghiul vântului = 319 Stare = cer senin']
+Moldova_Noua: 33 \ sâmbătă \ 21:8:2021 \ 19:07:27
+[' Răsarit = 06:42:50 Apus = 20:30:29 Min (°C) = 14.65 Max (°C) =30.17 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.42 Viteza vântului = 3.31 Unghiul vântului = 346 Stare = cer senin']
+Moldova_Noua: 33 \ duminică \ 22:8:2021 \ 19:06:50
+[' Răsarit = 06:44:01 Apus = 20:28:48 Min (°C) = 15.38 Max (°C) =31.65 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.33 Viteza vântului = 1.51 Unghiul vântului = 325 Stare = nori 85-100%']
+Moldova_Noua: 34 \ luni \ 23:8:2021 \ 19:06:38
+[' Răsarit = 06:45:12 Apus = 20:27:07 Min (°C) = 16.92 Max (°C) =33.45 Presiune = 1012 Umiditate (%) = 21 Index UV = 0.4 Viteza vântului = 4.05 Unghiul vântului = 109 Stare = cer senin']
+Moldova_Noua: 34 \ marți \ 24:8:2021 \ 19:06:34
+[' Răsarit = 06:46:23 Apus = 20:25:25 Min (°C) = 13.64 Max (°C) =28.22 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.39 Viteza vântului = 3.85 Unghiul vântului = 340 Stare = nori 50-85%']
+Moldova_Noua: 34 \ miercuri \ 25:8:2021 \ 19:06:37
+[' Răsarit = 06:47:35 Apus = 20:23:42 Min (°C) = 13.35 Max (°C) =16.53 Presiune = 1015 Umiditate (%) = 88 Index UV = 0.1 Viteza vântului = 2.54 Unghiul vântului = 302 Stare = nori 85-100%']
+Moldova_Noua: 34 \ joi \ 26:8:2021 \ 19:07:33
+[' Răsarit = 06:48:45 Apus = 20:21:58 Min (°C) = 11.88 Max (°C) =24.7 Presiune = 1009 Umiditate (%) = 42 Index UV = 0.35 Viteza vântului = 2.54 Unghiul vântului = 329 Stare = nori 10-25%']
+Moldova_Noua: 34 \ vineri \ 27:8:2021 \ 19:08:13
+[' Răsarit = 06:49:56 Apus = 20:20:13 Min (°C) = 13.09 Max (°C) =21.35 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.14 Viteza vântului = 3.38 Unghiul vântului = 324 Stare = nori 85-100%']
+Moldova_Noua: 34 \ sâmbătă \ 28:8:2021 \ 19:09:06
+[' Răsarit = 06:51:07 Apus = 20:18:27 Min (°C) = 12.35 Max (°C) =22.1 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.28 Viteza vântului = 3.03 Unghiul vântului = 331 Stare = nori 85-100%']
+Moldova_Noua: 34 \ duminică \ 29:8:2021 \ 19:08:14
+[' Răsarit = 06:52:18 Apus = 20:16:41 Min (°C) = 13.63 Max (°C) =16.94 Presiune = 1012 Umiditate (%) = 95 Index UV = 0.08 Viteza vântului = 0.77 Unghiul vântului = 333 Stare = nori 85-100%']
+Moldova_Noua: 35 \ luni \ 30:8:2021 \ 19:08:13
+[' Răsarit = 06:53:28 Apus = 20:14:54 Min (°C) = 11.39 Max (°C) =22.62 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.29 Viteza vântului = 3.18 Unghiul vântului = 323 Stare = cer senin']
+Moldova_Noua: 35 \ marți \ 31:8:2021 \ 19:08:08
+[' Răsarit = 06:54:39 Apus = 20:13:06 Min (°C) = 11.19 Max (°C) =24.02 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.28 Viteza vântului = 1.13 Unghiul vântului = 290 Stare = nori 50-85%']
+Moldova_Noua: 35 \ miercuri \ 01:9:2021 \ 19:07:40
+[' Răsarit = 06:55:49 Apus = 20:11:18 Min (°C) = 11.46 Max (°C) =21.67 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.21 Viteza vântului = 4.8 Unghiul vântului = 312 Stare = nori 50-85%']
+Moldova_Noua: 35 \ joi \ 02:9:2021 \ 19:10:34
+[' Răsarit = 06:57:00 Apus = 20:09:28 Min (°C) = 10.53 Max (°C) =22.31 Presiune = 1021 Umiditate (%) = 48 Index UV = 0.25 Viteza vântului = 2.77 Unghiul vântului = 4 Stare = nori 50-85%']
+Moldova_Noua: 35 \ vineri \ 03:9:2021 \ 19:07:44
+[' Răsarit = 06:58:10 Apus = 20:07:39 Min (°C) = 9.72 Max (°C) =24.79 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.26 Viteza vântului = 3.02 Unghiul vântului = 327 Stare = nori 50-85%']
+Moldova_Noua: 35 \ sâmbătă \ 04:9:2021 \ 19:07:29
+[' Răsarit = 06:59:20 Apus = 20:05:49 Min (°C) = 11.19 Max (°C) =26.13 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.23 Viteza vântului = 2.04 Unghiul vântului = 322 Stare = cer senin']
+Moldova_Noua: 35 \ duminică \ 05:9:2021 \ 19:08:14
+[' Răsarit = 07:00:30 Apus = 20:03:58 Min (°C) = 13.28 Max (°C) =25.05 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.2 Viteza vântului = 2.58 Unghiul vântului = 55 Stare = nori 50-85%']
+Moldova_Noua: 36 \ luni \ 06:9:2021 \ 19:09:07
+[' Răsarit = 07:01:41 Apus = 20:02:07 Min (°C) = 14.61 Max (°C) =23.76 Presiune = 1023 Umiditate (%) = 40 Index UV = 0.05 Viteza vântului = 2.08 Unghiul vântului = 107 Stare = cer senin']
+Moldova_Noua: 36 \ marți \ 07:9:2021 \ 19:08:27
+[' Răsarit = 07:02:51 Apus = 20:00:15 Min (°C) = 11.62 Max (°C) =24.64 Presiune = 1023 Umiditate (%) = 32 Index UV = 0.21 Viteza vântului = 3.8 Unghiul vântului = 107 Stare = cer senin']
+Moldova_Noua: 36 \ miercuri \ 08:9:2021 \ 19:08:40
+[' Răsarit = 07:04:01 Apus = 19:58:23 Min (°C) = 11.01 Max (°C) =24.21 Presiune = 1021 Umiditate (%) = 32 Index UV = 0.19 Viteza vântului = 4.51 Unghiul vântului = 103 Stare = nori 50-85%']
+Moldova_Noua: 36 \ joi \ 09:9:2021 \ 19:08:48
+[' Răsarit = 07:05:11 Apus = 19:56:31 Min (°C) = 12.87 Max (°C) =24.24 Presiune = 1018 Umiditate (%) = 29 Index UV = 0.17 Viteza vântului = 4.43 Unghiul vântului = 110 Stare = nori 85-100%']
+Moldova_Noua: 36 \ vineri \ 10:9:2021 \ 19:09:30
+[' Răsarit = 07:06:21 Apus = 19:54:38 Min (°C) = 13.44 Max (°C) =27.41 Presiune = 1016 Umiditate (%) = 28 Index UV = 0.19 Viteza vântului = 2.28 Unghiul vântului = 121 Stare = nori 10-25%']
+Moldova_Noua: 36 \ sâmbătă \ 11:9:2021 \ 19:08:10
+[' Răsarit = 07:07:31 Apus = 19:52:45 Min (°C) = 12.71 Max (°C) =29.57 Presiune = 1014 Umiditate (%) = 26 Index UV = 0.18 Viteza vântului = 1.51 Unghiul vântului = 344 Stare = cer senin']
+Moldova_Noua: 36 \ duminică \ 12:9:2021 \ 19:07:54
+[' Răsarit = 07:08:40 Apus = 19:50:51 Min (°C) = 13.78 Max (°C) =28.69 Presiune = 1013 Umiditate (%) = 30 Index UV = 0.18 Viteza vântului = 1.72 Unghiul vântului = 329 Stare = cer senin']
+Moldova_Noua: 37 \ luni \ 13:9:2021 \ 19:08:13
+[' Răsarit = 07:09:50 Apus = 19:48:57 Min (°C) = 13.31 Max (°C) =28.46 Presiune = 1014 Umiditate (%) = 28 Index UV = 0.18 Viteza vântului = 2.08 Unghiul vântului = 347 Stare = cer senin']
+Moldova_Noua: 37 \ marți \ 14:9:2021 \ 19:09:31
+[' Răsarit = 07:11:00 Apus = 19:47:04 Min (°C) = 13.92 Max (°C) =29.28 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.15 Viteza vântului = 1.95 Unghiul vântului = 0 Stare = nori 50-85%']
+Moldova_Noua: 37 \ joi \ 16:9:2021 \ 19:08:09
+[' Răsarit = 07:13:20 Apus = 19:43:15 Min (°C) = 16.9 Max (°C) =29.75 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.14 Viteza vântului = 1.43 Unghiul vântului = 252 Stare = nori 85-100%']
+Moldova_Noua: 37 \ vineri \ 17:9:2021 \ 19:09:16
+[' Răsarit = 07:14:30 Apus = 19:41:21 Min (°C) = 18.67 Max (°C) =30.59 Presiune = 1010 Umiditate (%) = 83 Index UV = 0.11 Viteza vântului = 3.2 Unghiul vântului = 226 Stare = nori 85-100%']
+Moldova_Noua: 37 \ sâmbătă \ 18:9:2021 \ 19:09:55
+[' Răsarit = 07:15:41 Apus = 19:39:26 Min (°C) = 14.53 Max (°C) =22.26 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.13 Viteza vântului = 2.73 Unghiul vântului = 298 Stare = nori 50-85%']
+Moldova_Noua: 37 \ duminică \ 19:9:2021 \ 19:08:29
+[' Răsarit = 07:16:51 Apus = 19:37:32 Min (°C) = 11.19 Max (°C) =24.41 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.02 Viteza vântului = 1.22 Unghiul vântului = 346 Stare = nori 10-25%']
+Moldova_Noua: 38 \ luni \ 20:9:2021 \ 19:08:30
+[' Răsarit = 07:18:01 Apus = 19:35:37 Min (°C) = 11.12 Max (°C) =20.99 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.1 Viteza vântului = 5.19 Unghiul vântului = 316 Stare = nori 85-100%']
+Moldova_Noua: 38 \ marți \ 21:9:2021 \ 19:08:00
+[' Răsarit = 07:19:11 Apus = 19:33:42 Min (°C) = 8.25 Max (°C) =17.66 Presiune = 1023 Umiditate (%) = 40 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 306 Stare = nori 50-85%']
+Moldova_Noua: 38 \ miercuri \ 22:9:2021 \ 19:08:30
+[' Răsarit = 07:20:22 Apus = 19:31:48 Min (°C) = 6.94 Max (°C) =13.52 Presiune = 1021 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 288 Stare = nori 85-100%']
+Moldova_Noua: 38 \ joi \ 23:9:2021 \ 19:07:43
+[' Răsarit = 07:21:33 Apus = 19:29:53 Min (°C) = 6.83 Max (°C) =16.06 Presiune = 1021 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 318 Stare = cer senin']
+Moldova_Noua: 39 \ luni \ 27:9:2021 \ 19:07:58
+[' Răsarit = 07:26:17 Apus = 19:22:17 Min (°C) = 15.57 Max (°C) =26.63 Presiune = 1015 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 97 Stare = nori 10-25%']
+Moldova_Noua: 39 \ marți \ 28:9:2021 \ 19:09:04
+[' Răsarit = 07:27:29 Apus = 19:20:23 Min (°C) = 14.45 Max (°C) =18.13 Presiune = 1019 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 104 Stare = nori 85-100%']
+Moldova_Noua: 39 \ miercuri \ 29:9:2021 \ 19:09:29
+[' Răsarit = 07:28:41 Apus = 19:18:30 Min (°C) = 12.83 Max (°C) =16.67 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 107 Stare = nori 50-85%']
+Moldova_Noua: 39 \ joi \ 30:9:2021 \ 19:08:17
+[' Răsarit = 07:29:53 Apus = 19:16:37 Min (°C) = 12.23 Max (°C) =18.36 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 107 Stare = nori 85-100%']
+Moldova_Noua: 39 \ vineri \ 01:10:2021 \ 19:08:54
+[' Răsarit = 07:31:05 Apus = 19:14:44 Min (°C) = 13 Max (°C) =18.28 Presiune = 1025 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 114 Stare = nori 10-25%']
+Moldova_Noua: 39 \ sâmbătă \ 02:10:2021 \ 19:08:10
+[' Răsarit = 07:32:17 Apus = 19:12:52 Min (°C) = 9.51 Max (°C) =18.46 Presiune = 1022 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 5.56 Unghiul vântului = 119 Stare = cer senin']
+Moldova_Noua: 39 \ duminică \ 03:10:2021 \ 19:07:44
+[' Răsarit = 07:33:30 Apus = 19:11:00 Min (°C) = 8.46 Max (°C) =19.89 Presiune = 1021 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 5.37 Unghiul vântului = 116 Stare = cer senin']
+Moldova_Noua: 40 \ luni \ 04:10:2021 \ 19:11:57
+[' Răsarit = 07:34:43 Apus = 19:09:08 Min (°C) = 9.07 Max (°C) =21.56 Presiune = 1021 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 107 Stare = cer senin']
+Moldova_Noua: 40 \ marți \ 05:10:2021 \ 19:09:39
+[' Răsarit = 07:35:57 Apus = 19:07:17 Min (°C) = 10.64 Max (°C) =20.32 Presiune = 1019 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 10.27 Unghiul vântului = 112 Stare = cer senin']
+Moldova_Noua: 40 \ miercuri \ 06:10:2021 \ 19:08:02
+[' Răsarit = 07:37:11 Apus = 19:05:27 Min (°C) = 10.42 Max (°C) =17.34 Presiune = 1018 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 10.25 Unghiul vântului = 110 Stare = ploaie ușoară']
+Moldova_Noua: 40 \ joi \ 07:10:2021 \ 19:09:31
+[' Răsarit = 07:38:25 Apus = 19:03:37 Min (°C) = 10.82 Max (°C) =15.24 Presiune = 1020 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 10.14 Unghiul vântului = 104 Stare = ploaie ușoară']
+Moldova_Noua: 40 \ vineri \ 08:10:2021 \ 19:08:52
+[' Răsarit = 07:39:39 Apus = 19:01:48 Min (°C) = 7.74 Max (°C) =10.38 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 83 Stare = ploaie ușoară']
+Moldova_Noua: 40 \ sâmbătă \ 09:10:2021 \ 19:07:40
+[' Răsarit = 07:40:54 Apus = 18:59:59 Min (°C) = 5.87 Max (°C) =8.35 Presiune = 1026 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 4 Unghiul vântului = 89 Stare = nori 85-100%']
+Moldova_Noua: 40 \ duminică \ 10:10:2021 \ 19:08:45
+[' Răsarit = 07:42:09 Apus = 18:58:11 Min (°C) = 6.88 Max (°C) =9.95 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 8.73 Unghiul vântului = 103 Stare = ploaie ușoară']
+Moldova_Noua: 41 \ luni \ 11:10:2021 \ 19:08:20
+[' Răsarit = 07:43:24 Apus = 18:56:24 Min (°C) = 8.32 Max (°C) =10.7 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 27 Stare = nori 85-100%']
+Moldova_Noua: 41 \ marți \ 12:10:2021 \ 19:08:24
+[' Răsarit = 07:44:40 Apus = 18:54:37 Min (°C) = 8.12 Max (°C) =9.46 Presiune = 1015 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 271 Stare = nori 85-100%']
+Moldova_Noua: 41 \ miercuri \ 13:10:2021 \ 19:08:15
+[' Răsarit = 07:45:56 Apus = 18:52:51 Min (°C) = 5.34 Max (°C) =11.25 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 314 Stare = nori 85-100%']
+Moldova_Noua: 41 \ joi \ 14:10:2021 \ 19:08:00
+[' Răsarit = 07:47:12 Apus = 18:51:06 Min (°C) = 2.55 Max (°C) =8.41 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 329 Stare = nori 85-100%']
+Moldova_Noua: 41 \ vineri \ 15:10:2021 \ 19:08:02
+[' Răsarit = 07:48:29 Apus = 18:49:22 Min (°C) = 6.72 Max (°C) =9.09 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 51 Stare = nori 85-100%']
+Moldova_Noua: 41 \ sâmbătă \ 16:10:2021 \ 19:08:11
+[' Răsarit = 07:49:47 Apus = 18:47:39 Min (°C) = 7.63 Max (°C) =12.41 Presiune = 1020 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 208 Stare = nori 85-100%']
+Moldova_Noua: 41 \ duminică \ 17:10:2021 \ 19:07:25
+[' Răsarit = 07:51:04 Apus = 18:45:57 Min (°C) = 6.25 Max (°C) =14.65 Presiune = 1021 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 299 Stare = nori 50-85%']
+Moldova_Noua: 42 \ luni \ 18:10:2021 \ 19:07:16
+[' Răsarit = 07:52:22 Apus = 18:44:15 Min (°C) = 7.04 Max (°C) =15.89 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 327 Stare = nori 25-50%']
+Moldova_Noua: 42 \ marți \ 19:10:2021 \ 19:08:45
+[' Răsarit = 07:53:40 Apus = 18:42:35 Min (°C) = 6.36 Max (°C) =15.33 Presiune = 1028 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.18 Unghiul vântului = 246 Stare = nori 85-100%']
+Moldova_Noua: 42 \ miercuri \ 20:10:2021 \ 19:07:03
+[' Răsarit = 07:54:59 Apus = 18:40:55 Min (°C) = 6.59 Max (°C) =17.79 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 106 Stare = cer senin']
+Moldova_Noua: 42 \ joi \ 21:10:2021 \ 19:08:08
+[' Răsarit = 07:56:18 Apus = 18:39:17 Min (°C) = 7.53 Max (°C) =19.55 Presiune = 1016 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 102 Stare = nori 85-100%']
+Moldova_Noua: 42 \ vineri \ 22:10:2021 \ 19:06:47
+[' Răsarit = 07:57:38 Apus = 18:37:39 Min (°C) = 11.47 Max (°C) =18.68 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 71 Stare = nori 85-100%']
+Moldova_Noua: 42 \ sâmbătă \ 23:10:2021 \ 19:08:02
+[' Răsarit = 07:58:57 Apus = 18:36:03 Min (°C) = 7.88 Max (°C) =13.42 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 324 Stare = nori 85-100%']
+Moldova_Noua: 42 \ duminică \ 24:10:2021 \ 19:07:41
+[' Răsarit = 08:00:17 Apus = 18:34:28 Min (°C) = 3.11 Max (°C) =11.69 Presiune = 1032 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 303 Stare = cer senin']
+Moldova_Noua: 43 \ luni \ 25:10:2021 \ 19:07:21
+[' Răsarit = 08:01:38 Apus = 18:32:54 Min (°C) = 4.38 Max (°C) =12.14 Presiune = 1027 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 6.74 Unghiul vântului = 110 Stare = cer senin']
+Moldova_Noua: 43 \ marți \ 26:10:2021 \ 19:06:52
+[' Răsarit = 08:02:58 Apus = 18:31:22 Min (°C) = 5.46 Max (°C) =11.85 Presiune = 1024 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 4.98 Unghiul vântului = 114 Stare = cer senin']
+Moldova_Noua: 43 \ miercuri \ 27:10:2021 \ 19:08:37
+[' Răsarit = 08:04:19 Apus = 18:29:50 Min (°C) = 2.92 Max (°C) =13.12 Presiune = 1027 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 328 Stare = nori 25-50%']
+Moldova_Noua: 43 \ joi \ 28:10:2021 \ 19:07:03
+[' Răsarit = 08:05:41 Apus = 18:28:20 Min (°C) = 3.55 Max (°C) =15.82 Presiune = 1025 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 111 Stare = nori 25-50%']
+Moldova_Noua: 43 \ vineri \ 29:10:2021 \ 19:07:30
+[' Răsarit = 08:07:02 Apus = 18:26:51 Min (°C) = 5.72 Max (°C) =15.44 Presiune = 1022 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 7.51 Unghiul vântului = 113 Stare = cer senin']
+Moldova_Noua: 43 \ sâmbătă \ 30:10:2021 \ 19:07:19
+[' Răsarit = 08:08:24 Apus = 18:25:24 Min (°C) = 9.55 Max (°C) =15.06 Presiune = 1021 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 8.08 Unghiul vântului = 118 Stare = cer senin']
+Moldova_Noua: 43 \ duminică \ 31:10:2021 \ 19:07:05
+[' Răsarit = 07:09:46 Apus = 17:23:58 Min (°C) = 8.36 Max (°C) =14.11 Presiune = 1019 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 5.32 Unghiul vântului = 116 Stare = cer senin']
+Moldova_Noua: 44 \ luni \ 01:11:2021 \ 19:07:18
+[' Răsarit = 07:11:08 Apus = 17:22:34 Min (°C) = 7.8 Max (°C) =14.34 Presiune = 1011 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 101 Stare = cer senin']
+Moldova_Noua: 44 \ marți \ 02:11:2021 \ 19:07:43
+[' Răsarit = 07:12:31 Apus = 17:21:11 Min (°C) = 7.57 Max (°C) =10.95 Presiune = 1008 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 116 Stare = nori 50-85%']
+Moldova_Noua: 44 \ miercuri \ 03:11:2021 \ 19:07:31
+[' Răsarit = 07:13:53 Apus = 17:19:49 Min (°C) = 7.86 Max (°C) =18.02 Presiune = 1012 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 109 Stare = nori 85-100%']
+Moldova_Noua: 44 \ joi \ 04:11:2021 \ 19:06:30
+[' Răsarit = 07:15:16 Apus = 17:18:29 Min (°C) = 11.18 Max (°C) =18.84 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.75 Unghiul vântului = 107 Stare = nori 85-100%']
+Moldova_Noua: 44 \ vineri \ 05:11:2021 \ 19:09:01
+[' Răsarit = 07:16:38 Apus = 17:17:11 Min (°C) = 10.57 Max (°C) =19.24 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 310 Stare = ploaie ușoară']
+Moldova_Noua: 44 \ sâmbătă \ 06:11:2021 \ 19:08:14
+[' Răsarit = 07:18:01 Apus = 17:15:54 Min (°C) = 7.77 Max (°C) =10.48 Presiune = 1029 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 286 Stare = nori 85-100%']
+Moldova_Noua: 44 \ duminică \ 07:11:2021 \ 19:08:04
+[' Răsarit = 07:19:24 Apus = 17:14:39 Min (°C) = 8.25 Max (°C) =15.76 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 105 Stare = nori 50-85%']
+Moldova_Noua: 45 \ luni \ 08:11:2021 \ 19:07:50
+[' Răsarit = 07:20:47 Apus = 17:13:26 Min (°C) = 8.02 Max (°C) =10.89 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 305 Stare = ploaie ușoară']
+Moldova_Noua: 45 \ marți \ 09:11:2021 \ 19:06:00
+[' Răsarit = 07:22:09 Apus = 17:12:14 Min (°C) = 4.4 Max (°C) =8.68 Presiune = 1034 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 50 Stare = nori 25-50%']
+Moldova_Noua: 45 \ miercuri \ 10:11:2021 \ 19:07:49
+[' Răsarit = 07:23:32 Apus = 17:11:05 Min (°C) = 3.81 Max (°C) =9.82 Presiune = 1033 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 6.76 Unghiul vântului = 108 Stare = nori 85-100%']
+Moldova_Noua: 45 \ joi \ 11:11:2021 \ 19:08:22
+[' Răsarit = 07:24:55 Apus = 17:09:57 Min (°C) = 2.75 Max (°C) =10.23 Presiune = 1026 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 105 Stare = nori 85-100%']
+Moldova_Noua: 45 \ vineri \ 12:11:2021 \ 19:07:44
+[' Răsarit = 07:26:17 Apus = 17:08:50 Min (°C) = 2.41 Max (°C) =12.67 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 101 Stare = nori 85-100%']
+Moldova_Noua: 45 \ sâmbătă \ 13:11:2021 \ 19:07:41
+[' Răsarit = 07:27:39 Apus = 17:07:46 Min (°C) = 3.86 Max (°C) =13.29 Presiune = 1020 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 104 Stare = nori 10-25%']
+Moldova_Noua: 45 \ duminică \ 14:11:2021 \ 19:09:01
+[' Răsarit = 07:29:01 Apus = 17:06:44 Min (°C) = 4.13 Max (°C) =11.54 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 99 Stare = nori 85-100%']
+Moldova_Noua: 46 \ luni \ 15:11:2021 \ 19:08:34
+[' Răsarit = 07:30:22 Apus = 17:05:44 Min (°C) = 5.04 Max (°C) =12.24 Presiune = 1026 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.37 Unghiul vântului = 107 Stare = nori 25-50%']
+Moldova_Noua: 46 \ marți \ 16:11:2021 \ 19:08:12
+[' Răsarit = 07:31:43 Apus = 17:04:45 Min (°C) = 6.02 Max (°C) =8.58 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 8.09 Unghiul vântului = 115 Stare = nori 50-85%']
+Moldova_Noua: 46 \ miercuri \ 17:11:2021 \ 19:08:21
+[' Răsarit = 07:33:04 Apus = 17:03:49 Min (°C) = 5.78 Max (°C) =9.57 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 100 Stare = nori 85-100%']
+Moldova_Noua: 46 \ joi \ 18:11:2021 \ 19:06:57
+[' Răsarit = 07:34:24 Apus = 17:02:55 Min (°C) = 4.62 Max (°C) =8.66 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 298 Stare = nori 85-100%']
+Moldova_Noua: 46 \ vineri \ 19:11:2021 \ 19:06:53
+[' Răsarit = 07:35:44 Apus = 17:02:02 Min (°C) = 2.72 Max (°C) =8.35 Presiune = 1027 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 305 Stare = nori 85-100%']
+Moldova_Noua: 46 \ sâmbătă \ 20:11:2021 \ 19:06:48
+[' Răsarit = 07:37:03 Apus = 17:01:12 Min (°C) = 5.79 Max (°C) =9.19 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 318 Stare = nori 85-100%']
+Moldova_Noua: 46 \ duminică \ 21:11:2021 \ 19:06:40
+[' Răsarit = 07:38:21 Apus = 17:00:25 Min (°C) = 4.23 Max (°C) =13.62 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 103 Stare = cer senin']
+Moldova_Noua: 47 \ luni \ 22:11:2021 \ 19:06:55
+[' Răsarit = 07:39:39 Apus = 16:59:39 Min (°C) = 6.22 Max (°C) =12.96 Presiune = 1015 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 341 Stare = ploaie ușoară']
+Moldova_Noua: 47 \ marți \ 23:11:2021 \ 19:06:49
+[' Răsarit = 07:40:56 Apus = 16:58:55 Min (°C) = 2.24 Max (°C) =7.93 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 312 Stare = nori 50-85%']
+Moldova_Noua: 47 \ miercuri \ 24:11:2021 \ 19:09:13
+[' Răsarit = 07:42:12 Apus = 16:58:14 Min (°C) = 0.19 Max (°C) =8.52 Presiune = 1024 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.6 Unghiul vântului = 103 Stare = cer senin']
+Moldova_Noua: 47 \ joi \ 25:11:2021 \ 19:06:36
+[' Răsarit = 07:43:28 Apus = 16:57:35 Min (°C) = 3.94 Max (°C) =8.7 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.44 Unghiul vântului = 105 Stare = cer senin']
+Moldova_Noua: 47 \ vineri \ 26:11:2021 \ 19:06:42
+[' Răsarit = 07:44:42 Apus = 16:56:59 Min (°C) = 2.86 Max (°C) =7.41 Presiune = 1001 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 4.4 Unghiul vântului = 111 Stare = nori 85-100%']
+Moldova_Noua: 47 \ sâmbătă \ 27:11:2021 \ 19:06:35
+[' Răsarit = 07:45:55 Apus = 16:56:25 Min (°C) = 3.35 Max (°C) =14.87 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 101 Stare = nori 85-100%']
+Moldova_Noua: 47 \ duminică \ 28:11:2021 \ 19:07:06
+[' Răsarit = 07:47:08 Apus = 16:55:53 Min (°C) = 7.43 Max (°C) =14.95 Presiune = 996 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 5.18 Unghiul vântului = 112 Stare = nori 85-100%']
+Moldova_Noua: 48 \ luni \ 29:11:2021 \ 19:07:38
+[' Răsarit = 07:48:19 Apus = 16:55:23 Min (°C) = 3.23 Max (°C) =10.73 Presiune = 1002 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 326 Stare = nori 85-100%']
+Moldova_Noua: 48 \ marți \ 30:11:2021 \ 19:07:01
+[' Răsarit = 07:49:29 Apus = 16:54:56 Min (°C) = -0.53 Max (°C) =1.98 Presiune = 1014 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 255 Stare = nori 85-100%']
+Moldova_Noua: 48 \ miercuri \ 01:12:2021 \ 19:07:07
+[' Răsarit = 07:50:37 Apus = 16:54:32 Min (°C) = -0.49 Max (°C) =7.66 Presiune = 1012 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 89 Stare = nori 25-50%']
+Moldova_Noua: 48 \ joi \ 02:12:2021 \ 19:06:43
+[' Răsarit = 07:51:45 Apus = 16:54:10 Min (°C) = 2.88 Max (°C) =12.41 Presiune = 1005 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 108 Stare = nori 50-85%']
+Moldova_Noua: 48 \ vineri \ 03:12:2021 \ 19:06:52
+[' Răsarit = 07:52:51 Apus = 16:53:50 Min (°C) = 2.08 Max (°C) =7.35 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 313 Stare = nori 85-100%']
+Moldova_Noua: 48 \ duminică \ 05:12:2021 \ 19:06:58
+[' Răsarit = 07:54:58 Apus = 16:53:19 Min (°C) = 2.2 Max (°C) =6.45 Presiune = 1007 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 101 Stare = ploaie ușoară']
+Moldova_Noua: 49 \ luni \ 06:12:2021 \ 19:06:47
+[' Răsarit = 07:56:00 Apus = 16:53:07 Min (°C) = 2.24 Max (°C) =4.44 Presiune = 1009 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 283 Stare = nori 85-100%']
+Moldova_Noua: 49 \ marți \ 07:12:2021 \ 19:06:50
+[' Răsarit = 07:57:00 Apus = 16:52:57 Min (°C) = 0.95 Max (°C) =3.13 Presiune = 1009 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.92 Unghiul vântului = 308 Stare = zăpadă slabă']
+Moldova_Noua: 49 \ miercuri \ 08:12:2021 \ 19:06:48
+[' Răsarit = 07:57:58 Apus = 16:52:50 Min (°C) = -2.53 Max (°C) =0.78 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 116 Stare = nori 85-100%']
+Moldova_Noua: 49 \ joi \ 09:12:2021 \ 19:06:54
+[' Răsarit = 07:58:54 Apus = 16:52:46 Min (°C) = -2.5 Max (°C) =5.71 Presiune = 1006 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 8.01 Unghiul vântului = 112 Stare = nori 85-100%']
+Moldova_Noua: 49 \ vineri \ 10:12:2021 \ 19:08:10
+[' Răsarit = 07:59:49 Apus = 16:52:44 Min (°C) = 3.41 Max (°C) =5.27 Presiune = 1005 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 106 Stare = nori 85-100%']
+Moldova_Noua: 49 \ sâmbătă \ 11:12:2021 \ 19:07:42
+[' Răsarit = 08:00:41 Apus = 16:52:45 Min (°C) = 2.8 Max (°C) =6.24 Presiune = 1008 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 358 Stare = nori 85-100%']
+Moldova_Noua: 49 \ duminică \ 12:12:2021 \ 19:07:44
+[' Răsarit = 08:01:32 Apus = 16:52:49 Min (°C) = 0.02 Max (°C) =5.01 Presiune = 1018 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 223 Stare = zăpadă slabă']
+Moldova_Noua: 50 \ luni \ 13:12:2021 \ 19:07:48
+[' Răsarit = 08:02:21 Apus = 16:52:55 Min (°C) = -0.01 Max (°C) =1.42 Presiune = 1026 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 283 Stare = nori 85-100%']
+Moldova_Noua: 50 \ marți \ 14:12:2021 \ 19:09:22
+[' Răsarit = 08:03:08 Apus = 16:53:03 Min (°C) = 0.51 Max (°C) =1.47 Presiune = 1028 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 277 Stare = nori 85-100%']
+Moldova_Noua: 50 \ miercuri \ 15:12:2021 \ 19:08:02
+[' Răsarit = 08:03:52 Apus = 16:53:15 Min (°C) = -0.54 Max (°C) =2.05 Presiune = 1031 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 285 Stare = nori 85-100%']
+Moldova_Noua: 50 \ joi \ 16:12:2021 \ 19:07:31
+[' Răsarit = 08:04:35 Apus = 16:53:28 Min (°C) = -0.13 Max (°C) =2.79 Presiune = 1029 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 297 Stare = nori 85-100%']
+Moldova_Noua: 50 \ vineri \ 17:12:2021 \ 19:09:06
+[' Răsarit = 08:05:15 Apus = 16:53:45 Min (°C) = 2.29 Max (°C) =3.9 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.41 Unghiul vântului = 324 Stare = nori 85-100%']
+Moldova_Noua: 50 \ sâmbătă \ 18:12:2021 \ 19:07:25
+[' Răsarit = 08:05:53 Apus = 16:54:04 Min (°C) = 0.84 Max (°C) =3.8 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.25 Unghiul vântului = 332 Stare = nori 85-100%']
+Moldova_Noua: 50 \ duminică \ 19:12:2021 \ 19:07:31
+[' Răsarit = 08:06:29 Apus = 16:54:25 Min (°C) = -0.6 Max (°C) =3.35 Presiune = 1016 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 280 Stare = nori 85-100%']
+Moldova_Noua: 51 \ luni \ 20:12:2021 \ 19:07:52
+[' Răsarit = 08:07:03 Apus = 16:54:49 Min (°C) = 0.32 Max (°C) =3.54 Presiune = 1019 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 290 Stare = nori 25-50%']
+Moldova_Noua: 51 \ marți \ 21:12:2021 \ 19:09:19
+[' Răsarit = 08:07:34 Apus = 16:55:15 Min (°C) = -2.89 Max (°C) =-0.05 Presiune = 1027 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 47 Stare = nori 50-85%']
+Moldova_Noua: 51 \ miercuri \ 22:12:2021 \ 19:07:50
+[' Răsarit = 08:08:03 Apus = 16:55:44 Min (°C) = -3.87 Max (°C) =1.11 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 328 Stare = nori 10-25%']
+Moldova_Noua: 51 \ joi \ 23:12:2021 \ 19:08:19
+[' Răsarit = 08:08:30 Apus = 16:56:15 Min (°C) = -3.78 Max (°C) =1.68 Presiune = 1023 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.15 Unghiul vântului = 111 Stare = nori 85-100%']
+Moldova_Noua: 51 \ vineri \ 24:12:2021 \ 19:07:51
+[' Răsarit = 08:08:54 Apus = 16:56:49 Min (°C) = -1.94 Max (°C) =11.41 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 173 Stare = nori 85-100%']
+Moldova_Noua: 51 \ sâmbătă \ 25:12:2021 \ 19:08:13
+[' Răsarit = 08:09:15 Apus = 16:57:25 Min (°C) = 5.24 Max (°C) =10.02 Presiune = 1010 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 125 Stare = ploaie ușoară']
+Moldova_Noua: 51 \ duminică \ 26:12:2021 \ 19:09:12
+[' Răsarit = 08:09:35 Apus = 16:58:03 Min (°C) = 3.35 Max (°C) =10.28 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 198 Stare = ploaie ușoară']
+Moldova_Noua: 52 \ luni \ 27:12:2021 \ 19:07:51
+[' Răsarit = 08:09:51 Apus = 16:58:44 Min (°C) = 1.68 Max (°C) =6.22 Presiune = 1013 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 145 Stare = ploaie ușoară']
+Moldova_Noua: 52 \ marți \ 28:12:2021 \ 19:08:12
+[' Răsarit = 08:10:06 Apus = 16:59:27 Min (°C) = 1.41 Max (°C) =7.22 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 101 Stare = nori 85-100%']
+Moldova_Noua: 52 \ miercuri \ 29:12:2021 \ 19:07:48
+[' Răsarit = 08:10:17 Apus = 17:00:12 Min (°C) = 2.59 Max (°C) =3.91 Presiune = 1013 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.27 Unghiul vântului = 150 Stare = nori 85-100%']
+Moldova_Noua: 52 \ joi \ 30:12:2021 \ 19:08:09
+[' Răsarit = 08:10:26 Apus = 17:00:59 Min (°C) = 3.35 Max (°C) =7.26 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 275 Stare = nori 85-100%']
+Moldova_Noua: 52 \ vineri \ 31:12:2021 \ 19:07:05
+[' Răsarit = 08:10:33 Apus = 17:01:49 Min (°C) = 2.28 Max (°C) =6.88 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 213 Stare = nori 50-85%']
+Moldova_Noua: 00 \ sâmbătă \ 01:1:2022 \ 19:07:47
+[' Răsarit = 08:10:37 Apus = 17:02:40 Min (°C) = 5.04 Max (°C) =8.06 Presiune = 1025 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 265 Stare = nori 85-100%']
+Moldova_Noua: 00 \ duminică \ 02:1:2022 \ 19:06:39
+[' Răsarit = 08:10:39 Apus = 17:03:33 Min (°C) = 6.13 Max (°C) =11.24 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 96 Stare = nori 25-50%']
+Moldova_Noua: 01 \ luni \ 03:1:2022 \ 19:06:28
+[' Răsarit = 08:10:38 Apus = 17:04:29 Min (°C) = 5.99 Max (°C) =11.51 Presiune = 1018 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 270 Stare = nori 85-100%']
+Moldova_Noua: 01 \ marți \ 04:1:2022 \ 19:06:29
+[' Răsarit = 08:10:34 Apus = 17:05:26 Min (°C) = 5.13 Max (°C) =11.92 Presiune = 1011 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 130 Stare = nori 50-85%']
+Moldova_Noua: 01 \ miercuri \ 05:1:2022 \ 19:07:11
+[' Răsarit = 08:10:28 Apus = 17:06:25 Min (°C) = 6.17 Max (°C) =14.41 Presiune = 1005 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 119 Stare = cer senin']
+Moldova_Noua: 01 \ joi \ 06:1:2022 \ 19:06:39
+[' Răsarit = 08:10:20 Apus = 17:07:26 Min (°C) = 2.49 Max (°C) =8.68 Presiune = 1018 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 281 Stare = nori 85-100%']
+Moldova_Noua: 01 \ vineri \ 07:1:2022 \ 19:07:42
+[' Răsarit = 08:10:09 Apus = 17:08:28 Min (°C) = -0.1 Max (°C) =3.52 Presiune = 1020 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 85 Stare = nori 50-85%']
+Moldova_Noua: 01 \ sâmbătă \ 08:1:2022 \ 19:07:17
+[' Răsarit = 08:09:55 Apus = 17:09:33 Min (°C) = 0.02 Max (°C) =2.96 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 116 Stare = zăpadă slabă']
+Moldova_Noua: 01 \ duminică \ 09:1:2022 \ 19:06:48
+[' Răsarit = 08:09:39 Apus = 17:10:39 Min (°C) = -0.71 Max (°C) =2.21 Presiune = 1006 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 349 Stare = zăpadă slabă']
+Moldova_Noua: 02 \ luni \ 10:1:2022 \ 19:07:03
+[' Răsarit = 08:09:20 Apus = 17:11:46 Min (°C) = -2.76 Max (°C) =1.26 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 346 Stare = zăpadă slabă']
+Moldova_Noua: 02 \ marți \ 11:1:2022 \ 19:08:06
+[' Răsarit = 08:08:59 Apus = 17:12:55 Min (°C) = -2.33 Max (°C) =1.34 Presiune = 1026 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 238 Stare = zăpadă slabă']
+Moldova_Noua: 02 \ miercuri \ 12:1:2022 \ 19:06:49
+[' Răsarit = 08:08:36 Apus = 17:14:05 Min (°C) = -7.56 Max (°C) =-2.18 Presiune = 1035 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 285 Stare = zăpadă slabă']
+Moldova_Noua: 02 \ joi \ 13:1:2022 \ 19:07:39
+[' Răsarit = 08:08:10 Apus = 17:15:17 Min (°C) = -11.15 Max (°C) =-4.49 Presiune = 1039 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 269 Stare = nori 85-100%']
+Moldova_Noua: 02 \ vineri \ 14:1:2022 \ 19:07:06
+[' Răsarit = 08:07:41 Apus = 17:16:29 Min (°C) = -9.09 Max (°C) =0.64 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 295 Stare = cer senin']
+Moldova_Noua: 02 \ sâmbătă \ 15:1:2022 \ 19:06:49
+[' Răsarit = 08:07:11 Apus = 17:17:44 Min (°C) = -3.42 Max (°C) =0.43 Presiune = 1030 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 237 Stare = nori 50-85%']
+Moldova_Noua: 02 \ duminică \ 16:1:2022 \ 19:06:32
+[' Răsarit = 08:06:37 Apus = 17:18:59 Min (°C) = -3.67 Max (°C) =1.42 Presiune = 1026 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 90 Stare = nori 25-50%']
+Moldova_Noua: 03 \ luni \ 17:1:2022 \ 19:06:40
+[' Răsarit = 08:06:02 Apus = 17:20:15 Min (°C) = -5.93 Max (°C) =4.41 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.57 Unghiul vântului = 271 Stare = ploaie ușoară']
+Moldova_Noua: 03 \ marți \ 18:1:2022 \ 19:06:36
+[' Răsarit = 08:05:24 Apus = 17:21:33 Min (°C) = -4.87 Max (°C) =2.68 Presiune = 1033 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 287 Stare = nori 50-85%']
+Moldova_Noua: 03 \ miercuri \ 19:1:2022 \ 19:06:50
+[' Răsarit = 08:04:44 Apus = 17:22:51 Min (°C) = -4.04 Max (°C) =2.24 Presiune = 1029 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 162 Stare = cer senin']
+Moldova_Noua: 03 \ joi \ 20:1:2022 \ 19:06:54
+[' Răsarit = 08:04:02 Apus = 17:24:10 Min (°C) = -2.7 Max (°C) =4.11 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 188 Stare = zăpadă slabă']
+Moldova_Noua: 03 \ vineri \ 21:1:2022 \ 19:06:43
+[' Răsarit = 08:03:17 Apus = 17:25:30 Min (°C) = -3.17 Max (°C) =0.79 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 295 Stare = zăpadă slabă']
+Moldova_Noua: 03 \ sâmbătă \ 22:1:2022 \ 19:07:38
+[' Răsarit = 08:02:31 Apus = 17:26:51 Min (°C) = -8.77 Max (°C) =-1.05 Presiune = 1023 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 331 Stare = nori 50-85%']
+Moldova_Noua: 03 \ duminică \ 23:1:2022 \ 19:07:43
+[' Răsarit = 08:01:42 Apus = 17:28:13 Min (°C) = -8.75 Max (°C) =-1.95 Presiune = 1028 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 316 Stare = zăpadă slabă']
+Moldova_Noua: 04 \ luni \ 24:1:2022 \ 19:08:28
+[' Răsarit = 08:00:51 Apus = 17:29:35 Min (°C) = -11.1 Max (°C) =-2.28 Presiune = 1037 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 308 Stare = nori 50-85%']
+Moldova_Noua: 04 \ marți \ 25:1:2022 \ 19:07:57
+[' Răsarit = 07:59:58 Apus = 17:30:58 Min (°C) = -12.87 Max (°C) =-4.35 Presiune = 1033 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 343 Stare = nori 85-100%']
+Moldova_Noua: 04 \ miercuri \ 26:1:2022 \ 19:08:10
+[' Răsarit = 07:59:03 Apus = 17:32:21 Min (°C) = -9.95 Max (°C) =-1.55 Presiune = 1029 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 301 Stare = nori 85-100%']
+Moldova_Noua: 04 \ joi \ 27:1:2022 \ 19:08:12
+[' Răsarit = 07:58:05 Apus = 17:33:45 Min (°C) = -2.29 Max (°C) =0.83 Presiune = 1025 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 203 Stare = nori 85-100%']
+Moldova_Noua: 04 \ vineri \ 28:1:2022 \ 19:07:54
+[' Răsarit = 07:57:06 Apus = 17:35:09 Min (°C) = -4.43 Max (°C) =2.41 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 281 Stare = nori 85-100%']
+Moldova_Noua: 04 \ sâmbătă \ 29:1:2022 \ 19:08:05
+[' Răsarit = 07:56:05 Apus = 17:36:34 Min (°C) = -3.79 Max (°C) =0.91 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 284 Stare = nori 85-100%']
+Moldova_Noua: 04 \ duminică \ 30:1:2022 \ 19:06:51
+[' Răsarit = 07:55:02 Apus = 17:37:59 Min (°C) = -3.83 Max (°C) =3.9 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 267 Stare = nori 50-85%']
+Moldova_Noua: 05 \ luni \ 31:1:2022 \ 19:06:49
+[' Răsarit = 07:53:57 Apus = 17:39:24 Min (°C) = -4 Max (°C) =2.79 Presiune = 1008 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 81 Stare = nori 85-100%']
+Moldova_Noua: 05 \ marți \ 01:2:2022 \ 19:06:43
+[' Răsarit = 07:52:50 Apus = 17:40:50 Min (°C) = -1.97 Max (°C) =2.04 Presiune = 1012 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 299 Stare = nori 85-100%']
+Moldova_Noua: 05 \ miercuri \ 02:2:2022 \ 19:06:56
+[' Răsarit = 07:51:42 Apus = 17:42:15 Min (°C) = -3.86 Max (°C) =1.91 Presiune = 1011 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 251 Stare = zăpadă slabă']
+Moldova_Noua: 05 \ joi \ 03:2:2022 \ 19:06:40
+[' Răsarit = 07:50:31 Apus = 17:43:41 Min (°C) = -2.36 Max (°C) =2.1 Presiune = 1025 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 310 Stare = nori 85-100%']
+Moldova_Noua: 05 \ vineri \ 04:2:2022 \ 19:06:51
+[' Răsarit = 07:49:19 Apus = 17:45:07 Min (°C) = -2.48 Max (°C) =6.41 Presiune = 1019 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 107 Stare = nori 50-85%']
+Moldova_Noua: 05 \ sâmbătă \ 05:2:2022 \ 19:06:40
+[' Răsarit = 07:48:06 Apus = 17:46:33 Min (°C) = 1.15 Max (°C) =6.13 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 252 Stare = nori 85-100%']
+Moldova_Noua: 05 \ duminică \ 06:2:2022 \ 19:06:50
+[' Răsarit = 07:46:50 Apus = 17:47:59 Min (°C) = -0.1 Max (°C) =8.41 Presiune = 1018 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 115 Stare = nori 50-85%']
+Moldova_Noua: 06 \ luni \ 07:2:2022 \ 19:06:46
+[' Răsarit = 07:45:33 Apus = 17:49:25 Min (°C) = 2.33 Max (°C) =5.77 Presiune = 1011 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 6.93 Unghiul vântului = 318 Stare = nori 85-100%']
+Moldova_Noua: 06 \ marți \ 08:2:2022 \ 19:06:40
+[' Răsarit = 07:44:14 Apus = 17:50:51 Min (°C) = 0.15 Max (°C) =5.03 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 303 Stare = nori 50-85%']
+Moldova_Noua: 06 \ miercuri \ 09:2:2022 \ 19:07:38
+[' Răsarit = 07:42:54 Apus = 17:52:17 Min (°C) = 0.32 Max (°C) =5.02 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 277 Stare = nori 85-100%']
+Moldova_Noua: 06 \ joi \ 10:2:2022 \ 19:08:29
+[' Răsarit = 07:41:32 Apus = 17:53:43 Min (°C) = 2.42 Max (°C) =12.56 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 95 Stare = cer senin']
+Moldova_Noua: 06 \ vineri \ 11:2:2022 \ 19:07:49
+[' Răsarit = 07:40:09 Apus = 17:55:09 Min (°C) = 3.27 Max (°C) =11.18 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 314 Stare = nori 25-50%']
+Moldova_Noua: 06 \ sâmbătă \ 12:2:2022 \ 19:07:49
+[' Răsarit = 07:38:44 Apus = 17:56:34 Min (°C) = 2.24 Max (°C) =7.22 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 327 Stare = nori 50-85%']
+Moldova_Noua: 06 \ duminică \ 13:2:2022 \ 19:08:04
+[' Răsarit = 07:37:18 Apus = 17:58:00 Min (°C) = 1.69 Max (°C) =5.09 Presiune = 1028 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 5.53 Unghiul vântului = 110 Stare = nori 85-100%']
+Moldova_Noua: 07 \ luni \ 14:2:2022 \ 19:07:58
+[' Răsarit = 07:35:51 Apus = 17:59:25 Min (°C) = 2.23 Max (°C) =7.81 Presiune = 1022 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 106 Stare = nori 25-50%']
+Moldova_Noua: 07 \ marți \ 15:2:2022 \ 19:07:43
+[' Răsarit = 07:34:22 Apus = 18:00:50 Min (°C) = 1.63 Max (°C) =11.84 Presiune = 1018 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 105 Stare = nori 50-85%']
+Moldova_Noua: 07 \ miercuri \ 16:2:2022 \ 19:07:49
+[' Răsarit = 07:32:52 Apus = 18:02:15 Min (°C) = 4.78 Max (°C) =7.79 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 97 Stare = nori 85-100%']
+Moldova_Noua: 07 \ joi \ 17:2:2022 \ 19:08:38
+[' Răsarit = 07:31:20 Apus = 18:03:39 Min (°C) = 4.21 Max (°C) =12.01 Presiune = 1008 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 305 Stare = nori 85-100%']
+Moldova_Noua: 07 \ vineri \ 18:2:2022 \ 19:07:43
+[' Răsarit = 07:29:48 Apus = 18:05:04 Min (°C) = 5.02 Max (°C) =11.28 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 87 Stare = cer senin']
+Moldova_Noua: 07 \ sâmbătă \ 19:2:2022 \ 19:08:02
+[' Răsarit = 07:28:14 Apus = 18:06:27 Min (°C) = 3.58 Max (°C) =13.17 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 1 Stare = nori 85-100%']
+Moldova_Noua: 07 \ duminică \ 20:2:2022 \ 19:08:51
+[' Răsarit = 07:26:39 Apus = 18:07:51 Min (°C) = 5.22 Max (°C) =8.83 Presiune = 1020 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 244 Stare = nori 85-100%']
+Moldova_Noua: 08 \ luni \ 21:2:2022 \ 19:07:49
+[' Răsarit = 07:25:03 Apus = 18:09:14 Min (°C) = 3.17 Max (°C) =13.54 Presiune = 1004 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 94 Stare = nori 50-85%']
+Moldova_Noua: 08 \ marți \ 22:2:2022 \ 19:08:19
+[' Răsarit = 07:23:26 Apus = 18:10:37 Min (°C) = 4.32 Max (°C) =8.05 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.84 Unghiul vântului = 336 Stare = nori 85-100%']
+Moldova_Noua: 08 \ miercuri \ 23:2:2022 \ 19:07:57
+[' Răsarit = 07:21:48 Apus = 18:12:00 Min (°C) = 0.8 Max (°C) =7.29 Presiune = 1025 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 263 Stare = nori 85-100%']
+Moldova_Noua: 08 \ joi \ 24:2:2022 \ 19:07:56
+[' Răsarit = 07:20:08 Apus = 18:13:22 Min (°C) = 0.9 Max (°C) =8.73 Presiune = 1023 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 91 Stare = cer senin']
+Moldova_Noua: 08 \ vineri \ 25:2:2022 \ 19:07:57
+[' Răsarit = 07:18:28 Apus = 18:14:44 Min (°C) = 1.81 Max (°C) =10.99 Presiune = 1018 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 332 Stare = cer senin']
+Moldova_Noua: 08 \ sâmbătă \ 26:2:2022 \ 19:08:15
+[' Răsarit = 07:16:47 Apus = 18:16:06 Min (°C) = 1.69 Max (°C) =6.73 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 35 Stare = nori 85-100%']
+Moldova_Noua: 08 \ duminică \ 27:2:2022 \ 19:07:42
+[' Răsarit = 07:15:05 Apus = 18:17:27 Min (°C) = 3.03 Max (°C) =7.04 Presiune = 1025 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 81 Stare = nori 85-100%']
+Moldova_Noua: 09 \ luni \ 28:2:2022 \ 19:08:04
+[' Răsarit = 07:13:22 Apus = 18:18:48 Min (°C) = 1.4 Max (°C) =3.98 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 102 Stare = nori 85-100%']
+Moldova_Noua: 09 \ marți \ 01:3:2022 \ 19:08:12
+[' Răsarit = 07:11:39 Apus = 18:20:09 Min (°C) = -0.2 Max (°C) =4.68 Presiune = 1024 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 294 Stare = nori 85-100%']
+Moldova_Noua: 09 \ miercuri \ 02:3:2022 \ 19:07:42
+[' Răsarit = 07:09:54 Apus = 18:21:29 Min (°C) = -1.06 Max (°C) =4.88 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 313 Stare = nori 50-85%']
+Moldova_Noua: 09 \ joi \ 03:3:2022 \ 19:07:59
+[' Răsarit = 07:08:09 Apus = 18:22:49 Min (°C) = -0.11 Max (°C) =6.52 Presiune = 1015 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 337 Stare = nori 50-85%']
+Moldova_Noua: 09 \ vineri \ 04:3:2022 \ 19:07:43
+[' Răsarit = 07:06:23 Apus = 18:24:09 Min (°C) = 0.19 Max (°C) =6.85 Presiune = 1016 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 333 Stare = ploaie ușoară']
+Moldova_Noua: 09 \ sâmbătă \ 05:3:2022 \ 19:07:06
+[' Răsarit = 07:04:36 Apus = 18:25:28 Min (°C) = -0.48 Max (°C) =7.3 Presiune = 1017 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 108 Stare = nori 85-100%']
+Moldova_Noua: 09 \ duminică \ 06:3:2022 \ 19:06:56
+[' Răsarit = 07:02:49 Apus = 18:26:47 Min (°C) = 1.16 Max (°C) =3.48 Presiune = 1018 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.85 Unghiul vântului = 97 Stare = nori 85-100%']
+Moldova_Noua: 10 \ luni \ 07:3:2022 \ 19:06:43
+[' Răsarit = 07:01:01 Apus = 18:28:05 Min (°C) = -0.06 Max (°C) =4.13 Presiune = 1017 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 325 Stare = zăpadă slabă']
+Moldova_Noua: 10 \ marți \ 08:3:2022 \ 19:06:32
+[' Răsarit = 06:59:13 Apus = 18:29:24 Min (°C) = -2.81 Max (°C) =3 Presiune = 1018 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 285 Stare = nori 85-100%']
+Moldova_Noua: 10 \ miercuri \ 09:3:2022 \ 19:06:41
+[' Răsarit = 06:57:24 Apus = 18:30:42 Min (°C) = -2.57 Max (°C) =5.3 Presiune = 1021 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.24 Unghiul vântului = 335 Stare = nori 50-85%']
+Moldova_Noua: 10 \ joi \ 10:3:2022 \ 19:06:40
+[' Răsarit = 06:55:34 Apus = 18:32:00 Min (°C) = -1.65 Max (°C) =3.35 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 339 Stare = nori 50-85%']
+Moldova_Noua: 10 \ vineri \ 11:3:2022 \ 19:06:39
+[' Răsarit = 06:53:44 Apus = 18:33:17 Min (°C) = -2.66 Max (°C) =3.29 Presiune = 1029 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 321 Stare = cer senin']
+Moldova_Noua: 10 \ sâmbătă \ 12:3:2022 \ 19:06:32
+[' Răsarit = 06:51:54 Apus = 18:34:34 Min (°C) = -3.08 Max (°C) =4.08 Presiune = 1031 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 302 Stare = nori 10-25%']
+Moldova_Noua: 10 \ duminică \ 13:3:2022 \ 19:06:38
+[' Răsarit = 06:50:03 Apus = 18:35:51 Min (°C) = -2.15 Max (°C) =6.31 Presiune = 1028 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 332 Stare = nori 50-85%']
+Moldova_Noua: 11 \ luni \ 14:3:2022 \ 19:06:33
+[' Răsarit = 06:48:12 Apus = 18:37:08 Min (°C) = -0.33 Max (°C) =8.78 Presiune = 1036 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 107 Stare = cer senin']
+Moldova_Noua: 11 \ marți \ 15:3:2022 \ 19:06:40
+[' Răsarit = 06:46:20 Apus = 18:38:24 Min (°C) = 1.26 Max (°C) =11.86 Presiune = 1031 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 0.19 Unghiul vântului = 350 Stare = nori 85-100%']
+Moldova_Noua: 11 \ miercuri \ 16:3:2022 \ 19:06:43
+[' Răsarit = 06:44:29 Apus = 18:39:41 Min (°C) = 6.14 Max (°C) =9.89 Presiune = 1023 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 305 Stare = nori 85-100%']
+Moldova_Noua: 11 \ joi \ 17:3:2022 \ 19:06:40
+[' Răsarit = 06:42:37 Apus = 18:40:57 Min (°C) = 3.32 Max (°C) =6.83 Presiune = 1033 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.78 Unghiul vântului = 122 Stare = nori 25-50%']
+Moldova_Noua: 11 \ vineri \ 18:3:2022 \ 19:06:46
+[' Răsarit = 06:40:45 Apus = 18:42:13 Min (°C) = -0.21 Max (°C) =7.03 Presiune = 1039 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 154 Stare = nori 25-50%']
+Moldova_Noua: 11 \ sâmbătă \ 19:3:2022 \ 19:06:49
+[' Răsarit = 06:38:52 Apus = 18:43:28 Min (°C) = -0.55 Max (°C) =7.33 Presiune = 1038 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.01 Unghiul vântului = 121 Stare = nori 25-50%']
+Moldova_Noua: 11 \ duminică \ 20:3:2022 \ 19:06:42
+[' Răsarit = 06:37:00 Apus = 18:44:44 Min (°C) = -0.49 Max (°C) =8.14 Presiune = 1039 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 150 Stare = nori 25-50%']
+Moldova_Noua: 12 \ luni \ 21:3:2022 \ 19:07:01
+[' Răsarit = 06:35:07 Apus = 18:45:59 Min (°C) = 0.05 Max (°C) =10.78 Presiune = 1035 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 343 Stare = cer senin']
+Moldova_Noua: 12 \ marți \ 22:3:2022 \ 19:06:48
+[' Răsarit = 06:33:14 Apus = 18:47:14 Min (°C) = 2.29 Max (°C) =13.65 Presiune = 1030 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 351 Stare = cer senin']
+Moldova_Noua: 12 \ miercuri \ 23:3:2022 \ 19:06:35
+[' Răsarit = 06:31:21 Apus = 18:48:29 Min (°C) = 3.11 Max (°C) =15.32 Presiune = 1027 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 272 Stare = cer senin']
+Moldova_Noua: 12 \ joi \ 24:3:2022 \ 19:06:44
+[' Răsarit = 06:29:29 Apus = 18:49:44 Min (°C) = 4.74 Max (°C) =17.33 Presiune = 1022 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 284 Stare = cer senin']
+Moldova_Noua: 12 \ vineri \ 25:3:2022 \ 19:06:39
+[' Răsarit = 06:27:36 Apus = 18:50:59 Min (°C) = 4.73 Max (°C) =15.08 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 347 Stare = cer senin']
+Moldova_Noua: 12 \ sâmbătă \ 26:3:2022 \ 19:06:43
+[' Răsarit = 06:25:43 Apus = 18:52:14 Min (°C) = 4.51 Max (°C) =16.37 Presiune = 1026 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 342 Stare = cer senin']
+Moldova_Noua: 12 \ duminică \ 27:3:2022 \ 19:06:46
+[' Răsarit = 07:23:51 Apus = 19:53:29 Min (°C) = 5.81 Max (°C) =15.64 Presiune = 1028 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 3.86 Unghiul vântului = 336 Stare = cer senin']
+Moldova_Noua: 13 \ luni \ 28:3:2022 \ 19:06:58
+[' Răsarit = 07:21:58 Apus = 19:54:43 Min (°C) = 4.61 Max (°C) =17.79 Presiune = 1021 Umiditate (%) = 40 Index UV = 0.16 Viteza vântului = 2.12 Unghiul vântului = 120 Stare = cer senin']
+Moldova_Noua: 13 \ marți \ 29:3:2022 \ 19:06:48
+[' Răsarit = 07:20:06 Apus = 19:55:58 Min (°C) = 8 Max (°C) =20.57 Presiune = 1010 Umiditate (%) = 43 Index UV = 0.17 Viteza vântului = 1.48 Unghiul vântului = 260 Stare = nori 25-50%']
+Moldova_Noua: 13 \ miercuri \ 30:3:2022 \ 19:06:45
+[' Răsarit = 07:18:14 Apus = 19:57:13 Min (°C) = 9.58 Max (°C) =18.49 Presiune = 1005 Umiditate (%) = 49 Index UV = 0.1 Viteza vântului = 1.6 Unghiul vântului = 158 Stare = nori 85-100%']
+Moldova_Noua: 13 \ joi \ 31:3:2022 \ 19:07:03
+[' Răsarit = 07:16:22 Apus = 19:58:27 Min (°C) = 10.9 Max (°C) =15.17 Presiune = 996 Umiditate (%) = 77 Index UV = 0.07 Viteza vântului = 3.18 Unghiul vântului = 110 Stare = ploaie ușoară']
+Moldova_Noua: 13 \ vineri \ 01:4:2022 \ 19:08:03
+[' Răsarit = 07:14:30 Apus = 19:59:42 Min (°C) = 10.49 Max (°C) =17.08 Presiune = 994 Umiditate (%) = 63 Index UV = 0.05 Viteza vântului = 5.02 Unghiul vântului = 276 Stare = nori 25-50%']
+Moldova_Noua: 13 \ sâmbătă \ 02:4:2022 \ 19:07:56
+[' Răsarit = 07:12:39 Apus = 20:00:56 Min (°C) = 5 Max (°C) =15.66 Presiune = 1002 Umiditate (%) = 84 Index UV = 0.07 Viteza vântului = 8.04 Unghiul vântului = 291 Stare = nori 50-85%']
+Moldova_Noua: 13 \ duminică \ 03:4:2022 \ 19:40:35
+[' Răsarit = 07:10:48 Apus = 20:02:11 Min (°C) = 2.07 Max (°C) =4.65 Presiune = 1016 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.85 Unghiul vântului = 310 Stare = nori 85-100%']
+Moldova_Noua: 14 \ luni \ 04:4:2022 \ 19:07:51
+[' Răsarit = 07:08:58 Apus = 20:03:25 Min (°C) = -1.18 Max (°C) =8.9 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.19 Viteza vântului = 1.06 Unghiul vântului = 335 Stare = cer senin']
+Moldova_Noua: 14 \ marți \ 05:4:2022 \ 19:08:34
+[' Răsarit = 07:07:07 Apus = 20:04:40 Min (°C) = 1.16 Max (°C) =13.75 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.22 Viteza vântului = 1.34 Unghiul vântului = 307 Stare = cer senin']
+Moldova_Noua: 14 \ miercuri \ 06:4:2022 \ 19:08:01
+[' Răsarit = 07:05:18 Apus = 20:05:54 Min (°C) = 5.73 Max (°C) =19.97 Presiune = 1008 Umiditate (%) = 47 Index UV = 0.23 Viteza vântului = 5.24 Unghiul vântului = 113 Stare = cer senin']
+Moldova_Noua: 14 \ joi \ 07:4:2022 \ 19:08:01
+[' Răsarit = 07:03:28 Apus = 20:07:09 Min (°C) = 8.83 Max (°C) =13.67 Presiune = 1002 Umiditate (%) = 89 Index UV = 0.04 Viteza vântului = 0.89 Unghiul vântului = 244 Stare = nori 85-100%']
+Moldova_Noua: 14 \ vineri \ 08:4:2022 \ 19:07:46
+[' Răsarit = 07:01:40 Apus = 20:08:24 Min (°C) = 6.75 Max (°C) =15.44 Presiune = 1006 Umiditate (%) = 72 Index UV = 0.24 Viteza vântului = 1.83 Unghiul vântului = 78 Stare = nori 85-100%']
+Moldova_Noua: 14 \ sâmbătă \ 09:4:2022 \ 19:07:57
+[' Răsarit = 06:59:51 Apus = 20:09:38 Min (°C) = 8.97 Max (°C) =20.95 Presiune = 1004 Umiditate (%) = 84 Index UV = 0.23 Viteza vântului = 4.82 Unghiul vântului = 327 Stare = nori 50-85%']
+Moldova_Noua: 14 \ duminică \ 10:4:2022 \ 19:08:42
+[' Răsarit = 06:58:04 Apus = 20:10:53 Min (°C) = 3.33 Max (°C) =11.11 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.23 Viteza vântului = 6.52 Unghiul vântului = 334 Stare = nori 85-100%']
+Moldova_Noua: 15 \ luni \ 11:4:2022 \ 19:07:57
+[' Răsarit = 06:56:17 Apus = 20:12:08 Min (°C) = 0.64 Max (°C) =11.13 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.28 Viteza vântului = 4.02 Unghiul vântului = 329 Stare = nori 50-85%']
+Moldova_Noua: 15 \ marți \ 12:4:2022 \ 19:07:22
+[' Răsarit = 06:54:30 Apus = 20:13:23 Min (°C) = 1.34 Max (°C) =15.02 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.3 Viteza vântului = 2.96 Unghiul vântului = 347 Stare = cer senin']
+Moldova_Noua: 15 \ miercuri \ 13:4:2022 \ 19:07:44
+[' Răsarit = 06:52:45 Apus = 20:14:38 Min (°C) = 2.75 Max (°C) =15.5 Presiune = 1019 Umiditate (%) = 45 Index UV = 0.3 Viteza vântului = 2.94 Unghiul vântului = 326 Stare = cer senin']
+Moldova_Noua: 15 \ joi \ 14:4:2022 \ 19:08:01
+[' Răsarit = 06:50:59 Apus = 20:15:53 Min (°C) = 4.46 Max (°C) =19.21 Presiune = 1020 Umiditate (%) = 49 Index UV = 0.31 Viteza vântului = 0.51 Unghiul vântului = 165 Stare = cer senin']
+Moldova_Noua: 15 \ vineri \ 15:4:2022 \ 19:08:27
+[' Răsarit = 06:49:15 Apus = 20:17:08 Min (°C) = 8.23 Max (°C) =22.28 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.33 Viteza vântului = 2.21 Unghiul vântului = 317 Stare = nori 50-85%']
+Moldova_Noua: 15 \ sâmbătă \ 16:4:2022 \ 19:08:29
+[' Răsarit = 06:47:32 Apus = 20:18:23 Min (°C) = 8.59 Max (°C) =16.33 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.14 Viteza vântului = 5.26 Unghiul vântului = 317 Stare = nori 50-85%']
+Moldova_Noua: 15 \ duminică \ 17:4:2022 \ 19:08:00
+[' Răsarit = 06:45:49 Apus = 20:19:38 Min (°C) = 3.87 Max (°C) =7.59 Presiune = 1017 Umiditate (%) = 91 Index UV = 0.13 Viteza vântului = 1.45 Unghiul vântului = 130 Stare = nori 85-100%']
+Moldova_Noua: 16 \ luni \ 18:4:2022 \ 19:08:35
+[' Răsarit = 06:44:07 Apus = 20:20:53 Min (°C) = 2.21 Max (°C) =10.5 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.29 Viteza vântului = 3.68 Unghiul vântului = 334 Stare = nori 85-100%']
+Moldova_Noua: 16 \ marți \ 19:4:2022 \ 19:08:55
+[' Răsarit = 06:42:26 Apus = 20:22:09 Min (°C) = -0.25 Max (°C) =12.24 Presiune = 1012 Umiditate (%) = 46 Index UV = 0.27 Viteza vântului = 0.59 Unghiul vântului = 279 Stare = nori 85-100%']
+Moldova_Noua: 16 \ miercuri \ 20:4:2022 \ 19:08:12
+[' Răsarit = 06:40:46 Apus = 20:23:24 Min (°C) = 4.75 Max (°C) =9.46 Presiune = 1016 Umiditate (%) = 92 Index UV = 0.15 Viteza vântului = 1.56 Unghiul vântului = 235 Stare = nori 85-100%']
+Moldova_Noua: 16 \ joi \ 21:4:2022 \ 19:08:26
+[' Răsarit = 06:39:06 Apus = 20:24:39 Min (°C) = 1.82 Max (°C) =16.68 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.32 Viteza vântului = 0.03 Unghiul vântului = 355 Stare = nori 85-100%']
+Moldova_Noua: 16 \ vineri \ 22:4:2022 \ 19:07:03
+[' Răsarit = 06:37:28 Apus = 20:25:55 Min (°C) = 8.99 Max (°C) =19.04 Presiune = 1003 Umiditate (%) = 67 Index UV = 0.38 Viteza vântului = 8.44 Unghiul vântului = 115 Stare = nori 25-50%']
+Moldova_Noua: 16 \ sâmbătă \ 23:4:2022 \ 19:07:11
+[' Răsarit = 06:35:51 Apus = 20:27:10 Min (°C) = 10.71 Max (°C) =18.08 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.21 Viteza vântului = 2.01 Unghiul vântului = 333 Stare = nori 25-50%']
+Moldova_Noua: 16 \ duminică \ 24:4:2022 \ 19:06:49
+[' Răsarit = 06:34:15 Apus = 20:28:25 Min (°C) = 9.15 Max (°C) =23.5 Presiune = 1005 Umiditate (%) = 60 Index UV = 0.32 Viteza vântului = 3.79 Unghiul vântului = 129 Stare = nori 25-50%']
+Moldova_Noua: 17 \ luni \ 25:4:2022 \ 19:06:48
+[' Răsarit = 06:32:39 Apus = 20:29:41 Min (°C) = 10.62 Max (°C) =18.72 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.39 Viteza vântului = 3.11 Unghiul vântului = 331 Stare = nori 10-25%']
+Moldova_Noua: 17 \ marți \ 26:4:2022 \ 19:06:52
+[' Răsarit = 06:31:05 Apus = 20:30:56 Min (°C) = 9.74 Max (°C) =21.13 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.36 Viteza vântului = 1.75 Unghiul vântului = 341 Stare = nori 50-85%']
+Moldova_Noua: 17 \ miercuri \ 27:4:2022 \ 19:06:53
+[' Răsarit = 06:29:32 Apus = 20:32:11 Min (°C) = 9.64 Max (°C) =21.57 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.39 Viteza vântului = 1.2 Unghiul vântului = 334 Stare = nori 50-85%']
+Moldova_Noua: 17 \ joi \ 28:4:2022 \ 19:06:57
+[' Răsarit = 06:28:00 Apus = 20:33:26 Min (°C) = 8.33 Max (°C) =13.31 Presiune = 1021 Umiditate (%) = 89 Index UV = 0.06 Viteza vântului = 3.75 Unghiul vântului = 294 Stare = ploaie ușoară']
+Moldova_Noua: 17 \ vineri \ 29:4:2022 \ 19:07:46
+[' Răsarit = 06:26:30 Apus = 20:34:41 Min (°C) = 8.15 Max (°C) =16.02 Presiune = 1021 Umiditate (%) = 68 Index UV = 0.42 Viteza vântului = 0.91 Unghiul vântului = 286 Stare = nori 25-50%']
+Moldova_Noua: 17 \ sâmbătă \ 30:4:2022 \ 19:06:39
+[' Răsarit = 06:25:00 Apus = 20:35:56 Min (°C) = 9.65 Max (°C) =19.46 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.48 Viteza vântului = 4.01 Unghiul vântului = 119 Stare = nori 10-25%']
+Moldova_Noua: 17 \ duminică \ 01:5:2022 \ 19:06:47
+[' Răsarit = 06:23:32 Apus = 20:37:11 Min (°C) = 9.65 Max (°C) =19.22 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.49 Viteza vântului = 5.75 Unghiul vântului = 100 Stare = nori 25-50%']
+Moldova_Noua: 18 \ marți \ 03:5:2022 \ 20:07:48
+[' Răsarit = 06:20:40 Apus = 20:39:40 Min (°C) = 9.79 Max (°C) =17.89 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.08 Viteza vântului = 1.74 Unghiul vântului = 120 Stare = nori 85-100%']
+Moldova_Noua: 18 \ miercuri \ 04:5:2022 \ 19:11:13
+[' Răsarit = 06:19:15 Apus = 20:40:54 Min (°C) = 7.79 Max (°C) =19.98 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.5 Viteza vântului = 2.28 Unghiul vântului = 3 Stare = nori 50-85%']
+Moldova_Noua: 18 \ joi \ 05:5:2022 \ 19:06:59
+[' Răsarit = 06:17:53 Apus = 20:42:08 Min (°C) = 9.05 Max (°C) =22.79 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.26 Viteza vântului = 1.92 Unghiul vântului = 71 Stare = nori 50-85%']
+Moldova_Noua: 18 \ vineri \ 06:5:2022 \ 19:07:11
+[' Răsarit = 06:16:31 Apus = 20:43:21 Min (°C) = 10.83 Max (°C) =21.39 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.5 Viteza vântului = 5.89 Unghiul vântului = 115 Stare = nori 85-100%']
+Moldova_Noua: 18 \ sâmbătă \ 07:5:2022 \ 19:06:58
+[' Răsarit = 06:15:11 Apus = 20:44:34 Min (°C) = 10.59 Max (°C) =20.44 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.51 Viteza vântului = 5.29 Unghiul vântului = 103 Stare = nori 85-100%']
+Moldova_Noua: 18 \ duminică \ 08:5:2022 \ 19:07:33
+[' Răsarit = 06:13:53 Apus = 20:45:47 Min (°C) = 10.64 Max (°C) =21.72 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.57 Viteza vântului = 4.02 Unghiul vântului = 109 Stare = nori 85-100%']
+Moldova_Noua: 19 \ luni \ 09:5:2022 \ 19:07:08
+[' Răsarit = 06:12:36 Apus = 20:47:00 Min (°C) = 9.25 Max (°C) =23.62 Presiune = 1020 Umiditate (%) = 57 Index UV = 0.58 Viteza vântului = 3.32 Unghiul vântului = 27 Stare = nori 25-50%']
+Moldova_Noua: 19 \ marți \ 10:5:2022 \ 19:07:25
+[' Răsarit = 06:11:20 Apus = 20:48:12 Min (°C) = 10.23 Max (°C) =19.97 Presiune = 1019 Umiditate (%) = 70 Index UV = 0.5 Viteza vântului = 1.22 Unghiul vântului = 132 Stare = nori 50-85%']
+Moldova_Noua: 19 \ miercuri \ 11:5:2022 \ 19:07:06
+[' Răsarit = 06:10:06 Apus = 20:49:24 Min (°C) = 10.26 Max (°C) =22.25 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.58 Viteza vântului = 2.2 Unghiul vântului = 332 Stare = nori 85-100%']
+Moldova_Noua: 19 \ joi \ 12:5:2022 \ 19:07:07
+[' Răsarit = 06:08:54 Apus = 20:50:35 Min (°C) = 11.9 Max (°C) =25.43 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.64 Viteza vântului = 0.52 Unghiul vântului = 310 Stare = nori 10-25%']
+Moldova_Noua: 19 \ vineri \ 13:5:2022 \ 19:06:57
+[' Răsarit = 06:07:43 Apus = 20:51:46 Min (°C) = 13.84 Max (°C) =27.5 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.66 Viteza vântului = 2.58 Unghiul vântului = 353 Stare = cer senin']
+Moldova_Noua: 19 \ sâmbătă \ 14:5:2022 \ 19:06:57
+[' Răsarit = 06:06:34 Apus = 20:52:56 Min (°C) = 14.84 Max (°C) =24.4 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.66 Viteza vântului = 4.42 Unghiul vântului = 355 Stare = cer senin']
+Moldova_Noua: 19 \ duminică \ 15:5:2022 \ 19:06:58
+[' Răsarit = 06:05:27 Apus = 20:54:05 Min (°C) = 11.93 Max (°C) =23.58 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.66 Viteza vântului = 1.82 Unghiul vântului = 309 Stare = cer senin']
+Moldova_Noua: 20 \ luni \ 16:5:2022 \ 19:08:06
+[' Răsarit = 06:04:21 Apus = 20:55:14 Min (°C) = 12.15 Max (°C) =27.24 Presiune = 1017 Umiditate (%) = 52 Index UV = 0.67 Viteza vântului = 1.7 Unghiul vântului = 13 Stare = cer senin']
+Moldova_Noua: 20 \ marți \ 17:5:2022 \ 19:09:51
+[' Răsarit = 06:03:17 Apus = 20:56:22 Min (°C) = 14.65 Max (°C) =27.13 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.32 Viteza vântului = 3.72 Unghiul vântului = 331 Stare = nori 50-85%']
+Moldova_Noua: 20 \ miercuri \ 18:5:2022 \ 19:07:11
+[' Răsarit = 06:02:15 Apus = 20:57:29 Min (°C) = 10.22 Max (°C) =18.19 Presiune = 1023 Umiditate (%) = 47 Index UV = 0.63 Viteza vântului = 3.9 Unghiul vântului = 11 Stare = cer senin']
+Moldova_Noua: 20 \ joi \ 19:5:2022 \ 20:12:01
+[' Răsarit = 06:01:15 Apus = 20:58:36 Min (°C) = 6.31 Max (°C) =20.75 Presiune = 1026 Umiditate (%) = 64 Index UV = 0.19 Viteza vântului = 2.19 Unghiul vântului = 330 Stare = cer senin']
+Moldova_Noua: 20 \ vineri \ 20:5:2022 \ 19:06:56
+[' Răsarit = 06:00:17 Apus = 20:59:42 Min (°C) = 8.52 Max (°C) =24.49 Presiune = 1022 Umiditate (%) = 51 Index UV = 0.71 Viteza vântului = 1.2 Unghiul vântului = 258 Stare = nori 85-100%']
+Moldova_Noua: 20 \ sâmbătă \ 21:5:2022 \ 19:08:05
+[' Răsarit = 05:59:20 Apus = 21:00:46 Min (°C) = 12.97 Max (°C) =27.05 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.74 Viteza vântului = 4 Unghiul vântului = 337 Stare = nori 50-85%']

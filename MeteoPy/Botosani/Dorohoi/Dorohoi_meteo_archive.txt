@@ -1,0 +1,954 @@
+Dorohoi: 04 \ luni \ 25:1:2021 \ 22:27:54
+[' Răsarit = 07:50:20 Apus = 17:02:51 Min (°C) = 1.5 Max (°C) =6.98 Presiune = 997 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Dorohoi: 04 \ marți \ 26:1:2021 \ 09:46:32
+[' Răsarit = 07:49:15 Apus = 17:04:24 Min (°C) = -0.75 Max (°C) =4.87 Presiune = 1004 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = nori 50-85%']
+Dorohoi: 04 \ miercuri \ 27:1:2021 \ 19:06:17
+[' Răsarit = 07:48:07 Apus = 17:05:57 Min (°C) = -1.49 Max (°C) =0.33 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 25-50%']
+Dorohoi: 04 \ joi \ 28:1:2021 \ 19:23:03
+[' Răsarit = 07:46:58 Apus = 17:07:31 Min (°C) = -3.15 Max (°C) =0.69 Presiune = 1003 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = cer senin']
+Dorohoi: 04 \ vineri \ 29:1:2021 \ 20:08:23
+[' Răsarit = 07:45:47 Apus = 17:09:06 Min (°C) = -2.42 Max (°C) =4.79 Presiune = 997 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 10-25%']
+Dorohoi: 04 \ sâmbătă \ 30:1:2021 \ 20:08:26
+[' Răsarit = 07:44:33 Apus = 17:10:41 Min (°C) = -0.65 Max (°C) =7.54 Presiune = 994 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = cer senin']
+Dorohoi: 04 \ duminică \ 31:1:2021 \ 19:08:04
+[' Răsarit = 07:43:18 Apus = 17:12:16 Min (°C) = -2.95 Max (°C) =-0.7 Presiune = 1007 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 70 Stare = zăpadă slabă']
+Dorohoi: 05 \ luni \ 01:2:2021 \ 19:08:20
+[' Răsarit = 07:42:00 Apus = 17:13:52 Min (°C) = -3.69 Max (°C) =-0.61 Presiune = 1004 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 85-100%']
+Dorohoi: 05 \ marți \ 02:2:2021 \ 20:36:22
+[' Răsarit = 07:40:41 Apus = 17:15:28 Min (°C) = -5.6 Max (°C) =1.39 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = nori 85-100%']
+Dorohoi: 05 \ miercuri \ 03:2:2021 \ 19:34:50
+[' Răsarit = 07:39:20 Apus = 17:17:04 Min (°C) = 0.27 Max (°C) =6.24 Presiune = 1010 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 250 Stare = cer senin']
+Dorohoi: 05 \ joi \ 04:2:2021 \ 19:09:48
+[' Răsarit = 07:37:57 Apus = 17:18:40 Min (°C) = 1.33 Max (°C) =10.32 Presiune = 1007 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 340 Stare = nori 10-25%']
+Dorohoi: 05 \ vineri \ 05:2:2021 \ 19:05:30
+[' Răsarit = 07:36:33 Apus = 17:20:17 Min (°C) = -0.61 Max (°C) =1.59 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = zăpadă slabă']
+Dorohoi: 05 \ sâmbătă \ 06:2:2021 \ 19:34:19
+[' Răsarit = 07:35:06 Apus = 17:21:54 Min (°C) = -3.28 Max (°C) =-0.15 Presiune = 1015 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = snow']
+Dorohoi: 05 \ duminică \ 07:2:2021 \ 19:09:17
+[' Răsarit = 07:33:38 Apus = 17:23:30 Min (°C) = -5.29 Max (°C) =-2.52 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 120 Stare = ceață']
+Dorohoi: 06 \ luni \ 08:2:2021 \ 20:50:40
+[' Răsarit = 07:32:08 Apus = 17:25:07 Min (°C) = -4.87 Max (°C) =2.06 Presiune = 997 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = ceață']
+Dorohoi: 06 \ marți \ 09:2:2021 \ 19:06:54
+[' Răsarit = 07:30:37 Apus = 17:26:44 Min (°C) = -1.76 Max (°C) =3.21 Presiune = 1004 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = cer senin']
+Dorohoi: 06 \ miercuri \ 10:2:2021 \ 19:07:40
+[' Răsarit = 07:29:04 Apus = 17:28:20 Min (°C) = -0.99 Max (°C) =1.16 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = ceață']
+Dorohoi: 06 \ joi \ 11:2:2021 \ 19:03:10
+[' Răsarit = 07:27:30 Apus = 17:29:57 Min (°C) = -8.24 Max (°C) =0.31 Presiune = 1006 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 320 Stare = ceață']
+Dorohoi: 06 \ vineri \ 12:2:2021 \ 20:41:36
+[' Răsarit = 07:25:54 Apus = 17:31:33 Min (°C) = -12.1 Max (°C) =-8.84 Presiune = 1017 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 9.26 Unghiul vântului = 290 Stare = nori 25-50%']
+Dorohoi: 06 \ sâmbătă \ 13:2:2021 \ 19:06:52
+[' Răsarit = 07:24:17 Apus = 17:33:09 Min (°C) = -11.98 Max (°C) =-6.47 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 310 Stare = cer senin']
+Dorohoi: 06 \ duminică \ 14:2:2021 \ 19:06:41
+[' Răsarit = 07:22:38 Apus = 17:34:45 Min (°C) = -6.52 Max (°C) =-2.26 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 320 Stare = zăpadă slabă']
+Dorohoi: 07 \ luni \ 15:2:2021 \ 20:01:40
+[' Răsarit = 07:20:58 Apus = 17:36:21 Min (°C) = -8.55 Max (°C) =-2.6 Presiune = 1028 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 25-50%']
+Dorohoi: 07 \ marți \ 16:2:2021 \ 18:58:17
+[' Răsarit = 07:19:16 Apus = 17:37:57 Min (°C) = -10.86 Max (°C) =-5.62 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
+Dorohoi: 07 \ miercuri \ 17:2:2021 \ 19:06:11
+[' Răsarit = 07:17:34 Apus = 17:39:32 Min (°C) = -9.67 Max (°C) =-1.31 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = nori 50-85%']
+Dorohoi: 07 \ joi \ 18:2:2021 \ 19:10:11
+[' Răsarit = 07:15:50 Apus = 17:41:07 Min (°C) = -11.02 Max (°C) =-1.85 Presiune = 1022 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = nori 50-85%']
+Dorohoi: 07 \ vineri \ 19:2:2021 \ 19:03:04
+[' Răsarit = 07:14:05 Apus = 17:42:42 Min (°C) = -11.79 Max (°C) =-2.52 Presiune = 1023 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 160 Stare = cer senin']
+Dorohoi: 07 \ sâmbătă \ 20:2:2021 \ 19:07:30
+[' Răsarit = 07:12:18 Apus = 17:44:17 Min (°C) = -5.1 Max (°C) =0.09 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = ceață']
+Dorohoi: 07 \ duminică \ 21:2:2021 \ 19:04:48
+[' Răsarit = 07:10:31 Apus = 17:45:51 Min (°C) = -4.13 Max (°C) =2.21 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 110 Stare = cer senin']
+Dorohoi: 08 \ luni \ 22:2:2021 \ 19:09:23
+[' Răsarit = 07:08:42 Apus = 17:47:25 Min (°C) = -1.33 Max (°C) =4.36 Presiune = 1026 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.25 Unghiul vântului = 188 Stare = cer senin']
+Dorohoi: 08 \ marți \ 23:2:2021 \ 19:07:18
+[' Răsarit = 07:06:53 Apus = 17:48:59 Min (°C) = 0.98 Max (°C) =6.32 Presiune = 1032 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
+Dorohoi: 08 \ miercuri \ 24:2:2021 \ 19:07:55
+[' Răsarit = 07:05:02 Apus = 17:50:32 Min (°C) = 1.32 Max (°C) =7.8 Presiune = 1033 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
+Dorohoi: 08 \ joi \ 25:2:2021 \ 19:05:56
+[' Răsarit = 07:03:11 Apus = 17:52:05 Min (°C) = 3.19 Max (°C) =9.62 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Dorohoi: 08 \ vineri \ 26:2:2021 \ 19:06:36
+[' Răsarit = 07:01:18 Apus = 17:53:38 Min (°C) = 4.18 Max (°C) =13.59 Presiune = 1022 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 318 Stare = cer senin']
+Dorohoi: 08 \ sâmbătă \ 27:2:2021 \ 19:03:31
+[' Răsarit = 06:59:25 Apus = 17:55:10 Min (°C) = 2.75 Max (°C) =6.83 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 08 \ duminică \ 28:2:2021 \ 19:08:08
+[' Răsarit = 06:57:31 Apus = 17:56:42 Min (°C) = 1.88 Max (°C) =6.48 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 09 \ luni \ 01:3:2021 \ 19:02:23
+[' Răsarit = 06:55:36 Apus = 17:58:14 Min (°C) = 2.07 Max (°C) =5.18 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 09 \ marți \ 02:3:2021 \ 19:10:53
+[' Răsarit = 06:53:40 Apus = 17:59:45 Min (°C) = 0.61 Max (°C) =10.82 Presiune = 1025 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 300 Stare = cer senin']
+Dorohoi: 09 \ miercuri \ 03:3:2021 \ 19:06:14
+[' Răsarit = 06:51:43 Apus = 18:01:16 Min (°C) = 1.87 Max (°C) =9.72 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = ceață']
+Dorohoi: 09 \ joi \ 04:3:2021 \ 19:07:01
+[' Răsarit = 06:49:46 Apus = 18:02:47 Min (°C) = 3.44 Max (°C) =15.59 Presiune = 1011 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 260 Stare = cer senin']
+Dorohoi: 09 \ vineri \ 05:3:2021 \ 19:05:00
+[' Răsarit = 06:47:48 Apus = 18:04:17 Min (°C) = 1.04 Max (°C) =10.75 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = zăpadă slabă']
+Dorohoi: 09 \ sâmbătă \ 06:3:2021 \ 19:05:58
+[' Răsarit = 06:45:49 Apus = 18:05:47 Min (°C) = -1.67 Max (°C) =2.67 Presiune = 1027 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 09 \ duminică \ 07:3:2021 \ 19:06:56
+[' Răsarit = 06:43:50 Apus = 18:07:17 Min (°C) = -1.76 Max (°C) =7.52 Presiune = 1016 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = cer senin']
+Dorohoi: 10 \ luni \ 08:3:2021 \ 19:09:53
+[' Răsarit = 06:41:51 Apus = 18:08:47 Min (°C) = -0.32 Max (°C) =6.74 Presiune = 1015 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = nori 50-85%']
+Dorohoi: 10 \ marți \ 09:3:2021 \ 19:04:11
+[' Răsarit = 06:39:50 Apus = 18:10:16 Min (°C) = -1.84 Max (°C) =2.79 Presiune = 1019 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = nori 50-85%']
+Dorohoi: 10 \ miercuri \ 10:3:2021 \ 19:10:34
+[' Răsarit = 06:37:49 Apus = 18:11:45 Min (°C) = -1.33 Max (°C) =2.65 Presiune = 1017 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 7.72 Unghiul vântului = 130 Stare = zăpadă slabă']
+Dorohoi: 10 \ joi \ 11:3:2021 \ 19:06:11
+[' Răsarit = 06:35:48 Apus = 18:13:13 Min (°C) = -2.34 Max (°C) =3.03 Presiune = 1017 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Dorohoi: 10 \ vineri \ 12:3:2021 \ 19:06:21
+[' Răsarit = 06:33:47 Apus = 18:14:42 Min (°C) = -0.54 Max (°C) =5.78 Presiune = 1010 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = cer senin']
+Dorohoi: 10 \ sâmbătă \ 13:3:2021 \ 19:06:28
+[' Răsarit = 06:31:44 Apus = 18:16:10 Min (°C) = 1.88 Max (°C) =11.46 Presiune = 1011 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 230 Stare = cer senin']
+Dorohoi: 10 \ duminică \ 14:3:2021 \ 19:08:45
+[' Răsarit = 06:29:42 Apus = 18:17:37 Min (°C) = 2.48 Max (°C) =14.68 Presiune = 1005 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = cer senin']
+Dorohoi: 11 \ luni \ 15:3:2021 \ 19:08:11
+[' Răsarit = 06:27:39 Apus = 18:19:05 Min (°C) = 2.5 Max (°C) =6.74 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = nori 85-100%']
+Dorohoi: 11 \ marți \ 16:3:2021 \ 19:06:41
+[' Răsarit = 06:25:36 Apus = 18:20:32 Min (°C) = 2.65 Max (°C) =6.06 Presiune = 1002 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 11.32 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 11 \ miercuri \ 17:3:2021 \ 19:07:11
+[' Răsarit = 06:23:33 Apus = 18:22:00 Min (°C) = 0.74 Max (°C) =5.68 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 330 Stare = ploaie ușoară']
+Dorohoi: 11 \ joi \ 18:3:2021 \ 19:06:22
+[' Răsarit = 06:21:30 Apus = 18:23:27 Min (°C) = 0.52 Max (°C) =3.49 Presiune = 1012 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 85-100%']
+Dorohoi: 11 \ vineri \ 19:3:2021 \ 19:04:01
+[' Răsarit = 06:19:26 Apus = 18:24:53 Min (°C) = 0.1 Max (°C) =3.26 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = zăpadă slabă']
+Dorohoi: 11 \ sâmbătă \ 20:3:2021 \ 19:06:27
+[' Răsarit = 06:17:22 Apus = 18:26:20 Min (°C) = -0.72 Max (°C) =4.58 Presiune = 1019 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = zăpadă slabă']
+Dorohoi: 11 \ duminică \ 21:3:2021 \ 19:02:18
+[' Răsarit = 06:15:18 Apus = 18:27:47 Min (°C) = -1.63 Max (°C) =7.34 Presiune = 1009 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 190 Stare = cer senin']
+Dorohoi: 12 \ luni \ 22:3:2021 \ 19:07:34
+[' Răsarit = 06:13:15 Apus = 18:29:13 Min (°C) = -0.75 Max (°C) =5.84 Presiune = 1008 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 350 Stare = zăpadă slabă']
+Dorohoi: 12 \ marți \ 23:3:2021 \ 19:09:02
+[' Răsarit = 06:11:11 Apus = 18:30:39 Min (°C) = -1.84 Max (°C) =4.16 Presiune = 1012 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = nori 50-85%']
+Dorohoi: 12 \ miercuri \ 24:3:2021 \ 19:07:36
+[' Răsarit = 06:09:07 Apus = 18:32:05 Min (°C) = -1.81 Max (°C) =4.51 Presiune = 1018 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 360 Stare = nori 50-85%']
+Dorohoi: 12 \ joi \ 25:3:2021 \ 19:07:18
+[' Răsarit = 06:07:03 Apus = 18:33:31 Min (°C) = -1.06 Max (°C) =6.99 Presiune = 1018 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
+Dorohoi: 12 \ vineri \ 26:3:2021 \ 19:12:20
+[' Răsarit = 06:04:59 Apus = 18:34:57 Min (°C) = -0.59 Max (°C) =10.44 Presiune = 1022 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 30 Stare = cer senin']
+Dorohoi: 12 \ sâmbătă \ 27:3:2021 \ 19:11:49
+[' Răsarit = 06:02:55 Apus = 18:36:23 Min (°C) = 2.82 Max (°C) =13.31 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 12 \ duminică \ 28:3:2021 \ 19:07:50
+[' Răsarit = 07:00:52 Apus = 19:37:49 Min (°C) = 3.27 Max (°C) =12.03 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 13 \ luni \ 29:3:2021 \ 19:06:52
+[' Răsarit = 06:58:48 Apus = 19:39:15 Min (°C) = 2.03 Max (°C) =10.79 Presiune = 1029 Umiditate (%) = 43 Index UV = 0.08 Viteza vântului = 6.69 Unghiul vântului = 350 Stare = cer senin']
+Dorohoi: 13 \ marți \ 30:3:2021 \ 19:05:50
+[' Răsarit = 06:56:45 Apus = 19:40:40 Min (°C) = 3.16 Max (°C) =12.78 Presiune = 1029 Umiditate (%) = 40 Index UV = 0.09 Viteza vântului = 2.57 Unghiul vântului = 100 Stare = cer senin']
+Dorohoi: 13 \ miercuri \ 31:3:2021 \ 19:05:16
+[' Răsarit = 06:54:42 Apus = 19:42:06 Min (°C) = 6.43 Max (°C) =13.19 Presiune = 1023 Umiditate (%) = 62 Index UV = 0.08 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = nori 85-100%']
+Dorohoi: 13 \ joi \ 01:4:2021 \ 19:06:18
+[' Răsarit = 06:52:39 Apus = 19:43:32 Min (°C) = 9.44 Max (°C) =18.67 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.11 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = cer senin']
+Dorohoi: 13 \ vineri \ 02:4:2021 \ 19:09:02
+[' Răsarit = 06:50:37 Apus = 19:44:57 Min (°C) = 4.31 Max (°C) =12.02 Presiune = 1010 Umiditate (%) = 87 Index UV = 0.03 Viteza vântului = 8.23 Unghiul vântului = 340 Stare = nori 50-85%']
+Dorohoi: 13 \ sâmbătă \ 03:4:2021 \ 20:29:56
+[' Răsarit = 06:48:35 Apus = 19:46:23 Min (°C) = 2.29 Max (°C) =9.62 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 222 Stare = nori 50-85%']
+Dorohoi: 13 \ duminică \ 04:4:2021 \ 20:09:08
+[' Răsarit = 06:46:33 Apus = 19:47:49 Min (°C) = 1.94 Max (°C) =9.49 Presiune = 1015 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = cer senin']
+Dorohoi: 14 \ luni \ 05:4:2021 \ 14:35:47
+[' Răsarit = 06:44:32 Apus = 19:49:15 Min (°C) = 0.6 Max (°C) =12.16 Presiune = 1007 Umiditate (%) = 32 Index UV = 3.13 Viteza vântului = 6.69 Unghiul vântului = 290 Stare = cer senin']
+Dorohoi: 14 \ luni \ 05:4:2021 \ 19:07:16
+[' Răsarit = 06:44:32 Apus = 19:49:15 Min (°C) = 0.6 Max (°C) =12.36 Presiune = 1004 Umiditate (%) = 40 Index UV = 0.13 Viteza vântului = 7.2 Unghiul vântului = 230 Stare = cer senin']
+Dorohoi: 14 \ marți \ 06:4:2021 \ 20:10:53
+[' Răsarit = 06:42:31 Apus = 19:50:40 Min (°C) = 3.24 Max (°C) =10.44 Presiune = 1000 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 14 \ miercuri \ 07:4:2021 \ 19:05:37
+[' Răsarit = 06:40:31 Apus = 19:52:06 Min (°C) = 0.58 Max (°C) =6.6 Presiune = 1007 Umiditate (%) = 41 Index UV = 0.13 Viteza vântului = 5.66 Unghiul vântului = 310 Stare = nori 10-25%']
+Dorohoi: 14 \ joi \ 08:4:2021 \ 19:05:28
+[' Răsarit = 06:38:31 Apus = 19:53:32 Min (°C) = -0.44 Max (°C) =8 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.13 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Dorohoi: 14 \ vineri \ 09:4:2021 \ 19:05:40
+[' Răsarit = 06:36:32 Apus = 19:54:58 Min (°C) = 0.07 Max (°C) =10.16 Presiune = 1023 Umiditate (%) = 34 Index UV = 0.14 Viteza vântului = 3.6 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 14 \ sâmbătă \ 10:4:2021 \ 19:05:27
+[' Răsarit = 06:34:33 Apus = 19:56:24 Min (°C) = 1.37 Max (°C) =13.57 Presiune = 1020 Umiditate (%) = 28 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = cer senin']
+Dorohoi: 14 \ duminică \ 11:4:2021 \ 19:07:02
+[' Răsarit = 06:32:35 Apus = 19:57:50 Min (°C) = 3.43 Max (°C) =15.02 Presiune = 1022 Umiditate (%) = 26 Index UV = 0.18 Viteza vântului = 6.69 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 15 \ luni \ 12:4:2021 \ 21:50:37
+[' Răsarit = 06:30:38 Apus = 19:59:16 Min (°C) = 4.49 Max (°C) =17.3 Presiune = 1018 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Dorohoi: 15 \ marți \ 13:4:2021 \ 19:05:41
+[' Răsarit = 06:28:41 Apus = 20:00:42 Min (°C) = 7.85 Max (°C) =18.27 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.18 Viteza vântului = 7.72 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 15 \ miercuri \ 14:4:2021 \ 19:06:19
+[' Răsarit = 06:26:45 Apus = 20:02:08 Min (°C) = 3.27 Max (°C) =12.74 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.07 Viteza vântului = 7.72 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 15 \ joi \ 15:4:2021 \ 19:06:01
+[' Răsarit = 06:24:50 Apus = 20:03:34 Min (°C) = 1.63 Max (°C) =6.34 Presiune = 1014 Umiditate (%) = 87 Index UV = 0.06 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = ploaie ușoară']
+Dorohoi: 15 \ vineri \ 16:4:2021 \ 19:05:32
+[' Răsarit = 06:22:56 Apus = 20:05:00 Min (°C) = 2.24 Max (°C) =10.35 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.12 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = cer senin']
+Dorohoi: 15 \ sâmbătă \ 17:4:2021 \ 19:05:32
+[' Răsarit = 06:21:02 Apus = 20:06:26 Min (°C) = 1.76 Max (°C) =12.13 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.17 Viteza vântului = 3.09 Unghiul vântului = 60 Stare = cer senin']
+Dorohoi: 15 \ duminică \ 18:4:2021 \ 19:05:25
+[' Răsarit = 06:19:09 Apus = 20:07:53 Min (°C) = 4.76 Max (°C) =12.45 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.12 Viteza vântului = 2.06 Unghiul vântului = 30 Stare = nori 50-85%']
+Dorohoi: 16 \ luni \ 19:4:2021 \ 19:05:37
+[' Răsarit = 06:17:18 Apus = 20:09:19 Min (°C) = 6.91 Max (°C) =12.32 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.2 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = nori 50-85%']
+Dorohoi: 16 \ marți \ 20:4:2021 \ 19:05:50
+[' Răsarit = 06:15:27 Apus = 20:10:45 Min (°C) = 7.57 Max (°C) =12.87 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.16 Viteza vântului = 4.63 Unghiul vântului = 310 Stare = nori 10-25%']
+Dorohoi: 16 \ miercuri \ 21:4:2021 \ 19:05:46
+[' Răsarit = 06:13:37 Apus = 20:12:12 Min (°C) = 5.86 Max (°C) =15.91 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.22 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = cer senin']
+Dorohoi: 16 \ joi \ 22:4:2021 \ 19:06:18
+[' Răsarit = 06:11:48 Apus = 20:13:38 Min (°C) = 6.19 Max (°C) =17.63 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.16 Viteza vântului = 7.72 Unghiul vântului = 250 Stare = nori 25-50%']
+Dorohoi: 16 \ vineri \ 23:4:2021 \ 19:05:45
+[' Răsarit = 06:10:00 Apus = 20:15:04 Min (°C) = 4.93 Max (°C) =10.36 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.19 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 25-50%']
+Dorohoi: 16 \ sâmbătă \ 24:4:2021 \ 19:05:45
+[' Răsarit = 06:08:13 Apus = 20:16:30 Min (°C) = 3.18 Max (°C) =11.06 Presiune = 1021 Umiditate (%) = 40 Index UV = 0.24 Viteza vântului = 6.17 Unghiul vântului = 350 Stare = nori 50-85%']
+Dorohoi: 16 \ duminică \ 25:4:2021 \ 19:05:43
+[' Răsarit = 06:06:27 Apus = 20:17:56 Min (°C) = 3.65 Max (°C) =15.16 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.18 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = cer senin']
+Dorohoi: 17 \ luni \ 26:4:2021 \ 19:05:29
+[' Răsarit = 06:04:42 Apus = 20:19:23 Min (°C) = 3.28 Max (°C) =9.17 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.23 Viteza vântului = 2.57 Unghiul vântului = 10 Stare = cer senin']
+Dorohoi: 17 \ marți \ 27:4:2021 \ 19:06:14
+[' Răsarit = 06:02:59 Apus = 20:20:48 Min (°C) = 3.95 Max (°C) =8.75 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.27 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = nori 25-50%']
+Dorohoi: 17 \ miercuri \ 28:4:2021 \ 19:05:47
+[' Răsarit = 06:01:16 Apus = 20:22:14 Min (°C) = 1.01 Max (°C) =9.65 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.23 Viteza vântului = 7.72 Unghiul vântului = 140 Stare = nori 50-85%']
+Dorohoi: 17 \ joi \ 29:4:2021 \ 19:16:18
+[' Răsarit = 05:59:35 Apus = 20:23:40 Min (°C) = 2.32 Max (°C) =17.41 Presiune = 1011 Umiditate (%) = 63 Index UV = 0.3 Viteza vântului = 5.66 Unghiul vântului = 170 Stare = nori 10-25%']
+Dorohoi: 17 \ vineri \ 30:4:2021 \ 19:05:55
+[' Răsarit = 05:57:55 Apus = 20:25:06 Min (°C) = 9.11 Max (°C) =21.36 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.35 Viteza vântului = 5.66 Unghiul vântului = 270 Stare = nori 10-25%']
+Dorohoi: 17 \ sâmbătă \ 01:5:2021 \ 19:05:56
+[' Răsarit = 05:56:17 Apus = 20:26:31 Min (°C) = 10.62 Max (°C) =22.65 Presiune = 1011 Umiditate (%) = 64 Index UV = 0.34 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 10-25%']
+Dorohoi: 17 \ duminică \ 02:5:2021 \ 20:12:10
+[' Răsarit = 05:54:40 Apus = 20:27:56 Min (°C) = 13.72 Max (°C) =25.09 Presiune = 1005 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 230 Stare = cer senin']
+Dorohoi: 18 \ luni \ 03:5:2021 \ 19:05:49
+[' Răsarit = 05:53:04 Apus = 20:29:21 Min (°C) = 8.32 Max (°C) =17.33 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.23 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Dorohoi: 18 \ marți \ 04:5:2021 \ 19:06:09
+[' Răsarit = 05:51:30 Apus = 20:30:45 Min (°C) = 6.2 Max (°C) =15.77 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.39 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 18 \ miercuri \ 05:5:2021 \ 19:05:43
+[' Răsarit = 05:49:57 Apus = 20:32:10 Min (°C) = 5.63 Max (°C) =20.42 Presiune = 1006 Umiditate (%) = 34 Index UV = 0.38 Viteza vântului = 5.14 Unghiul vântului = 190 Stare = cer senin']
+Dorohoi: 18 \ joi \ 06:5:2021 \ 19:05:56
+[' Răsarit = 05:48:25 Apus = 20:33:33 Min (°C) = 7.84 Max (°C) =15.91 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.28 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = nori 10-25%']
+Dorohoi: 18 \ vineri \ 07:5:2021 \ 19:05:19
+[' Răsarit = 05:46:55 Apus = 20:34:57 Min (°C) = 6.6 Max (°C) =18.94 Presiune = 1007 Umiditate (%) = 52 Index UV = 0.04 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 10-25%']
+Dorohoi: 18 \ sâmbătă \ 08:5:2021 \ 19:05:48
+[' Răsarit = 05:45:27 Apus = 20:36:20 Min (°C) = 6.17 Max (°C) =11.69 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.37 Viteza vântului = 8.23 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 18 \ duminică \ 09:5:2021 \ 19:05:41
+[' Răsarit = 05:44:00 Apus = 20:37:42 Min (°C) = 3.26 Max (°C) =16.54 Presiune = 1022 Umiditate (%) = 36 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 19 \ luni \ 10:5:2021 \ 19:05:34
+[' Răsarit = 05:42:35 Apus = 20:39:04 Min (°C) = 6.13 Max (°C) =21 Presiune = 1020 Umiditate (%) = 32 Index UV = 0.48 Viteza vântului = 4.63 Unghiul vântului = 150 Stare = cer senin']
+Dorohoi: 19 \ marți \ 11:5:2021 \ 19:06:04
+[' Răsarit = 05:41:12 Apus = 20:40:26 Min (°C) = 7.58 Max (°C) =20.97 Presiune = 1016 Umiditate (%) = 26 Index UV = 0.46 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Dorohoi: 19 \ miercuri \ 12:5:2021 \ 19:05:36
+[' Răsarit = 05:39:50 Apus = 20:41:47 Min (°C) = 10.41 Max (°C) =17.02 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.13 Viteza vântului = 2.73 Unghiul vântului = 158 Stare = nori 85-100%']
+Dorohoi: 19 \ joi \ 13:5:2021 \ 19:06:03
+[' Răsarit = 05:38:30 Apus = 20:43:07 Min (°C) = 8.55 Max (°C) =19.14 Presiune = 1003 Umiditate (%) = 67 Index UV = 0.3 Viteza vântului = 3.58 Unghiul vântului = 137 Stare = nori 85-100%']
+Dorohoi: 19 \ vineri \ 14:5:2021 \ 19:06:01
+[' Răsarit = 05:37:12 Apus = 20:44:27 Min (°C) = 8.56 Max (°C) =16.72 Presiune = 1006 Umiditate (%) = 77 Index UV = 0.44 Viteza vântului = 4.12 Unghiul vântului = 190 Stare = nori 10-25%']
+Dorohoi: 19 \ sâmbătă \ 15:5:2021 \ 19:05:49
+[' Răsarit = 05:35:55 Apus = 20:45:45 Min (°C) = 10.63 Max (°C) =20 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.5 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 10-25%']
+Dorohoi: 19 \ duminică \ 16:5:2021 \ 19:06:16
+[' Răsarit = 05:34:41 Apus = 20:47:03 Min (°C) = 9.95 Max (°C) =21.93 Presiune = 1006 Umiditate (%) = 52 Index UV = 0.24 Viteza vântului = 7.72 Unghiul vântului = 160 Stare = cer senin']
+Dorohoi: 20 \ luni \ 17:5:2021 \ 19:06:29
+[' Răsarit = 05:33:28 Apus = 20:48:20 Min (°C) = 11.17 Max (°C) =20.27 Presiune = 1002 Umiditate (%) = 46 Index UV = 0.44 Viteza vântului = 2.06 Unghiul vântului = 120 Stare = cer senin']
+Dorohoi: 20 \ marți \ 18:5:2021 \ 19:06:16
+[' Răsarit = 05:32:18 Apus = 20:49:37 Min (°C) = 11.53 Max (°C) =16.75 Presiune = 1001 Umiditate (%) = 84 Index UV = 0.07 Viteza vântului = 8.31 Unghiul vântului = 295 Stare = ploaie ușoară']
+Dorohoi: 20 \ miercuri \ 19:5:2021 \ 19:05:29
+[' Răsarit = 05:31:09 Apus = 20:50:52 Min (°C) = 10.93 Max (°C) =17 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.54 Viteza vântului = 3.58 Unghiul vântului = 334 Stare = nori 25-50%']
+Dorohoi: 20 \ joi \ 20:5:2021 \ 19:05:50
+[' Răsarit = 05:30:02 Apus = 20:52:06 Min (°C) = 7.26 Max (°C) =16.57 Presiune = 1008 Umiditate (%) = 62 Index UV = 0.47 Viteza vântului = 2.68 Unghiul vântului = 333 Stare = nori 85-100%']
+Dorohoi: 20 \ vineri \ 21:5:2021 \ 19:06:40
+[' Răsarit = 05:28:58 Apus = 20:53:19 Min (°C) = 9.34 Max (°C) =20.99 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.58 Viteza vântului = 1.35 Unghiul vântului = 73 Stare = nori 25-50%']
+Dorohoi: 20 \ sâmbătă \ 22:5:2021 \ 19:06:08
+[' Răsarit = 05:27:55 Apus = 20:54:31 Min (°C) = 9.04 Max (°C) =24.65 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.33 Viteza vântului = 3.19 Unghiul vântului = 172 Stare = nori 85-100%']
+Dorohoi: 20 \ duminică \ 23:5:2021 \ 19:06:32
+[' Răsarit = 05:26:54 Apus = 20:55:42 Min (°C) = 12.89 Max (°C) =21.17 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.47 Viteza vântului = 1.34 Unghiul vântului = 48 Stare = nori 85-100%']
+Dorohoi: 21 \ luni \ 24:5:2021 \ 19:05:30
+[' Răsarit = 05:25:56 Apus = 20:56:52 Min (°C) = 10.95 Max (°C) =20.08 Presiune = 1022 Umiditate (%) = 58 Index UV = 0.58 Viteza vântului = 1.96 Unghiul vântului = 72 Stare = nori 85-100%']
+Dorohoi: 21 \ marți \ 25:5:2021 \ 19:05:31
+[' Răsarit = 05:25:00 Apus = 20:58:00 Min (°C) = 10.83 Max (°C) =23.36 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.64 Viteza vântului = 2.24 Unghiul vântului = 140 Stare = cer senin']
+Dorohoi: 21 \ miercuri \ 26:5:2021 \ 19:06:40
+[' Răsarit = 05:24:06 Apus = 20:59:07 Min (°C) = 11.23 Max (°C) =19.32 Presiune = 1019 Umiditate (%) = 78 Index UV = 0.53 Viteza vântului = 2.36 Unghiul vântului = 112 Stare = nori 50-85%']
+Dorohoi: 21 \ joi \ 27:5:2021 \ 19:05:36
+[' Răsarit = 05:23:15 Apus = 21:00:13 Min (°C) = 12.05 Max (°C) =21.73 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.53 Viteza vântului = 1.79 Unghiul vântului = 133 Stare = nori 85-100%']
+Dorohoi: 21 \ vineri \ 28:5:2021 \ 19:05:58
+[' Răsarit = 05:22:25 Apus = 21:01:17 Min (°C) = 12.02 Max (°C) =15 Presiune = 1013 Umiditate (%) = 90 Index UV = 0.05 Viteza vântului = 2.68 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 21 \ sâmbătă \ 29:5:2021 \ 19:05:30
+[' Răsarit = 05:21:38 Apus = 21:02:20 Min (°C) = 11.65 Max (°C) =18.88 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.27 Viteza vântului = 0.45 Unghiul vântului = 186 Stare = ploaie ușoară']
+Dorohoi: 21 \ duminică \ 30:5:2021 \ 19:05:14
+[' Răsarit = 05:20:53 Apus = 21:03:21 Min (°C) = 9.99 Max (°C) =15.86 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.22 Viteza vântului = 3.58 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 22 \ marți \ 01:6:2021 \ 19:05:59
+[' Răsarit = 05:19:31 Apus = 21:05:18 Min (°C) = 9.29 Max (°C) =15.18 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.23 Viteza vântului = 1.79 Unghiul vântului = 325 Stare = nori 85-100%']
+Dorohoi: 22 \ miercuri \ 02:6:2021 \ 19:04:49
+[' Răsarit = 05:18:54 Apus = 21:06:14 Min (°C) = 8.6 Max (°C) =14.64 Presiune = 1019 Umiditate (%) = 79 Index UV = 0.08 Viteza vântului = 0.89 Unghiul vântului = 331 Stare = ploaie ușoară']
+Dorohoi: 22 \ joi \ 03:6:2021 \ 19:05:18
+[' Răsarit = 05:18:18 Apus = 21:07:08 Min (°C) = 10.29 Max (°C) =20.08 Presiune = 1021 Umiditate (%) = 49 Index UV = 0.55 Viteza vântului = 2.24 Unghiul vântului = 329 Stare = nori 50-85%']
+Dorohoi: 22 \ vineri \ 04:6:2021 \ 19:09:49
+[' Răsarit = 05:17:46 Apus = 21:08:01 Min (°C) = 9.88 Max (°C) =20.83 Presiune = 1021 Umiditate (%) = 51 Index UV = 0.54 Viteza vântului = 0.45 Unghiul vântului = 336 Stare = nori 50-85%']
+Dorohoi: 22 \ sâmbătă \ 05:6:2021 \ 19:06:04
+[' Răsarit = 05:17:16 Apus = 21:08:51 Min (°C) = 12.36 Max (°C) =20.58 Presiune = 1018 Umiditate (%) = 74 Index UV = 0.09 Viteza vântului = 2.72 Unghiul vântului = 264 Stare = nori 85-100%']
+Dorohoi: 22 \ duminică \ 06:6:2021 \ 19:05:52
+[' Răsarit = 05:16:48 Apus = 21:09:39 Min (°C) = 10.94 Max (°C) =21.21 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.71 Viteza vântului = 3.13 Unghiul vântului = 40 Stare = nori 10-25%']
+Dorohoi: 23 \ luni \ 07:6:2021 \ 19:05:55
+[' Răsarit = 05:16:23 Apus = 21:10:26 Min (°C) = 11.68 Max (°C) =24.19 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.7 Viteza vântului = 4.53 Unghiul vântului = 317 Stare = nori 25-50%']
+Dorohoi: 23 \ marți \ 08:6:2021 \ 19:05:58
+[' Răsarit = 05:16:01 Apus = 21:11:10 Min (°C) = 12.64 Max (°C) =22.59 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.71 Viteza vântului = 5.07 Unghiul vântului = 322 Stare = nori 25-50%']
+Dorohoi: 23 \ miercuri \ 09:6:2021 \ 19:06:04
+[' Răsarit = 05:15:41 Apus = 21:11:52 Min (°C) = 13.28 Max (°C) =23.84 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.69 Viteza vântului = 6.17 Unghiul vântului = 316 Stare = nori 25-50%']
+Dorohoi: 23 \ joi \ 10:6:2021 \ 19:05:38
+[' Răsarit = 05:15:23 Apus = 21:12:32 Min (°C) = 12.44 Max (°C) =22.12 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.68 Viteza vântului = 6.09 Unghiul vântului = 317 Stare = ploaie ușoară']
+Dorohoi: 23 \ vineri \ 11:6:2021 \ 19:05:32
+[' Răsarit = 05:15:08 Apus = 21:13:10 Min (°C) = 12.53 Max (°C) =22.65 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.51 Viteza vântului = 1.79 Unghiul vântului = 330 Stare = nori 25-50%']
+Dorohoi: 23 \ sâmbătă \ 12:6:2021 \ 19:05:36
+[' Răsarit = 05:14:56 Apus = 21:13:46 Min (°C) = 13.31 Max (°C) =23.64 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.61 Viteza vântului = 0.45 Unghiul vântului = 146 Stare = nori 50-85%']
+Dorohoi: 23 \ duminică \ 13:6:2021 \ 19:09:59
+[' Răsarit = 05:14:46 Apus = 21:14:19 Min (°C) = 13.08 Max (°C) =18.19 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.63 Viteza vântului = 4.47 Unghiul vântului = 337 Stare = nori 50-85%']
+Dorohoi: 24 \ luni \ 14:6:2021 \ 19:05:42
+[' Răsarit = 05:14:39 Apus = 21:14:50 Min (°C) = 11.24 Max (°C) =14.09 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.05 Viteza vântului = 8.12 Unghiul vântului = 308 Stare = nori 85-100%']
+Dorohoi: 24 \ marți \ 15:6:2021 \ 19:07:32
+[' Răsarit = 05:14:35 Apus = 21:15:18 Min (°C) = 13.33 Max (°C) =19.9 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.66 Viteza vântului = 6.92 Unghiul vântului = 336 Stare = ploaie ușoară']
+Dorohoi: 24 \ miercuri \ 16:6:2021 \ 19:06:29
+[' Răsarit = 05:14:33 Apus = 21:15:44 Min (°C) = 14.4 Max (°C) =26.65 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.69 Viteza vântului = 4.89 Unghiul vântului = 13 Stare = nori 25-50%']
+Dorohoi: 24 \ joi \ 17:6:2021 \ 19:06:05
+[' Răsarit = 05:14:34 Apus = 21:16:08 Min (°C) = 14.5 Max (°C) =23.27 Presiune = 1018 Umiditate (%) = 76 Index UV = 0.69 Viteza vântului = 4.56 Unghiul vântului = 9 Stare = ploaie ușoară']
+Dorohoi: 24 \ vineri \ 18:6:2021 \ 19:06:26
+[' Răsarit = 05:14:37 Apus = 21:16:29 Min (°C) = 15.76 Max (°C) =24.95 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.46 Viteza vântului = 4.81 Unghiul vântului = 67 Stare = nori 85-100%']
+Dorohoi: 24 \ sâmbătă \ 19:6:2021 \ 19:05:29
+[' Răsarit = 05:14:43 Apus = 21:16:48 Min (°C) = 16.08 Max (°C) =23.87 Presiune = 1017 Umiditate (%) = 69 Index UV = 0.53 Viteza vântului = 1.96 Unghiul vântului = 128 Stare = nori 50-85%']
+Dorohoi: 24 \ duminică \ 20:6:2021 \ 19:06:21
+[' Răsarit = 05:14:51 Apus = 21:17:04 Min (°C) = 14.8 Max (°C) =23.55 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.52 Viteza vântului = 2.43 Unghiul vântului = 332 Stare = nori 85-100%']
+Dorohoi: 25 \ luni \ 21:6:2021 \ 19:06:48
+[' Răsarit = 05:15:02 Apus = 21:17:17 Min (°C) = 16.61 Max (°C) =27.23 Presiune = 1011 Umiditate (%) = 66 Index UV = 0.52 Viteza vântului = 0.45 Unghiul vântului = 151 Stare = nori 85-100%']
+Dorohoi: 25 \ marți \ 22:6:2021 \ 19:06:36
+[' Răsarit = 05:15:15 Apus = 21:17:28 Min (°C) = 17.04 Max (°C) =29.1 Presiune = 1011 Umiditate (%) = 64 Index UV = 0.74 Viteza vântului = 0.56 Unghiul vântului = 37 Stare = cer senin']
+Dorohoi: 25 \ miercuri \ 23:6:2021 \ 19:06:06
+[' Răsarit = 05:15:31 Apus = 21:17:37 Min (°C) = 19.56 Max (°C) =29.52 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.76 Viteza vântului = 2.09 Unghiul vântului = 332 Stare = cer senin']
+Dorohoi: 25 \ joi \ 24:6:2021 \ 19:06:27
+[' Răsarit = 05:15:49 Apus = 21:17:42 Min (°C) = 19.84 Max (°C) =30.78 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.78 Viteza vântului = 0.91 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 25 \ vineri \ 25:6:2021 \ 19:05:57
+[' Răsarit = 05:16:10 Apus = 21:17:46 Min (°C) = 21.28 Max (°C) =31.26 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.37 Viteza vântului = 5.04 Unghiul vântului = 287 Stare = nori 50-85%']
+Dorohoi: 25 \ sâmbătă \ 26:6:2021 \ 19:05:38
+[' Răsarit = 05:16:33 Apus = 21:17:46 Min (°C) = 19.49 Max (°C) =27.05 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.69 Viteza vântului = 2.68 Unghiul vântului = 325 Stare = nori 50-85%']
+Dorohoi: 25 \ duminică \ 27:6:2021 \ 19:05:37
+[' Răsarit = 05:16:59 Apus = 21:17:44 Min (°C) = 16.54 Max (°C) =25.4 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.72 Viteza vântului = 2.68 Unghiul vântului = 341 Stare = nori 25-50%']
+Dorohoi: 26 \ luni \ 28:6:2021 \ 19:06:33
+[' Răsarit = 05:17:27 Apus = 21:17:39 Min (°C) = 15.5 Max (°C) =26.1 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.72 Viteza vântului = 0.89 Unghiul vântului = 38 Stare = nori 50-85%']
+Dorohoi: 26 \ marți \ 29:6:2021 \ 19:06:27
+[' Răsarit = 05:17:57 Apus = 21:17:32 Min (°C) = 16.64 Max (°C) =27.65 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.52 Viteza vântului = 1.57 Unghiul vântului = 77 Stare = nori 25-50%']
+Dorohoi: 26 \ miercuri \ 30:6:2021 \ 19:06:04
+[' Răsarit = 05:18:29 Apus = 21:17:22 Min (°C) = 17.68 Max (°C) =31.28 Presiune = 1010 Umiditate (%) = 78 Index UV = 0.51 Viteza vântului = 0.45 Unghiul vântului = 181 Stare = nori 85-100%']
+Dorohoi: 26 \ joi \ 01:7:2021 \ 19:06:51
+[' Răsarit = 05:19:04 Apus = 21:17:09 Min (°C) = 16.55 Max (°C) =25.57 Presiune = 1009 Umiditate (%) = 65 Index UV = 0.31 Viteza vântului = 0.45 Unghiul vântului = 66 Stare = nori 25-50%']
+Dorohoi: 26 \ vineri \ 02:7:2021 \ 19:05:45
+[' Răsarit = 05:19:41 Apus = 21:16:54 Min (°C) = 15.35 Max (°C) =22.04 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.38 Viteza vântului = 0.89 Unghiul vântului = 188 Stare = nori 85-100%']
+Dorohoi: 26 \ sâmbătă \ 03:7:2021 \ 19:05:41
+[' Răsarit = 05:20:20 Apus = 21:16:36 Min (°C) = 15.21 Max (°C) =21.89 Presiune = 1008 Umiditate (%) = 68 Index UV = 0.52 Viteza vântului = 2.24 Unghiul vântului = 323 Stare = nori 50-85%']
+Dorohoi: 26 \ duminică \ 04:7:2021 \ 19:05:45
+[' Răsarit = 05:21:01 Apus = 21:16:16 Min (°C) = 14.56 Max (°C) =23.03 Presiune = 1008 Umiditate (%) = 72 Index UV = 0.67 Viteza vântului = 1.79 Unghiul vântului = 333 Stare = nori 50-85%']
+Dorohoi: 27 \ luni \ 05:7:2021 \ 19:06:08
+[' Răsarit = 05:21:44 Apus = 21:15:53 Min (°C) = 16.13 Max (°C) =25.65 Presiune = 1009 Umiditate (%) = 75 Index UV = 0.64 Viteza vântului = 4.47 Unghiul vântului = 323 Stare = nori 85-100%']
+Dorohoi: 27 \ marți \ 06:7:2021 \ 19:06:18
+[' Răsarit = 05:22:29 Apus = 21:15:27 Min (°C) = 18.02 Max (°C) =27.18 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.74 Viteza vântului = 2.24 Unghiul vântului = 332 Stare = nori 50-85%']
+Dorohoi: 27 \ miercuri \ 07:7:2021 \ 19:05:45
+[' Răsarit = 05:23:16 Apus = 21:14:59 Min (°C) = 18.01 Max (°C) =28.13 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.75 Viteza vântului = 3.95 Unghiul vântului = 73 Stare = nori 10-25%']
+Dorohoi: 27 \ joi \ 08:7:2021 \ 19:06:02
+[' Răsarit = 05:24:05 Apus = 21:14:28 Min (°C) = 18.61 Max (°C) =29.06 Presiune = 1022 Umiditate (%) = 57 Index UV = 0.56 Viteza vântului = 0.45 Unghiul vântului = 177 Stare = cer senin']
+Dorohoi: 27 \ vineri \ 09:7:2021 \ 19:06:15
+[' Răsarit = 05:24:56 Apus = 21:13:54 Min (°C) = 18.56 Max (°C) =30.65 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.73 Viteza vântului = 5.4 Unghiul vântului = 120 Stare = cer senin']
+Dorohoi: 27 \ sâmbătă \ 10:7:2021 \ 19:05:33
+[' Răsarit = 05:25:48 Apus = 21:13:19 Min (°C) = 16.78 Max (°C) =29.47 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.69 Viteza vântului = 0.45 Unghiul vântului = 137 Stare = cer senin']
+Dorohoi: 27 \ duminică \ 11:7:2021 \ 19:05:41
+[' Răsarit = 05:26:42 Apus = 21:12:40 Min (°C) = 17.38 Max (°C) =29.75 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.43 Viteza vântului = 4.59 Unghiul vântului = 123 Stare = nori 25-50%']
+Dorohoi: 28 \ luni \ 12:7:2021 \ 19:06:15
+[' Răsarit = 05:27:38 Apus = 21:12:00 Min (°C) = 18.4 Max (°C) =30.55 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.67 Viteza vântului = 0.89 Unghiul vântului = 143 Stare = nori 10-25%']
+Dorohoi: 28 \ marți \ 13:7:2021 \ 19:06:34
+[' Răsarit = 05:28:36 Apus = 21:11:16 Min (°C) = 17.71 Max (°C) =30.67 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.71 Viteza vântului = 0.89 Unghiul vântului = 129 Stare = cer senin']
+Dorohoi: 28 \ miercuri \ 14:7:2021 \ 19:05:58
+[' Răsarit = 05:29:35 Apus = 21:10:31 Min (°C) = 18.79 Max (°C) =31.18 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.72 Viteza vântului = 1.34 Unghiul vântului = 142 Stare = cer senin']
+Dorohoi: 28 \ joi \ 15:7:2021 \ 19:06:23
+[' Răsarit = 05:30:36 Apus = 21:09:43 Min (°C) = 19.1 Max (°C) =32 Presiune = 1011 Umiditate (%) = 47 Index UV = 0.68 Viteza vântului = 1.79 Unghiul vântului = 139 Stare = cer senin']
+Dorohoi: 28 \ vineri \ 16:7:2021 \ 19:05:54
+[' Răsarit = 05:31:38 Apus = 21:08:53 Min (°C) = 19.03 Max (°C) =30.95 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.36 Viteza vântului = 2.68 Unghiul vântului = 116 Stare = nori 50-85%']
+Dorohoi: 28 \ sâmbătă \ 17:7:2021 \ 19:06:15
+[' Răsarit = 05:32:41 Apus = 21:08:00 Min (°C) = 18.74 Max (°C) =31.7 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.64 Viteza vântului = 2 Unghiul vântului = 72 Stare = nori 10-25%']
+Dorohoi: 28 \ duminică \ 18:7:2021 \ 19:06:10
+[' Răsarit = 05:33:46 Apus = 21:07:05 Min (°C) = 22.78 Max (°C) =32.74 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.33 Viteza vântului = 2.59 Unghiul vântului = 90 Stare = nori 50-85%']
+Dorohoi: 29 \ luni \ 19:7:2021 \ 19:06:16
+[' Răsarit = 05:34:52 Apus = 21:06:08 Min (°C) = 18.73 Max (°C) =28.46 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.31 Viteza vântului = 3.51 Unghiul vântului = 301 Stare = nori 85-100%']
+Dorohoi: 29 \ marți \ 20:7:2021 \ 19:05:48
+[' Răsarit = 05:35:59 Apus = 21:05:09 Min (°C) = 18.75 Max (°C) =21.89 Presiune = 1008 Umiditate (%) = 89 Index UV = 0.08 Viteza vântului = 0.89 Unghiul vântului = 325 Stare = nori 85-100%']
+Dorohoi: 29 \ miercuri \ 21:7:2021 \ 19:05:53
+[' Răsarit = 05:37:07 Apus = 21:04:07 Min (°C) = 15.98 Max (°C) =18.86 Presiune = 1015 Umiditate (%) = 82 Index UV = 0.14 Viteza vântului = 3.13 Unghiul vântului = 324 Stare = nori 85-100%']
+Dorohoi: 29 \ joi \ 22:7:2021 \ 19:05:32
+[' Răsarit = 05:38:17 Apus = 21:03:04 Min (°C) = 15.2 Max (°C) =24.46 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.44 Viteza vântului = 1.79 Unghiul vântului = 350 Stare = nori 10-25%']
+Dorohoi: 29 \ vineri \ 23:7:2021 \ 19:05:55
+[' Răsarit = 05:39:27 Apus = 21:01:58 Min (°C) = 13.92 Max (°C) =24.92 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.43 Viteza vântului = 2.24 Unghiul vântului = 327 Stare = nori 50-85%']
+Dorohoi: 29 \ sâmbătă \ 24:7:2021 \ 19:12:47
+[' Răsarit = 05:40:39 Apus = 21:00:50 Min (°C) = 16.73 Max (°C) =26.73 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.56 Viteza vântului = 2.82 Unghiul vântului = 51 Stare = nori 25-50%']
+Dorohoi: 29 \ duminică \ 25:7:2021 \ 19:05:48
+[' Răsarit = 05:41:51 Apus = 20:59:40 Min (°C) = 17.21 Max (°C) =27.95 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.53 Viteza vântului = 0.45 Unghiul vântului = 140 Stare = nori 10-25%']
+Dorohoi: 30 \ luni \ 26:7:2021 \ 19:06:10
+[' Răsarit = 05:43:05 Apus = 20:58:29 Min (°C) = 16.66 Max (°C) =29.29 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.56 Viteza vântului = 4.8 Unghiul vântului = 168 Stare = nori 10-25%']
+Dorohoi: 30 \ marți \ 27:7:2021 \ 19:06:44
+[' Răsarit = 05:44:19 Apus = 20:57:15 Min (°C) = 17.9 Max (°C) =31.08 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.42 Viteza vântului = 2.85 Unghiul vântului = 180 Stare = nori 50-85%']
+Dorohoi: 30 \ miercuri \ 28:7:2021 \ 19:08:11
+[' Răsarit = 05:45:34 Apus = 20:55:59 Min (°C) = 21.37 Max (°C) =32.16 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.54 Viteza vântului = 3.1 Unghiul vântului = 100 Stare = nori 25-50%']
+Dorohoi: 30 \ joi \ 29:7:2021 \ 19:06:15
+[' Răsarit = 05:46:50 Apus = 20:54:42 Min (°C) = 19.2 Max (°C) =32.34 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.41 Viteza vântului = 3.02 Unghiul vântului = 312 Stare = nori 85-100%']
+Dorohoi: 30 \ vineri \ 30:7:2021 \ 19:05:34
+[' Răsarit = 05:48:06 Apus = 20:53:23 Min (°C) = 18.62 Max (°C) =29.67 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 3.66 Unghiul vântului = 41 Stare = cer senin']
+Dorohoi: 30 \ sâmbătă \ 31:7:2021 \ 19:05:28
+[' Răsarit = 05:49:23 Apus = 20:52:01 Min (°C) = 18.63 Max (°C) =31 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.52 Viteza vântului = 0.89 Unghiul vântului = 126 Stare = cer senin']
+Dorohoi: 30 \ duminică \ 01:8:2021 \ 19:05:49
+[' Răsarit = 05:50:40 Apus = 20:50:39 Min (°C) = 18.02 Max (°C) =30.89 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.52 Viteza vântului = 1.34 Unghiul vântului = 126 Stare = cer senin']
+Dorohoi: 31 \ luni \ 02:8:2021 \ 19:05:29
+[' Răsarit = 05:51:59 Apus = 20:49:14 Min (°C) = 19.48 Max (°C) =30.62 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.48 Viteza vântului = 3.13 Unghiul vântului = 330 Stare = nori 50-85%']
+Dorohoi: 31 \ marți \ 03:8:2021 \ 19:05:36
+[' Răsarit = 05:53:17 Apus = 20:47:48 Min (°C) = 14.3 Max (°C) =25.36 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.2 Viteza vântului = 2.01 Unghiul vântului = 53 Stare = nori 50-85%']
+Dorohoi: 31 \ miercuri \ 04:8:2021 \ 19:07:35
+[' Răsarit = 05:54:36 Apus = 20:46:20 Min (°C) = 15.39 Max (°C) =28.96 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.41 Viteza vântului = 2.46 Unghiul vântului = 148 Stare = nori 85-100%']
+Dorohoi: 31 \ joi \ 05:8:2021 \ 19:04:45
+[' Răsarit = 05:55:56 Apus = 20:44:50 Min (°C) = 17.41 Max (°C) =30.92 Presiune = 1003 Umiditate (%) = 69 Index UV = 0.23 Viteza vântului = 2.24 Unghiul vântului = 133 Stare = nori 25-50%']
+Dorohoi: 31 \ vineri \ 06:8:2021 \ 19:05:42
+[' Răsarit = 05:57:16 Apus = 20:43:19 Min (°C) = 17.86 Max (°C) =29.09 Presiune = 1003 Umiditate (%) = 50 Index UV = 0.31 Viteza vântului = 1.79 Unghiul vântului = 284 Stare = nori 50-85%']
+Dorohoi: 31 \ sâmbătă \ 07:8:2021 \ 19:05:28
+[' Răsarit = 05:58:36 Apus = 20:41:47 Min (°C) = 13.56 Max (°C) =26.41 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.43 Viteza vântului = 1.54 Unghiul vântului = 35 Stare = cer senin']
+Dorohoi: 31 \ duminică \ 08:8:2021 \ 19:05:35
+[' Răsarit = 05:59:56 Apus = 20:40:12 Min (°C) = 14.87 Max (°C) =30.05 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.43 Viteza vântului = 3.9 Unghiul vântului = 96 Stare = nori 50-85%']
+Dorohoi: 32 \ luni \ 09:8:2021 \ 19:06:24
+[' Răsarit = 06:01:17 Apus = 20:38:37 Min (°C) = 18.08 Max (°C) =31.53 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.27 Viteza vântului = 1.34 Unghiul vântului = 322 Stare = nori 50-85%']
+Dorohoi: 32 \ marți \ 10:8:2021 \ 19:06:20
+[' Răsarit = 06:02:38 Apus = 20:37:00 Min (°C) = 16.88 Max (°C) =28.19 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.36 Viteza vântului = 0.89 Unghiul vântului = 322 Stare = cer senin']
+Dorohoi: 32 \ miercuri \ 11:8:2021 \ 19:04:37
+[' Răsarit = 06:03:59 Apus = 20:35:22 Min (°C) = 16.34 Max (°C) =29.91 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.17 Viteza vântului = 0.89 Unghiul vântului = 320 Stare = nori 10-25%']
+Dorohoi: 32 \ joi \ 12:8:2021 \ 19:05:34
+[' Răsarit = 06:05:21 Apus = 20:33:42 Min (°C) = 15.69 Max (°C) =25.24 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.39 Viteza vântului = 1.79 Unghiul vântului = 334 Stare = nori 50-85%']
+Dorohoi: 32 \ vineri \ 13:8:2021 \ 19:04:42
+[' Răsarit = 06:06:42 Apus = 20:32:01 Min (°C) = 13.41 Max (°C) =26.33 Presiune = 1024 Umiditate (%) = 51 Index UV = 0.36 Viteza vântului = 0.45 Unghiul vântului = 47 Stare = nori 50-85%']
+Dorohoi: 32 \ sâmbătă \ 14:8:2021 \ 19:05:24
+[' Răsarit = 06:08:04 Apus = 20:30:18 Min (°C) = 14.25 Max (°C) =30.08 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.37 Viteza vântului = 0.89 Unghiul vântului = 132 Stare = nori 10-25%']
+Dorohoi: 32 \ duminică \ 15:8:2021 \ 19:04:50
+[' Răsarit = 06:09:26 Apus = 20:28:35 Min (°C) = 16.16 Max (°C) =31.78 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.17 Viteza vântului = 3.15 Unghiul vântului = 61 Stare = cer senin']
+Dorohoi: 33 \ luni \ 16:8:2021 \ 19:04:40
+[' Răsarit = 06:10:48 Apus = 20:26:50 Min (°C) = 18.48 Max (°C) =34.94 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.29 Viteza vântului = 3.22 Unghiul vântului = 113 Stare = nori 85-100%']
+Dorohoi: 33 \ marți \ 17:8:2021 \ 19:05:09
+[' Răsarit = 06:12:10 Apus = 20:25:04 Min (°C) = 18.58 Max (°C) =36.75 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.31 Viteza vântului = 1.34 Unghiul vântului = 340 Stare = nori 85-100%']
+Dorohoi: 33 \ miercuri \ 18:8:2021 \ 19:04:55
+[' Răsarit = 06:13:32 Apus = 20:23:17 Min (°C) = 13.51 Max (°C) =18.99 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.21 Viteza vântului = 0.34 Unghiul vântului = 21 Stare = nori 85-100%']
+Dorohoi: 33 \ joi \ 19:8:2021 \ 19:04:39
+[' Răsarit = 06:14:54 Apus = 20:21:29 Min (°C) = 14.41 Max (°C) =23.37 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.31 Viteza vântului = 0.89 Unghiul vântului = 329 Stare = cer senin']
+Dorohoi: 33 \ vineri \ 20:8:2021 \ 19:04:51
+[' Răsarit = 06:16:16 Apus = 20:19:40 Min (°C) = 12.88 Max (°C) =25.06 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.3 Viteza vântului = 0.45 Unghiul vântului = 343 Stare = cer senin']
+Dorohoi: 33 \ sâmbătă \ 21:8:2021 \ 19:05:33
+[' Răsarit = 06:17:38 Apus = 20:17:50 Min (°C) = 14.26 Max (°C) =26.96 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.25 Viteza vântului = 0.89 Unghiul vântului = 322 Stare = nori 85-100%']
+Dorohoi: 33 \ duminică \ 22:8:2021 \ 19:04:56
+[' Răsarit = 06:19:00 Apus = 20:15:58 Min (°C) = 14.38 Max (°C) =26.13 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.26 Viteza vântului = 2.21 Unghiul vântului = 45 Stare = nori 25-50%']
+Dorohoi: 34 \ luni \ 23:8:2021 \ 19:04:47
+[' Răsarit = 06:20:22 Apus = 20:14:06 Min (°C) = 15.91 Max (°C) =29.25 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.05 Viteza vântului = 1.79 Unghiul vântului = 135 Stare = nori 50-85%']
+Dorohoi: 34 \ marți \ 24:8:2021 \ 19:04:42
+[' Răsarit = 06:21:44 Apus = 20:12:13 Min (°C) = 16.74 Max (°C) =29.49 Presiune = 1014 Umiditate (%) = 83 Index UV = 0.19 Viteza vântului = 1.22 Unghiul vântului = 54 Stare = nori 85-100%']
+Dorohoi: 34 \ miercuri \ 25:8:2021 \ 19:04:45
+[' Răsarit = 06:23:06 Apus = 20:10:19 Min (°C) = 12.8 Max (°C) =19.88 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.13 Viteza vântului = 2.24 Unghiul vântului = 323 Stare = nori 85-100%']
+Dorohoi: 34 \ joi \ 26:8:2021 \ 19:05:37
+[' Răsarit = 06:24:28 Apus = 20:08:24 Min (°C) = 12.55 Max (°C) =21.52 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.21 Viteza vântului = 2.42 Unghiul vântului = 53 Stare = nori 50-85%']
+Dorohoi: 34 \ vineri \ 27:8:2021 \ 19:05:58
+[' Răsarit = 06:25:49 Apus = 20:06:28 Min (°C) = 11.79 Max (°C) =25.31 Presiune = 1010 Umiditate (%) = 79 Index UV = 0.07 Viteza vântului = 0.45 Unghiul vântului = 246 Stare = nori 85-100%']
+Dorohoi: 34 \ sâmbătă \ 28:8:2021 \ 19:06:47
+[' Răsarit = 06:27:11 Apus = 20:04:32 Min (°C) = 11.78 Max (°C) =22.52 Presiune = 1014 Umiditate (%) = 72 Index UV = 0.11 Viteza vântului = 3.17 Unghiul vântului = 87 Stare = nori 85-100%']
+Dorohoi: 34 \ duminică \ 29:8:2021 \ 19:05:54
+[' Răsarit = 06:28:33 Apus = 20:02:34 Min (°C) = 13.71 Max (°C) =20.57 Presiune = 1009 Umiditate (%) = 72 Index UV = 0.2 Viteza vântului = 2.88 Unghiul vântului = 340 Stare = nori 50-85%']
+Dorohoi: 35 \ luni \ 30:8:2021 \ 19:05:53
+[' Răsarit = 06:29:54 Apus = 20:00:36 Min (°C) = 14.58 Max (°C) =24.7 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.17 Viteza vântului = 1.18 Unghiul vântului = 96 Stare = nori 85-100%']
+Dorohoi: 35 \ marți \ 31:8:2021 \ 19:05:56
+[' Răsarit = 06:31:16 Apus = 19:58:38 Min (°C) = 12.32 Max (°C) =23.74 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.06 Viteza vântului = 4.39 Unghiul vântului = 315 Stare = nori 50-85%']
+Dorohoi: 35 \ miercuri \ 01:9:2021 \ 19:05:23
+[' Răsarit = 06:32:37 Apus = 19:56:38 Min (°C) = 13.94 Max (°C) =17.83 Presiune = 1011 Umiditate (%) = 81 Index UV = 0.15 Viteza vântului = 3.58 Unghiul vântului = 337 Stare = nori 50-85%']
+Dorohoi: 35 \ joi \ 02:9:2021 \ 19:07:48
+[' Răsarit = 06:33:58 Apus = 19:54:38 Min (°C) = 12.38 Max (°C) =17.52 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.13 Viteza vântului = 1.34 Unghiul vântului = 328 Stare = nori 50-85%']
+Dorohoi: 35 \ vineri \ 03:9:2021 \ 19:05:38
+[' Răsarit = 06:35:20 Apus = 19:52:38 Min (°C) = 9.37 Max (°C) =21.57 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.17 Viteza vântului = 3.76 Unghiul vântului = 360 Stare = cer senin']
+Dorohoi: 35 \ sâmbătă \ 04:9:2021 \ 19:05:22
+[' Răsarit = 06:36:41 Apus = 19:50:37 Min (°C) = 12.57 Max (°C) =22.29 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.04 Viteza vântului = 1.34 Unghiul vântului = 349 Stare = nori 25-50%']
+Dorohoi: 35 \ duminică \ 05:9:2021 \ 19:05:59
+[' Răsarit = 06:38:02 Apus = 19:48:35 Min (°C) = 12.12 Max (°C) =18.24 Presiune = 1024 Umiditate (%) = 53 Index UV = 0.14 Viteza vântului = 2.34 Unghiul vântului = 4 Stare = nori 10-25%']
+Dorohoi: 36 \ luni \ 06:9:2021 \ 19:06:53
+[' Răsarit = 06:39:23 Apus = 19:46:33 Min (°C) = 7.19 Max (°C) =19.06 Presiune = 1026 Umiditate (%) = 57 Index UV = 0.14 Viteza vântului = 3.16 Unghiul vântului = 66 Stare = nori 10-25%']
+Dorohoi: 36 \ marți \ 07:9:2021 \ 19:06:10
+[' Răsarit = 06:40:44 Apus = 19:44:30 Min (°C) = 8.08 Max (°C) =22.97 Presiune = 1024 Umiditate (%) = 54 Index UV = 0.12 Viteza vântului = 0.89 Unghiul vântului = 133 Stare = cer senin']
+Dorohoi: 36 \ miercuri \ 08:9:2021 \ 19:06:25
+[' Răsarit = 06:42:05 Apus = 19:42:27 Min (°C) = 9.26 Max (°C) =23.33 Presiune = 1024 Umiditate (%) = 56 Index UV = 0.12 Viteza vântului = 0.45 Unghiul vântului = 137 Stare = cer senin']
+Dorohoi: 36 \ joi \ 09:9:2021 \ 19:06:21
+[' Răsarit = 06:43:26 Apus = 19:40:24 Min (°C) = 9.61 Max (°C) =24.19 Presiune = 1020 Umiditate (%) = 50 Index UV = 0.11 Viteza vântului = 0.89 Unghiul vântului = 134 Stare = nori 10-25%']
+Dorohoi: 36 \ vineri \ 10:9:2021 \ 19:07:05
+[' Răsarit = 06:44:47 Apus = 19:38:20 Min (°C) = 9.95 Max (°C) =24.26 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.1 Viteza vântului = 1.76 Unghiul vântului = 93 Stare = nori 85-100%']
+Dorohoi: 36 \ sâmbătă \ 11:9:2021 \ 19:05:56
+[' Răsarit = 06:46:08 Apus = 19:36:16 Min (°C) = 12.28 Max (°C) =25.22 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.08 Viteza vântului = 2.16 Unghiul vântului = 48 Stare = nori 85-100%']
+Dorohoi: 36 \ duminică \ 12:9:2021 \ 19:05:46
+[' Răsarit = 06:47:29 Apus = 19:34:11 Min (°C) = 12.99 Max (°C) =25.2 Presiune = 1014 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 37 Stare = nori 85-100%']
+Dorohoi: 37 \ luni \ 13:9:2021 \ 19:05:54
+[' Răsarit = 06:48:50 Apus = 19:32:07 Min (°C) = 13.55 Max (°C) =25.89 Presiune = 1014 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 48 Stare = cer senin']
+Dorohoi: 37 \ marți \ 14:9:2021 \ 19:07:11
+[' Răsarit = 06:50:11 Apus = 19:30:02 Min (°C) = 14.3 Max (°C) =23.46 Presiune = 1017 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 356 Stare = nori 50-85%']
+Dorohoi: 37 \ joi \ 16:9:2021 \ 19:05:52
+[' Răsarit = 06:52:53 Apus = 19:25:51 Min (°C) = 13.44 Max (°C) =26.73 Presiune = 1014 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 137 Stare = nori 85-100%']
+Dorohoi: 37 \ vineri \ 17:9:2021 \ 19:07:07
+[' Răsarit = 06:54:14 Apus = 19:23:46 Min (°C) = 18.23 Max (°C) =27.08 Presiune = 1005 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 173 Stare = nori 85-100%']
+Dorohoi: 37 \ sâmbătă \ 18:9:2021 \ 19:07:41
+[' Răsarit = 06:55:35 Apus = 19:21:40 Min (°C) = 13.7 Max (°C) =20.56 Presiune = 1008 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 290 Stare = nori 85-100%']
+Dorohoi: 37 \ duminică \ 19:9:2021 \ 19:06:12
+[' Răsarit = 06:56:56 Apus = 19:19:35 Min (°C) = 8.25 Max (°C) =14.41 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 38 \ luni \ 20:9:2021 \ 19:06:11
+[' Răsarit = 06:58:18 Apus = 19:17:29 Min (°C) = 8.84 Max (°C) =12.71 Presiune = 1014 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 324 Stare = nori 85-100%']
+Dorohoi: 38 \ marți \ 21:9:2021 \ 19:05:41
+[' Răsarit = 06:59:39 Apus = 19:15:23 Min (°C) = 7.51 Max (°C) =14.53 Presiune = 1020 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 331 Stare = nori 10-25%']
+Dorohoi: 38 \ miercuri \ 22:9:2021 \ 19:06:17
+[' Răsarit = 07:01:01 Apus = 19:13:18 Min (°C) = 7.56 Max (°C) =11.85 Presiune = 1016 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 331 Stare = nori 85-100%']
+Dorohoi: 38 \ joi \ 23:9:2021 \ 19:05:29
+[' Răsarit = 07:02:22 Apus = 19:11:12 Min (°C) = 7.18 Max (°C) =13.15 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 296 Stare = nori 50-85%']
+Dorohoi: 39 \ luni \ 27:9:2021 \ 19:05:52
+[' Răsarit = 07:07:51 Apus = 19:02:52 Min (°C) = 13.34 Max (°C) =19.42 Presiune = 1020 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 70 Stare = cer senin']
+Dorohoi: 39 \ marți \ 28:9:2021 \ 19:06:40
+[' Răsarit = 07:09:13 Apus = 19:00:47 Min (°C) = 8.22 Max (°C) =15.82 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 209 Stare = nori 25-50%']
+Dorohoi: 39 \ miercuri \ 29:9:2021 \ 19:07:06
+[' Răsarit = 07:10:36 Apus = 18:58:43 Min (°C) = 10 Max (°C) =16.24 Presiune = 1026 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.07 Unghiul vântului = 128 Stare = nori 25-50%']
+Dorohoi: 39 \ joi \ 30:9:2021 \ 19:05:55
+[' Răsarit = 07:11:59 Apus = 18:56:39 Min (°C) = 6.13 Max (°C) =17.8 Presiune = 1026 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 136 Stare = nori 10-25%']
+Dorohoi: 39 \ vineri \ 01:10:2021 \ 19:06:34
+[' Răsarit = 07:13:23 Apus = 18:54:35 Min (°C) = 5.36 Max (°C) =16.63 Presiune = 1028 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 133 Stare = nori 85-100%']
+Dorohoi: 39 \ sâmbătă \ 02:10:2021 \ 19:05:55
+[' Răsarit = 07:14:46 Apus = 18:52:32 Min (°C) = 5.48 Max (°C) =17.05 Presiune = 1024 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 135 Stare = nori 10-25%']
+Dorohoi: 39 \ duminică \ 03:10:2021 \ 19:05:33
+[' Răsarit = 07:16:10 Apus = 18:50:29 Min (°C) = 5.41 Max (°C) =17.76 Presiune = 1024 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 138 Stare = cer senin']
+Dorohoi: 40 \ luni \ 04:10:2021 \ 19:09:27
+[' Răsarit = 07:17:34 Apus = 18:48:26 Min (°C) = 6.28 Max (°C) =18.44 Presiune = 1023 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 130 Stare = nori 85-100%']
+Dorohoi: 40 \ marți \ 05:10:2021 \ 19:07:19
+[' Răsarit = 07:18:59 Apus = 18:46:24 Min (°C) = 6.56 Max (°C) =17.81 Presiune = 1026 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 132 Stare = cer senin']
+Dorohoi: 40 \ miercuri \ 06:10:2021 \ 19:05:54
+[' Răsarit = 07:20:23 Apus = 18:44:23 Min (°C) = 5.99 Max (°C) =15.95 Presiune = 1026 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 134 Stare = cer senin']
+Dorohoi: 40 \ joi \ 07:10:2021 \ 19:07:20
+[' Răsarit = 07:21:48 Apus = 18:42:22 Min (°C) = 3.92 Max (°C) =13.68 Presiune = 1030 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 132 Stare = nori 25-50%']
+Dorohoi: 40 \ vineri \ 08:10:2021 \ 19:06:43
+[' Răsarit = 07:23:14 Apus = 18:40:22 Min (°C) = 1.42 Max (°C) =12.45 Presiune = 1031 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 48 Stare = cer senin']
+Dorohoi: 40 \ sâmbătă \ 09:10:2021 \ 19:05:29
+[' Răsarit = 07:24:39 Apus = 18:38:22 Min (°C) = 1.52 Max (°C) =12.21 Presiune = 1030 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 70 Stare = nori 85-100%']
+Dorohoi: 40 \ duminică \ 10:10:2021 \ 19:06:38
+[' Răsarit = 07:26:06 Apus = 18:36:23 Min (°C) = 1.83 Max (°C) =12.88 Presiune = 1027 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 124 Stare = nori 50-85%']
+Dorohoi: 41 \ luni \ 11:10:2021 \ 19:06:00
+[' Răsarit = 07:27:32 Apus = 18:34:25 Min (°C) = 3.32 Max (°C) =15.49 Presiune = 1017 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 135 Stare = nori 85-100%']
+Dorohoi: 41 \ marți \ 12:10:2021 \ 19:06:06
+[' Răsarit = 07:28:59 Apus = 18:32:27 Min (°C) = 5.74 Max (°C) =8.97 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 309 Stare = nori 85-100%']
+Dorohoi: 41 \ miercuri \ 13:10:2021 \ 19:06:04
+[' Răsarit = 07:30:26 Apus = 18:30:30 Min (°C) = 4.01 Max (°C) =12.65 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 332 Stare = nori 85-100%']
+Dorohoi: 41 \ joi \ 14:10:2021 \ 19:05:46
+[' Răsarit = 07:31:53 Apus = 18:28:34 Min (°C) = 4.84 Max (°C) =12.38 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 154 Stare = nori 85-100%']
+Dorohoi: 41 \ vineri \ 15:10:2021 \ 19:05:52
+[' Răsarit = 07:33:21 Apus = 18:26:39 Min (°C) = 3.08 Max (°C) =14.82 Presiune = 1018 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 125 Stare = cer senin']
+Dorohoi: 41 \ sâmbătă \ 16:10:2021 \ 19:06:01
+[' Răsarit = 07:34:49 Apus = 18:24:45 Min (°C) = 8.22 Max (°C) =10.79 Presiune = 1019 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 325 Stare = nori 85-100%']
+Dorohoi: 41 \ duminică \ 17:10:2021 \ 19:05:16
+[' Răsarit = 07:36:18 Apus = 18:22:51 Min (°C) = 5 Max (°C) =13.33 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 62 Stare = nori 10-25%']
+Dorohoi: 42 \ luni \ 18:10:2021 \ 19:05:21
+[' Răsarit = 07:37:47 Apus = 18:20:59 Min (°C) = 4.04 Max (°C) =13.39 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 42 \ marți \ 19:10:2021 \ 19:06:40
+[' Răsarit = 07:39:16 Apus = 18:19:07 Min (°C) = 7.71 Max (°C) =11.47 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 207 Stare = nori 85-100%']
+Dorohoi: 42 \ miercuri \ 20:10:2021 \ 19:05:08
+[' Răsarit = 07:40:46 Apus = 18:17:17 Min (°C) = 6.32 Max (°C) =19.33 Presiune = 1017 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.55 Unghiul vântului = 211 Stare = nori 85-100%']
+Dorohoi: 42 \ joi \ 21:10:2021 \ 19:05:55
+[' Răsarit = 07:42:16 Apus = 18:15:27 Min (°C) = 9.73 Max (°C) =23.04 Presiune = 1007 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 243 Stare = nori 50-85%']
+Dorohoi: 42 \ vineri \ 22:10:2021 \ 19:04:53
+[' Răsarit = 07:43:46 Apus = 18:13:39 Min (°C) = 13.5 Max (°C) =20.69 Presiune = 1012 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 257 Stare = nori 50-85%']
+Dorohoi: 42 \ sâmbătă \ 23:10:2021 \ 19:06:01
+[' Răsarit = 07:45:17 Apus = 18:11:52 Min (°C) = 9.35 Max (°C) =14.24 Presiune = 1021 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 3.91 Unghiul vântului = 313 Stare = nori 50-85%']
+Dorohoi: 42 \ duminică \ 24:10:2021 \ 19:05:41
+[' Răsarit = 07:46:48 Apus = 18:10:06 Min (°C) = 3.71 Max (°C) =9.13 Presiune = 1031 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 333 Stare = nori 25-50%']
+Dorohoi: 43 \ luni \ 25:10:2021 \ 19:05:23
+[' Răsarit = 07:48:19 Apus = 18:08:21 Min (°C) = 0.94 Max (°C) =10.27 Presiune = 1029 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 144 Stare = cer senin']
+Dorohoi: 43 \ marți \ 26:10:2021 \ 19:04:57
+[' Răsarit = 07:49:50 Apus = 18:06:38 Min (°C) = 1.18 Max (°C) =13.16 Presiune = 1023 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 5.04 Unghiul vântului = 147 Stare = cer senin']
+Dorohoi: 43 \ miercuri \ 27:10:2021 \ 19:06:06
+[' Răsarit = 07:51:22 Apus = 18:04:56 Min (°C) = 2.82 Max (°C) =14.78 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 355 Stare = nori 25-50%']
+Dorohoi: 43 \ joi \ 28:10:2021 \ 19:05:03
+[' Răsarit = 07:52:54 Apus = 18:03:15 Min (°C) = 5.42 Max (°C) =15.69 Presiune = 1025 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.18 Unghiul vântului = 46 Stare = nori 10-25%']
+Dorohoi: 43 \ vineri \ 29:10:2021 \ 19:05:30
+[' Răsarit = 07:54:27 Apus = 18:01:35 Min (°C) = 6.56 Max (°C) =16.4 Presiune = 1025 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 142 Stare = nori 10-25%']
+Dorohoi: 43 \ sâmbătă \ 30:10:2021 \ 19:05:20
+[' Răsarit = 07:55:59 Apus = 17:59:57 Min (°C) = 6.39 Max (°C) =16.11 Presiune = 1023 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 137 Stare = cer senin']
+Dorohoi: 43 \ duminică \ 31:10:2021 \ 19:05:07
+[' Răsarit = 06:57:32 Apus = 16:58:21 Min (°C) = 3.9 Max (°C) =15 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 138 Stare = cer senin']
+Dorohoi: 44 \ luni \ 01:11:2021 \ 19:05:17
+[' Răsarit = 06:59:05 Apus = 16:56:45 Min (°C) = 2.79 Max (°C) =15.03 Presiune = 1011 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 135 Stare = cer senin']
+Dorohoi: 44 \ marți \ 02:11:2021 \ 19:05:30
+[' Răsarit = 07:00:38 Apus = 16:55:12 Min (°C) = 3.79 Max (°C) =12.64 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 130 Stare = nori 85-100%']
+Dorohoi: 44 \ miercuri \ 03:11:2021 \ 19:05:30
+[' Răsarit = 07:02:11 Apus = 16:53:40 Min (°C) = 7.14 Max (°C) =16.9 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 137 Stare = nori 25-50%']
+Dorohoi: 44 \ joi \ 04:11:2021 \ 19:04:41
+[' Răsarit = 07:03:44 Apus = 16:52:09 Min (°C) = 8.28 Max (°C) =19.82 Presiune = 1012 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 131 Stare = nori 85-100%']
+Dorohoi: 44 \ vineri \ 05:11:2021 \ 19:06:35
+[' Răsarit = 07:05:17 Apus = 16:50:41 Min (°C) = 12.56 Max (°C) =18.79 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 44 \ sâmbătă \ 06:11:2021 \ 19:06:06
+[' Răsarit = 07:06:50 Apus = 16:49:14 Min (°C) = 6.76 Max (°C) =12.13 Presiune = 1027 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 287 Stare = nori 85-100%']
+Dorohoi: 44 \ duminică \ 07:11:2021 \ 19:05:51
+[' Răsarit = 07:08:23 Apus = 16:47:48 Min (°C) = 4.46 Max (°C) =12.79 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 335 Stare = nori 50-85%']
+Dorohoi: 45 \ luni \ 08:11:2021 \ 19:05:40
+[' Răsarit = 07:09:56 Apus = 16:46:25 Min (°C) = 7.62 Max (°C) =10.3 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 254 Stare = nori 85-100%']
+Dorohoi: 45 \ marți \ 09:11:2021 \ 19:04:19
+[' Răsarit = 07:11:29 Apus = 16:45:03 Min (°C) = 3.34 Max (°C) =10.1 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.62 Unghiul vântului = 326 Stare = nori 50-85%']
+Dorohoi: 45 \ miercuri \ 10:11:2021 \ 19:05:34
+[' Răsarit = 07:13:02 Apus = 16:43:43 Min (°C) = -0.58 Max (°C) =7.98 Presiune = 1035 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 134 Stare = cer senin']
+Dorohoi: 45 \ joi \ 11:11:2021 \ 19:06:09
+[' Răsarit = 07:14:34 Apus = 16:42:25 Min (°C) = -0.17 Max (°C) =10.12 Presiune = 1025 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 171 Stare = nori 50-85%']
+Dorohoi: 45 \ vineri \ 12:11:2021 \ 19:05:33
+[' Răsarit = 07:16:06 Apus = 16:41:09 Min (°C) = 3.44 Max (°C) =11.93 Presiune = 1023 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 330 Stare = cer senin']
+Dorohoi: 45 \ sâmbătă \ 13:11:2021 \ 19:05:33
+[' Răsarit = 07:17:38 Apus = 16:39:55 Min (°C) = 3.22 Max (°C) =10.93 Presiune = 1022 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 124 Stare = nori 50-85%']
+Dorohoi: 45 \ duminică \ 14:11:2021 \ 19:06:49
+[' Răsarit = 07:19:10 Apus = 16:38:43 Min (°C) = 3.62 Max (°C) =12 Presiune = 1023 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 128 Stare = nori 50-85%']
+Dorohoi: 46 \ luni \ 15:11:2021 \ 19:06:13
+[' Răsarit = 07:20:41 Apus = 16:37:33 Min (°C) = 4.85 Max (°C) =9.41 Presiune = 1032 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 105 Stare = nori 85-100%']
+Dorohoi: 46 \ marți \ 16:11:2021 \ 19:06:03
+[' Răsarit = 07:22:11 Apus = 16:36:25 Min (°C) = 1.31 Max (°C) =7.77 Presiune = 1028 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 142 Stare = cer senin']
+Dorohoi: 46 \ miercuri \ 17:11:2021 \ 19:06:07
+[' Răsarit = 07:23:41 Apus = 16:35:19 Min (°C) = -1.65 Max (°C) =6.82 Presiune = 1022 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 129 Stare = nori 25-50%']
+Dorohoi: 46 \ joi \ 18:11:2021 \ 19:05:07
+[' Răsarit = 07:25:11 Apus = 16:34:16 Min (°C) = -0.8 Max (°C) =7.82 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 241 Stare = nori 85-100%']
+Dorohoi: 46 \ vineri \ 19:11:2021 \ 19:05:00
+[' Răsarit = 07:26:39 Apus = 16:33:15 Min (°C) = 3.3 Max (°C) =10.05 Presiune = 1015 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Dorohoi: 46 \ sâmbătă \ 20:11:2021 \ 19:04:56
+[' Răsarit = 07:28:07 Apus = 16:32:16 Min (°C) = 6.91 Max (°C) =12.23 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 330 Stare = nori 10-25%']
+Dorohoi: 46 \ duminică \ 21:11:2021 \ 19:04:50
+[' Răsarit = 07:29:35 Apus = 16:31:19 Min (°C) = 4.38 Max (°C) =13.48 Presiune = 1008 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 175 Stare = nori 10-25%']
+Dorohoi: 47 \ luni \ 22:11:2021 \ 19:05:03
+[' Răsarit = 07:31:01 Apus = 16:30:25 Min (°C) = 3.77 Max (°C) =9.42 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 47 \ marți \ 23:11:2021 \ 19:04:57
+[' Răsarit = 07:32:26 Apus = 16:29:33 Min (°C) = 2.82 Max (°C) =6.42 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 280 Stare = nori 25-50%']
+Dorohoi: 47 \ miercuri \ 24:11:2021 \ 19:07:23
+[' Răsarit = 07:33:51 Apus = 16:28:44 Min (°C) = 1.33 Max (°C) =6.75 Presiune = 1024 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 138 Stare = cer senin']
+Dorohoi: 47 \ joi \ 25:11:2021 \ 19:04:45
+[' Răsarit = 07:35:14 Apus = 16:27:57 Min (°C) = -1.38 Max (°C) =6.35 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 137 Stare = cer senin']
+Dorohoi: 47 \ vineri \ 26:11:2021 \ 19:04:51
+[' Răsarit = 07:36:36 Apus = 16:27:12 Min (°C) = 0.79 Max (°C) =9.65 Presiune = 998 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 9.77 Unghiul vântului = 151 Stare = nori 85-100%']
+Dorohoi: 47 \ sâmbătă \ 27:11:2021 \ 19:04:43
+[' Răsarit = 07:37:57 Apus = 16:26:30 Min (°C) = 5.98 Max (°C) =12.49 Presiune = 1001 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.42 Unghiul vântului = 256 Stare = nori 50-85%']
+Dorohoi: 47 \ duminică \ 28:11:2021 \ 19:05:14
+[' Răsarit = 07:39:17 Apus = 16:25:51 Min (°C) = 5.07 Max (°C) =12.33 Presiune = 998 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 178 Stare = nori 50-85%']
+Dorohoi: 48 \ luni \ 29:11:2021 \ 19:05:42
+[' Răsarit = 07:40:35 Apus = 16:25:15 Min (°C) = 2.34 Max (°C) =9.55 Presiune = 996 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.57 Unghiul vântului = 316 Stare = nori 85-100%']
+Dorohoi: 48 \ marți \ 30:11:2021 \ 19:05:06
+[' Răsarit = 07:41:52 Apus = 16:24:41 Min (°C) = 0.4 Max (°C) =5.18 Presiune = 1000 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.49 Unghiul vântului = 253 Stare = nori 10-25%']
+Dorohoi: 48 \ miercuri \ 01:12:2021 \ 19:05:11
+[' Răsarit = 07:43:08 Apus = 16:24:09 Min (°C) = 1.25 Max (°C) =6.15 Presiune = 1004 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 158 Stare = nori 50-85%']
+Dorohoi: 48 \ joi \ 02:12:2021 \ 19:04:52
+[' Răsarit = 07:44:21 Apus = 16:23:41 Min (°C) = 2.14 Max (°C) =11.17 Presiune = 1000 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 165 Stare = nori 85-100%']
+Dorohoi: 48 \ vineri \ 03:12:2021 \ 19:04:59
+[' Răsarit = 07:45:34 Apus = 16:23:15 Min (°C) = -0.14 Max (°C) =7.59 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 332 Stare = nori 85-100%']
+Dorohoi: 48 \ sâmbătă \ 04:12:2021 \ 19:05:27
+[' Răsarit = 07:46:44 Apus = 16:22:52 Min (°C) = -3.41 Max (°C) =3.5 Presiune = 1009 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 138 Stare = nori 25-50%']
+Dorohoi: 48 \ duminică \ 05:12:2021 \ 19:05:03
+[' Răsarit = 07:47:53 Apus = 16:22:32 Min (°C) = -2.83 Max (°C) =2.38 Presiune = 1008 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 154 Stare = nori 50-85%']
+Dorohoi: 49 \ luni \ 06:12:2021 \ 19:04:52
+[' Răsarit = 07:49:00 Apus = 16:22:14 Min (°C) = -1.81 Max (°C) =3.66 Presiune = 1006 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 309 Stare = nori 50-85%']
+Dorohoi: 49 \ marți \ 07:12:2021 \ 19:04:55
+[' Răsarit = 07:50:04 Apus = 16:22:00 Min (°C) = 0.21 Max (°C) =1.7 Presiune = 1008 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 331 Stare = ploaie ușoară']
+Dorohoi: 49 \ miercuri \ 08:12:2021 \ 19:04:53
+[' Răsarit = 07:51:07 Apus = 16:21:48 Min (°C) = -2.29 Max (°C) =-0.29 Presiune = 1009 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 49 \ joi \ 09:12:2021 \ 19:04:59
+[' Răsarit = 07:52:08 Apus = 16:21:39 Min (°C) = -1.51 Max (°C) =3.44 Presiune = 1011 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 142 Stare = nori 25-50%']
+Dorohoi: 49 \ vineri \ 10:12:2021 \ 19:06:06
+[' Răsarit = 07:53:07 Apus = 16:21:34 Min (°C) = 0.09 Max (°C) =5.99 Presiune = 1005 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 290 Stare = nori 85-100%']
+Dorohoi: 49 \ sâmbătă \ 11:12:2021 \ 19:05:31
+[' Răsarit = 07:54:03 Apus = 16:21:31 Min (°C) = 2.52 Max (°C) =7.25 Presiune = 1014 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 11 Stare = nori 85-100%']
+Dorohoi: 49 \ duminică \ 12:12:2021 \ 19:05:34
+[' Răsarit = 07:54:58 Apus = 16:21:31 Min (°C) = 2.42 Max (°C) =7.48 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 320 Stare = ploaie ușoară']
+Dorohoi: 50 \ luni \ 13:12:2021 \ 19:05:38
+[' Răsarit = 07:55:50 Apus = 16:21:33 Min (°C) = 0.02 Max (°C) =3.1 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 323 Stare = nori 85-100%']
+Dorohoi: 50 \ marți \ 14:12:2021 \ 19:07:08
+[' Răsarit = 07:56:39 Apus = 16:21:39 Min (°C) = -1.22 Max (°C) =0.9 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 50 \ miercuri \ 15:12:2021 \ 19:05:49
+[' Răsarit = 07:57:26 Apus = 16:21:48 Min (°C) = -0.15 Max (°C) =2.37 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 346 Stare = nori 50-85%']
+Dorohoi: 50 \ joi \ 16:12:2021 \ 19:05:27
+[' Răsarit = 07:58:11 Apus = 16:21:59 Min (°C) = -0.5 Max (°C) =5.24 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 304 Stare = nori 85-100%']
+Dorohoi: 50 \ vineri \ 17:12:2021 \ 19:06:37
+[' Răsarit = 07:58:53 Apus = 16:22:14 Min (°C) = 1.81 Max (°C) =4.88 Presiune = 1019 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 339 Stare = nori 85-100%']
+Dorohoi: 50 \ sâmbătă \ 18:12:2021 \ 19:05:19
+[' Răsarit = 07:59:33 Apus = 16:22:31 Min (°C) = 0.76 Max (°C) =2.77 Presiune = 1022 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 332 Stare = nori 85-100%']
+Dorohoi: 50 \ duminică \ 19:12:2021 \ 19:05:25
+[' Răsarit = 08:00:10 Apus = 16:22:52 Min (°C) = 0.32 Max (°C) =5.65 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 275 Stare = nori 85-100%']
+Dorohoi: 51 \ luni \ 20:12:2021 \ 19:05:48
+[' Răsarit = 08:00:44 Apus = 16:23:15 Min (°C) = -1.24 Max (°C) =1.81 Presiune = 1008 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 312 Stare = nori 50-85%']
+Dorohoi: 51 \ marți \ 21:12:2021 \ 19:07:09
+[' Răsarit = 08:01:16 Apus = 16:23:41 Min (°C) = -6.88 Max (°C) =-2.63 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.24 Unghiul vântului = 322 Stare = nori 25-50%']
+Dorohoi: 51 \ miercuri \ 22:12:2021 \ 19:05:34
+[' Răsarit = 08:01:45 Apus = 16:24:09 Min (°C) = -8.39 Max (°C) =-3.51 Presiune = 1025 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 245 Stare = nori 25-50%']
+Dorohoi: 51 \ joi \ 23:12:2021 \ 19:05:59
+[' Răsarit = 08:02:11 Apus = 16:24:41 Min (°C) = -9.46 Max (°C) =-3.64 Presiune = 1019 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 136 Stare = nori 50-85%']
+Dorohoi: 51 \ vineri \ 24:12:2021 \ 19:05:37
+[' Răsarit = 08:02:35 Apus = 16:25:15 Min (°C) = -5.7 Max (°C) =3.65 Presiune = 999 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 225 Stare = nori 85-100%']
+Dorohoi: 51 \ sâmbătă \ 25:12:2021 \ 19:05:53
+[' Răsarit = 08:02:55 Apus = 16:25:52 Min (°C) = -2.71 Max (°C) =4.61 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 344 Stare = snow']
+Dorohoi: 51 \ duminică \ 26:12:2021 \ 19:05:43
+[' Răsarit = 08:03:13 Apus = 16:26:32 Min (°C) = -4.36 Max (°C) =-2.34 Presiune = 1016 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 46 Stare = nori 85-100%']
+Dorohoi: 52 \ luni \ 27:12:2021 \ 19:05:40
+[' Răsarit = 08:03:28 Apus = 16:27:15 Min (°C) = -4.6 Max (°C) =-2.18 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 133 Stare = snow']
+Dorohoi: 52 \ marți \ 28:12:2021 \ 19:06:00
+[' Răsarit = 08:03:40 Apus = 16:27:59 Min (°C) = -4.89 Max (°C) =-2.75 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 65 Stare = nori 85-100%']
+Dorohoi: 52 \ miercuri \ 29:12:2021 \ 19:05:40
+[' Răsarit = 08:03:50 Apus = 16:28:47 Min (°C) = -11.97 Max (°C) =-4.25 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 117 Stare = nori 85-100%']
+Dorohoi: 52 \ joi \ 30:12:2021 \ 19:05:57
+[' Răsarit = 08:03:56 Apus = 16:29:37 Min (°C) = -5.64 Max (°C) =-0.06 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 161 Stare = nori 85-100%']
+Dorohoi: 52 \ vineri \ 31:12:2021 \ 19:05:11
+[' Răsarit = 08:04:00 Apus = 16:30:29 Min (°C) = -1.42 Max (°C) =4.59 Presiune = 1014 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 265 Stare = nori 85-100%']
+Dorohoi: 00 \ sâmbătă \ 01:1:2022 \ 19:05:55
+[' Răsarit = 08:04:00 Apus = 16:31:24 Min (°C) = 4.41 Max (°C) =8.41 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 00 \ duminică \ 02:1:2022 \ 19:04:50
+[' Răsarit = 08:03:58 Apus = 16:32:22 Min (°C) = 1.69 Max (°C) =6.38 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.23 Unghiul vântului = 155 Stare = nori 50-85%']
+Dorohoi: 01 \ luni \ 03:1:2022 \ 19:04:38
+[' Răsarit = 08:03:53 Apus = 16:33:21 Min (°C) = 3.45 Max (°C) =11.02 Presiune = 1005 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 246 Stare = nori 50-85%']
+Dorohoi: 01 \ marți \ 04:1:2022 \ 19:04:38
+[' Răsarit = 08:03:45 Apus = 16:34:23 Min (°C) = 4.57 Max (°C) =9.34 Presiune = 1002 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 156 Stare = ploaie ușoară']
+Dorohoi: 01 \ miercuri \ 05:1:2022 \ 19:05:09
+[' Răsarit = 08:03:34 Apus = 16:35:26 Min (°C) = 8.24 Max (°C) =13.13 Presiune = 998 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 211 Stare = nori 85-100%']
+Dorohoi: 01 \ joi \ 06:1:2022 \ 19:04:47
+[' Răsarit = 08:03:21 Apus = 16:36:32 Min (°C) = 1.81 Max (°C) =7.96 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 245 Stare = ploaie ușoară']
+Dorohoi: 01 \ vineri \ 07:1:2022 \ 19:05:47
+[' Răsarit = 08:03:04 Apus = 16:37:40 Min (°C) = -2.11 Max (°C) =1.11 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 145 Stare = cer senin']
+Dorohoi: 01 \ sâmbătă \ 08:1:2022 \ 19:05:24
+[' Răsarit = 08:02:45 Apus = 16:38:50 Min (°C) = -2.72 Max (°C) =2.33 Presiune = 1013 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 150 Stare = nori 85-100%']
+Dorohoi: 01 \ duminică \ 09:1:2022 \ 19:04:55
+[' Răsarit = 08:02:23 Apus = 16:40:02 Min (°C) = 0.98 Max (°C) =3.25 Presiune = 1005 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 341 Stare = nori 50-85%']
+Dorohoi: 02 \ luni \ 10:1:2022 \ 19:05:10
+[' Răsarit = 08:01:58 Apus = 16:41:16 Min (°C) = -2.22 Max (°C) =0.82 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 02 \ marți \ 11:1:2022 \ 19:06:13
+[' Răsarit = 08:01:31 Apus = 16:42:31 Min (°C) = -3.75 Max (°C) =-1.19 Presiune = 1029 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 02 \ miercuri \ 12:1:2022 \ 19:04:56
+[' Răsarit = 08:01:00 Apus = 16:43:48 Min (°C) = -6.98 Max (°C) =-3.76 Presiune = 1032 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 338 Stare = cer senin']
+Dorohoi: 02 \ joi \ 13:1:2022 \ 19:05:42
+[' Răsarit = 08:00:27 Apus = 16:45:06 Min (°C) = -7.06 Max (°C) =2.08 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 275 Stare = nori 85-100%']
+Dorohoi: 02 \ vineri \ 14:1:2022 \ 19:05:11
+[' Răsarit = 07:59:52 Apus = 16:46:26 Min (°C) = -1.18 Max (°C) =6.47 Presiune = 1009 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 324 Stare = nori 25-50%']
+Dorohoi: 02 \ sâmbătă \ 15:1:2022 \ 19:04:56
+[' Răsarit = 07:59:14 Apus = 16:47:48 Min (°C) = 0.12 Max (°C) =3.09 Presiune = 1020 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 340 Stare = nori 50-85%']
+Dorohoi: 02 \ duminică \ 16:1:2022 \ 19:04:41
+[' Răsarit = 07:58:33 Apus = 16:49:11 Min (°C) = -1.99 Max (°C) =2.7 Presiune = 1018 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 170 Stare = nori 85-100%']
+Dorohoi: 03 \ luni \ 17:1:2022 \ 19:04:47
+[' Răsarit = 07:57:50 Apus = 16:50:35 Min (°C) = 0.11 Max (°C) =6.15 Presiune = 1002 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 312 Stare = nori 85-100%']
+Dorohoi: 03 \ marți \ 18:1:2022 \ 19:04:45
+[' Răsarit = 07:57:04 Apus = 16:52:01 Min (°C) = -1.17 Max (°C) =1.11 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 325 Stare = nori 50-85%']
+Dorohoi: 03 \ miercuri \ 19:1:2022 \ 19:04:55
+[' Răsarit = 07:56:16 Apus = 16:53:27 Min (°C) = -2.43 Max (°C) =2.43 Presiune = 1022 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 49 Stare = nori 25-50%']
+Dorohoi: 03 \ joi \ 20:1:2022 \ 19:04:56
+[' Răsarit = 07:55:25 Apus = 16:54:55 Min (°C) = -2.31 Max (°C) =6.13 Presiune = 1007 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 235 Stare = nori 85-100%']
+Dorohoi: 03 \ vineri \ 21:1:2022 \ 19:04:50
+[' Răsarit = 07:54:32 Apus = 16:56:23 Min (°C) = -2.48 Max (°C) =1.21 Presiune = 1011 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 253 Stare = nori 50-85%']
+Dorohoi: 03 \ sâmbătă \ 22:1:2022 \ 19:05:31
+[' Răsarit = 07:53:36 Apus = 16:57:53 Min (°C) = -3.16 Max (°C) =-0.15 Presiune = 1015 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 348 Stare = nori 85-100%']
+Dorohoi: 03 \ duminică \ 23:1:2022 \ 19:05:37
+[' Răsarit = 07:52:38 Apus = 16:59:24 Min (°C) = -6.2 Max (°C) =-3.58 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 339 Stare = nori 85-100%']
+Dorohoi: 04 \ luni \ 24:1:2022 \ 19:06:13
+[' Răsarit = 07:51:38 Apus = 17:00:55 Min (°C) = -9.48 Max (°C) =-5.11 Presiune = 1033 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 267 Stare = nori 25-50%']
+Dorohoi: 04 \ marți \ 25:1:2022 \ 19:05:50
+[' Răsarit = 07:50:36 Apus = 17:02:27 Min (°C) = -11.99 Max (°C) =-1.15 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 222 Stare = zăpadă slabă']
+Dorohoi: 04 \ miercuri \ 26:1:2022 \ 19:06:04
+[' Răsarit = 07:49:31 Apus = 17:04:00 Min (°C) = -1.65 Max (°C) =1.07 Presiune = 1019 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 332 Stare = nori 85-100%']
+Dorohoi: 04 \ joi \ 27:1:2022 \ 19:05:56
+[' Răsarit = 07:48:25 Apus = 17:05:33 Min (°C) = -2.55 Max (°C) =2.65 Presiune = 1017 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 203 Stare = nori 50-85%']
+Dorohoi: 04 \ vineri \ 28:1:2022 \ 19:05:46
+[' Răsarit = 07:47:16 Apus = 17:07:07 Min (°C) = -2.57 Max (°C) =4.53 Presiune = 1009 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 328 Stare = nori 85-100%']
+Dorohoi: 04 \ sâmbătă \ 29:1:2022 \ 19:05:57
+[' Răsarit = 07:46:05 Apus = 17:08:42 Min (°C) = -2.66 Max (°C) =0.67 Presiune = 1017 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 163 Stare = nori 25-50%']
+Dorohoi: 04 \ duminică \ 30:1:2022 \ 19:04:55
+[' Răsarit = 07:44:52 Apus = 17:10:16 Min (°C) = -3.11 Max (°C) =5.42 Presiune = 999 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 251 Stare = nori 50-85%']
+Dorohoi: 05 \ luni \ 31:1:2022 \ 19:04:55
+[' Răsarit = 07:43:37 Apus = 17:11:52 Min (°C) = -0.12 Max (°C) =3.39 Presiune = 1003 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 158 Stare = nori 50-85%']
+Dorohoi: 05 \ marți \ 01:2:2022 \ 19:04:51
+[' Răsarit = 07:42:20 Apus = 17:13:27 Min (°C) = -1.85 Max (°C) =2.89 Presiune = 1008 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 354 Stare = nori 50-85%']
+Dorohoi: 05 \ miercuri \ 02:2:2022 \ 19:05:03
+[' Răsarit = 07:41:02 Apus = 17:15:03 Min (°C) = -2.36 Max (°C) =4.88 Presiune = 1002 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 233 Stare = nori 50-85%']
+Dorohoi: 05 \ joi \ 03:2:2022 \ 19:04:46
+[' Răsarit = 07:39:41 Apus = 17:16:39 Min (°C) = -1.73 Max (°C) =1.69 Presiune = 1018 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 287 Stare = nori 25-50%']
+Dorohoi: 05 \ vineri \ 04:2:2022 \ 19:04:58
+[' Răsarit = 07:38:19 Apus = 17:18:16 Min (°C) = -2.93 Max (°C) =4.43 Presiune = 1014 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 122 Stare = nori 50-85%']
+Dorohoi: 05 \ sâmbătă \ 05:2:2022 \ 19:04:46
+[' Răsarit = 07:36:54 Apus = 17:19:52 Min (°C) = -0.76 Max (°C) =8.3 Presiune = 1014 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 334 Stare = nori 85-100%']
+Dorohoi: 05 \ duminică \ 06:2:2022 \ 19:04:57
+[' Răsarit = 07:35:29 Apus = 17:21:29 Min (°C) = -1.31 Max (°C) =7.1 Presiune = 1011 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 159 Stare = nori 85-100%']
+Dorohoi: 06 \ luni \ 07:2:2022 \ 19:04:51
+[' Răsarit = 07:34:01 Apus = 17:23:05 Min (°C) = 1.67 Max (°C) =8.69 Presiune = 1001 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 336 Stare = nori 85-100%']
+Dorohoi: 06 \ marți \ 08:2:2022 \ 19:04:46
+[' Răsarit = 07:32:32 Apus = 17:24:42 Min (°C) = -0.08 Max (°C) =3.11 Presiune = 1018 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 286 Stare = nori 50-85%']
+Dorohoi: 06 \ miercuri \ 09:2:2022 \ 19:05:27
+[' Răsarit = 07:31:01 Apus = 17:26:19 Min (°C) = -0.05 Max (°C) =6.94 Presiune = 1022 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.44 Unghiul vântului = 309 Stare = nori 85-100%']
+Dorohoi: 06 \ joi \ 10:2:2022 \ 19:06:14
+[' Răsarit = 07:29:28 Apus = 17:27:55 Min (°C) = 3.48 Max (°C) =10.78 Presiune = 1019 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 141 Stare = nori 25-50%']
+Dorohoi: 06 \ vineri \ 11:2:2022 \ 19:05:38
+[' Răsarit = 07:27:54 Apus = 17:29:32 Min (°C) = 3.07 Max (°C) =9.54 Presiune = 1017 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 158 Stare = nori 50-85%']
+Dorohoi: 06 \ sâmbătă \ 12:2:2022 \ 19:05:38
+[' Răsarit = 07:26:19 Apus = 17:31:08 Min (°C) = 0.24 Max (°C) =5.24 Presiune = 1034 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 339 Stare = nori 25-50%']
+Dorohoi: 06 \ duminică \ 13:2:2022 \ 19:05:48
+[' Răsarit = 07:24:42 Apus = 17:32:44 Min (°C) = -1.78 Max (°C) =5.84 Presiune = 1025 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 143 Stare = cer senin']
+Dorohoi: 07 \ luni \ 14:2:2022 \ 19:05:41
+[' Răsarit = 07:23:03 Apus = 17:34:21 Min (°C) = -2.88 Max (°C) =5.76 Presiune = 1020 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 139 Stare = nori 25-50%']
+Dorohoi: 07 \ marți \ 15:2:2022 \ 19:05:36
+[' Răsarit = 07:21:24 Apus = 17:35:57 Min (°C) = -1.99 Max (°C) =6.65 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 140 Stare = nori 50-85%']
+Dorohoi: 07 \ miercuri \ 16:2:2022 \ 19:05:47
+[' Răsarit = 07:19:43 Apus = 17:37:32 Min (°C) = 2.01 Max (°C) =10.11 Presiune = 1010 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 170 Stare = nori 85-100%']
+Dorohoi: 07 \ joi \ 17:2:2022 \ 19:06:19
+[' Răsarit = 07:18:00 Apus = 17:39:08 Min (°C) = 3.59 Max (°C) =12.58 Presiune = 995 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 249 Stare = ploaie ușoară']
+Dorohoi: 07 \ vineri \ 18:2:2022 \ 19:05:29
+[' Răsarit = 07:16:17 Apus = 17:40:43 Min (°C) = 3.49 Max (°C) =8.35 Presiune = 1014 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 268 Stare = nori 25-50%']
+Dorohoi: 07 \ sâmbătă \ 19:2:2022 \ 19:05:41
+[' Răsarit = 07:14:32 Apus = 17:42:18 Min (°C) = 2.63 Max (°C) =11.66 Presiune = 1011 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 338 Stare = nori 50-85%']
+Dorohoi: 07 \ duminică \ 20:2:2022 \ 19:06:38
+[' Răsarit = 07:12:46 Apus = 17:43:53 Min (°C) = 3.07 Max (°C) =9.9 Presiune = 1012 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 251 Stare = nori 85-100%']
+Dorohoi: 08 \ luni \ 21:2:2022 \ 19:05:41
+[' Răsarit = 07:10:59 Apus = 17:45:27 Min (°C) = 3.12 Max (°C) =12.35 Presiune = 1001 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 157 Stare = nori 85-100%']
+Dorohoi: 08 \ marți \ 22:2:2022 \ 19:06:07
+[' Răsarit = 07:09:10 Apus = 17:47:01 Min (°C) = 4.31 Max (°C) =10.39 Presiune = 1011 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 349 Stare = nori 50-85%']
+Dorohoi: 08 \ miercuri \ 23:2:2022 \ 19:05:44
+[' Răsarit = 07:07:21 Apus = 17:48:35 Min (°C) = 1.15 Max (°C) =9.64 Presiune = 1018 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 313 Stare = nori 85-100%']
+Dorohoi: 08 \ joi \ 24:2:2022 \ 19:05:46
+[' Răsarit = 07:05:31 Apus = 17:50:08 Min (°C) = 2.44 Max (°C) =6.41 Presiune = 1022 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 139 Stare = nori 50-85%']
+Dorohoi: 08 \ vineri \ 25:2:2022 \ 19:05:45
+[' Răsarit = 07:03:40 Apus = 17:51:41 Min (°C) = -0.4 Max (°C) =8.14 Presiune = 1016 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 9 Stare = nori 85-100%']
+Dorohoi: 08 \ sâmbătă \ 26:2:2022 \ 19:06:04
+[' Răsarit = 07:01:47 Apus = 17:53:14 Min (°C) = 2.66 Max (°C) =6.94 Presiune = 1027 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 335 Stare = nori 50-85%']
+Dorohoi: 08 \ duminică \ 27:2:2022 \ 19:05:30
+[' Răsarit = 06:59:54 Apus = 17:54:47 Min (°C) = 0.05 Max (°C) =5.93 Presiune = 1028 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 21 Stare = nori 85-100%']
+Dorohoi: 09 \ luni \ 28:2:2022 \ 19:05:44
+[' Răsarit = 06:58:00 Apus = 17:56:19 Min (°C) = -0.12 Max (°C) =4.57 Presiune = 1028 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 339 Stare = nori 85-100%']
+Dorohoi: 09 \ marți \ 01:3:2022 \ 19:05:53
+[' Răsarit = 06:56:05 Apus = 17:57:50 Min (°C) = -1.21 Max (°C) =0.82 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 341 Stare = zăpadă slabă']
+Dorohoi: 09 \ miercuri \ 02:3:2022 \ 19:05:34
+[' Răsarit = 06:54:10 Apus = 17:59:22 Min (°C) = -1.88 Max (°C) =1.61 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 339 Stare = nori 85-100%']
+Dorohoi: 09 \ joi \ 03:3:2022 \ 19:05:31
+[' Răsarit = 06:52:13 Apus = 18:00:53 Min (°C) = -0.77 Max (°C) =2.95 Presiune = 1012 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 278 Stare = nori 85-100%']
+Dorohoi: 09 \ vineri \ 04:3:2022 \ 19:05:32
+[' Răsarit = 06:50:16 Apus = 18:02:24 Min (°C) = -1.47 Max (°C) =2.28 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 338 Stare = nori 85-100%']
+Dorohoi: 09 \ sâmbătă \ 05:3:2022 \ 19:05:12
+[' Răsarit = 06:48:18 Apus = 18:03:54 Min (°C) = -1.9 Max (°C) =2.06 Presiune = 1020 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 333 Stare = nori 85-100%']
+Dorohoi: 09 \ duminică \ 06:3:2022 \ 19:05:04
+[' Răsarit = 06:46:20 Apus = 18:05:24 Min (°C) = -3.92 Max (°C) =1.99 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 136 Stare = nori 85-100%']
+Dorohoi: 10 \ luni \ 07:3:2022 \ 19:04:52
+[' Răsarit = 06:44:21 Apus = 18:06:54 Min (°C) = -4.26 Max (°C) =1.63 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 290 Stare = nori 85-100%']
+Dorohoi: 10 \ marți \ 08:3:2022 \ 19:04:40
+[' Răsarit = 06:42:21 Apus = 18:08:24 Min (°C) = -2.75 Max (°C) =2.4 Presiune = 1016 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 271 Stare = nori 85-100%']
+Dorohoi: 10 \ miercuri \ 09:3:2022 \ 19:04:49
+[' Răsarit = 06:40:21 Apus = 18:09:53 Min (°C) = -5.85 Max (°C) =0.2 Presiune = 1020 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 340 Stare = nori 50-85%']
+Dorohoi: 10 \ joi \ 10:3:2022 \ 19:04:49
+[' Răsarit = 06:38:20 Apus = 18:11:22 Min (°C) = -4.15 Max (°C) =-0.71 Presiune = 1029 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 37 Stare = nori 85-100%']
+Dorohoi: 10 \ vineri \ 11:3:2022 \ 19:04:47
+[' Răsarit = 06:36:19 Apus = 18:12:51 Min (°C) = -6.5 Max (°C) =-0.78 Presiune = 1029 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 44 Stare = nori 85-100%']
+Dorohoi: 10 \ sâmbătă \ 12:3:2022 \ 19:04:41
+[' Răsarit = 06:34:18 Apus = 18:14:19 Min (°C) = -5.07 Max (°C) =2.38 Presiune = 1026 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 307 Stare = nori 50-85%']
+Dorohoi: 10 \ duminică \ 13:3:2022 \ 19:04:47
+[' Răsarit = 06:32:16 Apus = 18:15:47 Min (°C) = -1.61 Max (°C) =2.8 Presiune = 1029 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 96 Stare = nori 85-100%']
+Dorohoi: 11 \ luni \ 14:3:2022 \ 19:04:42
+[' Răsarit = 06:30:13 Apus = 18:17:15 Min (°C) = -2.46 Max (°C) =5.45 Presiune = 1033 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 143 Stare = cer senin']
+Dorohoi: 11 \ marți \ 15:3:2022 \ 19:04:48
+[' Răsarit = 06:28:11 Apus = 18:18:43 Min (°C) = -0.63 Max (°C) =9.65 Presiune = 1031 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 314 Stare = nori 50-85%']
+Dorohoi: 11 \ miercuri \ 16:3:2022 \ 19:04:51
+[' Răsarit = 06:26:08 Apus = 18:20:10 Min (°C) = 1.67 Max (°C) =7.24 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 137 Stare = nori 85-100%']
+Dorohoi: 11 \ joi \ 17:3:2022 \ 19:04:45
+[' Răsarit = 06:24:05 Apus = 18:21:37 Min (°C) = -1.72 Max (°C) =3.47 Presiune = 1036 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 59 Stare = nori 25-50%']
+Dorohoi: 11 \ vineri \ 18:3:2022 \ 19:04:52
+[' Răsarit = 06:22:01 Apus = 18:23:04 Min (°C) = -2.79 Max (°C) =3.38 Presiune = 1041 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 47 Stare = nori 85-100%']
+Dorohoi: 11 \ sâmbătă \ 19:3:2022 \ 19:04:56
+[' Răsarit = 06:19:58 Apus = 18:24:31 Min (°C) = -2.5 Max (°C) =3.93 Presiune = 1041 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 23 Stare = cer senin']
+Dorohoi: 11 \ duminică \ 20:3:2022 \ 19:04:49
+[' Răsarit = 06:17:54 Apus = 18:25:58 Min (°C) = -1.58 Max (°C) =6.71 Presiune = 1039 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 331 Stare = cer senin']
+Dorohoi: 12 \ luni \ 21:3:2022 \ 19:05:09
+[' Răsarit = 06:15:50 Apus = 18:27:24 Min (°C) = 0.2 Max (°C) =10.76 Presiune = 1038 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 324 Stare = cer senin']
+Dorohoi: 12 \ marți \ 22:3:2022 \ 19:04:56
+[' Răsarit = 06:13:46 Apus = 18:28:51 Min (°C) = 2.14 Max (°C) =14.66 Presiune = 1035 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 28 Stare = cer senin']
+Dorohoi: 12 \ miercuri \ 23:3:2022 \ 19:04:44
+[' Răsarit = 06:11:42 Apus = 18:30:17 Min (°C) = 4.02 Max (°C) =15.65 Presiune = 1027 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 309 Stare = cer senin']
+Dorohoi: 12 \ joi \ 24:3:2022 \ 19:04:48
+[' Răsarit = 06:09:38 Apus = 18:31:43 Min (°C) = 5.88 Max (°C) =13.2 Presiune = 1019 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 343 Stare = cer senin']
+Dorohoi: 12 \ vineri \ 25:3:2022 \ 19:04:47
+[' Răsarit = 06:07:35 Apus = 18:33:09 Min (°C) = 2.68 Max (°C) =8.65 Presiune = 1026 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 64 Stare = nori 50-85%']
+Dorohoi: 12 \ sâmbătă \ 26:3:2022 \ 19:04:50
+[' Răsarit = 06:05:31 Apus = 18:34:35 Min (°C) = 2.76 Max (°C) =17.24 Presiune = 1019 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 7.49 Unghiul vântului = 273 Stare = nori 50-85%']
+Dorohoi: 12 \ duminică \ 27:3:2022 \ 19:04:54
+[' Răsarit = 07:03:27 Apus = 19:36:01 Min (°C) = 3.45 Max (°C) =11.65 Presiune = 1029 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 6.31 Unghiul vântului = 330 Stare = nori 25-50%']
+Dorohoi: 13 \ luni \ 28:3:2022 \ 19:05:05
+[' Răsarit = 07:01:23 Apus = 19:37:27 Min (°C) = 1.4 Max (°C) =20.65 Presiune = 1017 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 242 Stare = cer senin']
+Dorohoi: 13 \ marți \ 29:3:2022 \ 19:04:55
+[' Răsarit = 06:59:20 Apus = 19:38:53 Min (°C) = 6.89 Max (°C) =21.65 Presiune = 1006 Umiditate (%) = 45 Index UV = 0.09 Viteza vântului = 4.79 Unghiul vântului = 287 Stare = nori 50-85%']
+Dorohoi: 13 \ miercuri \ 30:3:2022 \ 19:04:53
+[' Răsarit = 06:57:17 Apus = 19:40:18 Min (°C) = 8.52 Max (°C) =18.65 Presiune = 1004 Umiditate (%) = 68 Index UV = 0.09 Viteza vântului = 4.25 Unghiul vântului = 29 Stare = nori 85-100%']
+Dorohoi: 13 \ joi \ 31:3:2022 \ 19:05:04
+[' Răsarit = 06:55:14 Apus = 19:41:44 Min (°C) = 9.04 Max (°C) =17.8 Presiune = 996 Umiditate (%) = 40 Index UV = 0.01 Viteza vântului = 1.34 Unghiul vântului = 139 Stare = nori 85-100%']
+Dorohoi: 13 \ vineri \ 01:4:2022 \ 19:05:48
+[' Răsarit = 06:53:11 Apus = 19:43:10 Min (°C) = 11.37 Max (°C) =20.96 Presiune = 991 Umiditate (%) = 74 Index UV = 0.07 Viteza vântului = 1.2 Unghiul vântului = 341 Stare = nori 50-85%']
+Dorohoi: 13 \ sâmbătă \ 02:4:2022 \ 19:05:45
+[' Răsarit = 06:51:08 Apus = 19:44:35 Min (°C) = 5.65 Max (°C) =11.19 Presiune = 998 Umiditate (%) = 60 Index UV = 0.03 Viteza vântului = 4.92 Unghiul vântului = 339 Stare = nori 85-100%']
+Dorohoi: 13 \ duminică \ 03:4:2022 \ 19:38:25
+[' Răsarit = 06:49:06 Apus = 19:46:01 Min (°C) = 1.16 Max (°C) =5.57 Presiune = 1009 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 337 Stare = nori 85-100%']
+Dorohoi: 14 \ luni \ 04:4:2022 \ 19:05:37
+[' Răsarit = 06:47:05 Apus = 19:47:27 Min (°C) = -2.22 Max (°C) =6.31 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.11 Viteza vântului = 1.42 Unghiul vântului = 244 Stare = nori 85-100%']
+Dorohoi: 14 \ marți \ 05:4:2022 \ 19:06:13
+[' Răsarit = 06:45:03 Apus = 19:48:53 Min (°C) = -0.44 Max (°C) =12.6 Presiune = 1004 Umiditate (%) = 42 Index UV = 0.13 Viteza vântului = 1.34 Unghiul vântului = 278 Stare = nori 85-100%']
+Dorohoi: 14 \ miercuri \ 06:4:2022 \ 19:05:47
+[' Răsarit = 06:43:02 Apus = 19:50:18 Min (°C) = 5.52 Max (°C) =18.65 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.15 Viteza vântului = 3.52 Unghiul vântului = 269 Stare = nori 50-85%']
+Dorohoi: 14 \ joi \ 07:4:2022 \ 19:05:45
+[' Răsarit = 06:41:02 Apus = 19:51:44 Min (°C) = 6.84 Max (°C) =17.76 Presiune = 995 Umiditate (%) = 39 Index UV = 0.14 Viteza vântului = 4.02 Unghiul vântului = 138 Stare = nori 85-100%']
+Dorohoi: 14 \ vineri \ 08:4:2022 \ 19:05:33
+[' Răsarit = 06:39:02 Apus = 19:53:10 Min (°C) = 6.66 Max (°C) =19.65 Presiune = 1002 Umiditate (%) = 48 Index UV = 0.17 Viteza vântului = 4.92 Unghiul vântului = 287 Stare = nori 50-85%']
+Dorohoi: 14 \ sâmbătă \ 09:4:2022 \ 19:05:42
+[' Răsarit = 06:37:03 Apus = 19:54:36 Min (°C) = 8.84 Max (°C) =19.69 Presiune = 1001 Umiditate (%) = 68 Index UV = 0.12 Viteza vântului = 9.06 Unghiul vântului = 327 Stare = nori 50-85%']
+Dorohoi: 14 \ duminică \ 10:4:2022 \ 19:06:16
+[' Răsarit = 06:35:04 Apus = 19:56:02 Min (°C) = 4.33 Max (°C) =7.23 Presiune = 1010 Umiditate (%) = 73 Index UV = 0.1 Viteza vântului = 1.34 Unghiul vântului = 330 Stare = nori 85-100%']
+Dorohoi: 15 \ luni \ 11:4:2022 \ 19:05:45
+[' Răsarit = 06:33:06 Apus = 19:57:28 Min (°C) = 2.81 Max (°C) =11.05 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.16 Viteza vântului = 4.02 Unghiul vântului = 345 Stare = nori 50-85%']
+Dorohoi: 15 \ marți \ 12:4:2022 \ 19:05:17
+[' Răsarit = 06:31:08 Apus = 19:58:54 Min (°C) = 1.81 Max (°C) =9.76 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.17 Viteza vântului = 4.47 Unghiul vântului = 345 Stare = nori 85-100%']
+Dorohoi: 15 \ miercuri \ 13:4:2022 \ 19:05:38
+[' Răsarit = 06:29:11 Apus = 20:00:20 Min (°C) = 2.36 Max (°C) =12.83 Presiune = 1019 Umiditate (%) = 31 Index UV = 0.13 Viteza vântului = 4.02 Unghiul vântului = 360 Stare = nori 85-100%']
+Dorohoi: 15 \ joi \ 14:4:2022 \ 19:05:31
+[' Răsarit = 06:27:15 Apus = 20:01:46 Min (°C) = 7.68 Max (°C) =17.25 Presiune = 1019 Umiditate (%) = 34 Index UV = 0.21 Viteza vântului = 1.56 Unghiul vântului = 15 Stare = cer senin']
+Dorohoi: 15 \ vineri \ 15:4:2022 \ 19:06:15
+[' Răsarit = 06:25:20 Apus = 20:03:12 Min (°C) = 7.19 Max (°C) =23.65 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.21 Viteza vântului = 2.76 Unghiul vântului = 358 Stare = nori 25-50%']
+Dorohoi: 15 \ sâmbătă \ 16:4:2022 \ 19:06:09
+[' Răsarit = 06:23:25 Apus = 20:04:38 Min (°C) = 6.28 Max (°C) =12.65 Presiune = 1017 Umiditate (%) = 73 Index UV = 0.02 Viteza vântului = 6.26 Unghiul vântului = 343 Stare = nori 85-100%']
+Dorohoi: 15 \ duminică \ 17:4:2022 \ 19:05:45
+[' Răsarit = 06:21:31 Apus = 20:06:04 Min (°C) = 0.92 Max (°C) =8.04 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.2 Viteza vântului = 3.58 Unghiul vântului = 348 Stare = nori 85-100%']
+Dorohoi: 16 \ luni \ 18:4:2022 \ 19:06:16
+[' Răsarit = 06:19:38 Apus = 20:07:31 Min (°C) = -0.64 Max (°C) =10.55 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.21 Viteza vântului = 1.79 Unghiul vântului = 324 Stare = nori 85-100%']
+Dorohoi: 16 \ marți \ 19:4:2022 \ 19:06:38
+[' Răsarit = 06:17:46 Apus = 20:08:57 Min (°C) = -0.77 Max (°C) =11.66 Presiune = 1009 Umiditate (%) = 38 Index UV = 0.17 Viteza vântului = 0.89 Unghiul vântului = 10 Stare = nori 85-100%']
+Dorohoi: 16 \ miercuri \ 20:4:2022 \ 19:06:01
+[' Răsarit = 06:15:55 Apus = 20:10:23 Min (°C) = 3.15 Max (°C) =11.26 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.12 Viteza vântului = 0.89 Unghiul vântului = 223 Stare = nori 85-100%']
+Dorohoi: 16 \ joi \ 21:4:2022 \ 19:06:09
+[' Răsarit = 06:14:05 Apus = 20:11:49 Min (°C) = 4.48 Max (°C) =15.65 Presiune = 1012 Umiditate (%) = 93 Index UV = 0.2 Viteza vântului = 3.04 Unghiul vântului = 109 Stare = nori 85-100%']
+Dorohoi: 16 \ vineri \ 22:4:2022 \ 19:05:08
+[' Răsarit = 06:12:15 Apus = 20:13:16 Min (°C) = 5.6 Max (°C) =17.35 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.26 Viteza vântului = 1.34 Unghiul vântului = 147 Stare = nori 50-85%']
+Dorohoi: 16 \ sâmbătă \ 23:4:2022 \ 19:05:09
+[' Răsarit = 06:10:27 Apus = 20:14:42 Min (°C) = 7.15 Max (°C) =13.53 Presiune = 1005 Umiditate (%) = 79 Index UV = 0.26 Viteza vântului = 2.24 Unghiul vântului = 333 Stare = nori 85-100%']
+Dorohoi: 16 \ duminică \ 24:4:2022 \ 19:04:56
+[' Răsarit = 06:08:40 Apus = 20:16:08 Min (°C) = 5.76 Max (°C) =20.62 Presiune = 1006 Umiditate (%) = 51 Index UV = 0.29 Viteza vântului = 2.24 Unghiul vântului = 138 Stare = nori 25-50%']
+Dorohoi: 17 \ luni \ 25:4:2022 \ 19:04:54
+[' Răsarit = 06:06:54 Apus = 20:17:34 Min (°C) = 11.49 Max (°C) =21.54 Presiune = 1005 Umiditate (%) = 76 Index UV = 0.02 Viteza vântului = 1.34 Unghiul vântului = 300 Stare = nori 85-100%']
+Dorohoi: 17 \ marți \ 26:4:2022 \ 19:04:59
+[' Răsarit = 06:05:09 Apus = 20:19:00 Min (°C) = 8.92 Max (°C) =18.65 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.16 Viteza vântului = 3.11 Unghiul vântului = 338 Stare = nori 50-85%']
+Dorohoi: 17 \ miercuri \ 27:4:2022 \ 19:04:59
+[' Răsarit = 06:03:25 Apus = 20:20:26 Min (°C) = 9.5 Max (°C) =14.07 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.11 Viteza vântului = 1.7 Unghiul vântului = 126 Stare = ploaie ușoară']
+Dorohoi: 17 \ joi \ 28:4:2022 \ 19:05:02
+[' Răsarit = 06:01:42 Apus = 20:21:52 Min (°C) = 9.55 Max (°C) =11.71 Presiune = 1022 Umiditate (%) = 87 Index UV = 0.04 Viteza vântului = 3.59 Unghiul vântului = 42 Stare = ploaie ușoară']
+Dorohoi: 17 \ vineri \ 29:4:2022 \ 19:05:28
+[' Răsarit = 06:00:01 Apus = 20:23:18 Min (°C) = 8.35 Max (°C) =14.24 Presiune = 1023 Umiditate (%) = 84 Index UV = 0.24 Viteza vântului = 2.1 Unghiul vântului = 111 Stare = ploaie ușoară']
+Dorohoi: 17 \ sâmbătă \ 30:4:2022 \ 19:04:47
+[' Răsarit = 05:58:21 Apus = 20:24:44 Min (°C) = 6.54 Max (°C) =18.65 Presiune = 1022 Umiditate (%) = 64 Index UV = 0.32 Viteza vântului = 2.48 Unghiul vântului = 76 Stare = nori 50-85%']
+Dorohoi: 17 \ duminică \ 01:5:2022 \ 19:04:53
+[' Răsarit = 05:56:42 Apus = 20:26:09 Min (°C) = 7.62 Max (°C) =19.65 Presiune = 1019 Umiditate (%) = 56 Index UV = 0.23 Viteza vântului = 4.38 Unghiul vântului = 118 Stare = nori 50-85%']
+Dorohoi: 18 \ marți \ 03:5:2022 \ 20:06:07
+[' Răsarit = 05:53:28 Apus = 20:28:59 Min (°C) = 7.97 Max (°C) =19.65 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.7 Unghiul vântului = 173 Stare = nori 50-85%']
+Dorohoi: 18 \ miercuri \ 04:5:2022 \ 19:09:04
+[' Răsarit = 05:51:54 Apus = 20:30:24 Min (°C) = 8.39 Max (°C) =19.65 Presiune = 1018 Umiditate (%) = 58 Index UV = 0.25 Viteza vântului = 3.46 Unghiul vântului = 343 Stare = nori 85-100%']
+Dorohoi: 18 \ joi \ 05:5:2022 \ 19:05:00
+[' Răsarit = 05:50:20 Apus = 20:31:48 Min (°C) = 8.97 Max (°C) =19.65 Presiune = 1023 Umiditate (%) = 53 Index UV = 0.39 Viteza vântului = 3.5 Unghiul vântului = 98 Stare = cer senin']
+Dorohoi: 18 \ vineri \ 06:5:2022 \ 19:05:09
+[' Răsarit = 05:48:48 Apus = 20:33:12 Min (°C) = 6.88 Max (°C) =21.65 Presiune = 1022 Umiditate (%) = 54 Index UV = 0.39 Viteza vântului = 4.65 Unghiul vântului = 129 Stare = nori 25-50%']
+Dorohoi: 18 \ sâmbătă \ 07:5:2022 \ 19:04:59
+[' Răsarit = 05:47:18 Apus = 20:34:35 Min (°C) = 8 Max (°C) =21.65 Presiune = 1021 Umiditate (%) = 62 Index UV = 0.2 Viteza vântului = 2.73 Unghiul vântului = 158 Stare = nori 85-100%']
+Dorohoi: 18 \ duminică \ 08:5:2022 \ 19:05:33
+[' Răsarit = 05:45:49 Apus = 20:35:59 Min (°C) = 10.13 Max (°C) =22.65 Presiune = 1020 Umiditate (%) = 65 Index UV = 0.41 Viteza vântului = 2.6 Unghiul vântului = 202 Stare = nori 50-85%']
+Dorohoi: 19 \ luni \ 09:5:2022 \ 19:05:09
+[' Răsarit = 05:44:22 Apus = 20:37:21 Min (°C) = 11.48 Max (°C) =19.66 Presiune = 1024 Umiditate (%) = 80 Index UV = 0.43 Viteza vântului = 2.87 Unghiul vântului = 42 Stare = nori 85-100%']
+Dorohoi: 19 \ marți \ 10:5:2022 \ 19:05:26
+[' Răsarit = 05:42:57 Apus = 20:38:43 Min (°C) = 10.55 Max (°C) =20.62 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.39 Viteza vântului = 0.45 Unghiul vântului = 338 Stare = nori 10-25%']
+Dorohoi: 19 \ miercuri \ 11:5:2022 \ 19:05:05
+[' Răsarit = 05:41:33 Apus = 20:40:05 Min (°C) = 11.48 Max (°C) =24.65 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.4 Viteza vântului = 0.78 Unghiul vântului = 48 Stare = nori 85-100%']
+Dorohoi: 19 \ joi \ 12:5:2022 \ 19:05:09
+[' Răsarit = 05:40:11 Apus = 20:41:26 Min (°C) = 12.6 Max (°C) =30.65 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.49 Viteza vântului = 2.58 Unghiul vântului = 322 Stare = cer senin']
+Dorohoi: 19 \ vineri \ 13:5:2022 \ 19:05:00
+[' Răsarit = 05:38:50 Apus = 20:42:47 Min (°C) = 15.17 Max (°C) =24.1 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.45 Viteza vântului = 2.69 Unghiul vântului = 72 Stare = nori 50-85%']
+Dorohoi: 19 \ sâmbătă \ 14:5:2022 \ 19:04:59
+[' Răsarit = 05:37:32 Apus = 20:44:06 Min (°C) = 13.4 Max (°C) =20.62 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.49 Viteza vântului = 2.24 Unghiul vântului = 339 Stare = nori 10-25%']
+Dorohoi: 19 \ duminică \ 15:5:2022 \ 19:05:02
+[' Răsarit = 05:36:15 Apus = 20:45:25 Min (°C) = 10.42 Max (°C) =23.65 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.45 Viteza vântului = 4.66 Unghiul vântului = 335 Stare = nori 50-85%']
+Dorohoi: 20 \ luni \ 16:5:2022 \ 19:06:06
+[' Răsarit = 05:35:00 Apus = 20:46:43 Min (°C) = 12.03 Max (°C) =23.65 Presiune = 1018 Umiditate (%) = 58 Index UV = 0.34 Viteza vântului = 2.28 Unghiul vântului = 342 Stare = nori 50-85%']
+Dorohoi: 20 \ marți \ 17:5:2022 \ 19:07:57
+[' Răsarit = 05:33:47 Apus = 20:48:01 Min (°C) = 12.66 Max (°C) =21.13 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.13 Viteza vântului = 1.79 Unghiul vântului = 305 Stare = nori 85-100%']
+Dorohoi: 20 \ miercuri \ 18:5:2022 \ 19:05:11
+[' Răsarit = 05:32:36 Apus = 20:49:17 Min (°C) = 6.83 Max (°C) =16.65 Presiune = 1025 Umiditate (%) = 58 Index UV = 0.29 Viteza vântului = 6.3 Unghiul vântului = 342 Stare = nori 85-100%']
+Dorohoi: 20 \ joi \ 19:5:2022 \ 20:10:06
+[' Răsarit = 05:31:26 Apus = 20:50:33 Min (°C) = 6.59 Max (°C) =21.65 Presiune = 1025 Umiditate (%) = 62 Index UV = 0.15 Viteza vântului = 1.87 Unghiul vântului = 297 Stare = nori 25-50%']
+Dorohoi: 20 \ vineri \ 20:5:2022 \ 19:04:59
+[' Răsarit = 05:30:19 Apus = 20:51:47 Min (°C) = 10.06 Max (°C) =27.65 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.32 Viteza vântului = 1.08 Unghiul vântului = 356 Stare = nori 85-100%']
+Dorohoi: 20 \ sâmbătă \ 21:5:2022 \ 19:05:47
+[' Răsarit = 05:29:14 Apus = 20:53:01 Min (°C) = 13.79 Max (°C) =26.65 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.36 Viteza vântului = 6.73 Unghiul vântului = 326 Stare = nori 85-100%']

@@ -1,0 +1,956 @@
+Busteni: 04 \ luni \ 25:1:2021 \ 22:43:02
+[' Răsarit = 07:46:10 Apus = 17:13:56 Min (°C) = -5.1 Max (°C) =3.14 Presiune = 832 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 25-50%']
+Busteni: 04 \ marți \ 26:1:2021 \ 09:59:54
+[' Răsarit = 07:45:12 Apus = 17:15:22 Min (°C) = -4.38 Max (°C) =-2.31 Presiune = 1003 Umiditate (%) = 85 Index UV = 0.48 Viteza vântului = 1.75 Unghiul vântului = 352 Stare = nori 85-100%']
+Busteni: 04 \ miercuri \ 27:1:2021 \ 19:20:45
+[' Răsarit = 07:44:13 Apus = 17:16:48 Min (°C) = -5.75 Max (°C) =-3.9 Presiune = 832 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = zăpadă slabă']
+Busteni: 04 \ joi \ 28:1:2021 \ 19:35:28
+[' Răsarit = 07:43:11 Apus = 17:18:14 Min (°C) = -8.9 Max (°C) =-4.21 Presiune = 834 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 50-85%']
+Busteni: 04 \ vineri \ 29:1:2021 \ 20:21:18
+[' Răsarit = 07:42:08 Apus = 17:19:41 Min (°C) = -8.43 Max (°C) =1.07 Presiune = 834 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 85-100%']
+Busteni: 04 \ sâmbătă \ 30:1:2021 \ 20:22:54
+[' Răsarit = 07:41:02 Apus = 17:21:08 Min (°C) = -1.16 Max (°C) =3.69 Presiune = 833 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 50-85%']
+Busteni: 04 \ duminică \ 31:1:2021 \ 19:20:18
+[' Răsarit = 07:39:55 Apus = 17:22:35 Min (°C) = -0.21 Max (°C) =4.57 Presiune = 836 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 173 Stare = nori 50-85%']
+Busteni: 05 \ luni \ 01:2:2021 \ 19:21:16
+[' Răsarit = 07:38:46 Apus = 17:24:02 Min (°C) = 0.31 Max (°C) =3.68 Presiune = 1008 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 225 Stare = nori 10-25%']
+Busteni: 05 \ marți \ 02:2:2021 \ 20:52:03
+[' Răsarit = 07:37:35 Apus = 17:25:30 Min (°C) = 1.38 Max (°C) =6.15 Presiune = 847 Umiditate (%) = 10 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 234 Stare = nori 25-50%']
+Busteni: 05 \ miercuri \ 03:2:2021 \ 19:47:46
+[' Răsarit = 07:36:22 Apus = 17:26:58 Min (°C) = 0.9 Max (°C) =6.19 Presiune = 1009 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 204 Stare = nori 50-85%']
+Busteni: 05 \ joi \ 04:2:2021 \ 19:22:24
+[' Răsarit = 07:35:07 Apus = 17:28:26 Min (°C) = 1.6 Max (°C) =7.85 Presiune = 843 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 18.33 Unghiul vântului = 246 Stare = nori 50-85%']
+Busteni: 05 \ vineri \ 05:2:2021 \ 19:18:08
+[' Răsarit = 07:33:51 Apus = 17:29:54 Min (°C) = -0.12 Max (°C) =6.44 Presiune = 849 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 8.49 Unghiul vântului = 224 Stare = nori 50-85%']
+Busteni: 05 \ sâmbătă \ 06:2:2021 \ 19:46:52
+[' Răsarit = 07:32:33 Apus = 17:31:22 Min (°C) = 2.44 Max (°C) =9.14 Presiune = 846 Umiditate (%) = 10 Index UV = 0 Viteza vântului = 8.94 Unghiul vântului = 285 Stare = nori 85-100%']
+Busteni: 05 \ duminică \ 07:2:2021 \ 19:22:22
+[' Răsarit = 07:31:13 Apus = 17:32:51 Min (°C) = 2.41 Max (°C) =6.31 Presiune = 1002 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.36 Unghiul vântului = 22 Stare = nori 85-100%']
+Busteni: 06 \ luni \ 08:2:2021 \ 21:04:20
+[' Răsarit = 07:29:52 Apus = 17:34:19 Min (°C) = 2.09 Max (°C) =9.07 Presiune = 992 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 270 Stare = nori 85-100%']
+Busteni: 06 \ marți \ 09:2:2021 \ 19:19:30
+[' Răsarit = 07:28:29 Apus = 17:35:47 Min (°C) = 1.57 Max (°C) =8.1 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 196 Stare = nori 85-100%']
+Busteni: 06 \ miercuri \ 10:2:2021 \ 19:20:14
+[' Răsarit = 07:27:05 Apus = 17:37:15 Min (°C) = 2.58 Max (°C) =8.1 Presiune = 842 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 210 Stare = nori 50-85%']
+Busteni: 06 \ joi \ 11:2:2021 \ 19:14:25
+[' Răsarit = 07:25:39 Apus = 17:38:43 Min (°C) = -6.82 Max (°C) =7.77 Presiune = 837 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 299 Stare = zăpadă slabă']
+Busteni: 06 \ vineri \ 12:2:2021 \ 20:54:45
+[' Răsarit = 07:24:12 Apus = 17:40:10 Min (°C) = -14.06 Max (°C) =-7.96 Presiune = 1022 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 235 Stare = zăpadă slabă']
+Busteni: 06 \ sâmbătă \ 13:2:2021 \ 19:19:22
+[' Răsarit = 07:22:44 Apus = 17:41:38 Min (°C) = -15.53 Max (°C) =-9.34 Presiune = 844 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 326 Stare = nori 10-25%']
+Busteni: 06 \ duminică \ 14:2:2021 \ 19:17:25
+[' Răsarit = 07:21:14 Apus = 17:43:05 Min (°C) = -13.4 Max (°C) =-6.83 Presiune = 1031 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 350 Stare = nori 85-100%']
+Busteni: 07 \ luni \ 15:2:2021 \ 20:14:42
+[' Răsarit = 07:19:42 Apus = 17:44:32 Min (°C) = -10.42 Max (°C) =-5.31 Presiune = 848 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.47 Unghiul vântului = 326 Stare = zăpadă slabă']
+Busteni: 07 \ marți \ 16:2:2021 \ 19:10:17
+[' Răsarit = 07:18:10 Apus = 17:45:59 Min (°C) = -10.71 Max (°C) =-4.96 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 146 Stare = cer senin']
+Busteni: 07 \ miercuri \ 17:2:2021 \ 19:18:21
+[' Răsarit = 07:16:36 Apus = 17:47:26 Min (°C) = -10.42 Max (°C) =-0.26 Presiune = 1011 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = nori 50-85%']
+Busteni: 07 \ joi \ 18:2:2021 \ 19:22:14
+[' Răsarit = 07:15:01 Apus = 17:48:52 Min (°C) = -4.41 Max (°C) =0.81 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 19 Stare = zăpadă slabă']
+Busteni: 07 \ vineri \ 19:2:2021 \ 19:15:21
+[' Răsarit = 07:13:24 Apus = 17:50:18 Min (°C) = -7.55 Max (°C) =0.82 Presiune = 1020 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 213 Stare = nori 85-100%']
+Busteni: 07 \ sâmbătă \ 20:2:2021 \ 19:19:33
+[' Răsarit = 07:11:47 Apus = 17:51:44 Min (°C) = -2.88 Max (°C) =1.72 Presiune = 856 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 121 Stare = nori 85-100%']
+Busteni: 07 \ duminică \ 21:2:2021 \ 19:17:02
+[' Răsarit = 07:10:08 Apus = 17:53:09 Min (°C) = -2.54 Max (°C) =6.02 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 336 Stare = nori 25-50%']
+Busteni: 08 \ luni \ 22:2:2021 \ 19:21:49
+[' Răsarit = 07:08:29 Apus = 17:54:34 Min (°C) = 0.92 Max (°C) =9.71 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 337 Stare = nori 25-50%']
+Busteni: 08 \ marți \ 23:2:2021 \ 19:19:34
+[' Răsarit = 07:06:48 Apus = 17:55:59 Min (°C) = 2.05 Max (°C) =10.53 Presiune = 995 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 180 Stare = cer senin']
+Busteni: 08 \ miercuri \ 24:2:2021 \ 19:20:08
+[' Răsarit = 07:05:06 Apus = 17:57:24 Min (°C) = 0.89 Max (°C) =9.05 Presiune = 864 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 9.83 Unghiul vântului = 299 Stare = nori 10-25%']
+Busteni: 08 \ joi \ 25:2:2021 \ 19:18:08
+[' Răsarit = 07:03:24 Apus = 17:58:48 Min (°C) = 3.45 Max (°C) =11.91 Presiune = 863 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 12.52 Unghiul vântului = 324 Stare = nori 10-25%']
+Busteni: 08 \ vineri \ 26:2:2021 \ 19:18:57
+[' Răsarit = 07:01:40 Apus = 18:00:11 Min (°C) = 5.12 Max (°C) =14.29 Presiune = 1019 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 348 Stare = cer senin']
+Busteni: 08 \ sâmbătă \ 27:2:2021 \ 19:17:11
+[' Răsarit = 06:59:56 Apus = 18:01:35 Min (°C) = 0.61 Max (°C) =10.67 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 292 Stare = nori 85-100%']
+Busteni: 08 \ duminică \ 28:2:2021 \ 19:20:23
+[' Răsarit = 06:58:11 Apus = 18:02:58 Min (°C) = -1.95 Max (°C) =2.82 Presiune = 855 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 25-50%']
+Busteni: 09 \ luni \ 01:3:2021 \ 19:14:37
+[' Răsarit = 06:56:24 Apus = 18:04:21 Min (°C) = -1.2 Max (°C) =2.48 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 332 Stare = snow']
+Busteni: 09 \ marți \ 02:3:2021 \ 19:23:10
+[' Răsarit = 06:54:38 Apus = 18:05:43 Min (°C) = -2.58 Max (°C) =4.7 Presiune = 858 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 10-25%']
+Busteni: 09 \ miercuri \ 03:3:2021 \ 19:18:38
+[' Răsarit = 06:52:50 Apus = 18:07:05 Min (°C) = -0.18 Max (°C) =7.88 Presiune = 858 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = cer senin']
+Busteni: 09 \ joi \ 04:3:2021 \ 19:19:22
+[' Răsarit = 06:51:02 Apus = 18:08:27 Min (°C) = 1.95 Max (°C) =11.1 Presiune = 1011 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 292 Stare = cer senin']
+Busteni: 09 \ vineri \ 05:3:2021 \ 19:17:27
+[' Răsarit = 06:49:13 Apus = 18:09:48 Min (°C) = 0.94 Max (°C) =9.55 Presiune = 846 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = nori 50-85%']
+Busteni: 09 \ sâmbătă \ 06:3:2021 \ 19:18:17
+[' Răsarit = 06:47:23 Apus = 18:11:10 Min (°C) = -4.77 Max (°C) =1.97 Presiune = 852 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 17.43 Unghiul vântului = 202 Stare = zăpadă slabă']
+Busteni: 09 \ duminică \ 07:3:2021 \ 19:19:25
+[' Răsarit = 06:45:33 Apus = 18:12:30 Min (°C) = -6.85 Max (°C) =1.94 Presiune = 848 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 342 Stare = cer senin']
+Busteni: 10 \ luni \ 08:3:2021 \ 19:22:39
+[' Răsarit = 06:43:42 Apus = 18:13:51 Min (°C) = -4.55 Max (°C) =3.83 Presiune = 844 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 2 Stare = cer senin']
+Busteni: 10 \ marți \ 09:3:2021 \ 19:18:09
+[' Răsarit = 06:41:51 Apus = 18:15:11 Min (°C) = -4.26 Max (°C) =1.71 Presiune = 847 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 173 Stare = nori 85-100%']
+Busteni: 10 \ miercuri \ 10:3:2021 \ 19:22:58
+[' Răsarit = 06:39:59 Apus = 18:16:31 Min (°C) = -4.07 Max (°C) =-0.15 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 45 Stare = nori 85-100%']
+Busteni: 10 \ joi \ 11:3:2021 \ 19:19:33
+[' Răsarit = 06:38:06 Apus = 18:17:51 Min (°C) = -5.8 Max (°C) =-0.49 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 197 Stare = zăpadă slabă']
+Busteni: 10 \ vineri \ 12:3:2021 \ 19:18:42
+[' Răsarit = 06:36:14 Apus = 18:19:10 Min (°C) = -5.3 Max (°C) =4.11 Presiune = 844 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 317 Stare = nori 50-85%']
+Busteni: 10 \ sâmbătă \ 13:3:2021 \ 19:18:57
+[' Răsarit = 06:34:21 Apus = 18:20:29 Min (°C) = -0.48 Max (°C) =3.45 Presiune = 846 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 355 Stare = nori 50-85%']
+Busteni: 10 \ duminică \ 14:3:2021 \ 19:21:20
+[' Răsarit = 06:32:27 Apus = 18:21:48 Min (°C) = -0.15 Max (°C) =8.92 Presiune = 843 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 212 Stare = nori 85-100%']
+Busteni: 11 \ luni \ 15:3:2021 \ 19:20:46
+[' Răsarit = 06:30:33 Apus = 18:23:07 Min (°C) = 3.01 Max (°C) =6.79 Presiune = 834 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 77 Stare = ploaie ușoară']
+Busteni: 11 \ marți \ 16:3:2021 \ 19:19:18
+[' Răsarit = 06:28:39 Apus = 18:24:25 Min (°C) = -0.77 Max (°C) =3.58 Presiune = 831 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.58 Unghiul vântului = 345 Stare = zăpadă slabă']
+Busteni: 11 \ miercuri \ 17:3:2021 \ 19:19:43
+[' Răsarit = 06:26:45 Apus = 18:25:43 Min (°C) = -1.46 Max (°C) =0.87 Presiune = 1002 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 292 Stare = snow']
+Busteni: 11 \ joi \ 18:3:2021 \ 19:18:55
+[' Răsarit = 06:24:51 Apus = 18:27:01 Min (°C) = -2.48 Max (°C) =2.1 Presiune = 1006 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 67 Stare = snow']
+Busteni: 11 \ vineri \ 19:3:2021 \ 19:16:21
+[' Răsarit = 06:22:56 Apus = 18:28:19 Min (°C) = -5.65 Max (°C) =0 Presiune = 1009 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 247 Stare = zăpadă slabă']
+Busteni: 11 \ sâmbătă \ 20:3:2021 \ 19:18:58
+[' Răsarit = 06:21:01 Apus = 18:29:37 Min (°C) = -8.74 Max (°C) =0.92 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 46 Stare = zăpadă slabă']
+Busteni: 11 \ duminică \ 21:3:2021 \ 19:14:11
+[' Răsarit = 06:19:06 Apus = 18:30:54 Min (°C) = -6.49 Max (°C) =1.65 Presiune = 1007 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 202 Stare = nori 85-100%']
+Busteni: 12 \ luni \ 22:3:2021 \ 19:19:20
+[' Răsarit = 06:17:11 Apus = 18:32:12 Min (°C) = -5.54 Max (°C) =0.84 Presiune = 1009 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 350 Stare = snow']
+Busteni: 12 \ marți \ 23:3:2021 \ 19:21:14
+[' Răsarit = 06:15:16 Apus = 18:33:29 Min (°C) = -7.22 Max (°C) =1.11 Presiune = 1009 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 180 Stare = nori 50-85%']
+Busteni: 12 \ miercuri \ 24:3:2021 \ 19:19:43
+[' Răsarit = 06:13:21 Apus = 18:34:46 Min (°C) = -9.03 Max (°C) =-0.74 Presiune = 1012 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 225 Stare = zăpadă slabă']
+Busteni: 12 \ joi \ 25:3:2021 \ 19:19:46
+[' Răsarit = 06:11:26 Apus = 18:36:03 Min (°C) = -6.74 Max (°C) =1.68 Presiune = 1021 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 290 Stare = nori 85-100%']
+Busteni: 12 \ vineri \ 26:3:2021 \ 19:24:35
+[' Răsarit = 06:09:31 Apus = 18:37:20 Min (°C) = -4.64 Max (°C) =2.89 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 311 Stare = nori 10-25%']
+Busteni: 12 \ sâmbătă \ 27:3:2021 \ 19:24:18
+[' Răsarit = 06:07:37 Apus = 18:38:37 Min (°C) = -3.87 Max (°C) =7.07 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 239 Stare = nori 10-25%']
+Busteni: 12 \ duminică \ 28:3:2021 \ 19:19:58
+[' Răsarit = 07:05:42 Apus = 19:39:54 Min (°C) = 0.11 Max (°C) =8.28 Presiune = 1025 Umiditate (%) = 73 Index UV = 0.03 Viteza vântului = 3.76 Unghiul vântului = 356 Stare = nori 85-100%']
+Busteni: 13 \ luni \ 29:3:2021 \ 19:18:52
+[' Răsarit = 07:03:47 Apus = 19:41:11 Min (°C) = -3.12 Max (°C) =8.34 Presiune = 1024 Umiditate (%) = 41 Index UV = 0.08 Viteza vântului = 2.68 Unghiul vântului = 270 Stare = nori 50-85%']
+Busteni: 13 \ marți \ 30:3:2021 \ 19:17:49
+[' Răsarit = 07:01:53 Apus = 19:42:28 Min (°C) = -3.24 Max (°C) =6.37 Presiune = 1030 Umiditate (%) = 84 Index UV = 0.1 Viteza vântului = 1.15 Unghiul vântului = 8 Stare = nori 10-25%']
+Busteni: 13 \ miercuri \ 31:3:2021 \ 19:17:54
+[' Răsarit = 06:59:59 Apus = 19:43:44 Min (°C) = -1.6 Max (°C) =11.11 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.07 Viteza vântului = 1.34 Unghiul vântului = 360 Stare = nori 85-100%']
+Busteni: 13 \ joi \ 01:4:2021 \ 19:18:21
+[' Răsarit = 06:58:05 Apus = 19:45:01 Min (°C) = 3.24 Max (°C) =15 Presiune = 977 Umiditate (%) = 49 Index UV = 0.11 Viteza vântului = 0.89 Unghiul vântului = 135 Stare = nori 50-85%']
+Busteni: 13 \ vineri \ 02:4:2021 \ 19:21:14
+[' Răsarit = 06:56:12 Apus = 19:46:18 Min (°C) = 4.09 Max (°C) =12.36 Presiune = 1006 Umiditate (%) = 86 Index UV = 0.04 Viteza vântului = 0.89 Unghiul vântului = 225 Stare = nori 50-85%']
+Busteni: 13 \ sâmbătă \ 03:4:2021 \ 20:42:48
+[' Răsarit = 06:54:19 Apus = 19:47:35 Min (°C) = 1.83 Max (°C) =5.12 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 14 Stare = nori 85-100%']
+Busteni: 13 \ duminică \ 04:4:2021 \ 20:21:32
+[' Răsarit = 06:52:26 Apus = 19:48:52 Min (°C) = -0.69 Max (°C) =3.91 Presiune = 1009 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 148 Stare = nori 85-100%']
+Busteni: 14 \ luni \ 05:4:2021 \ 14:49:38
+[' Răsarit = 06:50:34 Apus = 19:50:08 Min (°C) = -5.16 Max (°C) =8.71 Presiune = 1012 Umiditate (%) = 64 Index UV = 2.68 Viteza vântului = 1.34 Unghiul vântului = 117 Stare = nori 50-85%']
+Busteni: 14 \ luni \ 05:4:2021 \ 19:19:44
+[' Răsarit = 06:50:34 Apus = 19:50:08 Min (°C) = -5.16 Max (°C) =7.97 Presiune = 1010 Umiditate (%) = 72 Index UV = 0.14 Viteza vântului = 1.34 Unghiul vântului = 188 Stare = nori 50-85%']
+Busteni: 14 \ marți \ 06:4:2021 \ 20:24:09
+[' Răsarit = 06:48:42 Apus = 19:51:25 Min (°C) = -3.35 Max (°C) =9.44 Presiune = 999 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 291 Stare = nori 85-100%']
+Busteni: 14 \ miercuri \ 07:4:2021 \ 19:18:19
+[' Răsarit = 06:46:51 Apus = 19:52:42 Min (°C) = -5.71 Max (°C) =2.25 Presiune = 1006 Umiditate (%) = 64 Index UV = 0.13 Viteza vântului = 1.51 Unghiul vântului = 346 Stare = nori 85-100%']
+Busteni: 14 \ joi \ 08:4:2021 \ 19:18:23
+[' Răsarit = 06:45:00 Apus = 19:53:59 Min (°C) = -7.86 Max (°C) =3.76 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.17 Viteza vântului = 2.68 Unghiul vântului = 279 Stare = nori 50-85%']
+Busteni: 14 \ vineri \ 09:4:2021 \ 19:18:30
+[' Răsarit = 06:43:10 Apus = 19:55:16 Min (°C) = -6.65 Max (°C) =3.35 Presiune = 815 Umiditate (%) = 77 Index UV = 0.16 Viteza vântului = 0.57 Unghiul vântului = 319 Stare = nori 50-85%']
+Busteni: 14 \ sâmbătă \ 10:4:2021 \ 19:18:04
+[' Răsarit = 06:41:20 Apus = 19:56:33 Min (°C) = -4.87 Max (°C) =7.14 Presiune = 854 Umiditate (%) = 40 Index UV = 0.18 Viteza vântului = 0.02 Unghiul vântului = 160 Stare = nori 25-50%']
+Busteni: 14 \ duminică \ 11:4:2021 \ 19:19:41
+[' Răsarit = 06:39:31 Apus = 19:57:50 Min (°C) = -0.77 Max (°C) =9.41 Presiune = 856 Umiditate (%) = 59 Index UV = 0.19 Viteza vântului = 2.41 Unghiul vântului = 178 Stare = nori 10-25%']
+Busteni: 15 \ luni \ 12:4:2021 \ 22:03:47
+[' Răsarit = 06:37:42 Apus = 19:59:07 Min (°C) = 0.07 Max (°C) =13.24 Presiune = 854 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 191 Stare = nori 10-25%']
+Busteni: 15 \ marți \ 13:4:2021 \ 19:19:25
+[' Răsarit = 06:35:54 Apus = 20:00:24 Min (°C) = 5.12 Max (°C) =13.53 Presiune = 849 Umiditate (%) = 57 Index UV = 0.17 Viteza vântului = 2.02 Unghiul vântului = 179 Stare = nori 85-100%']
+Busteni: 15 \ miercuri \ 14:4:2021 \ 19:19:23
+[' Răsarit = 06:34:07 Apus = 20:01:41 Min (°C) = 0 Max (°C) =7.49 Presiune = 842 Umiditate (%) = 85 Index UV = 0.06 Viteza vântului = 2.49 Unghiul vântului = 359 Stare = zăpadă slabă']
+Busteni: 15 \ joi \ 15:4:2021 \ 19:20:52
+[' Răsarit = 06:32:21 Apus = 20:02:59 Min (°C) = -2.01 Max (°C) =2.87 Presiune = 846 Umiditate (%) = 82 Index UV = 0.13 Viteza vântului = 2.58 Unghiul vântului = 5 Stare = zăpadă slabă']
+Busteni: 15 \ vineri \ 16:4:2021 \ 19:18:58
+[' Răsarit = 06:30:35 Apus = 20:04:16 Min (°C) = -1.73 Max (°C) =8.05 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.17 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = nori 85-100%']
+Busteni: 15 \ sâmbătă \ 17:4:2021 \ 19:18:47
+[' Răsarit = 06:28:51 Apus = 20:05:33 Min (°C) = -2.48 Max (°C) =10.93 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.17 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Busteni: 15 \ duminică \ 18:4:2021 \ 19:18:12
+[' Răsarit = 06:27:07 Apus = 20:06:51 Min (°C) = 1.44 Max (°C) =5.33 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 0.8 Unghiul vântului = 170 Stare = nori 85-100%']
+Busteni: 16 \ luni \ 19:4:2021 \ 19:19:02
+[' Răsarit = 06:25:24 Apus = 20:08:08 Min (°C) = 1.52 Max (°C) =6.86 Presiune = 845 Umiditate (%) = 87 Index UV = 0.03 Viteza vântului = 0.64 Unghiul vântului = 85 Stare = nori 85-100%']
+Busteni: 16 \ marți \ 20:4:2021 \ 19:18:23
+[' Răsarit = 06:23:42 Apus = 20:09:26 Min (°C) = 2.81 Max (°C) =5.83 Presiune = 845 Umiditate (%) = 89 Index UV = 0.15 Viteza vântului = 0.85 Unghiul vântului = 342 Stare = ploaie ușoară']
+Busteni: 16 \ miercuri \ 21:4:2021 \ 19:18:31
+[' Răsarit = 06:22:00 Apus = 20:10:43 Min (°C) = 2.61 Max (°C) =9.66 Presiune = 850 Umiditate (%) = 88 Index UV = 0.22 Viteza vântului = 0.83 Unghiul vântului = 341 Stare = nori 85-100%']
+Busteni: 16 \ joi \ 22:4:2021 \ 19:19:03
+[' Răsarit = 06:20:20 Apus = 20:12:01 Min (°C) = 2.12 Max (°C) =12.79 Presiune = 852 Umiditate (%) = 76 Index UV = 0.26 Viteza vântului = 2.04 Unghiul vântului = 257 Stare = nori 85-100%']
+Busteni: 16 \ vineri \ 23:4:2021 \ 19:18:20
+[' Răsarit = 06:18:41 Apus = 20:13:18 Min (°C) = 2.99 Max (°C) =8.94 Presiune = 849 Umiditate (%) = 86 Index UV = 0.24 Viteza vântului = 3.55 Unghiul vântului = 350 Stare = nori 50-85%']
+Busteni: 16 \ sâmbătă \ 24:4:2021 \ 19:18:28
+[' Răsarit = 06:17:03 Apus = 20:14:36 Min (°C) = -0.09 Max (°C) =9.53 Presiune = 853 Umiditate (%) = 62 Index UV = 0.26 Viteza vântului = 0.88 Unghiul vântului = 320 Stare = nori 85-100%']
+Busteni: 16 \ duminică \ 25:4:2021 \ 19:18:47
+[' Răsarit = 06:15:26 Apus = 20:15:53 Min (°C) = 3.25 Max (°C) =9.7 Presiune = 850 Umiditate (%) = 88 Index UV = 0.17 Viteza vântului = 1.51 Unghiul vântului = 233 Stare = nori 85-100%']
+Busteni: 17 \ luni \ 26:4:2021 \ 19:18:21
+[' Răsarit = 06:13:50 Apus = 20:17:10 Min (°C) = 2.56 Max (°C) =11.12 Presiune = 849 Umiditate (%) = 77 Index UV = 0.28 Viteza vântului = 1.13 Unghiul vântului = 83 Stare = nori 85-100%']
+Busteni: 17 \ marți \ 27:4:2021 \ 19:20:01
+[' Răsarit = 06:12:15 Apus = 20:18:28 Min (°C) = 3.85 Max (°C) =5.25 Presiune = 846 Umiditate (%) = 88 Index UV = 0.06 Viteza vântului = 0.56 Unghiul vântului = 83 Stare = nori 85-100%']
+Busteni: 17 \ miercuri \ 28:4:2021 \ 19:18:33
+[' Răsarit = 06:10:41 Apus = 20:19:45 Min (°C) = 2.75 Max (°C) =6.67 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.27 Viteza vântului = 2.3 Unghiul vântului = 165 Stare = nori 85-100%']
+Busteni: 17 \ joi \ 29:4:2021 \ 19:10:52
+[' Răsarit = 06:09:09 Apus = 20:21:02 Min (°C) = 3.86 Max (°C) =13.01 Presiune = 850 Umiditate (%) = 78 Index UV = 0.37 Viteza vântului = 2.04 Unghiul vântului = 222 Stare = nori 50-85%']
+Busteni: 17 \ joi \ 29:4:2021 \ 19:28:49
+[' Răsarit = 06:09:09 Apus = 20:21:02 Min (°C) = 3.86 Max (°C) =12.83 Presiune = 850 Umiditate (%) = 79 Index UV = 0.37 Viteza vântului = 2.04 Unghiul vântului = 222 Stare = nori 50-85%']
+Busteni: 17 \ vineri \ 30:4:2021 \ 19:18:27
+[' Răsarit = 06:07:37 Apus = 20:22:19 Min (°C) = 6.92 Max (°C) =17.22 Presiune = 1010 Umiditate (%) = 53 Index UV = 0.38 Viteza vântului = 0.45 Unghiul vântului = 22 Stare = nori 50-85%']
+Busteni: 17 \ sâmbătă \ 01:5:2021 \ 19:19:39
+[' Răsarit = 06:06:08 Apus = 20:23:36 Min (°C) = 9.83 Max (°C) =20.23 Presiune = 852 Umiditate (%) = 80 Index UV = 0.24 Viteza vântului = 2.66 Unghiul vântului = 184 Stare = nori 85-100%']
+Busteni: 17 \ duminică \ 02:5:2021 \ 20:26:03
+[' Răsarit = 06:04:39 Apus = 20:24:52 Min (°C) = 9.44 Max (°C) =21.13 Presiune = 849 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 333 Stare = nori 50-85%']
+Busteni: 18 \ luni \ 03:5:2021 \ 19:18:41
+[' Răsarit = 06:03:12 Apus = 20:26:09 Min (°C) = 4.93 Max (°C) =15.11 Presiune = 850 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 4.04 Unghiul vântului = 0 Stare = nori 85-100%']
+Busteni: 18 \ marți \ 04:5:2021 \ 19:20:42
+[' Răsarit = 06:01:46 Apus = 20:27:25 Min (°C) = 1.68 Max (°C) =13.62 Presiune = 1012 Umiditate (%) = 36 Index UV = 0.38 Viteza vântului = 0.96 Unghiul vântului = 223 Stare = nori 50-85%']
+Busteni: 18 \ miercuri \ 05:5:2021 \ 19:18:24
+[' Răsarit = 06:00:21 Apus = 20:28:41 Min (°C) = 4.81 Max (°C) =14.44 Presiune = 846 Umiditate (%) = 87 Index UV = 0.39 Viteza vântului = 2.37 Unghiul vântului = 205 Stare = nori 85-100%']
+Busteni: 18 \ joi \ 06:5:2021 \ 19:19:27
+[' Răsarit = 05:58:58 Apus = 20:29:56 Min (°C) = 6.84 Max (°C) =11.9 Presiune = 850 Umiditate (%) = 72 Index UV = 0.21 Viteza vântului = 1.93 Unghiul vântului = 349 Stare = nori 85-100%']
+Busteni: 18 \ vineri \ 07:5:2021 \ 19:18:01
+[' Răsarit = 05:57:36 Apus = 20:31:12 Min (°C) = 6.8 Max (°C) =16.89 Presiune = 847 Umiditate (%) = 66 Index UV = 0.38 Viteza vântului = 3.28 Unghiul vântului = 226 Stare = nori 85-100%']
+Busteni: 18 \ sâmbătă \ 08:5:2021 \ 19:18:39
+[' Răsarit = 05:56:16 Apus = 20:32:26 Min (°C) = 3.65 Max (°C) =11.39 Presiune = 982 Umiditate (%) = 42 Index UV = 0.4 Viteza vântului = 3.82 Unghiul vântului = 345 Stare = nori 50-85%']
+Busteni: 18 \ duminică \ 09:5:2021 \ 19:18:17
+[' Răsarit = 05:54:57 Apus = 20:33:41 Min (°C) = 0.43 Max (°C) =13.31 Presiune = 858 Umiditate (%) = 62 Index UV = 0.49 Viteza vântului = 4.02 Unghiul vântului = 224 Stare = nori 25-50%']
+Busteni: 19 \ luni \ 10:5:2021 \ 19:18:27
+[' Răsarit = 05:53:40 Apus = 20:34:55 Min (°C) = 3.72 Max (°C) =16.8 Presiune = 857 Umiditate (%) = 61 Index UV = 0.5 Viteza vântului = 4.02 Unghiul vântului = 229 Stare = cer senin']
+Busteni: 19 \ marți \ 11:5:2021 \ 19:19:22
+[' Răsarit = 05:52:25 Apus = 20:36:08 Min (°C) = 6.94 Max (°C) =19.52 Presiune = 840 Umiditate (%) = 62 Index UV = 0.42 Viteza vântului = 4.02 Unghiul vântului = 232 Stare = nori 10-25%']
+Busteni: 19 \ miercuri \ 12:5:2021 \ 19:18:34
+[' Răsarit = 05:51:11 Apus = 20:37:21 Min (°C) = 6.42 Max (°C) =18.09 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.51 Viteza vântului = 3.23 Unghiul vântului = 151 Stare = nori 50-85%']
+Busteni: 19 \ joi \ 13:5:2021 \ 19:19:31
+[' Răsarit = 05:49:59 Apus = 20:38:34 Min (°C) = 7.56 Max (°C) =13.86 Presiune = 1004 Umiditate (%) = 69 Index UV = 0.49 Viteza vântului = 2.29 Unghiul vântului = 211 Stare = nori 85-100%']
+Busteni: 19 \ vineri \ 14:5:2021 \ 19:19:15
+[' Răsarit = 05:48:48 Apus = 20:39:45 Min (°C) = 7.81 Max (°C) =13.83 Presiune = 806 Umiditate (%) = 81 Index UV = 0.43 Viteza vântului = 10.73 Unghiul vântului = 249 Stare = ploaie ușoară']
+Busteni: 19 \ sâmbătă \ 15:5:2021 \ 19:18:43
+[' Răsarit = 05:47:40 Apus = 20:40:57 Min (°C) = 6.25 Max (°C) =20.37 Presiune = 1009 Umiditate (%) = 59 Index UV = 0.47 Viteza vântului = 2.08 Unghiul vântului = 171 Stare = nori 50-85%']
+Busteni: 19 \ duminică \ 16:5:2021 \ 19:19:20
+[' Răsarit = 05:46:33 Apus = 20:42:07 Min (°C) = 8.85 Max (°C) =16.94 Presiune = 1005 Umiditate (%) = 63 Index UV = 0.53 Viteza vântului = 6.71 Unghiul vântului = 270 Stare = nori 50-85%']
+Busteni: 20 \ luni \ 17:5:2021 \ 19:19:54
+[' Răsarit = 05:45:27 Apus = 20:43:17 Min (°C) = 7.49 Max (°C) =17.15 Presiune = 804 Umiditate (%) = 81 Index UV = 0.4 Viteza vântului = 3.13 Unghiul vântului = 229 Stare = nori 85-100%']
+Busteni: 20 \ marți \ 18:5:2021 \ 19:19:15
+[' Răsarit = 05:44:24 Apus = 20:44:26 Min (°C) = 5.87 Max (°C) =12.09 Presiune = 1007 Umiditate (%) = 89 Index UV = 0.07 Viteza vântului = 3.14 Unghiul vântului = 301 Stare = nori 85-100%']
+Busteni: 20 \ miercuri \ 19:5:2021 \ 19:18:09
+[' Răsarit = 05:43:23 Apus = 20:45:34 Min (°C) = 5.78 Max (°C) =16.52 Presiune = 1009 Umiditate (%) = 73 Index UV = 0.32 Viteza vântului = 1.25 Unghiul vântului = 43 Stare = nori 85-100%']
+Busteni: 20 \ joi \ 20:5:2021 \ 19:18:46
+[' Răsarit = 05:42:23 Apus = 20:46:41 Min (°C) = 6.56 Max (°C) =8.27 Presiune = 1011 Umiditate (%) = 97 Index UV = 0.04 Viteza vântului = 1.07 Unghiul vântului = 348 Stare = ploaie ușoară']
+Busteni: 20 \ vineri \ 21:5:2021 \ 19:19:26
+[' Răsarit = 05:41:25 Apus = 20:47:47 Min (°C) = 5.66 Max (°C) =14.07 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.54 Viteza vântului = 1.53 Unghiul vântului = 353 Stare = nori 25-50%']
+Busteni: 20 \ sâmbătă \ 22:5:2021 \ 19:19:33
+[' Răsarit = 05:40:30 Apus = 20:48:52 Min (°C) = 5.97 Max (°C) =17.71 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.63 Viteza vântului = 2.41 Unghiul vântului = 256 Stare = nori 25-50%']
+Busteni: 20 \ duminică \ 23:5:2021 \ 19:19:40
+[' Răsarit = 05:39:36 Apus = 20:49:57 Min (°C) = 10.02 Max (°C) =20.6 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.64 Viteza vântului = 3.55 Unghiul vântului = 205 Stare = nori 50-85%']
+Busteni: 21 \ luni \ 24:5:2021 \ 19:18:24
+[' Răsarit = 05:38:44 Apus = 20:51:00 Min (°C) = 10.44 Max (°C) =18.78 Presiune = 1022 Umiditate (%) = 68 Index UV = 0.68 Viteza vântului = 1.51 Unghiul vântului = 180 Stare = nori 25-50%']
+Busteni: 21 \ marți \ 25:5:2021 \ 19:18:25
+[' Răsarit = 05:37:54 Apus = 20:52:02 Min (°C) = 9.03 Max (°C) =21.8 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.66 Viteza vântului = 2.83 Unghiul vântului = 202 Stare = nori 25-50%']
+Busteni: 21 \ miercuri \ 26:5:2021 \ 19:20:58
+[' Răsarit = 05:37:07 Apus = 20:53:03 Min (°C) = 11.78 Max (°C) =19.52 Presiune = 1017 Umiditate (%) = 95 Index UV = 0.37 Viteza vântului = 1.42 Unghiul vântului = 145 Stare = nori 85-100%']
+Busteni: 21 \ joi \ 27:5:2021 \ 19:18:35
+[' Răsarit = 05:36:21 Apus = 20:54:02 Min (°C) = 11.92 Max (°C) =18.57 Presiune = 1014 Umiditate (%) = 81 Index UV = 0.55 Viteza vântului = 2.33 Unghiul vântului = 175 Stare = nori 85-100%']
+Busteni: 21 \ vineri \ 28:5:2021 \ 19:18:34
+[' Răsarit = 05:35:37 Apus = 20:55:01 Min (°C) = 9.28 Max (°C) =11.37 Presiune = 1014 Umiditate (%) = 96 Index UV = 0.06 Viteza vântului = 2.13 Unghiul vântului = 341 Stare = nori 85-100%']
+Busteni: 21 \ sâmbătă \ 29:5:2021 \ 19:18:13
+[' Răsarit = 05:34:56 Apus = 20:55:58 Min (°C) = 8.97 Max (°C) =15.24 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.61 Viteza vântului = 0.9 Unghiul vântului = 337 Stare = nori 50-85%']
+Busteni: 21 \ duminică \ 30:5:2021 \ 19:17:57
+[' Răsarit = 05:34:17 Apus = 20:56:53 Min (°C) = 7.99 Max (°C) =12.19 Presiune = 1016 Umiditate (%) = 89 Index UV = 0.3 Viteza vântului = 1.69 Unghiul vântului = 354 Stare = nori 85-100%']
+Busteni: 22 \ marți \ 01:6:2021 \ 19:19:20
+[' Răsarit = 05:33:05 Apus = 20:58:40 Min (°C) = 4.08 Max (°C) =7.2 Presiune = 1017 Umiditate (%) = 99 Index UV = 0.08 Viteza vântului = 2.43 Unghiul vântului = 346 Stare = nori 85-100%']
+Busteni: 22 \ miercuri \ 02:6:2021 \ 19:16:06
+[' Răsarit = 05:32:32 Apus = 20:59:31 Min (°C) = 4.74 Max (°C) =9.69 Presiune = 1019 Umiditate (%) = 92 Index UV = 0.1 Viteza vântului = 2.53 Unghiul vântului = 354 Stare = nori 85-100%']
+Busteni: 22 \ joi \ 03:6:2021 \ 19:16:33
+[' Răsarit = 05:32:02 Apus = 21:00:20 Min (°C) = 6.38 Max (°C) =12.57 Presiune = 1022 Umiditate (%) = 74 Index UV = 0.26 Viteza vântului = 2.18 Unghiul vântului = 358 Stare = nori 85-100%']
+Busteni: 22 \ vineri \ 04:6:2021 \ 19:25:00
+[' Răsarit = 05:31:34 Apus = 21:01:08 Min (°C) = 6.76 Max (°C) =15.53 Presiune = 1023 Umiditate (%) = 78 Index UV = 0.69 Viteza vântului = 1.28 Unghiul vântului = 19 Stare = nori 85-100%']
+Busteni: 22 \ sâmbătă \ 05:6:2021 \ 19:20:17
+[' Răsarit = 05:31:08 Apus = 21:01:54 Min (°C) = 7.51 Max (°C) =17.87 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.62 Viteza vântului = 0.93 Unghiul vântului = 289 Stare = nori 50-85%']
+Busteni: 22 \ duminică \ 06:6:2021 \ 19:19:04
+[' Răsarit = 05:30:45 Apus = 21:02:39 Min (°C) = 9.13 Max (°C) =15.71 Presiune = 1016 Umiditate (%) = 81 Index UV = 0.69 Viteza vântului = 1.49 Unghiul vântului = 0 Stare = nori 10-25%']
+Busteni: 23 \ luni \ 07:6:2021 \ 19:18:53
+[' Răsarit = 05:30:23 Apus = 21:03:21 Min (°C) = 8.86 Max (°C) =17.28 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.72 Viteza vântului = 0.94 Unghiul vântului = 349 Stare = nori 25-50%']
+Busteni: 23 \ marți \ 08:6:2021 \ 19:18:12
+[' Răsarit = 05:30:04 Apus = 21:04:02 Min (°C) = 9.68 Max (°C) =16.92 Presiune = 1015 Umiditate (%) = 79 Index UV = 0.71 Viteza vântului = 1.01 Unghiul vântului = 331 Stare = nori 25-50%']
+Busteni: 23 \ miercuri \ 09:6:2021 \ 19:19:24
+[' Răsarit = 05:29:48 Apus = 21:04:41 Min (°C) = 9.76 Max (°C) =19.3 Presiune = 1014 Umiditate (%) = 81 Index UV = 0.68 Viteza vântului = 1.92 Unghiul vântului = 354 Stare = ploaie ușoară']
+Busteni: 23 \ joi \ 10:6:2021 \ 19:18:20
+[' Răsarit = 05:29:33 Apus = 21:05:18 Min (°C) = 10.25 Max (°C) =17 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.7 Viteza vântului = 1.73 Unghiul vântului = 349 Stare = nori 50-85%']
+Busteni: 23 \ vineri \ 11:6:2021 \ 19:18:25
+[' Răsarit = 05:29:21 Apus = 21:05:53 Min (°C) = 9.55 Max (°C) =16.96 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.33 Viteza vântului = 1.07 Unghiul vântului = 300 Stare = nori 85-100%']
+Busteni: 23 \ sâmbătă \ 12:6:2021 \ 19:18:40
+[' Răsarit = 05:29:12 Apus = 21:06:25 Min (°C) = 9.44 Max (°C) =17.15 Presiune = 1015 Umiditate (%) = 91 Index UV = 0.31 Viteza vântului = 0.39 Unghiul vântului = 278 Stare = nori 50-85%']
+Busteni: 23 \ duminică \ 13:6:2021 \ 19:24:05
+[' Răsarit = 05:29:04 Apus = 21:06:56 Min (°C) = 8 Max (°C) =15.77 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.63 Viteza vântului = 3.59 Unghiul vântului = 338 Stare = nori 50-85%']
+Busteni: 24 \ luni \ 14:6:2021 \ 19:18:34
+[' Răsarit = 05:28:59 Apus = 21:07:25 Min (°C) = 5.7 Max (°C) =10.7 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.49 Viteza vântului = 2.7 Unghiul vântului = 352 Stare = nori 50-85%']
+Busteni: 24 \ marți \ 15:6:2021 \ 19:20:52
+[' Răsarit = 05:28:57 Apus = 21:07:52 Min (°C) = 6.24 Max (°C) =12.78 Presiune = 1013 Umiditate (%) = 90 Index UV = 0.12 Viteza vântului = 2.93 Unghiul vântului = 344 Stare = nori 85-100%']
+Busteni: 24 \ miercuri \ 16:6:2021 \ 19:20:07
+[' Răsarit = 05:28:56 Apus = 21:08:16 Min (°C) = 11.61 Max (°C) =17.01 Presiune = 1015 Umiditate (%) = 86 Index UV = 0.63 Viteza vântului = 2.31 Unghiul vântului = 339 Stare = nori 85-100%']
+Busteni: 24 \ joi \ 17:6:2021 \ 19:18:58
+[' Răsarit = 05:28:58 Apus = 21:08:39 Min (°C) = 10.98 Max (°C) =19.41 Presiune = 1018 Umiditate (%) = 75 Index UV = 0.44 Viteza vântului = 1.31 Unghiul vântului = 7 Stare = nori 85-100%']
+Busteni: 24 \ vineri \ 18:6:2021 \ 19:19:34
+[' Răsarit = 05:29:02 Apus = 21:08:59 Min (°C) = 12.77 Max (°C) =15.46 Presiune = 1015 Umiditate (%) = 99 Index UV = 0.08 Viteza vântului = 2.55 Unghiul vântului = 357 Stare = nori 85-100%']
+Busteni: 24 \ sâmbătă \ 19:6:2021 \ 19:18:58
+[' Răsarit = 05:29:09 Apus = 21:09:17 Min (°C) = 11.58 Max (°C) =15.58 Presiune = 1015 Umiditate (%) = 89 Index UV = 0.38 Viteza vântului = 1.88 Unghiul vântului = 32 Stare = nori 50-85%']
+Busteni: 24 \ duminică \ 20:6:2021 \ 19:19:42
+[' Răsarit = 05:29:18 Apus = 21:09:33 Min (°C) = 11.82 Max (°C) =18.8 Presiune = 1012 Umiditate (%) = 89 Index UV = 0.59 Viteza vântului = 1.21 Unghiul vântului = 320 Stare = nori 85-100%']
+Busteni: 25 \ luni \ 21:6:2021 \ 19:20:23
+[' Răsarit = 05:29:29 Apus = 21:09:46 Min (°C) = 10.82 Max (°C) =19.8 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.74 Viteza vântului = 0.15 Unghiul vântului = 165 Stare = nori 50-85%']
+Busteni: 25 \ marți \ 22:6:2021 \ 19:19:48
+[' Răsarit = 05:29:42 Apus = 21:09:57 Min (°C) = 12.82 Max (°C) =23.44 Presiune = 1013 Umiditate (%) = 69 Index UV = 0.76 Viteza vântului = 1.15 Unghiul vântului = 350 Stare = cer senin']
+Busteni: 25 \ miercuri \ 23:6:2021 \ 19:18:57
+[' Răsarit = 05:29:57 Apus = 21:10:06 Min (°C) = 15.32 Max (°C) =24.61 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.74 Viteza vântului = 1.56 Unghiul vântului = 339 Stare = ploaie intensă']
+Busteni: 25 \ joi \ 24:6:2021 \ 19:19:37
+[' Răsarit = 05:30:15 Apus = 21:10:12 Min (°C) = 16.48 Max (°C) =27.17 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.82 Viteza vântului = 1.26 Unghiul vântului = 350 Stare = cer senin']
+Busteni: 25 \ vineri \ 25:6:2021 \ 19:19:08
+[' Răsarit = 05:30:35 Apus = 21:10:17 Min (°C) = 16.89 Max (°C) =28.99 Presiune = 1017 Umiditate (%) = 95 Index UV = 0.38 Viteza vântului = 3.27 Unghiul vântului = 33 Stare = nori 85-100%']
+Busteni: 25 \ sâmbătă \ 26:6:2021 \ 19:18:36
+[' Răsarit = 05:30:57 Apus = 21:10:18 Min (°C) = 14.77 Max (°C) =26.26 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.07 Viteza vântului = 3.06 Unghiul vântului = 11 Stare = nori 50-85%']
+Busteni: 25 \ duminică \ 27:6:2021 \ 19:18:29
+[' Răsarit = 05:31:21 Apus = 21:10:18 Min (°C) = 14.3 Max (°C) =20.47 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.73 Viteza vântului = 1.87 Unghiul vântului = 333 Stare = nori 50-85%']
+Busteni: 26 \ luni \ 28:6:2021 \ 19:21:37
+[' Răsarit = 05:31:47 Apus = 21:10:15 Min (°C) = 13.57 Max (°C) =21.64 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.75 Viteza vântului = 1.43 Unghiul vântului = 330 Stare = nori 25-50%']
+Busteni: 26 \ marți \ 29:6:2021 \ 19:20:26
+[' Răsarit = 05:32:15 Apus = 21:10:09 Min (°C) = 14.66 Max (°C) =25.51 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.78 Viteza vântului = 1.99 Unghiul vântului = 224 Stare = nori 25-50%']
+Busteni: 26 \ miercuri \ 30:6:2021 \ 19:19:19
+[' Răsarit = 05:32:45 Apus = 21:10:02 Min (°C) = 16.38 Max (°C) =28.64 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.68 Viteza vântului = 2.06 Unghiul vântului = 227 Stare = nori 50-85%']
+Busteni: 26 \ joi \ 01:7:2021 \ 19:20:14
+[' Răsarit = 05:33:17 Apus = 21:09:52 Min (°C) = 15.92 Max (°C) =26.24 Presiune = 1014 Umiditate (%) = 95 Index UV = 0.12 Viteza vântului = 2.4 Unghiul vântului = 11 Stare = nori 50-85%']
+Busteni: 26 \ vineri \ 02:7:2021 \ 19:18:42
+[' Răsarit = 05:33:51 Apus = 21:09:39 Min (°C) = 13.37 Max (°C) =17.41 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.11 Viteza vântului = 2 Unghiul vântului = 351 Stare = nori 50-85%']
+Busteni: 26 \ sâmbătă \ 03:7:2021 \ 19:18:56
+[' Răsarit = 05:34:27 Apus = 21:09:24 Min (°C) = 9.78 Max (°C) =17.03 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.47 Viteza vântului = 2.91 Unghiul vântului = 350 Stare = nori 85-100%']
+Busteni: 26 \ duminică \ 04:7:2021 \ 19:18:34
+[' Răsarit = 05:35:05 Apus = 21:09:07 Min (°C) = 11.21 Max (°C) =17.21 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.67 Viteza vântului = 2.48 Unghiul vântului = 355 Stare = nori 50-85%']
+Busteni: 27 \ luni \ 05:7:2021 \ 19:19:05
+[' Răsarit = 05:35:45 Apus = 21:08:47 Min (°C) = 11.31 Max (°C) =19.5 Presiune = 1010 Umiditate (%) = 85 Index UV = 0.3 Viteza vântului = 1.36 Unghiul vântului = 344 Stare = nori 85-100%']
+Busteni: 27 \ marți \ 06:7:2021 \ 19:19:54
+[' Răsarit = 05:36:26 Apus = 21:08:26 Min (°C) = 14.27 Max (°C) =22.51 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.71 Viteza vântului = 2.12 Unghiul vântului = 356 Stare = nori 25-50%']
+Busteni: 27 \ miercuri \ 07:7:2021 \ 19:18:33
+[' Răsarit = 05:37:09 Apus = 21:08:01 Min (°C) = 14.77 Max (°C) =24.18 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.77 Viteza vântului = 0.9 Unghiul vântului = 8 Stare = nori 10-25%']
+Busteni: 27 \ joi \ 08:7:2021 \ 19:19:43
+[' Răsarit = 05:37:54 Apus = 21:07:35 Min (°C) = 14.96 Max (°C) =23.78 Presiune = 1022 Umiditate (%) = 75 Index UV = 0.65 Viteza vântului = 1.5 Unghiul vântului = 112 Stare = nori 50-85%']
+Busteni: 27 \ vineri \ 09:7:2021 \ 19:19:14
+[' Răsarit = 05:38:40 Apus = 21:07:06 Min (°C) = 14.55 Max (°C) =24.83 Presiune = 1019 Umiditate (%) = 61 Index UV = 0.74 Viteza vântului = 2.38 Unghiul vântului = 160 Stare = nori 50-85%']
+Busteni: 27 \ sâmbătă \ 10:7:2021 \ 19:18:35
+[' Răsarit = 05:39:28 Apus = 21:06:35 Min (°C) = 14.3 Max (°C) =24.86 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.69 Viteza vântului = 1.8 Unghiul vântului = 172 Stare = nori 50-85%']
+Busteni: 27 \ duminică \ 11:7:2021 \ 19:18:47
+[' Răsarit = 05:40:17 Apus = 21:06:01 Min (°C) = 14.72 Max (°C) =25.55 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.56 Viteza vântului = 1.28 Unghiul vântului = 120 Stare = nori 50-85%']
+Busteni: 28 \ luni \ 12:7:2021 \ 19:19:33
+[' Răsarit = 05:41:08 Apus = 21:05:26 Min (°C) = 14.33 Max (°C) =24.19 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.34 Viteza vântului = 0.99 Unghiul vântului = 208 Stare = nori 25-50%']
+Busteni: 28 \ marți \ 13:7:2021 \ 19:19:25
+[' Răsarit = 05:42:00 Apus = 21:04:48 Min (°C) = 15.2 Max (°C) =25.46 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.66 Viteza vântului = 1.13 Unghiul vântului = 132 Stare = nori 25-50%']
+Busteni: 28 \ miercuri \ 14:7:2021 \ 19:18:50
+[' Răsarit = 05:42:54 Apus = 21:04:07 Min (°C) = 16.28 Max (°C) =26.75 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.75 Viteza vântului = 2.99 Unghiul vântului = 165 Stare = cer senin']
+Busteni: 28 \ joi \ 15:7:2021 \ 19:18:35
+[' Răsarit = 05:43:49 Apus = 21:03:25 Min (°C) = 15.94 Max (°C) =27.18 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.73 Viteza vântului = 3.02 Unghiul vântului = 159 Stare = cer senin']
+Busteni: 28 \ vineri \ 16:7:2021 \ 19:18:50
+[' Răsarit = 05:44:45 Apus = 21:02:41 Min (°C) = 16.79 Max (°C) =27.33 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.7 Viteza vântului = 2.5 Unghiul vântului = 123 Stare = cer senin']
+Busteni: 28 \ sâmbătă \ 17:7:2021 \ 19:19:18
+[' Răsarit = 05:45:43 Apus = 21:01:54 Min (°C) = 15.78 Max (°C) =27.13 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.67 Viteza vântului = 3.18 Unghiul vântului = 112 Stare = cer senin']
+Busteni: 28 \ duminică \ 18:7:2021 \ 19:19:41
+[' Răsarit = 05:46:41 Apus = 21:01:05 Min (°C) = 16.97 Max (°C) =27.67 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.59 Viteza vântului = 3.3 Unghiul vântului = 126 Stare = nori 25-50%']
+Busteni: 29 \ luni \ 19:7:2021 \ 19:19:02
+[' Răsarit = 05:47:41 Apus = 21:00:15 Min (°C) = 17.64 Max (°C) =27.94 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.61 Viteza vântului = 1.16 Unghiul vântului = 118 Stare = nori 50-85%']
+Busteni: 29 \ marți \ 20:7:2021 \ 19:19:02
+[' Răsarit = 05:48:42 Apus = 20:59:22 Min (°C) = 14.93 Max (°C) =23.05 Presiune = 1011 Umiditate (%) = 94 Index UV = 0.38 Viteza vântului = 1.73 Unghiul vântului = 347 Stare = ploaie ușoară']
+Busteni: 29 \ miercuri \ 21:7:2021 \ 19:18:20
+[' Răsarit = 05:49:44 Apus = 20:58:27 Min (°C) = 12.95 Max (°C) =17.78 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.57 Viteza vântului = 2.98 Unghiul vântului = 346 Stare = ploaie ușoară']
+Busteni: 29 \ joi \ 22:7:2021 \ 19:18:20
+[' Răsarit = 05:50:46 Apus = 20:57:30 Min (°C) = 11.63 Max (°C) =19.77 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.58 Viteza vântului = 2.13 Unghiul vântului = 355 Stare = nori 25-50%']
+Busteni: 29 \ vineri \ 23:7:2021 \ 19:18:41
+[' Răsarit = 05:51:50 Apus = 20:56:31 Min (°C) = 10.97 Max (°C) =19.95 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.56 Viteza vântului = 0.27 Unghiul vântului = 36 Stare = nori 85-100%']
+Busteni: 29 \ sâmbătă \ 24:7:2021 \ 19:25:46
+[' Răsarit = 05:52:54 Apus = 20:55:30 Min (°C) = 12.95 Max (°C) =19.65 Presiune = 1018 Umiditate (%) = 74 Index UV = 0.44 Viteza vântului = 0.73 Unghiul vântului = 53 Stare = nori 85-100%']
+Busteni: 29 \ duminică \ 25:7:2021 \ 19:19:17
+[' Răsarit = 05:54:00 Apus = 20:54:28 Min (°C) = 12.6 Max (°C) =22.03 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.6 Viteza vântului = 1.91 Unghiul vântului = 184 Stare = nori 50-85%']
+Busteni: 30 \ luni \ 26:7:2021 \ 19:19:13
+[' Răsarit = 05:55:06 Apus = 20:53:23 Min (°C) = 13.77 Max (°C) =26.23 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.54 Viteza vântului = 1.28 Unghiul vântului = 198 Stare = nori 10-25%']
+Busteni: 30 \ marți \ 27:7:2021 \ 19:20:53
+[' Răsarit = 05:56:13 Apus = 20:52:17 Min (°C) = 17.01 Max (°C) =28.53 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.59 Viteza vântului = 0.58 Unghiul vântului = 225 Stare = nori 50-85%']
+Busteni: 30 \ miercuri \ 28:7:2021 \ 19:21:33
+[' Răsarit = 05:57:20 Apus = 20:51:09 Min (°C) = 18.43 Max (°C) =29.92 Presiune = 1020 Umiditate (%) = 82 Index UV = 0.27 Viteza vântului = 1.27 Unghiul vântului = 332 Stare = nori 85-100%']
+Busteni: 30 \ joi \ 29:7:2021 \ 19:20:26
+[' Răsarit = 05:58:28 Apus = 20:49:59 Min (°C) = 17.86 Max (°C) =30.06 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.29 Viteza vântului = 1 Unghiul vântului = 10 Stare = ploaie moderată']
+Busteni: 30 \ vineri \ 30:7:2021 \ 19:18:42
+[' Răsarit = 05:59:37 Apus = 20:48:47 Min (°C) = 17.16 Max (°C) =27.59 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.26 Viteza vântului = 1.33 Unghiul vântului = 253 Stare = ploaie ușoară']
+Busteni: 30 \ sâmbătă \ 31:7:2021 \ 19:18:29
+[' Răsarit = 06:00:46 Apus = 20:47:34 Min (°C) = 17.33 Max (°C) =28.2 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.38 Viteza vântului = 1.44 Unghiul vântului = 198 Stare = nori 50-85%']
+Busteni: 30 \ duminică \ 01:8:2021 \ 19:19:02
+[' Răsarit = 06:01:56 Apus = 20:46:18 Min (°C) = 17.42 Max (°C) =29.69 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.55 Viteza vântului = 1.5 Unghiul vântului = 184 Stare = cer senin']
+Busteni: 31 \ luni \ 02:8:2021 \ 19:18:13
+[' Răsarit = 06:03:06 Apus = 20:45:02 Min (°C) = 18.92 Max (°C) =29.66 Presiune = 1011 Umiditate (%) = 56 Index UV = 0.53 Viteza vântului = 2.65 Unghiul vântului = 337 Stare = nori 10-25%']
+Busteni: 31 \ marți \ 03:8:2021 \ 19:18:51
+[' Răsarit = 06:04:17 Apus = 20:43:43 Min (°C) = 14.48 Max (°C) =22.22 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.46 Viteza vântului = 1.57 Unghiul vântului = 40 Stare = nori 85-100%']
+Busteni: 31 \ miercuri \ 04:8:2021 \ 19:17:13
+[' Răsarit = 06:05:28 Apus = 20:42:24 Min (°C) = 14.54 Max (°C) =24.67 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.45 Viteza vântului = 0.98 Unghiul vântului = 192 Stare = nori 50-85%']
+Busteni: 31 \ joi \ 05:8:2021 \ 19:15:53
+[' Răsarit = 06:06:40 Apus = 20:41:02 Min (°C) = 15.84 Max (°C) =28.1 Presiune = 1006 Umiditate (%) = 49 Index UV = 0.42 Viteza vântului = 2.07 Unghiul vântului = 101 Stare = nori 25-50%']
+Busteni: 31 \ vineri \ 06:8:2021 \ 19:18:45
+[' Răsarit = 06:07:51 Apus = 20:39:39 Min (°C) = 14.86 Max (°C) =20.37 Presiune = 1006 Umiditate (%) = 61 Index UV = 0.44 Viteza vântului = 4.03 Unghiul vântului = 357 Stare = nori 50-85%']
+Busteni: 31 \ sâmbătă \ 07:8:2021 \ 19:18:27
+[' Răsarit = 06:09:03 Apus = 20:38:15 Min (°C) = 11.24 Max (°C) =22.54 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.45 Viteza vântului = 0.95 Unghiul vântului = 355 Stare = cer senin']
+Busteni: 31 \ duminică \ 08:8:2021 \ 19:18:20
+[' Răsarit = 06:10:16 Apus = 20:36:49 Min (°C) = 13.4 Max (°C) =26.04 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.46 Viteza vântului = 0.24 Unghiul vântului = 7 Stare = cer senin']
+Busteni: 32 \ luni \ 09:8:2021 \ 19:19:36
+[' Răsarit = 06:11:28 Apus = 20:35:22 Min (°C) = 17.26 Max (°C) =28.56 Presiune = 1021 Umiditate (%) = 86 Index UV = 0.16 Viteza vântului = 1.18 Unghiul vântului = 35 Stare = nori 50-85%']
+Busteni: 32 \ marți \ 10:8:2021 \ 19:19:43
+[' Răsarit = 06:12:41 Apus = 20:33:53 Min (°C) = 16.95 Max (°C) =25.32 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.4 Viteza vântului = 1.38 Unghiul vântului = 323 Stare = nori 50-85%']
+Busteni: 32 \ miercuri \ 11:8:2021 \ 19:15:35
+[' Răsarit = 06:13:54 Apus = 20:32:23 Min (°C) = 14.73 Max (°C) =25.35 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.42 Viteza vântului = 1.62 Unghiul vântului = 340 Stare = cer senin']
+Busteni: 32 \ joi \ 12:8:2021 \ 19:17:07
+[' Răsarit = 06:15:07 Apus = 20:30:52 Min (°C) = 15.8 Max (°C) =23.65 Presiune = 1020 Umiditate (%) = 60 Index UV = 0.41 Viteza vântului = 1.69 Unghiul vântului = 42 Stare = nori 50-85%']
+Busteni: 32 \ vineri \ 13:8:2021 \ 19:15:42
+[' Răsarit = 06:16:20 Apus = 20:29:19 Min (°C) = 12.65 Max (°C) =23.44 Presiune = 1023 Umiditate (%) = 48 Index UV = 0.4 Viteza vântului = 0.82 Unghiul vântului = 354 Stare = nori 50-85%']
+Busteni: 32 \ sâmbătă \ 14:8:2021 \ 19:17:34
+[' Răsarit = 06:17:33 Apus = 20:27:45 Min (°C) = 13.09 Max (°C) =24.95 Presiune = 1021 Umiditate (%) = 49 Index UV = 0.4 Viteza vântului = 0.93 Unghiul vântului = 8 Stare = cer senin']
+Busteni: 32 \ duminică \ 15:8:2021 \ 19:16:05
+[' Răsarit = 06:18:46 Apus = 20:26:10 Min (°C) = 15.09 Max (°C) =26.33 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.38 Viteza vântului = 0.5 Unghiul vântului = 14 Stare = nori 10-25%']
+Busteni: 33 \ luni \ 16:8:2021 \ 19:15:42
+[' Răsarit = 06:20:00 Apus = 20:24:34 Min (°C) = 16.99 Max (°C) =28.61 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.33 Viteza vântului = 1.38 Unghiul vântului = 192 Stare = cer senin']
+Busteni: 33 \ marți \ 17:8:2021 \ 19:16:14
+[' Răsarit = 06:21:13 Apus = 20:22:57 Min (°C) = 17.38 Max (°C) =28.56 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.31 Viteza vântului = 1.62 Unghiul vântului = 42 Stare = nori 10-25%']
+Busteni: 33 \ miercuri \ 18:8:2021 \ 19:15:59
+[' Răsarit = 06:22:26 Apus = 20:21:18 Min (°C) = 13.41 Max (°C) =21.03 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.19 Viteza vântului = 2.21 Unghiul vântului = 360 Stare = nori 85-100%']
+Busteni: 33 \ joi \ 19:8:2021 \ 19:15:42
+[' Răsarit = 06:23:40 Apus = 20:19:39 Min (°C) = 9 Max (°C) =21.53 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.33 Viteza vântului = 1.55 Unghiul vântului = 349 Stare = nori 25-50%']
+Busteni: 33 \ vineri \ 20:8:2021 \ 19:15:52
+[' Răsarit = 06:24:53 Apus = 20:17:58 Min (°C) = 10.28 Max (°C) =21.81 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.32 Viteza vântului = 0.29 Unghiul vântului = 2 Stare = cer senin']
+Busteni: 33 \ sâmbătă \ 21:8:2021 \ 19:17:06
+[' Răsarit = 06:26:07 Apus = 20:16:16 Min (°C) = 12.23 Max (°C) =22.64 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.2 Viteza vântului = 0.78 Unghiul vântului = 341 Stare = nori 85-100%']
+Busteni: 33 \ duminică \ 22:8:2021 \ 19:16:03
+[' Răsarit = 06:27:20 Apus = 20:14:34 Min (°C) = 15.42 Max (°C) =21.23 Presiune = 1020 Umiditate (%) = 66 Index UV = 0.26 Viteza vântului = 0.6 Unghiul vântului = 214 Stare = nori 50-85%']
+Busteni: 34 \ luni \ 23:8:2021 \ 19:15:52
+[' Răsarit = 06:28:33 Apus = 20:12:50 Min (°C) = 13.66 Max (°C) =23.5 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.27 Viteza vântului = 1.33 Unghiul vântului = 199 Stare = nori 50-85%']
+Busteni: 34 \ marți \ 24:8:2021 \ 19:15:53
+[' Răsarit = 06:29:46 Apus = 20:11:06 Min (°C) = 13.47 Max (°C) =24.86 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.26 Viteza vântului = 1.1 Unghiul vântului = 228 Stare = nori 85-100%']
+Busteni: 34 \ miercuri \ 25:8:2021 \ 19:15:55
+[' Răsarit = 06:31:00 Apus = 20:09:21 Min (°C) = 13.62 Max (°C) =22.69 Presiune = 1012 Umiditate (%) = 91 Index UV = 0.18 Viteza vântului = 0.84 Unghiul vântului = 116 Stare = nori 85-100%']
+Busteni: 34 \ joi \ 26:8:2021 \ 19:17:18
+[' Răsarit = 06:32:13 Apus = 20:07:34 Min (°C) = 12.14 Max (°C) =15.38 Presiune = 1011 Umiditate (%) = 76 Index UV = 0.24 Viteza vântului = 1 Unghiul vântului = 3 Stare = nori 50-85%']
+Busteni: 34 \ vineri \ 27:8:2021 \ 19:19:16
+[' Răsarit = 06:33:26 Apus = 20:05:47 Min (°C) = 11.01 Max (°C) =20.56 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.23 Viteza vântului = 1.59 Unghiul vântului = 334 Stare = nori 25-50%']
+Busteni: 34 \ sâmbătă \ 28:8:2021 \ 19:20:36
+[' Răsarit = 06:34:39 Apus = 20:04:00 Min (°C) = 11.81 Max (°C) =20.85 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.18 Viteza vântului = 1.68 Unghiul vântului = 135 Stare = ploaie ușoară']
+Busteni: 34 \ duminică \ 29:8:2021 \ 19:19:44
+[' Răsarit = 06:35:51 Apus = 20:02:11 Min (°C) = 13.56 Max (°C) =18.59 Presiune = 1009 Umiditate (%) = 90 Index UV = 0.21 Viteza vântului = 0.4 Unghiul vântului = 100 Stare = nori 50-85%']
+Busteni: 35 \ luni \ 30:8:2021 \ 19:19:44
+[' Răsarit = 06:37:04 Apus = 20:00:22 Min (°C) = 11.07 Max (°C) =16.6 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.19 Viteza vântului = 2.52 Unghiul vântului = 351 Stare = nori 50-85%']
+Busteni: 35 \ marți \ 31:8:2021 \ 19:19:45
+[' Răsarit = 06:38:17 Apus = 19:58:32 Min (°C) = 7.99 Max (°C) =18.7 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.15 Viteza vântului = 1.01 Unghiul vântului = 330 Stare = nori 50-85%']
+Busteni: 35 \ miercuri \ 01:9:2021 \ 19:19:20
+[' Răsarit = 06:39:30 Apus = 19:56:41 Min (°C) = 8.71 Max (°C) =16.57 Presiune = 1015 Umiditate (%) = 89 Index UV = 0.05 Viteza vântului = 2.08 Unghiul vântului = 323 Stare = nori 85-100%']
+Busteni: 35 \ joi \ 02:9:2021 \ 19:23:21
+[' Răsarit = 06:40:42 Apus = 19:54:50 Min (°C) = 9.15 Max (°C) =13.83 Presiune = 1021 Umiditate (%) = 77 Index UV = 0.15 Viteza vântului = 2.6 Unghiul vântului = 327 Stare = nori 85-100%']
+Busteni: 35 \ vineri \ 03:9:2021 \ 19:18:42
+[' Răsarit = 06:41:55 Apus = 19:52:58 Min (°C) = 5.97 Max (°C) =16.77 Presiune = 1019 Umiditate (%) = 64 Index UV = 0.18 Viteza vântului = 0.67 Unghiul vântului = 316 Stare = nori 25-50%']
+Busteni: 35 \ sâmbătă \ 04:9:2021 \ 19:17:56
+[' Răsarit = 06:43:07 Apus = 19:51:06 Min (°C) = 7.66 Max (°C) =18.15 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.12 Viteza vântului = 1.04 Unghiul vântului = 14 Stare = nori 50-85%']
+Busteni: 35 \ duminică \ 05:9:2021 \ 19:19:24
+[' Răsarit = 06:44:19 Apus = 19:49:13 Min (°C) = 9.78 Max (°C) =16.49 Presiune = 1021 Umiditate (%) = 84 Index UV = 0.14 Viteza vântului = 0.92 Unghiul vântului = 155 Stare = nori 50-85%']
+Busteni: 36 \ luni \ 06:9:2021 \ 19:20:16
+[' Răsarit = 06:45:32 Apus = 19:47:20 Min (°C) = 7.69 Max (°C) =17.09 Presiune = 1024 Umiditate (%) = 62 Index UV = 0.13 Viteza vântului = 0.9 Unghiul vântului = 184 Stare = nori 50-85%']
+Busteni: 36 \ marți \ 07:9:2021 \ 19:20:29
+[' Răsarit = 06:46:44 Apus = 19:45:26 Min (°C) = 7.01 Max (°C) =19.04 Presiune = 1025 Umiditate (%) = 63 Index UV = 0.12 Viteza vântului = 1.99 Unghiul vântului = 163 Stare = nori 50-85%']
+Busteni: 36 \ miercuri \ 08:9:2021 \ 19:19:48
+[' Răsarit = 06:47:56 Apus = 19:43:32 Min (°C) = 8 Max (°C) =19.48 Presiune = 1024 Umiditate (%) = 60 Index UV = 0.12 Viteza vântului = 1.54 Unghiul vântului = 152 Stare = nori 25-50%']
+Busteni: 36 \ joi \ 09:9:2021 \ 19:20:54
+[' Răsarit = 06:49:08 Apus = 19:41:37 Min (°C) = 8.43 Max (°C) =19.62 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.13 Viteza vântului = 1.93 Unghiul vântului = 161 Stare = nori 25-50%']
+Busteni: 36 \ vineri \ 10:9:2021 \ 19:21:32
+[' Răsarit = 06:50:20 Apus = 19:39:42 Min (°C) = 8.61 Max (°C) =20.12 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.11 Viteza vântului = 0.67 Unghiul vântului = 178 Stare = nori 85-100%']
+Busteni: 36 \ sâmbătă \ 11:9:2021 \ 19:18:52
+[' Răsarit = 06:51:33 Apus = 19:37:47 Min (°C) = 10.34 Max (°C) =21.05 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.11 Viteza vântului = 0.47 Unghiul vântului = 74 Stare = nori 50-85%']
+Busteni: 36 \ duminică \ 12:9:2021 \ 19:19:11
+[' Răsarit = 06:52:45 Apus = 19:35:51 Min (°C) = 10.83 Max (°C) =21.38 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.1 Viteza vântului = 0.55 Unghiul vântului = 353 Stare = cer senin']
+Busteni: 37 \ luni \ 13:9:2021 \ 19:19:43
+[' Răsarit = 06:53:57 Apus = 19:33:55 Min (°C) = 11.77 Max (°C) =20.88 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.1 Viteza vântului = 1.19 Unghiul vântului = 355 Stare = nori 85-100%']
+Busteni: 37 \ marți \ 14:9:2021 \ 19:21:07
+[' Răsarit = 06:55:09 Apus = 19:31:59 Min (°C) = 11.79 Max (°C) =21.29 Presiune = 1018 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 232 Stare = nori 50-85%']
+Busteni: 37 \ joi \ 16:9:2021 \ 19:19:24
+[' Răsarit = 06:57:33 Apus = 19:28:06 Min (°C) = 12.78 Max (°C) =23.14 Presiune = 1017 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 266 Stare = nori 50-85%']
+Busteni: 37 \ vineri \ 17:9:2021 \ 19:21:00
+[' Răsarit = 06:58:46 Apus = 19:26:10 Min (°C) = 14.8 Max (°C) =22.78 Presiune = 1010 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 222 Stare = nori 85-100%']
+Busteni: 37 \ sâmbătă \ 18:9:2021 \ 19:21:23
+[' Răsarit = 06:59:58 Apus = 19:24:13 Min (°C) = 10.68 Max (°C) =15.62 Presiune = 1011 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.63 Unghiul vântului = 360 Stare = nori 50-85%']
+Busteni: 37 \ duminică \ 19:9:2021 \ 19:20:10
+[' Răsarit = 07:01:10 Apus = 19:22:16 Min (°C) = 7.59 Max (°C) =18.01 Presiune = 1012 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 8 Stare = nori 50-85%']
+Busteni: 38 \ luni \ 20:9:2021 \ 19:20:38
+[' Răsarit = 07:02:23 Apus = 19:20:19 Min (°C) = 7.98 Max (°C) =15.49 Presiune = 1013 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 36 Stare = nori 85-100%']
+Busteni: 38 \ marți \ 21:9:2021 \ 19:19:16
+[' Răsarit = 07:03:36 Apus = 19:18:22 Min (°C) = 4.4 Max (°C) =10.76 Presiune = 1022 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 360 Stare = nori 85-100%']
+Busteni: 38 \ miercuri \ 22:9:2021 \ 19:20:03
+[' Răsarit = 07:04:48 Apus = 19:16:26 Min (°C) = 2.28 Max (°C) =8.62 Presiune = 1019 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 359 Stare = nori 85-100%']
+Busteni: 38 \ joi \ 23:9:2021 \ 19:18:38
+[' Răsarit = 07:06:01 Apus = 19:14:29 Min (°C) = 3.37 Max (°C) =7.84 Presiune = 1020 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 339 Stare = nori 85-100%']
+Busteni: 39 \ luni \ 27:9:2021 \ 19:18:16
+[' Răsarit = 07:10:54 Apus = 19:06:44 Min (°C) = 9.98 Max (°C) =20.74 Presiune = 1018 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 174 Stare = nori 25-50%']
+Busteni: 39 \ marți \ 28:9:2021 \ 19:21:00
+[' Răsarit = 07:12:08 Apus = 19:04:48 Min (°C) = 8.03 Max (°C) =13.01 Presiune = 1021 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 111 Stare = nori 85-100%']
+Busteni: 39 \ miercuri \ 29:9:2021 \ 19:21:48
+[' Răsarit = 07:13:22 Apus = 19:02:52 Min (°C) = 6.99 Max (°C) =9.16 Presiune = 1027 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 149 Stare = nori 85-100%']
+Busteni: 39 \ joi \ 30:9:2021 \ 19:19:07
+[' Răsarit = 07:14:36 Apus = 19:00:57 Min (°C) = 3.9 Max (°C) =13.54 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 161 Stare = nori 85-100%']
+Busteni: 39 \ vineri \ 01:10:2021 \ 19:20:31
+[' Răsarit = 07:15:51 Apus = 18:59:02 Min (°C) = 4.28 Max (°C) =13.63 Presiune = 1027 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 146 Stare = nori 85-100%']
+Busteni: 39 \ sâmbătă \ 02:10:2021 \ 19:19:14
+[' Răsarit = 07:17:06 Apus = 18:57:08 Min (°C) = 2.85 Max (°C) =14.03 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 175 Stare = cer senin']
+Busteni: 39 \ duminică \ 03:10:2021 \ 19:18:37
+[' Răsarit = 07:18:21 Apus = 18:55:14 Min (°C) = 3.68 Max (°C) =14.92 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 175 Stare = cer senin']
+Busteni: 40 \ luni \ 04:10:2021 \ 19:23:25
+[' Răsarit = 07:19:36 Apus = 18:53:20 Min (°C) = 4.48 Max (°C) =16.75 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 185 Stare = nori 85-100%']
+Busteni: 40 \ marți \ 05:10:2021 \ 19:20:58
+[' Răsarit = 07:20:52 Apus = 18:51:27 Min (°C) = 5.2 Max (°C) =13.58 Presiune = 1027 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 149 Stare = cer senin']
+Busteni: 40 \ miercuri \ 06:10:2021 \ 19:18:47
+[' Răsarit = 07:22:08 Apus = 18:49:34 Min (°C) = 2.74 Max (°C) =10.69 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 144 Stare = nori 50-85%']
+Busteni: 40 \ joi \ 07:10:2021 \ 19:21:16
+[' Răsarit = 07:23:24 Apus = 18:47:42 Min (°C) = 2.61 Max (°C) =8.21 Presiune = 1027 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 112 Stare = nori 85-100%']
+Busteni: 40 \ vineri \ 08:10:2021 \ 19:20:40
+[' Răsarit = 07:24:40 Apus = 18:45:50 Min (°C) = 2.95 Max (°C) =9.14 Presiune = 1027 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 43 Stare = ploaie ușoară']
+Busteni: 40 \ sâmbătă \ 09:10:2021 \ 19:18:37
+[' Răsarit = 07:25:57 Apus = 18:44:00 Min (°C) = 1.25 Max (°C) =6.6 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 39 Stare = nori 85-100%']
+Busteni: 40 \ duminică \ 10:10:2021 \ 19:19:51
+[' Răsarit = 07:27:15 Apus = 18:42:09 Min (°C) = 1.17 Max (°C) =12.73 Presiune = 1027 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 156 Stare = nori 50-85%']
+Busteni: 41 \ luni \ 11:10:2021 \ 19:19:53
+[' Răsarit = 07:28:32 Apus = 18:40:20 Min (°C) = 3.58 Max (°C) =11.46 Presiune = 1019 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 156 Stare = ploaie ușoară']
+Busteni: 41 \ marți \ 12:10:2021 \ 19:19:54
+[' Răsarit = 07:29:50 Apus = 18:38:31 Min (°C) = 5.4 Max (°C) =7.53 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 349 Stare = nori 85-100%']
+Busteni: 41 \ miercuri \ 13:10:2021 \ 19:19:50
+[' Răsarit = 07:31:08 Apus = 18:36:43 Min (°C) = 3.54 Max (°C) =6.72 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 350 Stare = nori 85-100%']
+Busteni: 41 \ joi \ 14:10:2021 \ 19:19:37
+[' Răsarit = 07:32:27 Apus = 18:34:56 Min (°C) = 2.65 Max (°C) =4.07 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 32 Stare = ploaie ușoară']
+Busteni: 41 \ vineri \ 15:10:2021 \ 19:18:41
+[' Răsarit = 07:33:46 Apus = 18:33:09 Min (°C) = 3.03 Max (°C) =6.39 Presiune = 1019 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 122 Stare = nori 85-100%']
+Busteni: 41 \ sâmbătă \ 16:10:2021 \ 19:18:53
+[' Răsarit = 07:35:06 Apus = 18:31:24 Min (°C) = 4.99 Max (°C) =6.82 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 359 Stare = nori 85-100%']
+Busteni: 41 \ duminică \ 17:10:2021 \ 19:18:08
+[' Răsarit = 07:36:25 Apus = 18:29:39 Min (°C) = 5.11 Max (°C) =7.63 Presiune = 1022 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 318 Stare = nori 85-100%']
+Busteni: 42 \ luni \ 18:10:2021 \ 19:18:08
+[' Răsarit = 07:37:45 Apus = 18:27:56 Min (°C) = 4.66 Max (°C) =9.83 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 352 Stare = nori 50-85%']
+Busteni: 42 \ marți \ 19:10:2021 \ 19:19:52
+[' Răsarit = 07:39:06 Apus = 18:26:13 Min (°C) = 3.28 Max (°C) =9.91 Presiune = 1029 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 344 Stare = nori 50-85%']
+Busteni: 42 \ miercuri \ 20:10:2021 \ 19:17:35
+[' Răsarit = 07:40:27 Apus = 18:24:31 Min (°C) = 4.34 Max (°C) =14.61 Presiune = 1025 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 208 Stare = nori 50-85%']
+Busteni: 42 \ joi \ 21:10:2021 \ 19:19:36
+[' Răsarit = 07:41:48 Apus = 18:22:51 Min (°C) = 6.98 Max (°C) =17.36 Presiune = 1015 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 266 Stare = nori 10-25%']
+Busteni: 42 \ vineri \ 22:10:2021 \ 19:16:24
+[' Răsarit = 07:43:10 Apus = 18:21:11 Min (°C) = 7.73 Max (°C) =15.42 Presiune = 1017 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 3 Stare = nori 85-100%']
+Busteni: 42 \ sâmbătă \ 23:10:2021 \ 19:18:08
+[' Răsarit = 07:44:31 Apus = 18:19:33 Min (°C) = 5.37 Max (°C) =11.01 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 8 Stare = nori 85-100%']
+Busteni: 42 \ duminică \ 24:10:2021 \ 19:17:59
+[' Răsarit = 07:45:54 Apus = 18:17:56 Min (°C) = 1.05 Max (°C) =7.29 Presiune = 1033 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 360 Stare = nori 25-50%']
+Busteni: 43 \ luni \ 25:10:2021 \ 19:17:21
+[' Răsarit = 07:47:16 Apus = 18:16:20 Min (°C) = 0.15 Max (°C) =9.5 Presiune = 1032 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 180 Stare = cer senin']
+Busteni: 43 \ marți \ 26:10:2021 \ 19:16:35
+[' Răsarit = 07:48:39 Apus = 18:14:45 Min (°C) = 0.58 Max (°C) =9.33 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 185 Stare = cer senin']
+Busteni: 43 \ miercuri \ 27:10:2021 \ 19:19:15
+[' Răsarit = 07:50:02 Apus = 18:13:11 Min (°C) = 1.82 Max (°C) =10.84 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 324 Stare = cer senin']
+Busteni: 43 \ joi \ 28:10:2021 \ 19:16:57
+[' Răsarit = 07:51:26 Apus = 18:11:39 Min (°C) = 2.9 Max (°C) =11.93 Presiune = 1027 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 199 Stare = nori 25-50%']
+Busteni: 43 \ vineri \ 29:10:2021 \ 19:17:30
+[' Răsarit = 07:52:49 Apus = 18:10:08 Min (°C) = 5.14 Max (°C) =13.32 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 168 Stare = cer senin']
+Busteni: 43 \ sâmbătă \ 30:10:2021 \ 19:17:12
+[' Răsarit = 07:54:13 Apus = 18:08:39 Min (°C) = 3.54 Max (°C) =12.05 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 169 Stare = cer senin']
+Busteni: 43 \ duminică \ 31:10:2021 \ 19:17:05
+[' Răsarit = 06:55:37 Apus = 17:07:11 Min (°C) = 2.1 Max (°C) =11.24 Presiune = 1022 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 179 Stare = nori 10-25%']
+Busteni: 44 \ luni \ 01:11:2021 \ 19:17:25
+[' Răsarit = 06:57:02 Apus = 17:05:44 Min (°C) = 3.04 Max (°C) =7.98 Presiune = 1014 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 185 Stare = nori 50-85%']
+Busteni: 44 \ marți \ 02:11:2021 \ 19:17:39
+[' Răsarit = 06:58:26 Apus = 17:04:19 Min (°C) = 1.58 Max (°C) =10.25 Presiune = 1006 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 213 Stare = nori 85-100%']
+Busteni: 44 \ miercuri \ 03:11:2021 \ 19:17:15
+[' Răsarit = 06:59:51 Apus = 17:02:55 Min (°C) = 4.47 Max (°C) =12.17 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 176 Stare = nori 50-85%']
+Busteni: 44 \ joi \ 04:11:2021 \ 19:15:34
+[' Răsarit = 07:01:15 Apus = 17:01:33 Min (°C) = 7.18 Max (°C) =17.61 Presiune = 1017 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 202 Stare = nori 25-50%']
+Busteni: 44 \ vineri \ 05:11:2021 \ 19:21:21
+[' Răsarit = 07:02:40 Apus = 17:00:13 Min (°C) = 12.11 Max (°C) =21.14 Presiune = 1018 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 227 Stare = nori 50-85%']
+Busteni: 44 \ sâmbătă \ 06:11:2021 \ 19:19:01
+[' Răsarit = 07:04:05 Apus = 16:58:54 Min (°C) = 8.7 Max (°C) =12.74 Presiune = 1027 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 227 Stare = nori 85-100%']
+Busteni: 44 \ duminică \ 07:11:2021 \ 19:18:59
+[' Răsarit = 07:05:30 Apus = 16:57:37 Min (°C) = 7.56 Max (°C) =14.01 Presiune = 1018 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 214 Stare = nori 85-100%']
+Busteni: 45 \ luni \ 08:11:2021 \ 19:18:45
+[' Răsarit = 07:06:55 Apus = 16:56:22 Min (°C) = 6.91 Max (°C) =14.75 Presiune = 1017 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 205 Stare = ploaie ușoară']
+Busteni: 45 \ marți \ 09:11:2021 \ 19:14:24
+[' Răsarit = 07:08:19 Apus = 16:55:08 Min (°C) = 0.75 Max (°C) =7.48 Presiune = 1034 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 340 Stare = nori 85-100%']
+Busteni: 45 \ miercuri \ 10:11:2021 \ 19:18:45
+[' Răsarit = 07:09:44 Apus = 16:53:56 Min (°C) = -1.11 Max (°C) =6.93 Presiune = 1036 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 183 Stare = cer senin']
+Busteni: 45 \ joi \ 11:11:2021 \ 19:19:17
+[' Răsarit = 07:11:08 Apus = 16:52:46 Min (°C) = 1.27 Max (°C) =11.23 Presiune = 1026 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 199 Stare = nori 85-100%']
+Busteni: 45 \ vineri \ 12:11:2021 \ 19:18:30
+[' Răsarit = 07:12:33 Apus = 16:51:38 Min (°C) = 4.33 Max (°C) =14.32 Presiune = 1022 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 192 Stare = nori 25-50%']
+Busteni: 45 \ sâmbătă \ 13:11:2021 \ 19:18:27
+[' Răsarit = 07:13:57 Apus = 16:50:32 Min (°C) = 3.47 Max (°C) =11.79 Presiune = 1023 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 172 Stare = nori 85-100%']
+Busteni: 45 \ duminică \ 14:11:2021 \ 19:20:49
+[' Răsarit = 07:15:20 Apus = 16:49:28 Min (°C) = 2.65 Max (°C) =10.31 Presiune = 1023 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 198 Stare = nori 50-85%']
+Busteni: 46 \ luni \ 15:11:2021 \ 19:19:41
+[' Răsarit = 07:16:44 Apus = 16:48:26 Min (°C) = 1.68 Max (°C) =8.55 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 164 Stare = cer senin']
+Busteni: 46 \ marți \ 16:11:2021 \ 19:19:15
+[' Răsarit = 07:18:07 Apus = 16:47:25 Min (°C) = -0.34 Max (°C) =5.42 Presiune = 1030 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 174 Stare = nori 25-50%']
+Busteni: 46 \ miercuri \ 17:11:2021 \ 19:19:10
+[' Răsarit = 07:19:29 Apus = 16:46:27 Min (°C) = -0.24 Max (°C) =7.38 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 233 Stare = nori 85-100%']
+Busteni: 46 \ joi \ 18:11:2021 \ 19:16:10
+[' Răsarit = 07:20:51 Apus = 16:45:31 Min (°C) = 0.34 Max (°C) =5.61 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 354 Stare = nori 50-85%']
+Busteni: 46 \ vineri \ 19:11:2021 \ 19:16:20
+[' Răsarit = 07:22:13 Apus = 16:44:37 Min (°C) = 0.81 Max (°C) =4.16 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 356 Stare = nori 85-100%']
+Busteni: 46 \ sâmbătă \ 20:11:2021 \ 19:16:05
+[' Răsarit = 07:23:33 Apus = 16:43:45 Min (°C) = 2.02 Max (°C) =5.25 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 357 Stare = nori 50-85%']
+Busteni: 46 \ duminică \ 21:11:2021 \ 19:15:52
+[' Răsarit = 07:24:54 Apus = 16:42:56 Min (°C) = 2.38 Max (°C) =11.11 Presiune = 1013 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 238 Stare = cer senin']
+Busteni: 47 \ luni \ 22:11:2021 \ 19:16:15
+[' Răsarit = 07:26:13 Apus = 16:42:08 Min (°C) = 3.47 Max (°C) =10.26 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 167 Stare = nori 85-100%']
+Busteni: 47 \ marți \ 23:11:2021 \ 19:16:08
+[' Răsarit = 07:27:32 Apus = 16:41:23 Min (°C) = 0 Max (°C) =4.61 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 343 Stare = nori 85-100%']
+Busteni: 47 \ miercuri \ 24:11:2021 \ 19:18:26
+[' Răsarit = 07:28:50 Apus = 16:40:41 Min (°C) = -1.94 Max (°C) =4.38 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 200 Stare = nori 25-50%']
+Busteni: 47 \ joi \ 25:11:2021 \ 19:15:51
+[' Răsarit = 07:30:06 Apus = 16:40:00 Min (°C) = -3.74 Max (°C) =4.94 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 199 Stare = cer senin']
+Busteni: 47 \ vineri \ 26:11:2021 \ 19:15:55
+[' Răsarit = 07:31:22 Apus = 16:39:22 Min (°C) = 0.02 Max (°C) =6.98 Presiune = 1002 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 187 Stare = nori 85-100%']
+Busteni: 47 \ sâmbătă \ 27:11:2021 \ 19:15:54
+[' Răsarit = 07:32:37 Apus = 16:38:46 Min (°C) = 2.61 Max (°C) =6.7 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 220 Stare = nori 25-50%']
+Busteni: 47 \ duminică \ 28:11:2021 \ 19:16:27
+[' Răsarit = 07:33:51 Apus = 16:38:13 Min (°C) = 4.38 Max (°C) =9.42 Presiune = 1001 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 209 Stare = nori 50-85%']
+Busteni: 48 \ luni \ 29:11:2021 \ 19:18:12
+[' Răsarit = 07:35:03 Apus = 16:37:42 Min (°C) = -0.31 Max (°C) =6.96 Presiune = 999 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 14 Stare = nori 85-100%']
+Busteni: 48 \ marți \ 30:11:2021 \ 19:16:30
+[' Răsarit = 07:36:15 Apus = 16:37:14 Min (°C) = -4.25 Max (°C) =-0.52 Presiune = 1009 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 329 Stare = nori 50-85%']
+Busteni: 48 \ miercuri \ 01:12:2021 \ 19:16:46
+[' Răsarit = 07:37:25 Apus = 16:36:48 Min (°C) = -4.35 Max (°C) =2.67 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 292 Stare = nori 50-85%']
+Busteni: 48 \ joi \ 02:12:2021 \ 19:16:07
+[' Răsarit = 07:38:33 Apus = 16:36:25 Min (°C) = 0.24 Max (°C) =7.54 Presiune = 1008 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 220 Stare = nori 50-85%']
+Busteni: 48 \ vineri \ 03:12:2021 \ 19:16:16
+[' Răsarit = 07:39:41 Apus = 16:36:04 Min (°C) = -0.1 Max (°C) =8.37 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.9 Unghiul vântului = 3 Stare = ploaie ușoară']
+Busteni: 48 \ sâmbătă \ 04:12:2021 \ 19:16:47
+[' Răsarit = 07:40:46 Apus = 16:35:46 Min (°C) = -1.87 Max (°C) =1.54 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 198 Stare = nori 85-100%']
+Busteni: 48 \ duminică \ 05:12:2021 \ 19:16:30
+[' Răsarit = 07:41:50 Apus = 16:35:30 Min (°C) = -2.81 Max (°C) =5.4 Presiune = 1009 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 200 Stare = nori 50-85%']
+Busteni: 49 \ luni \ 06:12:2021 \ 19:16:21
+[' Răsarit = 07:42:53 Apus = 16:35:17 Min (°C) = 0.66 Max (°C) =7.21 Presiune = 1006 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 185 Stare = nori 85-100%']
+Busteni: 49 \ marți \ 07:12:2021 \ 19:16:20
+[' Răsarit = 07:43:54 Apus = 16:35:06 Min (°C) = -0.94 Max (°C) =3.85 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 7 Stare = snow']
+Busteni: 49 \ miercuri \ 08:12:2021 \ 19:16:19
+[' Răsarit = 07:44:53 Apus = 16:34:59 Min (°C) = -1.49 Max (°C) =0.77 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 344 Stare = nori 50-85%']
+Busteni: 49 \ joi \ 09:12:2021 \ 19:16:23
+[' Răsarit = 07:45:50 Apus = 16:34:53 Min (°C) = -2.12 Max (°C) =5.26 Presiune = 1011 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 180 Stare = nori 85-100%']
+Busteni: 49 \ vineri \ 10:12:2021 \ 19:18:47
+[' Răsarit = 07:46:45 Apus = 16:34:51 Min (°C) = 0.46 Max (°C) =5.1 Presiune = 1005 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 178 Stare = nori 85-100%']
+Busteni: 49 \ sâmbătă \ 11:12:2021 \ 19:18:18
+[' Răsarit = 07:47:39 Apus = 16:34:51 Min (°C) = 0.46 Max (°C) =4.58 Presiune = 1011 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 106 Stare = ploaie ușoară']
+Busteni: 49 \ duminică \ 12:12:2021 \ 19:18:38
+[' Răsarit = 07:48:30 Apus = 16:34:54 Min (°C) = 3.33 Max (°C) =6.79 Presiune = 1013 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 122 Stare = nori 25-50%']
+Busteni: 50 \ luni \ 13:12:2021 \ 19:18:43
+[' Răsarit = 07:49:20 Apus = 16:34:59 Min (°C) = 1.01 Max (°C) =3.98 Presiune = 1022 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 359 Stare = nori 85-100%']
+Busteni: 50 \ marți \ 14:12:2021 \ 19:20:43
+[' Răsarit = 07:50:07 Apus = 16:35:07 Min (°C) = -0.85 Max (°C) =1.7 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 349 Stare = nori 85-100%']
+Busteni: 50 \ miercuri \ 15:12:2021 \ 19:18:48
+[' Răsarit = 07:50:52 Apus = 16:35:18 Min (°C) = -2.65 Max (°C) =0.76 Presiune = 1029 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 348 Stare = nori 50-85%']
+Busteni: 50 \ joi \ 16:12:2021 \ 19:18:15
+[' Răsarit = 07:51:35 Apus = 16:35:31 Min (°C) = -3.28 Max (°C) =0.45 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 346 Stare = nori 50-85%']
+Busteni: 50 \ vineri \ 17:12:2021 \ 19:21:53
+[' Răsarit = 07:52:16 Apus = 16:35:47 Min (°C) = -2.4 Max (°C) =0.18 Presiune = 1023 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 347 Stare = zăpadă slabă']
+Busteni: 50 \ sâmbătă \ 18:12:2021 \ 19:17:41
+[' Răsarit = 07:52:54 Apus = 16:36:06 Min (°C) = -3.84 Max (°C) =-1.89 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 331 Stare = nori 85-100%']
+Busteni: 50 \ duminică \ 19:12:2021 \ 19:18:07
+[' Răsarit = 07:53:30 Apus = 16:36:27 Min (°C) = -5.27 Max (°C) =0.23 Presiune = 1011 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 348 Stare = nori 50-85%']
+Busteni: 51 \ luni \ 20:12:2021 \ 19:18:27
+[' Răsarit = 07:54:04 Apus = 16:36:51 Min (°C) = -5.77 Max (°C) =-1.54 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 334 Stare = zăpadă slabă']
+Busteni: 51 \ marți \ 21:12:2021 \ 19:20:25
+[' Răsarit = 07:54:36 Apus = 16:37:17 Min (°C) = -9 Max (°C) =-4.87 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 313 Stare = nori 50-85%']
+Busteni: 51 \ miercuri \ 22:12:2021 \ 19:18:33
+[' Răsarit = 07:55:05 Apus = 16:37:46 Min (°C) = -11.97 Max (°C) =-6.03 Presiune = 1030 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 352 Stare = nori 85-100%']
+Busteni: 51 \ joi \ 23:12:2021 \ 19:18:59
+[' Răsarit = 07:55:31 Apus = 16:38:17 Min (°C) = -13.18 Max (°C) =-5.75 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 193 Stare = nori 50-85%']
+Busteni: 51 \ vineri \ 24:12:2021 \ 19:19:00
+[' Răsarit = 07:55:55 Apus = 16:38:51 Min (°C) = -8.93 Max (°C) =3.75 Presiune = 1008 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 288 Stare = nori 50-85%']
+Busteni: 51 \ sâmbătă \ 25:12:2021 \ 19:19:14
+[' Răsarit = 07:56:17 Apus = 16:39:27 Min (°C) = 1.05 Max (°C) =7.25 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 227 Stare = nori 85-100%']
+Busteni: 51 \ duminică \ 26:12:2021 \ 19:20:24
+[' Răsarit = 07:56:36 Apus = 16:40:06 Min (°C) = -2.81 Max (°C) =4.33 Presiune = 1013 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 195 Stare = nori 85-100%']
+Busteni: 52 \ luni \ 27:12:2021 \ 19:18:32
+[' Răsarit = 07:56:52 Apus = 16:40:46 Min (°C) = 0.44 Max (°C) =1.34 Presiune = 1011 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = snow']
+Busteni: 52 \ marți \ 28:12:2021 \ 19:19:19
+[' Răsarit = 07:57:06 Apus = 16:41:30 Min (°C) = -1.57 Max (°C) =0.67 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 168 Stare = nori 85-100%']
+Busteni: 52 \ miercuri \ 29:12:2021 \ 19:18:30
+[' Răsarit = 07:57:17 Apus = 16:42:15 Min (°C) = -1.33 Max (°C) =4.15 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.16 Unghiul vântului = 285 Stare = nori 85-100%']
+Busteni: 52 \ joi \ 30:12:2021 \ 19:19:18
+[' Răsarit = 07:57:26 Apus = 16:43:03 Min (°C) = 0.5 Max (°C) =2.39 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 328 Stare = nori 85-100%']
+Busteni: 52 \ vineri \ 31:12:2021 \ 19:16:18
+[' Răsarit = 07:57:32 Apus = 16:43:53 Min (°C) = -0.81 Max (°C) =5.3 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 320 Stare = nori 85-100%']
+Busteni: 00 \ sâmbătă \ 01:1:2022 \ 19:17:02
+[' Răsarit = 07:57:35 Apus = 16:44:45 Min (°C) = 4.04 Max (°C) =6.17 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 338 Stare = ploaie ușoară']
+Busteni: 00 \ duminică \ 02:1:2022 \ 19:15:50
+[' Răsarit = 07:57:36 Apus = 16:45:39 Min (°C) = 2.05 Max (°C) =5.87 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 219 Stare = nori 50-85%']
+Busteni: 01 \ luni \ 03:1:2022 \ 19:15:37
+[' Răsarit = 07:57:34 Apus = 16:46:35 Min (°C) = 2.54 Max (°C) =10.21 Presiune = 1013 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 307 Stare = nori 85-100%']
+Busteni: 01 \ marți \ 04:1:2022 \ 19:15:42
+[' Răsarit = 07:57:30 Apus = 16:47:33 Min (°C) = 1.45 Max (°C) =8.05 Presiune = 1011 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 221 Stare = nori 50-85%']
+Busteni: 01 \ miercuri \ 05:1:2022 \ 19:17:07
+[' Răsarit = 07:57:23 Apus = 16:48:33 Min (°C) = 3.13 Max (°C) =10.53 Presiune = 1006 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 201 Stare = nori 10-25%']
+Busteni: 01 \ joi \ 06:1:2022 \ 19:16:03
+[' Răsarit = 07:57:14 Apus = 16:49:35 Min (°C) = 0.01 Max (°C) =9.24 Presiune = 1013 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 1 Stare = nori 50-85%']
+Busteni: 01 \ vineri \ 07:1:2022 \ 19:17:23
+[' Răsarit = 07:57:01 Apus = 16:50:39 Min (°C) = -2.5 Max (°C) =0.95 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 170 Stare = nori 85-100%']
+Busteni: 01 \ sâmbătă \ 08:1:2022 \ 19:16:46
+[' Răsarit = 07:56:47 Apus = 16:51:44 Min (°C) = -2.75 Max (°C) =0.92 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 165 Stare = zăpadă slabă']
+Busteni: 01 \ duminică \ 09:1:2022 \ 19:16:14
+[' Răsarit = 07:56:29 Apus = 16:52:51 Min (°C) = 0.07 Max (°C) =2.93 Presiune = 1006 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 52 Stare = nori 85-100%']
+Busteni: 02 \ luni \ 10:1:2022 \ 19:16:15
+[' Răsarit = 07:56:10 Apus = 16:54:00 Min (°C) = -1.42 Max (°C) =2.53 Presiune = 1015 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 21 Stare = nori 85-100%']
+Busteni: 02 \ marți \ 11:1:2022 \ 19:17:43
+[' Răsarit = 07:55:47 Apus = 16:55:10 Min (°C) = -5.48 Max (°C) =-0.87 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 1 Stare = nori 25-50%']
+Busteni: 02 \ miercuri \ 12:1:2022 \ 19:16:17
+[' Răsarit = 07:55:23 Apus = 16:56:21 Min (°C) = -8.31 Max (°C) =-3.77 Presiune = 1034 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 338 Stare = cer senin']
+Busteni: 02 \ joi \ 13:1:2022 \ 19:17:16
+[' Răsarit = 07:54:55 Apus = 16:57:34 Min (°C) = -9.96 Max (°C) =-4.12 Presiune = 1035 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 354 Stare = nori 25-50%']
+Busteni: 02 \ vineri \ 14:1:2022 \ 19:16:36
+[' Răsarit = 07:54:26 Apus = 16:58:48 Min (°C) = -5.44 Max (°C) =0.65 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.62 Unghiul vântului = 347 Stare = nori 50-85%']
+Busteni: 02 \ sâmbătă \ 15:1:2022 \ 19:16:21
+[' Răsarit = 07:53:53 Apus = 17:00:04 Min (°C) = -4.78 Max (°C) =-0.74 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.65 Unghiul vântului = 341 Stare = nori 25-50%']
+Busteni: 02 \ duminică \ 16:1:2022 \ 19:15:45
+[' Răsarit = 07:53:19 Apus = 17:01:21 Min (°C) = -7.15 Max (°C) =-0.28 Presiune = 1026 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 256 Stare = nori 25-50%']
+Busteni: 03 \ luni \ 17:1:2022 \ 19:15:52
+[' Răsarit = 07:52:42 Apus = 17:02:39 Min (°C) = -4.4 Max (°C) =1.5 Presiune = 1011 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 300 Stare = zăpadă slabă']
+Busteni: 03 \ marți \ 18:1:2022 \ 19:15:53
+[' Răsarit = 07:52:02 Apus = 17:03:58 Min (°C) = -6.83 Max (°C) =-3.84 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.75 Unghiul vântului = 333 Stare = nori 50-85%']
+Busteni: 03 \ miercuri \ 19:1:2022 \ 19:16:04
+[' Răsarit = 07:51:21 Apus = 17:05:17 Min (°C) = -8.06 Max (°C) =-3.1 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 314 Stare = nori 10-25%']
+Busteni: 03 \ joi \ 20:1:2022 \ 19:16:20
+[' Răsarit = 07:50:37 Apus = 17:06:38 Min (°C) = -7 Max (°C) =1.51 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 332 Stare = nori 10-25%']
+Busteni: 03 \ vineri \ 21:1:2022 \ 19:15:57
+[' Răsarit = 07:49:51 Apus = 17:08:00 Min (°C) = -8.26 Max (°C) =-3.01 Presiune = 1020 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 350 Stare = nori 85-100%']
+Busteni: 03 \ sâmbătă \ 22:1:2022 \ 19:18:25
+[' Răsarit = 07:49:02 Apus = 17:09:23 Min (°C) = -10.33 Max (°C) =-6.17 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 343 Stare = zăpadă slabă']
+Busteni: 03 \ duminică \ 23:1:2022 \ 19:18:38
+[' Răsarit = 07:48:12 Apus = 17:10:46 Min (°C) = -11.99 Max (°C) =-7.06 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 356 Stare = zăpadă slabă']
+Busteni: 04 \ luni \ 24:1:2022 \ 19:19:11
+[' Răsarit = 07:47:19 Apus = 17:12:10 Min (°C) = -13.69 Max (°C) =-7.99 Presiune = 1036 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 349 Stare = nori 85-100%']
+Busteni: 04 \ marți \ 25:1:2022 \ 19:19:00
+[' Răsarit = 07:46:24 Apus = 17:13:35 Min (°C) = -13.66 Max (°C) =-6.81 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 346 Stare = nori 50-85%']
+Busteni: 04 \ miercuri \ 26:1:2022 \ 19:18:58
+[' Răsarit = 07:45:27 Apus = 17:15:00 Min (°C) = -10.05 Max (°C) =-4.07 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 350 Stare = nori 85-100%']
+Busteni: 04 \ joi \ 27:1:2022 \ 19:18:55
+[' Răsarit = 07:44:28 Apus = 17:16:25 Min (°C) = -7.65 Max (°C) =-0.57 Presiune = 1023 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 337 Stare = nori 85-100%']
+Busteni: 04 \ vineri \ 28:1:2022 \ 19:18:47
+[' Răsarit = 07:43:27 Apus = 17:17:52 Min (°C) = -6.01 Max (°C) =1.63 Presiune = 1019 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 315 Stare = nori 50-85%']
+Busteni: 04 \ sâmbătă \ 29:1:2022 \ 19:18:46
+[' Răsarit = 07:42:24 Apus = 17:19:18 Min (°C) = -7.1 Max (°C) =-1.29 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 342 Stare = nori 85-100%']
+Busteni: 04 \ duminică \ 30:1:2022 \ 19:16:19
+[' Răsarit = 07:41:19 Apus = 17:20:45 Min (°C) = -8.49 Max (°C) =1.95 Presiune = 1010 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 300 Stare = zăpadă slabă']
+Busteni: 05 \ luni \ 31:1:2022 \ 19:16:18
+[' Răsarit = 07:40:12 Apus = 17:22:12 Min (°C) = -6.06 Max (°C) =0.15 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 247 Stare = nori 50-85%']
+Busteni: 05 \ marți \ 01:2:2022 \ 19:16:09
+[' Răsarit = 07:39:04 Apus = 17:23:40 Min (°C) = -5.56 Max (°C) =0.43 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 299 Stare = zăpadă slabă']
+Busteni: 05 \ miercuri \ 02:2:2022 \ 19:16:21
+[' Răsarit = 07:37:53 Apus = 17:25:08 Min (°C) = -7.3 Max (°C) =-0.7 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 351 Stare = nori 85-100%']
+Busteni: 05 \ joi \ 03:2:2022 \ 19:16:05
+[' Răsarit = 07:36:41 Apus = 17:26:36 Min (°C) = -7.42 Max (°C) =-1.33 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 331 Stare = nori 50-85%']
+Busteni: 05 \ vineri \ 04:2:2022 \ 19:16:22
+[' Răsarit = 07:35:26 Apus = 17:28:04 Min (°C) = -10.05 Max (°C) =1.28 Presiune = 1021 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.28 Unghiul vântului = 256 Stare = nori 50-85%']
+Busteni: 05 \ sâmbătă \ 05:2:2022 \ 19:16:06
+[' Răsarit = 07:34:11 Apus = 17:29:32 Min (°C) = -4.86 Max (°C) =4.2 Presiune = 1019 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 344 Stare = nori 50-85%']
+Busteni: 05 \ duminică \ 06:2:2022 \ 19:16:14
+[' Răsarit = 07:32:53 Apus = 17:31:00 Min (°C) = -6.75 Max (°C) =1.45 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 203 Stare = nori 85-100%']
+Busteni: 06 \ luni \ 07:2:2022 \ 19:16:13
+[' Răsarit = 07:31:34 Apus = 17:32:28 Min (°C) = -2.25 Max (°C) =4.9 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 342 Stare = zăpadă slabă']
+Busteni: 06 \ marți \ 08:2:2022 \ 19:16:03
+[' Răsarit = 07:30:13 Apus = 17:33:56 Min (°C) = -4.18 Max (°C) =-1.94 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.57 Unghiul vântului = 348 Stare = nori 50-85%']
+Busteni: 06 \ miercuri \ 09:2:2022 \ 19:18:33
+[' Răsarit = 07:28:51 Apus = 17:35:24 Min (°C) = -5.6 Max (°C) =1.5 Presiune = 1029 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 345 Stare = nori 50-85%']
+Busteni: 06 \ joi \ 10:2:2022 \ 19:19:39
+[' Răsarit = 07:27:27 Apus = 17:36:52 Min (°C) = -2.19 Max (°C) =6.19 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 231 Stare = cer senin']
+Busteni: 06 \ vineri \ 11:2:2022 \ 19:18:39
+[' Răsarit = 07:26:01 Apus = 17:38:20 Min (°C) = -0.57 Max (°C) =6.55 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 353 Stare = cer senin']
+Busteni: 06 \ sâmbătă \ 12:2:2022 \ 19:18:47
+[' Răsarit = 07:24:35 Apus = 17:39:48 Min (°C) = -4.36 Max (°C) =1.07 Presiune = 1036 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 2 Stare = nori 25-50%']
+Busteni: 06 \ duminică \ 13:2:2022 \ 19:18:55
+[' Răsarit = 07:23:06 Apus = 17:41:15 Min (°C) = -4.04 Max (°C) =0.35 Presiune = 1030 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 179 Stare = nori 85-100%']
+Busteni: 07 \ luni \ 14:2:2022 \ 19:18:48
+[' Răsarit = 07:21:37 Apus = 17:42:43 Min (°C) = -4.25 Max (°C) =2.02 Presiune = 1024 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 198 Stare = nori 85-100%']
+Busteni: 07 \ marți \ 15:2:2022 \ 19:18:08
+[' Răsarit = 07:20:06 Apus = 17:44:10 Min (°C) = -3.93 Max (°C) =6.46 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 198 Stare = nori 10-25%']
+Busteni: 07 \ miercuri \ 16:2:2022 \ 19:19:22
+[' Răsarit = 07:18:34 Apus = 17:45:37 Min (°C) = 0.43 Max (°C) =7.69 Presiune = 1015 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 227 Stare = nori 85-100%']
+Busteni: 07 \ joi \ 17:2:2022 \ 19:19:52
+[' Răsarit = 07:17:00 Apus = 17:47:03 Min (°C) = 0.79 Max (°C) =6.99 Presiune = 1006 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 274 Stare = nori 50-85%']
+Busteni: 07 \ vineri \ 18:2:2022 \ 19:18:45
+[' Răsarit = 07:15:25 Apus = 17:48:30 Min (°C) = -2.43 Max (°C) =3.17 Presiune = 1019 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 310 Stare = nori 25-50%']
+Busteni: 07 \ sâmbătă \ 19:2:2022 \ 19:19:01
+[' Răsarit = 07:13:49 Apus = 17:49:56 Min (°C) = -2.91 Max (°C) =8.47 Presiune = 1019 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 358 Stare = nori 25-50%']
+Busteni: 07 \ duminică \ 20:2:2022 \ 19:20:10
+[' Răsarit = 07:12:12 Apus = 17:51:22 Min (°C) = -1.28 Max (°C) =2.47 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 8 Stare = nori 85-100%']
+Busteni: 08 \ luni \ 21:2:2022 \ 19:18:39
+[' Răsarit = 07:10:34 Apus = 17:52:47 Min (°C) = -3.61 Max (°C) =6.68 Presiune = 1008 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 228 Stare = nori 50-85%']
+Busteni: 08 \ marți \ 22:2:2022 \ 19:19:49
+[' Răsarit = 07:08:54 Apus = 17:54:13 Min (°C) = 0.01 Max (°C) =3.8 Presiune = 1014 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 352 Stare = nori 85-100%']
+Busteni: 08 \ miercuri \ 23:2:2022 \ 19:19:01
+[' Răsarit = 07:07:14 Apus = 17:55:37 Min (°C) = -2.27 Max (°C) =3.59 Presiune = 1021 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 4 Stare = nori 85-100%']
+Busteni: 08 \ joi \ 24:2:2022 \ 19:18:50
+[' Răsarit = 07:05:33 Apus = 17:57:02 Min (°C) = -4.46 Max (°C) =0.63 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 303 Stare = nori 50-85%']
+Busteni: 08 \ vineri \ 25:2:2022 \ 19:18:57
+[' Răsarit = 07:03:50 Apus = 17:58:26 Min (°C) = -4.71 Max (°C) =5.29 Presiune = 1020 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 353 Stare = nori 50-85%']
+Busteni: 08 \ sâmbătă \ 26:2:2022 \ 19:19:21
+[' Răsarit = 07:02:07 Apus = 17:59:50 Min (°C) = -2.48 Max (°C) =3.36 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 358 Stare = zăpadă slabă']
+Busteni: 08 \ duminică \ 27:2:2022 \ 19:18:31
+[' Răsarit = 07:00:23 Apus = 18:01:14 Min (°C) = -5.02 Max (°C) =1.63 Presiune = 1027 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 46 Stare = nori 85-100%']
+Busteni: 09 \ luni \ 28:2:2022 \ 19:19:06
+[' Răsarit = 06:58:38 Apus = 18:02:37 Min (°C) = -4.26 Max (°C) =-2.22 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 352 Stare = zăpadă slabă']
+Busteni: 09 \ marți \ 01:3:2022 \ 19:19:19
+[' Răsarit = 06:56:52 Apus = 18:04:00 Min (°C) = -6.07 Max (°C) =-1.8 Presiune = 1025 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 347 Stare = zăpadă slabă']
+Busteni: 09 \ miercuri \ 02:3:2022 \ 19:18:29
+[' Răsarit = 06:55:05 Apus = 18:05:22 Min (°C) = -5.65 Max (°C) =-1.27 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 349 Stare = zăpadă slabă']
+Busteni: 09 \ joi \ 03:3:2022 \ 19:18:59
+[' Răsarit = 06:53:18 Apus = 18:06:44 Min (°C) = -5.39 Max (°C) =0.42 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 347 Stare = nori 85-100%']
+Busteni: 09 \ vineri \ 04:3:2022 \ 19:18:47
+[' Răsarit = 06:51:29 Apus = 18:08:06 Min (°C) = -5.49 Max (°C) =-0.29 Presiune = 1015 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.16 Unghiul vântului = 150 Stare = snow']
+Busteni: 09 \ sâmbătă \ 05:3:2022 \ 19:16:28
+[' Răsarit = 06:49:41 Apus = 18:09:28 Min (°C) = -6.39 Max (°C) =-0.11 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 149 Stare = zăpadă slabă']
+Busteni: 09 \ duminică \ 06:3:2022 \ 19:16:16
+[' Răsarit = 06:47:51 Apus = 18:10:49 Min (°C) = -8.53 Max (°C) =0.28 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 162 Stare = nori 85-100%']
+Busteni: 10 \ luni \ 07:3:2022 \ 19:15:58
+[' Răsarit = 06:46:01 Apus = 18:12:10 Min (°C) = -5.1 Max (°C) =-0.99 Presiune = 1015 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 348 Stare = zăpadă slabă']
+Busteni: 10 \ marți \ 08:3:2022 \ 19:15:46
+[' Răsarit = 06:44:10 Apus = 18:13:30 Min (°C) = -7.73 Max (°C) =-2.48 Presiune = 1021 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 267 Stare = nori 85-100%']
+Busteni: 10 \ miercuri \ 09:3:2022 \ 19:15:56
+[' Răsarit = 06:42:19 Apus = 18:14:50 Min (°C) = -9.34 Max (°C) =-3.15 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 58 Stare = zăpadă slabă']
+Busteni: 10 \ joi \ 10:3:2022 \ 19:15:56
+[' Răsarit = 06:40:27 Apus = 18:16:10 Min (°C) = -10.37 Max (°C) =-4.54 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 28 Stare = zăpadă slabă']
+Busteni: 10 \ vineri \ 11:3:2022 \ 19:15:52
+[' Răsarit = 06:38:35 Apus = 18:17:30 Min (°C) = -14.44 Max (°C) =-6.55 Presiune = 1030 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 0 Stare = snow']
+Busteni: 10 \ sâmbătă \ 12:3:2022 \ 19:15:47
+[' Răsarit = 06:36:43 Apus = 18:18:50 Min (°C) = -12.39 Max (°C) =-4.32 Presiune = 1034 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 275 Stare = nori 50-85%']
+Busteni: 10 \ duminică \ 13:3:2022 \ 19:15:58
+[' Răsarit = 06:34:50 Apus = 18:20:09 Min (°C) = -9.33 Max (°C) =-1.76 Presiune = 1032 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 177 Stare = nori 85-100%']
+Busteni: 11 \ luni \ 14:3:2022 \ 19:15:46
+[' Răsarit = 06:32:56 Apus = 18:21:28 Min (°C) = -8.22 Max (°C) =1.74 Presiune = 1038 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 260 Stare = nori 25-50%']
+Busteni: 11 \ marți \ 15:3:2022 \ 19:15:54
+[' Răsarit = 06:31:03 Apus = 18:22:46 Min (°C) = -6.1 Max (°C) =3.63 Presiune = 1035 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 336 Stare = nori 85-100%']
+Busteni: 11 \ miercuri \ 16:3:2022 \ 19:16:01
+[' Răsarit = 06:29:09 Apus = 18:24:05 Min (°C) = -2.27 Max (°C) =3.94 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 136 Stare = nori 85-100%']
+Busteni: 11 \ joi \ 17:3:2022 \ 19:15:59
+[' Răsarit = 06:27:14 Apus = 18:25:23 Min (°C) = -8.1 Max (°C) =-1.16 Presiune = 1038 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 155 Stare = zăpadă slabă']
+Busteni: 11 \ vineri \ 18:3:2022 \ 19:16:05
+[' Răsarit = 06:25:20 Apus = 18:26:41 Min (°C) = -10.93 Max (°C) =-0.88 Presiune = 1043 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 4 Stare = nori 50-85%']
+Busteni: 11 \ sâmbătă \ 19:3:2022 \ 19:16:10
+[' Răsarit = 06:23:25 Apus = 18:27:59 Min (°C) = -11.15 Max (°C) =-2.14 Presiune = 1044 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 139 Stare = nori 85-100%']
+Busteni: 11 \ duminică \ 20:3:2022 \ 19:16:03
+[' Răsarit = 06:21:31 Apus = 18:29:17 Min (°C) = -10.66 Max (°C) =-0.25 Presiune = 1043 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 339 Stare = nori 10-25%']
+Busteni: 12 \ luni \ 21:3:2022 \ 19:16:24
+[' Răsarit = 06:19:36 Apus = 18:30:34 Min (°C) = -7.38 Max (°C) =3.1 Presiune = 1038 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.34 Unghiul vântului = 14 Stare = nori 25-50%']
+Busteni: 12 \ marți \ 22:3:2022 \ 19:16:05
+[' Răsarit = 06:17:41 Apus = 18:31:52 Min (°C) = -1.75 Max (°C) =6.76 Presiune = 1034 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 15 Stare = cer senin']
+Busteni: 12 \ miercuri \ 23:3:2022 \ 19:15:52
+[' Răsarit = 06:15:46 Apus = 18:33:09 Min (°C) = -2.42 Max (°C) =6.82 Presiune = 1030 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 310 Stare = cer senin']
+Busteni: 12 \ joi \ 24:3:2022 \ 19:16:00
+[' Răsarit = 06:13:51 Apus = 18:34:26 Min (°C) = -0.47 Max (°C) =10.04 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 272 Stare = cer senin']
+Busteni: 12 \ vineri \ 25:3:2022 \ 19:15:58
+[' Răsarit = 06:11:56 Apus = 18:35:44 Min (°C) = -2.59 Max (°C) =5.38 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 7 Stare = nori 50-85%']
+Busteni: 12 \ sâmbătă \ 26:3:2022 \ 19:16:12
+[' Răsarit = 06:10:01 Apus = 18:37:01 Min (°C) = -3.32 Max (°C) =8.9 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 292 Stare = cer senin']
+Busteni: 12 \ duminică \ 27:3:2022 \ 19:16:08
+[' Răsarit = 07:08:06 Apus = 19:38:17 Min (°C) = 1.87 Max (°C) =10.72 Presiune = 1027 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 29 Stare = nori 25-50%']
+Busteni: 13 \ luni \ 28:3:2022 \ 19:16:23
+[' Răsarit = 07:06:11 Apus = 19:39:34 Min (°C) = -0.49 Max (°C) =11.76 Presiune = 1022 Umiditate (%) = 69 Index UV = 0.09 Viteza vântului = 1.36 Unghiul vântului = 218 Stare = cer senin']
+Busteni: 13 \ marți \ 29:3:2022 \ 19:16:09
+[' Răsarit = 07:04:17 Apus = 19:40:51 Min (°C) = 2.71 Max (°C) =13.57 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.1 Viteza vântului = 0.49 Unghiul vântului = 296 Stare = nori 85-100%']
+Busteni: 13 \ miercuri \ 30:3:2022 \ 19:16:05
+[' Răsarit = 07:02:22 Apus = 19:42:08 Min (°C) = 4.51 Max (°C) =14.78 Presiune = 1006 Umiditate (%) = 66 Index UV = 0.1 Viteza vântului = 2.21 Unghiul vântului = 226 Stare = nori 85-100%']
+Busteni: 13 \ joi \ 31:3:2022 \ 19:16:26
+[' Răsarit = 07:00:28 Apus = 19:43:25 Min (°C) = 5.36 Max (°C) =11.4 Presiune = 1001 Umiditate (%) = 86 Index UV = 0.03 Viteza vântului = 3.35 Unghiul vântului = 189 Stare = nori 85-100%']
+Busteni: 13 \ vineri \ 01:4:2022 \ 19:19:20
+[' Răsarit = 06:58:35 Apus = 19:44:42 Min (°C) = 7.94 Max (°C) =15.77 Presiune = 994 Umiditate (%) = 88 Index UV = 0.03 Viteza vântului = 1.66 Unghiul vântului = 252 Stare = nori 85-100%']
+Busteni: 13 \ sâmbătă \ 02:4:2022 \ 19:18:55
+[' Răsarit = 06:56:41 Apus = 19:45:58 Min (°C) = 4.08 Max (°C) =7.53 Presiune = 999 Umiditate (%) = 80 Index UV = 0.1 Viteza vântului = 1.92 Unghiul vântului = 237 Stare = nori 50-85%']
+Busteni: 13 \ duminică \ 03:4:2022 \ 19:52:40
+[' Răsarit = 06:54:48 Apus = 19:47:15 Min (°C) = -1.56 Max (°C) =3.63 Presiune = 1012 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 6 Stare = nori 85-100%']
+Busteni: 14 \ luni \ 04:4:2022 \ 19:18:55
+[' Răsarit = 06:52:55 Apus = 19:48:32 Min (°C) = -5.28 Max (°C) =3.14 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.1 Viteza vântului = 0.98 Unghiul vântului = 292 Stare = nori 85-100%']
+Busteni: 14 \ marți \ 05:4:2022 \ 19:20:46
+[' Răsarit = 06:51:03 Apus = 19:49:49 Min (°C) = -5.3 Max (°C) =8.72 Presiune = 1010 Umiditate (%) = 75 Index UV = 0.15 Viteza vântului = 0.86 Unghiul vântului = 226 Stare = nori 25-50%']
+Busteni: 14 \ miercuri \ 06:4:2022 \ 19:19:02
+[' Răsarit = 06:49:11 Apus = 19:51:05 Min (°C) = 0.5 Max (°C) =13.17 Presiune = 1011 Umiditate (%) = 72 Index UV = 0.15 Viteza vântului = 1.41 Unghiul vântului = 183 Stare = nori 25-50%']
+Busteni: 14 \ joi \ 07:4:2022 \ 19:19:12
+[' Răsarit = 06:47:19 Apus = 19:52:22 Min (°C) = 3.78 Max (°C) =11.03 Presiune = 998 Umiditate (%) = 75 Index UV = 0.08 Viteza vântului = 0.32 Unghiul vântului = 358 Stare = nori 85-100%']
+Busteni: 14 \ vineri \ 08:4:2022 \ 19:18:48
+[' Răsarit = 06:45:28 Apus = 19:53:39 Min (°C) = 3.38 Max (°C) =14 Presiune = 1006 Umiditate (%) = 78 Index UV = 0.12 Viteza vântului = 0.08 Unghiul vântului = 291 Stare = nori 85-100%']
+Busteni: 14 \ sâmbătă \ 09:4:2022 \ 19:19:01
+[' Răsarit = 06:43:38 Apus = 19:54:56 Min (°C) = 6.94 Max (°C) =15.24 Presiune = 1002 Umiditate (%) = 70 Index UV = 0.18 Viteza vântului = 3.42 Unghiul vântului = 241 Stare = nori 50-85%']
+Busteni: 14 \ duminică \ 10:4:2022 \ 19:20:29
+[' Răsarit = 06:41:48 Apus = 19:56:13 Min (°C) = 0.07 Max (°C) =8.14 Presiune = 1010 Umiditate (%) = 94 Index UV = 0.05 Viteza vântului = 3.33 Unghiul vântului = 2 Stare = zăpadă slabă']
+Busteni: 15 \ luni \ 11:4:2022 \ 19:19:02
+[' Răsarit = 06:39:59 Apus = 19:57:30 Min (°C) = -1.38 Max (°C) =3.96 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.18 Viteza vântului = 3.99 Unghiul vântului = 328 Stare = nori 50-85%']
+Busteni: 15 \ marți \ 12:4:2022 \ 19:18:15
+[' Răsarit = 06:38:10 Apus = 19:58:47 Min (°C) = -3.98 Max (°C) =5.55 Presiune = 1021 Umiditate (%) = 69 Index UV = 0.18 Viteza vântului = 2.28 Unghiul vântului = 323 Stare = nori 50-85%']
+Busteni: 15 \ miercuri \ 13:4:2022 \ 19:18:40
+[' Răsarit = 06:36:22 Apus = 20:00:04 Min (°C) = -2.86 Max (°C) =8.17 Presiune = 1021 Umiditate (%) = 63 Index UV = 0.2 Viteza vântului = 2.24 Unghiul vântului = 345 Stare = cer senin']
+Busteni: 15 \ joi \ 14:4:2022 \ 19:19:23
+[' Răsarit = 06:34:35 Apus = 20:01:22 Min (°C) = 0.28 Max (°C) =12.72 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.21 Viteza vântului = 0.08 Unghiul vântului = 59 Stare = nori 25-50%']
+Busteni: 15 \ vineri \ 15:4:2022 \ 19:19:39
+[' Răsarit = 06:32:48 Apus = 20:02:39 Min (°C) = 4.79 Max (°C) =17.97 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.22 Viteza vântului = 0.99 Unghiul vântului = 294 Stare = nori 50-85%']
+Busteni: 15 \ sâmbătă \ 16:4:2022 \ 19:19:59
+[' Răsarit = 06:31:02 Apus = 20:03:56 Min (°C) = 6.81 Max (°C) =10.88 Presiune = 1015 Umiditate (%) = 92 Index UV = 0.02 Viteza vântului = 0.54 Unghiul vântului = 33 Stare = nori 85-100%']
+Busteni: 15 \ duminică \ 17:4:2022 \ 19:19:24
+[' Răsarit = 06:29:17 Apus = 20:05:14 Min (°C) = -1.34 Max (°C) =6.41 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.15 Viteza vântului = 2.85 Unghiul vântului = 22 Stare = nori 85-100%']
+Busteni: 16 \ luni \ 18:4:2022 \ 19:20:06
+[' Răsarit = 06:27:33 Apus = 20:06:31 Min (°C) = -3.22 Max (°C) =5.79 Presiune = 1012 Umiditate (%) = 77 Index UV = 0.14 Viteza vântului = 1.3 Unghiul vântului = 182 Stare = nori 85-100%']
+Busteni: 16 \ marți \ 19:4:2022 \ 19:20:22
+[' Răsarit = 06:25:50 Apus = 20:07:48 Min (°C) = -2.1 Max (°C) =5.18 Presiune = 1013 Umiditate (%) = 92 Index UV = 0.12 Viteza vântului = 1.46 Unghiul vântului = 228 Stare = nori 85-100%']
+Busteni: 16 \ miercuri \ 20:4:2022 \ 19:19:16
+[' Răsarit = 06:24:08 Apus = 20:09:06 Min (°C) = -2.82 Max (°C) =7.03 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.14 Viteza vântului = 1.32 Unghiul vântului = 248 Stare = nori 85-100%']
+Busteni: 16 \ joi \ 21:4:2022 \ 19:19:39
+[' Răsarit = 06:22:26 Apus = 20:10:23 Min (°C) = -0.7 Max (°C) =10.98 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.21 Viteza vântului = 1.66 Unghiul vântului = 279 Stare = nori 85-100%']
+Busteni: 16 \ vineri \ 22:4:2022 \ 19:16:48
+[' Răsarit = 06:20:46 Apus = 20:11:41 Min (°C) = 2.31 Max (°C) =14.13 Presiune = 1009 Umiditate (%) = 83 Index UV = 0.18 Viteza vântului = 3.43 Unghiul vântului = 164 Stare = nori 85-100%']
+Busteni: 16 \ sâmbătă \ 23:4:2022 \ 19:16:46
+[' Răsarit = 06:19:06 Apus = 20:12:58 Min (°C) = 6.4 Max (°C) =13.9 Presiune = 1007 Umiditate (%) = 82 Index UV = 0.29 Viteza vântului = 1.18 Unghiul vântului = 299 Stare = nori 50-85%']
+Busteni: 16 \ duminică \ 24:4:2022 \ 19:16:18
+[' Răsarit = 06:17:28 Apus = 20:14:16 Min (°C) = 5.12 Max (°C) =18.6 Presiune = 1009 Umiditate (%) = 64 Index UV = 0.28 Viteza vântului = 2.94 Unghiul vântului = 187 Stare = nori 85-100%']
+Busteni: 17 \ luni \ 25:4:2022 \ 19:16:14
+[' Răsarit = 06:15:51 Apus = 20:15:33 Min (°C) = 8.84 Max (°C) =16.44 Presiune = 1008 Umiditate (%) = 62 Index UV = 0.3 Viteza vântului = 2.21 Unghiul vântului = 297 Stare = nori 10-25%']
+Busteni: 17 \ marți \ 26:4:2022 \ 19:16:16
+[' Răsarit = 06:14:14 Apus = 20:16:51 Min (°C) = 5.2 Max (°C) =15.87 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.29 Viteza vântului = 1.1 Unghiul vântului = 26 Stare = nori 85-100%']
+Busteni: 17 \ miercuri \ 27:4:2022 \ 19:16:19
+[' Răsarit = 06:12:39 Apus = 20:18:08 Min (°C) = 7.05 Max (°C) =14.86 Presiune = 1016 Umiditate (%) = 89 Index UV = 0.17 Viteza vântului = 0.59 Unghiul vântului = 118 Stare = nori 85-100%']
+Busteni: 17 \ joi \ 28:4:2022 \ 19:16:21
+[' Răsarit = 06:11:05 Apus = 20:19:25 Min (°C) = 6.69 Max (°C) =9.05 Presiune = 1020 Umiditate (%) = 95 Index UV = 0.1 Viteza vântului = 0.58 Unghiul vântului = 356 Stare = nori 85-100%']
+Busteni: 17 \ vineri \ 29:4:2022 \ 19:19:14
+[' Răsarit = 06:09:32 Apus = 20:20:42 Min (°C) = 4.74 Max (°C) =9.7 Presiune = 1023 Umiditate (%) = 86 Index UV = 0.25 Viteza vântului = 1.85 Unghiul vântului = 25 Stare = nori 85-100%']
+Busteni: 17 \ sâmbătă \ 30:4:2022 \ 19:15:58
+[' Răsarit = 06:08:01 Apus = 20:21:59 Min (°C) = 2.27 Max (°C) =12.31 Presiune = 1021 Umiditate (%) = 79 Index UV = 0.25 Viteza vântului = 1.22 Unghiul vântului = 208 Stare = nori 50-85%']
+Busteni: 17 \ duminică \ 01:5:2022 \ 19:16:06
+[' Răsarit = 06:06:30 Apus = 20:23:16 Min (°C) = 3.26 Max (°C) =13.21 Presiune = 1019 Umiditate (%) = 79 Index UV = 0.24 Viteza vântului = 1.84 Unghiul vântului = 169 Stare = nori 85-100%']
+Busteni: 18 \ marți \ 03:5:2022 \ 20:16:23
+[' Răsarit = 06:03:34 Apus = 20:25:49 Min (°C) = 4.16 Max (°C) =13.85 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 190 Stare = nori 85-100%']
+Busteni: 18 \ miercuri \ 04:5:2022 \ 19:21:16
+[' Răsarit = 06:02:07 Apus = 20:27:05 Min (°C) = 5.38 Max (°C) =12.61 Presiune = 1017 Umiditate (%) = 89 Index UV = 0.26 Viteza vântului = 0.94 Unghiul vântului = 25 Stare = nori 85-100%']
+Busteni: 18 \ joi \ 05:5:2022 \ 19:19:40
+[' Răsarit = 06:00:43 Apus = 20:28:21 Min (°C) = 4.92 Max (°C) =14.83 Presiune = 1022 Umiditate (%) = 68 Index UV = 0.4 Viteza vântului = 1.04 Unghiul vântului = 199 Stare = nori 50-85%']
+Busteni: 18 \ vineri \ 06:5:2022 \ 19:17:22
+[' Răsarit = 05:59:19 Apus = 20:29:37 Min (°C) = 5.36 Max (°C) =15.96 Presiune = 1021 Umiditate (%) = 63 Index UV = 0.25 Viteza vântului = 2.56 Unghiul vântului = 182 Stare = nori 85-100%']
+Busteni: 18 \ sâmbătă \ 07:5:2022 \ 19:16:38
+[' Răsarit = 05:57:57 Apus = 20:30:52 Min (°C) = 5.14 Max (°C) =16.91 Presiune = 1021 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 2.96 Unghiul vântului = 177 Stare = nori 50-85%']
+Busteni: 18 \ duminică \ 08:5:2022 \ 19:17:25
+[' Răsarit = 05:56:36 Apus = 20:32:07 Min (°C) = 5.37 Max (°C) =17.79 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.24 Viteza vântului = 2.03 Unghiul vântului = 187 Stare = nori 85-100%']
+Busteni: 19 \ luni \ 09:5:2022 \ 19:17:00
+[' Răsarit = 05:55:17 Apus = 20:33:22 Min (°C) = 6.91 Max (°C) =14.75 Presiune = 1022 Umiditate (%) = 87 Index UV = 0.41 Viteza vântului = 0.21 Unghiul vântului = 304 Stare = ploaie ușoară']
+Busteni: 19 \ marți \ 10:5:2022 \ 19:17:12
+[' Răsarit = 05:54:00 Apus = 20:34:36 Min (°C) = 7.94 Max (°C) =13.28 Presiune = 1020 Umiditate (%) = 74 Index UV = 0.4 Viteza vântului = 1.24 Unghiul vântului = 189 Stare = nori 50-85%']
+Busteni: 19 \ miercuri \ 11:5:2022 \ 19:16:58
+[' Răsarit = 05:52:44 Apus = 20:35:49 Min (°C) = 6.25 Max (°C) =17.07 Presiune = 1019 Umiditate (%) = 61 Index UV = 0.45 Viteza vântului = 2.14 Unghiul vântului = 338 Stare = nori 85-100%']
+Busteni: 19 \ joi \ 12:5:2022 \ 19:17:08
+[' Răsarit = 05:51:30 Apus = 20:37:03 Min (°C) = 9.34 Max (°C) =21.25 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.51 Viteza vântului = 1.01 Unghiul vântului = 316 Stare = nori 10-25%']
+Busteni: 19 \ vineri \ 13:5:2022 \ 19:16:37
+[' Răsarit = 05:50:17 Apus = 20:38:15 Min (°C) = 11.88 Max (°C) =22.09 Presiune = 1016 Umiditate (%) = 79 Index UV = 0.24 Viteza vântului = 0.73 Unghiul vântului = 231 Stare = nori 85-100%']
+Busteni: 19 \ sâmbătă \ 14:5:2022 \ 19:16:44
+[' Răsarit = 05:49:06 Apus = 20:39:27 Min (°C) = 11.2 Max (°C) =20.24 Presiune = 1016 Umiditate (%) = 91 Index UV = 0.36 Viteza vântului = 1.55 Unghiul vântului = 6 Stare = nori 85-100%']
+Busteni: 19 \ duminică \ 15:5:2022 \ 19:16:43
+[' Răsarit = 05:47:57 Apus = 20:40:38 Min (°C) = 10.46 Max (°C) =17.99 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.51 Viteza vântului = 2.36 Unghiul vântului = 349 Stare = nori 25-50%']
+Busteni: 20 \ luni \ 16:5:2022 \ 19:17:57
+[' Răsarit = 05:46:50 Apus = 20:41:49 Min (°C) = 9.56 Max (°C) =19.83 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.52 Viteza vântului = 1.3 Unghiul vântului = 348 Stare = nori 50-85%']
+Busteni: 20 \ marți \ 17:5:2022 \ 19:19:48
+[' Răsarit = 05:45:44 Apus = 20:42:59 Min (°C) = 9.99 Max (°C) =20.35 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.42 Viteza vântului = 1.28 Unghiul vântului = 17 Stare = ploaie ușoară']
+Busteni: 20 \ miercuri \ 18:5:2022 \ 19:16:53
+[' Răsarit = 05:44:40 Apus = 20:44:08 Min (°C) = 4.2 Max (°C) =12.07 Presiune = 1022 Umiditate (%) = 53 Index UV = 0.49 Viteza vântului = 5.67 Unghiul vântului = 352 Stare = nori 25-50%']
+Busteni: 20 \ joi \ 19:5:2022 \ 20:21:43
+[' Răsarit = 05:43:38 Apus = 20:45:16 Min (°C) = 3.08 Max (°C) =15.23 Presiune = 1027 Umiditate (%) = 69 Index UV = 0.14 Viteza vântului = 1.27 Unghiul vântului = 360 Stare = cer senin']
+Busteni: 20 \ vineri \ 20:5:2022 \ 19:16:43
+[' Răsarit = 05:42:38 Apus = 20:46:24 Min (°C) = 6.4 Max (°C) =20.45 Presiune = 1022 Umiditate (%) = 56 Index UV = 0.51 Viteza vântului = 1.18 Unghiul vântului = 311 Stare = nori 50-85%']
+Busteni: 20 \ sâmbătă \ 21:5:2022 \ 19:19:03
+[' Răsarit = 05:41:40 Apus = 20:47:30 Min (°C) = 10.58 Max (°C) =23.34 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.61 Viteza vântului = 1.93 Unghiul vântului = 344 Stare = nori 50-85%']
