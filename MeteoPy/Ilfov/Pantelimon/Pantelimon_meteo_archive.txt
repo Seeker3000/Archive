@@ -952,3 +952,83 @@ Pantelimon: 20 \ vineri \ 20:5:2022 \ 19:13:11
 [' Răsarit = 05:43:05 Apus = 20:40:38 Min (°C) = 11.57 Max (°C) =26.14 Presiune = 1018 Umiditate (%) = 30 Index UV = 0.52 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
 Pantelimon: 20 \ sâmbătă \ 21:5:2022 \ 19:15:08
 [' Răsarit = 05:42:09 Apus = 20:41:42 Min (°C) = 13.85 Max (°C) =28.91 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.54 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Pantelimon: 20 \ duminică \ 22:5:2022 \ 19:14:21
+[' Răsarit = 05:41:15 Apus = 20:42:45 Min (°C) = 16.27 Max (°C) =25.67 Presiune = 1007 Umiditate (%) = 33 Index UV = 0.19 Viteza vântului = 5.14 Unghiul vântului = 30 Stare = cer senin']
+Pantelimon: 21 \ luni \ 23:5:2022 \ 19:13:52
+[' Răsarit = 05:40:23 Apus = 20:43:47 Min (°C) = 14.38 Max (°C) =21.08 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.1 Viteza vântului = 7.2 Unghiul vântului = 60 Stare = nori 10-25%']
+Pantelimon: 21 \ marți \ 24:5:2022 \ 19:13:51
+[' Răsarit = 05:39:33 Apus = 20:44:49 Min (°C) = 12.2 Max (°C) =22.47 Presiune = 1009 Umiditate (%) = 65 Index UV = 0.24 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = ploaie ușoară']
+Pantelimon: 21 \ miercuri \ 25:5:2022 \ 19:13:48
+[' Răsarit = 05:38:45 Apus = 20:45:49 Min (°C) = 12.02 Max (°C) =27.13 Presiune = 1012 Umiditate (%) = 46 Index UV = 0.57 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = cer senin']
+Pantelimon: 21 \ joi \ 26:5:2022 \ 19:13:44
+[' Răsarit = 05:37:59 Apus = 20:46:48 Min (°C) = 16.04 Max (°C) =30.39 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.5 Viteza vântului = 4.63 Unghiul vântului = 70 Stare = cer senin']
+Pantelimon: 21 \ vineri \ 27:5:2022 \ 19:13:53
+[' Răsarit = 05:37:15 Apus = 20:47:45 Min (°C) = 16.16 Max (°C) =27.56 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.57 Viteza vântului = 4.02 Unghiul vântului = 230 Stare = cer senin']
+Pantelimon: 21 \ sâmbătă \ 28:5:2022 \ 19:14:53
+[' Răsarit = 05:36:33 Apus = 20:48:42 Min (°C) = 16.73 Max (°C) =26.96 Presiune = 1009 Umiditate (%) = 83 Index UV = 0.52 Viteza vântului = 5.66 Unghiul vântului = 270 Stare = nori 50-85%']
+Pantelimon: 21 \ duminică \ 29:5:2022 \ 19:13:37
+[' Răsarit = 05:35:53 Apus = 20:49:37 Min (°C) = 15.3 Max (°C) =22.59 Presiune = 1007 Umiditate (%) = 71 Index UV = 0.55 Viteza vântului = 9.26 Unghiul vântului = 70 Stare = ploaie ușoară']
+Pantelimon: 22 \ luni \ 30:5:2022 \ 19:14:27
+[' Răsarit = 05:35:15 Apus = 20:50:31 Min (°C) = 13.57 Max (°C) =25.35 Presiune = 1009 Umiditate (%) = 55 Index UV = 0.6 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 25-50%']
+Pantelimon: 22 \ marți \ 31:5:2022 \ 19:13:35
+[' Răsarit = 05:34:39 Apus = 20:51:24 Min (°C) = 16.72 Max (°C) =28.22 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.19 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = ploaie ușoară']
+Pantelimon: 22 \ miercuri \ 01:6:2022 \ 19:13:52
+[' Răsarit = 05:34:05 Apus = 20:52:15 Min (°C) = 16.19 Max (°C) =29.49 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.53 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Pantelimon: 22 \ joi \ 02:6:2022 \ 19:13:20
+[' Răsarit = 05:33:34 Apus = 20:53:05 Min (°C) = 18.87 Max (°C) =31.41 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.23 Viteza vântului = 3.13 Unghiul vântului = 290 Stare = cer senin']
+Pantelimon: 22 \ vineri \ 03:6:2022 \ 19:13:39
+[' Răsarit = 05:33:04 Apus = 20:53:53 Min (°C) = 20.08 Max (°C) =28.89 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.63 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = cer senin']
+Pantelimon: 22 \ sâmbătă \ 04:6:2022 \ 19:14:07
+[' Răsarit = 05:32:37 Apus = 20:54:40 Min (°C) = 17.78 Max (°C) =29.62 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.59 Viteza vântului = 2.68 Unghiul vântului = 300 Stare = cer senin']
+Pantelimon: 22 \ duminică \ 05:6:2022 \ 19:13:21
+[' Răsarit = 05:32:12 Apus = 20:55:25 Min (°C) = 20.28 Max (°C) =30.09 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.63 Viteza vântului = 8.23 Unghiul vântului = 70 Stare = nori 10-25%']
+Pantelimon: 23 \ luni \ 06:6:2022 \ 19:14:03
+[' Răsarit = 05:31:50 Apus = 20:56:09 Min (°C) = 16.21 Max (°C) =25.36 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 7.2 Unghiul vântului = 80 Stare = nori 10-25%']
+Pantelimon: 23 \ marți \ 07:6:2022 \ 19:13:10
+[' Răsarit = 05:31:29 Apus = 20:56:50 Min (°C) = 15.91 Max (°C) =25.26 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.39 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Pantelimon: 23 \ miercuri \ 08:6:2022 \ 19:13:54
+[' Răsarit = 05:31:11 Apus = 20:57:30 Min (°C) = 15.03 Max (°C) =25.44 Presiune = 1007 Umiditate (%) = 49 Index UV = 0.54 Viteza vântului = 2.68 Unghiul vântului = 110 Stare = cer senin']
+Pantelimon: 23 \ joi \ 09:6:2022 \ 19:13:35
+[' Răsarit = 05:30:55 Apus = 20:58:08 Min (°C) = 16.39 Max (°C) =24.27 Presiune = 1005 Umiditate (%) = 70 Index UV = 0.36 Viteza vântului = 4.63 Unghiul vântului = 40 Stare = furtună cu ploaie']
+Pantelimon: 23 \ vineri \ 10:6:2022 \ 19:13:37
+[' Răsarit = 05:30:41 Apus = 20:58:45 Min (°C) = 15.09 Max (°C) =24.89 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.58 Viteza vântului = 8.75 Unghiul vântului = 60 Stare = nori 50-85%']
+Pantelimon: 23 \ sâmbătă \ 11:6:2022 \ 19:13:36
+[' Răsarit = 05:30:29 Apus = 20:59:19 Min (°C) = 16.27 Max (°C) =20.91 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.39 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Pantelimon: 23 \ duminică \ 12:6:2022 \ 19:13:23
+[' Răsarit = 05:30:20 Apus = 20:59:52 Min (°C) = 16.95 Max (°C) =26.95 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.62 Viteza vântului = 4.12 Unghiul vântului = 70 Stare = cer senin']
+Pantelimon: 24 \ luni \ 13:6:2022 \ 19:13:31
+[' Răsarit = 05:30:13 Apus = 21:00:22 Min (°C) = 17.44 Max (°C) =29.44 Presiune = 1009 Umiditate (%) = 63 Index UV = 0.68 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Pantelimon: 24 \ marți \ 14:6:2022 \ 19:13:07
+[' Răsarit = 05:30:08 Apus = 21:00:51 Min (°C) = 17.98 Max (°C) =28.04 Presiune = 1012 Umiditate (%) = 84 Index UV = 0.63 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = ploaie torențială \n de intensitate mică']
+Pantelimon: 24 \ miercuri \ 15:6:2022 \ 19:13:18
+[' Răsarit = 05:30:05 Apus = 21:01:18 Min (°C) = 15.76 Max (°C) =24.98 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.59 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = cer senin']
+Pantelimon: 24 \ joi \ 16:6:2022 \ 19:13:23
+[' Răsarit = 05:30:05 Apus = 21:01:42 Min (°C) = 16.11 Max (°C) =27.12 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.56 Viteza vântului = 2.24 Unghiul vântului = 260 Stare = nori 10-25%']
+Pantelimon: 24 \ vineri \ 17:6:2022 \ 19:13:45
+[' Răsarit = 05:30:06 Apus = 21:02:05 Min (°C) = 17.99 Max (°C) =28.87 Presiune = 1012 Umiditate (%) = 67 Index UV = 0.21 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Pantelimon: 24 \ sâmbătă \ 18:6:2022 \ 19:13:31
+[' Răsarit = 05:30:10 Apus = 21:02:25 Min (°C) = 16.96 Max (°C) =25.58 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 10-25%']
+Pantelimon: 24 \ duminică \ 19:6:2022 \ 19:12:10
+[' Răsarit = 05:30:16 Apus = 21:02:44 Min (°C) = 15.5 Max (°C) =28.45 Presiune = 1014 Umiditate (%) = 32 Index UV = 0.72 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Pantelimon: 25 \ luni \ 20:6:2022 \ 19:12:56
+[' Răsarit = 05:30:25 Apus = 21:03:00 Min (°C) = 17.24 Max (°C) =28.56 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.51 Viteza vântului = 3.13 Unghiul vântului = 180 Stare = cer senin']
+Pantelimon: 25 \ marți \ 21:6:2022 \ 19:13:43
+[' Răsarit = 05:30:35 Apus = 21:03:14 Min (°C) = 18.67 Max (°C) =34.13 Presiune = 1002 Umiditate (%) = 31 Index UV = 0.73 Viteza vântului = 9.26 Unghiul vântului = 300 Stare = nori 10-25%']
+Pantelimon: 25 \ miercuri \ 22:6:2022 \ 19:13:14
+[' Răsarit = 05:30:48 Apus = 21:03:25 Min (°C) = 16.13 Max (°C) =28.81 Presiune = 1005 Umiditate (%) = 32 Index UV = 0.64 Viteza vântului = 2.68 Unghiul vântului = 20 Stare = cer senin']
+Pantelimon: 25 \ joi \ 23:6:2022 \ 19:13:17
+[' Răsarit = 05:31:03 Apus = 21:03:35 Min (°C) = 15.84 Max (°C) =27.09 Presiune = 1011 Umiditate (%) = 34 Index UV = 0.65 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Pantelimon: 25 \ duminică \ 26:6:2022 \ 19:53:59
+[' Răsarit = 05:32:00 Apus = 21:03:50 Min (°C) = 18.93 Max (°C) =28.4 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = cer senin']
+Pantelimon: 26 \ luni \ 27:6:2022 \ 19:13:32
+[' Răsarit = 05:32:23 Apus = 21:03:50 Min (°C) = 17.06 Max (°C) =29.13 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.26 Viteza vântului = 6.17 Unghiul vântului = 80 Stare = nori 25-50%']
+Pantelimon: 26 \ marți \ 28:6:2022 \ 19:13:46
+[' Răsarit = 05:32:48 Apus = 21:03:49 Min (°C) = 20.23 Max (°C) =29.57 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.12 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = cer senin']
+Pantelimon: 26 \ miercuri \ 29:6:2022 \ 19:13:40
+[' Răsarit = 05:33:14 Apus = 21:03:44 Min (°C) = 18.74 Max (°C) =33.96 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = furtună with ploaie ușoară']
+Pantelimon: 26 \ joi \ 30:6:2022 \ 19:14:18
+[' Răsarit = 05:33:43 Apus = 21:03:38 Min (°C) = 20.52 Max (°C) =35.72 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.64 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = cer senin']
+Pantelimon: 26 \ vineri \ 01:7:2022 \ 19:13:50
+[' Răsarit = 05:34:14 Apus = 21:03:29 Min (°C) = 20.37 Max (°C) =34.97 Presiune = 1012 Umiditate (%) = 36 Index UV = 0.37 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Pantelimon: 26 \ sâmbătă \ 02:7:2022 \ 19:13:39
+[' Răsarit = 05:34:47 Apus = 21:03:18 Min (°C) = 21.21 Max (°C) =35.29 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.57 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = cer senin']

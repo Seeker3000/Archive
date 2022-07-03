@@ -952,3 +952,83 @@ Cristuru_Secuiesc: 20 \ vineri \ 20:5:2022 \ 19:11:30
 [' Răsarit = 05:41:42 Apus = 20:51:20 Min (°C) = 6.75 Max (°C) =21.38 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.57 Viteza vântului = 2.89 Unghiul vântului = 319 Stare = nori 50-85%']
 Cristuru_Secuiesc: 20 \ sâmbătă \ 21:5:2022 \ 19:13:18
 [' Răsarit = 05:40:42 Apus = 20:52:29 Min (°C) = 10.27 Max (°C) =24.54 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.53 Viteza vântului = 5.08 Unghiul vântului = 323 Stare = nori 85-100%']
+Cristuru_Secuiesc: 20 \ duminică \ 22:5:2022 \ 19:12:31
+[' Răsarit = 05:39:43 Apus = 20:53:37 Min (°C) = 10.84 Max (°C) =18.44 Presiune = 1010 Umiditate (%) = 62 Index UV = 0.58 Viteza vântului = 4.33 Unghiul vântului = 310 Stare = nori 85-100%']
+Cristuru_Secuiesc: 21 \ luni \ 23:5:2022 \ 19:12:10
+[' Răsarit = 05:38:47 Apus = 20:54:43 Min (°C) = 9.22 Max (°C) =17.78 Presiune = 1010 Umiditate (%) = 63 Index UV = 0.54 Viteza vântului = 3.94 Unghiul vântului = 322 Stare = nori 10-25%']
+Cristuru_Secuiesc: 21 \ marți \ 24:5:2022 \ 19:12:08
+[' Răsarit = 05:37:52 Apus = 20:55:49 Min (°C) = 7.34 Max (°C) =20.89 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.57 Viteza vântului = 3.47 Unghiul vântului = 254 Stare = nori 85-100%']
+Cristuru_Secuiesc: 21 \ miercuri \ 25:5:2022 \ 19:11:57
+[' Răsarit = 05:37:00 Apus = 20:56:53 Min (°C) = 10.39 Max (°C) =26.7 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.63 Viteza vântului = 2.14 Unghiul vântului = 278 Stare = nori 50-85%']
+Cristuru_Secuiesc: 21 \ joi \ 26:5:2022 \ 19:11:59
+[' Răsarit = 05:36:10 Apus = 20:57:57 Min (°C) = 14.64 Max (°C) =20.83 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.54 Viteza vântului = 4.43 Unghiul vântului = 315 Stare = nori 50-85%']
+Cristuru_Secuiesc: 21 \ vineri \ 27:5:2022 \ 19:12:12
+[' Răsarit = 05:35:22 Apus = 20:58:59 Min (°C) = 13.44 Max (°C) =21.76 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.62 Viteza vântului = 2.4 Unghiul vântului = 342 Stare = nori 50-85%']
+Cristuru_Secuiesc: 21 \ sâmbătă \ 28:5:2022 \ 19:13:12
+[' Răsarit = 05:34:36 Apus = 20:59:59 Min (°C) = 11.15 Max (°C) =19.6 Presiune = 1015 Umiditate (%) = 96 Index UV = 0.08 Viteza vântului = 1.95 Unghiul vântului = 247 Stare = nori 85-100%']
+Cristuru_Secuiesc: 21 \ duminică \ 29:5:2022 \ 19:11:56
+[' Răsarit = 05:33:52 Apus = 21:00:58 Min (°C) = 11.51 Max (°C) =18.52 Presiune = 1007 Umiditate (%) = 68 Index UV = 0.61 Viteza vântului = 5.03 Unghiul vântului = 108 Stare = nori 85-100%']
+Cristuru_Secuiesc: 22 \ luni \ 30:5:2022 \ 19:12:44
+[' Răsarit = 05:33:10 Apus = 21:01:56 Min (°C) = 13.5 Max (°C) =19.94 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.69 Viteza vântului = 3.24 Unghiul vântului = 317 Stare = nori 10-25%']
+Cristuru_Secuiesc: 22 \ marți \ 31:5:2022 \ 19:11:51
+[' Răsarit = 05:32:31 Apus = 21:02:52 Min (°C) = 11.88 Max (°C) =23.17 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.68 Viteza vântului = 2.82 Unghiul vântului = 258 Stare = nori 50-85%']
+Cristuru_Secuiesc: 22 \ miercuri \ 01:6:2022 \ 19:12:10
+[' Răsarit = 05:31:54 Apus = 21:03:47 Min (°C) = 12.47 Max (°C) =26.7 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.7 Viteza vântului = 2.23 Unghiul vântului = 319 Stare = nori 50-85%']
+Cristuru_Secuiesc: 22 \ joi \ 02:6:2022 \ 19:11:39
+[' Răsarit = 05:31:19 Apus = 21:04:40 Min (°C) = 13.71 Max (°C) =26.55 Presiune = 1017 Umiditate (%) = 66 Index UV = 0.73 Viteza vântului = 3.02 Unghiul vântului = 315 Stare = nori 25-50%']
+Cristuru_Secuiesc: 22 \ vineri \ 03:6:2022 \ 19:11:57
+[' Răsarit = 05:30:47 Apus = 21:05:31 Min (°C) = 13.89 Max (°C) =26.7 Presiune = 1020 Umiditate (%) = 73 Index UV = 0.69 Viteza vântului = 1.81 Unghiul vântului = 47 Stare = nori 85-100%']
+Cristuru_Secuiesc: 22 \ sâmbătă \ 04:6:2022 \ 19:12:21
+[' Răsarit = 05:30:16 Apus = 21:06:21 Min (°C) = 13.78 Max (°C) =26.46 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.62 Viteza vântului = 1.29 Unghiul vântului = 65 Stare = nori 85-100%']
+Cristuru_Secuiesc: 22 \ duminică \ 05:6:2022 \ 19:11:41
+[' Răsarit = 05:29:49 Apus = 21:07:09 Min (°C) = 15.27 Max (°C) =23.33 Presiune = 1014 Umiditate (%) = 69 Index UV = 0.75 Viteza vântului = 3.48 Unghiul vântului = 316 Stare = nori 25-50%']
+Cristuru_Secuiesc: 23 \ luni \ 06:6:2022 \ 19:12:23
+[' Răsarit = 05:29:23 Apus = 21:07:55 Min (°C) = 11.12 Max (°C) =23.37 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.68 Viteza vântului = 3.19 Unghiul vântului = 90 Stare = nori 25-50%']
+Cristuru_Secuiesc: 23 \ marți \ 07:6:2022 \ 19:11:30
+[' Răsarit = 05:29:00 Apus = 21:08:39 Min (°C) = 11.15 Max (°C) =26.7 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.5 Viteza vântului = 2.87 Unghiul vântului = 127 Stare = nori 10-25%']
+Cristuru_Secuiesc: 23 \ miercuri \ 08:6:2022 \ 19:12:14
+[' Răsarit = 05:28:39 Apus = 21:09:22 Min (°C) = 12.1 Max (°C) =25.27 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.39 Viteza vântului = 3.39 Unghiul vântului = 116 Stare = nori 50-85%']
+Cristuru_Secuiesc: 23 \ joi \ 09:6:2022 \ 19:11:52
+[' Răsarit = 05:28:21 Apus = 21:10:02 Min (°C) = 12.53 Max (°C) =23.15 Presiune = 1008 Umiditate (%) = 55 Index UV = 0.69 Viteza vântului = 4.62 Unghiul vântului = 133 Stare = nori 50-85%']
+Cristuru_Secuiesc: 23 \ vineri \ 10:6:2022 \ 19:11:55
+[' Răsarit = 05:28:05 Apus = 21:10:41 Min (°C) = 13.16 Max (°C) =22.35 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.72 Viteza vântului = 3.45 Unghiul vântului = 90 Stare = nori 50-85%']
+Cristuru_Secuiesc: 23 \ sâmbătă \ 11:6:2022 \ 19:11:54
+[' Răsarit = 05:27:51 Apus = 21:11:17 Min (°C) = 12.69 Max (°C) =21.72 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.74 Viteza vântului = 1.21 Unghiul vântului = 138 Stare = nori 85-100%']
+Cristuru_Secuiesc: 23 \ duminică \ 12:6:2022 \ 19:11:43
+[' Răsarit = 05:27:40 Apus = 21:11:51 Min (°C) = 13.77 Max (°C) =25.59 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.71 Viteza vântului = 1.19 Unghiul vântului = 158 Stare = nori 50-85%']
+Cristuru_Secuiesc: 24 \ luni \ 13:6:2022 \ 19:11:53
+[' Răsarit = 05:27:32 Apus = 21:12:24 Min (°C) = 13.19 Max (°C) =26.62 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.78 Viteza vântului = 3.18 Unghiul vântului = 322 Stare = nori 50-85%']
+Cristuru_Secuiesc: 24 \ marți \ 14:6:2022 \ 19:11:29
+[' Răsarit = 05:27:25 Apus = 21:12:54 Min (°C) = 14.31 Max (°C) =21.93 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.61 Viteza vântului = 4.84 Unghiul vântului = 303 Stare = nori 10-25%']
+Cristuru_Secuiesc: 24 \ miercuri \ 15:6:2022 \ 19:11:38
+[' Răsarit = 05:27:21 Apus = 21:13:21 Min (°C) = 9.17 Max (°C) =23.37 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.58 Viteza vântului = 2.04 Unghiul vântului = 313 Stare = nori 50-85%']
+Cristuru_Secuiesc: 24 \ joi \ 16:6:2022 \ 19:11:41
+[' Răsarit = 05:27:20 Apus = 21:13:47 Min (°C) = 10.66 Max (°C) =25.59 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.75 Viteza vântului = 2.14 Unghiul vântului = 331 Stare = cer senin']
+Cristuru_Secuiesc: 24 \ vineri \ 17:6:2022 \ 19:12:03
+[' Răsarit = 05:27:21 Apus = 21:14:10 Min (°C) = 12.18 Max (°C) =23.59 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.72 Viteza vântului = 4.34 Unghiul vântului = 309 Stare = nori 85-100%']
+Cristuru_Secuiesc: 24 \ sâmbătă \ 18:6:2022 \ 19:11:50
+[' Răsarit = 05:27:24 Apus = 21:14:32 Min (°C) = 11.42 Max (°C) =24.48 Presiune = 1019 Umiditate (%) = 48 Index UV = 0.67 Viteza vântului = 1.96 Unghiul vântului = 356 Stare = nori 50-85%']
+Cristuru_Secuiesc: 24 \ duminică \ 19:6:2022 \ 19:10:39
+[' Răsarit = 05:27:30 Apus = 21:14:50 Min (°C) = 11.05 Max (°C) =27.26 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.79 Viteza vântului = 1.18 Unghiul vântului = 291 Stare = nori 10-25%']
+Cristuru_Secuiesc: 25 \ luni \ 20:6:2022 \ 19:11:18
+[' Răsarit = 05:27:38 Apus = 21:15:07 Min (°C) = 13.44 Max (°C) =29.48 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.75 Viteza vântului = 3.48 Unghiul vântului = 313 Stare = cer senin']
+Cristuru_Secuiesc: 25 \ marți \ 21:6:2022 \ 19:12:03
+[' Răsarit = 05:27:48 Apus = 21:15:21 Min (°C) = 15.62 Max (°C) =28.89 Presiune = 1007 Umiditate (%) = 29 Index UV = 0.8 Viteza vântului = 7.61 Unghiul vântului = 306 Stare = cer senin']
+Cristuru_Secuiesc: 25 \ miercuri \ 22:6:2022 \ 19:11:36
+[' Răsarit = 05:28:01 Apus = 21:15:32 Min (°C) = 8.24 Max (°C) =23.37 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.76 Viteza vântului = 6.46 Unghiul vântului = 309 Stare = cer senin']
+Cristuru_Secuiesc: 25 \ joi \ 23:6:2022 \ 19:11:38
+[' Răsarit = 05:28:16 Apus = 21:15:42 Min (°C) = 10.67 Max (°C) =24.73 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.48 Viteza vântului = 3.72 Unghiul vântului = 356 Stare = nori 25-50%']
+Cristuru_Secuiesc: 25 \ duminică \ 26:6:2022 \ 19:52:12
+[' Răsarit = 05:29:14 Apus = 21:15:55 Min (°C) = 15.65 Max (°C) =27.72 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.04 Viteza vântului = 2 Unghiul vântului = 126 Stare = nori 85-100%']
+Cristuru_Secuiesc: 26 \ luni \ 27:6:2022 \ 19:11:52
+[' Răsarit = 05:29:38 Apus = 21:15:55 Min (°C) = 12.61 Max (°C) =28.37 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.66 Viteza vântului = 2.04 Unghiul vântului = 82 Stare = nori 50-85%']
+Cristuru_Secuiesc: 26 \ marți \ 28:6:2022 \ 19:12:01
+[' Răsarit = 05:30:04 Apus = 21:15:52 Min (°C) = 15.84 Max (°C) =26.6 Presiune = 1017 Umiditate (%) = 53 Index UV = 0.77 Viteza vântului = 0.53 Unghiul vântului = 5 Stare = nori 25-50%']
+Cristuru_Secuiesc: 26 \ miercuri \ 29:6:2022 \ 19:11:58
+[' Răsarit = 05:30:33 Apus = 21:15:46 Min (°C) = 15.7 Max (°C) =33.63 Presiune = 1013 Umiditate (%) = 23 Index UV = 0.59 Viteza vântului = 4.04 Unghiul vântului = 164 Stare = nori 25-50%']
+Cristuru_Secuiesc: 26 \ joi \ 30:6:2022 \ 19:12:31
+[' Răsarit = 05:31:03 Apus = 21:15:38 Min (°C) = 17.59 Max (°C) =33.66 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.69 Viteza vântului = 4.6 Unghiul vântului = 123 Stare = cer senin']
+Cristuru_Secuiesc: 26 \ vineri \ 01:7:2022 \ 19:12:06
+[' Răsarit = 05:31:36 Apus = 21:15:28 Min (°C) = 17.11 Max (°C) =33.62 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.29 Viteza vântului = 3.18 Unghiul vântului = 109 Stare = nori 85-100%']
+Cristuru_Secuiesc: 26 \ sâmbătă \ 02:7:2022 \ 19:11:56
+[' Răsarit = 05:32:10 Apus = 21:15:15 Min (°C) = 17.05 Max (°C) =32.02 Presiune = 1019 Umiditate (%) = 89 Index UV = 0.22 Viteza vântului = 1.44 Unghiul vântului = 117 Stare = ploaie ușoară']

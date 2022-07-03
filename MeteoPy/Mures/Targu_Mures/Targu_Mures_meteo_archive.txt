@@ -954,3 +954,83 @@ Targu_Mures: 20 \ vineri \ 20:5:2022 \ 19:15:17
 [' Răsarit = 05:42:43 Apus = 20:54:04 Min (°C) = 6.94 Max (°C) =24.72 Presiune = 1021 Umiditate (%) = 31 Index UV = 0.58 Viteza vântului = 2.57 Unghiul vântului = 320 Stare = cer senin']
 Targu_Mures: 20 \ sâmbătă \ 21:5:2022 \ 19:17:32
 [' Răsarit = 05:41:41 Apus = 20:55:13 Min (°C) = 10.51 Max (°C) =24.72 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.62 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = nori 10-25%']
+Targu_Mures: 20 \ duminică \ 22:5:2022 \ 19:16:38
+[' Răsarit = 05:40:42 Apus = 20:56:22 Min (°C) = 10.8 Max (°C) =19.72 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.6 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 10-25%']
+Targu_Mures: 21 \ luni \ 23:5:2022 \ 19:16:04
+[' Răsarit = 05:39:45 Apus = 20:57:29 Min (°C) = 9.68 Max (°C) =19.72 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.62 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = nori 10-25%']
+Targu_Mures: 21 \ marți \ 24:5:2022 \ 19:16:02
+[' Răsarit = 05:38:50 Apus = 20:58:35 Min (°C) = 7.57 Max (°C) =20.94 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.63 Viteza vântului = 4.63 Unghiul vântului = 220 Stare = nori 10-25%']
+Targu_Mures: 21 \ miercuri \ 25:5:2022 \ 19:16:08
+[' Răsarit = 05:37:57 Apus = 20:59:40 Min (°C) = 10.36 Max (°C) =27.06 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.65 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = nori 10-25%']
+Targu_Mures: 21 \ joi \ 26:5:2022 \ 19:15:58
+[' Răsarit = 05:37:06 Apus = 21:00:44 Min (°C) = 14.34 Max (°C) =22.72 Presiune = 1019 Umiditate (%) = 33 Index UV = 0.65 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = cer senin']
+Targu_Mures: 21 \ vineri \ 27:5:2022 \ 19:16:03
+[' Răsarit = 05:36:17 Apus = 21:01:46 Min (°C) = 14.25 Max (°C) =24.72 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.62 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = nori 10-25%']
+Targu_Mures: 21 \ sâmbătă \ 28:5:2022 \ 19:17:03
+[' Răsarit = 05:35:31 Apus = 21:02:48 Min (°C) = 10.79 Max (°C) =18.55 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.12 Viteza vântului = 1.43 Unghiul vântului = 235 Stare = nori 10-25%']
+Targu_Mures: 21 \ duminică \ 29:5:2022 \ 19:15:44
+[' Răsarit = 05:34:47 Apus = 21:03:47 Min (°C) = 11.23 Max (°C) =19.26 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.45 Viteza vântului = 4.12 Unghiul vântului = 100 Stare = nori 10-25%']
+Targu_Mures: 22 \ luni \ 30:5:2022 \ 19:16:35
+[' Răsarit = 05:34:05 Apus = 21:04:46 Min (°C) = 13.45 Max (°C) =21.72 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.71 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = nori 10-25%']
+Targu_Mures: 22 \ marți \ 31:5:2022 \ 19:16:29
+[' Răsarit = 05:33:25 Apus = 21:05:42 Min (°C) = 11.82 Max (°C) =22.94 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.56 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = nori 25-50%']
+Targu_Mures: 22 \ miercuri \ 01:6:2022 \ 19:16:01
+[' Răsarit = 05:32:47 Apus = 21:06:37 Min (°C) = 12.22 Max (°C) =27.06 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.63 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Targu_Mures: 22 \ joi \ 02:6:2022 \ 19:15:28
+[' Răsarit = 05:32:12 Apus = 21:07:31 Min (°C) = 13.82 Max (°C) =26.09 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.72 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 25-50%']
+Targu_Mures: 22 \ vineri \ 03:6:2022 \ 19:15:48
+[' Răsarit = 05:31:39 Apus = 21:08:23 Min (°C) = 14.27 Max (°C) =27.06 Presiune = 1020 Umiditate (%) = 48 Index UV = 0.77 Viteza vântului = 2.24 Unghiul vântului = 220 Stare = nori 10-25%']
+Targu_Mures: 22 \ sâmbătă \ 04:6:2022 \ 19:16:19
+[' Răsarit = 05:31:08 Apus = 21:09:13 Min (°C) = 14.72 Max (°C) =26.72 Presiune = 1015 Umiditate (%) = 54 Index UV = 0.69 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 25-50%']
+Targu_Mures: 22 \ duminică \ 05:6:2022 \ 19:15:30
+[' Răsarit = 05:30:40 Apus = 21:10:01 Min (°C) = 15.33 Max (°C) =25.72 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.78 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = nori 10-25%']
+Targu_Mures: 23 \ luni \ 06:6:2022 \ 19:16:22
+[' Răsarit = 05:30:14 Apus = 21:10:48 Min (°C) = 11.57 Max (°C) =23.73 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.79 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = nori 10-25%']
+Targu_Mures: 23 \ marți \ 07:6:2022 \ 19:15:19
+[' Răsarit = 05:29:51 Apus = 21:11:33 Min (°C) = 11.55 Max (°C) =27.06 Presiune = 1012 Umiditate (%) = 34 Index UV = 0.82 Viteza vântului = 2.68 Unghiul vântului = 150 Stare = cer senin']
+Targu_Mures: 23 \ miercuri \ 08:6:2022 \ 19:16:01
+[' Răsarit = 05:29:30 Apus = 21:12:15 Min (°C) = 12.07 Max (°C) =26.72 Presiune = 1008 Umiditate (%) = 41 Index UV = 0.78 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = nori 10-25%']
+Targu_Mures: 23 \ joi \ 09:6:2022 \ 19:15:43
+[' Răsarit = 05:29:11 Apus = 21:12:56 Min (°C) = 13.24 Max (°C) =24.46 Presiune = 1007 Umiditate (%) = 78 Index UV = 0.77 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 25-50%']
+Targu_Mures: 23 \ vineri \ 10:6:2022 \ 19:15:46
+[' Răsarit = 05:28:55 Apus = 21:13:35 Min (°C) = 14.07 Max (°C) =23.72 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.65 Viteza vântului = 1.54 Unghiul vântului = 160 Stare = nori 25-50%']
+Targu_Mures: 23 \ sâmbătă \ 11:6:2022 \ 19:15:42
+[' Răsarit = 05:28:41 Apus = 21:14:11 Min (°C) = 13.54 Max (°C) =22.28 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.71 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = ploaie ușoară']
+Targu_Mures: 23 \ duminică \ 12:6:2022 \ 19:15:36
+[' Răsarit = 05:28:30 Apus = 21:14:46 Min (°C) = 13.74 Max (°C) =25.95 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.69 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Targu_Mures: 24 \ luni \ 13:6:2022 \ 19:15:35
+[' Răsarit = 05:28:21 Apus = 21:15:18 Min (°C) = 13.44 Max (°C) =26.19 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.81 Viteza vântului = 3.13 Unghiul vântului = 240 Stare = nori 10-25%']
+Targu_Mures: 24 \ marți \ 14:6:2022 \ 19:15:11
+[' Răsarit = 05:28:14 Apus = 21:15:49 Min (°C) = 14.69 Max (°C) =22.72 Presiune = 1017 Umiditate (%) = 33 Index UV = 0.78 Viteza vântului = 5.66 Unghiul vântului = 310 Stare = nori 10-25%']
+Targu_Mures: 24 \ miercuri \ 15:6:2022 \ 19:15:25
+[' Răsarit = 05:28:10 Apus = 21:16:17 Min (°C) = 8.88 Max (°C) =23.73 Presiune = 1019 Umiditate (%) = 39 Index UV = 0.77 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 10-25%']
+Targu_Mures: 24 \ joi \ 16:6:2022 \ 19:15:32
+[' Răsarit = 05:28:08 Apus = 21:16:42 Min (°C) = 10.59 Max (°C) =25.95 Presiune = 1018 Umiditate (%) = 32 Index UV = 0.78 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = nori 10-25%']
+Targu_Mures: 24 \ vineri \ 17:6:2022 \ 19:15:54
+[' Răsarit = 05:28:09 Apus = 21:17:06 Min (°C) = 12.36 Max (°C) =22.27 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.76 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = furtună with ploaie ușoară']
+Targu_Mures: 24 \ sâmbătă \ 18:6:2022 \ 19:15:40
+[' Răsarit = 05:28:12 Apus = 21:17:27 Min (°C) = 10.49 Max (°C) =24.84 Presiune = 1019 Umiditate (%) = 32 Index UV = 0.8 Viteza vântului = 2.24 Unghiul vântului = 300 Stare = nori 10-25%']
+Targu_Mures: 24 \ duminică \ 19:6:2022 \ 19:14:06
+[' Răsarit = 05:28:18 Apus = 21:17:46 Min (°C) = 11.53 Max (°C) =27.62 Presiune = 1017 Umiditate (%) = 35 Index UV = 0.83 Viteza vântului = 1.34 Unghiul vântului = 260 Stare = nori 10-25%']
+Targu_Mures: 25 \ luni \ 20:6:2022 \ 19:15:02
+[' Răsarit = 05:28:26 Apus = 21:18:02 Min (°C) = 13.92 Max (°C) =29.84 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.83 Viteza vântului = 3.58 Unghiul vântului = 270 Stare = cer senin']
+Targu_Mures: 25 \ marți \ 21:6:2022 \ 19:15:49
+[' Răsarit = 05:28:36 Apus = 21:18:16 Min (°C) = 15.84 Max (°C) =28.3 Presiune = 1007 Umiditate (%) = 14 Index UV = 0.82 Viteza vântului = 7.72 Unghiul vântului = 300 Stare = nori 10-25%']
+Targu_Mures: 25 \ miercuri \ 22:6:2022 \ 19:15:19
+[' Răsarit = 05:28:49 Apus = 21:18:28 Min (°C) = 11.02 Max (°C) =23.73 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.79 Viteza vântului = 5.81 Unghiul vântului = 320 Stare = cer senin']
+Targu_Mures: 25 \ joi \ 23:6:2022 \ 19:15:23
+[' Răsarit = 05:29:04 Apus = 21:18:37 Min (°C) = 10.87 Max (°C) =25.2 Presiune = 1013 Umiditate (%) = 32 Index UV = 0.64 Viteza vântului = 3.13 Unghiul vântului = 330 Stare = nori 10-25%']
+Targu_Mures: 25 \ duminică \ 26:6:2022 \ 19:56:15
+[' Răsarit = 05:30:03 Apus = 21:18:50 Min (°C) = 15.5 Max (°C) =28.28 Presiune = 1018 Umiditate (%) = 83 Index UV = 0.21 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = nori 85-100%']
+Targu_Mures: 26 \ luni \ 27:6:2022 \ 19:15:40
+[' Răsarit = 05:30:27 Apus = 21:18:50 Min (°C) = 12.94 Max (°C) =28.78 Presiune = 1018 Umiditate (%) = 45 Index UV = 0.21 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 10-25%']
+Targu_Mures: 26 \ marți \ 28:6:2022 \ 19:15:59
+[' Răsarit = 05:30:53 Apus = 21:18:47 Min (°C) = 16.59 Max (°C) =30.72 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.63 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Targu_Mures: 26 \ miercuri \ 29:6:2022 \ 19:15:50
+[' Răsarit = 05:31:22 Apus = 21:18:41 Min (°C) = 16.34 Max (°C) =33.29 Presiune = 1014 Umiditate (%) = 24 Index UV = 0.79 Viteza vântului = 2.68 Unghiul vântului = 190 Stare = nori 10-25%']
+Targu_Mures: 26 \ joi \ 30:6:2022 \ 19:16:33
+[' Răsarit = 05:31:52 Apus = 21:18:33 Min (°C) = 17.8 Max (°C) =35.3 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.81 Viteza vântului = 2.68 Unghiul vântului = 100 Stare = nori 10-25%']
+Targu_Mures: 26 \ vineri \ 01:7:2022 \ 19:16:01
+[' Răsarit = 05:32:25 Apus = 21:18:23 Min (°C) = 17.77 Max (°C) =35.51 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.47 Viteza vântului = 6.26 Unghiul vântului = 350 Stare = nori 25-50%']
+Targu_Mures: 26 \ sâmbătă \ 02:7:2022 \ 19:15:50
+[' Răsarit = 05:33:00 Apus = 21:18:10 Min (°C) = 17.09 Max (°C) =31.68 Presiune = 1020 Umiditate (%) = 83 Index UV = 0.06 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = furtună with ploaie ușoară']

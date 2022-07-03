@@ -954,3 +954,83 @@ Milisauti: 20 \ vineri \ 20:5:2022 \ 19:19:33
 [' Răsarit = 05:32:31 Apus = 20:52:47 Min (°C) = 9.06 Max (°C) =26.49 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.39 Viteza vântului = 3.42 Unghiul vântului = 290 Stare = nori 85-100%']
 Milisauti: 20 \ sâmbătă \ 21:5:2022 \ 19:22:01
 [' Răsarit = 05:31:27 Apus = 20:54:00 Min (°C) = 12.85 Max (°C) =24.8 Presiune = 1011 Umiditate (%) = 80 Index UV = 0.43 Viteza vântului = 6.12 Unghiul vântului = 352 Stare = nori 50-85%']
+Milisauti: 20 \ duminică \ 22:5:2022 \ 19:21:15
+[' Răsarit = 05:30:24 Apus = 20:55:12 Min (°C) = 9.94 Max (°C) =17.87 Presiune = 1010 Umiditate (%) = 67 Index UV = 0.55 Viteza vântului = 7.33 Unghiul vântului = 333 Stare = nori 85-100%']
+Milisauti: 21 \ luni \ 23:5:2022 \ 19:20:27
+[' Răsarit = 05:29:23 Apus = 20:56:23 Min (°C) = 8.25 Max (°C) =16.42 Presiune = 969 Umiditate (%) = 62 Index UV = 0.51 Viteza vântului = 4.53 Unghiul vântului = 344 Stare = nori 50-85%']
+Milisauti: 21 \ marți \ 24:5:2022 \ 19:20:30
+[' Răsarit = 05:28:25 Apus = 20:57:32 Min (°C) = 6.39 Max (°C) =20.29 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.6 Viteza vântului = 4.4 Unghiul vântului = 128 Stare = nori 85-100%']
+Milisauti: 21 \ miercuri \ 25:5:2022 \ 19:20:31
+[' Răsarit = 05:27:29 Apus = 20:58:41 Min (°C) = 10.5 Max (°C) =24.88 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.56 Viteza vântului = 3.14 Unghiul vântului = 147 Stare = nori 85-100%']
+Milisauti: 21 \ joi \ 26:5:2022 \ 19:20:29
+[' Răsarit = 05:26:35 Apus = 20:59:48 Min (°C) = 12.43 Max (°C) =21.98 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.21 Viteza vântului = 0.63 Unghiul vântului = 259 Stare = nori 50-85%']
+Milisauti: 21 \ vineri \ 27:5:2022 \ 19:20:27
+[' Răsarit = 05:25:43 Apus = 21:00:53 Min (°C) = 11.96 Max (°C) =24.23 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.64 Viteza vântului = 4.95 Unghiul vântului = 292 Stare = nori 50-85%']
+Milisauti: 21 \ sâmbătă \ 28:5:2022 \ 19:21:48
+[' Răsarit = 05:24:53 Apus = 21:01:57 Min (°C) = 11.28 Max (°C) =17.58 Presiune = 968 Umiditate (%) = 62 Index UV = 0.55 Viteza vântului = 2.22 Unghiul vântului = 138 Stare = ploaie ușoară']
+Milisauti: 21 \ duminică \ 29:5:2022 \ 19:20:05
+[' Răsarit = 05:24:06 Apus = 21:03:00 Min (°C) = 9.19 Max (°C) =17.2 Presiune = 969 Umiditate (%) = 71 Index UV = 0.27 Viteza vântului = 3.73 Unghiul vântului = 134 Stare = nori 85-100%']
+Milisauti: 22 \ luni \ 30:5:2022 \ 19:20:55
+[' Răsarit = 05:23:21 Apus = 21:04:01 Min (°C) = 12.04 Max (°C) =22.7 Presiune = 1011 Umiditate (%) = 80 Index UV = 0.66 Viteza vântului = 3.71 Unghiul vântului = 14 Stare = nori 25-50%']
+Milisauti: 22 \ marți \ 31:5:2022 \ 19:22:35
+[' Răsarit = 05:22:39 Apus = 21:05:01 Min (°C) = 12.95 Max (°C) =23.49 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.31 Viteza vântului = 1.65 Unghiul vântului = 34 Stare = nori 85-100%']
+Milisauti: 22 \ miercuri \ 01:6:2022 \ 19:20:21
+[' Răsarit = 05:21:59 Apus = 21:05:58 Min (°C) = 12.4 Max (°C) =25.26 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.58 Viteza vântului = 1.91 Unghiul vântului = 104 Stare = ploaie ușoară']
+Milisauti: 22 \ joi \ 02:6:2022 \ 19:19:47
+[' Răsarit = 05:21:21 Apus = 21:06:54 Min (°C) = 13.72 Max (°C) =26.02 Presiune = 975 Umiditate (%) = 90 Index UV = 0.7 Viteza vântului = 2.69 Unghiul vântului = 33 Stare = nori 85-100%']
+Milisauti: 22 \ vineri \ 03:6:2022 \ 19:20:16
+[' Răsarit = 05:20:45 Apus = 21:07:49 Min (°C) = 13.88 Max (°C) =23.17 Presiune = 1022 Umiditate (%) = 64 Index UV = 0.73 Viteza vântului = 3.08 Unghiul vântului = 88 Stare = nori 10-25%']
+Milisauti: 22 \ sâmbătă \ 04:6:2022 \ 19:20:49
+[' Răsarit = 05:20:12 Apus = 21:08:41 Min (°C) = 13.2 Max (°C) =24.03 Presiune = 974 Umiditate (%) = 90 Index UV = 0.1 Viteza vântului = 1.45 Unghiul vântului = 191 Stare = nori 85-100%']
+Milisauti: 22 \ duminică \ 05:6:2022 \ 19:19:47
+[' Răsarit = 05:19:42 Apus = 21:09:32 Min (°C) = 15.53 Max (°C) =20.84 Presiune = 974 Umiditate (%) = 74 Index UV = 0.42 Viteza vântului = 5.51 Unghiul vântului = 339 Stare = nori 50-85%']
+Milisauti: 23 \ luni \ 06:6:2022 \ 19:20:59
+[' Răsarit = 05:19:14 Apus = 21:10:20 Min (°C) = 12.74 Max (°C) =22.93 Presiune = 1018 Umiditate (%) = 67 Index UV = 0.77 Viteza vântului = 2.06 Unghiul vântului = 94 Stare = nori 85-100%']
+Milisauti: 23 \ marți \ 07:6:2022 \ 19:19:49
+[' Răsarit = 05:18:49 Apus = 21:11:07 Min (°C) = 12.3 Max (°C) =24.97 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.79 Viteza vântului = 4.03 Unghiul vântului = 127 Stare = nori 10-25%']
+Milisauti: 23 \ miercuri \ 08:6:2022 \ 19:20:21
+[' Răsarit = 05:18:26 Apus = 21:11:52 Min (°C) = 12.56 Max (°C) =26.36 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.75 Viteza vântului = 5.68 Unghiul vântului = 140 Stare = cer senin']
+Milisauti: 23 \ joi \ 09:6:2022 \ 19:20:05
+[' Răsarit = 05:18:05 Apus = 21:12:34 Min (°C) = 14.84 Max (°C) =27.51 Presiune = 1009 Umiditate (%) = 50 Index UV = 0.76 Viteza vântului = 3.86 Unghiul vântului = 103 Stare = nori 50-85%']
+Milisauti: 23 \ vineri \ 10:6:2022 \ 19:20:10
+[' Răsarit = 05:17:47 Apus = 21:13:14 Min (°C) = 14 Max (°C) =24.49 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.71 Viteza vântului = 1.88 Unghiul vântului = 281 Stare = nori 85-100%']
+Milisauti: 23 \ sâmbătă \ 11:6:2022 \ 19:20:11
+[' Răsarit = 05:17:32 Apus = 21:13:53 Min (°C) = 14.08 Max (°C) =20.4 Presiune = 973 Umiditate (%) = 95 Index UV = 0.36 Viteza vântului = 5.08 Unghiul vântului = 320 Stare = ploaie ușoară']
+Milisauti: 23 \ duminică \ 12:6:2022 \ 19:20:02
+[' Răsarit = 05:17:19 Apus = 21:14:28 Min (°C) = 14.35 Max (°C) =23.57 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.38 Viteza vântului = 6.53 Unghiul vântului = 332 Stare = nori 50-85%']
+Milisauti: 24 \ luni \ 13:6:2022 \ 19:19:48
+[' Răsarit = 05:17:09 Apus = 21:15:02 Min (°C) = 14.79 Max (°C) =26.12 Presiune = 968 Umiditate (%) = 61 Index UV = 0.77 Viteza vântului = 2.56 Unghiul vântului = 117 Stare = nori 25-50%']
+Milisauti: 24 \ marți \ 14:6:2022 \ 19:19:29
+[' Răsarit = 05:17:02 Apus = 21:15:33 Min (°C) = 13.04 Max (°C) =20.22 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.21 Viteza vântului = 4.2 Unghiul vântului = 348 Stare = nori 50-85%']
+Milisauti: 24 \ miercuri \ 15:6:2022 \ 19:19:45
+[' Răsarit = 05:16:57 Apus = 21:16:02 Min (°C) = 12.72 Max (°C) =21.1 Presiune = 977 Umiditate (%) = 59 Index UV = 0.52 Viteza vântului = 1.61 Unghiul vântului = 354 Stare = nori 50-85%']
+Milisauti: 24 \ joi \ 16:6:2022 \ 19:19:56
+[' Răsarit = 05:16:54 Apus = 21:16:29 Min (°C) = 9.94 Max (°C) =23.84 Presiune = 1018 Umiditate (%) = 60 Index UV = 0.7 Viteza vântului = 2.54 Unghiul vântului = 82 Stare = nori 50-85%']
+Milisauti: 24 \ vineri \ 17:6:2022 \ 19:20:24
+[' Răsarit = 05:16:54 Apus = 21:16:53 Min (°C) = 12.56 Max (°C) =21.11 Presiune = 975 Umiditate (%) = 66 Index UV = 0.71 Viteza vântului = 5.88 Unghiul vântului = 335 Stare = nori 50-85%']
+Milisauti: 24 \ sâmbătă \ 18:6:2022 \ 19:20:00
+[' Răsarit = 05:16:57 Apus = 21:17:15 Min (°C) = 10.3 Max (°C) =22.88 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.8 Viteza vântului = 2.55 Unghiul vântului = 1 Stare = nori 25-50%']
+Milisauti: 24 \ duminică \ 19:6:2022 \ 19:18:51
+[' Răsarit = 05:17:02 Apus = 21:17:34 Min (°C) = 12.11 Max (°C) =27.1 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.8 Viteza vântului = 3.36 Unghiul vântului = 148 Stare = cer senin']
+Milisauti: 25 \ luni \ 20:6:2022 \ 19:19:20
+[' Răsarit = 05:17:10 Apus = 21:17:51 Min (°C) = 14.6 Max (°C) =29.23 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.8 Viteza vântului = 3.1 Unghiul vântului = 137 Stare = cer senin']
+Milisauti: 25 \ marți \ 21:6:2022 \ 19:20:09
+[' Răsarit = 05:17:20 Apus = 21:18:05 Min (°C) = 15.23 Max (°C) =25.22 Presiune = 965 Umiditate (%) = 57 Index UV = 0.77 Viteza vântului = 5.48 Unghiul vântului = 337 Stare = nori 10-25%']
+Milisauti: 25 \ miercuri \ 22:6:2022 \ 19:19:32
+[' Răsarit = 05:17:33 Apus = 21:18:17 Min (°C) = 9.66 Max (°C) =22 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.77 Viteza vântului = 8 Unghiul vântului = 350 Stare = nori 25-50%']
+Milisauti: 25 \ joi \ 23:6:2022 \ 19:19:45
+[' Răsarit = 05:17:48 Apus = 21:18:26 Min (°C) = 11.5 Max (°C) =22 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.54 Viteza vântului = 5.3 Unghiul vântului = 338 Stare = nori 50-85%']
+Milisauti: 25 \ duminică \ 26:6:2022 \ 20:01:23
+[' Răsarit = 05:18:48 Apus = 21:18:37 Min (°C) = 14.52 Max (°C) =24.35 Presiune = 976 Umiditate (%) = 71 Index UV = 0.24 Viteza vântului = 1.52 Unghiul vântului = 321 Stare = nori 85-100%']
+Milisauti: 26 \ luni \ 27:6:2022 \ 19:20:01
+[' Răsarit = 05:19:13 Apus = 21:18:36 Min (°C) = 14.22 Max (°C) =26.66 Presiune = 976 Umiditate (%) = 86 Index UV = 0.43 Viteza vântului = 3.09 Unghiul vântului = 85 Stare = nori 85-100%']
+Milisauti: 26 \ marți \ 28:6:2022 \ 19:20:27
+[' Răsarit = 05:19:40 Apus = 21:18:32 Min (°C) = 17.67 Max (°C) =30.46 Presiune = 974 Umiditate (%) = 44 Index UV = 0.78 Viteza vântului = 2.02 Unghiul vântului = 332 Stare = cer senin']
+Milisauti: 26 \ miercuri \ 29:6:2022 \ 19:20:18
+[' Răsarit = 05:20:09 Apus = 21:18:26 Min (°C) = 17.26 Max (°C) =33.05 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.78 Viteza vântului = 0.72 Unghiul vântului = 42 Stare = nori 25-50%']
+Milisauti: 26 \ joi \ 30:6:2022 \ 19:21:25
+[' Răsarit = 05:20:41 Apus = 21:18:16 Min (°C) = 18.62 Max (°C) =32.06 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.77 Viteza vântului = 4.37 Unghiul vântului = 354 Stare = cer senin']
+Milisauti: 26 \ vineri \ 01:7:2022 \ 19:20:50
+[' Răsarit = 05:21:15 Apus = 21:18:05 Min (°C) = 17.87 Max (°C) =31.38 Presiune = 972 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 1.66 Unghiul vântului = 69 Stare = cer senin']
+Milisauti: 26 \ sâmbătă \ 02:7:2022 \ 19:20:16
+[' Răsarit = 05:21:51 Apus = 21:17:50 Min (°C) = 18.41 Max (°C) =29.97 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.24 Viteza vântului = 2.17 Unghiul vântului = 281 Stare = nori 85-100%']

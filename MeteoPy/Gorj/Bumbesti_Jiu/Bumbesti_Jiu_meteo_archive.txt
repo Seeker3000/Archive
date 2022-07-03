@@ -952,3 +952,83 @@ Bumbesti_Jiu: 20 \ vineri \ 20:5:2022 \ 19:10:43
 [' Răsarit = 05:52:00 Apus = 20:54:16 Min (°C) = 10.53 Max (°C) =24.39 Presiune = 1021 Umiditate (%) = 54 Index UV = 0.67 Viteza vântului = 1.38 Unghiul vântului = 219 Stare = nori 10-25%']
 Bumbesti_Jiu: 20 \ sâmbătă \ 21:5:2022 \ 19:12:24
 [' Răsarit = 05:51:03 Apus = 20:55:22 Min (°C) = 14.3 Max (°C) =28.04 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.72 Viteza vântului = 4.23 Unghiul vântului = 355 Stare = nori 50-85%']
+Bumbesti_Jiu: 20 \ duminică \ 22:5:2022 \ 19:11:40
+[' Răsarit = 05:50:07 Apus = 20:56:27 Min (°C) = 14.41 Max (°C) =22.76 Presiune = 1009 Umiditate (%) = 50 Index UV = 0.67 Viteza vântului = 5.16 Unghiul vântului = 347 Stare = cer senin']
+Bumbesti_Jiu: 21 \ luni \ 23:5:2022 \ 19:11:21
+[' Răsarit = 05:49:13 Apus = 20:57:31 Min (°C) = 11.04 Max (°C) =22.12 Presiune = 1009 Umiditate (%) = 47 Index UV = 0.69 Viteza vântului = 2.66 Unghiul vântului = 6 Stare = nori 50-85%']
+Bumbesti_Jiu: 21 \ marți \ 24:5:2022 \ 19:11:19
+[' Răsarit = 05:48:22 Apus = 20:58:34 Min (°C) = 11.39 Max (°C) =19.61 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.59 Viteza vântului = 1.52 Unghiul vântului = 124 Stare = nori 85-100%']
+Bumbesti_Jiu: 21 \ miercuri \ 25:5:2022 \ 19:11:04
+[' Răsarit = 05:47:32 Apus = 20:59:35 Min (°C) = 12.09 Max (°C) =24.55 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.72 Viteza vântului = 0.56 Unghiul vântului = 116 Stare = nori 50-85%']
+Bumbesti_Jiu: 21 \ joi \ 26:5:2022 \ 19:11:08
+[' Răsarit = 05:46:44 Apus = 21:00:36 Min (°C) = 15.52 Max (°C) =24.6 Presiune = 1019 Umiditate (%) = 53 Index UV = 0.68 Viteza vântului = 3.91 Unghiul vântului = 3 Stare = nori 10-25%']
+Bumbesti_Jiu: 21 \ vineri \ 27:5:2022 \ 19:11:24
+[' Răsarit = 05:45:59 Apus = 21:01:35 Min (°C) = 13.02 Max (°C) =25.26 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.73 Viteza vântului = 0.36 Unghiul vântului = 213 Stare = nori 10-25%']
+Bumbesti_Jiu: 21 \ sâmbătă \ 28:5:2022 \ 19:12:24
+[' Răsarit = 05:45:15 Apus = 21:02:34 Min (°C) = 14.22 Max (°C) =24.4 Presiune = 1010 Umiditate (%) = 79 Index UV = 0.21 Viteza vântului = 5.55 Unghiul vântului = 352 Stare = nori 50-85%']
+Bumbesti_Jiu: 21 \ duminică \ 29:5:2022 \ 19:11:08
+[' Răsarit = 05:44:34 Apus = 21:03:30 Min (°C) = 12.52 Max (°C) =17.6 Presiune = 1008 Umiditate (%) = 95 Index UV = 0.24 Viteza vântului = 1.1 Unghiul vântului = 98 Stare = nori 85-100%']
+Bumbesti_Jiu: 22 \ luni \ 30:5:2022 \ 19:11:56
+[' Răsarit = 05:43:54 Apus = 21:04:26 Min (°C) = 14.58 Max (°C) =24.25 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.77 Viteza vântului = 0.47 Unghiul vântului = 304 Stare = nori 25-50%']
+Bumbesti_Jiu: 22 \ marți \ 31:5:2022 \ 19:11:09
+[' Răsarit = 05:43:17 Apus = 21:05:20 Min (°C) = 14.35 Max (°C) =24.57 Presiune = 1016 Umiditate (%) = 84 Index UV = 0.81 Viteza vântului = 1.85 Unghiul vântului = 6 Stare = nori 50-85%']
+Bumbesti_Jiu: 22 \ miercuri \ 01:6:2022 \ 19:11:22
+[' Răsarit = 05:42:42 Apus = 21:06:12 Min (°C) = 14.54 Max (°C) =25.3 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.69 Viteza vântului = 1.33 Unghiul vântului = 346 Stare = nori 85-100%']
+Bumbesti_Jiu: 22 \ joi \ 02:6:2022 \ 19:10:51
+[' Răsarit = 05:42:10 Apus = 21:07:03 Min (°C) = 15.95 Max (°C) =27.4 Presiune = 1016 Umiditate (%) = 66 Index UV = 0.81 Viteza vântului = 1.89 Unghiul vântului = 6 Stare = ploaie ușoară']
+Bumbesti_Jiu: 22 \ vineri \ 03:6:2022 \ 19:11:09
+[' Răsarit = 05:41:39 Apus = 21:07:53 Min (°C) = 17.08 Max (°C) =26.37 Presiune = 1020 Umiditate (%) = 81 Index UV = 0.8 Viteza vântului = 0.51 Unghiul vântului = 278 Stare = nori 85-100%']
+Bumbesti_Jiu: 22 \ sâmbătă \ 04:6:2022 \ 19:11:32
+[' Răsarit = 05:41:11 Apus = 21:08:41 Min (°C) = 16.9 Max (°C) =23.81 Presiune = 1017 Umiditate (%) = 80 Index UV = 0.61 Viteza vântului = 1.05 Unghiul vântului = 232 Stare = nori 25-50%']
+Bumbesti_Jiu: 22 \ duminică \ 05:6:2022 \ 19:10:53
+[' Răsarit = 05:40:45 Apus = 21:09:27 Min (°C) = 16.98 Max (°C) =28.17 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.39 Viteza vântului = 3.83 Unghiul vântului = 1 Stare = nori 10-25%']
+Bumbesti_Jiu: 23 \ luni \ 06:6:2022 \ 19:11:35
+[' Răsarit = 05:40:21 Apus = 21:10:11 Min (°C) = 15.92 Max (°C) =22.96 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.88 Viteza vântului = 2.53 Unghiul vântului = 167 Stare = nori 25-50%']
+Bumbesti_Jiu: 23 \ marți \ 07:6:2022 \ 19:10:42
+[' Răsarit = 05:39:59 Apus = 21:10:54 Min (°C) = 14.96 Max (°C) =23.3 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.45 Viteza vântului = 1.72 Unghiul vântului = 130 Stare = nori 85-100%']
+Bumbesti_Jiu: 23 \ miercuri \ 08:6:2022 \ 19:11:26
+[' Răsarit = 05:39:40 Apus = 21:11:35 Min (°C) = 14.22 Max (°C) =22.94 Presiune = 1010 Umiditate (%) = 68 Index UV = 0.21 Viteza vântului = 1.85 Unghiul vântului = 136 Stare = nori 50-85%']
+Bumbesti_Jiu: 23 \ joi \ 09:6:2022 \ 19:11:02
+[' Răsarit = 05:39:23 Apus = 21:12:14 Min (°C) = 14.47 Max (°C) =22.06 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.82 Viteza vântului = 1.74 Unghiul vântului = 111 Stare = nori 50-85%']
+Bumbesti_Jiu: 23 \ vineri \ 10:6:2022 \ 19:11:06
+[' Răsarit = 05:39:09 Apus = 21:12:51 Min (°C) = 14.53 Max (°C) =20.83 Presiune = 1011 Umiditate (%) = 86 Index UV = 0.8 Viteza vântului = 1.32 Unghiul vântului = 99 Stare = nori 50-85%']
+Bumbesti_Jiu: 23 \ sâmbătă \ 11:6:2022 \ 19:11:06
+[' Răsarit = 05:38:56 Apus = 21:13:26 Min (°C) = 13.58 Max (°C) =23.19 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.88 Viteza vântului = 0.68 Unghiul vântului = 282 Stare = ploaie moderată']
+Bumbesti_Jiu: 23 \ duminică \ 12:6:2022 \ 19:10:54
+[' Răsarit = 05:38:46 Apus = 21:14:00 Min (°C) = 14.98 Max (°C) =23.78 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.87 Viteza vântului = 0.47 Unghiul vântului = 301 Stare = nori 85-100%']
+Bumbesti_Jiu: 24 \ luni \ 13:6:2022 \ 19:11:05
+[' Răsarit = 05:38:38 Apus = 21:14:31 Min (°C) = 15.18 Max (°C) =25.27 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.79 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 50-85%']
+Bumbesti_Jiu: 24 \ marți \ 14:6:2022 \ 19:10:41
+[' Răsarit = 05:38:33 Apus = 21:15:00 Min (°C) = 15.83 Max (°C) =26.1 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.88 Viteza vântului = 4.73 Unghiul vântului = 356 Stare = nori 25-50%']
+Bumbesti_Jiu: 24 \ miercuri \ 15:6:2022 \ 19:10:49
+[' Răsarit = 05:38:30 Apus = 21:15:27 Min (°C) = 15.09 Max (°C) =21.02 Presiune = 1020 Umiditate (%) = 77 Index UV = 0.86 Viteza vântului = 2.06 Unghiul vântului = 211 Stare = nori 50-85%']
+Bumbesti_Jiu: 24 \ joi \ 16:6:2022 \ 19:10:53
+[' Răsarit = 05:38:29 Apus = 21:15:52 Min (°C) = 13.46 Max (°C) =24.33 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.83 Viteza vântului = 1.39 Unghiul vântului = 159 Stare = nori 50-85%']
+Bumbesti_Jiu: 24 \ vineri \ 17:6:2022 \ 19:11:15
+[' Răsarit = 05:38:30 Apus = 21:16:15 Min (°C) = 15.52 Max (°C) =24.93 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.76 Viteza vântului = 4.33 Unghiul vântului = 354 Stare = nori 85-100%']
+Bumbesti_Jiu: 24 \ sâmbătă \ 18:6:2022 \ 19:10:59
+[' Răsarit = 05:38:34 Apus = 21:16:35 Min (°C) = 13.81 Max (°C) =24.25 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.91 Viteza vântului = 1.42 Unghiul vântului = 132 Stare = nori 50-85%']
+Bumbesti_Jiu: 24 \ duminică \ 19:6:2022 \ 19:09:57
+[' Răsarit = 05:38:40 Apus = 21:16:54 Min (°C) = 14.67 Max (°C) =25.67 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.91 Viteza vântului = 1.02 Unghiul vântului = 186 Stare = nori 50-85%']
+Bumbesti_Jiu: 25 \ luni \ 20:6:2022 \ 19:10:32
+[' Răsarit = 05:38:48 Apus = 21:17:10 Min (°C) = 15.67 Max (°C) =27.76 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.94 Viteza vântului = 1.94 Unghiul vântului = 213 Stare = nori 50-85%']
+Bumbesti_Jiu: 25 \ marți \ 21:6:2022 \ 19:11:13
+[' Răsarit = 05:38:59 Apus = 21:17:24 Min (°C) = 18.05 Max (°C) =29.6 Presiune = 1009 Umiditate (%) = 42 Index UV = 0.95 Viteza vântului = 4.78 Unghiul vântului = 327 Stare = nori 10-25%']
+Bumbesti_Jiu: 25 \ miercuri \ 22:6:2022 \ 19:10:49
+[' Răsarit = 05:39:12 Apus = 21:17:36 Min (°C) = 12.88 Max (°C) =25.94 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.91 Viteza vântului = 4.44 Unghiul vântului = 356 Stare = nori 10-25%']
+Bumbesti_Jiu: 25 \ joi \ 23:6:2022 \ 19:10:50
+[' Răsarit = 05:39:26 Apus = 21:17:45 Min (°C) = 14.13 Max (°C) =23.69 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.71 Viteza vântului = 1.06 Unghiul vântului = 270 Stare = nori 50-85%']
+Bumbesti_Jiu: 25 \ duminică \ 26:6:2022 \ 19:51:20
+[' Răsarit = 05:40:24 Apus = 21:17:59 Min (°C) = 17.1 Max (°C) =23.32 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.26 Viteza vântului = 0.92 Unghiul vântului = 97 Stare = ploaie ușoară']
+Bumbesti_Jiu: 26 \ luni \ 27:6:2022 \ 19:11:03
+[' Răsarit = 05:40:47 Apus = 21:18:00 Min (°C) = 15.45 Max (°C) =28.35 Presiune = 1017 Umiditate (%) = 52 Index UV = 0.9 Viteza vântului = 0.9 Unghiul vântului = 96 Stare = nori 25-50%']
+Bumbesti_Jiu: 26 \ marți \ 28:6:2022 \ 19:11:10
+[' Răsarit = 05:41:13 Apus = 21:17:57 Min (°C) = 18.18 Max (°C) =29.55 Presiune = 1018 Umiditate (%) = 77 Index UV = 0.93 Viteza vântului = 1.33 Unghiul vântului = 134 Stare = nori 50-85%']
+Bumbesti_Jiu: 26 \ miercuri \ 29:6:2022 \ 19:11:09
+[' Răsarit = 05:41:40 Apus = 21:17:53 Min (°C) = 18.4 Max (°C) =30.71 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.86 Viteza vântului = 2.01 Unghiul vântului = 64 Stare = nori 25-50%']
+Bumbesti_Jiu: 26 \ joi \ 30:6:2022 \ 19:11:40
+[' Răsarit = 05:42:10 Apus = 21:17:46 Min (°C) = 20.11 Max (°C) =32.11 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.9 Viteza vântului = 2.64 Unghiul vântului = 47 Stare = nori 25-50%']
+Bumbesti_Jiu: 26 \ vineri \ 01:7:2022 \ 19:11:17
+[' Răsarit = 05:42:41 Apus = 21:17:36 Min (°C) = 20.85 Max (°C) =32.1 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.74 Viteza vântului = 0.82 Unghiul vântului = 93 Stare = nori 50-85%']
+Bumbesti_Jiu: 26 \ sâmbătă \ 02:7:2022 \ 19:11:07
+[' Răsarit = 05:43:15 Apus = 21:17:25 Min (°C) = 21.14 Max (°C) =31.56 Presiune = 1019 Umiditate (%) = 68 Index UV = 0.68 Viteza vântului = 1.46 Unghiul vântului = 22 Stare = nori 85-100%']

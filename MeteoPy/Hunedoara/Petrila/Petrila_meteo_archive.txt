@@ -952,3 +952,83 @@ Petrila: 20 \ vineri \ 20:5:2022 \ 19:00:50
 [' Răsarit = 05:50:58 Apus = 20:55:00 Min (°C) = 8.15 Max (°C) =23.3 Presiune = 1022 Umiditate (%) = 48 Index UV = 0.67 Viteza vântului = 1.28 Unghiul vântului = 285 Stare = nori 25-50%']
 Petrila: 20 \ sâmbătă \ 21:5:2022 \ 19:00:59
 [' Răsarit = 05:50:00 Apus = 20:56:07 Min (°C) = 12.13 Max (°C) =25.18 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.72 Viteza vântului = 4.37 Unghiul vântului = 323 Stare = nori 50-85%']
+Petrila: 20 \ duminică \ 22:5:2022 \ 19:00:53
+[' Răsarit = 05:49:03 Apus = 20:57:13 Min (°C) = 10.77 Max (°C) =18.95 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.67 Viteza vântului = 5.19 Unghiul vântului = 324 Stare = nori 10-25%']
+Petrila: 21 \ luni \ 23:5:2022 \ 19:00:48
+[' Răsarit = 05:48:09 Apus = 20:58:17 Min (°C) = 8.87 Max (°C) =18.58 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.69 Viteza vântului = 2.68 Unghiul vântului = 319 Stare = nori 50-85%']
+Petrila: 21 \ marți \ 24:5:2022 \ 19:00:58
+[' Răsarit = 05:47:17 Apus = 20:59:21 Min (°C) = 8.18 Max (°C) =17.92 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.59 Viteza vântului = 1.12 Unghiul vântului = 173 Stare = nori 85-100%']
+Petrila: 21 \ miercuri \ 25:5:2022 \ 19:00:51
+[' Răsarit = 05:46:26 Apus = 21:00:23 Min (°C) = 10.66 Max (°C) =23.08 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.72 Viteza vântului = 1.21 Unghiul vântului = 173 Stare = nori 50-85%']
+Petrila: 21 \ joi \ 26:5:2022 \ 19:00:49
+[' Răsarit = 05:45:38 Apus = 21:01:24 Min (°C) = 12.71 Max (°C) =20.57 Presiune = 1021 Umiditate (%) = 61 Index UV = 0.68 Viteza vântului = 3.82 Unghiul vântului = 329 Stare = nori 25-50%']
+Petrila: 21 \ vineri \ 27:5:2022 \ 19:00:59
+[' Răsarit = 05:44:52 Apus = 21:02:24 Min (°C) = 10.14 Max (°C) =22.55 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.73 Viteza vântului = 1.46 Unghiul vântului = 296 Stare = nori 10-25%']
+Petrila: 21 \ sâmbătă \ 28:5:2022 \ 19:01:03
+[' Răsarit = 05:44:08 Apus = 21:03:23 Min (°C) = 11.71 Max (°C) =21.92 Presiune = 1012 Umiditate (%) = 93 Index UV = 0.21 Viteza vântului = 3.15 Unghiul vântului = 341 Stare = nori 85-100%']
+Petrila: 21 \ duminică \ 29:5:2022 \ 19:00:53
+[' Răsarit = 05:43:26 Apus = 21:04:20 Min (°C) = 10.73 Max (°C) =18.38 Presiune = 1008 Umiditate (%) = 90 Index UV = 0.24 Viteza vântului = 2.02 Unghiul vântului = 161 Stare = nori 85-100%']
+Petrila: 22 \ luni \ 30:5:2022 \ 19:00:57
+[' Răsarit = 05:42:46 Apus = 21:05:16 Min (°C) = 12.78 Max (°C) =22.27 Presiune = 1013 Umiditate (%) = 87 Index UV = 0.77 Viteza vântului = 1.16 Unghiul vântului = 305 Stare = nori 25-50%']
+Petrila: 22 \ marți \ 31:5:2022 \ 19:00:55
+[' Răsarit = 05:42:08 Apus = 21:06:11 Min (°C) = 12.21 Max (°C) =22.98 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.81 Viteza vântului = 0.23 Unghiul vântului = 199 Stare = ploaie ușoară']
+Petrila: 22 \ miercuri \ 01:6:2022 \ 19:00:59
+[' Răsarit = 05:41:33 Apus = 21:07:04 Min (°C) = 11.95 Max (°C) =24.31 Presiune = 1017 Umiditate (%) = 86 Index UV = 0.69 Viteza vântului = 0.77 Unghiul vântului = 349 Stare = nori 85-100%']
+Petrila: 22 \ joi \ 02:6:2022 \ 19:00:50
+[' Răsarit = 05:41:00 Apus = 21:07:56 Min (°C) = 13.18 Max (°C) =25.35 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.81 Viteza vântului = 1.83 Unghiul vântului = 339 Stare = nori 50-85%']
+Petrila: 22 \ vineri \ 03:6:2022 \ 19:00:50
+[' Răsarit = 05:40:29 Apus = 21:08:45 Min (°C) = 14.44 Max (°C) =24.9 Presiune = 1021 Umiditate (%) = 75 Index UV = 0.8 Viteza vântului = 0.6 Unghiul vântului = 226 Stare = nori 50-85%']
+Petrila: 22 \ sâmbătă \ 04:6:2022 \ 19:00:53
+[' Răsarit = 05:40:00 Apus = 21:09:34 Min (°C) = 14.66 Max (°C) =22.32 Presiune = 1017 Umiditate (%) = 84 Index UV = 0.61 Viteza vântului = 2.69 Unghiul vântului = 218 Stare = nori 25-50%']
+Petrila: 22 \ duminică \ 05:6:2022 \ 19:00:49
+[' Răsarit = 05:39:33 Apus = 21:10:20 Min (°C) = 15.09 Max (°C) =24.64 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.39 Viteza vântului = 3.58 Unghiul vântului = 318 Stare = nori 10-25%']
+Petrila: 23 \ luni \ 06:6:2022 \ 19:00:56
+[' Răsarit = 05:39:09 Apus = 21:11:05 Min (°C) = 12.35 Max (°C) =23.98 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.88 Viteza vântului = 0.8 Unghiul vântului = 292 Stare = cer senin']
+Petrila: 23 \ marți \ 07:6:2022 \ 19:00:49
+[' Răsarit = 05:38:47 Apus = 21:11:48 Min (°C) = 12.14 Max (°C) =22.35 Presiune = 1014 Umiditate (%) = 91 Index UV = 0.45 Viteza vântului = 1.78 Unghiul vântului = 157 Stare = nori 85-100%']
+Petrila: 23 \ miercuri \ 08:6:2022 \ 19:00:56
+[' Răsarit = 05:38:28 Apus = 21:12:30 Min (°C) = 11.67 Max (°C) =21.41 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.21 Viteza vântului = 1.53 Unghiul vântului = 160 Stare = nori 85-100%']
+Petrila: 23 \ joi \ 09:6:2022 \ 19:00:55
+[' Răsarit = 05:38:10 Apus = 21:13:09 Min (°C) = 11.97 Max (°C) =20.83 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.82 Viteza vântului = 1.66 Unghiul vântului = 153 Stare = nori 50-85%']
+Petrila: 23 \ vineri \ 10:6:2022 \ 19:00:59
+[' Răsarit = 05:37:55 Apus = 21:13:46 Min (°C) = 11.85 Max (°C) =20.39 Presiune = 1011 Umiditate (%) = 77 Index UV = 0.8 Viteza vântului = 1.2 Unghiul vântului = 102 Stare = nori 50-85%']
+Petrila: 23 \ sâmbătă \ 11:6:2022 \ 19:00:57
+[' Răsarit = 05:37:43 Apus = 21:14:22 Min (°C) = 11.52 Max (°C) =20.32 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.88 Viteza vântului = 0.98 Unghiul vântului = 326 Stare = nori 50-85%']
+Petrila: 23 \ duminică \ 12:6:2022 \ 19:00:56
+[' Răsarit = 05:37:32 Apus = 21:14:55 Min (°C) = 13 Max (°C) =20.66 Presiune = 1015 Umiditate (%) = 90 Index UV = 0.87 Viteza vântului = 1.26 Unghiul vântului = 16 Stare = nori 50-85%']
+Petrila: 24 \ luni \ 13:6:2022 \ 19:01:15
+[' Răsarit = 05:37:24 Apus = 21:15:27 Min (°C) = 12.67 Max (°C) =22.07 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.79 Viteza vântului = 1.26 Unghiul vântului = 311 Stare = ploaie moderată']
+Petrila: 24 \ marți \ 14:6:2022 \ 19:00:54
+[' Răsarit = 05:37:19 Apus = 21:15:56 Min (°C) = 13.27 Max (°C) =22.31 Presiune = 1017 Umiditate (%) = 52 Index UV = 0.88 Viteza vântului = 3.58 Unghiul vântului = 328 Stare = nori 50-85%']
+Petrila: 24 \ miercuri \ 15:6:2022 \ 19:00:50
+[' Răsarit = 05:37:16 Apus = 21:16:23 Min (°C) = 11.65 Max (°C) =21.16 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.86 Viteza vântului = 2.4 Unghiul vântului = 302 Stare = nori 10-25%']
+Petrila: 24 \ joi \ 16:6:2022 \ 19:00:50
+[' Răsarit = 05:37:15 Apus = 21:16:49 Min (°C) = 10.9 Max (°C) =23.27 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.83 Viteza vântului = 1.39 Unghiul vântului = 216 Stare = nori 50-85%']
+Petrila: 24 \ vineri \ 17:6:2022 \ 19:00:59
+[' Răsarit = 05:37:16 Apus = 21:17:11 Min (°C) = 13 Max (°C) =20.95 Presiune = 1019 Umiditate (%) = 86 Index UV = 0.76 Viteza vântului = 2.27 Unghiul vântului = 337 Stare = nori 85-100%']
+Petrila: 24 \ sâmbătă \ 18:6:2022 \ 19:00:51
+[' Răsarit = 05:37:19 Apus = 21:17:32 Min (°C) = 10.83 Max (°C) =22.34 Presiune = 1020 Umiditate (%) = 45 Index UV = 0.91 Viteza vântului = 1.67 Unghiul vântului = 347 Stare = nori 25-50%']
+Petrila: 24 \ duminică \ 19:6:2022 \ 19:00:48
+[' Răsarit = 05:37:25 Apus = 21:17:51 Min (°C) = 11.6 Max (°C) =25.09 Presiune = 1018 Umiditate (%) = 63 Index UV = 0.91 Viteza vântului = 1.44 Unghiul vântului = 191 Stare = nori 50-85%']
+Petrila: 25 \ luni \ 20:6:2022 \ 19:00:50
+[' Răsarit = 05:37:34 Apus = 21:18:07 Min (°C) = 13.41 Max (°C) =26.88 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.94 Viteza vântului = 1.44 Unghiul vântului = 300 Stare = nori 25-50%']
+Petrila: 25 \ marți \ 21:6:2022 \ 19:01:05
+[' Răsarit = 05:37:44 Apus = 21:18:21 Min (°C) = 16.2 Max (°C) =25.3 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.95 Viteza vântului = 5.02 Unghiul vântului = 316 Stare = nori 10-25%']
+Petrila: 25 \ miercuri \ 22:6:2022 \ 19:00:52
+[' Răsarit = 05:37:57 Apus = 21:18:33 Min (°C) = 10.36 Max (°C) =21.76 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.91 Viteza vântului = 4.51 Unghiul vântului = 327 Stare = nori 25-50%']
+Petrila: 25 \ joi \ 23:6:2022 \ 19:00:52
+[' Răsarit = 05:38:12 Apus = 21:18:42 Min (°C) = 11.98 Max (°C) =21.87 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.71 Viteza vântului = 1.85 Unghiul vântului = 328 Stare = nori 50-85%']
+Petrila: 25 \ duminică \ 26:6:2022 \ 19:40:59
+[' Răsarit = 05:39:09 Apus = 21:18:56 Min (°C) = 15.25 Max (°C) =20.26 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.26 Viteza vântului = 1.22 Unghiul vântului = 16 Stare = nori 50-85%']
+Petrila: 26 \ luni \ 27:6:2022 \ 19:00:49
+[' Răsarit = 05:39:33 Apus = 21:18:56 Min (°C) = 13.26 Max (°C) =26.15 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.9 Viteza vântului = 1.29 Unghiul vântului = 357 Stare = nori 25-50%']
+Petrila: 26 \ marți \ 28:6:2022 \ 19:00:52
+[' Răsarit = 05:39:59 Apus = 21:18:54 Min (°C) = 15.47 Max (°C) =26.93 Presiune = 1019 Umiditate (%) = 76 Index UV = 0.93 Viteza vântului = 1.07 Unghiul vântului = 86 Stare = nori 85-100%']
+Petrila: 26 \ miercuri \ 29:6:2022 \ 19:00:54
+[' Răsarit = 05:40:26 Apus = 21:18:49 Min (°C) = 15.94 Max (°C) =28.57 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.86 Viteza vântului = 1.58 Unghiul vântului = 130 Stare = nori 50-85%']
+Petrila: 26 \ joi \ 30:6:2022 \ 19:00:53
+[' Răsarit = 05:40:56 Apus = 21:18:42 Min (°C) = 17.33 Max (°C) =29.67 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.9 Viteza vântului = 2.54 Unghiul vântului = 95 Stare = nori 50-85%']
+Petrila: 26 \ vineri \ 01:7:2022 \ 19:01:00
+[' Răsarit = 05:41:28 Apus = 21:18:32 Min (°C) = 18.34 Max (°C) =29.36 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.74 Viteza vântului = 1.13 Unghiul vântului = 12 Stare = nori 50-85%']
+Petrila: 26 \ sâmbătă \ 02:7:2022 \ 19:00:53
+[' Răsarit = 05:42:01 Apus = 21:18:20 Min (°C) = 18.81 Max (°C) =28.96 Presiune = 1020 Umiditate (%) = 79 Index UV = 0.68 Viteza vântului = 1.4 Unghiul vântului = 84 Stare = nori 85-100%']

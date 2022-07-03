@@ -940,3 +940,83 @@ Hunedoara: 20 \ vineri \ 20:5:2022 \ 19:00:14
 [' Răsarit = 05:51:38 Apus = 20:57:40 Min (°C) = 7.42 Max (°C) =23.65 Presiune = 1021 Umiditate (%) = 57 Index UV = 0.66 Viteza vântului = 1.68 Unghiul vântului = 14 Stare = nori 50-85%']
 Hunedoara: 20 \ sâmbătă \ 21:5:2022 \ 19:00:17
 [' Răsarit = 05:50:39 Apus = 20:58:48 Min (°C) = 12 Max (°C) =27.2 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.67 Viteza vântului = 5.37 Unghiul vântului = 283 Stare = nori 50-85%']
+Hunedoara: 20 \ duminică \ 22:5:2022 \ 19:00:13
+[' Răsarit = 05:49:42 Apus = 20:59:54 Min (°C) = 11.62 Max (°C) =21.88 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.65 Viteza vântului = 4.3 Unghiul vântului = 320 Stare = nori 10-25%']
+Hunedoara: 21 \ luni \ 23:5:2022 \ 19:00:09
+[' Răsarit = 05:48:47 Apus = 21:00:59 Min (°C) = 10.11 Max (°C) =21.57 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.53 Viteza vântului = 2.72 Unghiul vântului = 19 Stare = nori 50-85%']
+Hunedoara: 21 \ marți \ 24:5:2022 \ 19:00:17
+[' Răsarit = 05:47:54 Apus = 21:02:04 Min (°C) = 8.21 Max (°C) =17.41 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.53 Viteza vântului = 1.26 Unghiul vântului = 28 Stare = ploaie ușoară']
+Hunedoara: 21 \ miercuri \ 25:5:2022 \ 19:00:10
+[' Răsarit = 05:47:03 Apus = 21:03:07 Min (°C) = 10.89 Max (°C) =27.6 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.71 Viteza vântului = 1.72 Unghiul vântului = 320 Stare = nori 25-50%']
+Hunedoara: 21 \ joi \ 26:5:2022 \ 19:00:11
+[' Răsarit = 05:46:14 Apus = 21:04:09 Min (°C) = 14.2 Max (°C) =23.14 Presiune = 1020 Umiditate (%) = 58 Index UV = 0.73 Viteza vântului = 3.94 Unghiul vântului = 305 Stare = nori 50-85%']
+Hunedoara: 21 \ vineri \ 27:5:2022 \ 19:00:18
+[' Răsarit = 05:45:27 Apus = 21:05:09 Min (°C) = 11.81 Max (°C) =25.12 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.73 Viteza vântului = 2.28 Unghiul vântului = 347 Stare = cer senin']
+Hunedoara: 21 \ sâmbătă \ 28:5:2022 \ 19:00:22
+[' Răsarit = 05:44:42 Apus = 21:06:09 Min (°C) = 12.4 Max (°C) =20.9 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.08 Viteza vântului = 0.7 Unghiul vântului = 351 Stare = nori 85-100%']
+Hunedoara: 21 \ duminică \ 29:5:2022 \ 19:00:14
+[' Răsarit = 05:43:59 Apus = 21:07:07 Min (°C) = 8.54 Max (°C) =19.85 Presiune = 1007 Umiditate (%) = 78 Index UV = 0.63 Viteza vântului = 3.01 Unghiul vântului = 44 Stare = nori 85-100%']
+Hunedoara: 22 \ luni \ 30:5:2022 \ 19:00:18
+[' Răsarit = 05:43:19 Apus = 21:08:03 Min (°C) = 13.4 Max (°C) =23.03 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.77 Viteza vântului = 1.24 Unghiul vântului = 32 Stare = nori 25-50%']
+Hunedoara: 22 \ marți \ 31:5:2022 \ 19:00:13
+[' Răsarit = 05:42:41 Apus = 21:08:58 Min (°C) = 12.37 Max (°C) =25.25 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.78 Viteza vântului = 0.76 Unghiul vântului = 76 Stare = nori 25-50%']
+Hunedoara: 22 \ miercuri \ 01:6:2022 \ 19:00:17
+[' Răsarit = 05:42:05 Apus = 21:09:52 Min (°C) = 12.07 Max (°C) =25.94 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.7 Viteza vântului = 1.93 Unghiul vântului = 216 Stare = nori 85-100%']
+Hunedoara: 22 \ joi \ 02:6:2022 \ 19:00:11
+[' Răsarit = 05:41:31 Apus = 21:10:44 Min (°C) = 13.82 Max (°C) =27.32 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.62 Viteza vântului = 1.49 Unghiul vântului = 27 Stare = nori 50-85%']
+Hunedoara: 22 \ vineri \ 03:6:2022 \ 19:00:10
+[' Răsarit = 05:40:59 Apus = 21:11:35 Min (°C) = 15.05 Max (°C) =27.14 Presiune = 1019 Umiditate (%) = 63 Index UV = 0.66 Viteza vântului = 0.55 Unghiul vântului = 31 Stare = nori 50-85%']
+Hunedoara: 22 \ sâmbătă \ 04:6:2022 \ 19:00:12
+[' Răsarit = 05:40:30 Apus = 21:12:23 Min (°C) = 15.99 Max (°C) =27.29 Presiune = 1016 Umiditate (%) = 95 Index UV = 0.27 Viteza vântului = 1.97 Unghiul vântului = 232 Stare = nori 50-85%']
+Hunedoara: 22 \ duminică \ 05:6:2022 \ 19:00:11
+[' Răsarit = 05:40:03 Apus = 21:13:10 Min (°C) = 15.79 Max (°C) =28.15 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.85 Viteza vântului = 4.88 Unghiul vântului = 314 Stare = nori 10-25%']
+Hunedoara: 23 \ luni \ 06:6:2022 \ 19:00:16
+[' Răsarit = 05:39:39 Apus = 21:13:56 Min (°C) = 13.44 Max (°C) =24.76 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.88 Viteza vântului = 3.85 Unghiul vântului = 42 Stare = cer senin']
+Hunedoara: 23 \ marți \ 07:6:2022 \ 19:00:09
+[' Răsarit = 05:39:16 Apus = 21:14:39 Min (°C) = 13.07 Max (°C) =26.01 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.88 Viteza vântului = 3.39 Unghiul vântului = 40 Stare = cer senin']
+Hunedoara: 23 \ miercuri \ 08:6:2022 \ 19:00:14
+[' Răsarit = 05:38:56 Apus = 21:15:21 Min (°C) = 13.33 Max (°C) =26.02 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.72 Viteza vântului = 2.83 Unghiul vântului = 177 Stare = nori 50-85%']
+Hunedoara: 23 \ joi \ 09:6:2022 \ 19:00:09
+[' Răsarit = 05:38:39 Apus = 21:16:01 Min (°C) = 13.05 Max (°C) =25.44 Presiune = 1006 Umiditate (%) = 63 Index UV = 0.38 Viteza vântului = 2.22 Unghiul vântului = 71 Stare = ploaie ușoară']
+Hunedoara: 23 \ vineri \ 10:6:2022 \ 19:00:21
+[' Răsarit = 05:38:23 Apus = 21:16:38 Min (°C) = 12.68 Max (°C) =24.63 Presiune = 1011 Umiditate (%) = 61 Index UV = 0.83 Viteza vântului = 5.85 Unghiul vântului = 56 Stare = nori 25-50%']
+Hunedoara: 23 \ sâmbătă \ 11:6:2022 \ 19:00:14
+[' Răsarit = 05:38:10 Apus = 21:17:14 Min (°C) = 12.61 Max (°C) =24.79 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.57 Viteza vântului = 4.44 Unghiul vântului = 61 Stare = nori 50-85%']
+Hunedoara: 23 \ duminică \ 12:6:2022 \ 19:00:18
+[' Răsarit = 05:38:00 Apus = 21:17:48 Min (°C) = 13.72 Max (°C) =26.53 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.61 Viteza vântului = 3.89 Unghiul vântului = 66 Stare = nori 50-85%']
+Hunedoara: 24 \ luni \ 13:6:2022 \ 19:00:39
+[' Răsarit = 05:37:52 Apus = 21:18:20 Min (°C) = 14.01 Max (°C) =27.4 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.9 Viteza vântului = 1.95 Unghiul vântului = 260 Stare = nori 50-85%']
+Hunedoara: 24 \ marți \ 14:6:2022 \ 19:00:18
+[' Răsarit = 05:37:46 Apus = 21:18:49 Min (°C) = 14.92 Max (°C) =24.62 Presiune = 1017 Umiditate (%) = 45 Index UV = 0.83 Viteza vântului = 3.06 Unghiul vântului = 315 Stare = nori 50-85%']
+Hunedoara: 24 \ miercuri \ 15:6:2022 \ 19:00:11
+[' Răsarit = 05:37:42 Apus = 21:19:17 Min (°C) = 10.18 Max (°C) =25.63 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.76 Viteza vântului = 3.85 Unghiul vântului = 41 Stare = nori 25-50%']
+Hunedoara: 24 \ joi \ 16:6:2022 \ 19:00:09
+[' Răsarit = 05:37:41 Apus = 21:19:42 Min (°C) = 11 Max (°C) =26.87 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.85 Viteza vântului = 0.8 Unghiul vântului = 46 Stare = nori 50-85%']
+Hunedoara: 24 \ vineri \ 17:6:2022 \ 19:00:11
+[' Răsarit = 05:37:42 Apus = 21:20:05 Min (°C) = 14.81 Max (°C) =24.89 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.62 Viteza vântului = 2.29 Unghiul vântului = 54 Stare = nori 85-100%']
+Hunedoara: 24 \ sâmbătă \ 18:6:2022 \ 19:00:12
+[' Răsarit = 05:37:46 Apus = 21:20:26 Min (°C) = 11.77 Max (°C) =25.34 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.77 Viteza vântului = 4 Unghiul vântului = 70 Stare = nori 10-25%']
+Hunedoara: 24 \ duminică \ 19:6:2022 \ 19:00:10
+[' Răsarit = 05:37:52 Apus = 21:20:45 Min (°C) = 11.56 Max (°C) =28.89 Presiune = 1015 Umiditate (%) = 33 Index UV = 0.9 Viteza vântului = 3.6 Unghiul vântului = 48 Stare = cer senin']
+Hunedoara: 25 \ luni \ 20:6:2022 \ 19:00:10
+[' Răsarit = 05:38:00 Apus = 21:21:01 Min (°C) = 14.1 Max (°C) =31.65 Presiune = 1009 Umiditate (%) = 32 Index UV = 0.91 Viteza vântului = 2.09 Unghiul vântului = 305 Stare = cer senin']
+Hunedoara: 25 \ marți \ 21:6:2022 \ 19:00:28
+[' Răsarit = 05:38:10 Apus = 21:21:15 Min (°C) = 16.7 Max (°C) =29.73 Presiune = 1010 Umiditate (%) = 26 Index UV = 0.91 Viteza vântului = 6.42 Unghiul vântului = 302 Stare = nori 10-25%']
+Hunedoara: 25 \ miercuri \ 22:6:2022 \ 19:00:14
+[' Răsarit = 05:38:23 Apus = 21:21:27 Min (°C) = 10.51 Max (°C) =26.14 Presiune = 1011 Umiditate (%) = 30 Index UV = 0.84 Viteza vântului = 4.84 Unghiul vântului = 314 Stare = nori 25-50%']
+Hunedoara: 25 \ joi \ 23:6:2022 \ 19:00:12
+[' Răsarit = 05:38:38 Apus = 21:21:36 Min (°C) = 12.85 Max (°C) =25.33 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.68 Viteza vântului = 1.24 Unghiul vântului = 137 Stare = nori 85-100%']
+Hunedoara: 25 \ duminică \ 26:6:2022 \ 19:40:22
+[' Răsarit = 05:39:36 Apus = 21:21:50 Min (°C) = 17.14 Max (°C) =27.75 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.26 Viteza vântului = 0.78 Unghiul vântului = 66 Stare = nori 50-85%']
+Hunedoara: 26 \ luni \ 27:6:2022 \ 19:00:08
+[' Răsarit = 05:40:00 Apus = 21:21:50 Min (°C) = 13.4 Max (°C) =30.82 Presiune = 1016 Umiditate (%) = 33 Index UV = 0.8 Viteza vântului = 5.03 Unghiul vântului = 74 Stare = cer senin']
+Hunedoara: 26 \ marți \ 28:6:2022 \ 19:00:11
+[' Răsarit = 05:40:25 Apus = 21:21:47 Min (°C) = 15.35 Max (°C) =31.84 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.3 Viteza vântului = 6.32 Unghiul vântului = 64 Stare = nori 50-85%']
+Hunedoara: 26 \ miercuri \ 29:6:2022 \ 19:00:14
+[' Răsarit = 05:40:53 Apus = 21:21:42 Min (°C) = 16.43 Max (°C) =34.68 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.8 Viteza vântului = 2.93 Unghiul vântului = 160 Stare = nori 25-50%']
+Hunedoara: 26 \ joi \ 30:6:2022 \ 19:00:13
+[' Răsarit = 05:41:23 Apus = 21:21:35 Min (°C) = 16.88 Max (°C) =35.94 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.88 Viteza vântului = 0.81 Unghiul vântului = 55 Stare = nori 25-50%']
+Hunedoara: 26 \ vineri \ 01:7:2022 \ 19:00:21
+[' Răsarit = 05:41:55 Apus = 21:21:25 Min (°C) = 19.62 Max (°C) =37.54 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.13 Viteza vântului = 2.16 Unghiul vântului = 115 Stare = nori 50-85%']
+Hunedoara: 26 \ sâmbătă \ 02:7:2022 \ 19:00:15
+[' Răsarit = 05:42:29 Apus = 21:21:12 Min (°C) = 18.6 Max (°C) =35.89 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.7 Viteza vântului = 3.94 Unghiul vântului = 122 Stare = ploaie ușoară']

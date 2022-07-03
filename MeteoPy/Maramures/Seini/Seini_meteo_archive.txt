@@ -952,3 +952,83 @@ Seini: 20 \ vineri \ 20:5:2022 \ 19:13:50
 [' Răsarit = 05:43:31 Apus = 21:03:32 Min (°C) = 9.49 Max (°C) =23.6 Presiune = 1021 Umiditate (%) = 32 Index UV = 0.65 Viteza vântului = 4.12 Unghiul vântului = 250 Stare = cer senin']
 Seini: 20 \ sâmbătă \ 21:5:2022 \ 19:16:02
 [' Răsarit = 05:42:26 Apus = 21:04:45 Min (°C) = 13.43 Max (°C) =26.25 Presiune = 1010 Umiditate (%) = 36 Index UV = 0.68 Viteza vântului = 7.72 Unghiul vântului = 240 Stare = nori 10-25%']
+Seini: 20 \ duminică \ 22:5:2022 \ 19:15:03
+[' Răsarit = 05:41:24 Apus = 21:05:57 Min (°C) = 11.66 Max (°C) =21.25 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.45 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 25-50%']
+Seini: 21 \ luni \ 23:5:2022 \ 19:14:33
+[' Răsarit = 05:40:23 Apus = 21:07:07 Min (°C) = 7.85 Max (°C) =20.25 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.68 Viteza vântului = 3.09 Unghiul vântului = 300 Stare = nori 10-25%']
+Seini: 21 \ marți \ 24:5:2022 \ 19:14:32
+[' Răsarit = 05:39:25 Apus = 21:08:17 Min (°C) = 8.97 Max (°C) =25.25 Presiune = 1010 Umiditate (%) = 29 Index UV = 0.56 Viteza vântului = 2.57 Unghiul vântului = 190 Stare = cer senin']
+Seini: 21 \ miercuri \ 25:5:2022 \ 19:14:35
+[' Răsarit = 05:38:29 Apus = 21:09:25 Min (°C) = 12.41 Max (°C) =26.25 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.54 Viteza vântului = 1.54 Unghiul vântului = 120 Stare = nori 25-50%']
+Seini: 21 \ joi \ 26:5:2022 \ 19:14:26
+[' Răsarit = 05:37:35 Apus = 21:10:32 Min (°C) = 13.29 Max (°C) =25.25 Presiune = 1019 Umiditate (%) = 29 Index UV = 0.53 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = nori 25-50%']
+Seini: 21 \ vineri \ 27:5:2022 \ 19:14:33
+[' Răsarit = 05:36:43 Apus = 21:11:37 Min (°C) = 11.53 Max (°C) =26.25 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.68 Viteza vântului = 4.12 Unghiul vântului = 220 Stare = cer senin']
+Seini: 21 \ sâmbătă \ 28:5:2022 \ 19:15:33
+[' Răsarit = 05:35:54 Apus = 21:12:41 Min (°C) = 11.47 Max (°C) =20.1 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.5 Viteza vântului = 4.63 Unghiul vântului = 250 Stare = nori 50-85%']
+Seini: 21 \ duminică \ 29:5:2022 \ 19:14:16
+[' Răsarit = 05:35:06 Apus = 21:13:44 Min (°C) = 7.92 Max (°C) =18.33 Presiune = 1009 Umiditate (%) = 70 Index UV = 0.14 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 25-50%']
+Seini: 22 \ luni \ 30:5:2022 \ 19:15:06
+[' Răsarit = 05:34:22 Apus = 21:14:45 Min (°C) = 11.64 Max (°C) =20.24 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.31 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 50-85%']
+Seini: 22 \ marți \ 31:5:2022 \ 19:14:55
+[' Răsarit = 05:33:39 Apus = 21:15:44 Min (°C) = 13.31 Max (°C) =23.13 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.54 Viteza vântului = 2.06 Unghiul vântului = 110 Stare = nori 10-25%']
+Seini: 22 \ miercuri \ 01:6:2022 \ 19:14:31
+[' Răsarit = 05:32:59 Apus = 21:16:42 Min (°C) = 13.23 Max (°C) =27.25 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.79 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = nori 10-25%']
+Seini: 22 \ joi \ 02:6:2022 \ 19:13:59
+[' Răsarit = 05:32:21 Apus = 21:17:38 Min (°C) = 15.08 Max (°C) =26.92 Presiune = 1017 Umiditate (%) = 61 Index UV = 0.79 Viteza vântului = 3.09 Unghiul vântului = 90 Stare = nori 25-50%']
+Seini: 22 \ vineri \ 03:6:2022 \ 19:14:19
+[' Răsarit = 05:31:46 Apus = 21:18:32 Min (°C) = 15.69 Max (°C) =29.18 Presiune = 1019 Umiditate (%) = 36 Index UV = 0.88 Viteza vântului = 2.57 Unghiul vântului = 260 Stare = nori 10-25%']
+Seini: 22 \ sâmbătă \ 04:6:2022 \ 19:14:47
+[' Răsarit = 05:31:13 Apus = 21:19:24 Min (°C) = 16.92 Max (°C) =23.74 Presiune = 1015 Umiditate (%) = 89 Index UV = 0.58 Viteza vântului = 1.03 Unghiul vântului = 150 Stare = nori 50-85%']
+Seini: 22 \ duminică \ 05:6:2022 \ 19:14:01
+[' Răsarit = 05:30:43 Apus = 21:20:15 Min (°C) = 14.34 Max (°C) =26.24 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.7 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = nori 10-25%']
+Seini: 23 \ luni \ 06:6:2022 \ 19:14:49
+[' Răsarit = 05:30:15 Apus = 21:21:03 Min (°C) = 12.14 Max (°C) =27.25 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.89 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = nori 25-50%']
+Seini: 23 \ marți \ 07:6:2022 \ 19:13:49
+[' Răsarit = 05:29:50 Apus = 21:21:50 Min (°C) = 15.52 Max (°C) =28.25 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.87 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Seini: 23 \ miercuri \ 08:6:2022 \ 19:14:34
+[' Răsarit = 05:29:27 Apus = 21:22:34 Min (°C) = 16.33 Max (°C) =29.25 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.9 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = nori 10-25%']
+Seini: 23 \ joi \ 09:6:2022 \ 19:14:14
+[' Răsarit = 05:29:06 Apus = 21:23:17 Min (°C) = 15.47 Max (°C) =28.25 Presiune = 1006 Umiditate (%) = 39 Index UV = 0.17 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = nori 10-25%']
+Seini: 23 \ vineri \ 10:6:2022 \ 19:14:17
+[' Răsarit = 05:28:49 Apus = 21:23:57 Min (°C) = 15.33 Max (°C) =28.13 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.51 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Seini: 23 \ sâmbătă \ 11:6:2022 \ 19:14:15
+[' Răsarit = 05:28:33 Apus = 21:24:35 Min (°C) = 15.33 Max (°C) =28.25 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.87 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 10-25%']
+Seini: 23 \ duminică \ 12:6:2022 \ 19:14:05
+[' Răsarit = 05:28:21 Apus = 21:25:11 Min (°C) = 14.72 Max (°C) =26.74 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.88 Viteza vântului = 1.03 Unghiul vântului = 40 Stare = nori 10-25%']
+Seini: 24 \ luni \ 13:6:2022 \ 19:14:09
+[' Răsarit = 05:28:11 Apus = 21:25:45 Min (°C) = 15.48 Max (°C) =29.25 Presiune = 1011 Umiditate (%) = 28 Index UV = 0.43 Viteza vântului = 6.17 Unghiul vântului = 230 Stare = nori 10-25%']
+Seini: 24 \ marți \ 14:6:2022 \ 19:13:45
+[' Răsarit = 05:28:03 Apus = 21:26:16 Min (°C) = 13.06 Max (°C) =23.13 Presiune = 1018 Umiditate (%) = 31 Index UV = 0.66 Viteza vântului = 5.66 Unghiul vântului = 280 Stare = nori 10-25%']
+Seini: 24 \ miercuri \ 15:6:2022 \ 19:13:57
+[' Răsarit = 05:27:58 Apus = 21:26:45 Min (°C) = 11.62 Max (°C) =24.18 Presiune = 1020 Umiditate (%) = 34 Index UV = 0.85 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = nori 10-25%']
+Seini: 24 \ joi \ 16:6:2022 \ 19:14:03
+[' Răsarit = 05:27:56 Apus = 21:27:11 Min (°C) = 12.32 Max (°C) =29.25 Presiune = 1017 Umiditate (%) = 24 Index UV = 0.5 Viteza vântului = 2.58 Unghiul vântului = 134 Stare = nori 10-25%']
+Seini: 24 \ vineri \ 17:6:2022 \ 19:14:25
+[' Răsarit = 05:27:56 Apus = 21:27:36 Min (°C) = 15.62 Max (°C) =26.24 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.83 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = nori 10-25%']
+Seini: 24 \ sâmbătă \ 18:6:2022 \ 19:14:11
+[' Răsarit = 05:27:58 Apus = 21:27:57 Min (°C) = 11.75 Max (°C) =27.25 Presiune = 1019 Umiditate (%) = 29 Index UV = 0.92 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = nori 10-25%']
+Seini: 24 \ duminică \ 19:6:2022 \ 19:12:46
+[' Răsarit = 05:28:04 Apus = 21:28:16 Min (°C) = 14.32 Max (°C) =31.25 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.91 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = cer senin']
+Seini: 25 \ luni \ 20:6:2022 \ 19:13:35
+[' Răsarit = 05:28:11 Apus = 21:28:33 Min (°C) = 16.53 Max (°C) =32.35 Presiune = 1009 Umiditate (%) = 31 Index UV = 0.93 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = cer senin']
+Seini: 25 \ marți \ 21:6:2022 \ 19:14:22
+[' Răsarit = 05:28:22 Apus = 21:28:47 Min (°C) = 17.01 Max (°C) =26.24 Presiune = 1008 Umiditate (%) = 29 Index UV = 0.84 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = cer senin']
+Seini: 25 \ miercuri \ 22:6:2022 \ 19:13:52
+[' Răsarit = 05:28:34 Apus = 21:28:59 Min (°C) = 9.08 Max (°C) =25.35 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.88 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = nori 10-25%']
+Seini: 25 \ joi \ 23:6:2022 \ 19:13:57
+[' Răsarit = 05:28:50 Apus = 21:29:08 Min (°C) = 12.77 Max (°C) =27.41 Presiune = 1013 Umiditate (%) = 28 Index UV = 0.81 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Seini: 25 \ duminică \ 26:6:2022 \ 19:54:42
+[' Răsarit = 05:29:50 Apus = 21:29:20 Min (°C) = 16.12 Max (°C) =30.65 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.3 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = cer senin']
+Seini: 26 \ luni \ 27:6:2022 \ 19:14:12
+[' Răsarit = 05:30:15 Apus = 21:29:18 Min (°C) = 15.51 Max (°C) =31.57 Presiune = 1017 Umiditate (%) = 33 Index UV = 0.81 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = nori 10-25%']
+Seini: 26 \ marți \ 28:6:2022 \ 19:14:26
+[' Răsarit = 05:30:42 Apus = 21:29:14 Min (°C) = 18.51 Max (°C) =33.35 Presiune = 1016 Umiditate (%) = 31 Index UV = 0.76 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 10-25%']
+Seini: 26 \ miercuri \ 29:6:2022 \ 19:14:20
+[' Răsarit = 05:31:11 Apus = 21:29:08 Min (°C) = 21.06 Max (°C) =35.48 Presiune = 1013 Umiditate (%) = 20 Index UV = 0.91 Viteza vântului = 3.6 Unghiul vântului = 120 Stare = cer senin']
+Seini: 26 \ joi \ 30:6:2022 \ 19:14:59
+[' Răsarit = 05:31:43 Apus = 21:28:59 Min (°C) = 19.96 Max (°C) =37.63 Presiune = 1011 Umiditate (%) = 16 Index UV = 0.8 Viteza vântului = 2.06 Unghiul vântului = 140 Stare = nori 10-25%']
+Seini: 26 \ vineri \ 01:7:2022 \ 19:14:30
+[' Răsarit = 05:32:17 Apus = 21:28:47 Min (°C) = 22.2 Max (°C) =37.83 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.33 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = furtună']
+Seini: 26 \ sâmbătă \ 02:7:2022 \ 19:14:19
+[' Răsarit = 05:32:53 Apus = 21:28:33 Min (°C) = 20.82 Max (°C) =34.34 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.69 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 25-50%']

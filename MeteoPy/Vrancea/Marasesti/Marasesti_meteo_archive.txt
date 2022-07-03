@@ -954,3 +954,83 @@ Marasesti: 20 \ vineri \ 20:5:2022 \ 19:22:53
 [' Răsarit = 05:34:16 Apus = 20:41:10 Min (°C) = 11.36 Max (°C) =26.22 Presiune = 1018 Umiditate (%) = 41 Index UV = 0.5 Viteza vântului = 2.36 Unghiul vântului = 198 Stare = nori 25-50%']
 Marasesti: 20 \ sâmbătă \ 21:5:2022 \ 19:25:27
 [' Răsarit = 05:33:17 Apus = 20:42:18 Min (°C) = 14.85 Max (°C) =30.33 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.53 Viteza vântului = 4.13 Unghiul vântului = 293 Stare = nori 50-85%']
+Marasesti: 20 \ duminică \ 22:5:2022 \ 19:24:50
+[' Răsarit = 05:32:19 Apus = 20:43:25 Min (°C) = 15.86 Max (°C) =23.43 Presiune = 1009 Umiditate (%) = 59 Index UV = 0.37 Viteza vântului = 4.81 Unghiul vântului = 16 Stare = nori 85-100%']
+Marasesti: 21 \ luni \ 23:5:2022 \ 19:23:48
+[' Răsarit = 05:31:24 Apus = 20:44:31 Min (°C) = 13.03 Max (°C) =18.03 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.17 Viteza vântului = 4.8 Unghiul vântului = 3 Stare = nori 25-50%']
+Marasesti: 21 \ marți \ 24:5:2022 \ 19:24:03
+[' Răsarit = 05:30:30 Apus = 20:45:35 Min (°C) = 10.55 Max (°C) =20.72 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.53 Viteza vântului = 2.69 Unghiul vântului = 172 Stare = nori 85-100%']
+Marasesti: 21 \ miercuri \ 25:5:2022 \ 19:23:56
+[' Răsarit = 05:29:39 Apus = 20:46:39 Min (°C) = 11.36 Max (°C) =25.72 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.51 Viteza vântului = 7.11 Unghiul vântului = 175 Stare = nori 50-85%']
+Marasesti: 21 \ joi \ 26:5:2022 \ 19:23:57
+[' Răsarit = 05:28:49 Apus = 20:47:41 Min (°C) = 14.01 Max (°C) =21.36 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.49 Viteza vântului = 2.52 Unghiul vântului = 51 Stare = nori 25-50%']
+Marasesti: 21 \ vineri \ 27:5:2022 \ 19:24:21
+[' Răsarit = 05:28:02 Apus = 20:48:42 Min (°C) = 13.95 Max (°C) =27.38 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.56 Viteza vântului = 3.06 Unghiul vântului = 304 Stare = nori 25-50%']
+Marasesti: 21 \ sâmbătă \ 28:5:2022 \ 19:25:20
+[' Răsarit = 05:27:17 Apus = 20:49:41 Min (°C) = 14.23 Max (°C) =24.52 Presiune = 1011 Umiditate (%) = 84 Index UV = 0.18 Viteza vântului = 7.33 Unghiul vântului = 352 Stare = nori 85-100%']
+Marasesti: 21 \ duminică \ 29:5:2022 \ 19:23:39
+[' Răsarit = 05:26:34 Apus = 20:50:40 Min (°C) = 12.29 Max (°C) =19.16 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.26 Viteza vântului = 0.77 Unghiul vântului = 340 Stare = nori 85-100%']
+Marasesti: 22 \ luni \ 30:5:2022 \ 19:24:17
+[' Răsarit = 05:25:53 Apus = 20:51:37 Min (°C) = 13.34 Max (°C) =24.79 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.43 Viteza vântului = 1.58 Unghiul vântului = 295 Stare = nori 25-50%']
+Marasesti: 22 \ marți \ 31:5:2022 \ 19:26:00
+[' Răsarit = 05:25:15 Apus = 20:52:32 Min (°C) = 15.64 Max (°C) =27.32 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.42 Viteza vântului = 5.2 Unghiul vântului = 349 Stare = ploaie ușoară']
+Marasesti: 22 \ miercuri \ 01:6:2022 \ 19:24:05
+[' Răsarit = 05:24:39 Apus = 20:53:26 Min (°C) = 15.84 Max (°C) =28.48 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.57 Viteza vântului = 2.27 Unghiul vântului = 155 Stare = nori 50-85%']
+Marasesti: 22 \ joi \ 02:6:2022 \ 19:23:11
+[' Răsarit = 05:24:05 Apus = 20:54:18 Min (°C) = 17.82 Max (°C) =29.89 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.58 Viteza vântului = 5.33 Unghiul vântului = 279 Stare = nori 25-50%']
+Marasesti: 22 \ vineri \ 03:6:2022 \ 19:23:42
+[' Răsarit = 05:23:33 Apus = 20:55:09 Min (°C) = 18 Max (°C) =26.63 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.64 Viteza vântului = 5.01 Unghiul vântului = 8 Stare = nori 50-85%']
+Marasesti: 22 \ sâmbătă \ 04:6:2022 \ 19:24:14
+[' Răsarit = 05:23:03 Apus = 20:55:58 Min (°C) = 16.79 Max (°C) =28.22 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.61 Viteza vântului = 4.26 Unghiul vântului = 169 Stare = nori 50-85%']
+Marasesti: 22 \ duminică \ 05:6:2022 \ 19:23:08
+[' Răsarit = 05:22:36 Apus = 20:56:45 Min (°C) = 17.73 Max (°C) =26.13 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.36 Viteza vântului = 5.24 Unghiul vântului = 344 Stare = nori 50-85%']
+Marasesti: 23 \ luni \ 06:6:2022 \ 19:24:33
+[' Răsarit = 05:22:11 Apus = 20:57:31 Min (°C) = 16.49 Max (°C) =22.19 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.56 Viteza vântului = 3.8 Unghiul vântului = 6 Stare = nori 85-100%']
+Marasesti: 23 \ marți \ 07:6:2022 \ 19:23:18
+[' Răsarit = 05:21:49 Apus = 20:58:15 Min (°C) = 16.22 Max (°C) =25.52 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.22 Viteza vântului = 2.22 Unghiul vântului = 111 Stare = nori 50-85%']
+Marasesti: 23 \ miercuri \ 08:6:2022 \ 19:23:44
+[' Răsarit = 05:21:29 Apus = 20:58:56 Min (°C) = 16.09 Max (°C) =26.42 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.44 Viteza vântului = 2.16 Unghiul vântului = 165 Stare = nori 85-100%']
+Marasesti: 23 \ joi \ 09:6:2022 \ 19:23:28
+[' Răsarit = 05:21:11 Apus = 20:59:36 Min (°C) = 16.16 Max (°C) =26.72 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.29 Viteza vântului = 2.42 Unghiul vântului = 99 Stare = nori 85-100%']
+Marasesti: 23 \ vineri \ 10:6:2022 \ 19:23:33
+[' Răsarit = 05:20:55 Apus = 21:00:14 Min (°C) = 16.36 Max (°C) =22.29 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.33 Viteza vântului = 5.95 Unghiul vântului = 342 Stare = nori 85-100%']
+Marasesti: 23 \ sâmbătă \ 11:6:2022 \ 19:23:35
+[' Răsarit = 05:20:42 Apus = 21:00:50 Min (°C) = 15.84 Max (°C) =23.01 Presiune = 1012 Umiditate (%) = 85 Index UV = 0.64 Viteza vântului = 1.99 Unghiul vântului = 301 Stare = nori 85-100%']
+Marasesti: 23 \ duminică \ 12:6:2022 \ 19:23:24
+[' Răsarit = 05:20:31 Apus = 21:01:24 Min (°C) = 17.57 Max (°C) =26.15 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.43 Viteza vântului = 7.96 Unghiul vântului = 343 Stare = nori 50-85%']
+Marasesti: 24 \ luni \ 13:6:2022 \ 19:23:07
+[' Răsarit = 05:20:23 Apus = 21:01:56 Min (°C) = 18.13 Max (°C) =28.27 Presiune = 1011 Umiditate (%) = 48 Index UV = 0.64 Viteza vântului = 2.13 Unghiul vântului = 12 Stare = cer senin']
+Marasesti: 24 \ marți \ 14:6:2022 \ 19:22:49
+[' Răsarit = 05:20:17 Apus = 21:02:26 Min (°C) = 18.24 Max (°C) =24.19 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.66 Viteza vântului = 4.69 Unghiul vântului = 349 Stare = nori 85-100%']
+Marasesti: 24 \ miercuri \ 15:6:2022 \ 19:23:07
+[' Răsarit = 05:20:13 Apus = 21:02:53 Min (°C) = 15.44 Max (°C) =23.31 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.62 Viteza vântului = 1.37 Unghiul vântului = 31 Stare = nori 50-85%']
+Marasesti: 24 \ joi \ 16:6:2022 \ 19:23:20
+[' Răsarit = 05:20:12 Apus = 21:03:19 Min (°C) = 14.78 Max (°C) =25.75 Presiune = 1018 Umiditate (%) = 45 Index UV = 0.64 Viteza vântului = 1.85 Unghiul vântului = 169 Stare = nori 50-85%']
+Marasesti: 24 \ vineri \ 17:6:2022 \ 19:23:53
+[' Răsarit = 05:20:13 Apus = 21:03:42 Min (°C) = 15.03 Max (°C) =26.69 Presiune = 1016 Umiditate (%) = 71 Index UV = 0.16 Viteza vântului = 4.24 Unghiul vântului = 4 Stare = nori 50-85%']
+Marasesti: 24 \ sâmbătă \ 18:6:2022 \ 19:23:23
+[' Răsarit = 05:20:17 Apus = 21:04:03 Min (°C) = 16.11 Max (°C) =23.75 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.65 Viteza vântului = 5.52 Unghiul vântului = 7 Stare = nori 25-50%']
+Marasesti: 24 \ duminică \ 19:6:2022 \ 19:22:31
+[' Răsarit = 05:20:22 Apus = 21:04:22 Min (°C) = 14.92 Max (°C) =27.62 Presiune = 1017 Umiditate (%) = 32 Index UV = 0.69 Viteza vântului = 2.42 Unghiul vântului = 90 Stare = cer senin']
+Marasesti: 25 \ luni \ 20:6:2022 \ 19:22:38
+[' Răsarit = 05:20:30 Apus = 21:04:38 Min (°C) = 15.17 Max (°C) =29.18 Presiune = 1009 Umiditate (%) = 34 Index UV = 0.71 Viteza vântului = 4.7 Unghiul vântului = 167 Stare = cer senin']
+Marasesti: 25 \ marți \ 21:6:2022 \ 19:23:46
+[' Răsarit = 05:20:41 Apus = 21:04:52 Min (°C) = 17.47 Max (°C) =34.58 Presiune = 1004 Umiditate (%) = 46 Index UV = 0.7 Viteza vântului = 5.23 Unghiul vântului = 7 Stare = nori 50-85%']
+Marasesti: 25 \ miercuri \ 22:6:2022 \ 19:22:49
+[' Răsarit = 05:20:53 Apus = 21:05:04 Min (°C) = 13.8 Max (°C) =26.39 Presiune = 1008 Umiditate (%) = 40 Index UV = 0.39 Viteza vântului = 3.62 Unghiul vântului = 16 Stare = nori 85-100%']
+Marasesti: 25 \ joi \ 23:6:2022 \ 19:23:07
+[' Răsarit = 05:21:08 Apus = 21:05:13 Min (°C) = 14.84 Max (°C) =24.97 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.62 Viteza vântului = 6.98 Unghiul vântului = 353 Stare = nori 85-100%']
+Marasesti: 25 \ duminică \ 26:6:2022 \ 20:05:22
+[' Răsarit = 05:22:07 Apus = 21:05:27 Min (°C) = 17.4 Max (°C) =27.42 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.09 Viteza vântului = 2.54 Unghiul vântului = 319 Stare = nori 85-100%']
+Marasesti: 26 \ luni \ 27:6:2022 \ 19:23:20
+[' Răsarit = 05:22:30 Apus = 21:05:26 Min (°C) = 16.36 Max (°C) =29.93 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.17 Viteza vântului = 3.4 Unghiul vântului = 67 Stare = nori 85-100%']
+Marasesti: 26 \ marți \ 28:6:2022 \ 19:24:20
+[' Răsarit = 05:22:56 Apus = 21:05:24 Min (°C) = 20.3 Max (°C) =31.59 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.35 Viteza vântului = 4.63 Unghiul vântului = 2 Stare = nori 25-50%']
+Marasesti: 26 \ miercuri \ 29:6:2022 \ 19:23:44
+[' Răsarit = 05:23:24 Apus = 21:05:19 Min (°C) = 19.53 Max (°C) =33.97 Presiune = 1013 Umiditate (%) = 31 Index UV = 0.63 Viteza vântului = 1.79 Unghiul vântului = 343 Stare = nori 25-50%']
+Marasesti: 26 \ joi \ 30:6:2022 \ 19:25:02
+[' Răsarit = 05:23:54 Apus = 21:05:11 Min (°C) = 20.86 Max (°C) =35.37 Presiune = 1011 Umiditate (%) = 27 Index UV = 0.56 Viteza vântului = 3.44 Unghiul vântului = 106 Stare = nori 25-50%']
+Marasesti: 26 \ vineri \ 01:7:2022 \ 19:24:31
+[' Răsarit = 05:24:26 Apus = 21:05:01 Min (°C) = 19.26 Max (°C) =33.58 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.55 Viteza vântului = 5.58 Unghiul vântului = 84 Stare = nori 25-50%']
+Marasesti: 26 \ sâmbătă \ 02:7:2022 \ 19:23:44
+[' Răsarit = 05:25:00 Apus = 21:04:49 Min (°C) = 21.07 Max (°C) =34.51 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.59 Viteza vântului = 2.53 Unghiul vântului = 45 Stare = cer senin']

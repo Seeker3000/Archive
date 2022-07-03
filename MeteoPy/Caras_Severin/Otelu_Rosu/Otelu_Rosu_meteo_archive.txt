@@ -952,3 +952,83 @@ Otelu_Rosu: 20 \ vineri \ 20:5:2022 \ 19:07:05
 [' Răsarit = 05:54:58 Apus = 20:59:28 Min (°C) = 9.85 Max (°C) =24.17 Presiune = 1022 Umiditate (%) = 58 Index UV = 0.71 Viteza vântului = 1.35 Unghiul vântului = 281 Stare = nori 85-100%']
 Otelu_Rosu: 20 \ sâmbătă \ 21:5:2022 \ 19:08:14
 [' Răsarit = 05:54:00 Apus = 21:00:35 Min (°C) = 14.31 Max (°C) =25.6 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.63 Viteza vântului = 2.06 Unghiul vântului = 292 Stare = nori 50-85%']
+Otelu_Rosu: 20 \ duminică \ 22:5:2022 \ 19:07:44
+[' Răsarit = 05:53:03 Apus = 21:01:40 Min (°C) = 12.58 Max (°C) =21 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.69 Viteza vântului = 3.1 Unghiul vântului = 295 Stare = cer senin']
+Otelu_Rosu: 21 \ luni \ 23:5:2022 \ 19:07:26
+[' Răsarit = 05:52:09 Apus = 21:02:45 Min (°C) = 10.43 Max (°C) =21.65 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.65 Viteza vântului = 2.2 Unghiul vântului = 307 Stare = nori 85-100%']
+Otelu_Rosu: 21 \ marți \ 24:5:2022 \ 19:07:35
+[' Răsarit = 05:51:16 Apus = 21:03:49 Min (°C) = 10.54 Max (°C) =24.44 Presiune = 1010 Umiditate (%) = 70 Index UV = 0.64 Viteza vântului = 2.22 Unghiul vântului = 78 Stare = ploaie ușoară']
+Otelu_Rosu: 21 \ miercuri \ 25:5:2022 \ 19:07:16
+[' Răsarit = 05:50:26 Apus = 21:04:51 Min (°C) = 14.49 Max (°C) =28.69 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.72 Viteza vântului = 1.38 Unghiul vântului = 286 Stare = nori 10-25%']
+Otelu_Rosu: 21 \ joi \ 26:5:2022 \ 19:07:21
+[' Răsarit = 05:49:37 Apus = 21:05:53 Min (°C) = 14.79 Max (°C) =22.02 Presiune = 1021 Umiditate (%) = 58 Index UV = 0.78 Viteza vântului = 2.01 Unghiul vântului = 284 Stare = nori 50-85%']
+Otelu_Rosu: 21 \ vineri \ 27:5:2022 \ 19:07:48
+[' Răsarit = 05:48:51 Apus = 21:06:53 Min (°C) = 13.07 Max (°C) =25.42 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.77 Viteza vântului = 1.71 Unghiul vântului = 289 Stare = cer senin']
+Otelu_Rosu: 21 \ sâmbătă \ 28:5:2022 \ 19:08:39
+[' Răsarit = 05:48:06 Apus = 21:07:52 Min (°C) = 12.65 Max (°C) =20.58 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.09 Viteza vântului = 1.73 Unghiul vântului = 38 Stare = nori 85-100%']
+Otelu_Rosu: 21 \ duminică \ 29:5:2022 \ 19:07:25
+[' Răsarit = 05:47:24 Apus = 21:08:49 Min (°C) = 8.55 Max (°C) =19.03 Presiune = 1007 Umiditate (%) = 87 Index UV = 0.51 Viteza vântului = 1.26 Unghiul vântului = 284 Stare = nori 85-100%']
+Otelu_Rosu: 22 \ luni \ 30:5:2022 \ 19:08:02
+[' Răsarit = 05:46:44 Apus = 21:09:45 Min (°C) = 13.68 Max (°C) =22.58 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.81 Viteza vântului = 1.56 Unghiul vântului = 300 Stare = cer senin']
+Otelu_Rosu: 22 \ marți \ 31:5:2022 \ 19:07:34
+[' Răsarit = 05:46:07 Apus = 21:10:40 Min (°C) = 13.05 Max (°C) =23.95 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.83 Viteza vântului = 1.51 Unghiul vântului = 301 Stare = nori 10-25%']
+Otelu_Rosu: 22 \ miercuri \ 01:6:2022 \ 19:07:38
+[' Răsarit = 05:45:31 Apus = 21:11:33 Min (°C) = 13.82 Max (°C) =26.5 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.81 Viteza vântului = 1.23 Unghiul vântului = 311 Stare = nori 50-85%']
+Otelu_Rosu: 22 \ joi \ 02:6:2022 \ 19:07:13
+[' Răsarit = 05:44:58 Apus = 21:12:25 Min (°C) = 14.69 Max (°C) =28.36 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.62 Viteza vântului = 2.87 Unghiul vântului = 280 Stare = nori 10-25%']
+Otelu_Rosu: 22 \ vineri \ 03:6:2022 \ 19:07:28
+[' Răsarit = 05:44:27 Apus = 21:13:15 Min (°C) = 15.84 Max (°C) =28.76 Presiune = 1019 Umiditate (%) = 66 Index UV = 0.92 Viteza vântului = 0.2 Unghiul vântului = 183 Stare = nori 25-50%']
+Otelu_Rosu: 22 \ sâmbătă \ 04:6:2022 \ 19:07:47
+[' Răsarit = 05:43:58 Apus = 21:14:03 Min (°C) = 17.83 Max (°C) =28.9 Presiune = 1016 Umiditate (%) = 97 Index UV = 0.43 Viteza vântului = 1.85 Unghiul vântului = 126 Stare = nori 50-85%']
+Otelu_Rosu: 22 \ duminică \ 05:6:2022 \ 19:07:14
+[' Răsarit = 05:43:31 Apus = 21:14:50 Min (°C) = 16.8 Max (°C) =27.76 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.91 Viteza vântului = 2.01 Unghiul vântului = 295 Stare = nori 10-25%']
+Otelu_Rosu: 23 \ luni \ 06:6:2022 \ 19:07:57
+[' Răsarit = 05:43:07 Apus = 21:15:35 Min (°C) = 13.73 Max (°C) =27.57 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.93 Viteza vântului = 1.3 Unghiul vântului = 58 Stare = nori 10-25%']
+Otelu_Rosu: 23 \ marți \ 07:6:2022 \ 19:07:04
+[' Răsarit = 05:42:45 Apus = 21:16:18 Min (°C) = 15.97 Max (°C) =26.99 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.84 Viteza vântului = 0.9 Unghiul vântului = 224 Stare = nori 50-85%']
+Otelu_Rosu: 23 \ miercuri \ 08:6:2022 \ 19:07:40
+[' Răsarit = 05:42:25 Apus = 21:16:59 Min (°C) = 15.48 Max (°C) =26.75 Presiune = 1009 Umiditate (%) = 81 Index UV = 0.69 Viteza vântului = 0.36 Unghiul vântului = 135 Stare = nori 85-100%']
+Otelu_Rosu: 23 \ joi \ 09:6:2022 \ 19:07:20
+[' Răsarit = 05:42:08 Apus = 21:17:39 Min (°C) = 13.88 Max (°C) =25.58 Presiune = 1006 Umiditate (%) = 75 Index UV = 0.67 Viteza vântului = 1.17 Unghiul vântului = 35 Stare = ploaie ușoară']
+Otelu_Rosu: 23 \ vineri \ 10:6:2022 \ 19:07:25
+[' Răsarit = 05:41:53 Apus = 21:18:16 Min (°C) = 13.76 Max (°C) =25.31 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.44 Viteza vântului = 4.71 Unghiul vântului = 71 Stare = nori 10-25%']
+Otelu_Rosu: 23 \ sâmbătă \ 11:6:2022 \ 19:07:20
+[' Răsarit = 05:41:40 Apus = 21:18:52 Min (°C) = 13.91 Max (°C) =25.68 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.42 Viteza vântului = 2.3 Unghiul vântului = 71 Stare = nori 50-85%']
+Otelu_Rosu: 23 \ duminică \ 12:6:2022 \ 19:07:16
+[' Răsarit = 05:41:30 Apus = 21:19:25 Min (°C) = 14.9 Max (°C) =26.29 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.54 Viteza vântului = 2.12 Unghiul vântului = 42 Stare = ploaie ușoară']
+Otelu_Rosu: 24 \ luni \ 13:6:2022 \ 19:07:30
+[' Răsarit = 05:41:22 Apus = 21:19:57 Min (°C) = 14.93 Max (°C) =26.66 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.96 Viteza vântului = 2.25 Unghiul vântului = 297 Stare = nori 25-50%']
+Otelu_Rosu: 24 \ marți \ 14:6:2022 \ 19:07:08
+[' Răsarit = 05:41:16 Apus = 21:20:26 Min (°C) = 14.14 Max (°C) =23.5 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.84 Viteza vântului = 2.89 Unghiul vântului = 323 Stare = nori 50-85%']
+Otelu_Rosu: 24 \ miercuri \ 15:6:2022 \ 19:07:09
+[' Răsarit = 05:41:13 Apus = 21:20:54 Min (°C) = 11.93 Max (°C) =24.74 Presiune = 1019 Umiditate (%) = 41 Index UV = 0.9 Viteza vântului = 2.32 Unghiul vântului = 305 Stare = cer senin']
+Otelu_Rosu: 24 \ joi \ 16:6:2022 \ 19:07:12
+[' Răsarit = 05:41:12 Apus = 21:21:19 Min (°C) = 13.3 Max (°C) =26.49 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.89 Viteza vântului = 1.42 Unghiul vântului = 322 Stare = nori 10-25%']
+Otelu_Rosu: 24 \ vineri \ 17:6:2022 \ 19:07:29
+[' Răsarit = 05:41:13 Apus = 21:21:42 Min (°C) = 16.16 Max (°C) =24.02 Presiune = 1018 Umiditate (%) = 77 Index UV = 0.74 Viteza vântului = 1.26 Unghiul vântului = 67 Stare = nori 85-100%']
+Otelu_Rosu: 24 \ sâmbătă \ 18:6:2022 \ 19:07:14
+[' Răsarit = 05:41:17 Apus = 21:22:03 Min (°C) = 13.31 Max (°C) =26.24 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.95 Viteza vântului = 1.33 Unghiul vântului = 33 Stare = nori 50-85%']
+Otelu_Rosu: 24 \ duminică \ 19:6:2022 \ 19:06:41
+[' Răsarit = 05:41:23 Apus = 21:22:21 Min (°C) = 14.73 Max (°C) =29 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.94 Viteza vântului = 0.47 Unghiul vântului = 248 Stare = nori 50-85%']
+Otelu_Rosu: 25 \ luni \ 20:6:2022 \ 19:06:59
+[' Răsarit = 05:41:31 Apus = 21:22:37 Min (°C) = 16.53 Max (°C) =30.42 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.92 Viteza vântului = 1.35 Unghiul vântului = 314 Stare = nori 10-25%']
+Otelu_Rosu: 25 \ marți \ 21:6:2022 \ 19:07:32
+[' Răsarit = 05:41:41 Apus = 21:22:51 Min (°C) = 18.57 Max (°C) =28.04 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.96 Viteza vântului = 4.24 Unghiul vântului = 314 Stare = ploaie ușoară']
+Otelu_Rosu: 25 \ miercuri \ 22:6:2022 \ 19:07:12
+[' Răsarit = 05:41:54 Apus = 21:23:03 Min (°C) = 13.07 Max (°C) =25.45 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.93 Viteza vântului = 1.67 Unghiul vântului = 344 Stare = nori 25-50%']
+Otelu_Rosu: 25 \ joi \ 23:6:2022 \ 19:07:11
+[' Răsarit = 05:42:09 Apus = 21:23:12 Min (°C) = 13.37 Max (°C) =24.58 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.85 Viteza vântului = 2.3 Unghiul vântului = 316 Stare = nori 85-100%']
+Otelu_Rosu: 25 \ duminică \ 26:6:2022 \ 19:47:38
+[' Răsarit = 05:43:07 Apus = 21:23:26 Min (°C) = 16.73 Max (°C) =25.68 Presiune = 1017 Umiditate (%) = 91 Index UV = 0.04 Viteza vântului = 2.1 Unghiul vântului = 64 Stare = ploaie ușoară']
+Otelu_Rosu: 26 \ luni \ 27:6:2022 \ 19:07:22
+[' Răsarit = 05:43:30 Apus = 21:23:26 Min (°C) = 15.82 Max (°C) =31.03 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.96 Viteza vântului = 3.02 Unghiul vântului = 59 Stare = nori 10-25%']
+Otelu_Rosu: 26 \ marți \ 28:6:2022 \ 19:07:22
+[' Răsarit = 05:43:56 Apus = 21:23:24 Min (°C) = 18.85 Max (°C) =31.66 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.91 Viteza vântului = 3.5 Unghiul vântului = 58 Stare = nori 25-50%']
+Otelu_Rosu: 26 \ miercuri \ 29:6:2022 \ 19:07:25
+[' Răsarit = 05:44:24 Apus = 21:23:19 Min (°C) = 19.04 Max (°C) =33.7 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.97 Viteza vântului = 2.32 Unghiul vântului = 138 Stare = nori 10-25%']
+Otelu_Rosu: 26 \ joi \ 30:6:2022 \ 19:07:44
+[' Răsarit = 05:44:53 Apus = 21:23:12 Min (°C) = 19.48 Max (°C) =35.08 Presiune = 1011 Umiditate (%) = 33 Index UV = 0.94 Viteza vântului = 1.5 Unghiul vântului = 195 Stare = ploaie ușoară']
+Otelu_Rosu: 26 \ vineri \ 01:7:2022 \ 19:07:32
+[' Răsarit = 05:45:25 Apus = 21:23:02 Min (°C) = 20.87 Max (°C) =36.62 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.69 Viteza vântului = 1.75 Unghiul vântului = 95 Stare = nori 50-85%']
+Otelu_Rosu: 26 \ sâmbătă \ 02:7:2022 \ 19:07:24
+[' Răsarit = 05:45:59 Apus = 21:22:50 Min (°C) = 21.74 Max (°C) =34.25 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.93 Viteza vântului = 2.09 Unghiul vântului = 45 Stare = nori 50-85%']

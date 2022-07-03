@@ -952,3 +952,83 @@ Buftea: 20 \ vineri \ 20:5:2022 \ 19:12:53
 [' Răsarit = 05:43:44 Apus = 20:41:59 Min (°C) = 11.76 Max (°C) =25.92 Presiune = 1020 Umiditate (%) = 27 Index UV = 0.55 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
 Buftea: 20 \ sâmbătă \ 21:5:2022 \ 19:14:48
 [' Răsarit = 05:42:47 Apus = 20:43:04 Min (°C) = 14.01 Max (°C) =28.87 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.49 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Buftea: 20 \ duminică \ 22:5:2022 \ 19:14:02
+[' Răsarit = 05:41:53 Apus = 20:44:07 Min (°C) = 17.36 Max (°C) =25.84 Presiune = 1007 Umiditate (%) = 25 Index UV = 0.54 Viteza vântului = 5.14 Unghiul vântului = 30 Stare = cer senin']
+Buftea: 21 \ luni \ 23:5:2022 \ 19:13:35
+[' Răsarit = 05:41:01 Apus = 20:45:10 Min (°C) = 14.97 Max (°C) =20.68 Presiune = 1009 Umiditate (%) = 42 Index UV = 0.26 Viteza vântului = 7.2 Unghiul vântului = 60 Stare = nori 10-25%']
+Buftea: 21 \ marți \ 24:5:2022 \ 19:13:34
+[' Răsarit = 05:40:11 Apus = 20:46:11 Min (°C) = 13.26 Max (°C) =21.96 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.19 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = ploaie ușoară']
+Buftea: 21 \ miercuri \ 25:5:2022 \ 19:13:28
+[' Răsarit = 05:39:22 Apus = 20:47:11 Min (°C) = 12.8 Max (°C) =26.98 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.61 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Buftea: 21 \ joi \ 26:5:2022 \ 19:13:26
+[' Răsarit = 05:38:36 Apus = 20:48:11 Min (°C) = 16.56 Max (°C) =29.97 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.6 Viteza vântului = 4.63 Unghiul vântului = 70 Stare = nori 10-25%']
+Buftea: 21 \ vineri \ 27:5:2022 \ 19:13:35
+[' Răsarit = 05:37:52 Apus = 20:49:09 Min (°C) = 16.88 Max (°C) =27.51 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.41 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Buftea: 21 \ sâmbătă \ 28:5:2022 \ 19:14:35
+[' Răsarit = 05:37:10 Apus = 20:50:06 Min (°C) = 17.07 Max (°C) =27.28 Presiune = 1009 Umiditate (%) = 94 Index UV = 0.23 Viteza vântului = 5.66 Unghiul vântului = 270 Stare = nori 25-50%']
+Buftea: 21 \ duminică \ 29:5:2022 \ 19:13:19
+[' Răsarit = 05:36:29 Apus = 20:51:01 Min (°C) = 15.42 Max (°C) =21.93 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.5 Viteza vântului = 9.26 Unghiul vântului = 70 Stare = ploaie ușoară']
+Buftea: 22 \ luni \ 30:5:2022 \ 19:14:09
+[' Răsarit = 05:35:51 Apus = 20:51:55 Min (°C) = 13.97 Max (°C) =24.94 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.64 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 10-25%']
+Buftea: 22 \ marți \ 31:5:2022 \ 19:13:03
+[' Răsarit = 05:35:15 Apus = 20:52:48 Min (°C) = 16.82 Max (°C) =27.9 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = ploaie moderată']
+Buftea: 22 \ miercuri \ 01:6:2022 \ 19:13:34
+[' Răsarit = 05:34:41 Apus = 20:53:40 Min (°C) = 16.58 Max (°C) =28.95 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.56 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Buftea: 22 \ joi \ 02:6:2022 \ 19:13:03
+[' Răsarit = 05:34:10 Apus = 20:54:30 Min (°C) = 18.34 Max (°C) =30.75 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.55 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Buftea: 22 \ vineri \ 03:6:2022 \ 19:13:21
+[' Răsarit = 05:33:40 Apus = 20:55:18 Min (°C) = 19.79 Max (°C) =29.15 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.23 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = cer senin']
+Buftea: 22 \ sâmbătă \ 04:6:2022 \ 19:13:49
+[' Răsarit = 05:33:13 Apus = 20:56:05 Min (°C) = 18.77 Max (°C) =29.52 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.63 Viteza vântului = 2.57 Unghiul vântului = 260 Stare = cer senin']
+Buftea: 22 \ duminică \ 05:6:2022 \ 19:13:04
+[' Răsarit = 05:32:48 Apus = 20:56:50 Min (°C) = 20.26 Max (°C) =29.91 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.67 Viteza vântului = 8.23 Unghiul vântului = 70 Stare = nori 10-25%']
+Buftea: 23 \ luni \ 06:6:2022 \ 19:13:46
+[' Răsarit = 05:32:25 Apus = 20:57:34 Min (°C) = 16.39 Max (°C) =25.49 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.25 Viteza vântului = 7.2 Unghiul vântului = 80 Stare = cer senin']
+Buftea: 23 \ marți \ 07:6:2022 \ 19:12:53
+[' Răsarit = 05:32:04 Apus = 20:58:16 Min (°C) = 16.69 Max (°C) =25.2 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.71 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Buftea: 23 \ miercuri \ 08:6:2022 \ 19:13:37
+[' Răsarit = 05:31:46 Apus = 20:58:56 Min (°C) = 15.98 Max (°C) =25.23 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.71 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = nori 10-25%']
+Buftea: 23 \ joi \ 09:6:2022 \ 19:13:17
+[' Răsarit = 05:31:30 Apus = 20:59:34 Min (°C) = 16.62 Max (°C) =23.49 Presiune = 1007 Umiditate (%) = 83 Index UV = 0.59 Viteza vântului = 4.63 Unghiul vântului = 40 Stare = furtună cu ploaie']
+Buftea: 23 \ vineri \ 10:6:2022 \ 19:13:19
+[' Răsarit = 05:31:16 Apus = 21:00:11 Min (°C) = 15.69 Max (°C) =24.84 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.71 Viteza vântului = 8.75 Unghiul vântului = 60 Stare = ploaie torențială \n de intensitate mică']
+Buftea: 23 \ sâmbătă \ 11:6:2022 \ 19:13:18
+[' Răsarit = 05:31:04 Apus = 21:00:45 Min (°C) = 16.53 Max (°C) =20.29 Presiune = 1012 Umiditate (%) = 88 Index UV = 0.24 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 25-50%']
+Buftea: 23 \ duminică \ 12:6:2022 \ 19:13:05
+[' Răsarit = 05:30:54 Apus = 21:01:18 Min (°C) = 17.11 Max (°C) =26.3 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.69 Viteza vântului = 4.12 Unghiul vântului = 70 Stare = cer senin']
+Buftea: 24 \ luni \ 13:6:2022 \ 19:13:14
+[' Răsarit = 05:30:47 Apus = 21:01:49 Min (°C) = 17.82 Max (°C) =29.14 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.67 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Buftea: 24 \ marți \ 14:6:2022 \ 19:12:49
+[' Răsarit = 05:30:42 Apus = 21:02:17 Min (°C) = 18.05 Max (°C) =27.73 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = ploaie torențială \n de intensitate mică']
+Buftea: 24 \ miercuri \ 15:6:2022 \ 19:13:00
+[' Răsarit = 05:30:39 Apus = 21:02:44 Min (°C) = 16.26 Max (°C) =24.3 Presiune = 1019 Umiditate (%) = 42 Index UV = 0.7 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = cer senin']
+Buftea: 24 \ joi \ 16:6:2022 \ 19:13:06
+[' Răsarit = 05:30:39 Apus = 21:03:09 Min (°C) = 16.94 Max (°C) =26 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.55 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = nori 25-50%']
+Buftea: 24 \ vineri \ 17:6:2022 \ 19:13:28
+[' Răsarit = 05:30:41 Apus = 21:03:31 Min (°C) = 18.02 Max (°C) =28.39 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.28 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = cer senin']
+Buftea: 24 \ sâmbătă \ 18:6:2022 \ 19:13:14
+[' Răsarit = 05:30:44 Apus = 21:03:52 Min (°C) = 17.93 Max (°C) =24.81 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.68 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 10-25%']
+Buftea: 24 \ duminică \ 19:6:2022 \ 19:11:54
+[' Răsarit = 05:30:51 Apus = 21:04:10 Min (°C) = 16.21 Max (°C) =28.45 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.68 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Buftea: 25 \ luni \ 20:6:2022 \ 19:12:39
+[' Răsarit = 05:30:59 Apus = 21:04:26 Min (°C) = 18.68 Max (°C) =28.26 Presiune = 1010 Umiditate (%) = 42 Index UV = 0.61 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = cer senin']
+Buftea: 25 \ marți \ 21:6:2022 \ 19:13:26
+[' Răsarit = 05:31:09 Apus = 21:04:40 Min (°C) = 18.95 Max (°C) =34.02 Presiune = 1004 Umiditate (%) = 26 Index UV = 0.76 Viteza vântului = 9.26 Unghiul vântului = 300 Stare = nori 10-25%']
+Buftea: 25 \ miercuri \ 22:6:2022 \ 19:12:57
+[' Răsarit = 05:31:22 Apus = 21:04:52 Min (°C) = 17.17 Max (°C) =28.41 Presiune = 1008 Umiditate (%) = 32 Index UV = 0.67 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Buftea: 25 \ joi \ 23:6:2022 \ 19:13:00
+[' Răsarit = 05:31:37 Apus = 21:05:01 Min (°C) = 16.78 Max (°C) =26.91 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.54 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Buftea: 25 \ duminică \ 26:6:2022 \ 19:53:41
+[' Răsarit = 05:32:34 Apus = 21:05:16 Min (°C) = 19.27 Max (°C) =28.12 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.11 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = cer senin']
+Buftea: 26 \ luni \ 27:6:2022 \ 19:13:15
+[' Răsarit = 05:32:57 Apus = 21:05:17 Min (°C) = 17.71 Max (°C) =28.83 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.61 Viteza vântului = 6.17 Unghiul vântului = 80 Stare = ploaie torențială \n de intensitate mică']
+Buftea: 26 \ marți \ 28:6:2022 \ 19:13:28
+[' Răsarit = 05:33:22 Apus = 21:05:15 Min (°C) = 19.97 Max (°C) =29.05 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.68 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = cer senin']
+Buftea: 26 \ miercuri \ 29:6:2022 \ 19:13:22
+[' Răsarit = 05:33:49 Apus = 21:05:11 Min (°C) = 19.67 Max (°C) =33.81 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.64 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = furtună']
+Buftea: 26 \ joi \ 30:6:2022 \ 19:14:00
+[' Răsarit = 05:34:18 Apus = 21:05:04 Min (°C) = 21.61 Max (°C) =35.73 Presiune = 1012 Umiditate (%) = 26 Index UV = 0.74 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = cer senin']
+Buftea: 26 \ vineri \ 01:7:2022 \ 19:13:31
+[' Răsarit = 05:34:49 Apus = 21:04:55 Min (°C) = 20.92 Max (°C) =34.75 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.59 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Buftea: 26 \ sâmbătă \ 02:7:2022 \ 19:13:22
+[' Răsarit = 05:35:21 Apus = 21:04:44 Min (°C) = 21.94 Max (°C) =34.85 Presiune = 1016 Umiditate (%) = 35 Index UV = 0.73 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = cer senin']

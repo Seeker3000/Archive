@@ -954,3 +954,83 @@ Avrig: 20 \ vineri \ 20:5:2022 \ 19:18:16
 [' Răsarit = 05:46:13 Apus = 20:52:01 Min (°C) = 8.41 Max (°C) =25.36 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.6 Viteza vântului = 0.63 Unghiul vântului = 333 Stare = cer senin']
 Avrig: 20 \ sâmbătă \ 21:5:2022 \ 19:20:38
 [' Răsarit = 05:45:14 Apus = 20:53:09 Min (°C) = 12.46 Max (°C) =25.5 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.63 Viteza vântului = 4.51 Unghiul vântului = 294 Stare = nori 50-85%']
+Avrig: 20 \ duminică \ 22:5:2022 \ 19:19:52
+[' Răsarit = 05:44:17 Apus = 20:54:15 Min (°C) = 12.16 Max (°C) =18.36 Presiune = 1011 Umiditate (%) = 74 Index UV = 0.56 Viteza vântului = 0.31 Unghiul vântului = 286 Stare = nori 85-100%']
+Avrig: 21 \ luni \ 23:5:2022 \ 19:19:07
+[' Răsarit = 05:43:22 Apus = 20:55:20 Min (°C) = 11.38 Max (°C) =19.23 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.17 Viteza vântului = 1.4 Unghiul vântului = 327 Stare = nori 85-100%']
+Avrig: 21 \ marți \ 24:5:2022 \ 19:19:08
+[' Răsarit = 05:42:29 Apus = 20:56:24 Min (°C) = 9.16 Max (°C) =19.47 Presiune = 1013 Umiditate (%) = 92 Index UV = 0.29 Viteza vântului = 1.77 Unghiul vântului = 192 Stare = nori 85-100%']
+Avrig: 21 \ miercuri \ 25:5:2022 \ 19:19:11
+[' Răsarit = 05:41:38 Apus = 20:57:27 Min (°C) = 11.14 Max (°C) =27.36 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.67 Viteza vântului = 2.94 Unghiul vântului = 189 Stare = nori 50-85%']
+Avrig: 21 \ joi \ 26:5:2022 \ 19:19:09
+[' Răsarit = 05:40:49 Apus = 20:58:29 Min (°C) = 15.06 Max (°C) =22.56 Presiune = 1020 Umiditate (%) = 72 Index UV = 0.64 Viteza vântului = 1.47 Unghiul vântului = 34 Stare = nori 85-100%']
+Avrig: 21 \ vineri \ 27:5:2022 \ 19:19:06
+[' Răsarit = 05:40:02 Apus = 20:59:30 Min (°C) = 12.13 Max (°C) =24.23 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.68 Viteza vântului = 0.23 Unghiul vântului = 290 Stare = nori 10-25%']
+Avrig: 21 \ sâmbătă \ 28:5:2022 \ 19:20:22
+[' Răsarit = 05:39:18 Apus = 21:00:29 Min (°C) = 12.84 Max (°C) =22.08 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.05 Viteza vântului = 2.07 Unghiul vântului = 53 Stare = nori 85-100%']
+Avrig: 21 \ duminică \ 29:5:2022 \ 19:18:45
+[' Răsarit = 05:38:35 Apus = 21:01:27 Min (°C) = 11.18 Max (°C) =18.66 Presiune = 1007 Umiditate (%) = 79 Index UV = 0.64 Viteza vântului = 1.33 Unghiul vântului = 248 Stare = nori 50-85%']
+Avrig: 22 \ luni \ 30:5:2022 \ 19:19:35
+[' Răsarit = 05:37:55 Apus = 21:02:24 Min (°C) = 13.87 Max (°C) =21.61 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.72 Viteza vântului = 2.09 Unghiul vântului = 7 Stare = nori 10-25%']
+Avrig: 22 \ marți \ 31:5:2022 \ 19:21:14
+[' Răsarit = 05:37:16 Apus = 21:03:19 Min (°C) = 13.08 Max (°C) =22.74 Presiune = 1017 Umiditate (%) = 93 Index UV = 0.73 Viteza vântului = 2.7 Unghiul vântului = 83 Stare = nori 85-100%']
+Avrig: 22 \ miercuri \ 01:6:2022 \ 19:19:02
+[' Răsarit = 05:36:40 Apus = 21:04:12 Min (°C) = 12.7 Max (°C) =24.53 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.67 Viteza vântului = 1.44 Unghiul vântului = 201 Stare = nori 85-100%']
+Avrig: 22 \ joi \ 02:6:2022 \ 19:18:28
+[' Răsarit = 05:36:07 Apus = 21:05:04 Min (°C) = 14.37 Max (°C) =26.45 Presiune = 1017 Umiditate (%) = 76 Index UV = 0.7 Viteza vântului = 1.42 Unghiul vântului = 156 Stare = nori 50-85%']
+Avrig: 22 \ vineri \ 03:6:2022 \ 19:18:56
+[' Răsarit = 05:35:35 Apus = 21:05:55 Min (°C) = 15.67 Max (°C) =24.96 Presiune = 1020 Umiditate (%) = 70 Index UV = 0.79 Viteza vântului = 0.35 Unghiul vântului = 73 Stare = nori 50-85%']
+Avrig: 22 \ sâmbătă \ 04:6:2022 \ 19:19:28
+[' Răsarit = 05:35:06 Apus = 21:06:43 Min (°C) = 15.46 Max (°C) =25.34 Presiune = 1016 Umiditate (%) = 81 Index UV = 0.37 Viteza vântului = 0.92 Unghiul vântului = 168 Stare = nori 50-85%']
+Avrig: 22 \ duminică \ 05:6:2022 \ 19:18:28
+[' Răsarit = 05:34:39 Apus = 21:07:30 Min (°C) = 15.69 Max (°C) =23.75 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.8 Viteza vântului = 1.89 Unghiul vântului = 342 Stare = nori 10-25%']
+Avrig: 23 \ luni \ 06:6:2022 \ 19:19:34
+[' Răsarit = 05:34:15 Apus = 21:08:16 Min (°C) = 12.88 Max (°C) =23.3 Presiune = 1015 Umiditate (%) = 67 Index UV = 0.8 Viteza vântului = 3.48 Unghiul vântului = 69 Stare = cer senin']
+Avrig: 23 \ marți \ 07:6:2022 \ 19:18:26
+[' Răsarit = 05:33:52 Apus = 21:08:59 Min (°C) = 12.42 Max (°C) =25.34 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.81 Viteza vântului = 0.75 Unghiul vântului = 102 Stare = nori 10-25%']
+Avrig: 23 \ miercuri \ 08:6:2022 \ 19:19:02
+[' Răsarit = 05:33:32 Apus = 21:09:41 Min (°C) = 12.76 Max (°C) =24.2 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.52 Viteza vântului = 3.07 Unghiul vântului = 174 Stare = ploaie ușoară']
+Avrig: 23 \ joi \ 09:6:2022 \ 19:18:45
+[' Răsarit = 05:33:15 Apus = 21:10:20 Min (°C) = 13.81 Max (°C) =21.7 Presiune = 1007 Umiditate (%) = 71 Index UV = 0.79 Viteza vântului = 1.88 Unghiul vântului = 113 Stare = ploaie ușoară']
+Avrig: 23 \ vineri \ 10:6:2022 \ 19:18:49
+[' Răsarit = 05:32:59 Apus = 21:10:58 Min (°C) = 12.51 Max (°C) =22.36 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.77 Viteza vântului = 3.8 Unghiul vântului = 59 Stare = nori 25-50%']
+Avrig: 23 \ sâmbătă \ 11:6:2022 \ 19:18:50
+[' Răsarit = 05:32:47 Apus = 21:11:34 Min (°C) = 12.9 Max (°C) =21.28 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.77 Viteza vântului = 0.79 Unghiul vântului = 3 Stare = nori 85-100%']
+Avrig: 23 \ duminică \ 12:6:2022 \ 19:18:43
+[' Răsarit = 05:32:36 Apus = 21:12:08 Min (°C) = 14.15 Max (°C) =21.67 Presiune = 1014 Umiditate (%) = 17 Index UV = 0.67 Viteza vântului = 1.03 Unghiul vântului = 281 Stare = nori 85-100%']
+Avrig: 24 \ luni \ 13:6:2022 \ 19:18:31
+[' Răsarit = 05:32:28 Apus = 21:12:39 Min (°C) = 13.86 Max (°C) =24.52 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.71 Viteza vântului = 2.94 Unghiul vântului = 209 Stare = nori 10-25%']
+Avrig: 24 \ marți \ 14:6:2022 \ 19:18:13
+[' Răsarit = 05:32:22 Apus = 21:13:09 Min (°C) = 15.3 Max (°C) =21.41 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.8 Viteza vântului = 1.6 Unghiul vântului = 307 Stare = nori 50-85%']
+Avrig: 24 \ miercuri \ 15:6:2022 \ 19:18:26
+[' Răsarit = 05:32:18 Apus = 21:13:36 Min (°C) = 11.37 Max (°C) =22.56 Presiune = 1020 Umiditate (%) = 67 Index UV = 0.75 Viteza vântului = 2.66 Unghiul vântului = 19 Stare = nori 10-25%']
+Avrig: 24 \ joi \ 16:6:2022 \ 19:18:36
+[' Răsarit = 05:32:17 Apus = 21:14:02 Min (°C) = 12.25 Max (°C) =24.57 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.79 Viteza vântului = 0.58 Unghiul vântului = 336 Stare = nori 25-50%']
+Avrig: 24 \ vineri \ 17:6:2022 \ 19:19:02
+[' Răsarit = 05:32:18 Apus = 21:14:25 Min (°C) = 14.18 Max (°C) =22.33 Presiune = 1018 Umiditate (%) = 81 Index UV = 0.51 Viteza vântului = 2.25 Unghiul vântului = 240 Stare = nori 85-100%']
+Avrig: 24 \ sâmbătă \ 18:6:2022 \ 19:18:41
+[' Răsarit = 05:32:22 Apus = 21:14:46 Min (°C) = 12.3 Max (°C) =23.12 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.82 Viteza vântului = 0.76 Unghiul vântului = 296 Stare = cer senin']
+Avrig: 24 \ duminică \ 19:6:2022 \ 19:17:22
+[' Răsarit = 05:32:28 Apus = 21:15:04 Min (°C) = 12.56 Max (°C) =26.45 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.83 Viteza vântului = 0.64 Unghiul vântului = 60 Stare = cer senin']
+Avrig: 25 \ luni \ 20:6:2022 \ 19:18:03
+[' Răsarit = 05:32:36 Apus = 21:15:21 Min (°C) = 14.59 Max (°C) =28.12 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.83 Viteza vântului = 1.2 Unghiul vântului = 241 Stare = cer senin']
+Avrig: 25 \ marți \ 21:6:2022 \ 19:18:51
+[' Răsarit = 05:32:46 Apus = 21:15:35 Min (°C) = 18.06 Max (°C) =27.28 Presiune = 1009 Umiditate (%) = 47 Index UV = 0.84 Viteza vântului = 5.23 Unghiul vântului = 284 Stare = nori 10-25%']
+Avrig: 25 \ miercuri \ 22:6:2022 \ 19:18:15
+[' Răsarit = 05:32:59 Apus = 21:15:46 Min (°C) = 11.57 Max (°C) =23.12 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.82 Viteza vântului = 1.82 Unghiul vântului = 346 Stare = nori 50-85%']
+Avrig: 25 \ joi \ 23:6:2022 \ 19:18:26
+[' Răsarit = 05:33:14 Apus = 21:15:56 Min (°C) = 13.5 Max (°C) =24.23 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.73 Viteza vântului = 2.27 Unghiul vântului = 275 Stare = nori 25-50%']
+Avrig: 25 \ duminică \ 26:6:2022 \ 19:59:44
+[' Răsarit = 05:34:12 Apus = 21:16:09 Min (°C) = 16.09 Max (°C) =24.18 Presiune = 1018 Umiditate (%) = 95 Index UV = 0.04 Viteza vântului = 1.79 Unghiul vântului = 170 Stare = nori 50-85%']
+Avrig: 26 \ luni \ 27:6:2022 \ 19:18:41
+[' Răsarit = 05:34:36 Apus = 21:16:09 Min (°C) = 13.14 Max (°C) =27.56 Presiune = 1017 Umiditate (%) = 60 Index UV = 0.7 Viteza vântului = 0.92 Unghiul vântului = 128 Stare = cer senin']
+Avrig: 26 \ marți \ 28:6:2022 \ 19:19:06
+[' Răsarit = 05:35:01 Apus = 21:16:07 Min (°C) = 16 Max (°C) =28.12 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.83 Viteza vântului = 1.98 Unghiul vântului = 66 Stare = nori 50-85%']
+Avrig: 26 \ miercuri \ 29:6:2022 \ 19:18:56
+[' Răsarit = 05:35:29 Apus = 21:16:02 Min (°C) = 16.85 Max (°C) =31.45 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.78 Viteza vântului = 1.27 Unghiul vântului = 110 Stare = nori 25-50%']
+Avrig: 26 \ joi \ 30:6:2022 \ 19:20:00
+[' Răsarit = 05:35:59 Apus = 21:15:54 Min (°C) = 18.25 Max (°C) =31.53 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.83 Viteza vântului = 1.8 Unghiul vântului = 197 Stare = cer senin']
+Avrig: 26 \ vineri \ 01:7:2022 \ 19:19:20
+[' Răsarit = 05:36:31 Apus = 21:15:45 Min (°C) = 18.59 Max (°C) =31.01 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.56 Viteza vântului = 3.29 Unghiul vântului = 62 Stare = nori 10-25%']
+Avrig: 26 \ sâmbătă \ 02:7:2022 \ 19:18:55
+[' Răsarit = 05:37:05 Apus = 21:15:32 Min (°C) = 18.47 Max (°C) =29.47 Presiune = 1017 Umiditate (%) = 50 Index UV = 0.63 Viteza vântului = 2.28 Unghiul vântului = 297 Stare = cer senin']

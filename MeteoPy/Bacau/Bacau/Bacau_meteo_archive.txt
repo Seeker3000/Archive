@@ -950,3 +950,83 @@ Bacau: 20 \ vineri \ 20:5:2022 \ 19:03:10
 [' Răsarit = 05:36:30 Apus = 20:48:05 Min (°C) = 6.49 Max (°C) =22.15 Presiune = 1020 Umiditate (%) = 44 Index UV = 0.33 Viteza vântului = 3.24 Unghiul vântului = 269 Stare = nori 25-50%']
 Bacau: 20 \ sâmbătă \ 21:5:2022 \ 19:03:41
 [' Răsarit = 05:35:29 Apus = 20:49:15 Min (°C) = 9.62 Max (°C) =23.6 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.58 Viteza vântului = 4.86 Unghiul vântului = 280 Stare = nori 85-100%']
+Bacau: 20 \ duminică \ 22:5:2022 \ 19:03:25
+[' Răsarit = 05:34:30 Apus = 20:50:23 Min (°C) = 9.52 Max (°C) =18.33 Presiune = 1009 Umiditate (%) = 58 Index UV = 0.27 Viteza vântului = 3.1 Unghiul vântului = 300 Stare = nori 85-100%']
+Bacau: 21 \ luni \ 23:5:2022 \ 19:03:16
+[' Răsarit = 05:33:32 Apus = 20:51:31 Min (°C) = 6.28 Max (°C) =13.7 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.11 Viteza vântului = 1.34 Unghiul vântului = 82 Stare = nori 85-100%']
+Bacau: 21 \ marți \ 24:5:2022 \ 19:03:27
+[' Răsarit = 05:32:37 Apus = 20:52:37 Min (°C) = 5.9 Max (°C) =17.99 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.48 Viteza vântului = 1.57 Unghiul vântului = 97 Stare = nori 85-100%']
+Bacau: 21 \ miercuri \ 25:5:2022 \ 19:03:15
+[' Răsarit = 05:31:44 Apus = 20:53:42 Min (°C) = 8.88 Max (°C) =23.58 Presiune = 1013 Umiditate (%) = 56 Index UV = 0.57 Viteza vântului = 3.09 Unghiul vântului = 263 Stare = nori 50-85%']
+Bacau: 21 \ joi \ 26:5:2022 \ 19:03:14
+[' Răsarit = 05:30:53 Apus = 20:54:46 Min (°C) = 11.46 Max (°C) =20.27 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.55 Viteza vântului = 2.95 Unghiul vântului = 276 Stare = nori 25-50%']
+Bacau: 21 \ vineri \ 27:5:2022 \ 19:03:50
+[' Răsarit = 05:30:04 Apus = 20:55:48 Min (°C) = 9.39 Max (°C) =20.06 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.63 Viteza vântului = 5.25 Unghiul vântului = 265 Stare = nori 10-25%']
+Bacau: 21 \ sâmbătă \ 28:5:2022 \ 19:04:10
+[' Răsarit = 05:29:18 Apus = 20:56:50 Min (°C) = 10.22 Max (°C) =19.01 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.14 Viteza vântului = 1.94 Unghiul vântului = 255 Stare = nori 85-100%']
+Bacau: 21 \ duminică \ 29:5:2022 \ 19:03:28
+[' Răsarit = 05:28:33 Apus = 20:57:49 Min (°C) = 8.69 Max (°C) =13.57 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.45 Viteza vântului = 2.14 Unghiul vântului = 97 Stare = nori 85-100%']
+Bacau: 22 \ luni \ 30:5:2022 \ 19:03:45
+[' Răsarit = 05:27:51 Apus = 20:58:48 Min (°C) = 11.2 Max (°C) =21.6 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.5 Viteza vântului = 1.5 Unghiul vântului = 295 Stare = nori 25-50%']
+Bacau: 22 \ marți \ 31:5:2022 \ 19:03:27
+[' Răsarit = 05:27:11 Apus = 20:59:45 Min (°C) = 11.46 Max (°C) =22.38 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.56 Viteza vântului = 1.44 Unghiul vântului = 73 Stare = nori 85-100%']
+Bacau: 22 \ miercuri \ 01:6:2022 \ 19:03:37
+[' Răsarit = 05:26:34 Apus = 21:00:40 Min (°C) = 11.66 Max (°C) =24.74 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.56 Viteza vântului = 1.92 Unghiul vântului = 273 Stare = nori 85-100%']
+Bacau: 22 \ joi \ 02:6:2022 \ 19:03:16
+[' Răsarit = 05:25:58 Apus = 21:01:33 Min (°C) = 13.03 Max (°C) =24.86 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.61 Viteza vântului = 1.29 Unghiul vântului = 159 Stare = nori 50-85%']
+Bacau: 22 \ vineri \ 03:6:2022 \ 19:03:30
+[' Răsarit = 05:25:25 Apus = 21:02:25 Min (°C) = 13.06 Max (°C) =21.88 Presiune = 1022 Umiditate (%) = 66 Index UV = 0.7 Viteza vântului = 2.27 Unghiul vântului = 91 Stare = nori 85-100%']
+Bacau: 22 \ sâmbătă \ 04:6:2022 \ 19:03:42
+[' Răsarit = 05:24:55 Apus = 21:03:16 Min (°C) = 12.31 Max (°C) =23.38 Presiune = 1017 Umiditate (%) = 91 Index UV = 0.24 Viteza vântului = 0.4 Unghiul vântului = 276 Stare = nori 85-100%']
+Bacau: 22 \ duminică \ 05:6:2022 \ 19:03:17
+[' Răsarit = 05:24:26 Apus = 21:04:04 Min (°C) = 13.82 Max (°C) =19.41 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.27 Viteza vântului = 1.21 Unghiul vântului = 62 Stare = nori 50-85%']
+Bacau: 23 \ luni \ 06:6:2022 \ 19:03:59
+[' Răsarit = 05:24:00 Apus = 21:04:51 Min (°C) = 12.04 Max (°C) =18.69 Presiune = 1018 Umiditate (%) = 78 Index UV = 0.69 Viteza vântului = 3.19 Unghiul vântului = 61 Stare = nori 50-85%']
+Bacau: 23 \ marți \ 07:6:2022 \ 19:03:10
+[' Răsarit = 05:23:37 Apus = 21:05:35 Min (°C) = 10.05 Max (°C) =21.41 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.75 Viteza vântului = 3.68 Unghiul vântului = 106 Stare = nori 50-85%']
+Bacau: 23 \ miercuri \ 08:6:2022 \ 19:03:38
+[' Răsarit = 05:23:16 Apus = 21:06:18 Min (°C) = 11.43 Max (°C) =21.91 Presiune = 1011 Umiditate (%) = 63 Index UV = 0.74 Viteza vântului = 2.96 Unghiul vântului = 111 Stare = nori 50-85%']
+Bacau: 23 \ joi \ 09:6:2022 \ 19:03:20
+[' Răsarit = 05:22:57 Apus = 21:06:59 Min (°C) = 11.93 Max (°C) =21.8 Presiune = 1011 Umiditate (%) = 82 Index UV = 0.47 Viteza vântului = 4.05 Unghiul vântului = 118 Stare = nori 85-100%']
+Bacau: 23 \ vineri \ 10:6:2022 \ 19:03:26
+[' Răsarit = 05:22:41 Apus = 21:07:38 Min (°C) = 12.21 Max (°C) =16.98 Presiune = 1014 Umiditate (%) = 82 Index UV = 0.09 Viteza vântului = 2.09 Unghiul vântului = 51 Stare = nori 85-100%']
+Bacau: 23 \ sâmbătă \ 11:6:2022 \ 19:03:19
+[' Răsarit = 05:22:27 Apus = 21:08:14 Min (°C) = 11.77 Max (°C) =18.93 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.59 Viteza vântului = 2.24 Unghiul vântului = 31 Stare = nori 85-100%']
+Bacau: 23 \ duminică \ 12:6:2022 \ 19:03:21
+[' Răsarit = 05:22:15 Apus = 21:08:49 Min (°C) = 13.02 Max (°C) =19.82 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.46 Viteza vântului = 3.68 Unghiul vântului = 41 Stare = nori 10-25%']
+Bacau: 24 \ luni \ 13:6:2022 \ 19:03:36
+[' Răsarit = 05:22:06 Apus = 21:09:21 Min (°C) = 12.64 Max (°C) =24.08 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.75 Viteza vântului = 1.08 Unghiul vântului = 130 Stare = nori 25-50%']
+Bacau: 24 \ marți \ 14:6:2022 \ 19:03:19
+[' Răsarit = 05:22:00 Apus = 21:09:52 Min (°C) = 12.34 Max (°C) =17.71 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.6 Viteza vântului = 1.89 Unghiul vântului = 65 Stare = nori 85-100%']
+Bacau: 24 \ miercuri \ 15:6:2022 \ 19:03:12
+[' Răsarit = 05:21:56 Apus = 21:10:20 Min (°C) = 9.49 Max (°C) =17.62 Presiune = 1020 Umiditate (%) = 73 Index UV = 0.23 Viteza vântului = 0.74 Unghiul vântului = 87 Stare = nori 50-85%']
+Bacau: 24 \ joi \ 16:6:2022 \ 19:03:14
+[' Răsarit = 05:21:54 Apus = 21:10:46 Min (°C) = 9.41 Max (°C) =22.6 Presiune = 1019 Umiditate (%) = 68 Index UV = 0.14 Viteza vântului = 1.2 Unghiul vântului = 92 Stare = nori 50-85%']
+Bacau: 24 \ vineri \ 17:6:2022 \ 19:03:25
+[' Răsarit = 05:21:55 Apus = 21:11:09 Min (°C) = 10.43 Max (°C) =22.11 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.66 Viteza vântului = 2.06 Unghiul vântului = 358 Stare = nori 50-85%']
+Bacau: 24 \ sâmbătă \ 18:6:2022 \ 19:03:15
+[' Răsarit = 05:21:58 Apus = 21:11:30 Min (°C) = 9.14 Max (°C) =18.54 Presiune = 1021 Umiditate (%) = 54 Index UV = 0.63 Viteza vântului = 2.1 Unghiul vântului = 28 Stare = nori 50-85%']
+Bacau: 24 \ duminică \ 19:6:2022 \ 19:03:04
+[' Răsarit = 05:22:04 Apus = 21:11:49 Min (°C) = 10.31 Max (°C) =24.8 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.77 Viteza vântului = 2.06 Unghiul vântului = 117 Stare = nori 25-50%']
+Bacau: 25 \ luni \ 20:6:2022 \ 19:03:10
+[' Răsarit = 05:22:12 Apus = 21:12:06 Min (°C) = 12.5 Max (°C) =27.65 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.74 Viteza vântului = 1.04 Unghiul vântului = 189 Stare = nori 50-85%']
+Bacau: 25 \ marți \ 21:6:2022 \ 19:03:32
+[' Răsarit = 05:22:22 Apus = 21:12:20 Min (°C) = 13.97 Max (°C) =26.45 Presiune = 1007 Umiditate (%) = 45 Index UV = 0.77 Viteza vântului = 5.47 Unghiul vântului = 291 Stare = cer senin']
+Bacau: 25 \ miercuri \ 22:6:2022 \ 19:03:21
+[' Răsarit = 05:22:35 Apus = 21:12:31 Min (°C) = 8.39 Max (°C) =20.1 Presiune = 1009 Umiditate (%) = 49 Index UV = 0.37 Viteza vântului = 4.29 Unghiul vântului = 290 Stare = nori 50-85%']
+Bacau: 25 \ joi \ 23:6:2022 \ 19:03:14
+[' Răsarit = 05:22:50 Apus = 21:12:41 Min (°C) = 9.76 Max (°C) =21.64 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.68 Viteza vântului = 2.63 Unghiul vântului = 26 Stare = nori 50-85%']
+Bacau: 25 \ duminică \ 26:6:2022 \ 19:43:33
+[' Răsarit = 05:23:48 Apus = 21:12:54 Min (°C) = 13.47 Max (°C) =19.59 Presiune = 1018 Umiditate (%) = 92 Index UV = 0.21 Viteza vântului = 1.14 Unghiul vântului = 358 Stare = nori 50-85%']
+Bacau: 26 \ luni \ 27:6:2022 \ 19:03:22
+[' Răsarit = 05:24:13 Apus = 21:12:53 Min (°C) = 12.4 Max (°C) =22.6 Presiune = 1019 Umiditate (%) = 79 Index UV = 0.42 Viteza vântului = 1.21 Unghiul vântului = 20 Stare = ploaie ușoară']
+Bacau: 26 \ marți \ 28:6:2022 \ 19:03:18
+[' Răsarit = 05:24:39 Apus = 21:12:50 Min (°C) = 15.61 Max (°C) =28.27 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.59 Viteza vântului = 3.87 Unghiul vântului = 45 Stare = nori 25-50%']
+Bacau: 26 \ miercuri \ 29:6:2022 \ 19:03:20
+[' Răsarit = 05:25:07 Apus = 21:12:44 Min (°C) = 15.55 Max (°C) =28.38 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.72 Viteza vântului = 1.92 Unghiul vântului = 111 Stare = cer senin']
+Bacau: 26 \ joi \ 30:6:2022 \ 19:03:30
+[' Răsarit = 05:25:38 Apus = 21:12:36 Min (°C) = 17.73 Max (°C) =30.5 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.25 Viteza vântului = 1.34 Unghiul vântului = 287 Stare = nori 50-85%']
+Bacau: 26 \ vineri \ 01:7:2022 \ 19:03:30
+[' Răsarit = 05:26:11 Apus = 21:12:26 Min (°C) = 16.51 Max (°C) =28.83 Presiune = 1018 Umiditate (%) = 82 Index UV = 0.74 Viteza vântului = 0.96 Unghiul vântului = 251 Stare = nori 85-100%']
+Bacau: 26 \ sâmbătă \ 02:7:2022 \ 19:03:20
+[' Răsarit = 05:26:45 Apus = 21:12:13 Min (°C) = 16.65 Max (°C) =28.23 Presiune = 1021 Umiditate (%) = 90 Index UV = 0.66 Viteza vântului = 1.77 Unghiul vântului = 313 Stare = nori 50-85%']

@@ -952,3 +952,83 @@ Moreni: 20 \ vineri \ 20:5:2022 \ 19:09:20
 [' Răsarit = 05:43:34 Apus = 20:44:32 Min (°C) = 10.03 Max (°C) =24.14 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.55 Viteza vântului = 4.17 Unghiul vântului = 239 Stare = nori 10-25%']
 Moreni: 20 \ sâmbătă \ 21:5:2022 \ 19:10:46
 [' Răsarit = 05:42:37 Apus = 20:45:38 Min (°C) = 13.15 Max (°C) =27.3 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.49 Viteza vântului = 3.63 Unghiul vântului = 220 Stare = nori 25-50%']
+Moreni: 20 \ duminică \ 22:5:2022 \ 19:10:12
+[' Răsarit = 05:41:42 Apus = 20:46:42 Min (°C) = 14.51 Max (°C) =22.08 Presiune = 1008 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 2.01 Unghiul vântului = 66 Stare = nori 50-85%']
+Moreni: 21 \ luni \ 23:5:2022 \ 19:09:49
+[' Răsarit = 05:40:48 Apus = 20:47:46 Min (°C) = 12.84 Max (°C) =19.68 Presiune = 1010 Umiditate (%) = 73 Index UV = 0.26 Viteza vântului = 3.53 Unghiul vântului = 110 Stare = ploaie ușoară']
+Moreni: 21 \ marți \ 24:5:2022 \ 19:09:54
+[' Răsarit = 05:39:57 Apus = 20:48:48 Min (°C) = 11.59 Max (°C) =18.99 Presiune = 1013 Umiditate (%) = 99 Index UV = 0.19 Viteza vântului = 2.4 Unghiul vântului = 352 Stare = nori 85-100%']
+Moreni: 21 \ miercuri \ 25:5:2022 \ 19:09:36
+[' Răsarit = 05:39:08 Apus = 20:49:50 Min (°C) = 11.47 Max (°C) =25.66 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.61 Viteza vântului = 1.9 Unghiul vântului = 182 Stare = nori 50-85%']
+Moreni: 21 \ joi \ 26:5:2022 \ 19:09:42
+[' Răsarit = 05:38:21 Apus = 20:50:50 Min (°C) = 15.27 Max (°C) =27.52 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.6 Viteza vântului = 4.03 Unghiul vântului = 133 Stare = nori 25-50%']
+Moreni: 21 \ vineri \ 27:5:2022 \ 19:10:02
+[' Răsarit = 05:37:35 Apus = 20:51:49 Min (°C) = 15.88 Max (°C) =26.77 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.41 Viteza vântului = 3.12 Unghiul vântului = 188 Stare = nori 50-85%']
+Moreni: 21 \ sâmbătă \ 28:5:2022 \ 19:10:57
+[' Răsarit = 05:36:52 Apus = 20:52:46 Min (°C) = 14.88 Max (°C) =25.17 Presiune = 1009 Umiditate (%) = 99 Index UV = 0.23 Viteza vântului = 5.31 Unghiul vântului = 9 Stare = nori 85-100%']
+Moreni: 21 \ duminică \ 29:5:2022 \ 19:09:42
+[' Răsarit = 05:36:11 Apus = 20:53:43 Min (°C) = 14.57 Max (°C) =20.56 Presiune = 1009 Umiditate (%) = 99 Index UV = 0.5 Viteza vântului = 6.65 Unghiul vântului = 60 Stare = ploaie ușoară']
+Moreni: 22 \ luni \ 30:5:2022 \ 19:10:29
+[' Răsarit = 05:35:32 Apus = 20:54:38 Min (°C) = 13.18 Max (°C) =24.54 Presiune = 1011 Umiditate (%) = 99 Index UV = 0.64 Viteza vântului = 2.07 Unghiul vântului = 228 Stare = nori 10-25%']
+Moreni: 22 \ marți \ 31:5:2022 \ 19:09:50
+[' Răsarit = 05:34:56 Apus = 20:55:32 Min (°C) = 14.78 Max (°C) =26.41 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.36 Viteza vântului = 2.45 Unghiul vântului = 29 Stare = ploaie ușoară']
+Moreni: 22 \ miercuri \ 01:6:2022 \ 19:09:57
+[' Răsarit = 05:34:21 Apus = 20:56:24 Min (°C) = 14.48 Max (°C) =26.63 Presiune = 1015 Umiditate (%) = 99 Index UV = 0.56 Viteza vântului = 1.25 Unghiul vântului = 194 Stare = ploaie ușoară']
+Moreni: 22 \ joi \ 02:6:2022 \ 19:09:28
+[' Răsarit = 05:33:49 Apus = 20:57:14 Min (°C) = 16.63 Max (°C) =29.54 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.55 Viteza vântului = 2.24 Unghiul vântului = 9 Stare = nori 25-50%']
+Moreni: 22 \ vineri \ 03:6:2022 \ 19:09:46
+[' Răsarit = 05:33:18 Apus = 20:58:04 Min (°C) = 17.38 Max (°C) =27.46 Presiune = 1021 Umiditate (%) = 88 Index UV = 0.23 Viteza vântului = 0.68 Unghiul vântului = 8 Stare = nori 85-100%']
+Moreni: 22 \ sâmbătă \ 04:6:2022 \ 19:10:07
+[' Răsarit = 05:32:50 Apus = 20:58:51 Min (°C) = 16.71 Max (°C) =28.43 Presiune = 1015 Umiditate (%) = 99 Index UV = 0.63 Viteza vântului = 1.04 Unghiul vântului = 346 Stare = nori 50-85%']
+Moreni: 22 \ duminică \ 05:6:2022 \ 19:09:30
+[' Răsarit = 05:32:25 Apus = 20:59:37 Min (°C) = 17.29 Max (°C) =28.16 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.67 Viteza vântului = 2.3 Unghiul vântului = 100 Stare = nori 50-85%']
+Moreni: 23 \ luni \ 06:6:2022 \ 19:10:12
+[' Răsarit = 05:32:01 Apus = 21:00:21 Min (°C) = 14.62 Max (°C) =24.26 Presiune = 1016 Umiditate (%) = 94 Index UV = 0.25 Viteza vântului = 3.17 Unghiul vântului = 99 Stare = nori 50-85%']
+Moreni: 23 \ marți \ 07:6:2022 \ 19:09:20
+[' Răsarit = 05:31:40 Apus = 21:01:04 Min (°C) = 13.99 Max (°C) =25.1 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.71 Viteza vântului = 4.42 Unghiul vântului = 91 Stare = nori 50-85%']
+Moreni: 23 \ miercuri \ 08:6:2022 \ 19:10:00
+[' Răsarit = 05:31:21 Apus = 21:01:44 Min (°C) = 14.06 Max (°C) =23.81 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.71 Viteza vântului = 2.7 Unghiul vântului = 130 Stare = nori 50-85%']
+Moreni: 23 \ joi \ 09:6:2022 \ 19:09:38
+[' Răsarit = 05:31:04 Apus = 21:02:23 Min (°C) = 14.03 Max (°C) =21.9 Presiune = 1007 Umiditate (%) = 99 Index UV = 0.59 Viteza vântului = 2.88 Unghiul vântului = 58 Stare = nori 85-100%']
+Moreni: 23 \ vineri \ 10:6:2022 \ 19:09:43
+[' Răsarit = 05:30:50 Apus = 21:03:00 Min (°C) = 13.61 Max (°C) =23.99 Presiune = 1011 Umiditate (%) = 99 Index UV = 0.71 Viteza vântului = 5.5 Unghiul vântului = 70 Stare = nori 25-50%']
+Moreni: 23 \ sâmbătă \ 11:6:2022 \ 19:09:36
+[' Răsarit = 05:30:37 Apus = 21:03:35 Min (°C) = 14.08 Max (°C) =21.06 Presiune = 1012 Umiditate (%) = 99 Index UV = 0.24 Viteza vântului = 1.65 Unghiul vântului = 46 Stare = nori 85-100%']
+Moreni: 23 \ duminică \ 12:6:2022 \ 19:09:31
+[' Răsarit = 05:30:28 Apus = 21:04:08 Min (°C) = 15.9 Max (°C) =24.56 Presiune = 1012 Umiditate (%) = 99 Index UV = 0.69 Viteza vântului = 2.32 Unghiul vântului = 39 Stare = ploaie ușoară']
+Moreni: 24 \ luni \ 13:6:2022 \ 19:09:44
+[' Răsarit = 05:30:20 Apus = 21:04:39 Min (°C) = 16 Max (°C) =27.75 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.67 Viteza vântului = 0.93 Unghiul vântului = 136 Stare = nori 85-100%']
+Moreni: 24 \ marți \ 14:6:2022 \ 19:09:21
+[' Răsarit = 05:30:15 Apus = 21:05:08 Min (°C) = 16.19 Max (°C) =26.57 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.57 Viteza vântului = 2.16 Unghiul vântului = 51 Stare = nori 85-100%']
+Moreni: 24 \ miercuri \ 15:6:2022 \ 19:09:25
+[' Răsarit = 05:30:12 Apus = 21:05:35 Min (°C) = 14.18 Max (°C) =21.97 Presiune = 1020 Umiditate (%) = 99 Index UV = 0.7 Viteza vântului = 2.19 Unghiul vântului = 296 Stare = nori 50-85%']
+Moreni: 24 \ joi \ 16:6:2022 \ 19:09:29
+[' Răsarit = 05:30:11 Apus = 21:06:00 Min (°C) = 13.97 Max (°C) =24.41 Presiune = 1019 Umiditate (%) = 99 Index UV = 0.55 Viteza vântului = 0.94 Unghiul vântului = 299 Stare = nori 50-85%']
+Moreni: 24 \ vineri \ 17:6:2022 \ 19:09:49
+[' Răsarit = 05:30:12 Apus = 21:06:23 Min (°C) = 14.75 Max (°C) =26.54 Presiune = 1016 Umiditate (%) = 99 Index UV = 0.28 Viteza vântului = 1.71 Unghiul vântului = 40 Stare = nori 85-100%']
+Moreni: 24 \ sâmbătă \ 18:6:2022 \ 19:09:31
+[' Răsarit = 05:30:16 Apus = 21:06:43 Min (°C) = 13.84 Max (°C) =23.91 Presiune = 1019 Umiditate (%) = 99 Index UV = 0.68 Viteza vântului = 1.63 Unghiul vântului = 94 Stare = nori 50-85%']
+Moreni: 24 \ duminică \ 19:6:2022 \ 19:08:43
+[' Răsarit = 05:30:22 Apus = 21:07:02 Min (°C) = 14.12 Max (°C) =26.21 Presiune = 1017 Umiditate (%) = 82 Index UV = 0.68 Viteza vântului = 1.06 Unghiul vântului = 287 Stare = nori 50-85%']
+Moreni: 25 \ luni \ 20:6:2022 \ 19:09:11
+[' Răsarit = 05:30:30 Apus = 21:07:18 Min (°C) = 15.01 Max (°C) =28.43 Presiune = 1010 Umiditate (%) = 79 Index UV = 0.61 Viteza vântului = 1.95 Unghiul vântului = 204 Stare = nori 50-85%']
+Moreni: 25 \ marți \ 21:6:2022 \ 19:09:48
+[' Răsarit = 05:30:41 Apus = 21:07:32 Min (°C) = 16.66 Max (°C) =32.4 Presiune = 1006 Umiditate (%) = 55 Index UV = 0.76 Viteza vântului = 5.49 Unghiul vântului = 310 Stare = nori 25-50%']
+Moreni: 25 \ miercuri \ 22:6:2022 \ 19:09:27
+[' Răsarit = 05:30:54 Apus = 21:07:44 Min (°C) = 13.47 Max (°C) =27.02 Presiune = 1008 Umiditate (%) = 53 Index UV = 0.67 Viteza vântului = 2.32 Unghiul vântului = 356 Stare = nori 25-50%']
+Moreni: 25 \ joi \ 23:6:2022 \ 19:09:26
+[' Răsarit = 05:31:08 Apus = 21:07:53 Min (°C) = 14.31 Max (°C) =24.29 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.54 Viteza vântului = 2.56 Unghiul vântului = 217 Stare = nori 50-85%']
+Moreni: 25 \ duminică \ 26:6:2022 \ 19:49:56
+[' Răsarit = 05:32:06 Apus = 21:08:08 Min (°C) = 16.99 Max (°C) =25.53 Presiune = 1016 Umiditate (%) = 99 Index UV = 0.11 Viteza vântului = 0.84 Unghiul vântului = 79 Stare = nori 85-100%']
+Moreni: 26 \ luni \ 27:6:2022 \ 19:09:39
+[' Răsarit = 05:32:29 Apus = 21:08:08 Min (°C) = 15.42 Max (°C) =27.34 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.61 Viteza vântului = 1.83 Unghiul vântului = 5 Stare = nori 85-100%']
+Moreni: 26 \ marți \ 28:6:2022 \ 19:09:44
+[' Răsarit = 05:32:54 Apus = 21:08:06 Min (°C) = 17.64 Max (°C) =28.99 Presiune = 1016 Umiditate (%) = 93 Index UV = 0.68 Viteza vântului = 0.92 Unghiul vântului = 360 Stare = nori 50-85%']
+Moreni: 26 \ miercuri \ 29:6:2022 \ 19:09:43
+[' Răsarit = 05:33:22 Apus = 21:08:01 Min (°C) = 19.13 Max (°C) =32.53 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.64 Viteza vântului = 2.52 Unghiul vântului = 76 Stare = cer senin']
+Moreni: 26 \ joi \ 30:6:2022 \ 19:10:09
+[' Răsarit = 05:33:51 Apus = 21:07:54 Min (°C) = 19.75 Max (°C) =33.44 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.74 Viteza vântului = 3.97 Unghiul vântului = 37 Stare = nori 10-25%']
+Moreni: 26 \ vineri \ 01:7:2022 \ 19:09:51
+[' Răsarit = 05:34:22 Apus = 21:07:45 Min (°C) = 19.22 Max (°C) =31.01 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.59 Viteza vântului = 2.62 Unghiul vântului = 55 Stare = nori 10-25%']
+Moreni: 26 \ sâmbătă \ 02:7:2022 \ 19:09:42
+[' Răsarit = 05:34:55 Apus = 21:07:34 Min (°C) = 19.86 Max (°C) =32.29 Presiune = 1017 Umiditate (%) = 94 Index UV = 0.73 Viteza vântului = 3.28 Unghiul vântului = 40 Stare = nori 50-85%']

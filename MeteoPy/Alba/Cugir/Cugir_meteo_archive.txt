@@ -950,3 +950,163 @@ Cugir: 20 \ vineri \ 20:5:2022 \ 19:01:38
 [' Răsarit = 05:49:53 Apus = 20:56:29 Min (°C) = 9.54 Max (°C) =23.43 Presiune = 1022 Umiditate (%) = 52 Index UV = 0.66 Viteza vântului = 1.52 Unghiul vântului = 264 Stare = nori 25-50%']
 Cugir: 20 \ sâmbătă \ 21:5:2022 \ 19:01:54
 [' Răsarit = 05:48:54 Apus = 20:57:37 Min (°C) = 14.13 Max (°C) =25.77 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.67 Viteza vântului = 5.38 Unghiul vântului = 275 Stare = nori 50-85%']
+Cugir: 20 \ duminică \ 22:5:2022 \ 19:01:45
+[' Răsarit = 05:47:57 Apus = 20:58:43 Min (°C) = 12.68 Max (°C) =20.84 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.65 Viteza vântului = 1.9 Unghiul vântului = 343 Stare = nori 50-85%']
+Cugir: 21 \ luni \ 23:5:2022 \ 19:01:39
+[' Răsarit = 05:47:01 Apus = 20:59:49 Min (°C) = 10.49 Max (°C) =19.87 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.53 Viteza vântului = 2.48 Unghiul vântului = 66 Stare = nori 50-85%']
+Cugir: 21 \ marți \ 24:5:2022 \ 19:01:49
+[' Răsarit = 05:46:08 Apus = 21:00:53 Min (°C) = 9.89 Max (°C) =15.58 Presiune = 1012 Umiditate (%) = 91 Index UV = 0.53 Viteza vântului = 0.17 Unghiul vântului = 101 Stare = nori 85-100%']
+Cugir: 21 \ miercuri \ 25:5:2022 \ 19:01:39
+[' Răsarit = 05:45:17 Apus = 21:01:57 Min (°C) = 13 Max (°C) =26.75 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.71 Viteza vântului = 1.8 Unghiul vântului = 281 Stare = nori 25-50%']
+Cugir: 21 \ joi \ 26:5:2022 \ 19:01:38
+[' Răsarit = 05:44:28 Apus = 21:02:59 Min (°C) = 15.06 Max (°C) =21.85 Presiune = 1021 Umiditate (%) = 62 Index UV = 0.73 Viteza vântului = 4.15 Unghiul vântului = 287 Stare = nori 85-100%']
+Cugir: 21 \ vineri \ 27:5:2022 \ 19:02:13
+[' Răsarit = 05:43:41 Apus = 21:03:59 Min (°C) = 13.04 Max (°C) =23.76 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.73 Viteza vântului = 1.93 Unghiul vântului = 277 Stare = cer senin']
+Cugir: 21 \ sâmbătă \ 28:5:2022 \ 19:02:02
+[' Răsarit = 05:42:56 Apus = 21:04:59 Min (°C) = 12.3 Max (°C) =21.01 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.08 Viteza vântului = 0.84 Unghiul vântului = 277 Stare = nori 85-100%']
+Cugir: 21 \ duminică \ 29:5:2022 \ 19:01:45
+[' Răsarit = 05:42:13 Apus = 21:05:57 Min (°C) = 11.05 Max (°C) =18.97 Presiune = 1007 Umiditate (%) = 87 Index UV = 0.63 Viteza vântului = 1.86 Unghiul vântului = 9 Stare = ploaie ușoară']
+Cugir: 22 \ luni \ 30:5:2022 \ 19:01:51
+[' Răsarit = 05:41:32 Apus = 21:06:54 Min (°C) = 13.98 Max (°C) =22.08 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.77 Viteza vântului = 1.12 Unghiul vântului = 18 Stare = nori 10-25%']
+Cugir: 22 \ marți \ 31:5:2022 \ 19:01:48
+[' Răsarit = 05:40:54 Apus = 21:07:49 Min (°C) = 13.56 Max (°C) =23.81 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.78 Viteza vântului = 0.53 Unghiul vântului = 89 Stare = nori 50-85%']
+Cugir: 22 \ miercuri \ 01:6:2022 \ 19:01:52
+[' Răsarit = 05:40:18 Apus = 21:08:43 Min (°C) = 13.82 Max (°C) =25.85 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.7 Viteza vântului = 1.78 Unghiul vântului = 227 Stare = nori 85-100%']
+Cugir: 22 \ joi \ 02:6:2022 \ 19:01:43
+[' Răsarit = 05:39:44 Apus = 21:09:35 Min (°C) = 15.07 Max (°C) =26.89 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.62 Viteza vântului = 1.77 Unghiul vântului = 335 Stare = nori 25-50%']
+Cugir: 22 \ vineri \ 03:6:2022 \ 19:01:51
+[' Răsarit = 05:39:12 Apus = 21:10:26 Min (°C) = 16.37 Max (°C) =26.37 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.66 Viteza vântului = 1.61 Unghiul vântului = 35 Stare = nori 25-50%']
+Cugir: 22 \ sâmbătă \ 04:6:2022 \ 19:01:49
+[' Răsarit = 05:38:43 Apus = 21:11:15 Min (°C) = 17.23 Max (°C) =26.33 Presiune = 1016 Umiditate (%) = 92 Index UV = 0.27 Viteza vântului = 2.37 Unghiul vântului = 307 Stare = nori 50-85%']
+Cugir: 22 \ duminică \ 05:6:2022 \ 19:01:42
+[' Răsarit = 05:38:16 Apus = 21:12:02 Min (°C) = 16.63 Max (°C) =25.25 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.85 Viteza vântului = 2.09 Unghiul vântului = 321 Stare = nori 25-50%']
+Cugir: 23 \ luni \ 06:6:2022 \ 19:01:51
+[' Răsarit = 05:37:51 Apus = 21:12:47 Min (°C) = 13.66 Max (°C) =24.38 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.88 Viteza vântului = 3.66 Unghiul vântului = 73 Stare = cer senin']
+Cugir: 23 \ marți \ 07:6:2022 \ 19:01:39
+[' Răsarit = 05:37:28 Apus = 21:13:31 Min (°C) = 13.98 Max (°C) =24.96 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.88 Viteza vântului = 2.14 Unghiul vântului = 53 Stare = nori 10-25%']
+Cugir: 23 \ miercuri \ 08:6:2022 \ 19:02:03
+[' Răsarit = 05:37:08 Apus = 21:14:13 Min (°C) = 14.37 Max (°C) =23.7 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.72 Viteza vântului = 2.17 Unghiul vântului = 180 Stare = nori 85-100%']
+Cugir: 23 \ joi \ 09:6:2022 \ 19:01:46
+[' Răsarit = 05:36:51 Apus = 21:14:53 Min (°C) = 14.27 Max (°C) =22.7 Presiune = 1007 Umiditate (%) = 73 Index UV = 0.38 Viteza vântului = 2.08 Unghiul vântului = 95 Stare = nori 50-85%']
+Cugir: 23 \ vineri \ 10:6:2022 \ 19:01:52
+[' Răsarit = 05:36:35 Apus = 21:15:31 Min (°C) = 13.75 Max (°C) =22.27 Presiune = 1012 Umiditate (%) = 76 Index UV = 0.83 Viteza vântului = 3.9 Unghiul vântului = 66 Stare = nori 25-50%']
+Cugir: 23 \ sâmbătă \ 11:6:2022 \ 19:01:46
+[' Răsarit = 05:36:22 Apus = 21:16:06 Min (°C) = 13.94 Max (°C) =23.52 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.57 Viteza vântului = 2.31 Unghiul vântului = 53 Stare = nori 25-50%']
+Cugir: 23 \ duminică \ 12:6:2022 \ 19:01:47
+[' Răsarit = 05:36:11 Apus = 21:16:40 Min (°C) = 14.71 Max (°C) =24.31 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.61 Viteza vântului = 2.3 Unghiul vântului = 65 Stare = nori 50-85%']
+Cugir: 24 \ luni \ 13:6:2022 \ 19:02:04
+[' Răsarit = 05:36:03 Apus = 21:17:12 Min (°C) = 14.83 Max (°C) =25.69 Presiune = 1013 Umiditate (%) = 67 Index UV = 0.9 Viteza vântului = 2.24 Unghiul vântului = 243 Stare = nori 25-50%']
+Cugir: 24 \ marți \ 14:6:2022 \ 19:01:46
+[' Răsarit = 05:35:57 Apus = 21:17:42 Min (°C) = 15.34 Max (°C) =23.43 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.83 Viteza vântului = 1.34 Unghiul vântului = 56 Stare = nori 50-85%']
+Cugir: 24 \ miercuri \ 15:6:2022 \ 19:01:38
+[' Răsarit = 05:35:54 Apus = 21:18:09 Min (°C) = 11.79 Max (°C) =23.73 Presiune = 1020 Umiditate (%) = 53 Index UV = 0.76 Viteza vântului = 2.4 Unghiul vântului = 37 Stare = nori 50-85%']
+Cugir: 24 \ joi \ 16:6:2022 \ 19:01:41
+[' Răsarit = 05:35:52 Apus = 21:18:35 Min (°C) = 13 Max (°C) =25.02 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.85 Viteza vântului = 1.96 Unghiul vântului = 56 Stare = nori 25-50%']
+Cugir: 24 \ vineri \ 17:6:2022 \ 19:01:49
+[' Răsarit = 05:35:54 Apus = 21:18:58 Min (°C) = 15.78 Max (°C) =23.62 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.62 Viteza vântului = 1.09 Unghiul vântului = 339 Stare = nori 85-100%']
+Cugir: 24 \ sâmbătă \ 18:6:2022 \ 19:01:40
+[' Răsarit = 05:35:57 Apus = 21:19:19 Min (°C) = 12.71 Max (°C) =23.52 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.77 Viteza vântului = 3.05 Unghiul vântului = 71 Stare = nori 10-25%']
+Cugir: 24 \ duminică \ 19:6:2022 \ 19:01:40
+[' Răsarit = 05:36:03 Apus = 21:19:37 Min (°C) = 13.62 Max (°C) =26.61 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.9 Viteza vântului = 2.03 Unghiul vântului = 63 Stare = cer senin']
+Cugir: 25 \ luni \ 20:6:2022 \ 19:01:39
+[' Răsarit = 05:36:11 Apus = 21:19:54 Min (°C) = 15.85 Max (°C) =29.03 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.91 Viteza vântului = 1.31 Unghiul vântului = 92 Stare = cer senin']
+Cugir: 25 \ marți \ 21:6:2022 \ 19:01:58
+[' Răsarit = 05:36:21 Apus = 21:20:08 Min (°C) = 18.45 Max (°C) =27.99 Presiune = 1010 Umiditate (%) = 31 Index UV = 0.91 Viteza vântului = 6.63 Unghiul vântului = 288 Stare = nori 25-50%']
+Cugir: 25 \ miercuri \ 22:6:2022 \ 19:01:44
+[' Răsarit = 05:36:34 Apus = 21:20:19 Min (°C) = 11.93 Max (°C) =24.56 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.84 Viteza vântului = 4.35 Unghiul vântului = 307 Stare = nori 25-50%']
+Cugir: 25 \ joi \ 23:6:2022 \ 19:01:40
+[' Răsarit = 05:36:49 Apus = 21:20:29 Min (°C) = 14.04 Max (°C) =23.71 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.68 Viteza vântului = 1.06 Unghiul vântului = 172 Stare = nori 85-100%']
+Cugir: 25 \ duminică \ 26:6:2022 \ 19:41:52
+[' Răsarit = 05:37:47 Apus = 21:20:42 Min (°C) = 17.84 Max (°C) =25.27 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.26 Viteza vântului = 2.24 Unghiul vântului = 101 Stare = ploaie ușoară']
+Cugir: 26 \ luni \ 27:6:2022 \ 19:01:44
+[' Răsarit = 05:38:11 Apus = 21:20:42 Min (°C) = 14.76 Max (°C) =28.31 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.8 Viteza vântului = 3.14 Unghiul vântului = 71 Stare = cer senin']
+Cugir: 26 \ marți \ 28:6:2022 \ 19:01:42
+[' Răsarit = 05:38:37 Apus = 21:20:39 Min (°C) = 17.41 Max (°C) =29.06 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.3 Viteza vântului = 4.22 Unghiul vântului = 70 Stare = nori 50-85%']
+Cugir: 26 \ miercuri \ 29:6:2022 \ 19:01:45
+[' Răsarit = 05:39:05 Apus = 21:20:34 Min (°C) = 18.34 Max (°C) =31.96 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.8 Viteza vântului = 2.98 Unghiul vântului = 144 Stare = nori 50-85%']
+Cugir: 26 \ joi \ 30:6:2022 \ 19:01:49
+[' Răsarit = 05:39:35 Apus = 21:20:27 Min (°C) = 19.56 Max (°C) =33.94 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.88 Viteza vântului = 2.74 Unghiul vântului = 150 Stare = nori 50-85%']
+Cugir: 26 \ vineri \ 01:7:2022 \ 19:01:53
+[' Răsarit = 05:40:07 Apus = 21:20:17 Min (°C) = 21.19 Max (°C) =34.89 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.13 Viteza vântului = 0.83 Unghiul vântului = 187 Stare = nori 50-85%']
+Cugir: 26 \ sâmbătă \ 02:7:2022 \ 19:01:44
+[' Răsarit = 05:40:41 Apus = 21:20:05 Min (°C) = 21.01 Max (°C) =33.42 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.7 Viteza vântului = 2.15 Unghiul vântului = 125 Stare = nori 50-85%']
+Cugir: 20 \ duminică \ 22:5:2022 \ 19:01:45
+[' Răsarit = 05:47:57 Apus = 20:58:43 Min (°C) = 12.68 Max (°C) =20.84 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.65 Viteza vântului = 1.9 Unghiul vântului = 343 Stare = nori 50-85%']
+Cugir: 21 \ luni \ 23:5:2022 \ 19:01:39
+[' Răsarit = 05:47:01 Apus = 20:59:49 Min (°C) = 10.49 Max (°C) =19.87 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.53 Viteza vântului = 2.48 Unghiul vântului = 66 Stare = nori 50-85%']
+Cugir: 21 \ marți \ 24:5:2022 \ 19:01:49
+[' Răsarit = 05:46:08 Apus = 21:00:53 Min (°C) = 9.89 Max (°C) =15.58 Presiune = 1012 Umiditate (%) = 91 Index UV = 0.53 Viteza vântului = 0.17 Unghiul vântului = 101 Stare = nori 85-100%']
+Cugir: 21 \ miercuri \ 25:5:2022 \ 19:01:39
+[' Răsarit = 05:45:17 Apus = 21:01:57 Min (°C) = 13 Max (°C) =26.75 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.71 Viteza vântului = 1.8 Unghiul vântului = 281 Stare = nori 25-50%']
+Cugir: 21 \ joi \ 26:5:2022 \ 19:01:38
+[' Răsarit = 05:44:28 Apus = 21:02:59 Min (°C) = 15.06 Max (°C) =21.85 Presiune = 1021 Umiditate (%) = 62 Index UV = 0.73 Viteza vântului = 4.15 Unghiul vântului = 287 Stare = nori 85-100%']
+Cugir: 21 \ vineri \ 27:5:2022 \ 19:02:13
+[' Răsarit = 05:43:41 Apus = 21:03:59 Min (°C) = 13.04 Max (°C) =23.76 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.73 Viteza vântului = 1.93 Unghiul vântului = 277 Stare = cer senin']
+Cugir: 21 \ sâmbătă \ 28:5:2022 \ 19:02:02
+[' Răsarit = 05:42:56 Apus = 21:04:59 Min (°C) = 12.3 Max (°C) =21.01 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.08 Viteza vântului = 0.84 Unghiul vântului = 277 Stare = nori 85-100%']
+Cugir: 21 \ duminică \ 29:5:2022 \ 19:01:45
+[' Răsarit = 05:42:13 Apus = 21:05:57 Min (°C) = 11.05 Max (°C) =18.97 Presiune = 1007 Umiditate (%) = 87 Index UV = 0.63 Viteza vântului = 1.86 Unghiul vântului = 9 Stare = ploaie ușoară']
+Cugir: 22 \ luni \ 30:5:2022 \ 19:01:51
+[' Răsarit = 05:41:32 Apus = 21:06:54 Min (°C) = 13.98 Max (°C) =22.08 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.77 Viteza vântului = 1.12 Unghiul vântului = 18 Stare = nori 10-25%']
+Cugir: 22 \ marți \ 31:5:2022 \ 19:01:48
+[' Răsarit = 05:40:54 Apus = 21:07:49 Min (°C) = 13.56 Max (°C) =23.81 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.78 Viteza vântului = 0.53 Unghiul vântului = 89 Stare = nori 50-85%']
+Cugir: 22 \ miercuri \ 01:6:2022 \ 19:01:52
+[' Răsarit = 05:40:18 Apus = 21:08:43 Min (°C) = 13.82 Max (°C) =25.85 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.7 Viteza vântului = 1.78 Unghiul vântului = 227 Stare = nori 85-100%']
+Cugir: 22 \ joi \ 02:6:2022 \ 19:01:43
+[' Răsarit = 05:39:44 Apus = 21:09:35 Min (°C) = 15.07 Max (°C) =26.89 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.62 Viteza vântului = 1.77 Unghiul vântului = 335 Stare = nori 25-50%']
+Cugir: 22 \ vineri \ 03:6:2022 \ 19:01:51
+[' Răsarit = 05:39:12 Apus = 21:10:26 Min (°C) = 16.37 Max (°C) =26.37 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.66 Viteza vântului = 1.61 Unghiul vântului = 35 Stare = nori 25-50%']
+Cugir: 22 \ sâmbătă \ 04:6:2022 \ 19:01:49
+[' Răsarit = 05:38:43 Apus = 21:11:15 Min (°C) = 17.23 Max (°C) =26.33 Presiune = 1016 Umiditate (%) = 92 Index UV = 0.27 Viteza vântului = 2.37 Unghiul vântului = 307 Stare = nori 50-85%']
+Cugir: 22 \ duminică \ 05:6:2022 \ 19:01:42
+[' Răsarit = 05:38:16 Apus = 21:12:02 Min (°C) = 16.63 Max (°C) =25.25 Presiune = 1015 Umiditate (%) = 74 Index UV = 0.85 Viteza vântului = 2.09 Unghiul vântului = 321 Stare = nori 25-50%']
+Cugir: 23 \ luni \ 06:6:2022 \ 19:01:51
+[' Răsarit = 05:37:51 Apus = 21:12:47 Min (°C) = 13.66 Max (°C) =24.38 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.88 Viteza vântului = 3.66 Unghiul vântului = 73 Stare = cer senin']
+Cugir: 23 \ marți \ 07:6:2022 \ 19:01:39
+[' Răsarit = 05:37:28 Apus = 21:13:31 Min (°C) = 13.98 Max (°C) =24.96 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.88 Viteza vântului = 2.14 Unghiul vântului = 53 Stare = nori 10-25%']
+Cugir: 23 \ miercuri \ 08:6:2022 \ 19:02:03
+[' Răsarit = 05:37:08 Apus = 21:14:13 Min (°C) = 14.37 Max (°C) =23.7 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.72 Viteza vântului = 2.17 Unghiul vântului = 180 Stare = nori 85-100%']
+Cugir: 23 \ joi \ 09:6:2022 \ 19:01:46
+[' Răsarit = 05:36:51 Apus = 21:14:53 Min (°C) = 14.27 Max (°C) =22.7 Presiune = 1007 Umiditate (%) = 73 Index UV = 0.38 Viteza vântului = 2.08 Unghiul vântului = 95 Stare = nori 50-85%']
+Cugir: 23 \ vineri \ 10:6:2022 \ 19:01:52
+[' Răsarit = 05:36:35 Apus = 21:15:31 Min (°C) = 13.75 Max (°C) =22.27 Presiune = 1012 Umiditate (%) = 76 Index UV = 0.83 Viteza vântului = 3.9 Unghiul vântului = 66 Stare = nori 25-50%']
+Cugir: 23 \ sâmbătă \ 11:6:2022 \ 19:01:46
+[' Răsarit = 05:36:22 Apus = 21:16:06 Min (°C) = 13.94 Max (°C) =23.52 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.57 Viteza vântului = 2.31 Unghiul vântului = 53 Stare = nori 25-50%']
+Cugir: 23 \ duminică \ 12:6:2022 \ 19:01:47
+[' Răsarit = 05:36:11 Apus = 21:16:40 Min (°C) = 14.71 Max (°C) =24.31 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.61 Viteza vântului = 2.3 Unghiul vântului = 65 Stare = nori 50-85%']
+Cugir: 24 \ luni \ 13:6:2022 \ 19:02:04
+[' Răsarit = 05:36:03 Apus = 21:17:12 Min (°C) = 14.83 Max (°C) =25.69 Presiune = 1013 Umiditate (%) = 67 Index UV = 0.9 Viteza vântului = 2.24 Unghiul vântului = 243 Stare = nori 25-50%']
+Cugir: 24 \ marți \ 14:6:2022 \ 19:01:46
+[' Răsarit = 05:35:57 Apus = 21:17:42 Min (°C) = 15.34 Max (°C) =23.43 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.83 Viteza vântului = 1.34 Unghiul vântului = 56 Stare = nori 50-85%']
+Cugir: 24 \ miercuri \ 15:6:2022 \ 19:01:38
+[' Răsarit = 05:35:54 Apus = 21:18:09 Min (°C) = 11.79 Max (°C) =23.73 Presiune = 1020 Umiditate (%) = 53 Index UV = 0.76 Viteza vântului = 2.4 Unghiul vântului = 37 Stare = nori 50-85%']
+Cugir: 24 \ joi \ 16:6:2022 \ 19:01:41
+[' Răsarit = 05:35:52 Apus = 21:18:35 Min (°C) = 13 Max (°C) =25.02 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.85 Viteza vântului = 1.96 Unghiul vântului = 56 Stare = nori 25-50%']
+Cugir: 24 \ vineri \ 17:6:2022 \ 19:01:49
+[' Răsarit = 05:35:54 Apus = 21:18:58 Min (°C) = 15.78 Max (°C) =23.62 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.62 Viteza vântului = 1.09 Unghiul vântului = 339 Stare = nori 85-100%']
+Cugir: 24 \ sâmbătă \ 18:6:2022 \ 19:01:40
+[' Răsarit = 05:35:57 Apus = 21:19:19 Min (°C) = 12.71 Max (°C) =23.52 Presiune = 1020 Umiditate (%) = 51 Index UV = 0.77 Viteza vântului = 3.05 Unghiul vântului = 71 Stare = nori 10-25%']
+Cugir: 24 \ duminică \ 19:6:2022 \ 19:01:40
+[' Răsarit = 05:36:03 Apus = 21:19:37 Min (°C) = 13.62 Max (°C) =26.61 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.9 Viteza vântului = 2.03 Unghiul vântului = 63 Stare = cer senin']
+Cugir: 25 \ luni \ 20:6:2022 \ 19:01:39
+[' Răsarit = 05:36:11 Apus = 21:19:54 Min (°C) = 15.85 Max (°C) =29.03 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.91 Viteza vântului = 1.31 Unghiul vântului = 92 Stare = cer senin']
+Cugir: 25 \ marți \ 21:6:2022 \ 19:01:58
+[' Răsarit = 05:36:21 Apus = 21:20:08 Min (°C) = 18.45 Max (°C) =27.99 Presiune = 1010 Umiditate (%) = 31 Index UV = 0.91 Viteza vântului = 6.63 Unghiul vântului = 288 Stare = nori 25-50%']
+Cugir: 25 \ miercuri \ 22:6:2022 \ 19:01:44
+[' Răsarit = 05:36:34 Apus = 21:20:19 Min (°C) = 11.93 Max (°C) =24.56 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.84 Viteza vântului = 4.35 Unghiul vântului = 307 Stare = nori 25-50%']
+Cugir: 25 \ joi \ 23:6:2022 \ 19:01:40
+[' Răsarit = 05:36:49 Apus = 21:20:29 Min (°C) = 14.04 Max (°C) =23.71 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.68 Viteza vântului = 1.06 Unghiul vântului = 172 Stare = nori 85-100%']
+Cugir: 25 \ duminică \ 26:6:2022 \ 19:41:52
+[' Răsarit = 05:37:47 Apus = 21:20:42 Min (°C) = 17.84 Max (°C) =25.27 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.26 Viteza vântului = 2.24 Unghiul vântului = 101 Stare = ploaie ușoară']
+Cugir: 26 \ luni \ 27:6:2022 \ 19:01:44
+[' Răsarit = 05:38:11 Apus = 21:20:42 Min (°C) = 14.76 Max (°C) =28.31 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.8 Viteza vântului = 3.14 Unghiul vântului = 71 Stare = cer senin']
+Cugir: 26 \ marți \ 28:6:2022 \ 19:01:42
+[' Răsarit = 05:38:37 Apus = 21:20:39 Min (°C) = 17.41 Max (°C) =29.06 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.3 Viteza vântului = 4.22 Unghiul vântului = 70 Stare = nori 50-85%']
+Cugir: 26 \ miercuri \ 29:6:2022 \ 19:01:45
+[' Răsarit = 05:39:05 Apus = 21:20:34 Min (°C) = 18.34 Max (°C) =31.96 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.8 Viteza vântului = 2.98 Unghiul vântului = 144 Stare = nori 50-85%']
+Cugir: 26 \ joi \ 30:6:2022 \ 19:01:49
+[' Răsarit = 05:39:35 Apus = 21:20:27 Min (°C) = 19.56 Max (°C) =33.94 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.88 Viteza vântului = 2.74 Unghiul vântului = 150 Stare = nori 50-85%']
+Cugir: 26 \ vineri \ 01:7:2022 \ 19:01:53
+[' Răsarit = 05:40:07 Apus = 21:20:17 Min (°C) = 21.19 Max (°C) =34.89 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.13 Viteza vântului = 0.83 Unghiul vântului = 187 Stare = nori 50-85%']
+Cugir: 26 \ sâmbătă \ 02:7:2022 \ 19:01:44
+[' Răsarit = 05:40:41 Apus = 21:20:05 Min (°C) = 21.01 Max (°C) =33.42 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.7 Viteza vântului = 2.15 Unghiul vântului = 125 Stare = nori 50-85%']

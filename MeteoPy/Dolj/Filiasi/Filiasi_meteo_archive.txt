@@ -952,3 +952,83 @@ Filiasi: 20 \ vineri \ 20:5:2022 \ 19:10:04
 [' Răsarit = 05:53:27 Apus = 20:51:40 Min (°C) = 9.5 Max (°C) =26.07 Presiune = 1021 Umiditate (%) = 42 Index UV = 0.62 Viteza vântului = 2.23 Unghiul vântului = 232 Stare = nori 10-25%']
 Filiasi: 20 \ sâmbătă \ 21:5:2022 \ 19:11:37
 [' Răsarit = 05:52:30 Apus = 20:52:44 Min (°C) = 12.43 Max (°C) =30.42 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.65 Viteza vântului = 6.51 Unghiul vântului = 278 Stare = cer senin']
+Filiasi: 20 \ duminică \ 22:5:2022 \ 19:10:58
+[' Răsarit = 05:51:36 Apus = 20:53:48 Min (°C) = 15.96 Max (°C) =24.92 Presiune = 1008 Umiditate (%) = 43 Index UV = 0.62 Viteza vântului = 5.77 Unghiul vântului = 312 Stare = cer senin']
+Filiasi: 21 \ luni \ 23:5:2022 \ 19:10:41
+[' Răsarit = 05:50:44 Apus = 20:54:50 Min (°C) = 11.59 Max (°C) =26.07 Presiune = 1007 Umiditate (%) = 43 Index UV = 0.61 Viteza vântului = 3.05 Unghiul vântului = 282 Stare = nori 50-85%']
+Filiasi: 21 \ marți \ 24:5:2022 \ 19:10:40
+[' Răsarit = 05:49:54 Apus = 20:55:52 Min (°C) = 12.35 Max (°C) =22.6 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.61 Viteza vântului = 4.32 Unghiul vântului = 95 Stare = nori 50-85%']
+Filiasi: 21 \ miercuri \ 25:5:2022 \ 19:10:22
+[' Răsarit = 05:49:06 Apus = 20:56:52 Min (°C) = 12.69 Max (°C) =28.29 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.68 Viteza vântului = 2.24 Unghiul vântului = 77 Stare = nori 50-85%']
+Filiasi: 21 \ joi \ 26:5:2022 \ 19:10:27
+[' Răsarit = 05:48:19 Apus = 20:57:51 Min (°C) = 16.4 Max (°C) =28.29 Presiune = 1017 Umiditate (%) = 41 Index UV = 0.67 Viteza vântului = 5.66 Unghiul vântului = 294 Stare = cer senin']
+Filiasi: 21 \ vineri \ 27:5:2022 \ 19:10:45
+[' Răsarit = 05:47:35 Apus = 20:58:49 Min (°C) = 12.89 Max (°C) =29.4 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.68 Viteza vântului = 1.38 Unghiul vântului = 235 Stare = cer senin']
+Filiasi: 21 \ sâmbătă \ 28:5:2022 \ 19:11:42
+[' Răsarit = 05:46:53 Apus = 20:59:46 Min (°C) = 16.59 Max (°C) =29.16 Presiune = 1008 Umiditate (%) = 67 Index UV = 0.63 Viteza vântului = 6.32 Unghiul vântului = 322 Stare = nori 50-85%']
+Filiasi: 21 \ duminică \ 29:5:2022 \ 19:10:29
+[' Răsarit = 05:46:13 Apus = 21:00:42 Min (°C) = 13.53 Max (°C) =21.94 Presiune = 1006 Umiditate (%) = 87 Index UV = 0.12 Viteza vântului = 6 Unghiul vântului = 66 Stare = ploaie moderată']
+Filiasi: 22 \ luni \ 30:5:2022 \ 19:11:15
+[' Răsarit = 05:45:35 Apus = 21:01:36 Min (°C) = 15.34 Max (°C) =25.53 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.72 Viteza vântului = 2.73 Unghiul vântului = 235 Stare = cer senin']
+Filiasi: 22 \ marți \ 31:5:2022 \ 19:10:34
+[' Răsarit = 05:44:59 Apus = 21:02:29 Min (°C) = 15.29 Max (°C) =27.48 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.7 Viteza vântului = 1.38 Unghiul vântului = 264 Stare = cer senin']
+Filiasi: 22 \ miercuri \ 01:6:2022 \ 19:10:41
+[' Răsarit = 05:44:25 Apus = 21:03:20 Min (°C) = 15.06 Max (°C) =29.95 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.65 Viteza vântului = 1.18 Unghiul vântului = 33 Stare = nori 85-100%']
+Filiasi: 22 \ joi \ 02:6:2022 \ 19:10:12
+[' Răsarit = 05:43:53 Apus = 21:04:10 Min (°C) = 16.82 Max (°C) =30.82 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.71 Viteza vântului = 1.6 Unghiul vântului = 347 Stare = nori 10-25%']
+Filiasi: 22 \ vineri \ 03:6:2022 \ 19:10:29
+[' Răsarit = 05:43:24 Apus = 21:04:58 Min (°C) = 17.78 Max (°C) =29.75 Presiune = 1018 Umiditate (%) = 52 Index UV = 0.3 Viteza vântului = 1.72 Unghiul vântului = 77 Stare = nori 25-50%']
+Filiasi: 22 \ sâmbătă \ 04:6:2022 \ 19:10:52
+[' Răsarit = 05:42:56 Apus = 21:05:45 Min (°C) = 17.07 Max (°C) =30.51 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.81 Viteza vântului = 1.78 Unghiul vântului = 292 Stare = nori 25-50%']
+Filiasi: 22 \ duminică \ 05:6:2022 \ 19:10:14
+[' Răsarit = 05:42:31 Apus = 21:06:31 Min (°C) = 18.27 Max (°C) =32.18 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.78 Viteza vântului = 5.13 Unghiul vântului = 301 Stare = cer senin']
+Filiasi: 23 \ luni \ 06:6:2022 \ 19:10:56
+[' Răsarit = 05:42:08 Apus = 21:07:14 Min (°C) = 17.02 Max (°C) =25.56 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.75 Viteza vântului = 2.53 Unghiul vântului = 116 Stare = nori 10-25%']
+Filiasi: 23 \ marți \ 07:6:2022 \ 19:10:03
+[' Răsarit = 05:41:48 Apus = 21:07:56 Min (°C) = 17.48 Max (°C) =26.63 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.27 Viteza vântului = 4.62 Unghiul vântului = 118 Stare = nori 50-85%']
+Filiasi: 23 \ miercuri \ 08:6:2022 \ 19:10:45
+[' Răsarit = 05:41:29 Apus = 21:08:36 Min (°C) = 14.21 Max (°C) =26.07 Presiune = 1009 Umiditate (%) = 51 Index UV = 0.79 Viteza vântului = 4.24 Unghiul vântului = 108 Stare = nori 25-50%']
+Filiasi: 23 \ joi \ 09:6:2022 \ 19:10:22
+[' Răsarit = 05:41:13 Apus = 21:09:14 Min (°C) = 14.79 Max (°C) =25.52 Presiune = 1006 Umiditate (%) = 49 Index UV = 0.75 Viteza vântului = 4.06 Unghiul vântului = 83 Stare = nori 50-85%']
+Filiasi: 23 \ vineri \ 10:6:2022 \ 19:10:27
+[' Răsarit = 05:40:59 Apus = 21:09:51 Min (°C) = 14.77 Max (°C) =25.69 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.4 Viteza vântului = 4.42 Unghiul vântului = 86 Stare = ploaie ușoară']
+Filiasi: 23 \ sâmbătă \ 11:6:2022 \ 19:10:27
+[' Răsarit = 05:40:47 Apus = 21:10:25 Min (°C) = 14.45 Max (°C) =26.07 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.73 Viteza vântului = 1.32 Unghiul vântului = 167 Stare = nori 85-100%']
+Filiasi: 23 \ duminică \ 12:6:2022 \ 19:10:15
+[' Răsarit = 05:40:38 Apus = 21:10:58 Min (°C) = 15.93 Max (°C) =27.61 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.66 Viteza vântului = 2.14 Unghiul vântului = 149 Stare = ploaie ușoară']
+Filiasi: 24 \ luni \ 13:6:2022 \ 19:10:27
+[' Răsarit = 05:40:31 Apus = 21:11:29 Min (°C) = 16.07 Max (°C) =28.58 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.4 Viteza vântului = 3.6 Unghiul vântului = 267 Stare = ploaie moderată']
+Filiasi: 24 \ marți \ 14:6:2022 \ 19:10:02
+[' Răsarit = 05:40:26 Apus = 21:11:57 Min (°C) = 15.98 Max (°C) =29.15 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.82 Viteza vântului = 4.75 Unghiul vântului = 297 Stare = cer senin']
+Filiasi: 24 \ miercuri \ 15:6:2022 \ 19:10:09
+[' Răsarit = 05:40:23 Apus = 21:12:24 Min (°C) = 15.6 Max (°C) =25.43 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.8 Viteza vântului = 0.86 Unghiul vântului = 164 Stare = nori 50-85%']
+Filiasi: 24 \ joi \ 16:6:2022 \ 19:10:13
+[' Răsarit = 05:40:23 Apus = 21:12:49 Min (°C) = 14.35 Max (°C) =28.29 Presiune = 1017 Umiditate (%) = 41 Index UV = 0.78 Viteza vântului = 3.37 Unghiul vântului = 123 Stare = nori 50-85%']
+Filiasi: 24 \ vineri \ 17:6:2022 \ 19:10:35
+[' Răsarit = 05:40:24 Apus = 21:13:11 Min (°C) = 15.58 Max (°C) =28.68 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.65 Viteza vântului = 3.92 Unghiul vântului = 303 Stare = nori 85-100%']
+Filiasi: 24 \ sâmbătă \ 18:6:2022 \ 19:10:19
+[' Răsarit = 05:40:28 Apus = 21:13:32 Min (°C) = 15.21 Max (°C) =26.54 Presiune = 1017 Umiditate (%) = 41 Index UV = 0.81 Viteza vântului = 4.19 Unghiul vântului = 137 Stare = nori 50-85%']
+Filiasi: 24 \ duminică \ 19:6:2022 \ 19:09:23
+[' Răsarit = 05:40:34 Apus = 21:13:50 Min (°C) = 17.77 Max (°C) =29.54 Presiune = 1016 Umiditate (%) = 31 Index UV = 0.58 Viteza vântului = 3.55 Unghiul vântului = 203 Stare = nori 50-85%']
+Filiasi: 25 \ luni \ 20:6:2022 \ 19:09:53
+[' Răsarit = 05:40:43 Apus = 21:14:06 Min (°C) = 16 Max (°C) =30.57 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.83 Viteza vântului = 3 Unghiul vântului = 221 Stare = nori 50-85%']
+Filiasi: 25 \ marți \ 21:6:2022 \ 19:10:33
+[' Răsarit = 05:40:53 Apus = 21:14:20 Min (°C) = 17.14 Max (°C) =35.05 Presiune = 1008 Umiditate (%) = 29 Index UV = 0.87 Viteza vântului = 8.27 Unghiul vântului = 305 Stare = cer senin']
+Filiasi: 25 \ miercuri \ 22:6:2022 \ 19:10:10
+[' Răsarit = 05:41:06 Apus = 21:14:32 Min (°C) = 15.16 Max (°C) =31.18 Presiune = 1008 Umiditate (%) = 19 Index UV = 0.79 Viteza vântului = 6.86 Unghiul vântului = 314 Stare = nori 25-50%']
+Filiasi: 25 \ joi \ 23:6:2022 \ 19:10:10
+[' Răsarit = 05:41:21 Apus = 21:14:41 Min (°C) = 13.98 Max (°C) =27.43 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.73 Viteza vântului = 1.28 Unghiul vântului = 241 Stare = nori 25-50%']
+Filiasi: 25 \ duminică \ 26:6:2022 \ 19:50:40
+[' Răsarit = 05:42:18 Apus = 21:14:56 Min (°C) = 19.08 Max (°C) =30.12 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.24 Viteza vântului = 2.04 Unghiul vântului = 110 Stare = nori 50-85%']
+Filiasi: 26 \ luni \ 27:6:2022 \ 19:10:24
+[' Răsarit = 05:42:41 Apus = 21:14:56 Min (°C) = 16.16 Max (°C) =32.37 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.65 Viteza vântului = 3.23 Unghiul vântului = 137 Stare = nori 50-85%']
+Filiasi: 26 \ marți \ 28:6:2022 \ 19:10:30
+[' Răsarit = 05:43:06 Apus = 21:14:55 Min (°C) = 19.51 Max (°C) =33.83 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.83 Viteza vântului = 3.76 Unghiul vântului = 99 Stare = nori 50-85%']
+Filiasi: 26 \ miercuri \ 29:6:2022 \ 19:10:29
+[' Răsarit = 05:43:33 Apus = 21:14:50 Min (°C) = 18.55 Max (°C) =34.24 Presiune = 1012 Umiditate (%) = 21 Index UV = 0.85 Viteza vântului = 4.49 Unghiul vântului = 135 Stare = cer senin']
+Filiasi: 26 \ joi \ 30:6:2022 \ 19:10:58
+[' Răsarit = 05:44:02 Apus = 21:14:44 Min (°C) = 19.87 Max (°C) =35.72 Presiune = 1011 Umiditate (%) = 21 Index UV = 0.78 Viteza vântului = 4.72 Unghiul vântului = 131 Stare = cer senin']
+Filiasi: 26 \ vineri \ 01:7:2022 \ 19:10:36
+[' Răsarit = 05:44:33 Apus = 21:14:35 Min (°C) = 20.62 Max (°C) =37.33 Presiune = 1013 Umiditate (%) = 31 Index UV = 0.75 Viteza vântului = 0.69 Unghiul vântului = 103 Stare = nori 85-100%']
+Filiasi: 26 \ sâmbătă \ 02:7:2022 \ 19:10:27
+[' Răsarit = 05:45:05 Apus = 21:14:24 Min (°C) = 20.94 Max (°C) =35.13 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.5 Viteza vântului = 5.01 Unghiul vântului = 35 Stare = nori 50-85%']

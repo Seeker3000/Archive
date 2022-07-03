@@ -952,3 +952,83 @@ Bistrita: 20 \ vineri \ 20:5:2022 \ 19:04:33
 [' Răsarit = 05:40:53 Apus = 20:56:25 Min (°C) = 7.06 Max (°C) =20.23 Presiune = 1022 Umiditate (%) = 70 Index UV = 0.61 Viteza vântului = 2.03 Unghiul vântului = 299 Stare = nori 50-85%']
 Bistrita: 20 \ sâmbătă \ 21:5:2022 \ 19:05:16
 [' Răsarit = 05:39:50 Apus = 20:57:36 Min (°C) = 10.9 Max (°C) =20.75 Presiune = 1013 Umiditate (%) = 83 Index UV = 0.62 Viteza vântului = 4.15 Unghiul vântului = 287 Stare = nori 85-100%']
+Bistrita: 20 \ duminică \ 22:5:2022 \ 19:04:55
+[' Răsarit = 05:38:50 Apus = 20:58:46 Min (°C) = 10.15 Max (°C) =17.44 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.63 Viteza vântului = 5.2 Unghiul vântului = 302 Stare = nori 50-85%']
+Bistrita: 21 \ luni \ 23:5:2022 \ 19:04:41
+[' Răsarit = 05:37:51 Apus = 20:59:55 Min (°C) = 6.99 Max (°C) =16.73 Presiune = 1010 Umiditate (%) = 70 Index UV = 0.53 Viteza vântului = 3.2 Unghiul vântului = 290 Stare = nori 50-85%']
+Bistrita: 21 \ marți \ 24:5:2022 \ 19:04:54
+[' Răsarit = 05:36:54 Apus = 21:01:03 Min (°C) = 7.39 Max (°C) =19.28 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.66 Viteza vântului = 1.23 Unghiul vântului = 205 Stare = nori 85-100%']
+Bistrita: 21 \ miercuri \ 25:5:2022 \ 19:04:37
+[' Răsarit = 05:36:00 Apus = 21:02:10 Min (°C) = 10.18 Max (°C) =23.86 Presiune = 1012 Umiditate (%) = 69 Index UV = 0.68 Viteza vântului = 0.85 Unghiul vântului = 305 Stare = nori 25-50%']
+Bistrita: 21 \ joi \ 26:5:2022 \ 19:04:39
+[' Răsarit = 05:35:08 Apus = 21:03:15 Min (°C) = 13.62 Max (°C) =19.47 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.36 Viteza vântului = 4.25 Unghiul vântului = 300 Stare = nori 50-85%']
+Bistrita: 21 \ vineri \ 27:5:2022 \ 19:05:15
+[' Răsarit = 05:34:17 Apus = 21:04:19 Min (°C) = 11.85 Max (°C) =20.16 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.57 Viteza vântului = 3.29 Unghiul vântului = 285 Stare = nori 50-85%']
+Bistrita: 21 \ sâmbătă \ 28:5:2022 \ 19:05:40
+[' Răsarit = 05:33:29 Apus = 21:05:21 Min (°C) = 10.97 Max (°C) =17.84 Presiune = 1014 Umiditate (%) = 94 Index UV = 0.35 Viteza vântului = 2.46 Unghiul vântului = 191 Stare = nori 85-100%']
+Bistrita: 21 \ duminică \ 29:5:2022 \ 19:04:51
+[' Răsarit = 05:32:44 Apus = 21:06:22 Min (°C) = 8.74 Max (°C) =19.54 Presiune = 1008 Umiditate (%) = 82 Index UV = 0.3 Viteza vântului = 1.5 Unghiul vântului = 83 Stare = nori 85-100%']
+Bistrita: 22 \ luni \ 30:5:2022 \ 19:05:28
+[' Răsarit = 05:32:00 Apus = 21:07:22 Min (°C) = 12.59 Max (°C) =18.92 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.67 Viteza vântului = 2.59 Unghiul vântului = 282 Stare = nori 50-85%']
+Bistrita: 22 \ marți \ 31:5:2022 \ 19:04:55
+[' Răsarit = 05:31:19 Apus = 21:08:20 Min (°C) = 11.71 Max (°C) =21.9 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.69 Viteza vântului = 1.33 Unghiul vântului = 318 Stare = nori 25-50%']
+Bistrita: 22 \ miercuri \ 01:6:2022 \ 19:05:01
+[' Răsarit = 05:30:40 Apus = 21:09:16 Min (°C) = 12.41 Max (°C) =23.68 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.75 Viteza vântului = 2.28 Unghiul vântului = 328 Stare = nori 25-50%']
+Bistrita: 22 \ joi \ 02:6:2022 \ 19:04:40
+[' Răsarit = 05:30:04 Apus = 21:10:11 Min (°C) = 13.25 Max (°C) =24.68 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.75 Viteza vântului = 1.42 Unghiul vântului = 249 Stare = nori 50-85%']
+Bistrita: 22 \ vineri \ 03:6:2022 \ 19:04:54
+[' Răsarit = 05:29:30 Apus = 21:11:04 Min (°C) = 13.83 Max (°C) =24.58 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.82 Viteza vântului = 1.4 Unghiul vântului = 80 Stare = nori 10-25%']
+Bistrita: 22 \ sâmbătă \ 04:6:2022 \ 19:05:10
+[' Răsarit = 05:28:58 Apus = 21:11:55 Min (°C) = 14.27 Max (°C) =23.97 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.39 Viteza vântului = 0.95 Unghiul vântului = 89 Stare = nori 50-85%']
+Bistrita: 22 \ duminică \ 05:6:2022 \ 19:04:41
+[' Răsarit = 05:28:29 Apus = 21:12:45 Min (°C) = 15.28 Max (°C) =23.05 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.79 Viteza vântului = 2.32 Unghiul vântului = 314 Stare = nori 10-25%']
+Bistrita: 23 \ luni \ 06:6:2022 \ 19:05:23
+[' Răsarit = 05:28:02 Apus = 21:13:32 Min (°C) = 11.57 Max (°C) =22.76 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.83 Viteza vântului = 1.98 Unghiul vântului = 94 Stare = nori 50-85%']
+Bistrita: 23 \ marți \ 07:6:2022 \ 19:04:32
+[' Răsarit = 05:27:38 Apus = 21:14:18 Min (°C) = 11.65 Max (°C) =23.36 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.87 Viteza vântului = 0.54 Unghiul vântului = 214 Stare = cer senin']
+Bistrita: 23 \ miercuri \ 08:6:2022 \ 19:05:04
+[' Răsarit = 05:27:16 Apus = 21:15:01 Min (°C) = 12.75 Max (°C) =24.3 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.86 Viteza vântului = 2.55 Unghiul vântului = 128 Stare = nori 25-50%']
+Bistrita: 23 \ joi \ 09:6:2022 \ 19:04:44
+[' Răsarit = 05:26:56 Apus = 21:15:43 Min (°C) = 15.44 Max (°C) =24.58 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.83 Viteza vântului = 1.57 Unghiul vântului = 57 Stare = nori 85-100%']
+Bistrita: 23 \ vineri \ 10:6:2022 \ 19:04:50
+[' Răsarit = 05:26:39 Apus = 21:16:22 Min (°C) = 13.88 Max (°C) =24.07 Presiune = 1013 Umiditate (%) = 71 Index UV = 0.76 Viteza vântului = 3.91 Unghiul vântului = 49 Stare = nori 50-85%']
+Bistrita: 23 \ sâmbătă \ 11:6:2022 \ 19:04:44
+[' Răsarit = 05:26:25 Apus = 21:17:00 Min (°C) = 14.28 Max (°C) =23.46 Presiune = 1013 Umiditate (%) = 78 Index UV = 0.83 Viteza vântului = 3.9 Unghiul vântului = 50 Stare = nori 50-85%']
+Bistrita: 23 \ duminică \ 12:6:2022 \ 19:04:44
+[' Răsarit = 05:26:13 Apus = 21:17:35 Min (°C) = 13.86 Max (°C) =25.01 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.64 Viteza vântului = 2.36 Unghiul vântului = 44 Stare = nori 25-50%']
+Bistrita: 24 \ luni \ 13:6:2022 \ 19:04:59
+[' Răsarit = 05:26:03 Apus = 21:18:08 Min (°C) = 13.24 Max (°C) =24.62 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.87 Viteza vântului = 2.29 Unghiul vântului = 318 Stare = nori 25-50%']
+Bistrita: 24 \ marți \ 14:6:2022 \ 19:04:39
+[' Răsarit = 05:25:56 Apus = 21:18:39 Min (°C) = 14.6 Max (°C) =20.45 Presiune = 1016 Umiditate (%) = 60 Index UV = 0.78 Viteza vântului = 3.11 Unghiul vântului = 290 Stare = nori 25-50%']
+Bistrita: 24 \ miercuri \ 15:6:2022 \ 19:04:35
+[' Răsarit = 05:25:52 Apus = 21:19:07 Min (°C) = 9.28 Max (°C) =20.74 Presiune = 1020 Umiditate (%) = 61 Index UV = 0.8 Viteza vântului = 2.58 Unghiul vântului = 304 Stare = nori 25-50%']
+Bistrita: 24 \ joi \ 16:6:2022 \ 19:04:37
+[' Răsarit = 05:25:50 Apus = 21:19:33 Min (°C) = 9.56 Max (°C) =22.94 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.75 Viteza vântului = 1.12 Unghiul vântului = 276 Stare = nori 10-25%']
+Bistrita: 24 \ vineri \ 17:6:2022 \ 19:04:49
+[' Răsarit = 05:25:50 Apus = 21:19:57 Min (°C) = 11.88 Max (°C) =21.47 Presiune = 1017 Umiditate (%) = 74 Index UV = 0.79 Viteza vântului = 2.67 Unghiul vântului = 0 Stare = nori 50-85%']
+Bistrita: 24 \ sâmbătă \ 18:6:2022 \ 19:04:39
+[' Răsarit = 05:25:53 Apus = 21:20:19 Min (°C) = 9.96 Max (°C) =22.77 Presiune = 1019 Umiditate (%) = 58 Index UV = 0.81 Viteza vântului = 1.55 Unghiul vântului = 314 Stare = nori 25-50%']
+Bistrita: 24 \ duminică \ 19:6:2022 \ 19:04:20
+[' Răsarit = 05:25:59 Apus = 21:20:38 Min (°C) = 11.5 Max (°C) =25.47 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.86 Viteza vântului = 0.63 Unghiul vântului = 241 Stare = cer senin']
+Bistrita: 25 \ luni \ 20:6:2022 \ 19:04:30
+[' Răsarit = 05:26:06 Apus = 21:20:54 Min (°C) = 14.29 Max (°C) =27.15 Presiune = 1009 Umiditate (%) = 59 Index UV = 0.88 Viteza vântului = 2.85 Unghiul vântului = 268 Stare = cer senin']
+Bistrita: 25 \ marți \ 21:6:2022 \ 19:04:56
+[' Răsarit = 05:26:17 Apus = 21:21:08 Min (°C) = 14.97 Max (°C) =25.95 Presiune = 1008 Umiditate (%) = 50 Index UV = 0.77 Viteza vântului = 5.63 Unghiul vântului = 311 Stare = cer senin']
+Bistrita: 25 \ miercuri \ 22:6:2022 \ 19:04:43
+[' Răsarit = 05:26:29 Apus = 21:21:20 Min (°C) = 7.29 Max (°C) =21.89 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.82 Viteza vântului = 5.42 Unghiul vântului = 306 Stare = nori 10-25%']
+Bistrita: 25 \ joi \ 23:6:2022 \ 19:04:38
+[' Răsarit = 05:26:45 Apus = 21:21:29 Min (°C) = 10.63 Max (°C) =23.64 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.74 Viteza vântului = 2.31 Unghiul vântului = 57 Stare = nori 25-50%']
+Bistrita: 25 \ duminică \ 26:6:2022 \ 19:45:02
+[' Răsarit = 05:27:44 Apus = 21:21:41 Min (°C) = 14.02 Max (°C) =27.23 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.09 Viteza vântului = 0.57 Unghiul vântului = 177 Stare = nori 85-100%']
+Bistrita: 26 \ luni \ 27:6:2022 \ 19:04:47
+[' Răsarit = 05:28:09 Apus = 21:21:41 Min (°C) = 12.93 Max (°C) =26.83 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.83 Viteza vântului = 1.53 Unghiul vântului = 47 Stare = nori 50-85%']
+Bistrita: 26 \ marți \ 28:6:2022 \ 19:04:45
+[' Răsarit = 05:28:35 Apus = 21:21:37 Min (°C) = 15.64 Max (°C) =27.66 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.56 Viteza vântului = 1.4 Unghiul vântului = 39 Stare = nori 50-85%']
+Bistrita: 26 \ miercuri \ 29:6:2022 \ 19:04:47
+[' Răsarit = 05:29:04 Apus = 21:21:31 Min (°C) = 16.55 Max (°C) =31.74 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.87 Viteza vântului = 0.93 Unghiul vântului = 61 Stare = nori 10-25%']
+Bistrita: 26 \ joi \ 30:6:2022 \ 19:04:59
+[' Răsarit = 05:29:35 Apus = 21:21:22 Min (°C) = 18.38 Max (°C) =32.96 Presiune = 1012 Umiditate (%) = 46 Index UV = 0.48 Viteza vântului = 3.22 Unghiul vântului = 60 Stare = nori 25-50%']
+Bistrita: 26 \ vineri \ 01:7:2022 \ 19:04:55
+[' Răsarit = 05:30:09 Apus = 21:21:11 Min (°C) = 18.87 Max (°C) =33.06 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.72 Viteza vântului = 2.89 Unghiul vântului = 91 Stare = ploaie ușoară']
+Bistrita: 26 \ sâmbătă \ 02:7:2022 \ 19:04:45
+[' Răsarit = 05:30:44 Apus = 21:20:58 Min (°C) = 17.39 Max (°C) =30.2 Presiune = 1018 Umiditate (%) = 70 Index UV = 0.24 Viteza vântului = 1.76 Unghiul vântului = 33 Stare = ploaie intensă']

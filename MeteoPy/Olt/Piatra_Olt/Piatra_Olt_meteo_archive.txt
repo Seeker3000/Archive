@@ -952,3 +952,83 @@ Piatra_Olt: 20 \ vineri \ 20:5:2022 \ 19:16:09
 [' Răsarit = 05:51:05 Apus = 20:48:08 Min (°C) = 9.87 Max (°C) =25.45 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.61 Viteza vântului = 2.75 Unghiul vântului = 241 Stare = nori 10-25%']
 Piatra_Olt: 20 \ sâmbătă \ 21:5:2022 \ 19:18:27
 [' Răsarit = 05:50:09 Apus = 20:49:12 Min (°C) = 12.38 Max (°C) =29.4 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.63 Viteza vântului = 3.03 Unghiul vântului = 245 Stare = cer senin']
+Piatra_Olt: 20 \ duminică \ 22:5:2022 \ 19:17:35
+[' Răsarit = 05:49:16 Apus = 20:50:15 Min (°C) = 16.51 Max (°C) =25.41 Presiune = 1008 Umiditate (%) = 40 Index UV = 0.6 Viteza vântului = 6.61 Unghiul vântului = 295 Stare = cer senin']
+Piatra_Olt: 21 \ luni \ 23:5:2022 \ 19:16:58
+[' Răsarit = 05:48:24 Apus = 20:51:17 Min (°C) = 13.02 Max (°C) =24.34 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.63 Viteza vântului = 4.62 Unghiul vântului = 117 Stare = nori 50-85%']
+Piatra_Olt: 21 \ marți \ 24:5:2022 \ 19:16:57
+[' Răsarit = 05:47:34 Apus = 20:52:18 Min (°C) = 12.68 Max (°C) =21.91 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.62 Viteza vântului = 4.36 Unghiul vântului = 72 Stare = nori 50-85%']
+Piatra_Olt: 21 \ miercuri \ 25:5:2022 \ 19:17:02
+[' Răsarit = 05:46:46 Apus = 20:53:18 Min (°C) = 12.52 Max (°C) =27.58 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.66 Viteza vântului = 2.1 Unghiul vântului = 95 Stare = nori 25-50%']
+Piatra_Olt: 21 \ joi \ 26:5:2022 \ 19:16:57
+[' Răsarit = 05:46:00 Apus = 20:54:17 Min (°C) = 16.8 Max (°C) =28.23 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.66 Viteza vântului = 6 Unghiul vântului = 290 Stare = cer senin']
+Piatra_Olt: 21 \ vineri \ 27:5:2022 \ 19:16:56
+[' Răsarit = 05:45:16 Apus = 20:55:15 Min (°C) = 14.42 Max (°C) =28.23 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.66 Viteza vântului = 1.95 Unghiul vântului = 296 Stare = nori 10-25%']
+Piatra_Olt: 21 \ sâmbătă \ 28:5:2022 \ 19:18:06
+[' Răsarit = 05:44:34 Apus = 20:56:11 Min (°C) = 16.78 Max (°C) =28.96 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.34 Viteza vântului = 3.42 Unghiul vântului = 245 Stare = ploaie moderată']
+Piatra_Olt: 21 \ duminică \ 29:5:2022 \ 19:16:37
+[' Răsarit = 05:43:55 Apus = 20:57:06 Min (°C) = 13.39 Max (°C) =21.18 Presiune = 1005 Umiditate (%) = 94 Index UV = 0.16 Viteza vântului = 10.09 Unghiul vântului = 63 Stare = nori 85-100%']
+Piatra_Olt: 22 \ luni \ 30:5:2022 \ 19:17:28
+[' Răsarit = 05:43:17 Apus = 20:58:00 Min (°C) = 15.03 Max (°C) =25.21 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.69 Viteza vântului = 2.92 Unghiul vântului = 265 Stare = cer senin']
+Piatra_Olt: 22 \ marți \ 31:5:2022 \ 19:18:13
+[' Răsarit = 05:42:41 Apus = 20:58:53 Min (°C) = 16.11 Max (°C) =26.98 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.67 Viteza vântului = 1.4 Unghiul vântului = 256 Stare = ploaie ușoară']
+Piatra_Olt: 22 \ miercuri \ 01:6:2022 \ 19:16:53
+[' Răsarit = 05:42:08 Apus = 20:59:44 Min (°C) = 15.38 Max (°C) =28.19 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.3 Viteza vântului = 0.35 Unghiul vântului = 271 Stare = nori 50-85%']
+Piatra_Olt: 22 \ joi \ 02:6:2022 \ 19:16:21
+[' Răsarit = 05:41:36 Apus = 21:00:33 Min (°C) = 16.83 Max (°C) =29.7 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.73 Viteza vântului = 0.84 Unghiul vântului = 89 Stare = nori 10-25%']
+Piatra_Olt: 22 \ vineri \ 03:6:2022 \ 19:16:41
+[' Răsarit = 05:41:07 Apus = 21:01:22 Min (°C) = 17.84 Max (°C) =29.05 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.66 Viteza vântului = 4.06 Unghiul vântului = 102 Stare = nori 50-85%']
+Piatra_Olt: 22 \ sâmbătă \ 04:6:2022 \ 19:17:16
+[' Răsarit = 05:40:40 Apus = 21:02:08 Min (°C) = 17.42 Max (°C) =28.91 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.79 Viteza vântului = 0.71 Unghiul vântului = 180 Stare = nori 50-85%']
+Piatra_Olt: 22 \ duminică \ 05:6:2022 \ 19:16:22
+[' Răsarit = 05:40:15 Apus = 21:02:53 Min (°C) = 18.44 Max (°C) =31.37 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.79 Viteza vântului = 3.25 Unghiul vântului = 306 Stare = cer senin']
+Piatra_Olt: 23 \ luni \ 06:6:2022 \ 19:17:20
+[' Răsarit = 05:39:53 Apus = 21:03:36 Min (°C) = 16.6 Max (°C) =24.75 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.35 Viteza vântului = 3.81 Unghiul vântului = 101 Stare = nori 25-50%']
+Piatra_Olt: 23 \ marți \ 07:6:2022 \ 19:16:14
+[' Răsarit = 05:39:32 Apus = 21:04:18 Min (°C) = 17.35 Max (°C) =26.39 Presiune = 1012 Umiditate (%) = 44 Index UV = 0.61 Viteza vântului = 2.57 Unghiul vântului = 108 Stare = nori 50-85%']
+Piatra_Olt: 23 \ miercuri \ 08:6:2022 \ 19:16:55
+[' Răsarit = 05:39:14 Apus = 21:04:58 Min (°C) = 14.63 Max (°C) =25.34 Presiune = 1009 Umiditate (%) = 56 Index UV = 0.56 Viteza vântului = 4.52 Unghiul vântului = 119 Stare = nori 50-85%']
+Piatra_Olt: 23 \ joi \ 09:6:2022 \ 19:16:35
+[' Răsarit = 05:38:58 Apus = 21:05:36 Min (°C) = 14.75 Max (°C) =25.34 Presiune = 1006 Umiditate (%) = 54 Index UV = 0.49 Viteza vântului = 4.16 Unghiul vântului = 83 Stare = nori 85-100%']
+Piatra_Olt: 23 \ vineri \ 10:6:2022 \ 19:16:40
+[' Răsarit = 05:38:44 Apus = 21:06:12 Min (°C) = 15.25 Max (°C) =24.69 Presiune = 1009 Umiditate (%) = 59 Index UV = 0.42 Viteza vântului = 5.59 Unghiul vântului = 74 Stare = nori 85-100%']
+Piatra_Olt: 23 \ sâmbătă \ 11:6:2022 \ 19:16:36
+[' Răsarit = 05:38:33 Apus = 21:06:47 Min (°C) = 15.58 Max (°C) =22.45 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.72 Viteza vântului = 2.46 Unghiul vântului = 130 Stare = nori 85-100%']
+Piatra_Olt: 23 \ duminică \ 12:6:2022 \ 19:16:30
+[' Răsarit = 05:38:24 Apus = 21:07:19 Min (°C) = 16.9 Max (°C) =25.84 Presiune = 1012 Umiditate (%) = 80 Index UV = 0.42 Viteza vântului = 2.26 Unghiul vântului = 298 Stare = ploaie ușoară']
+Piatra_Olt: 24 \ luni \ 13:6:2022 \ 19:16:27
+[' Răsarit = 05:38:16 Apus = 21:07:50 Min (°C) = 16.14 Max (°C) =28.62 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.3 Viteza vântului = 3.02 Unghiul vântului = 248 Stare = nori 50-85%']
+Piatra_Olt: 24 \ marți \ 14:6:2022 \ 19:16:05
+[' Răsarit = 05:38:12 Apus = 21:08:18 Min (°C) = 17.1 Max (°C) =29.05 Presiune = 1013 Umiditate (%) = 40 Index UV = 0.77 Viteza vântului = 1.76 Unghiul vântului = 261 Stare = nori 25-50%']
+Piatra_Olt: 24 \ miercuri \ 15:6:2022 \ 19:16:19
+[' Răsarit = 05:38:09 Apus = 21:08:45 Min (°C) = 16.98 Max (°C) =24.34 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.76 Viteza vântului = 0.36 Unghiul vântului = 296 Stare = nori 85-100%']
+Piatra_Olt: 24 \ joi \ 16:6:2022 \ 19:16:25
+[' Răsarit = 05:38:09 Apus = 21:09:09 Min (°C) = 14.71 Max (°C) =28.23 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.75 Viteza vântului = 3.24 Unghiul vântului = 110 Stare = nori 50-85%']
+Piatra_Olt: 24 \ vineri \ 17:6:2022 \ 19:16:48
+[' Răsarit = 05:38:10 Apus = 21:09:32 Min (°C) = 15.88 Max (°C) =28.82 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.63 Viteza vântului = 1.48 Unghiul vântului = 283 Stare = nori 85-100%']
+Piatra_Olt: 24 \ sâmbătă \ 18:6:2022 \ 19:16:33
+[' Răsarit = 05:38:14 Apus = 21:09:52 Min (°C) = 15.21 Max (°C) =24.84 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.56 Viteza vântului = 3.27 Unghiul vântului = 117 Stare = nori 10-25%']
+Piatra_Olt: 24 \ duminică \ 19:6:2022 \ 19:15:00
+[' Răsarit = 05:38:21 Apus = 21:10:10 Min (°C) = 14.96 Max (°C) =28.25 Presiune = 1016 Umiditate (%) = 32 Index UV = 0.81 Viteza vântului = 3.41 Unghiul vântului = 162 Stare = nori 25-50%']
+Piatra_Olt: 25 \ luni \ 20:6:2022 \ 19:15:57
+[' Răsarit = 05:38:29 Apus = 21:10:26 Min (°C) = 16.2 Max (°C) =29.51 Presiune = 1010 Umiditate (%) = 38 Index UV = 0.27 Viteza vântului = 3.13 Unghiul vântului = 220 Stare = nori 50-85%']
+Piatra_Olt: 25 \ marți \ 21:6:2022 \ 19:16:42
+[' Răsarit = 05:38:39 Apus = 21:10:40 Min (°C) = 17.94 Max (°C) =34.4 Presiune = 1007 Umiditate (%) = 30 Index UV = 0.83 Viteza vântului = 7.16 Unghiul vântului = 318 Stare = cer senin']
+Piatra_Olt: 25 \ miercuri \ 22:6:2022 \ 19:16:11
+[' Răsarit = 05:38:52 Apus = 21:10:52 Min (°C) = 16.06 Max (°C) =30.4 Presiune = 1007 Umiditate (%) = 22 Index UV = 0.81 Viteza vântului = 6.14 Unghiul vântului = 312 Stare = nori 25-50%']
+Piatra_Olt: 25 \ joi \ 23:6:2022 \ 19:16:16
+[' Răsarit = 05:39:07 Apus = 21:11:02 Min (°C) = 14.68 Max (°C) =27.34 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.74 Viteza vântului = 3.06 Unghiul vântului = 251 Stare = nori 25-50%']
+Piatra_Olt: 25 \ duminică \ 26:6:2022 \ 19:57:16
+[' Răsarit = 05:40:04 Apus = 21:11:17 Min (°C) = 18.61 Max (°C) =28.62 Presiune = 1016 Umiditate (%) = 80 Index UV = 0.22 Viteza vântului = 2.39 Unghiul vântului = 128 Stare = nori 85-100%']
+Piatra_Olt: 26 \ luni \ 27:6:2022 \ 19:16:32
+[' Răsarit = 05:40:27 Apus = 21:11:17 Min (°C) = 16 Max (°C) =30.48 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.51 Viteza vântului = 2.91 Unghiul vântului = 113 Stare = nori 10-25%']
+Piatra_Olt: 26 \ marți \ 28:6:2022 \ 19:16:56
+[' Răsarit = 05:40:52 Apus = 21:11:15 Min (°C) = 19.25 Max (°C) =31.51 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.76 Viteza vântului = 3.3 Unghiul vântului = 341 Stare = nori 85-100%']
+Piatra_Olt: 26 \ miercuri \ 29:6:2022 \ 19:16:45
+[' Răsarit = 05:41:19 Apus = 21:11:11 Min (°C) = 18.74 Max (°C) =33.62 Presiune = 1013 Umiditate (%) = 22 Index UV = 0.81 Viteza vântului = 4.26 Unghiul vântului = 129 Stare = cer senin']
+Piatra_Olt: 26 \ joi \ 30:6:2022 \ 19:17:31
+[' Răsarit = 05:41:47 Apus = 21:11:05 Min (°C) = 20.35 Max (°C) =34.6 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.78 Viteza vântului = 3.25 Unghiul vântului = 131 Stare = cer senin']
+Piatra_Olt: 26 \ vineri \ 01:7:2022 \ 19:16:57
+[' Răsarit = 05:42:18 Apus = 21:10:56 Min (°C) = 20.16 Max (°C) =35.1 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.25 Viteza vântului = 2.35 Unghiul vântului = 56 Stare = nori 50-85%']
+Piatra_Olt: 26 \ sâmbătă \ 02:7:2022 \ 19:16:45
+[' Răsarit = 05:42:51 Apus = 21:10:46 Min (°C) = 20.43 Max (°C) =33.21 Presiune = 1017 Umiditate (%) = 80 Index UV = 0.49 Viteza vântului = 6.09 Unghiul vântului = 323 Stare = ploaie moderată']

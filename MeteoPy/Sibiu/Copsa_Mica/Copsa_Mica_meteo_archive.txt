@@ -954,3 +954,83 @@ Copsa_Mica: 20 \ vineri \ 20:5:2022 \ 19:18:25
 [' Răsarit = 05:45:30 Apus = 20:53:58 Min (°C) = 7.64 Max (°C) =25.97 Presiune = 1021 Umiditate (%) = 55 Index UV = 0.63 Viteza vântului = 0.85 Unghiul vântului = 290 Stare = nori 10-25%']
 Copsa_Mica: 20 \ sâmbătă \ 21:5:2022 \ 19:20:48
 [' Răsarit = 05:44:30 Apus = 20:55:06 Min (°C) = 11.25 Max (°C) =25.97 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.64 Viteza vântului = 3.08 Unghiul vântului = 315 Stare = nori 85-100%']
+Copsa_Mica: 20 \ duminică \ 22:5:2022 \ 19:20:01
+[' Răsarit = 05:43:32 Apus = 20:56:14 Min (°C) = 12.04 Max (°C) =18.97 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.51 Viteza vântului = 1.21 Unghiul vântului = 335 Stare = nori 85-100%']
+Copsa_Mica: 21 \ luni \ 23:5:2022 \ 19:19:16
+[' Răsarit = 05:42:36 Apus = 20:57:20 Min (°C) = 10.6 Max (°C) =19.9 Presiune = 1010 Umiditate (%) = 63 Index UV = 0.63 Viteza vântului = 2.3 Unghiul vântului = 341 Stare = nori 50-85%']
+Copsa_Mica: 21 \ marți \ 24:5:2022 \ 19:19:18
+[' Răsarit = 05:41:42 Apus = 20:58:25 Min (°C) = 8.58 Max (°C) =19.46 Presiune = 1013 Umiditate (%) = 90 Index UV = 0.25 Viteza vântului = 1.95 Unghiul vântului = 194 Stare = nori 85-100%']
+Copsa_Mica: 21 \ miercuri \ 25:5:2022 \ 19:19:20
+[' Răsarit = 05:40:50 Apus = 20:59:29 Min (°C) = 10.75 Max (°C) =27.97 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.61 Viteza vântului = 2.43 Unghiul vântului = 193 Stare = nori 25-50%']
+Copsa_Mica: 21 \ joi \ 26:5:2022 \ 19:19:18
+[' Răsarit = 05:40:00 Apus = 21:00:32 Min (°C) = 14.76 Max (°C) =23.08 Presiune = 1020 Umiditate (%) = 68 Index UV = 0.63 Viteza vântului = 2.73 Unghiul vântului = 20 Stare = nori 85-100%']
+Copsa_Mica: 21 \ vineri \ 27:5:2022 \ 19:19:15
+[' Răsarit = 05:39:13 Apus = 21:01:33 Min (°C) = 12.54 Max (°C) =24.9 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.68 Viteza vântului = 0.79 Unghiul vântului = 297 Stare = nori 10-25%']
+Copsa_Mica: 21 \ sâmbătă \ 28:5:2022 \ 19:20:32
+[' Răsarit = 05:38:27 Apus = 21:02:33 Min (°C) = 12.55 Max (°C) =21.06 Presiune = 1015 Umiditate (%) = 95 Index UV = 0.09 Viteza vântului = 0.67 Unghiul vântului = 56 Stare = nori 85-100%']
+Copsa_Mica: 21 \ duminică \ 29:5:2022 \ 19:18:54
+[' Răsarit = 05:37:44 Apus = 21:03:32 Min (°C) = 12.01 Max (°C) =19.23 Presiune = 1007 Umiditate (%) = 73 Index UV = 0.59 Viteza vântului = 3.23 Unghiul vântului = 131 Stare = ploaie ușoară']
+Copsa_Mica: 22 \ luni \ 30:5:2022 \ 19:19:44
+[' Răsarit = 05:37:02 Apus = 21:04:30 Min (°C) = 14.21 Max (°C) =22.02 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.41 Viteza vântului = 2.72 Unghiul vântului = 23 Stare = nori 50-85%']
+Copsa_Mica: 22 \ marți \ 31:5:2022 \ 19:21:22
+[' Răsarit = 05:36:23 Apus = 21:05:25 Min (°C) = 12.75 Max (°C) =23.46 Presiune = 1016 Umiditate (%) = 84 Index UV = 0.6 Viteza vântului = 2.15 Unghiul vântului = 113 Stare = nori 50-85%']
+Copsa_Mica: 22 \ miercuri \ 01:6:2022 \ 19:19:11
+[' Răsarit = 05:35:47 Apus = 21:06:20 Min (°C) = 12.34 Max (°C) =26.04 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.64 Viteza vântului = 1.01 Unghiul vântului = 235 Stare = ploaie ușoară']
+Copsa_Mica: 22 \ joi \ 02:6:2022 \ 19:18:37
+[' Răsarit = 05:35:12 Apus = 21:07:12 Min (°C) = 14.23 Max (°C) =27.09 Presiune = 1017 Umiditate (%) = 81 Index UV = 0.41 Viteza vântului = 3.85 Unghiul vântului = 6 Stare = nori 50-85%']
+Copsa_Mica: 22 \ vineri \ 03:6:2022 \ 19:19:06
+[' Răsarit = 05:34:40 Apus = 21:08:04 Min (°C) = 15.58 Max (°C) =26.19 Presiune = 1019 Umiditate (%) = 65 Index UV = 0.62 Viteza vântului = 1.72 Unghiul vântului = 31 Stare = nori 50-85%']
+Copsa_Mica: 22 \ sâmbătă \ 04:6:2022 \ 19:19:37
+[' Răsarit = 05:34:10 Apus = 21:08:53 Min (°C) = 15.64 Max (°C) =25.4 Presiune = 1016 Umiditate (%) = 81 Index UV = 0.17 Viteza vântului = 1.55 Unghiul vântului = 84 Stare = nori 50-85%']
+Copsa_Mica: 22 \ duminică \ 05:6:2022 \ 19:18:36
+[' Răsarit = 05:33:43 Apus = 21:09:41 Min (°C) = 15.5 Max (°C) =24.1 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.8 Viteza vântului = 2.71 Unghiul vântului = 328 Stare = nori 25-50%']
+Copsa_Mica: 23 \ luni \ 06:6:2022 \ 19:19:44
+[' Răsarit = 05:33:17 Apus = 21:10:26 Min (°C) = 12.12 Max (°C) =24.19 Presiune = 1015 Umiditate (%) = 61 Index UV = 0.81 Viteza vântului = 3.67 Unghiul vântului = 93 Stare = cer senin']
+Copsa_Mica: 23 \ marți \ 07:6:2022 \ 19:18:35
+[' Răsarit = 05:32:55 Apus = 21:11:10 Min (°C) = 12.08 Max (°C) =25.96 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.82 Viteza vântului = 1.91 Unghiul vântului = 144 Stare = cer senin']
+Copsa_Mica: 23 \ miercuri \ 08:6:2022 \ 19:19:11
+[' Răsarit = 05:32:34 Apus = 21:11:53 Min (°C) = 12.72 Max (°C) =25.5 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.82 Viteza vântului = 3.74 Unghiul vântului = 129 Stare = nori 50-85%']
+Copsa_Mica: 23 \ joi \ 09:6:2022 \ 19:18:54
+[' Răsarit = 05:32:16 Apus = 21:12:33 Min (°C) = 13.72 Max (°C) =24.35 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.8 Viteza vântului = 4.58 Unghiul vântului = 112 Stare = nori 85-100%']
+Copsa_Mica: 23 \ vineri \ 10:6:2022 \ 19:18:58
+[' Răsarit = 05:32:00 Apus = 21:13:11 Min (°C) = 13.27 Max (°C) =23.26 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.8 Viteza vântului = 3.72 Unghiul vântului = 103 Stare = nori 50-85%']
+Copsa_Mica: 23 \ sâmbătă \ 11:6:2022 \ 19:18:59
+[' Răsarit = 05:31:47 Apus = 21:13:47 Min (°C) = 14.14 Max (°C) =22.61 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.6 Viteza vântului = 0.95 Unghiul vântului = 108 Stare = nori 50-85%']
+Copsa_Mica: 23 \ duminică \ 12:6:2022 \ 19:18:52
+[' Răsarit = 05:31:36 Apus = 21:14:21 Min (°C) = 14.1 Max (°C) =23.91 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.28 Viteza vântului = 0.76 Unghiul vântului = 110 Stare = nori 85-100%']
+Copsa_Mica: 24 \ luni \ 13:6:2022 \ 19:18:39
+[' Răsarit = 05:31:27 Apus = 21:14:53 Min (°C) = 14.09 Max (°C) =26.5 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.65 Viteza vântului = 2.37 Unghiul vântului = 305 Stare = cer senin']
+Copsa_Mica: 24 \ marți \ 14:6:2022 \ 19:18:22
+[' Răsarit = 05:31:21 Apus = 21:15:23 Min (°C) = 14.77 Max (°C) =21.97 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.74 Viteza vântului = 2.98 Unghiul vântului = 323 Stare = nori 50-85%']
+Copsa_Mica: 24 \ miercuri \ 15:6:2022 \ 19:18:35
+[' Răsarit = 05:31:17 Apus = 21:15:51 Min (°C) = 10.85 Max (°C) =23.08 Presiune = 1020 Umiditate (%) = 58 Index UV = 0.6 Viteza vântului = 2.75 Unghiul vântului = 13 Stare = nori 50-85%']
+Copsa_Mica: 24 \ joi \ 16:6:2022 \ 19:18:45
+[' Răsarit = 05:31:16 Apus = 21:16:17 Min (°C) = 11.85 Max (°C) =24.97 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.8 Viteza vântului = 0.55 Unghiul vântului = 71 Stare = nori 25-50%']
+Copsa_Mica: 24 \ vineri \ 17:6:2022 \ 19:19:12
+[' Răsarit = 05:31:17 Apus = 21:16:40 Min (°C) = 13.37 Max (°C) =23.68 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.76 Viteza vântului = 3.64 Unghiul vântului = 310 Stare = nori 85-100%']
+Copsa_Mica: 24 \ sâmbătă \ 18:6:2022 \ 19:18:50
+[' Răsarit = 05:31:20 Apus = 21:17:01 Min (°C) = 11.65 Max (°C) =23.87 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.83 Viteza vântului = 1.83 Unghiul vântului = 345 Stare = cer senin']
+Copsa_Mica: 24 \ duminică \ 19:6:2022 \ 19:17:32
+[' Răsarit = 05:31:26 Apus = 21:17:20 Min (°C) = 12.4 Max (°C) =27.02 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.83 Viteza vântului = 1.22 Unghiul vântului = 151 Stare = cer senin']
+Copsa_Mica: 25 \ luni \ 20:6:2022 \ 19:18:11
+[' Răsarit = 05:31:34 Apus = 21:17:36 Min (°C) = 14.05 Max (°C) =28.84 Presiune = 1009 Umiditate (%) = 50 Index UV = 0.84 Viteza vântului = 1.91 Unghiul vântului = 295 Stare = cer senin']
+Copsa_Mica: 25 \ marți \ 21:6:2022 \ 19:19:00
+[' Răsarit = 05:31:45 Apus = 21:17:50 Min (°C) = 16.54 Max (°C) =29.38 Presiune = 1008 Umiditate (%) = 27 Index UV = 0.84 Viteza vântului = 7.19 Unghiul vântului = 277 Stare = nori 25-50%']
+Copsa_Mica: 25 \ miercuri \ 22:6:2022 \ 19:18:24
+[' Răsarit = 05:31:57 Apus = 21:18:02 Min (°C) = 11.5 Max (°C) =23.84 Presiune = 1011 Umiditate (%) = 41 Index UV = 0.83 Viteza vântului = 4.32 Unghiul vântului = 336 Stare = cer senin']
+Copsa_Mica: 25 \ joi \ 23:6:2022 \ 19:18:34
+[' Răsarit = 05:32:12 Apus = 21:18:11 Min (°C) = 12.7 Max (°C) =25.06 Presiune = 1013 Umiditate (%) = 41 Index UV = 0.75 Viteza vântului = 4.17 Unghiul vântului = 307 Stare = nori 10-25%']
+Copsa_Mica: 25 \ duminică \ 26:6:2022 \ 19:59:54
+[' Răsarit = 05:33:11 Apus = 21:18:24 Min (°C) = 17.01 Max (°C) =26.81 Presiune = 1017 Umiditate (%) = 94 Index UV = 0.1 Viteza vântului = 1.93 Unghiul vântului = 160 Stare = nori 85-100%']
+Copsa_Mica: 26 \ luni \ 27:6:2022 \ 19:18:49
+[' Răsarit = 05:33:35 Apus = 21:18:24 Min (°C) = 13.38 Max (°C) =28.6 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.83 Viteza vântului = 1.46 Unghiul vântului = 311 Stare = nori 25-50%']
+Copsa_Mica: 26 \ marți \ 28:6:2022 \ 19:19:15
+[' Răsarit = 05:34:01 Apus = 21:18:21 Min (°C) = 16.63 Max (°C) =28.84 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.83 Viteza vântului = 1.8 Unghiul vântului = 120 Stare = nori 25-50%']
+Copsa_Mica: 26 \ miercuri \ 29:6:2022 \ 19:19:05
+[' Răsarit = 05:34:29 Apus = 21:18:16 Min (°C) = 17.06 Max (°C) =33.43 Presiune = 1013 Umiditate (%) = 23 Index UV = 0.8 Viteza vântului = 3.68 Unghiul vântului = 158 Stare = nori 10-25%']
+Copsa_Mica: 26 \ joi \ 30:6:2022 \ 19:20:09
+[' Răsarit = 05:34:59 Apus = 21:18:08 Min (°C) = 17.87 Max (°C) =34.34 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.78 Viteza vântului = 2.56 Unghiul vântului = 211 Stare = nori 10-25%']
+Copsa_Mica: 26 \ vineri \ 01:7:2022 \ 19:19:30
+[' Răsarit = 05:35:31 Apus = 21:17:58 Min (°C) = 18.43 Max (°C) =35.02 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.57 Viteza vântului = 5.46 Unghiul vântului = 128 Stare = ploaie ușoară']
+Copsa_Mica: 26 \ sâmbătă \ 02:7:2022 \ 19:19:04
+[' Răsarit = 05:36:06 Apus = 21:17:46 Min (°C) = 17.93 Max (°C) =30.81 Presiune = 1016 Umiditate (%) = 35 Index UV = 0.71 Viteza vântului = 1.95 Unghiul vântului = 337 Stare = nori 25-50%']

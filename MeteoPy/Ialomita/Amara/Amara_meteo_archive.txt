@@ -952,3 +952,83 @@ Amara: 20 \ vineri \ 20:5:2022 \ 19:11:56
 [' Răsarit = 05:38:05 Apus = 20:36:41 Min (°C) = 11.43 Max (°C) =25.21 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.49 Viteza vântului = 4.32 Unghiul vântului = 236 Stare = nori 50-85%']
 Amara: 20 \ sâmbătă \ 21:5:2022 \ 19:13:47
 [' Răsarit = 05:37:09 Apus = 20:37:46 Min (°C) = 13.57 Max (°C) =28.12 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.51 Viteza vântului = 4.74 Unghiul vântului = 239 Stare = nori 10-25%']
+Amara: 20 \ duminică \ 22:5:2022 \ 19:13:00
+[' Răsarit = 05:36:14 Apus = 20:38:50 Min (°C) = 16.95 Max (°C) =23.49 Presiune = 1007 Umiditate (%) = 52 Index UV = 0.25 Viteza vântului = 2.77 Unghiul vântului = 283 Stare = nori 85-100%']
+Amara: 21 \ luni \ 23:5:2022 \ 19:12:37
+[' Răsarit = 05:35:22 Apus = 20:39:52 Min (°C) = 13.92 Max (°C) =20.5 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.38 Viteza vântului = 3.26 Unghiul vântului = 30 Stare = nori 25-50%']
+Amara: 21 \ marți \ 24:5:2022 \ 19:12:35
+[' Răsarit = 05:34:32 Apus = 20:40:54 Min (°C) = 11.97 Max (°C) =22.2 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.48 Viteza vântului = 4.5 Unghiul vântului = 132 Stare = nori 85-100%']
+Amara: 21 \ miercuri \ 25:5:2022 \ 19:12:25
+[' Răsarit = 05:33:43 Apus = 20:41:54 Min (°C) = 11.29 Max (°C) =26 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.54 Viteza vântului = 7.26 Unghiul vântului = 152 Stare = nori 50-85%']
+Amara: 21 \ joi \ 26:5:2022 \ 19:12:26
+[' Răsarit = 05:32:57 Apus = 20:42:54 Min (°C) = 13.31 Max (°C) =28.31 Presiune = 1017 Umiditate (%) = 76 Index UV = 0.46 Viteza vântului = 3.3 Unghiul vântului = 41 Stare = nori 85-100%']
+Amara: 21 \ vineri \ 27:5:2022 \ 19:12:39
+[' Răsarit = 05:32:12 Apus = 20:43:52 Min (°C) = 16.63 Max (°C) =26.24 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.54 Viteza vântului = 2.68 Unghiul vântului = 208 Stare = cer senin']
+Amara: 21 \ sâmbătă \ 28:5:2022 \ 19:13:39
+[' Răsarit = 05:31:30 Apus = 20:44:49 Min (°C) = 16.15 Max (°C) =29.38 Presiune = 1007 Umiditate (%) = 53 Index UV = 0.13 Viteza vântului = 1.74 Unghiul vântului = 171 Stare = nori 50-85%']
+Amara: 21 \ duminică \ 29:5:2022 \ 19:12:22
+[' Răsarit = 05:30:50 Apus = 20:45:44 Min (°C) = 15.09 Max (°C) =23.17 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.44 Viteza vântului = 6.38 Unghiul vântului = 94 Stare = ploaie ușoară']
+Amara: 22 \ luni \ 30:5:2022 \ 19:13:11
+[' Răsarit = 05:30:11 Apus = 20:46:39 Min (°C) = 14.19 Max (°C) =24.94 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.58 Viteza vântului = 2.53 Unghiul vântului = 271 Stare = nori 25-50%']
+Amara: 22 \ marți \ 31:5:2022 \ 19:12:14
+[' Răsarit = 05:29:35 Apus = 20:47:32 Min (°C) = 16.55 Max (°C) =28.82 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.17 Viteza vântului = 1.36 Unghiul vântului = 54 Stare = nori 50-85%']
+Amara: 22 \ miercuri \ 01:6:2022 \ 19:12:37
+[' Răsarit = 05:29:01 Apus = 20:48:23 Min (°C) = 17.01 Max (°C) =30.01 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.4 Viteza vântului = 0.13 Unghiul vântului = 352 Stare = nori 50-85%']
+Amara: 22 \ joi \ 02:6:2022 \ 19:12:06
+[' Răsarit = 05:28:30 Apus = 20:49:13 Min (°C) = 19.52 Max (°C) =31.58 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.48 Viteza vântului = 2.03 Unghiul vântului = 94 Stare = nori 50-85%']
+Amara: 22 \ vineri \ 03:6:2022 \ 19:12:24
+[' Răsarit = 05:28:00 Apus = 20:50:02 Min (°C) = 19.09 Max (°C) =30.5 Presiune = 1018 Umiditate (%) = 47 Index UV = 0.56 Viteza vântului = 5.15 Unghiul vântului = 6 Stare = cer senin']
+Amara: 22 \ sâmbătă \ 04:6:2022 \ 19:12:48
+[' Răsarit = 05:27:33 Apus = 20:50:49 Min (°C) = 17.73 Max (°C) =29.5 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.63 Viteza vântului = 0.98 Unghiul vântului = 317 Stare = nori 85-100%']
+Amara: 22 \ duminică \ 05:6:2022 \ 19:12:07
+[' Răsarit = 05:27:07 Apus = 20:51:34 Min (°C) = 18.55 Max (°C) =30.29 Presiune = 1012 Umiditate (%) = 57 Index UV = 0.32 Viteza vântului = 6.33 Unghiul vântului = 17 Stare = nori 50-85%']
+Amara: 23 \ luni \ 06:6:2022 \ 19:12:49
+[' Răsarit = 05:26:44 Apus = 20:52:18 Min (°C) = 15.56 Max (°C) =24.06 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.6 Viteza vântului = 5.17 Unghiul vântului = 40 Stare = nori 50-85%']
+Amara: 23 \ marți \ 07:6:2022 \ 19:11:56
+[' Răsarit = 05:26:24 Apus = 20:53:00 Min (°C) = 16.06 Max (°C) =23.81 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.25 Viteza vântului = 4.45 Unghiul vântului = 54 Stare = nori 50-85%']
+Amara: 23 \ miercuri \ 08:6:2022 \ 19:12:40
+[' Răsarit = 05:26:05 Apus = 20:53:40 Min (°C) = 15.1 Max (°C) =23.61 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.59 Viteza vântului = 2.84 Unghiul vântului = 121 Stare = nori 85-100%']
+Amara: 23 \ joi \ 09:6:2022 \ 19:12:20
+[' Răsarit = 05:25:49 Apus = 20:54:18 Min (°C) = 16.62 Max (°C) =24.22 Presiune = 1007 Umiditate (%) = 65 Index UV = 0.53 Viteza vântului = 4.57 Unghiul vântului = 97 Stare = nori 50-85%']
+Amara: 23 \ vineri \ 10:6:2022 \ 19:12:22
+[' Răsarit = 05:25:35 Apus = 20:54:55 Min (°C) = 14.95 Max (°C) =25.35 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.14 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 85-100%']
+Amara: 23 \ sâmbătă \ 11:6:2022 \ 19:12:21
+[' Răsarit = 05:25:23 Apus = 20:55:30 Min (°C) = 16.84 Max (°C) =21.61 Presiune = 1011 Umiditate (%) = 88 Index UV = 0.61 Viteza vântului = 2.75 Unghiul vântului = 349 Stare = nori 85-100%']
+Amara: 23 \ duminică \ 12:6:2022 \ 19:12:09
+[' Răsarit = 05:25:13 Apus = 20:56:02 Min (°C) = 17.63 Max (°C) =28.34 Presiune = 1012 Umiditate (%) = 87 Index UV = 0.51 Viteza vântului = 7.99 Unghiul vântului = 321 Stare = nori 85-100%']
+Amara: 24 \ luni \ 13:6:2022 \ 19:12:18
+[' Răsarit = 05:25:06 Apus = 20:56:33 Min (°C) = 19.44 Max (°C) =29.78 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.3 Viteza vântului = 3.12 Unghiul vântului = 328 Stare = nori 10-25%']
+Amara: 24 \ marți \ 14:6:2022 \ 19:11:54
+[' Răsarit = 05:25:01 Apus = 20:57:02 Min (°C) = 18.07 Max (°C) =27.4 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.46 Viteza vântului = 8 Unghiul vântului = 359 Stare = nori 50-85%']
+Amara: 24 \ miercuri \ 15:6:2022 \ 19:12:04
+[' Răsarit = 05:24:58 Apus = 20:57:29 Min (°C) = 17.14 Max (°C) =25.5 Presiune = 1019 Umiditate (%) = 38 Index UV = 0.61 Viteza vântului = 1.42 Unghiul vântului = 208 Stare = nori 25-50%']
+Amara: 24 \ joi \ 16:6:2022 \ 19:12:08
+[' Răsarit = 05:24:58 Apus = 20:57:53 Min (°C) = 15.24 Max (°C) =27.32 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.58 Viteza vântului = 1.01 Unghiul vântului = 213 Stare = nori 50-85%']
+Amara: 24 \ vineri \ 17:6:2022 \ 19:12:30
+[' Răsarit = 05:24:59 Apus = 20:58:16 Min (°C) = 17.42 Max (°C) =27.06 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.34 Viteza vântului = 3.18 Unghiul vântului = 294 Stare = nori 85-100%']
+Amara: 24 \ sâmbătă \ 18:6:2022 \ 19:12:16
+[' Răsarit = 05:25:03 Apus = 20:58:36 Min (°C) = 16.35 Max (°C) =26.08 Presiune = 1019 Umiditate (%) = 41 Index UV = 0.4 Viteza vântului = 5.91 Unghiul vântului = 28 Stare = nori 25-50%']
+Amara: 24 \ duminică \ 19:6:2022 \ 19:11:03
+[' Răsarit = 05:25:09 Apus = 20:58:55 Min (°C) = 15.28 Max (°C) =27.76 Presiune = 1016 Umiditate (%) = 33 Index UV = 0.67 Viteza vântului = 3.59 Unghiul vântului = 86 Stare = cer senin']
+Amara: 25 \ luni \ 20:6:2022 \ 19:11:43
+[' Răsarit = 05:25:18 Apus = 20:59:11 Min (°C) = 15.24 Max (°C) =29.11 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.68 Viteza vântului = 3.15 Unghiul vântului = 132 Stare = cer senin']
+Amara: 25 \ marți \ 21:6:2022 \ 19:12:28
+[' Răsarit = 05:25:28 Apus = 20:59:25 Min (°C) = 16.98 Max (°C) =33.81 Presiune = 1005 Umiditate (%) = 49 Index UV = 0.68 Viteza vântului = 7.01 Unghiul vântului = 313 Stare = nori 50-85%']
+Amara: 25 \ miercuri \ 22:6:2022 \ 19:12:02
+[' Răsarit = 05:25:41 Apus = 20:59:36 Min (°C) = 15.42 Max (°C) =28.48 Presiune = 1008 Umiditate (%) = 26 Index UV = 0.64 Viteza vântului = 7.14 Unghiul vântului = 332 Stare = nori 25-50%']
+Amara: 25 \ joi \ 23:6:2022 \ 19:12:04
+[' Răsarit = 05:25:55 Apus = 20:59:46 Min (°C) = 16.06 Max (°C) =26.14 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.4 Viteza vântului = 4.9 Unghiul vântului = 10 Stare = nori 85-100%']
+Amara: 25 \ duminică \ 26:6:2022 \ 19:52:40
+[' Răsarit = 05:26:52 Apus = 21:00:01 Min (°C) = 17.13 Max (°C) =29.41 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.15 Viteza vântului = 3.97 Unghiul vântului = 352 Stare = nori 85-100%']
+Amara: 26 \ luni \ 27:6:2022 \ 19:12:18
+[' Răsarit = 05:27:16 Apus = 21:00:01 Min (°C) = 16.4 Max (°C) =30.83 Presiune = 1016 Umiditate (%) = 57 Index UV = 0.16 Viteza vântului = 4.43 Unghiul vântului = 84 Stare = nori 85-100%']
+Amara: 26 \ marți \ 28:6:2022 \ 19:12:28
+[' Răsarit = 05:27:41 Apus = 20:59:59 Min (°C) = 20.96 Max (°C) =30.77 Presiune = 1014 Umiditate (%) = 70 Index UV = 0.15 Viteza vântului = 0.27 Unghiul vântului = 210 Stare = nori 85-100%']
+Amara: 26 \ miercuri \ 29:6:2022 \ 19:12:25
+[' Răsarit = 05:28:08 Apus = 20:59:55 Min (°C) = 18.74 Max (°C) =34.58 Presiune = 1013 Umiditate (%) = 29 Index UV = 0.52 Viteza vântului = 4.85 Unghiul vântului = 105 Stare = ploaie moderată']
+Amara: 26 \ joi \ 30:6:2022 \ 19:12:59
+[' Răsarit = 05:28:37 Apus = 20:59:49 Min (°C) = 18.91 Max (°C) =35.66 Presiune = 1010 Umiditate (%) = 21 Index UV = 0.62 Viteza vântului = 5.64 Unghiul vântului = 127 Stare = cer senin']
+Amara: 26 \ vineri \ 01:7:2022 \ 19:12:34
+[' Răsarit = 05:29:08 Apus = 20:59:40 Min (°C) = 19.47 Max (°C) =34.2 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.56 Viteza vântului = 6.4 Unghiul vântului = 114 Stare = nori 50-85%']
+Amara: 26 \ sâmbătă \ 02:7:2022 \ 19:12:24
+[' Răsarit = 05:29:40 Apus = 20:59:29 Min (°C) = 20.68 Max (°C) =34.61 Presiune = 1016 Umiditate (%) = 28 Index UV = 0.64 Viteza vântului = 8.6 Unghiul vântului = 119 Stare = cer senin']

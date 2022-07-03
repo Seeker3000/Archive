@@ -952,3 +952,83 @@ Sulina: 20 \ vineri \ 20:5:2022 \ 19:21:26
 [' Răsarit = 05:27:00 Apus = 20:29:04 Min (°C) = 12.94 Max (°C) =21.66 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.41 Viteza vântului = 6.02 Unghiul vântului = 216 Stare = nori 10-25%']
 Sulina: 20 \ sâmbătă \ 21:5:2022 \ 19:23:57
 [' Răsarit = 05:26:03 Apus = 20:30:10 Min (°C) = 15.49 Max (°C) =24.83 Presiune = 1011 Umiditate (%) = 60 Index UV = 0.38 Viteza vântului = 6.5 Unghiul vântului = 201 Stare = nori 10-25%']
+Sulina: 20 \ duminică \ 22:5:2022 \ 19:23:16
+[' Răsarit = 05:25:07 Apus = 20:31:15 Min (°C) = 16.38 Max (°C) =21.21 Presiune = 1007 Umiditate (%) = 53 Index UV = 0.25 Viteza vântului = 1.82 Unghiul vântului = 270 Stare = nori 50-85%']
+Sulina: 21 \ luni \ 23:5:2022 \ 19:22:22
+[' Răsarit = 05:24:13 Apus = 20:32:19 Min (°C) = 14.29 Max (°C) =18.25 Presiune = 1010 Umiditate (%) = 59 Index UV = 0.14 Viteza vântului = 3.38 Unghiul vântului = 2 Stare = nori 85-100%']
+Sulina: 21 \ marți \ 24:5:2022 \ 19:22:32
+[' Răsarit = 05:23:21 Apus = 20:33:22 Min (°C) = 12.25 Max (°C) =17.5 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.21 Viteza vântului = 4.43 Unghiul vântului = 168 Stare = nori 85-100%']
+Sulina: 21 \ miercuri \ 25:5:2022 \ 19:22:27
+[' Răsarit = 05:22:32 Apus = 20:34:24 Min (°C) = 13.56 Max (°C) =19.66 Presiune = 1019 Umiditate (%) = 56 Index UV = 0.44 Viteza vântului = 6.17 Unghiul vântului = 174 Stare = nori 10-25%']
+Sulina: 21 \ joi \ 26:5:2022 \ 19:22:26
+[' Răsarit = 05:21:44 Apus = 20:35:24 Min (°C) = 15.52 Max (°C) =22.07 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.45 Viteza vântului = 3.45 Unghiul vântului = 41 Stare = nori 50-85%']
+Sulina: 21 \ vineri \ 27:5:2022 \ 19:22:37
+[' Răsarit = 05:20:58 Apus = 20:36:24 Min (°C) = 15.82 Max (°C) =22.96 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.39 Viteza vântului = 6.16 Unghiul vântului = 203 Stare = nori 25-50%']
+Sulina: 21 \ sâmbătă \ 28:5:2022 \ 19:23:49
+[' Răsarit = 05:20:15 Apus = 20:37:22 Min (°C) = 16.2 Max (°C) =23.31 Presiune = 1010 Umiditate (%) = 62 Index UV = 0.45 Viteza vântului = 6.03 Unghiul vântului = 178 Stare = nori 50-85%']
+Sulina: 21 \ duminică \ 29:5:2022 \ 19:22:07
+[' Răsarit = 05:19:34 Apus = 20:38:19 Min (°C) = 16.75 Max (°C) =20.51 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.47 Viteza vântului = 4.92 Unghiul vântului = 89 Stare = nori 50-85%']
+Sulina: 22 \ luni \ 30:5:2022 \ 19:22:49
+[' Răsarit = 05:18:54 Apus = 20:39:14 Min (°C) = 17.01 Max (°C) =20.62 Presiune = 1010 Umiditate (%) = 77 Index UV = 0.46 Viteza vântului = 2.51 Unghiul vântului = 123 Stare = nori 25-50%']
+Sulina: 22 \ marți \ 31:5:2022 \ 19:24:31
+[' Răsarit = 05:18:17 Apus = 20:40:08 Min (°C) = 15.65 Max (°C) =23.53 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.48 Viteza vântului = 2.95 Unghiul vântului = 168 Stare = nori 10-25%']
+Sulina: 22 \ miercuri \ 01:6:2022 \ 19:22:30
+[' Răsarit = 05:17:42 Apus = 20:41:01 Min (°C) = 18.92 Max (°C) =24.22 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 1.07 Unghiul vântului = 148 Stare = nori 10-25%']
+Sulina: 22 \ joi \ 02:6:2022 \ 19:21:42
+[' Răsarit = 05:17:09 Apus = 20:41:52 Min (°C) = 19.37 Max (°C) =25.18 Presiune = 1015 Umiditate (%) = 64 Index UV = 0.5 Viteza vântului = 2.7 Unghiul vântului = 122 Stare = nori 25-50%']
+Sulina: 22 \ vineri \ 03:6:2022 \ 19:22:11
+[' Răsarit = 05:16:39 Apus = 20:42:41 Min (°C) = 19.58 Max (°C) =25.44 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.51 Viteza vântului = 4.45 Unghiul vântului = 36 Stare = cer senin']
+Sulina: 22 \ sâmbătă \ 04:6:2022 \ 19:22:44
+[' Răsarit = 05:16:11 Apus = 20:43:29 Min (°C) = 19.55 Max (°C) =23.38 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.47 Viteza vântului = 2.46 Unghiul vântului = 55 Stare = nori 50-85%']
+Sulina: 22 \ duminică \ 05:6:2022 \ 19:21:41
+[' Răsarit = 05:15:45 Apus = 20:44:15 Min (°C) = 19.21 Max (°C) =25.9 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.39 Viteza vântului = 2.06 Unghiul vântului = 139 Stare = nori 50-85%']
+Sulina: 23 \ luni \ 06:6:2022 \ 19:23:00
+[' Răsarit = 05:15:21 Apus = 20:44:59 Min (°C) = 17.31 Max (°C) =21.64 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.21 Viteza vântului = 4.04 Unghiul vântului = 26 Stare = nori 25-50%']
+Sulina: 23 \ marți \ 07:6:2022 \ 19:21:49
+[' Răsarit = 05:14:59 Apus = 20:45:42 Min (°C) = 16.4 Max (°C) =21.3 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.27 Viteza vântului = 3.87 Unghiul vântului = 64 Stare = nori 85-100%']
+Sulina: 23 \ miercuri \ 08:6:2022 \ 19:22:16
+[' Răsarit = 05:14:40 Apus = 20:46:23 Min (°C) = 18.45 Max (°C) =22.15 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.4 Viteza vântului = 4.14 Unghiul vântului = 32 Stare = nori 85-100%']
+Sulina: 23 \ joi \ 09:6:2022 \ 19:21:59
+[' Răsarit = 05:14:23 Apus = 20:47:02 Min (°C) = 17.84 Max (°C) =21.4 Presiune = 1009 Umiditate (%) = 76 Index UV = 0.22 Viteza vântului = 4.69 Unghiul vântului = 94 Stare = nori 85-100%']
+Sulina: 23 \ vineri \ 10:6:2022 \ 19:22:04
+[' Răsarit = 05:14:08 Apus = 20:47:39 Min (°C) = 17.56 Max (°C) =21.62 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.54 Viteza vântului = 3.21 Unghiul vântului = 148 Stare = nori 25-50%']
+Sulina: 23 \ sâmbătă \ 11:6:2022 \ 19:22:05
+[' Răsarit = 05:13:56 Apus = 20:48:14 Min (°C) = 18.33 Max (°C) =22.08 Presiune = 1011 Umiditate (%) = 72 Index UV = 0.49 Viteza vântului = 3.69 Unghiul vântului = 54 Stare = nori 85-100%']
+Sulina: 23 \ duminică \ 12:6:2022 \ 19:21:56
+[' Răsarit = 05:13:46 Apus = 20:48:48 Min (°C) = 19.5 Max (°C) =26.13 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.42 Viteza vântului = 5.01 Unghiul vântului = 1 Stare = nori 85-100%']
+Sulina: 24 \ luni \ 13:6:2022 \ 19:21:40
+[' Răsarit = 05:13:38 Apus = 20:49:19 Min (°C) = 20.17 Max (°C) =26.28 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.56 Viteza vântului = 3.96 Unghiul vântului = 340 Stare = nori 85-100%']
+Sulina: 24 \ marți \ 14:6:2022 \ 19:21:22
+[' Răsarit = 05:13:33 Apus = 20:49:48 Min (°C) = 20.52 Max (°C) =27.88 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.57 Viteza vântului = 5.92 Unghiul vântului = 3 Stare = nori 25-50%']
+Sulina: 24 \ miercuri \ 15:6:2022 \ 19:21:40
+[' Răsarit = 05:13:30 Apus = 20:50:15 Min (°C) = 18.08 Max (°C) =23.29 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.52 Viteza vântului = 3.03 Unghiul vântului = 175 Stare = nori 50-85%']
+Sulina: 24 \ joi \ 16:6:2022 \ 19:21:51
+[' Răsarit = 05:13:29 Apus = 20:50:40 Min (°C) = 17.88 Max (°C) =23.2 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.54 Viteza vântului = 3.62 Unghiul vântului = 151 Stare = nori 25-50%']
+Sulina: 24 \ vineri \ 17:6:2022 \ 19:22:22
+[' Răsarit = 05:13:30 Apus = 20:51:03 Min (°C) = 18.19 Max (°C) =24.83 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.33 Viteza vântului = 6.07 Unghiul vântului = 184 Stare = nori 85-100%']
+Sulina: 24 \ sâmbătă \ 18:6:2022 \ 19:21:55
+[' Răsarit = 05:13:34 Apus = 20:51:24 Min (°C) = 16.93 Max (°C) =24.24 Presiune = 1018 Umiditate (%) = 52 Index UV = 0.46 Viteza vântului = 7.3 Unghiul vântului = 360 Stare = nori 50-85%']
+Sulina: 24 \ duminică \ 19:6:2022 \ 19:20:58
+[' Răsarit = 05:13:40 Apus = 20:51:42 Min (°C) = 17.75 Max (°C) =23.59 Presiune = 1018 Umiditate (%) = 55 Index UV = 0.56 Viteza vântului = 2.96 Unghiul vântului = 123 Stare = cer senin']
+Sulina: 25 \ luni \ 20:6:2022 \ 19:21:14
+[' Răsarit = 05:13:48 Apus = 20:51:58 Min (°C) = 17.38 Max (°C) =24.56 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.57 Viteza vântului = 3.62 Unghiul vântului = 154 Stare = cer senin']
+Sulina: 25 \ marți \ 21:6:2022 \ 19:22:04
+[' Răsarit = 05:13:58 Apus = 20:52:12 Min (°C) = 18.77 Max (°C) =27.99 Presiune = 1004 Umiditate (%) = 82 Index UV = 0.17 Viteza vântului = 4.95 Unghiul vântului = 2 Stare = nori 10-25%']
+Sulina: 25 \ miercuri \ 22:6:2022 \ 19:21:24
+[' Răsarit = 05:14:11 Apus = 20:52:24 Min (°C) = 16.53 Max (°C) =24.53 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.49 Viteza vântului = 7.7 Unghiul vântului = 328 Stare = nori 50-85%']
+Sulina: 25 \ joi \ 23:6:2022 \ 19:21:38
+[' Răsarit = 05:14:26 Apus = 20:52:34 Min (°C) = 16.63 Max (°C) =24.16 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.1 Viteza vântului = 7 Unghiul vântului = 338 Stare = nori 85-100%']
+Sulina: 25 \ duminică \ 26:6:2022 \ 20:03:38
+[' Răsarit = 05:15:23 Apus = 20:52:48 Min (°C) = 18.87 Max (°C) =24.98 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.12 Viteza vântului = 1.04 Unghiul vântului = 59 Stare = nori 50-85%']
+Sulina: 26 \ luni \ 27:6:2022 \ 19:21:54
+[' Răsarit = 05:15:47 Apus = 20:52:48 Min (°C) = 18.85 Max (°C) =24.73 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.3 Viteza vântului = 4.79 Unghiul vântului = 318 Stare = nori 85-100%']
+Sulina: 26 \ marți \ 28:6:2022 \ 19:22:36
+[' Răsarit = 05:16:12 Apus = 20:52:46 Min (°C) = 20.41 Max (°C) =26.42 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.44 Viteza vântului = 3.21 Unghiul vântului = 126 Stare = nori 85-100%']
+Sulina: 26 \ miercuri \ 29:6:2022 \ 19:22:14
+[' Răsarit = 05:16:39 Apus = 20:52:41 Min (°C) = 19.65 Max (°C) =27.17 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.56 Viteza vântului = 3 Unghiul vântului = 154 Stare = cer senin']
+Sulina: 26 \ joi \ 30:6:2022 \ 19:23:26
+[' Răsarit = 05:17:09 Apus = 20:52:35 Min (°C) = 20.9 Max (°C) =28.63 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.26 Viteza vântului = 2.96 Unghiul vântului = 193 Stare = nori 10-25%']
+Sulina: 26 \ vineri \ 01:7:2022 \ 19:22:54
+[' Răsarit = 05:17:40 Apus = 20:52:25 Min (°C) = 20.64 Max (°C) =25.81 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.54 Viteza vântului = 2.98 Unghiul vântului = 110 Stare = nori 25-50%']
+Sulina: 26 \ sâmbătă \ 02:7:2022 \ 19:22:15
+[' Răsarit = 05:18:14 Apus = 20:52:14 Min (°C) = 20.53 Max (°C) =26.72 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.56 Viteza vântului = 4.21 Unghiul vântului = 113 Stare = cer senin']

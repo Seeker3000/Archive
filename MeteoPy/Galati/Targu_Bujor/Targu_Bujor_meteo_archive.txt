@@ -952,3 +952,83 @@ Targu_Bujor: 20 \ vineri \ 20:5:2022 \ 19:10:21
 [' Răsarit = 05:31:39 Apus = 20:38:27 Min (°C) = 11.66 Max (°C) =25.66 Presiune = 1019 Umiditate (%) = 33 Index UV = 0.48 Viteza vântului = 4.27 Unghiul vântului = 213 Stare = nori 50-85%']
 Targu_Bujor: 20 \ sâmbătă \ 21:5:2022 \ 19:11:58
 [' Răsarit = 05:30:40 Apus = 20:39:35 Min (°C) = 15.17 Max (°C) =29.08 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.38 Viteza vântului = 3.72 Unghiul vântului = 328 Stare = nori 50-85%']
+Targu_Bujor: 20 \ duminică \ 22:5:2022 \ 19:11:16
+[' Răsarit = 05:29:43 Apus = 20:40:41 Min (°C) = 15.68 Max (°C) =21.37 Presiune = 1009 Umiditate (%) = 66 Index UV = 0.27 Viteza vântului = 2.96 Unghiul vântului = 21 Stare = nori 85-100%']
+Targu_Bujor: 21 \ luni \ 23:5:2022 \ 19:10:59
+[' Răsarit = 05:28:47 Apus = 20:41:47 Min (°C) = 12.24 Max (°C) =18.01 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.47 Viteza vântului = 5.42 Unghiul vântului = 350 Stare = nori 50-85%']
+Targu_Bujor: 21 \ marți \ 24:5:2022 \ 19:10:57
+[' Răsarit = 05:27:54 Apus = 20:42:51 Min (°C) = 9.61 Max (°C) =21.73 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.47 Viteza vântului = 2.51 Unghiul vântului = 167 Stare = nori 85-100%']
+Targu_Bujor: 21 \ miercuri \ 25:5:2022 \ 19:10:40
+[' Răsarit = 05:27:02 Apus = 20:43:55 Min (°C) = 12.37 Max (°C) =24.62 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.53 Viteza vântului = 8.84 Unghiul vântului = 156 Stare = nori 50-85%']
+Targu_Bujor: 21 \ joi \ 26:5:2022 \ 19:10:46
+[' Răsarit = 05:26:13 Apus = 20:44:57 Min (°C) = 12.91 Max (°C) =20.46 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.51 Viteza vântului = 3.56 Unghiul vântului = 15 Stare = nori 10-25%']
+Targu_Bujor: 21 \ vineri \ 27:5:2022 \ 19:11:02
+[' Răsarit = 05:25:26 Apus = 20:45:58 Min (°C) = 13.84 Max (°C) =26.12 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.53 Viteza vântului = 5.18 Unghiul vântului = 216 Stare = nori 50-85%']
+Targu_Bujor: 21 \ sâmbătă \ 28:5:2022 \ 19:12:02
+[' Răsarit = 05:24:41 Apus = 20:46:58 Min (°C) = 14.95 Max (°C) =26.22 Presiune = 1010 Umiditate (%) = 73 Index UV = 0.08 Viteza vântului = 5.8 Unghiul vântului = 6 Stare = nori 85-100%']
+Targu_Bujor: 21 \ duminică \ 29:5:2022 \ 19:10:46
+[' Răsarit = 05:23:58 Apus = 20:47:56 Min (°C) = 13.37 Max (°C) =19.86 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.39 Viteza vântului = 3.77 Unghiul vântului = 88 Stare = nori 85-100%']
+Targu_Bujor: 22 \ luni \ 30:5:2022 \ 19:11:34
+[' Răsarit = 05:23:17 Apus = 20:48:53 Min (°C) = 13.56 Max (°C) =23.69 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.58 Viteza vântului = 1.42 Unghiul vântului = 2 Stare = nori 25-50%']
+Targu_Bujor: 22 \ marți \ 31:5:2022 \ 19:10:50
+[' Răsarit = 05:22:39 Apus = 20:49:48 Min (°C) = 15.51 Max (°C) =27.36 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.29 Viteza vântului = 2.3 Unghiul vântului = 67 Stare = nori 50-85%']
+Targu_Bujor: 22 \ miercuri \ 01:6:2022 \ 19:10:59
+[' Răsarit = 05:22:03 Apus = 20:50:42 Min (°C) = 16.24 Max (°C) =28.54 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.6 Viteza vântului = 1.62 Unghiul vântului = 139 Stare = nori 50-85%']
+Targu_Bujor: 22 \ joi \ 02:6:2022 \ 19:10:30
+[' Răsarit = 05:21:28 Apus = 20:51:34 Min (°C) = 19.34 Max (°C) =30.18 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.56 Viteza vântului = 1.94 Unghiul vântului = 268 Stare = nori 25-50%']
+Targu_Bujor: 22 \ vineri \ 03:6:2022 \ 19:10:47
+[' Răsarit = 05:20:57 Apus = 20:52:25 Min (°C) = 16.9 Max (°C) =26.95 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.6 Viteza vântului = 5.95 Unghiul vântului = 3 Stare = nori 50-85%']
+Targu_Bujor: 22 \ sâmbătă \ 04:6:2022 \ 19:11:10
+[' Răsarit = 05:20:27 Apus = 20:53:14 Min (°C) = 16.49 Max (°C) =28.2 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.59 Viteza vântului = 3.21 Unghiul vântului = 175 Stare = nori 50-85%']
+Targu_Bujor: 22 \ duminică \ 05:6:2022 \ 19:10:31
+[' Răsarit = 05:20:00 Apus = 20:54:01 Min (°C) = 17.23 Max (°C) =26.08 Presiune = 1013 Umiditate (%) = 60 Index UV = 0.2 Viteza vântului = 6.79 Unghiul vântului = 347 Stare = nori 25-50%']
+Targu_Bujor: 23 \ luni \ 06:6:2022 \ 19:11:13
+[' Răsarit = 05:19:35 Apus = 20:54:47 Min (°C) = 14.64 Max (°C) =22.17 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.14 Viteza vântului = 4.01 Unghiul vântului = 53 Stare = nori 50-85%']
+Targu_Bujor: 23 \ marți \ 07:6:2022 \ 19:10:21
+[' Răsarit = 05:19:13 Apus = 20:55:30 Min (°C) = 16.48 Max (°C) =24.89 Presiune = 1014 Umiditate (%) = 51 Index UV = 0.5 Viteza vântului = 2.35 Unghiul vântului = 126 Stare = nori 85-100%']
+Targu_Bujor: 23 \ miercuri \ 08:6:2022 \ 19:11:04
+[' Răsarit = 05:18:53 Apus = 20:56:12 Min (°C) = 16.32 Max (°C) =26.63 Presiune = 1010 Umiditate (%) = 43 Index UV = 0.52 Viteza vântului = 3.75 Unghiul vântului = 138 Stare = nori 85-100%']
+Targu_Bujor: 23 \ joi \ 09:6:2022 \ 19:10:40
+[' Răsarit = 05:18:35 Apus = 20:56:52 Min (°C) = 16.22 Max (°C) =25.99 Presiune = 1008 Umiditate (%) = 50 Index UV = 0.59 Viteza vântului = 5.74 Unghiul vântului = 108 Stare = nori 85-100%']
+Targu_Bujor: 23 \ vineri \ 10:6:2022 \ 19:10:45
+[' Răsarit = 05:18:19 Apus = 20:57:30 Min (°C) = 16.99 Max (°C) =22.82 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.37 Viteza vântului = 4.47 Unghiul vântului = 356 Stare = nori 85-100%']
+Targu_Bujor: 23 \ sâmbătă \ 11:6:2022 \ 19:10:44
+[' Răsarit = 05:18:06 Apus = 20:58:06 Min (°C) = 14.78 Max (°C) =23.6 Presiune = 1012 Umiditate (%) = 72 Index UV = 0.51 Viteza vântului = 1.67 Unghiul vântului = 205 Stare = nori 85-100%']
+Targu_Bujor: 23 \ duminică \ 12:6:2022 \ 19:10:32
+[' Răsarit = 05:17:55 Apus = 20:58:40 Min (°C) = 16.8 Max (°C) =28.71 Presiune = 1012 Umiditate (%) = 76 Index UV = 0.35 Viteza vântului = 8.84 Unghiul vântului = 335 Stare = nori 85-100%']
+Targu_Bujor: 24 \ luni \ 13:6:2022 \ 19:10:44
+[' Răsarit = 05:17:47 Apus = 20:59:12 Min (°C) = 17.65 Max (°C) =28.54 Presiune = 1011 Umiditate (%) = 41 Index UV = 0.64 Viteza vântului = 1.66 Unghiul vântului = 51 Stare = cer senin']
+Targu_Bujor: 24 \ marți \ 14:6:2022 \ 19:10:19
+[' Răsarit = 05:17:41 Apus = 20:59:42 Min (°C) = 18.85 Max (°C) =24.09 Presiune = 1016 Umiditate (%) = 51 Index UV = 0.65 Viteza vântului = 6.53 Unghiul vântului = 4 Stare = nori 25-50%']
+Targu_Bujor: 24 \ miercuri \ 15:6:2022 \ 19:10:27
+[' Răsarit = 05:17:37 Apus = 21:00:09 Min (°C) = 15.69 Max (°C) =24.14 Presiune = 1019 Umiditate (%) = 39 Index UV = 0.61 Viteza vântului = 3.23 Unghiul vântului = 340 Stare = nori 50-85%']
+Targu_Bujor: 24 \ joi \ 16:6:2022 \ 19:10:31
+[' Răsarit = 05:17:36 Apus = 21:00:35 Min (°C) = 15.94 Max (°C) =25.13 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.63 Viteza vântului = 3.57 Unghiul vântului = 116 Stare = nori 25-50%']
+Targu_Bujor: 24 \ vineri \ 17:6:2022 \ 19:10:52
+[' Răsarit = 05:17:37 Apus = 21:00:58 Min (°C) = 14.75 Max (°C) =27.95 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.47 Viteza vântului = 4.21 Unghiul vântului = 17 Stare = nori 50-85%']
+Targu_Bujor: 24 \ sâmbătă \ 18:6:2022 \ 19:10:36
+[' Răsarit = 05:17:41 Apus = 21:01:19 Min (°C) = 15.13 Max (°C) =23.51 Presiune = 1019 Umiditate (%) = 47 Index UV = 0.46 Viteza vântului = 5.4 Unghiul vântului = 1 Stare = nori 85-100%']
+Targu_Bujor: 24 \ duminică \ 19:6:2022 \ 19:09:38
+[' Răsarit = 05:17:46 Apus = 21:01:37 Min (°C) = 14.55 Max (°C) =27 Presiune = 1017 Umiditate (%) = 30 Index UV = 0.65 Viteza vântului = 1.65 Unghiul vântului = 72 Stare = cer senin']
+Targu_Bujor: 25 \ luni \ 20:6:2022 \ 19:10:10
+[' Răsarit = 05:17:55 Apus = 21:01:54 Min (°C) = 15.03 Max (°C) =29.02 Presiune = 1010 Umiditate (%) = 26 Index UV = 0.68 Viteza vântului = 5.48 Unghiul vântului = 163 Stare = cer senin']
+Targu_Bujor: 25 \ marți \ 21:6:2022 \ 19:10:50
+[' Răsarit = 05:18:05 Apus = 21:02:08 Min (°C) = 16.88 Max (°C) =33.02 Presiune = 1005 Umiditate (%) = 55 Index UV = 0.68 Viteza vântului = 8.17 Unghiul vântului = 3 Stare = nori 50-85%']
+Targu_Bujor: 25 \ miercuri \ 22:6:2022 \ 19:10:27
+[' Răsarit = 05:18:18 Apus = 21:02:19 Min (°C) = 14.07 Max (°C) =24.27 Presiune = 1008 Umiditate (%) = 38 Index UV = 0.39 Viteza vântului = 5.64 Unghiul vântului = 351 Stare = nori 25-50%']
+Targu_Bujor: 25 \ joi \ 23:6:2022 \ 19:10:28
+[' Răsarit = 05:18:33 Apus = 21:02:29 Min (°C) = 13.73 Max (°C) =23.55 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.54 Viteza vântului = 7.7 Unghiul vântului = 352 Stare = nori 85-100%']
+Targu_Bujor: 25 \ duminică \ 26:6:2022 \ 19:50:58
+[' Răsarit = 05:19:31 Apus = 21:02:43 Min (°C) = 16.24 Max (°C) =27.8 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.11 Viteza vântului = 2.75 Unghiul vântului = 37 Stare = nori 50-85%']
+Targu_Bujor: 26 \ luni \ 27:6:2022 \ 19:10:42
+[' Răsarit = 05:19:54 Apus = 21:02:42 Min (°C) = 16.37 Max (°C) =28.81 Presiune = 1016 Umiditate (%) = 65 Index UV = 0.33 Viteza vântului = 1.38 Unghiul vântului = 321 Stare = nori 85-100%']
+Targu_Bujor: 26 \ marți \ 28:6:2022 \ 19:10:48
+[' Răsarit = 05:20:20 Apus = 21:02:40 Min (°C) = 19.77 Max (°C) =31.48 Presiune = 1014 Umiditate (%) = 29 Index UV = 0.59 Viteza vântului = 5.75 Unghiul vântului = 43 Stare = nori 50-85%']
+Targu_Bujor: 26 \ miercuri \ 29:6:2022 \ 19:10:47
+[' Răsarit = 05:20:48 Apus = 21:02:35 Min (°C) = 19.32 Max (°C) =33.67 Presiune = 1013 Umiditate (%) = 30 Index UV = 0.33 Viteza vântului = 3.58 Unghiul vântului = 157 Stare = nori 50-85%']
+Targu_Bujor: 26 \ joi \ 30:6:2022 \ 19:11:17
+[' Răsarit = 05:21:18 Apus = 21:02:27 Min (°C) = 20.7 Max (°C) =34.64 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.6 Viteza vântului = 5.22 Unghiul vântului = 56 Stare = nori 85-100%']
+Targu_Bujor: 26 \ vineri \ 01:7:2022 \ 19:10:54
+[' Răsarit = 05:21:50 Apus = 21:02:17 Min (°C) = 19.29 Max (°C) =33.17 Presiune = 1014 Umiditate (%) = 34 Index UV = 0.63 Viteza vântului = 3.96 Unghiul vântului = 64 Stare = nori 25-50%']
+Targu_Bujor: 26 \ sâmbătă \ 02:7:2022 \ 19:10:44
+[' Răsarit = 05:22:24 Apus = 21:02:05 Min (°C) = 20.29 Max (°C) =34.13 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.66 Viteza vântului = 6.38 Unghiul vântului = 112 Stare = nori 10-25%']

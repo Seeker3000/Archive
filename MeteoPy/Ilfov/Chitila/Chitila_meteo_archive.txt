@@ -952,3 +952,83 @@ Chitila: 20 \ vineri \ 20:5:2022 \ 19:12:57
 [' Răsarit = 05:43:46 Apus = 20:41:41 Min (°C) = 12.17 Max (°C) =26 Presiune = 1020 Umiditate (%) = 28 Index UV = 0.55 Viteza vântului = 6.17 Unghiul vântului = 250 Stare = cer senin']
 Chitila: 20 \ sâmbătă \ 21:5:2022 \ 19:14:53
 [' Răsarit = 05:42:50 Apus = 20:42:45 Min (°C) = 14.37 Max (°C) =28.92 Presiune = 1010 Umiditate (%) = 31 Index UV = 0.49 Viteza vântului = 5.14 Unghiul vântului = 240 Stare = cer senin']
+Chitila: 20 \ duminică \ 22:5:2022 \ 19:14:07
+[' Răsarit = 05:41:56 Apus = 20:43:49 Min (°C) = 17.79 Max (°C) =26.22 Presiune = 1007 Umiditate (%) = 32 Index UV = 0.54 Viteza vântului = 5.14 Unghiul vântului = 30 Stare = cer senin']
+Chitila: 21 \ luni \ 23:5:2022 \ 19:13:39
+[' Răsarit = 05:41:04 Apus = 20:44:51 Min (°C) = 15.46 Max (°C) =21.26 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.26 Viteza vântului = 7.2 Unghiul vântului = 60 Stare = nori 10-25%']
+Chitila: 21 \ marți \ 24:5:2022 \ 19:13:38
+[' Răsarit = 05:40:13 Apus = 20:45:52 Min (°C) = 13.48 Max (°C) =22.46 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.19 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = ploaie ușoară']
+Chitila: 21 \ miercuri \ 25:5:2022 \ 19:13:34
+[' Răsarit = 05:39:25 Apus = 20:46:53 Min (°C) = 13.4 Max (°C) =27.31 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.61 Viteza vântului = 2.57 Unghiul vântului = 220 Stare = cer senin']
+Chitila: 21 \ joi \ 26:5:2022 \ 19:13:30
+[' Răsarit = 05:38:39 Apus = 20:47:52 Min (°C) = 16.78 Max (°C) =30.45 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.6 Viteza vântului = 4.63 Unghiul vântului = 70 Stare = cer senin']
+Chitila: 21 \ vineri \ 27:5:2022 \ 19:13:40
+[' Răsarit = 05:37:55 Apus = 20:48:50 Min (°C) = 17.17 Max (°C) =27.57 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.41 Viteza vântului = 4.02 Unghiul vântului = 230 Stare = cer senin']
+Chitila: 21 \ sâmbătă \ 28:5:2022 \ 19:14:40
+[' Răsarit = 05:37:13 Apus = 20:49:47 Min (°C) = 17.59 Max (°C) =27.5 Presiune = 1009 Umiditate (%) = 83 Index UV = 0.23 Viteza vântului = 5.66 Unghiul vântului = 270 Stare = nori 50-85%']
+Chitila: 21 \ duminică \ 29:5:2022 \ 19:13:24
+[' Răsarit = 05:36:33 Apus = 20:50:42 Min (°C) = 15.88 Max (°C) =22.23 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.5 Viteza vântului = 9.26 Unghiul vântului = 70 Stare = ploaie ușoară']
+Chitila: 22 \ luni \ 30:5:2022 \ 19:14:13
+[' Răsarit = 05:35:55 Apus = 20:51:36 Min (°C) = 14.05 Max (°C) =25.03 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.64 Viteza vântului = 3.6 Unghiul vântului = 250 Stare = nori 25-50%']
+Chitila: 22 \ marți \ 31:5:2022 \ 19:13:07
+[' Răsarit = 05:35:19 Apus = 20:52:29 Min (°C) = 17.13 Max (°C) =28.14 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = furtună with ploaie ușoară']
+Chitila: 22 \ miercuri \ 01:6:2022 \ 19:13:39
+[' Răsarit = 05:34:45 Apus = 20:53:20 Min (°C) = 16.87 Max (°C) =29.37 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.56 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = cer senin']
+Chitila: 22 \ joi \ 02:6:2022 \ 19:13:07
+[' Răsarit = 05:34:13 Apus = 20:54:10 Min (°C) = 18.59 Max (°C) =31.08 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.55 Viteza vântului = 3.13 Unghiul vântului = 290 Stare = cer senin']
+Chitila: 22 \ vineri \ 03:6:2022 \ 19:13:26
+[' Răsarit = 05:33:44 Apus = 20:54:58 Min (°C) = 20.45 Max (°C) =29.28 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.23 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = cer senin']
+Chitila: 22 \ sâmbătă \ 04:6:2022 \ 19:13:53
+[' Răsarit = 05:33:17 Apus = 20:55:45 Min (°C) = 19.34 Max (°C) =30.02 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.63 Viteza vântului = 2.68 Unghiul vântului = 300 Stare = cer senin']
+Chitila: 22 \ duminică \ 05:6:2022 \ 19:13:08
+[' Răsarit = 05:32:52 Apus = 20:56:30 Min (°C) = 20.66 Max (°C) =30.02 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.67 Viteza vântului = 8.23 Unghiul vântului = 70 Stare = nori 10-25%']
+Chitila: 23 \ luni \ 06:6:2022 \ 19:13:50
+[' Răsarit = 05:32:29 Apus = 20:57:14 Min (°C) = 16.59 Max (°C) =25.77 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.25 Viteza vântului = 7.2 Unghiul vântului = 80 Stare = nori 10-25%']
+Chitila: 23 \ marți \ 07:6:2022 \ 19:12:57
+[' Răsarit = 05:32:08 Apus = 20:57:56 Min (°C) = 17.12 Max (°C) =25.4 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.71 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Chitila: 23 \ miercuri \ 08:6:2022 \ 19:13:41
+[' Răsarit = 05:31:50 Apus = 20:58:36 Min (°C) = 16.47 Max (°C) =25.21 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.71 Viteza vântului = 2.68 Unghiul vântului = 110 Stare = cer senin']
+Chitila: 23 \ joi \ 09:6:2022 \ 19:13:22
+[' Răsarit = 05:31:34 Apus = 20:59:14 Min (°C) = 17.26 Max (°C) =24.26 Presiune = 1007 Umiditate (%) = 80 Index UV = 0.59 Viteza vântului = 4.63 Unghiul vântului = 40 Stare = furtună cu ploaie']
+Chitila: 23 \ vineri \ 10:6:2022 \ 19:13:24
+[' Răsarit = 05:31:20 Apus = 20:59:50 Min (°C) = 16.16 Max (°C) =25.29 Presiune = 1011 Umiditate (%) = 66 Index UV = 0.71 Viteza vântului = 8.75 Unghiul vântului = 60 Stare = nori 50-85%']
+Chitila: 23 \ sâmbătă \ 11:6:2022 \ 19:13:22
+[' Răsarit = 05:31:08 Apus = 21:00:25 Min (°C) = 16.57 Max (°C) =20.81 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.24 Viteza vântului = 3.6 Unghiul vântului = 350 Stare = nori 10-25%']
+Chitila: 23 \ duminică \ 12:6:2022 \ 19:13:10
+[' Răsarit = 05:30:59 Apus = 21:00:58 Min (°C) = 17.23 Max (°C) =26.69 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.69 Viteza vântului = 4.12 Unghiul vântului = 70 Stare = cer senin']
+Chitila: 24 \ luni \ 13:6:2022 \ 19:13:18
+[' Răsarit = 05:30:51 Apus = 21:01:28 Min (°C) = 18.11 Max (°C) =29.28 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.67 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Chitila: 24 \ marți \ 14:6:2022 \ 19:12:54
+[' Răsarit = 05:30:46 Apus = 21:01:57 Min (°C) = 18.34 Max (°C) =28.12 Presiune = 1014 Umiditate (%) = 83 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = ploaie torențială \n de intensitate mică']
+Chitila: 24 \ miercuri \ 15:6:2022 \ 19:13:05
+[' Răsarit = 05:30:44 Apus = 21:02:24 Min (°C) = 16.49 Max (°C) =24.69 Presiune = 1019 Umiditate (%) = 42 Index UV = 0.7 Viteza vântului = 1.54 Unghiul vântului = 290 Stare = cer senin']
+Chitila: 24 \ joi \ 16:6:2022 \ 19:13:10
+[' Răsarit = 05:30:43 Apus = 21:02:48 Min (°C) = 17.07 Max (°C) =26.47 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.55 Viteza vântului = 2.24 Unghiul vântului = 260 Stare = nori 10-25%']
+Chitila: 24 \ vineri \ 17:6:2022 \ 19:13:32
+[' Răsarit = 05:30:45 Apus = 21:03:11 Min (°C) = 18.61 Max (°C) =28.68 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.28 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Chitila: 24 \ sâmbătă \ 18:6:2022 \ 19:13:18
+[' Răsarit = 05:30:49 Apus = 21:03:31 Min (°C) = 18.47 Max (°C) =25 Presiune = 1019 Umiditate (%) = 48 Index UV = 0.68 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = nori 10-25%']
+Chitila: 24 \ duminică \ 19:6:2022 \ 19:11:58
+[' Răsarit = 05:30:55 Apus = 21:03:49 Min (°C) = 16.55 Max (°C) =28.82 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.68 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Chitila: 25 \ luni \ 20:6:2022 \ 19:12:43
+[' Răsarit = 05:31:03 Apus = 21:04:06 Min (°C) = 19.15 Max (°C) =28.58 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.61 Viteza vântului = 3.13 Unghiul vântului = 180 Stare = cer senin']
+Chitila: 25 \ marți \ 21:6:2022 \ 19:13:30
+[' Răsarit = 05:31:14 Apus = 21:04:19 Min (°C) = 19.32 Max (°C) =34.25 Presiune = 1004 Umiditate (%) = 26 Index UV = 0.76 Viteza vântului = 9.26 Unghiul vântului = 300 Stare = nori 10-25%']
+Chitila: 25 \ miercuri \ 22:6:2022 \ 19:13:01
+[' Răsarit = 05:31:27 Apus = 21:04:31 Min (°C) = 17.9 Max (°C) =28.64 Presiune = 1008 Umiditate (%) = 32 Index UV = 0.67 Viteza vântului = 2.68 Unghiul vântului = 20 Stare = cer senin']
+Chitila: 25 \ joi \ 23:6:2022 \ 19:13:04
+[' Răsarit = 05:31:41 Apus = 21:04:41 Min (°C) = 17.41 Max (°C) =26.95 Presiune = 1011 Umiditate (%) = 34 Index UV = 0.54 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Chitila: 25 \ duminică \ 26:6:2022 \ 19:53:45
+[' Răsarit = 05:32:38 Apus = 21:04:56 Min (°C) = 19.88 Max (°C) =28.3 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.11 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = cer senin']
+Chitila: 26 \ luni \ 27:6:2022 \ 19:13:20
+[' Răsarit = 05:33:01 Apus = 21:04:56 Min (°C) = 18.13 Max (°C) =28.86 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.61 Viteza vântului = 6.17 Unghiul vântului = 80 Stare = nori 25-50%']
+Chitila: 26 \ marți \ 28:6:2022 \ 19:13:32
+[' Răsarit = 05:33:26 Apus = 21:04:54 Min (°C) = 20.4 Max (°C) =29.52 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.68 Viteza vântului = 5.66 Unghiul vântului = 300 Stare = cer senin']
+Chitila: 26 \ miercuri \ 29:6:2022 \ 19:13:27
+[' Răsarit = 05:33:53 Apus = 21:04:50 Min (°C) = 19.99 Max (°C) =33.89 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.64 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = nori 25-50%']
+Chitila: 26 \ joi \ 30:6:2022 \ 19:14:04
+[' Răsarit = 05:34:22 Apus = 21:04:44 Min (°C) = 22.2 Max (°C) =35.96 Presiune = 1012 Umiditate (%) = 26 Index UV = 0.74 Viteza vântului = 4.12 Unghiul vântului = 80 Stare = cer senin']
+Chitila: 26 \ vineri \ 01:7:2022 \ 19:13:36
+[' Răsarit = 05:34:53 Apus = 21:04:35 Min (°C) = 21.73 Max (°C) =34.94 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.59 Viteza vântului = 3.6 Unghiul vântului = 70 Stare = cer senin']
+Chitila: 26 \ sâmbătă \ 02:7:2022 \ 19:13:26
+[' Răsarit = 05:35:26 Apus = 21:04:24 Min (°C) = 22.54 Max (°C) =35.09 Presiune = 1016 Umiditate (%) = 35 Index UV = 0.73 Viteza vântului = 3.6 Unghiul vântului = 90 Stare = cer senin']

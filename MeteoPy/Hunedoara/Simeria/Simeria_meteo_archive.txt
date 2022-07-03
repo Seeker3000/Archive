@@ -952,3 +952,83 @@ Simeria: 20 \ vineri \ 20:5:2022 \ 19:00:59
 [' Răsarit = 05:51:14 Apus = 20:57:56 Min (°C) = 8.07 Max (°C) =24.23 Presiune = 1021 Umiditate (%) = 54 Index UV = 0.66 Viteza vântului = 1.26 Unghiul vântului = 316 Stare = nori 50-85%']
 Simeria: 20 \ sâmbătă \ 21:5:2022 \ 19:01:09
 [' Răsarit = 05:50:15 Apus = 20:59:04 Min (°C) = 12.51 Max (°C) =26.99 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.67 Viteza vântului = 4.92 Unghiul vântului = 285 Stare = nori 50-85%']
+Simeria: 20 \ duminică \ 22:5:2022 \ 19:01:03
+[' Răsarit = 05:49:17 Apus = 21:00:11 Min (°C) = 11.71 Max (°C) =22.22 Presiune = 1011 Umiditate (%) = 52 Index UV = 0.65 Viteza vântului = 3.7 Unghiul vântului = 318 Stare = nori 10-25%']
+Simeria: 21 \ luni \ 23:5:2022 \ 19:00:57
+[' Răsarit = 05:48:22 Apus = 21:01:16 Min (°C) = 10.86 Max (°C) =21.93 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.53 Viteza vântului = 1.88 Unghiul vântului = 52 Stare = nori 50-85%']
+Simeria: 21 \ marți \ 24:5:2022 \ 19:01:07
+[' Răsarit = 05:47:29 Apus = 21:02:21 Min (°C) = 9.07 Max (°C) =16.2 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.53 Viteza vântului = 1 Unghiul vântului = 56 Stare = nori 85-100%']
+Simeria: 21 \ miercuri \ 25:5:2022 \ 19:01:00
+[' Răsarit = 05:46:37 Apus = 21:03:24 Min (°C) = 11.66 Max (°C) =27.63 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.71 Viteza vântului = 2.39 Unghiul vântului = 300 Stare = nori 25-50%']
+Simeria: 21 \ joi \ 26:5:2022 \ 19:00:58
+[' Răsarit = 05:45:48 Apus = 21:04:26 Min (°C) = 14.56 Max (°C) =23.1 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.73 Viteza vântului = 3.87 Unghiul vântului = 300 Stare = nori 50-85%']
+Simeria: 21 \ vineri \ 27:5:2022 \ 19:01:09
+[' Răsarit = 05:45:01 Apus = 21:05:27 Min (°C) = 12.27 Max (°C) =25.18 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.73 Viteza vântului = 2.2 Unghiul vântului = 316 Stare = cer senin']
+Simeria: 21 \ sâmbătă \ 28:5:2022 \ 19:01:13
+[' Răsarit = 05:44:16 Apus = 21:06:27 Min (°C) = 12.4 Max (°C) =20.59 Presiune = 1014 Umiditate (%) = 93 Index UV = 0.08 Viteza vântului = 0.46 Unghiul vântului = 304 Stare = nori 85-100%']
+Simeria: 21 \ duminică \ 29:5:2022 \ 19:01:03
+[' Răsarit = 05:43:33 Apus = 21:07:25 Min (°C) = 9.06 Max (°C) =20.45 Presiune = 1007 Umiditate (%) = 76 Index UV = 0.63 Viteza vântului = 2.4 Unghiul vântului = 56 Stare = nori 85-100%']
+Simeria: 22 \ luni \ 30:5:2022 \ 19:01:06
+[' Răsarit = 05:42:53 Apus = 21:08:22 Min (°C) = 13.91 Max (°C) =23.28 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.77 Viteza vântului = 0.73 Unghiul vântului = 325 Stare = nori 25-50%']
+Simeria: 22 \ marți \ 31:5:2022 \ 19:01:04
+[' Răsarit = 05:42:14 Apus = 21:09:17 Min (°C) = 12.74 Max (°C) =25.31 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.78 Viteza vântului = 0.38 Unghiul vântului = 326 Stare = ploaie ușoară']
+Simeria: 22 \ miercuri \ 01:6:2022 \ 19:01:08
+[' Răsarit = 05:41:38 Apus = 21:10:11 Min (°C) = 12.82 Max (°C) =26.75 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.7 Viteza vântului = 1.27 Unghiul vântului = 256 Stare = nori 85-100%']
+Simeria: 22 \ joi \ 02:6:2022 \ 19:01:00
+[' Răsarit = 05:41:04 Apus = 21:11:03 Min (°C) = 14.47 Max (°C) =27.94 Presiune = 1017 Umiditate (%) = 84 Index UV = 0.62 Viteza vântului = 1.92 Unghiul vântului = 25 Stare = nori 50-85%']
+Simeria: 22 \ vineri \ 03:6:2022 \ 19:00:59
+[' Răsarit = 05:40:32 Apus = 21:11:54 Min (°C) = 15.66 Max (°C) =27.79 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.66 Viteza vântului = 1.14 Unghiul vântului = 49 Stare = nori 50-85%']
+Simeria: 22 \ sâmbătă \ 04:6:2022 \ 19:01:03
+[' Răsarit = 05:40:03 Apus = 21:12:43 Min (°C) = 16.57 Max (°C) =25.32 Presiune = 1016 Umiditate (%) = 94 Index UV = 0.27 Viteza vântului = 0.89 Unghiul vântului = 234 Stare = nori 50-85%']
+Simeria: 22 \ duminică \ 05:6:2022 \ 19:00:59
+[' Răsarit = 05:39:36 Apus = 21:13:30 Min (°C) = 16.3 Max (°C) =28.2 Presiune = 1014 Umiditate (%) = 57 Index UV = 0.85 Viteza vântului = 4.31 Unghiul vântului = 305 Stare = nori 25-50%']
+Simeria: 23 \ luni \ 06:6:2022 \ 19:01:07
+[' Răsarit = 05:39:11 Apus = 21:14:15 Min (°C) = 13.53 Max (°C) =25.21 Presiune = 1014 Umiditate (%) = 56 Index UV = 0.88 Viteza vântului = 3.55 Unghiul vântului = 62 Stare = cer senin']
+Simeria: 23 \ marți \ 07:6:2022 \ 19:00:59
+[' Răsarit = 05:38:48 Apus = 21:14:59 Min (°C) = 13.31 Max (°C) =26.41 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.88 Viteza vântului = 2.96 Unghiul vântului = 61 Stare = cer senin']
+Simeria: 23 \ miercuri \ 08:6:2022 \ 19:01:06
+[' Răsarit = 05:38:28 Apus = 21:15:41 Min (°C) = 13.85 Max (°C) =26.48 Presiune = 1009 Umiditate (%) = 70 Index UV = 0.72 Viteza vântului = 2.74 Unghiul vântului = 167 Stare = nori 50-85%']
+Simeria: 23 \ joi \ 09:6:2022 \ 19:01:04
+[' Răsarit = 05:38:11 Apus = 21:16:21 Min (°C) = 13.74 Max (°C) =25.81 Presiune = 1006 Umiditate (%) = 61 Index UV = 0.38 Viteza vântului = 2.58 Unghiul vântului = 84 Stare = ploaie moderată']
+Simeria: 23 \ vineri \ 10:6:2022 \ 19:01:10
+[' Răsarit = 05:37:55 Apus = 21:16:59 Min (°C) = 13.27 Max (°C) =24.98 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.83 Viteza vântului = 4.99 Unghiul vântului = 64 Stare = nori 25-50%']
+Simeria: 23 \ sâmbătă \ 11:6:2022 \ 19:01:06
+[' Răsarit = 05:37:42 Apus = 21:17:35 Min (°C) = 13.29 Max (°C) =25.11 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.57 Viteza vântului = 3.3 Unghiul vântului = 61 Stare = nori 50-85%']
+Simeria: 23 \ duminică \ 12:6:2022 \ 19:01:06
+[' Răsarit = 05:37:31 Apus = 21:18:08 Min (°C) = 14.27 Max (°C) =26.89 Presiune = 1013 Umiditate (%) = 63 Index UV = 0.61 Viteza vântului = 3.17 Unghiul vântului = 64 Stare = nori 50-85%']
+Simeria: 24 \ luni \ 13:6:2022 \ 19:01:24
+[' Răsarit = 05:37:23 Apus = 21:18:40 Min (°C) = 14.44 Max (°C) =27.98 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.9 Viteza vântului = 2.38 Unghiul vântului = 278 Stare = nori 25-50%']
+Simeria: 24 \ marți \ 14:6:2022 \ 19:01:04
+[' Răsarit = 05:37:17 Apus = 21:19:10 Min (°C) = 15.36 Max (°C) =24.8 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.83 Viteza vântului = 2.06 Unghiul vântului = 318 Stare = nori 50-85%']
+Simeria: 24 \ miercuri \ 15:6:2022 \ 19:00:58
+[' Răsarit = 05:37:14 Apus = 21:19:37 Min (°C) = 10.84 Max (°C) =25.66 Presiune = 1019 Umiditate (%) = 49 Index UV = 0.76 Viteza vântului = 2.72 Unghiul vântului = 42 Stare = nori 50-85%']
+Simeria: 24 \ joi \ 16:6:2022 \ 19:01:00
+[' Răsarit = 05:37:12 Apus = 21:20:03 Min (°C) = 11.76 Max (°C) =27.31 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.85 Viteza vântului = 0.98 Unghiul vântului = 85 Stare = nori 50-85%']
+Simeria: 24 \ vineri \ 17:6:2022 \ 19:01:09
+[' Răsarit = 05:37:13 Apus = 21:20:26 Min (°C) = 15.03 Max (°C) =25.38 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.62 Viteza vântului = 1.78 Unghiul vântului = 47 Stare = nori 85-100%']
+Simeria: 24 \ sâmbătă \ 18:6:2022 \ 19:01:00
+[' Răsarit = 05:37:17 Apus = 21:20:47 Min (°C) = 12.17 Max (°C) =25.28 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.77 Viteza vântului = 3.6 Unghiul vântului = 79 Stare = nori 25-50%']
+Simeria: 24 \ duminică \ 19:6:2022 \ 19:00:58
+[' Răsarit = 05:37:23 Apus = 21:21:05 Min (°C) = 12.36 Max (°C) =28.81 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.9 Viteza vântului = 3.14 Unghiul vântului = 69 Stare = cer senin']
+Simeria: 25 \ luni \ 20:6:2022 \ 19:00:59
+[' Răsarit = 05:37:31 Apus = 21:21:22 Min (°C) = 14.7 Max (°C) =31.77 Presiune = 1009 Umiditate (%) = 35 Index UV = 0.91 Viteza vântului = 1.48 Unghiul vântului = 303 Stare = cer senin']
+Simeria: 25 \ marți \ 21:6:2022 \ 19:01:15
+[' Răsarit = 05:37:41 Apus = 21:21:36 Min (°C) = 17.16 Max (°C) =29.59 Presiune = 1010 Umiditate (%) = 26 Index UV = 0.91 Viteza vântului = 6.42 Unghiul vântului = 295 Stare = nori 25-50%']
+Simeria: 25 \ miercuri \ 22:6:2022 \ 19:01:02
+[' Răsarit = 05:37:54 Apus = 21:21:47 Min (°C) = 10.82 Max (°C) =26.05 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.84 Viteza vântului = 4.4 Unghiul vântului = 309 Stare = nori 25-50%']
+Simeria: 25 \ joi \ 23:6:2022 \ 19:01:01
+[' Răsarit = 05:38:09 Apus = 21:21:57 Min (°C) = 13.49 Max (°C) =25.36 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.68 Viteza vântului = 1.19 Unghiul vântului = 136 Stare = nori 85-100%']
+Simeria: 25 \ duminică \ 26:6:2022 \ 19:41:08
+[' Răsarit = 05:39:07 Apus = 21:22:10 Min (°C) = 17.44 Max (°C) =27.46 Presiune = 1016 Umiditate (%) = 79 Index UV = 0.26 Viteza vântului = 0.59 Unghiul vântului = 42 Stare = nori 50-85%']
+Simeria: 26 \ luni \ 27:6:2022 \ 19:00:59
+[' Răsarit = 05:39:31 Apus = 21:22:10 Min (°C) = 14.03 Max (°C) =30.51 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.8 Viteza vântului = 4.28 Unghiul vântului = 76 Stare = cer senin']
+Simeria: 26 \ marți \ 28:6:2022 \ 19:01:01
+[' Răsarit = 05:39:57 Apus = 21:22:08 Min (°C) = 16.16 Max (°C) =31.56 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.3 Viteza vântului = 5.45 Unghiul vântului = 70 Stare = nori 50-85%']
+Simeria: 26 \ miercuri \ 29:6:2022 \ 19:01:03
+[' Răsarit = 05:40:25 Apus = 21:22:02 Min (°C) = 17.38 Max (°C) =34.27 Presiune = 1012 Umiditate (%) = 29 Index UV = 0.8 Viteza vântului = 2.19 Unghiul vântului = 137 Stare = nori 25-50%']
+Simeria: 26 \ joi \ 30:6:2022 \ 19:01:03
+[' Răsarit = 05:40:55 Apus = 21:21:55 Min (°C) = 17.7 Max (°C) =35.97 Presiune = 1011 Umiditate (%) = 33 Index UV = 0.88 Viteza vântului = 1.13 Unghiul vântului = 82 Stare = nori 25-50%']
+Simeria: 26 \ vineri \ 01:7:2022 \ 19:01:10
+[' Răsarit = 05:41:27 Apus = 21:21:45 Min (°C) = 20.15 Max (°C) =37.46 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.13 Viteza vântului = 1.97 Unghiul vântului = 91 Stare = nori 50-85%']
+Simeria: 26 \ sâmbătă \ 02:7:2022 \ 19:01:02
+[' Răsarit = 05:42:01 Apus = 21:21:33 Min (°C) = 19.38 Max (°C) =35.72 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.7 Viteza vântului = 2.99 Unghiul vântului = 111 Stare = nori 50-85%']

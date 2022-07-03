@@ -950,3 +950,163 @@ Zlatna: 20 \ vineri \ 20:5:2022 \ 19:01:56
 [' Răsarit = 05:47:26 Apus = 20:56:31 Min (°C) = 8.52 Max (°C) =23.92 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.67 Viteza vântului = 0.27 Unghiul vântului = 190 Stare = nori 25-50%']
 Zlatna: 20 \ sâmbătă \ 21:5:2022 \ 19:02:15
 [' Răsarit = 05:46:26 Apus = 20:57:40 Min (°C) = 12.2 Max (°C) =26.89 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.66 Viteza vântului = 5.58 Unghiul vântului = 265 Stare = nori 85-100%']
+Zlatna: 20 \ duminică \ 22:5:2022 \ 19:02:04
+[' Răsarit = 05:45:27 Apus = 20:58:47 Min (°C) = 12.22 Max (°C) =19.45 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.57 Viteza vântului = 0.79 Unghiul vântului = 64 Stare = nori 85-100%']
+Zlatna: 21 \ luni \ 23:5:2022 \ 19:01:53
+[' Răsarit = 05:44:31 Apus = 20:59:54 Min (°C) = 10.33 Max (°C) =19.43 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.57 Viteza vântului = 3.31 Unghiul vântului = 39 Stare = nori 50-85%']
+Zlatna: 21 \ marți \ 24:5:2022 \ 19:02:08
+[' Răsarit = 05:43:37 Apus = 21:00:59 Min (°C) = 9.16 Max (°C) =18.14 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.41 Viteza vântului = 1.22 Unghiul vântului = 213 Stare = nori 85-100%']
+Zlatna: 21 \ miercuri \ 25:5:2022 \ 19:01:57
+[' Răsarit = 05:42:45 Apus = 21:02:03 Min (°C) = 11.31 Max (°C) =27.05 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 2.71 Unghiul vântului = 241 Stare = nori 50-85%']
+Zlatna: 21 \ joi \ 26:5:2022 \ 19:01:51
+[' Răsarit = 05:41:55 Apus = 21:03:06 Min (°C) = 14.77 Max (°C) =22.93 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.71 Viteza vântului = 1.48 Unghiul vântului = 38 Stare = nori 85-100%']
+Zlatna: 21 \ vineri \ 27:5:2022 \ 19:02:28
+[' Răsarit = 05:41:07 Apus = 21:04:08 Min (°C) = 12.6 Max (°C) =24.02 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.67 Viteza vântului = 1.44 Unghiul vântului = 306 Stare = nori 25-50%']
+Zlatna: 21 \ sâmbătă \ 28:5:2022 \ 19:02:24
+[' Răsarit = 05:40:21 Apus = 21:05:08 Min (°C) = 12.72 Max (°C) =20.88 Presiune = 1014 Umiditate (%) = 96 Index UV = 0.09 Viteza vântului = 1.14 Unghiul vântului = 160 Stare = nori 85-100%']
+Zlatna: 21 \ duminică \ 29:5:2022 \ 19:02:03
+[' Răsarit = 05:39:37 Apus = 21:06:07 Min (°C) = 12.39 Max (°C) =19.2 Presiune = 1007 Umiditate (%) = 85 Index UV = 0.62 Viteza vântului = 1.44 Unghiul vântului = 348 Stare = nori 85-100%']
+Zlatna: 22 \ luni \ 30:5:2022 \ 19:02:11
+[' Răsarit = 05:38:56 Apus = 21:07:05 Min (°C) = 14.43 Max (°C) =21.56 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.38 Viteza vântului = 2.44 Unghiul vântului = 47 Stare = nori 25-50%']
+Zlatna: 22 \ marți \ 31:5:2022 \ 19:02:07
+[' Răsarit = 05:38:17 Apus = 21:08:01 Min (°C) = 12.85 Max (°C) =23.68 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.74 Viteza vântului = 1.69 Unghiul vântului = 66 Stare = ploaie ușoară']
+Zlatna: 22 \ miercuri \ 01:6:2022 \ 19:02:13
+[' Răsarit = 05:37:40 Apus = 21:08:55 Min (°C) = 12.89 Max (°C) =26.13 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.63 Viteza vântului = 1.81 Unghiul vântului = 315 Stare = nori 50-85%']
+Zlatna: 22 \ joi \ 02:6:2022 \ 19:02:01
+[' Răsarit = 05:37:05 Apus = 21:09:48 Min (°C) = 15.05 Max (°C) =26.9 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.56 Viteza vântului = 2.33 Unghiul vântului = 353 Stare = ploaie ușoară']
+Zlatna: 22 \ vineri \ 03:6:2022 \ 19:02:13
+[' Răsarit = 05:36:33 Apus = 21:10:40 Min (°C) = 16.16 Max (°C) =26.24 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.21 Viteza vântului = 1.03 Unghiul vântului = 350 Stare = nori 50-85%']
+Zlatna: 22 \ sâmbătă \ 04:6:2022 \ 19:02:10
+[' Răsarit = 05:36:03 Apus = 21:11:29 Min (°C) = 16.82 Max (°C) =23 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.35 Viteza vântului = 1.62 Unghiul vântului = 354 Stare = nori 50-85%']
+Zlatna: 22 \ duminică \ 05:6:2022 \ 19:02:00
+[' Răsarit = 05:35:35 Apus = 21:12:17 Min (°C) = 15.71 Max (°C) =24.56 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.85 Viteza vântului = 1.59 Unghiul vântului = 24 Stare = nori 25-50%']
+Zlatna: 23 \ luni \ 06:6:2022 \ 19:02:11
+[' Răsarit = 05:35:10 Apus = 21:13:03 Min (°C) = 12.36 Max (°C) =24.02 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.74 Viteza vântului = 4.06 Unghiul vântului = 86 Stare = cer senin']
+Zlatna: 23 \ marți \ 07:6:2022 \ 19:01:57
+[' Răsarit = 05:34:47 Apus = 21:13:47 Min (°C) = 13.07 Max (°C) =24.74 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.87 Viteza vântului = 1.81 Unghiul vântului = 102 Stare = cer senin']
+Zlatna: 23 \ miercuri \ 08:6:2022 \ 19:02:21
+[' Răsarit = 05:34:26 Apus = 21:14:29 Min (°C) = 13.48 Max (°C) =25.33 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.87 Viteza vântului = 1.43 Unghiul vântului = 183 Stare = nori 25-50%']
+Zlatna: 23 \ joi \ 09:6:2022 \ 19:02:04
+[' Răsarit = 05:34:08 Apus = 21:15:10 Min (°C) = 13.93 Max (°C) =24.8 Presiune = 1007 Umiditate (%) = 61 Index UV = 0.85 Viteza vântului = 3.23 Unghiul vântului = 92 Stare = nori 50-85%']
+Zlatna: 23 \ vineri \ 10:6:2022 \ 19:02:10
+[' Răsarit = 05:33:52 Apus = 21:15:48 Min (°C) = 14.15 Max (°C) =22.97 Presiune = 1012 Umiditate (%) = 80 Index UV = 0.56 Viteza vântului = 2.18 Unghiul vântului = 70 Stare = nori 50-85%']
+Zlatna: 23 \ sâmbătă \ 11:6:2022 \ 19:02:03
+[' Răsarit = 05:33:39 Apus = 21:16:24 Min (°C) = 14.52 Max (°C) =23.11 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.8 Viteza vântului = 2.67 Unghiul vântului = 21 Stare = nori 50-85%']
+Zlatna: 23 \ duminică \ 12:6:2022 \ 19:02:01
+[' Răsarit = 05:33:28 Apus = 21:16:59 Min (°C) = 15.13 Max (°C) =24.04 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.83 Viteza vântului = 2.35 Unghiul vântului = 7 Stare = nori 50-85%']
+Zlatna: 24 \ luni \ 13:6:2022 \ 19:02:22
+[' Răsarit = 05:33:19 Apus = 21:17:31 Min (°C) = 14.99 Max (°C) =26.09 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.86 Viteza vântului = 2.3 Unghiul vântului = 346 Stare = nori 50-85%']
+Zlatna: 24 \ marți \ 14:6:2022 \ 19:02:04
+[' Răsarit = 05:33:13 Apus = 21:18:01 Min (°C) = 15.02 Max (°C) =22.02 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.74 Viteza vântului = 2.92 Unghiul vântului = 13 Stare = nori 50-85%']
+Zlatna: 24 \ miercuri \ 15:6:2022 \ 19:01:51
+[' Răsarit = 05:33:09 Apus = 21:18:28 Min (°C) = 11.54 Max (°C) =22.41 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.84 Viteza vântului = 2.51 Unghiul vântului = 33 Stare = nori 50-85%']
+Zlatna: 24 \ joi \ 16:6:2022 \ 19:01:59
+[' Răsarit = 05:33:08 Apus = 21:18:54 Min (°C) = 12.45 Max (°C) =24.87 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.8 Viteza vântului = 1.42 Unghiul vântului = 108 Stare = nori 25-50%']
+Zlatna: 24 \ vineri \ 17:6:2022 \ 19:02:07
+[' Răsarit = 05:33:09 Apus = 21:19:17 Min (°C) = 14.28 Max (°C) =23.61 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.76 Viteza vântului = 1.69 Unghiul vântului = 305 Stare = nori 85-100%']
+Zlatna: 24 \ sâmbătă \ 18:6:2022 \ 19:01:58
+[' Răsarit = 05:33:12 Apus = 21:19:38 Min (°C) = 12.11 Max (°C) =23.61 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.89 Viteza vântului = 1.93 Unghiul vântului = 35 Stare = nori 10-25%']
+Zlatna: 24 \ duminică \ 19:6:2022 \ 19:01:53
+[' Răsarit = 05:33:18 Apus = 21:19:57 Min (°C) = 13.24 Max (°C) =26.74 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.89 Viteza vântului = 1.56 Unghiul vântului = 123 Stare = cer senin']
+Zlatna: 25 \ luni \ 20:6:2022 \ 19:01:56
+[' Răsarit = 05:33:26 Apus = 21:20:13 Min (°C) = 14.63 Max (°C) =28.92 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.86 Viteza vântului = 0.63 Unghiul vântului = 73 Stare = cer senin']
+Zlatna: 25 \ marți \ 21:6:2022 \ 19:02:16
+[' Răsarit = 05:33:36 Apus = 21:20:28 Min (°C) = 17.44 Max (°C) =29.52 Presiune = 1008 Umiditate (%) = 32 Index UV = 0.87 Viteza vântului = 6.29 Unghiul vântului = 268 Stare = nori 25-50%']
+Zlatna: 25 \ miercuri \ 22:6:2022 \ 19:02:04
+[' Răsarit = 05:33:49 Apus = 21:20:39 Min (°C) = 11.03 Max (°C) =24.38 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.87 Viteza vântului = 2.01 Unghiul vântului = 8 Stare = nori 50-85%']
+Zlatna: 25 \ joi \ 23:6:2022 \ 19:01:54
+[' Răsarit = 05:34:04 Apus = 21:20:48 Min (°C) = 13.83 Max (°C) =24.66 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.79 Viteza vântului = 1.65 Unghiul vântului = 340 Stare = nori 25-50%']
+Zlatna: 25 \ duminică \ 26:6:2022 \ 19:42:12
+[' Răsarit = 05:35:02 Apus = 21:21:02 Min (°C) = 17.76 Max (°C) =26.45 Presiune = 1017 Umiditate (%) = 89 Index UV = 0.21 Viteza vântului = 2.14 Unghiul vântului = 139 Stare = nori 50-85%']
+Zlatna: 26 \ luni \ 27:6:2022 \ 19:02:03
+[' Răsarit = 05:35:26 Apus = 21:21:01 Min (°C) = 14.42 Max (°C) =28.48 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.88 Viteza vântului = 1.08 Unghiul vântului = 70 Stare = cer senin']
+Zlatna: 26 \ marți \ 28:6:2022 \ 19:02:01
+[' Răsarit = 05:35:52 Apus = 21:20:58 Min (°C) = 16.96 Max (°C) =29.61 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.9 Viteza vântului = 1.68 Unghiul vântului = 107 Stare = nori 50-85%']
+Zlatna: 26 \ miercuri \ 29:6:2022 \ 19:02:03
+[' Răsarit = 05:36:20 Apus = 21:20:53 Min (°C) = 18.28 Max (°C) =33.77 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.85 Viteza vântului = 3.18 Unghiul vântului = 146 Stare = nori 10-25%']
+Zlatna: 26 \ joi \ 30:6:2022 \ 19:02:08
+[' Răsarit = 05:36:51 Apus = 21:20:45 Min (°C) = 18.37 Max (°C) =34.18 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.89 Viteza vântului = 2.26 Unghiul vântului = 181 Stare = cer senin']
+Zlatna: 26 \ vineri \ 01:7:2022 \ 19:02:12
+[' Răsarit = 05:37:23 Apus = 21:20:35 Min (°C) = 19.57 Max (°C) =35.2 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.89 Viteza vântului = 1.23 Unghiul vântului = 41 Stare = nori 50-85%']
+Zlatna: 26 \ sâmbătă \ 02:7:2022 \ 19:01:58
+[' Răsarit = 05:37:57 Apus = 21:20:22 Min (°C) = 19.54 Max (°C) =30.43 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.44 Viteza vântului = 2.5 Unghiul vântului = 281 Stare = nori 85-100%']
+Zlatna: 20 \ duminică \ 22:5:2022 \ 19:02:04
+[' Răsarit = 05:45:27 Apus = 20:58:47 Min (°C) = 12.22 Max (°C) =19.45 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.57 Viteza vântului = 0.79 Unghiul vântului = 64 Stare = nori 85-100%']
+Zlatna: 21 \ luni \ 23:5:2022 \ 19:01:53
+[' Răsarit = 05:44:31 Apus = 20:59:54 Min (°C) = 10.33 Max (°C) =19.43 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.57 Viteza vântului = 3.31 Unghiul vântului = 39 Stare = nori 50-85%']
+Zlatna: 21 \ marți \ 24:5:2022 \ 19:02:08
+[' Răsarit = 05:43:37 Apus = 21:00:59 Min (°C) = 9.16 Max (°C) =18.14 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.41 Viteza vântului = 1.22 Unghiul vântului = 213 Stare = nori 85-100%']
+Zlatna: 21 \ miercuri \ 25:5:2022 \ 19:01:57
+[' Răsarit = 05:42:45 Apus = 21:02:03 Min (°C) = 11.31 Max (°C) =27.05 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.54 Viteza vântului = 2.71 Unghiul vântului = 241 Stare = nori 50-85%']
+Zlatna: 21 \ joi \ 26:5:2022 \ 19:01:51
+[' Răsarit = 05:41:55 Apus = 21:03:06 Min (°C) = 14.77 Max (°C) =22.93 Presiune = 1020 Umiditate (%) = 64 Index UV = 0.71 Viteza vântului = 1.48 Unghiul vântului = 38 Stare = nori 85-100%']
+Zlatna: 21 \ vineri \ 27:5:2022 \ 19:02:28
+[' Răsarit = 05:41:07 Apus = 21:04:08 Min (°C) = 12.6 Max (°C) =24.02 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.67 Viteza vântului = 1.44 Unghiul vântului = 306 Stare = nori 25-50%']
+Zlatna: 21 \ sâmbătă \ 28:5:2022 \ 19:02:24
+[' Răsarit = 05:40:21 Apus = 21:05:08 Min (°C) = 12.72 Max (°C) =20.88 Presiune = 1014 Umiditate (%) = 96 Index UV = 0.09 Viteza vântului = 1.14 Unghiul vântului = 160 Stare = nori 85-100%']
+Zlatna: 21 \ duminică \ 29:5:2022 \ 19:02:03
+[' Răsarit = 05:39:37 Apus = 21:06:07 Min (°C) = 12.39 Max (°C) =19.2 Presiune = 1007 Umiditate (%) = 85 Index UV = 0.62 Viteza vântului = 1.44 Unghiul vântului = 348 Stare = nori 85-100%']
+Zlatna: 22 \ luni \ 30:5:2022 \ 19:02:11
+[' Răsarit = 05:38:56 Apus = 21:07:05 Min (°C) = 14.43 Max (°C) =21.56 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.38 Viteza vântului = 2.44 Unghiul vântului = 47 Stare = nori 25-50%']
+Zlatna: 22 \ marți \ 31:5:2022 \ 19:02:07
+[' Răsarit = 05:38:17 Apus = 21:08:01 Min (°C) = 12.85 Max (°C) =23.68 Presiune = 1015 Umiditate (%) = 75 Index UV = 0.74 Viteza vântului = 1.69 Unghiul vântului = 66 Stare = ploaie ușoară']
+Zlatna: 22 \ miercuri \ 01:6:2022 \ 19:02:13
+[' Răsarit = 05:37:40 Apus = 21:08:55 Min (°C) = 12.89 Max (°C) =26.13 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.63 Viteza vântului = 1.81 Unghiul vântului = 315 Stare = nori 50-85%']
+Zlatna: 22 \ joi \ 02:6:2022 \ 19:02:01
+[' Răsarit = 05:37:05 Apus = 21:09:48 Min (°C) = 15.05 Max (°C) =26.9 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.56 Viteza vântului = 2.33 Unghiul vântului = 353 Stare = ploaie ușoară']
+Zlatna: 22 \ vineri \ 03:6:2022 \ 19:02:13
+[' Răsarit = 05:36:33 Apus = 21:10:40 Min (°C) = 16.16 Max (°C) =26.24 Presiune = 1020 Umiditate (%) = 63 Index UV = 0.21 Viteza vântului = 1.03 Unghiul vântului = 350 Stare = nori 50-85%']
+Zlatna: 22 \ sâmbătă \ 04:6:2022 \ 19:02:10
+[' Răsarit = 05:36:03 Apus = 21:11:29 Min (°C) = 16.82 Max (°C) =23 Presiune = 1016 Umiditate (%) = 87 Index UV = 0.35 Viteza vântului = 1.62 Unghiul vântului = 354 Stare = nori 50-85%']
+Zlatna: 22 \ duminică \ 05:6:2022 \ 19:02:00
+[' Răsarit = 05:35:35 Apus = 21:12:17 Min (°C) = 15.71 Max (°C) =24.56 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.85 Viteza vântului = 1.59 Unghiul vântului = 24 Stare = nori 25-50%']
+Zlatna: 23 \ luni \ 06:6:2022 \ 19:02:11
+[' Răsarit = 05:35:10 Apus = 21:13:03 Min (°C) = 12.36 Max (°C) =24.02 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.74 Viteza vântului = 4.06 Unghiul vântului = 86 Stare = cer senin']
+Zlatna: 23 \ marți \ 07:6:2022 \ 19:01:57
+[' Răsarit = 05:34:47 Apus = 21:13:47 Min (°C) = 13.07 Max (°C) =24.74 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.87 Viteza vântului = 1.81 Unghiul vântului = 102 Stare = cer senin']
+Zlatna: 23 \ miercuri \ 08:6:2022 \ 19:02:21
+[' Răsarit = 05:34:26 Apus = 21:14:29 Min (°C) = 13.48 Max (°C) =25.33 Presiune = 1008 Umiditate (%) = 66 Index UV = 0.87 Viteza vântului = 1.43 Unghiul vântului = 183 Stare = nori 25-50%']
+Zlatna: 23 \ joi \ 09:6:2022 \ 19:02:04
+[' Răsarit = 05:34:08 Apus = 21:15:10 Min (°C) = 13.93 Max (°C) =24.8 Presiune = 1007 Umiditate (%) = 61 Index UV = 0.85 Viteza vântului = 3.23 Unghiul vântului = 92 Stare = nori 50-85%']
+Zlatna: 23 \ vineri \ 10:6:2022 \ 19:02:10
+[' Răsarit = 05:33:52 Apus = 21:15:48 Min (°C) = 14.15 Max (°C) =22.97 Presiune = 1012 Umiditate (%) = 80 Index UV = 0.56 Viteza vântului = 2.18 Unghiul vântului = 70 Stare = nori 50-85%']
+Zlatna: 23 \ sâmbătă \ 11:6:2022 \ 19:02:03
+[' Răsarit = 05:33:39 Apus = 21:16:24 Min (°C) = 14.52 Max (°C) =23.11 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.8 Viteza vântului = 2.67 Unghiul vântului = 21 Stare = nori 50-85%']
+Zlatna: 23 \ duminică \ 12:6:2022 \ 19:02:01
+[' Răsarit = 05:33:28 Apus = 21:16:59 Min (°C) = 15.13 Max (°C) =24.04 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.83 Viteza vântului = 2.35 Unghiul vântului = 7 Stare = nori 50-85%']
+Zlatna: 24 \ luni \ 13:6:2022 \ 19:02:22
+[' Răsarit = 05:33:19 Apus = 21:17:31 Min (°C) = 14.99 Max (°C) =26.09 Presiune = 1012 Umiditate (%) = 70 Index UV = 0.86 Viteza vântului = 2.3 Unghiul vântului = 346 Stare = nori 50-85%']
+Zlatna: 24 \ marți \ 14:6:2022 \ 19:02:04
+[' Răsarit = 05:33:13 Apus = 21:18:01 Min (°C) = 15.02 Max (°C) =22.02 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.74 Viteza vântului = 2.92 Unghiul vântului = 13 Stare = nori 50-85%']
+Zlatna: 24 \ miercuri \ 15:6:2022 \ 19:01:51
+[' Răsarit = 05:33:09 Apus = 21:18:28 Min (°C) = 11.54 Max (°C) =22.41 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.84 Viteza vântului = 2.51 Unghiul vântului = 33 Stare = nori 50-85%']
+Zlatna: 24 \ joi \ 16:6:2022 \ 19:01:59
+[' Răsarit = 05:33:08 Apus = 21:18:54 Min (°C) = 12.45 Max (°C) =24.87 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.8 Viteza vântului = 1.42 Unghiul vântului = 108 Stare = nori 25-50%']
+Zlatna: 24 \ vineri \ 17:6:2022 \ 19:02:07
+[' Răsarit = 05:33:09 Apus = 21:19:17 Min (°C) = 14.28 Max (°C) =23.61 Presiune = 1017 Umiditate (%) = 63 Index UV = 0.76 Viteza vântului = 1.69 Unghiul vântului = 305 Stare = nori 85-100%']
+Zlatna: 24 \ sâmbătă \ 18:6:2022 \ 19:01:58
+[' Răsarit = 05:33:12 Apus = 21:19:38 Min (°C) = 12.11 Max (°C) =23.61 Presiune = 1019 Umiditate (%) = 52 Index UV = 0.89 Viteza vântului = 1.93 Unghiul vântului = 35 Stare = nori 10-25%']
+Zlatna: 24 \ duminică \ 19:6:2022 \ 19:01:53
+[' Răsarit = 05:33:18 Apus = 21:19:57 Min (°C) = 13.24 Max (°C) =26.74 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.89 Viteza vântului = 1.56 Unghiul vântului = 123 Stare = cer senin']
+Zlatna: 25 \ luni \ 20:6:2022 \ 19:01:56
+[' Răsarit = 05:33:26 Apus = 21:20:13 Min (°C) = 14.63 Max (°C) =28.92 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.86 Viteza vântului = 0.63 Unghiul vântului = 73 Stare = cer senin']
+Zlatna: 25 \ marți \ 21:6:2022 \ 19:02:16
+[' Răsarit = 05:33:36 Apus = 21:20:28 Min (°C) = 17.44 Max (°C) =29.52 Presiune = 1008 Umiditate (%) = 32 Index UV = 0.87 Viteza vântului = 6.29 Unghiul vântului = 268 Stare = nori 25-50%']
+Zlatna: 25 \ miercuri \ 22:6:2022 \ 19:02:04
+[' Răsarit = 05:33:49 Apus = 21:20:39 Min (°C) = 11.03 Max (°C) =24.38 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.87 Viteza vântului = 2.01 Unghiul vântului = 8 Stare = nori 50-85%']
+Zlatna: 25 \ joi \ 23:6:2022 \ 19:01:54
+[' Răsarit = 05:34:04 Apus = 21:20:48 Min (°C) = 13.83 Max (°C) =24.66 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.79 Viteza vântului = 1.65 Unghiul vântului = 340 Stare = nori 25-50%']
+Zlatna: 25 \ duminică \ 26:6:2022 \ 19:42:12
+[' Răsarit = 05:35:02 Apus = 21:21:02 Min (°C) = 17.76 Max (°C) =26.45 Presiune = 1017 Umiditate (%) = 89 Index UV = 0.21 Viteza vântului = 2.14 Unghiul vântului = 139 Stare = nori 50-85%']
+Zlatna: 26 \ luni \ 27:6:2022 \ 19:02:03
+[' Răsarit = 05:35:26 Apus = 21:21:01 Min (°C) = 14.42 Max (°C) =28.48 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.88 Viteza vântului = 1.08 Unghiul vântului = 70 Stare = cer senin']
+Zlatna: 26 \ marți \ 28:6:2022 \ 19:02:01
+[' Răsarit = 05:35:52 Apus = 21:20:58 Min (°C) = 16.96 Max (°C) =29.61 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.9 Viteza vântului = 1.68 Unghiul vântului = 107 Stare = nori 50-85%']
+Zlatna: 26 \ miercuri \ 29:6:2022 \ 19:02:03
+[' Răsarit = 05:36:20 Apus = 21:20:53 Min (°C) = 18.28 Max (°C) =33.77 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.85 Viteza vântului = 3.18 Unghiul vântului = 146 Stare = nori 10-25%']
+Zlatna: 26 \ joi \ 30:6:2022 \ 19:02:08
+[' Răsarit = 05:36:51 Apus = 21:20:45 Min (°C) = 18.37 Max (°C) =34.18 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.89 Viteza vântului = 2.26 Unghiul vântului = 181 Stare = cer senin']
+Zlatna: 26 \ vineri \ 01:7:2022 \ 19:02:12
+[' Răsarit = 05:37:23 Apus = 21:20:35 Min (°C) = 19.57 Max (°C) =35.2 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.89 Viteza vântului = 1.23 Unghiul vântului = 41 Stare = nori 50-85%']
+Zlatna: 26 \ sâmbătă \ 02:7:2022 \ 19:01:58
+[' Răsarit = 05:37:57 Apus = 21:20:22 Min (°C) = 19.54 Max (°C) =30.43 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.44 Viteza vântului = 2.5 Unghiul vântului = 281 Stare = nori 85-100%']

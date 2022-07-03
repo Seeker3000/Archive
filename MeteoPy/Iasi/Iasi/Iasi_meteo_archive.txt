@@ -952,3 +952,83 @@ Iasi: 20 \ vineri \ 20:5:2022 \ 19:12:31
 [' Răsarit = 05:28:28 Apus = 20:44:17 Min (°C) = 10.61 Max (°C) =26.36 Presiune = 1017 Umiditate (%) = 26 Index UV = 0.47 Viteza vântului = 2.24 Unghiul vântului = 210 Stare = cer senin']
 Iasi: 20 \ sâmbătă \ 21:5:2022 \ 19:14:25
 [' Răsarit = 05:27:25 Apus = 20:45:28 Min (°C) = 13.91 Max (°C) =28.27 Presiune = 1007 Umiditate (%) = 36 Index UV = 0.48 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = nori 10-25%']
+Iasi: 20 \ duminică \ 22:5:2022 \ 19:13:39
+[' Răsarit = 05:26:24 Apus = 20:46:38 Min (°C) = 13.63 Max (°C) =20.02 Presiune = 1008 Umiditate (%) = 37 Index UV = 0.45 Viteza vântului = 8.05 Unghiul vântului = 330 Stare = nori 50-85%']
+Iasi: 21 \ luni \ 23:5:2022 \ 19:13:12
+[' Răsarit = 05:25:25 Apus = 20:47:47 Min (°C) = 10.03 Max (°C) =16.47 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.33 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = nori 10-25%']
+Iasi: 21 \ marți \ 24:5:2022 \ 19:13:11
+[' Răsarit = 05:24:29 Apus = 20:48:55 Min (°C) = 8.11 Max (°C) =22.27 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.49 Viteza vântului = 2.06 Unghiul vântului = 90 Stare = cer senin']
+Iasi: 21 \ miercuri \ 25:5:2022 \ 19:13:02
+[' Răsarit = 05:23:34 Apus = 20:50:02 Min (°C) = 11.38 Max (°C) =25.06 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.47 Viteza vântului = 6.17 Unghiul vântului = 170 Stare = cer senin']
+Iasi: 21 \ joi \ 26:5:2022 \ 19:13:02
+[' Răsarit = 05:22:42 Apus = 20:51:07 Min (°C) = 12.4 Max (°C) =23.52 Presiune = 1017 Umiditate (%) = 32 Index UV = 0.36 Viteza vântului = 4.92 Unghiul vântului = 340 Stare = cer senin']
+Iasi: 21 \ vineri \ 27:5:2022 \ 19:13:14
+[' Răsarit = 05:21:51 Apus = 20:52:11 Min (°C) = 16.09 Max (°C) =27.27 Presiune = 1011 Umiditate (%) = 29 Index UV = 0.55 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Iasi: 21 \ sâmbătă \ 28:5:2022 \ 19:14:14
+[' Răsarit = 05:21:03 Apus = 20:53:14 Min (°C) = 12.11 Max (°C) =19.25 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.07 Viteza vântului = 0.45 Unghiul vântului = 280 Stare = nori 85-100%']
+Iasi: 21 \ duminică \ 29:5:2022 \ 19:12:57
+[' Răsarit = 05:20:18 Apus = 20:54:15 Min (°C) = 11.74 Max (°C) =20.57 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.4 Viteza vântului = 5.14 Unghiul vântului = 110 Stare = nori 25-50%']
+Iasi: 22 \ luni \ 30:5:2022 \ 19:13:46
+[' Răsarit = 05:19:34 Apus = 20:55:15 Min (°C) = 13.45 Max (°C) =23.62 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.59 Viteza vântului = 5.14 Unghiul vântului = 110 Stare = nori 10-25%']
+Iasi: 22 \ marți \ 31:5:2022 \ 19:12:44
+[' Răsarit = 05:18:53 Apus = 20:56:13 Min (°C) = 14.85 Max (°C) =25.27 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.46 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = nori 25-50%']
+Iasi: 22 \ miercuri \ 01:6:2022 \ 19:13:12
+[' Răsarit = 05:18:14 Apus = 20:57:09 Min (°C) = 14.75 Max (°C) =27.77 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.62 Viteza vântului = 4.12 Unghiul vântului = 120 Stare = nori 10-25%']
+Iasi: 22 \ joi \ 02:6:2022 \ 19:12:41
+[' Răsarit = 05:17:37 Apus = 20:58:04 Min (°C) = 16.56 Max (°C) =29.77 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.63 Viteza vântului = 3.13 Unghiul vântului = 140 Stare = nori 10-25%']
+Iasi: 22 \ vineri \ 03:6:2022 \ 19:12:59
+[' Răsarit = 05:17:03 Apus = 20:58:57 Min (°C) = 15.64 Max (°C) =25.99 Presiune = 1021 Umiditate (%) = 40 Index UV = 0.64 Viteza vântului = 4.12 Unghiul vântului = 10 Stare = cer senin']
+Iasi: 22 \ sâmbătă \ 04:6:2022 \ 19:13:24
+[' Răsarit = 05:16:31 Apus = 20:59:48 Min (°C) = 15.49 Max (°C) =26.8 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.51 Viteza vântului = 3.13 Unghiul vântului = 100 Stare = nori 10-25%']
+Iasi: 22 \ duminică \ 05:6:2022 \ 19:12:42
+[' Răsarit = 05:16:02 Apus = 21:00:38 Min (°C) = 17.78 Max (°C) =24.57 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.56 Viteza vântului = 7.15 Unghiul vântului = 340 Stare = nori 25-50%']
+Iasi: 23 \ luni \ 06:6:2022 \ 19:13:24
+[' Răsarit = 05:15:35 Apus = 21:01:25 Min (°C) = 13.87 Max (°C) =23.85 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.23 Viteza vântului = 2.24 Unghiul vântului = 90 Stare = cer senin']
+Iasi: 23 \ marți \ 07:6:2022 \ 19:12:31
+[' Răsarit = 05:15:11 Apus = 21:02:11 Min (°C) = 17.5 Max (°C) =27.27 Presiune = 1013 Umiditate (%) = 29 Index UV = 0.65 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Iasi: 23 \ miercuri \ 08:6:2022 \ 19:13:15
+[' Răsarit = 05:14:49 Apus = 21:02:55 Min (°C) = 15.41 Max (°C) =27.34 Presiune = 1010 Umiditate (%) = 36 Index UV = 0.46 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = cer senin']
+Iasi: 23 \ joi \ 09:6:2022 \ 19:12:56
+[' Răsarit = 05:14:29 Apus = 21:03:36 Min (°C) = 16.91 Max (°C) =29.27 Presiune = 1008 Umiditate (%) = 28 Index UV = 0.31 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = cer senin']
+Iasi: 23 \ vineri \ 10:6:2022 \ 19:12:57
+[' Răsarit = 05:14:12 Apus = 21:04:16 Min (°C) = 16.54 Max (°C) =21.98 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.48 Viteza vântului = 7.2 Unghiul vântului = 50 Stare = nori 10-25%']
+Iasi: 23 \ sâmbătă \ 11:6:2022 \ 19:12:56
+[' Răsarit = 05:13:57 Apus = 21:04:53 Min (°C) = 15.2 Max (°C) =26.37 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.28 Viteza vântului = 4.47 Unghiul vântului = 330 Stare = nori 10-25%']
+Iasi: 23 \ duminică \ 12:6:2022 \ 19:12:44
+[' Răsarit = 05:13:45 Apus = 21:05:29 Min (°C) = 15.52 Max (°C) =27.67 Presiune = 1013 Umiditate (%) = 76 Index UV = 0.65 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']
+Iasi: 24 \ luni \ 13:6:2022 \ 19:12:52
+[' Răsarit = 05:13:36 Apus = 21:06:02 Min (°C) = 15.9 Max (°C) =29.22 Presiune = 1011 Umiditate (%) = 35 Index UV = 0.51 Viteza vântului = 2.24 Unghiul vântului = 310 Stare = cer senin']
+Iasi: 24 \ marți \ 14:6:2022 \ 19:12:28
+[' Răsarit = 05:13:29 Apus = 21:06:32 Min (°C) = 16 Max (°C) =22.75 Presiune = 1016 Umiditate (%) = 39 Index UV = 0.63 Viteza vântului = 6.71 Unghiul vântului = 350 Stare = cer senin']
+Iasi: 24 \ miercuri \ 15:6:2022 \ 19:12:39
+[' Răsarit = 05:13:24 Apus = 21:07:01 Min (°C) = 13.75 Max (°C) =23.27 Presiune = 1019 Umiditate (%) = 35 Index UV = 0.63 Viteza vântului = 3.09 Unghiul vântului = 340 Stare = cer senin']
+Iasi: 24 \ joi \ 16:6:2022 \ 19:12:43
+[' Răsarit = 05:13:22 Apus = 21:07:27 Min (°C) = 15.2 Max (°C) =26.27 Presiune = 1017 Umiditate (%) = 29 Index UV = 0.63 Viteza vântului = 2.24 Unghiul vântului = 100 Stare = cer senin']
+Iasi: 24 \ vineri \ 17:6:2022 \ 19:13:05
+[' Răsarit = 05:13:23 Apus = 21:07:51 Min (°C) = 15.17 Max (°C) =25.95 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.62 Viteza vântului = 5.81 Unghiul vântului = 310 Stare = cer senin']
+Iasi: 24 \ sâmbătă \ 18:6:2022 \ 19:12:52
+[' Răsarit = 05:13:25 Apus = 21:08:12 Min (°C) = 12.54 Max (°C) =26.27 Presiune = 1018 Umiditate (%) = 27 Index UV = 0.37 Viteza vântului = 5.14 Unghiul vântului = 360 Stare = cer senin']
+Iasi: 24 \ duminică \ 19:6:2022 \ 19:11:34
+[' Răsarit = 05:13:31 Apus = 21:08:31 Min (°C) = 13.32 Max (°C) =28.15 Presiune = 1017 Umiditate (%) = 28 Index UV = 0.68 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = cer senin']
+Iasi: 25 \ luni \ 20:6:2022 \ 19:12:18
+[' Răsarit = 05:13:39 Apus = 21:08:48 Min (°C) = 15.37 Max (°C) =30.29 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.67 Viteza vântului = 4.12 Unghiul vântului = 180 Stare = cer senin']
+Iasi: 25 \ marți \ 21:6:2022 \ 19:13:04
+[' Răsarit = 05:13:49 Apus = 21:09:02 Min (°C) = 15.54 Max (°C) =31.49 Presiune = 1006 Umiditate (%) = 45 Index UV = 0.66 Viteza vântului = 8.05 Unghiul vântului = 340 Stare = nori 10-25%']
+Iasi: 25 \ miercuri \ 22:6:2022 \ 19:12:36
+[' Răsarit = 05:14:02 Apus = 21:09:14 Min (°C) = 11.82 Max (°C) =23.15 Presiune = 1007 Umiditate (%) = 36 Index UV = 0.46 Viteza vântului = 8.94 Unghiul vântului = 310 Stare = cer senin']
+Iasi: 25 \ joi \ 23:6:2022 \ 19:12:39
+[' Răsarit = 05:14:17 Apus = 21:09:23 Min (°C) = 13.37 Max (°C) =24.04 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.12 Viteza vântului = 6.71 Unghiul vântului = 330 Stare = cer senin']
+Iasi: 25 \ duminică \ 26:6:2022 \ 19:53:17
+[' Răsarit = 05:15:16 Apus = 21:09:35 Min (°C) = 15.74 Max (°C) =28.06 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.18 Viteza vântului = 2.24 Unghiul vântului = 44 Stare = nori 10-25%']
+Iasi: 26 \ luni \ 27:6:2022 \ 19:12:53
+[' Răsarit = 05:15:41 Apus = 21:09:35 Min (°C) = 15.54 Max (°C) =30.35 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.32 Viteza vântului = 5.81 Unghiul vântului = 60 Stare = cer senin']
+Iasi: 26 \ marți \ 28:6:2022 \ 19:13:05
+[' Răsarit = 05:16:07 Apus = 21:09:31 Min (°C) = 18.95 Max (°C) =33.15 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.67 Viteza vântului = 4.12 Unghiul vântului = 60 Stare = cer senin']
+Iasi: 26 \ miercuri \ 29:6:2022 \ 19:13:00
+[' Răsarit = 05:16:36 Apus = 21:09:25 Min (°C) = 19.11 Max (°C) =34.17 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.11 Viteza vântului = 3.13 Unghiul vântului = 30 Stare = nori 10-25%']
+Iasi: 26 \ joi \ 30:6:2022 \ 19:13:36
+[' Răsarit = 05:17:07 Apus = 21:09:16 Min (°C) = 20.77 Max (°C) =34.58 Presiune = 1014 Umiditate (%) = 48 Index UV = 0.27 Viteza vântului = 4.12 Unghiul vântului = 200 Stare = nori 10-25%']
+Iasi: 26 \ vineri \ 01:7:2022 \ 19:13:09
+[' Răsarit = 05:17:41 Apus = 21:09:05 Min (°C) = 19.52 Max (°C) =32.61 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.64 Viteza vântului = 2.68 Unghiul vântului = 100 Stare = cer senin']
+Iasi: 26 \ sâmbătă \ 02:7:2022 \ 19:12:59
+[' Răsarit = 05:18:16 Apus = 21:08:52 Min (°C) = 20.4 Max (°C) =34.02 Presiune = 1017 Umiditate (%) = 30 Index UV = 0.58 Viteza vântului = 2.68 Unghiul vântului = 80 Stare = cer senin']

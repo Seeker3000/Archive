@@ -954,3 +954,83 @@ Turnu_Magurele: 20 \ vineri \ 20:5:2022 \ 19:20:17
 [' Răsarit = 05:50:36 Apus = 20:43:47 Min (°C) = 10.02 Max (°C) =25.44 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.58 Viteza vântului = 2.09 Unghiul vântului = 277 Stare = nori 10-25%']
 Turnu_Magurele: 20 \ sâmbătă \ 21:5:2022 \ 19:22:46
 [' Răsarit = 05:49:41 Apus = 20:44:49 Min (°C) = 12.99 Max (°C) =30.38 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.61 Viteza vântului = 2.3 Unghiul vântului = 253 Stare = nori 25-50%']
+Turnu_Magurele: 20 \ duminică \ 22:5:2022 \ 19:22:02
+[' Răsarit = 05:48:49 Apus = 20:45:51 Min (°C) = 16.38 Max (°C) =26.9 Presiune = 1008 Umiditate (%) = 34 Index UV = 0.58 Viteza vântului = 7.8 Unghiul vântului = 297 Stare = cer senin']
+Turnu_Magurele: 21 \ luni \ 23:5:2022 \ 19:21:11
+[' Răsarit = 05:47:59 Apus = 20:46:51 Min (°C) = 12.39 Max (°C) =26.38 Presiune = 1008 Umiditate (%) = 51 Index UV = 0.52 Viteza vântului = 4.57 Unghiul vântului = 86 Stare = nori 25-50%']
+Turnu_Magurele: 21 \ marți \ 24:5:2022 \ 19:21:17
+[' Răsarit = 05:47:10 Apus = 20:47:51 Min (°C) = 11.55 Max (°C) =24.88 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.61 Viteza vântului = 4.09 Unghiul vântului = 51 Stare = nori 85-100%']
+Turnu_Magurele: 21 \ miercuri \ 25:5:2022 \ 19:21:15
+[' Răsarit = 05:46:24 Apus = 20:48:50 Min (°C) = 12.96 Max (°C) =29.38 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.63 Viteza vântului = 2.63 Unghiul vântului = 83 Stare = nori 10-25%']
+Turnu_Magurele: 21 \ joi \ 26:5:2022 \ 19:21:14
+[' Răsarit = 05:45:39 Apus = 20:49:47 Min (°C) = 17.41 Max (°C) =29.44 Presiune = 1017 Umiditate (%) = 37 Index UV = 0.63 Viteza vântului = 6.85 Unghiul vântului = 300 Stare = cer senin']
+Turnu_Magurele: 21 \ vineri \ 27:5:2022 \ 19:21:12
+[' Răsarit = 05:44:57 Apus = 20:50:43 Min (°C) = 13.51 Max (°C) =29.38 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.64 Viteza vântului = 2.2 Unghiul vântului = 284 Stare = cer senin']
+Turnu_Magurele: 21 \ sâmbătă \ 28:5:2022 \ 19:22:35
+[' Răsarit = 05:44:16 Apus = 20:51:39 Min (°C) = 17.26 Max (°C) =30.45 Presiune = 1006 Umiditate (%) = 54 Index UV = 0.22 Viteza vântului = 4.25 Unghiul vântului = 263 Stare = nori 25-50%']
+Turnu_Magurele: 21 \ duminică \ 29:5:2022 \ 19:20:52
+[' Răsarit = 05:43:37 Apus = 20:52:33 Min (°C) = 15.01 Max (°C) =24.44 Presiune = 1003 Umiditate (%) = 60 Index UV = 0.43 Viteza vântului = 3.75 Unghiul vântului = 111 Stare = nori 50-85%']
+Turnu_Magurele: 22 \ luni \ 30:5:2022 \ 19:21:39
+[' Răsarit = 05:43:01 Apus = 20:53:25 Min (°C) = 14.93 Max (°C) =26.38 Presiune = 1011 Umiditate (%) = 56 Index UV = 0.66 Viteza vântului = 2.19 Unghiul vântului = 265 Stare = cer senin']
+Turnu_Magurele: 22 \ marți \ 31:5:2022 \ 19:23:20
+[' Răsarit = 05:42:26 Apus = 20:54:17 Min (°C) = 16.67 Max (°C) =29.38 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.68 Viteza vântului = 1.7 Unghiul vântului = 354 Stare = cer senin']
+Turnu_Magurele: 22 \ miercuri \ 01:6:2022 \ 19:21:12
+[' Răsarit = 05:41:54 Apus = 20:55:07 Min (°C) = 16.44 Max (°C) =29.4 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.66 Viteza vântului = 1.95 Unghiul vântului = 17 Stare = nori 50-85%']
+Turnu_Magurele: 22 \ joi \ 02:6:2022 \ 19:20:31
+[' Răsarit = 05:41:24 Apus = 20:55:55 Min (°C) = 18.62 Max (°C) =31.38 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.63 Viteza vântului = 0.88 Unghiul vântului = 352 Stare = cer senin']
+Turnu_Magurele: 22 \ vineri \ 03:6:2022 \ 19:21:02
+[' Răsarit = 05:40:55 Apus = 20:56:42 Min (°C) = 18.6 Max (°C) =31.38 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.75 Viteza vântului = 4.87 Unghiul vântului = 71 Stare = nori 25-50%']
+Turnu_Magurele: 22 \ sâmbătă \ 04:6:2022 \ 19:21:33
+[' Răsarit = 05:40:29 Apus = 20:57:28 Min (°C) = 17.9 Max (°C) =31.38 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.75 Viteza vântului = 3.06 Unghiul vântului = 68 Stare = nori 25-50%']
+Turnu_Magurele: 22 \ duminică \ 05:6:2022 \ 19:20:30
+[' Răsarit = 05:40:05 Apus = 20:58:12 Min (°C) = 18.8 Max (°C) =32.44 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.75 Viteza vântului = 3.76 Unghiul vântului = 311 Stare = nori 25-50%']
+Turnu_Magurele: 23 \ luni \ 06:6:2022 \ 19:21:45
+[' Răsarit = 05:39:44 Apus = 20:58:55 Min (°C) = 17.05 Max (°C) =26.84 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.33 Viteza vântului = 3.8 Unghiul vântului = 60 Stare = nori 25-50%']
+Turnu_Magurele: 23 \ marți \ 07:6:2022 \ 19:20:34
+[' Răsarit = 05:39:24 Apus = 20:59:35 Min (°C) = 16.79 Max (°C) =26.36 Presiune = 1012 Umiditate (%) = 42 Index UV = 0.68 Viteza vântului = 4.08 Unghiul vântului = 75 Stare = nori 50-85%']
+Turnu_Magurele: 23 \ miercuri \ 08:6:2022 \ 19:21:05
+[' Răsarit = 05:39:07 Apus = 21:00:14 Min (°C) = 15.1 Max (°C) =27.38 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.74 Viteza vântului = 4.49 Unghiul vântului = 101 Stare = nori 10-25%']
+Turnu_Magurele: 23 \ joi \ 09:6:2022 \ 19:20:49
+[' Răsarit = 05:38:51 Apus = 21:00:52 Min (°C) = 15.36 Max (°C) =27.38 Presiune = 1005 Umiditate (%) = 48 Index UV = 0.47 Viteza vântului = 4.59 Unghiul vântului = 76 Stare = nori 25-50%']
+Turnu_Magurele: 23 \ vineri \ 10:6:2022 \ 19:20:54
+[' Răsarit = 05:38:38 Apus = 21:01:27 Min (°C) = 15.28 Max (°C) =24.45 Presiune = 1008 Umiditate (%) = 68 Index UV = 0.56 Viteza vântului = 5.39 Unghiul vântului = 67 Stare = nori 85-100%']
+Turnu_Magurele: 23 \ sâmbătă \ 11:6:2022 \ 19:20:55
+[' Răsarit = 05:38:27 Apus = 21:02:01 Min (°C) = 16.97 Max (°C) =21.38 Presiune = 1012 Umiditate (%) = 93 Index UV = 0.69 Viteza vântului = 0.92 Unghiul vântului = 84 Stare = ploaie ușoară']
+Turnu_Magurele: 23 \ duminică \ 12:6:2022 \ 19:20:46
+[' Răsarit = 05:38:18 Apus = 21:02:33 Min (°C) = 17.03 Max (°C) =23.73 Presiune = 1012 Umiditate (%) = 77 Index UV = 0.29 Viteza vântului = 2.76 Unghiul vântului = 331 Stare = ploaie moderată']
+Turnu_Magurele: 24 \ luni \ 13:6:2022 \ 19:20:32
+[' Răsarit = 05:38:12 Apus = 21:03:03 Min (°C) = 16.23 Max (°C) =28.72 Presiune = 1011 Umiditate (%) = 48 Index UV = 0.75 Viteza vântului = 2.52 Unghiul vântului = 281 Stare = cer senin']
+Turnu_Magurele: 24 \ marți \ 14:6:2022 \ 19:20:13
+[' Răsarit = 05:38:07 Apus = 21:03:31 Min (°C) = 17.41 Max (°C) =29.23 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.76 Viteza vântului = 6.14 Unghiul vântului = 274 Stare = nori 10-25%']
+Turnu_Magurele: 24 \ miercuri \ 15:6:2022 \ 19:20:29
+[' Răsarit = 05:38:05 Apus = 21:03:58 Min (°C) = 14.75 Max (°C) =25.38 Presiune = 1019 Umiditate (%) = 51 Index UV = 0.73 Viteza vântului = 3.87 Unghiul vântului = 48 Stare = nori 10-25%']
+Turnu_Magurele: 24 \ joi \ 16:6:2022 \ 19:20:39
+[' Răsarit = 05:38:05 Apus = 21:04:22 Min (°C) = 15.51 Max (°C) =28.38 Presiune = 1017 Umiditate (%) = 45 Index UV = 0.72 Viteza vântului = 4.14 Unghiul vântului = 83 Stare = nori 25-50%']
+Turnu_Magurele: 24 \ vineri \ 17:6:2022 \ 19:21:10
+[' Răsarit = 05:38:07 Apus = 21:04:44 Min (°C) = 16.62 Max (°C) =29.51 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.65 Viteza vântului = 2.53 Unghiul vântului = 331 Stare = nori 50-85%']
+Turnu_Magurele: 24 \ sâmbătă \ 18:6:2022 \ 19:20:44
+[' Răsarit = 05:38:11 Apus = 21:05:04 Min (°C) = 15.67 Max (°C) =26.43 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.63 Viteza vântului = 3.63 Unghiul vântului = 82 Stare = nori 25-50%']
+Turnu_Magurele: 24 \ duminică \ 19:6:2022 \ 19:19:40
+[' Răsarit = 05:38:18 Apus = 21:05:22 Min (°C) = 15.56 Max (°C) =29.38 Presiune = 1016 Umiditate (%) = 32 Index UV = 0.78 Viteza vântului = 1.7 Unghiul vântului = 55 Stare = nori 10-25%']
+Turnu_Magurele: 25 \ luni \ 20:6:2022 \ 19:20:03
+[' Răsarit = 05:38:26 Apus = 21:05:38 Min (°C) = 18.27 Max (°C) =29.47 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.69 Viteza vântului = 1.75 Unghiul vântului = 110 Stare = nori 25-50%']
+Turnu_Magurele: 25 \ marți \ 21:6:2022 \ 19:20:53
+[' Răsarit = 05:38:37 Apus = 21:05:52 Min (°C) = 18.05 Max (°C) =34.41 Presiune = 1006 Umiditate (%) = 29 Index UV = 0.8 Viteza vântului = 8.23 Unghiul vântului = 324 Stare = cer senin']
+Turnu_Magurele: 25 \ miercuri \ 22:6:2022 \ 19:20:15
+[' Răsarit = 05:38:49 Apus = 21:06:04 Min (°C) = 18.68 Max (°C) =30.77 Presiune = 1007 Umiditate (%) = 24 Index UV = 0.76 Viteza vântului = 7.63 Unghiul vântului = 291 Stare = nori 25-50%']
+Turnu_Magurele: 25 \ joi \ 23:6:2022 \ 19:20:28
+[' Răsarit = 05:39:04 Apus = 21:06:13 Min (°C) = 15.44 Max (°C) =25.38 Presiune = 1014 Umiditate (%) = 80 Index UV = 0.7 Viteza vântului = 3.68 Unghiul vântului = 252 Stare = nori 50-85%']
+Turnu_Magurele: 25 \ duminică \ 26:6:2022 \ 20:02:20
+[' Răsarit = 05:40:00 Apus = 21:06:29 Min (°C) = 18.35 Max (°C) =29.48 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.15 Viteza vântului = 4.28 Unghiul vântului = 185 Stare = nori 50-85%']
+Turnu_Magurele: 26 \ luni \ 27:6:2022 \ 19:20:45
+[' Răsarit = 05:40:23 Apus = 21:06:30 Min (°C) = 16.67 Max (°C) =30.38 Presiune = 1016 Umiditate (%) = 46 Index UV = 0.71 Viteza vântului = 3.33 Unghiul vântului = 98 Stare = nori 50-85%']
+Turnu_Magurele: 26 \ marți \ 28:6:2022 \ 19:21:13
+[' Răsarit = 05:40:48 Apus = 21:06:28 Min (°C) = 20.16 Max (°C) =31.34 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.56 Viteza vântului = 4.19 Unghiul vântului = 33 Stare = nori 50-85%']
+Turnu_Magurele: 26 \ miercuri \ 29:6:2022 \ 19:21:03
+[' Răsarit = 05:41:14 Apus = 21:06:25 Min (°C) = 18.04 Max (°C) =33.63 Presiune = 1013 Umiditate (%) = 27 Index UV = 0.77 Viteza vântului = 3.46 Unghiul vântului = 111 Stare = ploaie ușoară']
+Turnu_Magurele: 26 \ joi \ 30:6:2022 \ 19:22:11
+[' Răsarit = 05:41:43 Apus = 21:06:19 Min (°C) = 20.17 Max (°C) =34.88 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.75 Viteza vântului = 3.29 Unghiul vântului = 79 Stare = cer senin']
+Turnu_Magurele: 26 \ vineri \ 01:7:2022 \ 19:21:38
+[' Răsarit = 05:42:13 Apus = 21:06:11 Min (°C) = 20.58 Max (°C) =36.56 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.78 Viteza vântului = 4.57 Unghiul vântului = 43 Stare = nori 10-25%']
+Turnu_Magurele: 26 \ sâmbătă \ 02:7:2022 \ 19:21:02
+[' Răsarit = 05:42:45 Apus = 21:06:01 Min (°C) = 21.17 Max (°C) =35.79 Presiune = 1015 Umiditate (%) = 25 Index UV = 0.76 Viteza vântului = 4.33 Unghiul vântului = 82 Stare = cer senin']

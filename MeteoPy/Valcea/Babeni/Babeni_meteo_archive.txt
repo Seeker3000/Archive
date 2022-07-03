@@ -954,3 +954,83 @@ Babeni: 20 \ vineri \ 20:5:2022 \ 19:21:57
 [' Răsarit = 05:49:17 Apus = 20:50:09 Min (°C) = 8.78 Max (°C) =24.27 Presiune = 1021 Umiditate (%) = 53 Index UV = 0.59 Viteza vântului = 2.85 Unghiul vântului = 248 Stare = nori 25-50%']
 Babeni: 20 \ sâmbătă \ 21:5:2022 \ 19:24:29
 [' Răsarit = 05:48:20 Apus = 20:51:15 Min (°C) = 11.71 Max (°C) =27.92 Presiune = 1011 Umiditate (%) = 53 Index UV = 0.63 Viteza vântului = 3.93 Unghiul vântului = 268 Stare = nori 10-25%']
+Babeni: 20 \ duminică \ 22:5:2022 \ 19:23:49
+[' Răsarit = 05:47:25 Apus = 20:52:19 Min (°C) = 13 Max (°C) =25.04 Presiune = 1008 Umiditate (%) = 49 Index UV = 0.6 Viteza vântului = 3.66 Unghiul vântului = 359 Stare = nori 25-50%']
+Babeni: 21 \ luni \ 23:5:2022 \ 19:22:52
+[' Răsarit = 05:46:32 Apus = 20:53:23 Min (°C) = 10.23 Max (°C) =20.85 Presiune = 1008 Umiditate (%) = 53 Index UV = 0.36 Viteza vântului = 1.61 Unghiul vântului = 59 Stare = nori 85-100%']
+Babeni: 21 \ marți \ 24:5:2022 \ 19:23:04
+[' Răsarit = 05:45:40 Apus = 20:54:25 Min (°C) = 11.95 Max (°C) =19.83 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.55 Viteza vântului = 3.07 Unghiul vântului = 55 Stare = nori 85-100%']
+Babeni: 21 \ miercuri \ 25:5:2022 \ 19:22:58
+[' Răsarit = 05:44:51 Apus = 20:55:26 Min (°C) = 10.81 Max (°C) =26.04 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.66 Viteza vântului = 1.13 Unghiul vântului = 166 Stare = nori 25-50%']
+Babeni: 21 \ joi \ 26:5:2022 \ 19:22:58
+[' Răsarit = 05:44:04 Apus = 20:56:27 Min (°C) = 15.6 Max (°C) =27.75 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.63 Viteza vântului = 3.05 Unghiul vântului = 5 Stare = cer senin']
+Babeni: 21 \ vineri \ 27:5:2022 \ 19:23:21
+[' Răsarit = 05:43:19 Apus = 20:57:25 Min (°C) = 13.07 Max (°C) =26.1 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.66 Viteza vântului = 2.03 Unghiul vântului = 266 Stare = nori 10-25%']
+Babeni: 21 \ sâmbătă \ 28:5:2022 \ 19:24:21
+[' Răsarit = 05:42:36 Apus = 20:58:23 Min (°C) = 14.44 Max (°C) =27.39 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.65 Viteza vântului = 4.19 Unghiul vântului = 24 Stare = nori 85-100%']
+Babeni: 21 \ duminică \ 29:5:2022 \ 19:22:38
+[' Răsarit = 05:41:55 Apus = 20:59:19 Min (°C) = 14.04 Max (°C) =18.09 Presiune = 1008 Umiditate (%) = 92 Index UV = 0.13 Viteza vântului = 5.82 Unghiul vântului = 79 Stare = nori 85-100%']
+Babeni: 22 \ luni \ 30:5:2022 \ 19:23:19
+[' Răsarit = 05:41:16 Apus = 21:00:15 Min (°C) = 14.73 Max (°C) =24.7 Presiune = 1011 Umiditate (%) = 73 Index UV = 0.63 Viteza vântului = 2.8 Unghiul vântului = 294 Stare = nori 10-25%']
+Babeni: 22 \ marți \ 31:5:2022 \ 19:25:02
+[' Răsarit = 05:40:39 Apus = 21:01:08 Min (°C) = 14.2 Max (°C) =27.06 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.71 Viteza vântului = 1.69 Unghiul vântului = 275 Stare = nori 10-25%']
+Babeni: 22 \ miercuri \ 01:6:2022 \ 19:23:05
+[' Răsarit = 05:40:04 Apus = 21:02:00 Min (°C) = 13.54 Max (°C) =26.79 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.53 Viteza vântului = 1.77 Unghiul vântului = 304 Stare = nori 85-100%']
+Babeni: 22 \ joi \ 02:6:2022 \ 19:22:13
+[' Răsarit = 05:39:32 Apus = 21:02:51 Min (°C) = 14.84 Max (°C) =28.9 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.76 Viteza vântului = 2.67 Unghiul vântului = 4 Stare = nori 25-50%']
+Babeni: 22 \ vineri \ 03:6:2022 \ 19:22:43
+[' Răsarit = 05:39:02 Apus = 21:03:40 Min (°C) = 16.4 Max (°C) =28.33 Presiune = 1019 Umiditate (%) = 63 Index UV = 0.16 Viteza vântului = 2.3 Unghiul vântului = 96 Stare = nori 85-100%']
+Babeni: 22 \ sâmbătă \ 04:6:2022 \ 19:23:16
+[' Răsarit = 05:38:34 Apus = 21:04:28 Min (°C) = 16.32 Max (°C) =26.43 Presiune = 1017 Umiditate (%) = 75 Index UV = 0.8 Viteza vântului = 2.22 Unghiul vântului = 341 Stare = nori 50-85%']
+Babeni: 22 \ duminică \ 05:6:2022 \ 19:22:11
+[' Răsarit = 05:38:08 Apus = 21:05:13 Min (°C) = 16.66 Max (°C) =29.63 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.79 Viteza vântului = 1.69 Unghiul vântului = 5 Stare = nori 10-25%']
+Babeni: 23 \ luni \ 06:6:2022 \ 19:23:33
+[' Răsarit = 05:37:45 Apus = 21:05:58 Min (°C) = 16.1 Max (°C) =24.47 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.52 Viteza vântului = 3.12 Unghiul vântului = 135 Stare = nori 10-25%']
+Babeni: 23 \ marți \ 07:6:2022 \ 19:22:21
+[' Răsarit = 05:37:24 Apus = 21:06:40 Min (°C) = 14.72 Max (°C) =25.71 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.65 Viteza vântului = 0.39 Unghiul vântului = 50 Stare = nori 85-100%']
+Babeni: 23 \ miercuri \ 08:6:2022 \ 19:22:46
+[' Răsarit = 05:37:05 Apus = 21:07:21 Min (°C) = 13.41 Max (°C) =24.43 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.21 Viteza vântului = 0.49 Unghiul vântului = 116 Stare = nori 85-100%']
+Babeni: 23 \ joi \ 09:6:2022 \ 19:22:29
+[' Răsarit = 05:36:48 Apus = 21:07:59 Min (°C) = 13.7 Max (°C) =22.98 Presiune = 1007 Umiditate (%) = 65 Index UV = 0.58 Viteza vântului = 2.47 Unghiul vântului = 103 Stare = nori 50-85%']
+Babeni: 23 \ vineri \ 10:6:2022 \ 19:22:35
+[' Răsarit = 05:36:33 Apus = 21:08:36 Min (°C) = 13.68 Max (°C) =23.86 Presiune = 1010 Umiditate (%) = 73 Index UV = 0.73 Viteza vântului = 3.46 Unghiul vântului = 65 Stare = nori 50-85%']
+Babeni: 23 \ sâmbătă \ 11:6:2022 \ 19:22:36
+[' Răsarit = 05:36:21 Apus = 21:09:11 Min (°C) = 13.07 Max (°C) =25.07 Presiune = 1012 Umiditate (%) = 82 Index UV = 0.63 Viteza vântului = 0.95 Unghiul vântului = 87 Stare = nori 85-100%']
+Babeni: 23 \ duminică \ 12:6:2022 \ 19:22:26
+[' Răsarit = 05:36:11 Apus = 21:09:44 Min (°C) = 15.37 Max (°C) =25.87 Presiune = 1013 Umiditate (%) = 79 Index UV = 0.49 Viteza vântului = 2.09 Unghiul vântului = 203 Stare = nori 85-100%']
+Babeni: 24 \ luni \ 13:6:2022 \ 19:22:11
+[' Răsarit = 05:36:04 Apus = 21:10:15 Min (°C) = 14.58 Max (°C) =27.9 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.22 Viteza vântului = 3.42 Unghiul vântului = 288 Stare = nori 10-25%']
+Babeni: 24 \ marți \ 14:6:2022 \ 19:21:53
+[' Răsarit = 05:35:59 Apus = 21:10:44 Min (°C) = 14.39 Max (°C) =29.19 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.76 Viteza vântului = 6.41 Unghiul vântului = 82 Stare = cer senin']
+Babeni: 24 \ miercuri \ 15:6:2022 \ 19:22:10
+[' Răsarit = 05:35:56 Apus = 21:11:11 Min (°C) = 14.51 Max (°C) =22.52 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.67 Viteza vântului = 2.75 Unghiul vântului = 218 Stare = nori 25-50%']
+Babeni: 24 \ joi \ 16:6:2022 \ 19:22:22
+[' Răsarit = 05:35:55 Apus = 21:11:36 Min (°C) = 12.72 Max (°C) =25.16 Presiune = 1018 Umiditate (%) = 57 Index UV = 0.69 Viteza vântului = 1.09 Unghiul vântului = 197 Stare = nori 85-100%']
+Babeni: 24 \ vineri \ 17:6:2022 \ 19:22:54
+[' Răsarit = 05:35:56 Apus = 21:11:59 Min (°C) = 14.42 Max (°C) =26.96 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.62 Viteza vântului = 4.02 Unghiul vântului = 16 Stare = nori 85-100%']
+Babeni: 24 \ sâmbătă \ 18:6:2022 \ 19:22:26
+[' Răsarit = 05:36:00 Apus = 21:12:19 Min (°C) = 13.35 Max (°C) =25.98 Presiune = 1019 Umiditate (%) = 58 Index UV = 0.35 Viteza vântului = 2.43 Unghiul vântului = 101 Stare = ploaie moderată']
+Babeni: 24 \ duminică \ 19:6:2022 \ 19:21:30
+[' Răsarit = 05:36:06 Apus = 21:12:38 Min (°C) = 12.7 Max (°C) =28.13 Presiune = 1016 Umiditate (%) = 38 Index UV = 0.77 Viteza vântului = 0.89 Unghiul vântului = 176 Stare = nori 25-50%']
+Babeni: 25 \ luni \ 20:6:2022 \ 19:21:43
+[' Răsarit = 05:36:15 Apus = 21:12:54 Min (°C) = 14.25 Max (°C) =29.1 Presiune = 1010 Umiditate (%) = 44 Index UV = 0.44 Viteza vântului = 3.01 Unghiul vântului = 236 Stare = nori 50-85%']
+Babeni: 25 \ marți \ 21:6:2022 \ 19:22:41
+[' Răsarit = 05:36:25 Apus = 21:13:08 Min (°C) = 15.66 Max (°C) =33.48 Presiune = 1007 Umiditate (%) = 36 Index UV = 0.84 Viteza vântului = 5.39 Unghiul vântului = 288 Stare = cer senin']
+Babeni: 25 \ miercuri \ 22:6:2022 \ 19:21:53
+[' Răsarit = 05:36:38 Apus = 21:13:20 Min (°C) = 12.15 Max (°C) =28.67 Presiune = 1008 Umiditate (%) = 30 Index UV = 0.76 Viteza vântului = 2.46 Unghiul vântului = 355 Stare = nori 25-50%']
+Babeni: 25 \ joi \ 23:6:2022 \ 19:22:09
+[' Răsarit = 05:36:53 Apus = 21:13:29 Min (°C) = 13.8 Max (°C) =25.03 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.73 Viteza vântului = 2.82 Unghiul vântului = 291 Stare = nori 25-50%']
+Babeni: 25 \ duminică \ 26:6:2022 \ 20:04:12
+[' Răsarit = 05:37:50 Apus = 21:13:44 Min (°C) = 16.81 Max (°C) =25.46 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.23 Viteza vântului = 1.02 Unghiul vântului = 160 Stare = nori 50-85%']
+Babeni: 26 \ luni \ 27:6:2022 \ 19:22:24
+[' Răsarit = 05:38:13 Apus = 21:13:44 Min (°C) = 14.32 Max (°C) =30.66 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.42 Viteza vântului = 2.47 Unghiul vântului = 106 Stare = nori 25-50%']
+Babeni: 26 \ marți \ 28:6:2022 \ 19:23:13
+[' Răsarit = 05:38:38 Apus = 21:13:42 Min (°C) = 17 Max (°C) =32.13 Presiune = 1017 Umiditate (%) = 59 Index UV = 0.82 Viteza vântului = 1.04 Unghiul vântului = 61 Stare = nori 85-100%']
+Babeni: 26 \ miercuri \ 29:6:2022 \ 19:22:45
+[' Răsarit = 05:39:06 Apus = 21:13:37 Min (°C) = 17.12 Max (°C) =33.55 Presiune = 1013 Umiditate (%) = 30 Index UV = 0.82 Viteza vântului = 1.14 Unghiul vântului = 136 Stare = cer senin']
+Babeni: 26 \ joi \ 30:6:2022 \ 19:23:58
+[' Răsarit = 05:39:35 Apus = 21:13:31 Min (°C) = 18.54 Max (°C) =34.76 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.8 Viteza vântului = 1.59 Unghiul vântului = 116 Stare = cer senin']
+Babeni: 26 \ vineri \ 01:7:2022 \ 19:23:28
+[' Răsarit = 05:40:06 Apus = 21:13:21 Min (°C) = 18.45 Max (°C) =36.16 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.39 Viteza vântului = 1.5 Unghiul vântului = 125 Stare = ploaie ușoară']
+Babeni: 26 \ sâmbătă \ 02:7:2022 \ 19:22:46
+[' Răsarit = 05:40:39 Apus = 21:13:10 Min (°C) = 19.32 Max (°C) =34.26 Presiune = 1017 Umiditate (%) = 66 Index UV = 0.43 Viteza vântului = 5.61 Unghiul vântului = 236 Stare = nori 50-85%']

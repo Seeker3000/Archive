@@ -954,3 +954,83 @@ Brezoi: 20 \ vineri \ 20:5:2022 \ 19:22:19
 [' Răsarit = 05:48:01 Apus = 20:51:18 Min (°C) = 9.84 Max (°C) =24.89 Presiune = 1021 Umiditate (%) = 56 Index UV = 0.54 Viteza vântului = 0.38 Unghiul vântului = 191 Stare = cer senin']
 Brezoi: 20 \ sâmbătă \ 21:5:2022 \ 19:24:51
 [' Răsarit = 05:47:03 Apus = 20:52:25 Min (°C) = 13.98 Max (°C) =28.04 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.68 Viteza vântului = 2.85 Unghiul vântului = 348 Stare = nori 25-50%']
+Brezoi: 20 \ duminică \ 22:5:2022 \ 19:24:12
+[' Răsarit = 05:46:07 Apus = 20:53:30 Min (°C) = 13.39 Max (°C) =22.8 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.54 Viteza vântului = 3.37 Unghiul vântului = 11 Stare = nori 50-85%']
+Brezoi: 21 \ luni \ 23:5:2022 \ 19:23:14
+[' Răsarit = 05:45:12 Apus = 20:54:34 Min (°C) = 11.2 Max (°C) =19.92 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.67 Viteza vântului = 2.35 Unghiul vântului = 5 Stare = nori 50-85%']
+Brezoi: 21 \ marți \ 24:5:2022 \ 19:23:26
+[' Răsarit = 05:44:20 Apus = 20:55:38 Min (°C) = 11.25 Max (°C) =17.88 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.53 Viteza vântului = 0.76 Unghiul vântului = 56 Stare = nori 85-100%']
+Brezoi: 21 \ miercuri \ 25:5:2022 \ 19:23:21
+[' Răsarit = 05:43:30 Apus = 20:56:40 Min (°C) = 11.25 Max (°C) =24.91 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.7 Viteza vântului = 1.64 Unghiul vântului = 169 Stare = nori 50-85%']
+Brezoi: 21 \ joi \ 26:5:2022 \ 19:23:20
+[' Răsarit = 05:42:42 Apus = 20:57:41 Min (°C) = 15.34 Max (°C) =26.26 Presiune = 1019 Umiditate (%) = 59 Index UV = 0.65 Viteza vântului = 3.48 Unghiul vântului = 20 Stare = nori 25-50%']
+Brezoi: 21 \ vineri \ 27:5:2022 \ 19:23:44
+[' Răsarit = 05:41:56 Apus = 20:58:41 Min (°C) = 12.6 Max (°C) =24.47 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.7 Viteza vântului = 0.19 Unghiul vântului = 230 Stare = nori 50-85%']
+Brezoi: 21 \ sâmbătă \ 28:5:2022 \ 19:24:44
+[' Răsarit = 05:41:12 Apus = 20:59:39 Min (°C) = 13.29 Max (°C) =25.27 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.21 Viteza vântului = 4.6 Unghiul vântului = 353 Stare = nori 85-100%']
+Brezoi: 21 \ duminică \ 29:5:2022 \ 19:23:01
+[' Răsarit = 05:40:31 Apus = 21:00:36 Min (°C) = 11.47 Max (°C) =16.54 Presiune = 1009 Umiditate (%) = 98 Index UV = 0.1 Viteza vântului = 1.12 Unghiul vântului = 127 Stare = nori 85-100%']
+Brezoi: 22 \ luni \ 30:5:2022 \ 19:23:41
+[' Răsarit = 05:39:51 Apus = 21:01:32 Min (°C) = 14.27 Max (°C) =24.16 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.59 Viteza vântului = 1.27 Unghiul vântului = 313 Stare = nori 50-85%']
+Brezoi: 22 \ marți \ 31:5:2022 \ 19:25:25
+[' Răsarit = 05:39:14 Apus = 21:02:26 Min (°C) = 14.19 Max (°C) =25.21 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.7 Viteza vântului = 1.83 Unghiul vântului = 2 Stare = nori 85-100%']
+Brezoi: 22 \ miercuri \ 01:6:2022 \ 19:23:29
+[' Răsarit = 05:38:38 Apus = 21:03:19 Min (°C) = 13.57 Max (°C) =26.39 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.56 Viteza vântului = 1.48 Unghiul vântului = 347 Stare = nori 85-100%']
+Brezoi: 22 \ joi \ 02:6:2022 \ 19:22:35
+[' Răsarit = 05:38:05 Apus = 21:04:10 Min (°C) = 15.41 Max (°C) =27.49 Presiune = 1017 Umiditate (%) = 85 Index UV = 0.79 Viteza vântului = 2.05 Unghiul vântului = 350 Stare = nori 85-100%']
+Brezoi: 22 \ vineri \ 03:6:2022 \ 19:23:06
+[' Răsarit = 05:37:34 Apus = 21:05:00 Min (°C) = 16.66 Max (°C) =25.78 Presiune = 1021 Umiditate (%) = 78 Index UV = 0.81 Viteza vântului = 0.77 Unghiul vântului = 359 Stare = nori 85-100%']
+Brezoi: 22 \ sâmbătă \ 04:6:2022 \ 19:23:39
+[' Răsarit = 05:37:06 Apus = 21:05:48 Min (°C) = 16.01 Max (°C) =23.66 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.53 Viteza vântului = 1.44 Unghiul vântului = 172 Stare = nori 50-85%']
+Brezoi: 22 \ duminică \ 05:6:2022 \ 19:22:33
+[' Răsarit = 05:36:40 Apus = 21:06:35 Min (°C) = 16.58 Max (°C) =28.61 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.78 Viteza vântului = 2.37 Unghiul vântului = 14 Stare = nori 50-85%']
+Brezoi: 23 \ luni \ 06:6:2022 \ 19:23:57
+[' Răsarit = 05:36:16 Apus = 21:07:19 Min (°C) = 13.45 Max (°C) =24.3 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.82 Viteza vântului = 0.95 Unghiul vântului = 164 Stare = cer senin']
+Brezoi: 23 \ marți \ 07:6:2022 \ 19:22:43
+[' Răsarit = 05:35:54 Apus = 21:08:02 Min (°C) = 13.78 Max (°C) =24.56 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.65 Viteza vântului = 1.09 Unghiul vântului = 178 Stare = nori 85-100%']
+Brezoi: 23 \ miercuri \ 08:6:2022 \ 19:23:08
+[' Răsarit = 05:35:34 Apus = 21:08:43 Min (°C) = 13.52 Max (°C) =23.3 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.76 Viteza vântului = 0.31 Unghiul vântului = 103 Stare = nori 85-100%']
+Brezoi: 23 \ joi \ 09:6:2022 \ 19:22:52
+[' Răsarit = 05:35:17 Apus = 21:09:23 Min (°C) = 14.07 Max (°C) =23.69 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.78 Viteza vântului = 1.05 Unghiul vântului = 142 Stare = nori 50-85%']
+Brezoi: 23 \ vineri \ 10:6:2022 \ 19:22:57
+[' Răsarit = 05:35:02 Apus = 21:10:00 Min (°C) = 13.82 Max (°C) =21.18 Presiune = 1012 Umiditate (%) = 94 Index UV = 0.52 Viteza vântului = 1.33 Unghiul vântului = 7 Stare = nori 50-85%']
+Brezoi: 23 \ sâmbătă \ 11:6:2022 \ 19:22:59
+[' Răsarit = 05:34:50 Apus = 21:10:35 Min (°C) = 13.31 Max (°C) =22.96 Presiune = 1013 Umiditate (%) = 85 Index UV = 0.84 Viteza vântului = 0.21 Unghiul vântului = 29 Stare = nori 85-100%']
+Brezoi: 23 \ duminică \ 12:6:2022 \ 19:22:48
+[' Răsarit = 05:34:40 Apus = 21:11:09 Min (°C) = 15.19 Max (°C) =24.31 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.51 Viteza vântului = 2.37 Unghiul vântului = 347 Stare = ploaie moderată']
+Brezoi: 24 \ luni \ 13:6:2022 \ 19:22:32
+[' Răsarit = 05:34:32 Apus = 21:11:40 Min (°C) = 15 Max (°C) =26.27 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.18 Viteza vântului = 2.49 Unghiul vântului = 342 Stare = nori 85-100%']
+Brezoi: 24 \ marți \ 14:6:2022 \ 19:22:14
+[' Răsarit = 05:34:26 Apus = 21:12:09 Min (°C) = 14.95 Max (°C) =26.45 Presiune = 1017 Umiditate (%) = 71 Index UV = 0.81 Viteza vântului = 3.44 Unghiul vântului = 3 Stare = nori 85-100%']
+Brezoi: 24 \ miercuri \ 15:6:2022 \ 19:22:32
+[' Răsarit = 05:34:23 Apus = 21:12:37 Min (°C) = 12.74 Max (°C) =21.39 Presiune = 1020 Umiditate (%) = 82 Index UV = 0.82 Viteza vântului = 0.67 Unghiul vântului = 175 Stare = nori 25-50%']
+Brezoi: 24 \ joi \ 16:6:2022 \ 19:22:44
+[' Răsarit = 05:34:22 Apus = 21:13:02 Min (°C) = 12.56 Max (°C) =24.04 Presiune = 1019 Umiditate (%) = 76 Index UV = 0.8 Viteza vântului = 0.7 Unghiul vântului = 337 Stare = nori 85-100%']
+Brezoi: 24 \ vineri \ 17:6:2022 \ 19:23:17
+[' Răsarit = 05:34:23 Apus = 21:13:25 Min (°C) = 14.47 Max (°C) =23.37 Presiune = 1018 Umiditate (%) = 82 Index UV = 0.6 Viteza vântului = 3.36 Unghiul vântului = 353 Stare = nori 85-100%']
+Brezoi: 24 \ sâmbătă \ 18:6:2022 \ 19:22:48
+[' Răsarit = 05:34:27 Apus = 21:13:45 Min (°C) = 13.34 Max (°C) =24.44 Presiune = 1020 Umiditate (%) = 65 Index UV = 0.83 Viteza vântului = 0.64 Unghiul vântului = 14 Stare = nori 25-50%']
+Brezoi: 24 \ duminică \ 19:6:2022 \ 19:21:53
+[' Răsarit = 05:34:33 Apus = 21:14:04 Min (°C) = 13.34 Max (°C) =26.16 Presiune = 1017 Umiditate (%) = 61 Index UV = 0.63 Viteza vântului = 0.77 Unghiul vântului = 216 Stare = nori 50-85%']
+Brezoi: 25 \ luni \ 20:6:2022 \ 19:22:04
+[' Răsarit = 05:34:41 Apus = 21:14:20 Min (°C) = 15.05 Max (°C) =27.76 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.87 Viteza vântului = 0.65 Unghiul vântului = 252 Stare = nori 10-25%']
+Brezoi: 25 \ marți \ 21:6:2022 \ 19:23:11
+[' Răsarit = 05:34:52 Apus = 21:14:34 Min (°C) = 17.92 Max (°C) =30.95 Presiune = 1009 Umiditate (%) = 41 Index UV = 0.86 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = nori 10-25%']
+Brezoi: 25 \ miercuri \ 22:6:2022 \ 19:22:15
+[' Răsarit = 05:35:04 Apus = 21:14:46 Min (°C) = 11.59 Max (°C) =24.66 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.81 Viteza vântului = 3.49 Unghiul vântului = 1 Stare = nori 25-50%']
+Brezoi: 25 \ joi \ 23:6:2022 \ 19:22:31
+[' Răsarit = 05:35:19 Apus = 21:14:55 Min (°C) = 14.45 Max (°C) =23.76 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.73 Viteza vântului = 2.85 Unghiul vântului = 356 Stare = nori 50-85%']
+Brezoi: 25 \ duminică \ 26:6:2022 \ 20:04:39
+[' Răsarit = 05:36:17 Apus = 21:15:09 Min (°C) = 17.02 Max (°C) =23.43 Presiune = 1017 Umiditate (%) = 80 Index UV = 0.23 Viteza vântului = 1.04 Unghiul vântului = 332 Stare = nori 25-50%']
+Brezoi: 26 \ luni \ 27:6:2022 \ 19:22:46
+[' Răsarit = 05:36:40 Apus = 21:15:09 Min (°C) = 14.65 Max (°C) =28.22 Presiune = 1018 Umiditate (%) = 52 Index UV = 0.82 Viteza vântului = 0.93 Unghiul vântului = 18 Stare = nori 25-50%']
+Brezoi: 26 \ marți \ 28:6:2022 \ 19:23:38
+[' Răsarit = 05:37:06 Apus = 21:15:07 Min (°C) = 17.12 Max (°C) =28.06 Presiune = 1018 Umiditate (%) = 62 Index UV = 0.87 Viteza vântului = 1.28 Unghiul vântului = 359 Stare = nori 50-85%']
+Brezoi: 26 \ miercuri \ 29:6:2022 \ 19:23:08
+[' Răsarit = 05:37:33 Apus = 21:15:02 Min (°C) = 17.88 Max (°C) =31.14 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.56 Viteza vântului = 0.84 Unghiul vântului = 218 Stare = cer senin']
+Brezoi: 26 \ joi \ 30:6:2022 \ 19:24:23
+[' Răsarit = 05:38:03 Apus = 21:14:55 Min (°C) = 19.67 Max (°C) =32.06 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.45 Viteza vântului = 1.76 Unghiul vântului = 304 Stare = cer senin']
+Brezoi: 26 \ vineri \ 01:7:2022 \ 19:23:52
+[' Răsarit = 05:38:35 Apus = 21:14:46 Min (°C) = 19.88 Max (°C) =32.69 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.68 Viteza vântului = 0.65 Unghiul vântului = 309 Stare = nori 50-85%']
+Brezoi: 26 \ sâmbătă \ 02:7:2022 \ 19:23:08
+[' Răsarit = 05:39:08 Apus = 21:14:34 Min (°C) = 19.41 Max (°C) =30.37 Presiune = 1018 Umiditate (%) = 59 Index UV = 0.72 Viteza vântului = 1.04 Unghiul vântului = 263 Stare = nori 25-50%']

@@ -952,3 +952,83 @@ Oltenita: 20 \ vineri \ 20:5:2022 \ 19:07:31
 [' Răsarit = 05:42:27 Apus = 20:37:43 Min (°C) = 10.62 Max (°C) =24.15 Presiune = 1021 Umiditate (%) = 52 Index UV = 0.5 Viteza vântului = 3.09 Unghiul vântului = 232 Stare = nori 25-50%']
 Oltenita: 20 \ sâmbătă \ 21:5:2022 \ 19:08:43
 [' Răsarit = 05:41:32 Apus = 20:38:46 Min (°C) = 13.16 Max (°C) =27.5 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.52 Viteza vântului = 2.89 Unghiul vântului = 245 Stare = nori 25-50%']
+Oltenita: 20 \ duminică \ 22:5:2022 \ 19:08:12
+[' Răsarit = 05:40:39 Apus = 20:39:48 Min (°C) = 15.36 Max (°C) =25.04 Presiune = 1008 Umiditate (%) = 60 Index UV = 0.43 Viteza vântului = 4.89 Unghiul vântului = 74 Stare = nori 85-100%']
+Oltenita: 21 \ luni \ 23:5:2022 \ 19:07:54
+[' Răsarit = 05:39:48 Apus = 20:40:50 Min (°C) = 14.09 Max (°C) =20.06 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.4 Viteza vântului = 2.85 Unghiul vântului = 102 Stare = nori 85-100%']
+Oltenita: 21 \ marți \ 24:5:2022 \ 19:08:02
+[' Răsarit = 05:38:59 Apus = 20:41:50 Min (°C) = 12.03 Max (°C) =23.63 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.2 Viteza vântului = 3.89 Unghiul vântului = 124 Stare = nori 85-100%']
+Oltenita: 21 \ miercuri \ 25:5:2022 \ 19:07:43
+[' Răsarit = 05:38:12 Apus = 20:42:49 Min (°C) = 11.79 Max (°C) =26.4 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.55 Viteza vântului = 6.08 Unghiul vântului = 147 Stare = ploaie ușoară']
+Oltenita: 21 \ joi \ 26:5:2022 \ 19:07:48
+[' Răsarit = 05:37:26 Apus = 20:43:47 Min (°C) = 16.06 Max (°C) =29.26 Presiune = 1017 Umiditate (%) = 81 Index UV = 0.45 Viteza vântului = 5.34 Unghiul vântului = 61 Stare = nori 50-85%']
+Oltenita: 21 \ vineri \ 27:5:2022 \ 19:08:14
+[' Răsarit = 05:36:43 Apus = 20:44:45 Min (°C) = 15.28 Max (°C) =26.67 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.55 Viteza vântului = 0.46 Unghiul vântului = 300 Stare = nori 10-25%']
+Oltenita: 21 \ sâmbătă \ 28:5:2022 \ 19:09:05
+[' Răsarit = 05:36:02 Apus = 20:45:40 Min (°C) = 16.61 Max (°C) =28.11 Presiune = 1006 Umiditate (%) = 51 Index UV = 0.42 Viteza vântului = 1.99 Unghiul vântului = 101 Stare = nori 25-50%']
+Oltenita: 21 \ duminică \ 29:5:2022 \ 19:07:52
+[' Răsarit = 05:35:23 Apus = 20:46:35 Min (°C) = 15.57 Max (°C) =24.29 Presiune = 1006 Umiditate (%) = 70 Index UV = 0.58 Viteza vântului = 7.03 Unghiul vântului = 85 Stare = ploaie ușoară']
+Oltenita: 22 \ luni \ 30:5:2022 \ 19:08:29
+[' Răsarit = 05:34:45 Apus = 20:47:28 Min (°C) = 13.3 Max (°C) =23.43 Presiune = 1011 Umiditate (%) = 62 Index UV = 0.6 Viteza vântului = 2.68 Unghiul vântului = 297 Stare = nori 25-50%']
+Oltenita: 22 \ marți \ 31:5:2022 \ 19:08:00
+[' Răsarit = 05:34:10 Apus = 20:48:20 Min (°C) = 16.21 Max (°C) =28.34 Presiune = 1014 Umiditate (%) = 51 Index UV = 0.18 Viteza vântului = 0.31 Unghiul vântului = 129 Stare = ploaie ușoară']
+Oltenita: 22 \ miercuri \ 01:6:2022 \ 19:08:05
+[' Răsarit = 05:33:37 Apus = 20:49:11 Min (°C) = 16.32 Max (°C) =29.36 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.32 Viteza vântului = 1.48 Unghiul vântului = 18 Stare = nori 25-50%']
+Oltenita: 22 \ joi \ 02:6:2022 \ 19:07:39
+[' Răsarit = 05:33:06 Apus = 20:50:00 Min (°C) = 18.45 Max (°C) =31 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.62 Viteza vântului = 1.71 Unghiul vântului = 172 Stare = nori 50-85%']
+Oltenita: 22 \ vineri \ 03:6:2022 \ 19:07:55
+[' Răsarit = 05:32:38 Apus = 20:50:48 Min (°C) = 19.37 Max (°C) =29.4 Presiune = 1018 Umiditate (%) = 51 Index UV = 0.61 Viteza vântului = 5.24 Unghiul vântului = 25 Stare = nori 10-25%']
+Oltenita: 22 \ sâmbătă \ 04:6:2022 \ 19:08:14
+[' Răsarit = 05:32:11 Apus = 20:51:34 Min (°C) = 16.89 Max (°C) =29.77 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.64 Viteza vântului = 1.94 Unghiul vântului = 94 Stare = nori 50-85%']
+Oltenita: 22 \ duminică \ 05:6:2022 \ 19:07:40
+[' Răsarit = 05:31:47 Apus = 20:52:18 Min (°C) = 19.07 Max (°C) =30.72 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.61 Viteza vântului = 4.61 Unghiul vântului = 70 Stare = nori 50-85%']
+Oltenita: 23 \ luni \ 06:6:2022 \ 19:08:22
+[' Răsarit = 05:31:24 Apus = 20:53:01 Min (°C) = 16.18 Max (°C) =25.98 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 6 Unghiul vântului = 47 Stare = nori 25-50%']
+Oltenita: 23 \ marți \ 07:6:2022 \ 19:07:31
+[' Răsarit = 05:31:04 Apus = 20:53:43 Min (°C) = 14.75 Max (°C) =24.44 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.54 Viteza vântului = 4.28 Unghiul vântului = 65 Stare = nori 50-85%']
+Oltenita: 23 \ miercuri \ 08:6:2022 \ 19:08:07
+[' Răsarit = 05:30:46 Apus = 20:54:22 Min (°C) = 14.32 Max (°C) =23.86 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.57 Viteza vântului = 3.6 Unghiul vântului = 79 Stare = nori 50-85%']
+Oltenita: 23 \ joi \ 09:6:2022 \ 19:07:47
+[' Răsarit = 05:30:31 Apus = 20:55:00 Min (°C) = 15.75 Max (°C) =24.73 Presiune = 1006 Umiditate (%) = 58 Index UV = 0.44 Viteza vântului = 1.6 Unghiul vântului = 82 Stare = ploaie ușoară']
+Oltenita: 23 \ vineri \ 10:6:2022 \ 19:07:52
+[' Răsarit = 05:30:17 Apus = 20:55:36 Min (°C) = 14.68 Max (°C) =24.28 Presiune = 1009 Umiditate (%) = 75 Index UV = 0.61 Viteza vântului = 4.04 Unghiul vântului = 103 Stare = nori 50-85%']
+Oltenita: 23 \ sâmbătă \ 11:6:2022 \ 19:07:46
+[' Răsarit = 05:30:06 Apus = 20:56:10 Min (°C) = 16.91 Max (°C) =20.68 Presiune = 1011 Umiditate (%) = 96 Index UV = 0.62 Viteza vântului = 2.38 Unghiul vântului = 15 Stare = nori 85-100%']
+Oltenita: 23 \ duminică \ 12:6:2022 \ 19:07:42
+[' Răsarit = 05:29:57 Apus = 20:56:42 Min (°C) = 17.1 Max (°C) =25.92 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.6 Viteza vântului = 7.74 Unghiul vântului = 2 Stare = nori 85-100%']
+Oltenita: 24 \ luni \ 13:6:2022 \ 19:07:56
+[' Răsarit = 05:29:50 Apus = 20:57:13 Min (°C) = 16.46 Max (°C) =28.61 Presiune = 1012 Umiditate (%) = 68 Index UV = 0.08 Viteza vântului = 4.33 Unghiul vântului = 19 Stare = nori 50-85%']
+Oltenita: 24 \ marți \ 14:6:2022 \ 19:07:33
+[' Răsarit = 05:29:45 Apus = 20:57:41 Min (°C) = 17.53 Max (°C) =28.55 Presiune = 1015 Umiditate (%) = 91 Index UV = 0.63 Viteza vântului = 6.14 Unghiul vântului = 95 Stare = ploaie ușoară']
+Oltenita: 24 \ miercuri \ 15:6:2022 \ 19:07:35
+[' Răsarit = 05:29:43 Apus = 20:58:07 Min (°C) = 16.4 Max (°C) =24.09 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.16 Viteza vântului = 1.64 Unghiul vântului = 353 Stare = nori 25-50%']
+Oltenita: 24 \ joi \ 16:6:2022 \ 19:07:38
+[' Răsarit = 05:29:43 Apus = 20:58:32 Min (°C) = 15.3 Max (°C) =26.94 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.62 Viteza vântului = 1.12 Unghiul vântului = 235 Stare = nori 25-50%']
+Oltenita: 24 \ vineri \ 17:6:2022 \ 19:07:56
+[' Răsarit = 05:29:45 Apus = 20:58:54 Min (°C) = 16.77 Max (°C) =28.66 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.2 Viteza vântului = 2.43 Unghiul vântului = 327 Stare = nori 50-85%']
+Oltenita: 24 \ sâmbătă \ 18:6:2022 \ 19:07:41
+[' Răsarit = 05:29:49 Apus = 20:59:14 Min (°C) = 16.04 Max (°C) =26.15 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.31 Viteza vântului = 4.37 Unghiul vântului = 26 Stare = nori 50-85%']
+Oltenita: 24 \ duminică \ 19:6:2022 \ 19:07:04
+[' Răsarit = 05:29:55 Apus = 20:59:33 Min (°C) = 14.27 Max (°C) =28.1 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.7 Viteza vântului = 2.31 Unghiul vântului = 80 Stare = nori 25-50%']
+Oltenita: 25 \ luni \ 20:6:2022 \ 19:07:25
+[' Răsarit = 05:30:03 Apus = 20:59:49 Min (°C) = 15.41 Max (°C) =28.83 Presiune = 1010 Umiditate (%) = 41 Index UV = 0.25 Viteza vântului = 1.65 Unghiul vântului = 194 Stare = nori 10-25%']
+Oltenita: 25 \ marți \ 21:6:2022 \ 19:07:58
+[' Răsarit = 05:30:14 Apus = 21:00:02 Min (°C) = 17.98 Max (°C) =32.95 Presiune = 1004 Umiditate (%) = 34 Index UV = 0.69 Viteza vântului = 4.24 Unghiul vântului = 314 Stare = nori 25-50%']
+Oltenita: 25 \ miercuri \ 22:6:2022 \ 19:07:39
+[' Răsarit = 05:30:27 Apus = 21:00:14 Min (°C) = 16.14 Max (°C) =29.35 Presiune = 1007 Umiditate (%) = 23 Index UV = 0.62 Viteza vântului = 2.79 Unghiul vântului = 314 Stare = nori 10-25%']
+Oltenita: 25 \ joi \ 23:6:2022 \ 19:07:37
+[' Răsarit = 05:30:41 Apus = 21:00:24 Min (°C) = 15.06 Max (°C) =26.5 Presiune = 1013 Umiditate (%) = 66 Index UV = 0.59 Viteza vântului = 4.34 Unghiul vântului = 260 Stare = nori 85-100%']
+Oltenita: 25 \ duminică \ 26:6:2022 \ 19:48:04
+[' Răsarit = 05:31:38 Apus = 21:00:39 Min (°C) = 18.11 Max (°C) =29.63 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.11 Viteza vântului = 2.11 Unghiul vântului = 11 Stare = nori 85-100%']
+Oltenita: 26 \ luni \ 27:6:2022 \ 19:07:49
+[' Răsarit = 05:32:01 Apus = 21:00:40 Min (°C) = 15.99 Max (°C) =29.97 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.29 Viteza vântului = 4.17 Unghiul vântului = 83 Stare = nori 85-100%']
+Oltenita: 26 \ marți \ 28:6:2022 \ 19:07:49
+[' Răsarit = 05:32:25 Apus = 21:00:38 Min (°C) = 19.75 Max (°C) =29.34 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.47 Viteza vântului = 1.72 Unghiul vântului = 234 Stare = nori 50-85%']
+Oltenita: 26 \ miercuri \ 29:6:2022 \ 19:07:51
+[' Răsarit = 05:32:52 Apus = 21:00:34 Min (°C) = 18.01 Max (°C) =34.46 Presiune = 1012 Umiditate (%) = 24 Index UV = 0.45 Viteza vântului = 3.11 Unghiul vântului = 68 Stare = ploaie ușoară']
+Oltenita: 26 \ joi \ 30:6:2022 \ 19:08:12
+[' Răsarit = 05:33:21 Apus = 21:00:28 Min (°C) = 19.19 Max (°C) =35.29 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.53 Viteza vântului = 1.74 Unghiul vântului = 122 Stare = cer senin']
+Oltenita: 26 \ vineri \ 01:7:2022 \ 19:07:59
+[' Răsarit = 05:33:51 Apus = 21:00:20 Min (°C) = 20.86 Max (°C) =35.19 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.31 Viteza vântului = 5.88 Unghiul vântului = 136 Stare = nori 50-85%']
+Oltenita: 26 \ sâmbătă \ 02:7:2022 \ 19:07:51
+[' Răsarit = 05:34:23 Apus = 21:00:09 Min (°C) = 21.05 Max (°C) =35.53 Presiune = 1015 Umiditate (%) = 20 Index UV = 0.51 Viteza vântului = 4.19 Unghiul vântului = 81 Stare = cer senin']

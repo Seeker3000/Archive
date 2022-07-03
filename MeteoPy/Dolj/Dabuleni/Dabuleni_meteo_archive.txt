@@ -952,3 +952,83 @@ Dabuleni: 20 \ vineri \ 20:5:2022 \ 19:09:59
 [' Răsarit = 05:53:34 Apus = 20:47:04 Min (°C) = 10.31 Max (°C) =25.76 Presiune = 1021 Umiditate (%) = 38 Index UV = 0.6 Viteza vântului = 1.57 Unghiul vântului = 262 Stare = ploaie ușoară']
 Dabuleni: 20 \ sâmbătă \ 21:5:2022 \ 19:11:32
 [' Răsarit = 05:52:40 Apus = 20:48:07 Min (°C) = 12.78 Max (°C) =29.84 Presiune = 1011 Umiditate (%) = 39 Index UV = 0.62 Viteza vântului = 4.11 Unghiul vântului = 287 Stare = cer senin']
+Dabuleni: 20 \ duminică \ 22:5:2022 \ 19:10:53
+[' Răsarit = 05:51:48 Apus = 20:49:08 Min (°C) = 17.99 Max (°C) =26.57 Presiune = 1009 Umiditate (%) = 33 Index UV = 0.6 Viteza vântului = 8.69 Unghiul vântului = 303 Stare = cer senin']
+Dabuleni: 21 \ luni \ 23:5:2022 \ 19:10:37
+[' Răsarit = 05:50:57 Apus = 20:50:09 Min (°C) = 12.85 Max (°C) =25.58 Presiune = 1008 Umiditate (%) = 38 Index UV = 0.62 Viteza vântului = 2.86 Unghiul vântului = 301 Stare = nori 50-85%']
+Dabuleni: 21 \ marți \ 24:5:2022 \ 19:10:36
+[' Răsarit = 05:50:09 Apus = 20:51:09 Min (°C) = 12.26 Max (°C) =25.41 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 4.66 Unghiul vântului = 49 Stare = nori 85-100%']
+Dabuleni: 21 \ miercuri \ 25:5:2022 \ 19:10:17
+[' Răsarit = 05:49:22 Apus = 20:52:08 Min (°C) = 13.72 Max (°C) =28.8 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.64 Viteza vântului = 3.21 Unghiul vântului = 84 Stare = nori 10-25%']
+Dabuleni: 21 \ joi \ 26:5:2022 \ 19:10:23
+[' Răsarit = 05:48:37 Apus = 20:53:05 Min (°C) = 16.97 Max (°C) =28.24 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.65 Viteza vântului = 7.39 Unghiul vântului = 297 Stare = cer senin']
+Dabuleni: 21 \ vineri \ 27:5:2022 \ 19:10:41
+[' Răsarit = 05:47:54 Apus = 20:54:02 Min (°C) = 14.33 Max (°C) =28.7 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.66 Viteza vântului = 1.43 Unghiul vântului = 312 Stare = cer senin']
+Dabuleni: 21 \ sâmbătă \ 28:5:2022 \ 19:11:38
+[' Răsarit = 05:47:14 Apus = 20:54:57 Min (°C) = 17.14 Max (°C) =30.09 Presiune = 1010 Umiditate (%) = 95 Index UV = 0.1 Viteza vântului = 6.34 Unghiul vântului = 281 Stare = ploaie ușoară']
+Dabuleni: 21 \ duminică \ 29:5:2022 \ 19:10:24
+[' Răsarit = 05:46:35 Apus = 20:55:51 Min (°C) = 13.85 Max (°C) =22.85 Presiune = 1004 Umiditate (%) = 91 Index UV = 0.34 Viteza vântului = 10.22 Unghiul vântului = 44 Stare = nori 85-100%']
+Dabuleni: 22 \ luni \ 30:5:2022 \ 19:11:11
+[' Răsarit = 05:45:58 Apus = 20:56:44 Min (°C) = 16.18 Max (°C) =25.56 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.69 Viteza vântului = 1.51 Unghiul vântului = 287 Stare = ploaie ușoară']
+Dabuleni: 22 \ marți \ 31:5:2022 \ 19:10:31
+[' Răsarit = 05:45:24 Apus = 20:57:35 Min (°C) = 15.78 Max (°C) =28.59 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.71 Viteza vântului = 1.1 Unghiul vântului = 349 Stare = cer senin']
+Dabuleni: 22 \ miercuri \ 01:6:2022 \ 19:10:37
+[' Răsarit = 05:44:51 Apus = 20:58:25 Min (°C) = 16.39 Max (°C) =29.1 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.65 Viteza vântului = 1.48 Unghiul vântului = 48 Stare = nori 50-85%']
+Dabuleni: 22 \ joi \ 02:6:2022 \ 19:10:08
+[' Răsarit = 05:44:21 Apus = 20:59:14 Min (°C) = 18.1 Max (°C) =30.7 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.75 Viteza vântului = 1.04 Unghiul vântului = 165 Stare = cer senin']
+Dabuleni: 22 \ vineri \ 03:6:2022 \ 19:10:25
+[' Răsarit = 05:43:53 Apus = 21:00:01 Min (°C) = 18.38 Max (°C) =29.78 Presiune = 1018 Umiditate (%) = 49 Index UV = 0.78 Viteza vântului = 3.17 Unghiul vântului = 82 Stare = nori 10-25%']
+Dabuleni: 22 \ sâmbătă \ 04:6:2022 \ 19:10:47
+[' Răsarit = 05:43:27 Apus = 21:00:47 Min (°C) = 18.22 Max (°C) =30.33 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.7 Viteza vântului = 1.93 Unghiul vântului = 89 Stare = nori 25-50%']
+Dabuleni: 22 \ duminică \ 05:6:2022 \ 19:10:09
+[' Răsarit = 05:43:03 Apus = 21:01:31 Min (°C) = 18.48 Max (°C) =32.09 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.78 Viteza vântului = 4.37 Unghiul vântului = 338 Stare = cer senin']
+Dabuleni: 23 \ luni \ 06:6:2022 \ 19:10:51
+[' Răsarit = 05:42:41 Apus = 21:02:14 Min (°C) = 17.56 Max (°C) =25.78 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.72 Viteza vântului = 3.78 Unghiul vântului = 72 Stare = nori 85-100%']
+Dabuleni: 23 \ marți \ 07:6:2022 \ 19:09:59
+[' Răsarit = 05:42:21 Apus = 21:02:54 Min (°C) = 17.19 Max (°C) =26.14 Presiune = 1012 Umiditate (%) = 49 Index UV = 0.72 Viteza vântului = 4.43 Unghiul vântului = 91 Stare = nori 25-50%']
+Dabuleni: 23 \ miercuri \ 08:6:2022 \ 19:10:41
+[' Răsarit = 05:42:04 Apus = 21:03:34 Min (°C) = 15.51 Max (°C) =25.91 Presiune = 1008 Umiditate (%) = 52 Index UV = 0.78 Viteza vântului = 5.25 Unghiul vântului = 87 Stare = nori 25-50%']
+Dabuleni: 23 \ joi \ 09:6:2022 \ 19:10:18
+[' Răsarit = 05:41:48 Apus = 21:04:11 Min (°C) = 15.34 Max (°C) =25.6 Presiune = 1006 Umiditate (%) = 50 Index UV = 0.5 Viteza vântului = 5.08 Unghiul vântului = 70 Stare = nori 50-85%']
+Dabuleni: 23 \ vineri \ 10:6:2022 \ 19:10:23
+[' Răsarit = 05:41:35 Apus = 21:04:47 Min (°C) = 15.42 Max (°C) =24.3 Presiune = 1008 Umiditate (%) = 68 Index UV = 0.63 Viteza vântului = 3.41 Unghiul vântului = 64 Stare = nori 85-100%']
+Dabuleni: 23 \ sâmbătă \ 11:6:2022 \ 19:10:23
+[' Răsarit = 05:41:24 Apus = 21:05:21 Min (°C) = 16.87 Max (°C) =21.11 Presiune = 1012 Umiditate (%) = 81 Index UV = 0.74 Viteza vântului = 1.91 Unghiul vântului = 50 Stare = nori 85-100%']
+Dabuleni: 23 \ duminică \ 12:6:2022 \ 19:10:11
+[' Răsarit = 05:41:15 Apus = 21:05:53 Min (°C) = 17.24 Max (°C) =24.14 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.16 Viteza vântului = 3 Unghiul vântului = 292 Stare = nori 85-100%']
+Dabuleni: 24 \ luni \ 13:6:2022 \ 19:10:23
+[' Răsarit = 05:41:09 Apus = 21:06:23 Min (°C) = 16.45 Max (°C) =29.25 Presiune = 1011 Umiditate (%) = 42 Index UV = 0.77 Viteza vântului = 1.05 Unghiul vântului = 338 Stare = cer senin']
+Dabuleni: 24 \ marți \ 14:6:2022 \ 19:09:58
+[' Răsarit = 05:41:04 Apus = 21:06:51 Min (°C) = 17.51 Max (°C) =28.18 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.79 Viteza vântului = 7.17 Unghiul vântului = 291 Stare = nori 25-50%']
+Dabuleni: 24 \ miercuri \ 15:6:2022 \ 19:10:05
+[' Răsarit = 05:41:02 Apus = 21:07:17 Min (°C) = 14.29 Max (°C) =23.81 Presiune = 1020 Umiditate (%) = 54 Index UV = 0.75 Viteza vântului = 1.86 Unghiul vântului = 8 Stare = nori 50-85%']
+Dabuleni: 24 \ joi \ 16:6:2022 \ 19:10:09
+[' Răsarit = 05:41:02 Apus = 21:07:41 Min (°C) = 15.5 Max (°C) =27.99 Presiune = 1017 Umiditate (%) = 37 Index UV = 0.75 Viteza vântului = 3.1 Unghiul vântului = 83 Stare = nori 25-50%']
+Dabuleni: 24 \ vineri \ 17:6:2022 \ 19:10:30
+[' Răsarit = 05:41:04 Apus = 21:08:03 Min (°C) = 16.84 Max (°C) =29.4 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.69 Viteza vântului = 6.45 Unghiul vântului = 232 Stare = nori 85-100%']
+Dabuleni: 24 \ sâmbătă \ 18:6:2022 \ 19:10:14
+[' Răsarit = 05:41:08 Apus = 21:08:24 Min (°C) = 14.97 Max (°C) =26.1 Presiune = 1018 Umiditate (%) = 41 Index UV = 0.75 Viteza vântului = 2.52 Unghiul vântului = 114 Stare = nori 50-85%']
+Dabuleni: 24 \ duminică \ 19:6:2022 \ 19:09:19
+[' Răsarit = 05:41:14 Apus = 21:08:42 Min (°C) = 15.56 Max (°C) =28.25 Presiune = 1016 Umiditate (%) = 31 Index UV = 0.81 Viteza vântului = 2.06 Unghiul vântului = 103 Stare = cer senin']
+Dabuleni: 25 \ luni \ 20:6:2022 \ 19:09:49
+[' Răsarit = 05:41:23 Apus = 21:08:58 Min (°C) = 16.37 Max (°C) =29.97 Presiune = 1010 Umiditate (%) = 32 Index UV = 0.8 Viteza vântului = 0.82 Unghiul vântului = 90 Stare = nori 10-25%']
+Dabuleni: 25 \ marți \ 21:6:2022 \ 19:10:28
+[' Răsarit = 05:41:33 Apus = 21:09:12 Min (°C) = 18.35 Max (°C) =34.98 Presiune = 1007 Umiditate (%) = 30 Index UV = 0.83 Viteza vântului = 8.36 Unghiul vântului = 320 Stare = nori 25-50%']
+Dabuleni: 25 \ miercuri \ 22:6:2022 \ 19:10:06
+[' Răsarit = 05:41:46 Apus = 21:09:23 Min (°C) = 20.78 Max (°C) =31.47 Presiune = 1008 Umiditate (%) = 22 Index UV = 0.81 Viteza vântului = 8.36 Unghiul vântului = 302 Stare = nori 25-50%']
+Dabuleni: 25 \ joi \ 23:6:2022 \ 19:10:05
+[' Răsarit = 05:42:01 Apus = 21:09:33 Min (°C) = 15.93 Max (°C) =20.43 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.74 Viteza vântului = 2.8 Unghiul vântului = 258 Stare = nori 50-85%']
+Dabuleni: 25 \ duminică \ 26:6:2022 \ 19:50:36
+[' Răsarit = 05:42:57 Apus = 21:09:48 Min (°C) = 18.92 Max (°C) =30.18 Presiune = 1015 Umiditate (%) = 81 Index UV = 0.04 Viteza vântului = 3.38 Unghiul vântului = 145 Stare = nori 50-85%']
+Dabuleni: 26 \ luni \ 27:6:2022 \ 19:10:20
+[' Răsarit = 05:43:20 Apus = 21:09:49 Min (°C) = 16.64 Max (°C) =30.69 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.43 Viteza vântului = 3.16 Unghiul vântului = 97 Stare = nori 10-25%']
+Dabuleni: 26 \ marți \ 28:6:2022 \ 19:10:26
+[' Răsarit = 05:43:44 Apus = 21:09:48 Min (°C) = 20.15 Max (°C) =32.24 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.44 Viteza vântului = 4.11 Unghiul vântului = 45 Stare = ploaie ușoară']
+Dabuleni: 26 \ miercuri \ 29:6:2022 \ 19:10:25
+[' Răsarit = 05:44:11 Apus = 21:09:44 Min (°C) = 18.51 Max (°C) =34.41 Presiune = 1012 Umiditate (%) = 20 Index UV = 0.8 Viteza vântului = 5.26 Unghiul vântului = 91 Stare = ploaie ușoară']
+Dabuleni: 26 \ joi \ 30:6:2022 \ 19:10:53
+[' Răsarit = 05:44:39 Apus = 21:09:38 Min (°C) = 20.54 Max (°C) =35.49 Presiune = 1010 Umiditate (%) = 20 Index UV = 0.77 Viteza vântului = 4.81 Unghiul vântului = 79 Stare = ploaie ușoară']
+Dabuleni: 26 \ vineri \ 01:7:2022 \ 19:10:31
+[' Răsarit = 05:45:10 Apus = 21:09:30 Min (°C) = 20.47 Max (°C) =36.51 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.8 Viteza vântului = 6.29 Unghiul vântului = 50 Stare = cer senin']
+Dabuleni: 26 \ sâmbătă \ 02:7:2022 \ 19:10:23
+[' Răsarit = 05:45:42 Apus = 21:09:20 Min (°C) = 21.91 Max (°C) =36.28 Presiune = 1015 Umiditate (%) = 31 Index UV = 0.79 Viteza vântului = 1.94 Unghiul vântului = 83 Stare = nori 50-85%']

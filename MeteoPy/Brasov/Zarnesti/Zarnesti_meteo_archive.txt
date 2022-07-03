@@ -952,3 +952,83 @@ Zarnesti: 20 \ vineri \ 20:5:2022 \ 19:05:56
 [' Răsarit = 05:43:06 Apus = 20:47:48 Min (°C) = 6.31 Max (°C) =21 Presiune = 1022 Umiditate (%) = 57 Index UV = 0.48 Viteza vântului = 1.29 Unghiul vântului = 360 Stare = nori 50-85%']
 Zarnesti: 20 \ sâmbătă \ 21:5:2022 \ 19:06:55
 [' Răsarit = 05:42:08 Apus = 20:48:55 Min (°C) = 10.38 Max (°C) =24.25 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.57 Viteza vântului = 2.31 Unghiul vântului = 329 Stare = nori 50-85%']
+Zarnesti: 20 \ duminică \ 22:5:2022 \ 19:06:28
+[' Răsarit = 05:41:11 Apus = 20:50:01 Min (°C) = 10.69 Max (°C) =17.36 Presiune = 1011 Umiditate (%) = 70 Index UV = 0.43 Viteza vântului = 2.77 Unghiul vântului = 351 Stare = nori 50-85%']
+Zarnesti: 21 \ luni \ 23:5:2022 \ 19:06:11
+[' Răsarit = 05:40:17 Apus = 20:51:06 Min (°C) = 8.1 Max (°C) =17.07 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.31 Viteza vântului = 2.67 Unghiul vântului = 347 Stare = nori 25-50%']
+Zarnesti: 21 \ marți \ 24:5:2022 \ 19:06:23
+[' Răsarit = 05:39:24 Apus = 20:52:09 Min (°C) = 7.79 Max (°C) =17.17 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.31 Viteza vântului = 1.33 Unghiul vântului = 224 Stare = nori 85-100%']
+Zarnesti: 21 \ miercuri \ 25:5:2022 \ 19:06:02
+[' Răsarit = 05:38:33 Apus = 20:53:12 Min (°C) = 9.26 Max (°C) =23.31 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.63 Viteza vântului = 2.07 Unghiul vântului = 212 Stare = nori 85-100%']
+Zarnesti: 21 \ joi \ 26:5:2022 \ 19:06:07
+[' Răsarit = 05:37:45 Apus = 20:54:13 Min (°C) = 12.46 Max (°C) =19.32 Presiune = 1020 Umiditate (%) = 75 Index UV = 0.42 Viteza vântului = 2.65 Unghiul vântului = 349 Stare = nori 50-85%']
+Zarnesti: 21 \ vineri \ 27:5:2022 \ 19:06:38
+[' Răsarit = 05:36:58 Apus = 20:55:14 Min (°C) = 9.81 Max (°C) =20.74 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.64 Viteza vântului = 0.92 Unghiul vântului = 333 Stare = nori 50-85%']
+Zarnesti: 21 \ sâmbătă \ 28:5:2022 \ 19:07:19
+[' Răsarit = 05:36:14 Apus = 20:56:13 Min (°C) = 9.6 Max (°C) =20.69 Presiune = 1014 Umiditate (%) = 99 Index UV = 0.12 Viteza vântului = 2.22 Unghiul vântului = 10 Stare = nori 85-100%']
+Zarnesti: 21 \ duminică \ 29:5:2022 \ 19:06:14
+[' Răsarit = 05:35:32 Apus = 20:57:10 Min (°C) = 9.93 Max (°C) =17.77 Presiune = 1009 Umiditate (%) = 90 Index UV = 0.62 Viteza vântului = 2.56 Unghiul vântului = 169 Stare = nori 50-85%']
+Zarnesti: 22 \ luni \ 30:5:2022 \ 19:06:53
+[' Răsarit = 05:34:52 Apus = 20:58:06 Min (°C) = 11.38 Max (°C) =19.16 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.68 Viteza vântului = 1.56 Unghiul vântului = 5 Stare = nori 50-85%']
+Zarnesti: 22 \ marți \ 31:5:2022 \ 19:06:24
+[' Răsarit = 05:34:14 Apus = 20:59:01 Min (°C) = 11.68 Max (°C) =20.04 Presiune = 1017 Umiditate (%) = 88 Index UV = 0.37 Viteza vântului = 0.74 Unghiul vântului = 190 Stare = nori 85-100%']
+Zarnesti: 22 \ miercuri \ 01:6:2022 \ 19:06:26
+[' Răsarit = 05:33:38 Apus = 20:59:54 Min (°C) = 11.58 Max (°C) =23.42 Presiune = 1017 Umiditate (%) = 82 Index UV = 0.66 Viteza vântului = 0.95 Unghiul vântului = 223 Stare = nori 85-100%']
+Zarnesti: 22 \ joi \ 02:6:2022 \ 19:06:04
+[' Răsarit = 05:33:05 Apus = 21:00:46 Min (°C) = 12.73 Max (°C) =24.2 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.69 Viteza vântului = 0.29 Unghiul vântului = 158 Stare = ploaie ușoară']
+Zarnesti: 22 \ vineri \ 03:6:2022 \ 19:06:18
+[' Răsarit = 05:32:34 Apus = 21:01:36 Min (°C) = 13.29 Max (°C) =22.72 Presiune = 1021 Umiditate (%) = 75 Index UV = 0.71 Viteza vântului = 0.64 Unghiul vântului = 65 Stare = nori 85-100%']
+Zarnesti: 22 \ sâmbătă \ 04:6:2022 \ 19:06:35
+[' Răsarit = 05:32:05 Apus = 21:02:25 Min (°C) = 13.31 Max (°C) =22.42 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.72 Viteza vântului = 1.29 Unghiul vântului = 214 Stare = nori 50-85%']
+Zarnesti: 22 \ duminică \ 05:6:2022 \ 19:06:04
+[' Răsarit = 05:31:38 Apus = 21:03:11 Min (°C) = 13.58 Max (°C) =22.76 Presiune = 1015 Umiditate (%) = 89 Index UV = 0.74 Viteza vântului = 1.88 Unghiul vântului = 354 Stare = nori 50-85%']
+Zarnesti: 23 \ luni \ 06:6:2022 \ 19:06:46
+[' Răsarit = 05:31:14 Apus = 21:03:56 Min (°C) = 10.69 Max (°C) =19.94 Presiune = 1017 Umiditate (%) = 64 Index UV = 0.75 Viteza vântului = 2.35 Unghiul vântului = 60 Stare = nori 25-50%']
+Zarnesti: 23 \ marți \ 07:6:2022 \ 19:05:56
+[' Răsarit = 05:30:52 Apus = 21:04:40 Min (°C) = 10.1 Max (°C) =21.06 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.76 Viteza vântului = 1.1 Unghiul vântului = 159 Stare = nori 50-85%']
+Zarnesti: 23 \ miercuri \ 08:6:2022 \ 19:06:29
+[' Răsarit = 05:30:32 Apus = 21:05:21 Min (°C) = 10.89 Max (°C) =21.48 Presiune = 1011 Umiditate (%) = 75 Index UV = 0.57 Viteza vântului = 1.95 Unghiul vântului = 173 Stare = nori 50-85%']
+Zarnesti: 23 \ joi \ 09:6:2022 \ 19:06:09
+[' Răsarit = 05:30:15 Apus = 21:06:00 Min (°C) = 10.77 Max (°C) =18.85 Presiune = 1009 Umiditate (%) = 87 Index UV = 0.74 Viteza vântului = 1.12 Unghiul vântului = 86 Stare = ploaie ușoară']
+Zarnesti: 23 \ vineri \ 10:6:2022 \ 19:06:15
+[' Răsarit = 05:30:00 Apus = 21:06:38 Min (°C) = 10.51 Max (°C) =18.7 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.52 Viteza vântului = 2.24 Unghiul vântului = 30 Stare = nori 50-85%']
+Zarnesti: 23 \ sâmbătă \ 11:6:2022 \ 19:06:08
+[' Răsarit = 05:29:47 Apus = 21:07:14 Min (°C) = 11.16 Max (°C) =18.84 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.71 Viteza vântului = 1.42 Unghiul vântului = 26 Stare = ploaie ușoară']
+Zarnesti: 23 \ duminică \ 12:6:2022 \ 19:06:07
+[' Răsarit = 05:29:36 Apus = 21:07:47 Min (°C) = 13.51 Max (°C) =19.45 Presiune = 1015 Umiditate (%) = 93 Index UV = 0.74 Viteza vântului = 1.92 Unghiul vântului = 13 Stare = nori 85-100%']
+Zarnesti: 24 \ luni \ 13:6:2022 \ 19:06:22
+[' Răsarit = 05:29:28 Apus = 21:08:19 Min (°C) = 12.07 Max (°C) =22.17 Presiune = 1013 Umiditate (%) = 82 Index UV = 0.69 Viteza vântului = 1.07 Unghiul vântului = 252 Stare = nori 50-85%']
+Zarnesti: 24 \ marți \ 14:6:2022 \ 19:06:00
+[' Răsarit = 05:29:23 Apus = 21:08:48 Min (°C) = 10.74 Max (°C) =18.7 Presiune = 1018 Umiditate (%) = 89 Index UV = 0.71 Viteza vântului = 1.37 Unghiul vântului = 301 Stare = nori 85-100%']
+Zarnesti: 24 \ miercuri \ 15:6:2022 \ 19:05:59
+[' Răsarit = 05:29:19 Apus = 21:09:16 Min (°C) = 10.08 Max (°C) =19.39 Presiune = 1021 Umiditate (%) = 58 Index UV = 0.54 Viteza vântului = 0.73 Unghiul vântului = 319 Stare = nori 50-85%']
+Zarnesti: 24 \ joi \ 16:6:2022 \ 19:06:01
+[' Răsarit = 05:29:18 Apus = 21:09:41 Min (°C) = 11.63 Max (°C) =21.61 Presiune = 1019 Umiditate (%) = 69 Index UV = 0.74 Viteza vântului = 1.58 Unghiul vântului = 237 Stare = nori 50-85%']
+Zarnesti: 24 \ vineri \ 17:6:2022 \ 19:06:16
+[' Răsarit = 05:29:19 Apus = 21:10:04 Min (°C) = 12.4 Max (°C) =20.53 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.46 Viteza vântului = 1.35 Unghiul vântului = 340 Stare = nori 85-100%']
+Zarnesti: 24 \ sâmbătă \ 18:6:2022 \ 19:06:02
+[' Răsarit = 05:29:23 Apus = 21:10:25 Min (°C) = 10.11 Max (°C) =19.24 Presiune = 1020 Umiditate (%) = 62 Index UV = 0.57 Viteza vântului = 1.45 Unghiul vântului = 41 Stare = nori 50-85%']
+Zarnesti: 24 \ duminică \ 19:6:2022 \ 19:05:36
+[' Răsarit = 05:29:29 Apus = 21:10:43 Min (°C) = 10.28 Max (°C) =23 Presiune = 1018 Umiditate (%) = 55 Index UV = 0.77 Viteza vântului = 1.14 Unghiul vântului = 211 Stare = nori 25-50%']
+Zarnesti: 25 \ luni \ 20:6:2022 \ 19:05:51
+[' Răsarit = 05:29:37 Apus = 21:10:59 Min (°C) = 12.47 Max (°C) =24.79 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.78 Viteza vântului = 1.98 Unghiul vântului = 259 Stare = nori 25-50%']
+Zarnesti: 25 \ marți \ 21:6:2022 \ 19:06:21
+[' Răsarit = 05:29:47 Apus = 21:11:13 Min (°C) = 15.11 Max (°C) =25.95 Presiune = 1009 Umiditate (%) = 39 Index UV = 0.79 Viteza vântului = 4.6 Unghiul vântului = 304 Stare = cer senin']
+Zarnesti: 25 \ miercuri \ 22:6:2022 \ 19:06:03
+[' Răsarit = 05:30:00 Apus = 21:11:25 Min (°C) = 9.25 Max (°C) =19.6 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.76 Viteza vântului = 2.82 Unghiul vântului = 335 Stare = nori 25-50%']
+Zarnesti: 25 \ joi \ 23:6:2022 \ 19:06:02
+[' Răsarit = 05:30:15 Apus = 21:11:35 Min (°C) = 10.73 Max (°C) =20.03 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.7 Viteza vântului = 1.74 Unghiul vântului = 322 Stare = nori 25-50%']
+Zarnesti: 25 \ duminică \ 26:6:2022 \ 19:46:27
+[' Răsarit = 05:31:13 Apus = 21:11:49 Min (°C) = 13.34 Max (°C) =19.74 Presiune = 1019 Umiditate (%) = 99 Index UV = 0.11 Viteza vântului = 0.61 Unghiul vântului = 19 Stare = nori 85-100%']
+Zarnesti: 26 \ luni \ 27:6:2022 \ 19:06:11
+[' Răsarit = 05:31:36 Apus = 21:11:48 Min (°C) = 11.81 Max (°C) =23.16 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.69 Viteza vântului = 1.25 Unghiul vântului = 52 Stare = nori 50-85%']
+Zarnesti: 26 \ marți \ 28:6:2022 \ 19:06:11
+[' Răsarit = 05:32:02 Apus = 21:11:46 Min (°C) = 14.97 Max (°C) =23.84 Presiune = 1019 Umiditate (%) = 62 Index UV = 0.77 Viteza vântului = 1.39 Unghiul vântului = 358 Stare = nori 25-50%']
+Zarnesti: 26 \ miercuri \ 29:6:2022 \ 19:06:12
+[' Răsarit = 05:32:30 Apus = 21:11:41 Min (°C) = 14.76 Max (°C) =28.38 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.74 Viteza vântului = 1.71 Unghiul vântului = 200 Stare = nori 50-85%']
+Zarnesti: 26 \ joi \ 30:6:2022 \ 19:06:29
+[' Răsarit = 05:33:00 Apus = 21:11:34 Min (°C) = 17.13 Max (°C) =29.56 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.42 Viteza vântului = 0.98 Unghiul vântului = 175 Stare = nori 50-85%']
+Zarnesti: 26 \ vineri \ 01:7:2022 \ 19:06:22
+[' Răsarit = 05:33:31 Apus = 21:11:24 Min (°C) = 16.73 Max (°C) =28.2 Presiune = 1018 Umiditate (%) = 91 Index UV = 0.32 Viteza vântului = 1.15 Unghiul vântului = 40 Stare = nori 50-85%']
+Zarnesti: 26 \ sâmbătă \ 02:7:2022 \ 19:06:11
+[' Răsarit = 05:34:05 Apus = 21:11:12 Min (°C) = 16.35 Max (°C) =27.83 Presiune = 1019 Umiditate (%) = 77 Index UV = 0.09 Viteza vântului = 1.05 Unghiul vântului = 81 Stare = nori 25-50%']

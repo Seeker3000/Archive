@@ -952,3 +952,83 @@ Tecuci: 20 \ vineri \ 20:5:2022 \ 19:10:25
 [' Răsarit = 05:33:35 Apus = 20:40:15 Min (°C) = 11.52 Max (°C) =26.26 Presiune = 1018 Umiditate (%) = 38 Index UV = 0.5 Viteza vântului = 4.07 Unghiul vântului = 188 Stare = nori 50-85%']
 Tecuci: 20 \ sâmbătă \ 21:5:2022 \ 19:12:04
 [' Răsarit = 05:32:35 Apus = 20:41:23 Min (°C) = 14.82 Max (°C) =30.32 Presiune = 1009 Umiditate (%) = 44 Index UV = 0.53 Viteza vântului = 4.56 Unghiul vântului = 295 Stare = nori 50-85%']
+Tecuci: 20 \ duminică \ 22:5:2022 \ 19:11:21
+[' Răsarit = 05:31:38 Apus = 20:42:30 Min (°C) = 16.1 Max (°C) =22.71 Presiune = 1009 Umiditate (%) = 60 Index UV = 0.37 Viteza vântului = 4.73 Unghiul vântului = 17 Stare = nori 85-100%']
+Tecuci: 21 \ luni \ 23:5:2022 \ 19:11:04
+[' Răsarit = 05:30:42 Apus = 20:43:35 Min (°C) = 13.3 Max (°C) =18.23 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.17 Viteza vântului = 5.53 Unghiul vântului = 6 Stare = nori 25-50%']
+Tecuci: 21 \ marți \ 24:5:2022 \ 19:11:02
+[' Răsarit = 05:29:49 Apus = 20:44:40 Min (°C) = 10.33 Max (°C) =21.82 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.53 Viteza vântului = 2.68 Unghiul vântului = 182 Stare = nori 85-100%']
+Tecuci: 21 \ miercuri \ 25:5:2022 \ 19:10:44
+[' Răsarit = 05:28:58 Apus = 20:45:43 Min (°C) = 11.74 Max (°C) =25.79 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.51 Viteza vântului = 7.78 Unghiul vântului = 164 Stare = nori 50-85%']
+Tecuci: 21 \ joi \ 26:5:2022 \ 19:10:50
+[' Răsarit = 05:28:08 Apus = 20:46:45 Min (°C) = 13.79 Max (°C) =21.53 Presiune = 1018 Umiditate (%) = 54 Index UV = 0.49 Viteza vântului = 2.91 Unghiul vântului = 35 Stare = nori 10-25%']
+Tecuci: 21 \ vineri \ 27:5:2022 \ 19:11:07
+[' Răsarit = 05:27:21 Apus = 20:47:46 Min (°C) = 14.05 Max (°C) =27.41 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.56 Viteza vântului = 2.69 Unghiul vântului = 277 Stare = nori 25-50%']
+Tecuci: 21 \ sâmbătă \ 28:5:2022 \ 19:12:06
+[' Răsarit = 05:26:36 Apus = 20:48:46 Min (°C) = 14.88 Max (°C) =25.78 Presiune = 1010 Umiditate (%) = 79 Index UV = 0.18 Viteza vântului = 7.78 Unghiul vântului = 359 Stare = nori 85-100%']
+Tecuci: 21 \ duminică \ 29:5:2022 \ 19:10:51
+[' Răsarit = 05:25:53 Apus = 20:49:44 Min (°C) = 12.74 Max (°C) =20.19 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.26 Viteza vântului = 1.22 Unghiul vântului = 76 Stare = nori 85-100%']
+Tecuci: 22 \ luni \ 30:5:2022 \ 19:11:38
+[' Răsarit = 05:25:13 Apus = 20:50:41 Min (°C) = 14.08 Max (°C) =25.25 Presiune = 1010 Umiditate (%) = 53 Index UV = 0.43 Viteza vântului = 2.02 Unghiul vântului = 310 Stare = nori 10-25%']
+Tecuci: 22 \ marți \ 31:5:2022 \ 19:10:53
+[' Răsarit = 05:24:34 Apus = 20:51:36 Min (°C) = 16.22 Max (°C) =27.64 Presiune = 1014 Umiditate (%) = 58 Index UV = 0.42 Viteza vântului = 3.39 Unghiul vântului = 359 Stare = ploaie ușoară']
+Tecuci: 22 \ miercuri \ 01:6:2022 \ 19:11:03
+[' Răsarit = 05:23:58 Apus = 20:52:30 Min (°C) = 16.1 Max (°C) =29.14 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.57 Viteza vântului = 1.76 Unghiul vântului = 173 Stare = nori 25-50%']
+Tecuci: 22 \ joi \ 02:6:2022 \ 19:10:34
+[' Răsarit = 05:23:24 Apus = 20:53:22 Min (°C) = 18.43 Max (°C) =30.52 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.58 Viteza vântului = 5.45 Unghiul vântului = 291 Stare = nori 25-50%']
+Tecuci: 22 \ vineri \ 03:6:2022 \ 19:10:51
+[' Răsarit = 05:22:52 Apus = 20:54:13 Min (°C) = 18.07 Max (°C) =27.19 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.64 Viteza vântului = 5.39 Unghiul vântului = 6 Stare = nori 50-85%']
+Tecuci: 22 \ sâmbătă \ 04:6:2022 \ 19:11:14
+[' Răsarit = 05:22:23 Apus = 20:55:02 Min (°C) = 17.08 Max (°C) =28.67 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.61 Viteza vântului = 3.59 Unghiul vântului = 184 Stare = nori 50-85%']
+Tecuci: 22 \ duminică \ 05:6:2022 \ 19:10:35
+[' Răsarit = 05:21:56 Apus = 20:55:49 Min (°C) = 17.47 Max (°C) =26.63 Presiune = 1014 Umiditate (%) = 62 Index UV = 0.36 Viteza vântului = 6.09 Unghiul vântului = 351 Stare = nori 50-85%']
+Tecuci: 23 \ luni \ 06:6:2022 \ 19:11:18
+[' Răsarit = 05:21:31 Apus = 20:56:35 Min (°C) = 16.2 Max (°C) =22.8 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.56 Viteza vântului = 4.35 Unghiul vântului = 26 Stare = nori 85-100%']
+Tecuci: 23 \ marți \ 07:6:2022 \ 19:10:25
+[' Răsarit = 05:21:09 Apus = 20:57:18 Min (°C) = 16.93 Max (°C) =25.81 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.22 Viteza vântului = 2.92 Unghiul vântului = 110 Stare = nori 85-100%']
+Tecuci: 23 \ miercuri \ 08:6:2022 \ 19:11:08
+[' Răsarit = 05:20:48 Apus = 20:58:00 Min (°C) = 16.36 Max (°C) =26.62 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.44 Viteza vântului = 2.26 Unghiul vântului = 146 Stare = nori 85-100%']
+Tecuci: 23 \ joi \ 09:6:2022 \ 19:10:44
+[' Răsarit = 05:20:31 Apus = 20:58:40 Min (°C) = 16.57 Max (°C) =26.58 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.29 Viteza vântului = 3.79 Unghiul vântului = 102 Stare = nori 85-100%']
+Tecuci: 23 \ vineri \ 10:6:2022 \ 19:10:49
+[' Răsarit = 05:20:15 Apus = 20:59:18 Min (°C) = 17.38 Max (°C) =23.18 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.33 Viteza vântului = 5.61 Unghiul vântului = 353 Stare = ploaie ușoară']
+Tecuci: 23 \ sâmbătă \ 11:6:2022 \ 19:10:49
+[' Răsarit = 05:20:02 Apus = 20:59:54 Min (°C) = 15.29 Max (°C) =23.05 Presiune = 1012 Umiditate (%) = 76 Index UV = 0.64 Viteza vântului = 1.17 Unghiul vântului = 272 Stare = nori 85-100%']
+Tecuci: 23 \ duminică \ 12:6:2022 \ 19:10:37
+[' Răsarit = 05:19:51 Apus = 21:00:28 Min (°C) = 17.46 Max (°C) =27.41 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.43 Viteza vântului = 8.73 Unghiul vântului = 351 Stare = nori 85-100%']
+Tecuci: 24 \ luni \ 13:6:2022 \ 19:10:48
+[' Răsarit = 05:19:43 Apus = 21:01:00 Min (°C) = 18.09 Max (°C) =28.7 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.64 Viteza vântului = 2.23 Unghiul vântului = 358 Stare = cer senin']
+Tecuci: 24 \ marți \ 14:6:2022 \ 19:10:24
+[' Răsarit = 05:19:37 Apus = 21:01:29 Min (°C) = 18.82 Max (°C) =24.8 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.66 Viteza vântului = 4.99 Unghiul vântului = 356 Stare = nori 85-100%']
+Tecuci: 24 \ miercuri \ 15:6:2022 \ 19:10:31
+[' Răsarit = 05:19:33 Apus = 21:01:57 Min (°C) = 15.92 Max (°C) =24.27 Presiune = 1019 Umiditate (%) = 43 Index UV = 0.62 Viteza vântului = 1.99 Unghiul vântului = 349 Stare = nori 50-85%']
+Tecuci: 24 \ joi \ 16:6:2022 \ 19:10:35
+[' Răsarit = 05:19:32 Apus = 21:02:22 Min (°C) = 15.67 Max (°C) =26.27 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.64 Viteza vântului = 2.04 Unghiul vântului = 151 Stare = nori 50-85%']
+Tecuci: 24 \ vineri \ 17:6:2022 \ 19:10:57
+[' Răsarit = 05:19:33 Apus = 21:02:45 Min (°C) = 15.39 Max (°C) =27.51 Presiune = 1016 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 5.25 Unghiul vântului = 11 Stare = nori 50-85%']
+Tecuci: 24 \ sâmbătă \ 18:6:2022 \ 19:10:41
+[' Răsarit = 05:19:37 Apus = 21:03:06 Min (°C) = 16.1 Max (°C) =24.15 Presiune = 1019 Umiditate (%) = 46 Index UV = 0.65 Viteza vântului = 5.56 Unghiul vântului = 8 Stare = nori 50-85%']
+Tecuci: 24 \ duminică \ 19:6:2022 \ 19:09:42
+[' Răsarit = 05:19:42 Apus = 21:03:25 Min (°C) = 14.85 Max (°C) =27.84 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.69 Viteza vântului = 2.19 Unghiul vântului = 86 Stare = cer senin']
+Tecuci: 25 \ luni \ 20:6:2022 \ 19:10:14
+[' Răsarit = 05:19:51 Apus = 21:03:41 Min (°C) = 15.46 Max (°C) =29.42 Presiune = 1009 Umiditate (%) = 31 Index UV = 0.71 Viteza vântului = 4.63 Unghiul vântului = 168 Stare = cer senin']
+Tecuci: 25 \ marți \ 21:6:2022 \ 19:10:55
+[' Răsarit = 05:20:01 Apus = 21:03:55 Min (°C) = 17.52 Max (°C) =34.32 Presiune = 1005 Umiditate (%) = 50 Index UV = 0.7 Viteza vântului = 6.18 Unghiul vântului = 11 Stare = nori 50-85%']
+Tecuci: 25 \ miercuri \ 22:6:2022 \ 19:10:32
+[' Răsarit = 05:20:14 Apus = 21:04:07 Min (°C) = 14.05 Max (°C) =25.88 Presiune = 1008 Umiditate (%) = 38 Index UV = 0.39 Viteza vântului = 4.39 Unghiul vântului = 12 Stare = nori 50-85%']
+Tecuci: 25 \ joi \ 23:6:2022 \ 19:10:33
+[' Răsarit = 05:20:29 Apus = 21:04:16 Min (°C) = 14.83 Max (°C) =24.93 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.62 Viteza vântului = 7.07 Unghiul vântului = 354 Stare = nori 85-100%']
+Tecuci: 25 \ duminică \ 26:6:2022 \ 19:51:02
+[' Răsarit = 05:21:27 Apus = 21:04:30 Min (°C) = 17.49 Max (°C) =27.82 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.09 Viteza vântului = 2.34 Unghiul vântului = 339 Stare = nori 50-85%']
+Tecuci: 26 \ luni \ 27:6:2022 \ 19:10:46
+[' Răsarit = 05:21:50 Apus = 21:04:30 Min (°C) = 16.46 Max (°C) =29.85 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.17 Viteza vântului = 2.61 Unghiul vântului = 61 Stare = nori 85-100%']
+Tecuci: 26 \ marți \ 28:6:2022 \ 19:10:53
+[' Răsarit = 05:22:16 Apus = 21:04:27 Min (°C) = 20.55 Max (°C) =31.76 Presiune = 1014 Umiditate (%) = 32 Index UV = 0.35 Viteza vântului = 4.56 Unghiul vântului = 11 Stare = nori 50-85%']
+Tecuci: 26 \ miercuri \ 29:6:2022 \ 19:10:51
+[' Răsarit = 05:22:44 Apus = 21:04:22 Min (°C) = 19.22 Max (°C) =34.07 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.63 Viteza vântului = 1.32 Unghiul vântului = 12 Stare = nori 50-85%']
+Tecuci: 26 \ joi \ 30:6:2022 \ 19:11:22
+[' Răsarit = 05:23:14 Apus = 21:04:15 Min (°C) = 20.85 Max (°C) =35.32 Presiune = 1011 Umiditate (%) = 28 Index UV = 0.56 Viteza vântului = 4.84 Unghiul vântului = 101 Stare = nori 50-85%']
+Tecuci: 26 \ vineri \ 01:7:2022 \ 19:10:58
+[' Răsarit = 05:23:46 Apus = 21:04:05 Min (°C) = 19.31 Max (°C) =33.98 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.55 Viteza vântului = 6.04 Unghiul vântului = 81 Stare = nori 50-85%']
+Tecuci: 26 \ sâmbătă \ 02:7:2022 \ 19:10:49
+[' Răsarit = 05:24:20 Apus = 21:03:53 Min (°C) = 21.44 Max (°C) =34.72 Presiune = 1016 Umiditate (%) = 23 Index UV = 0.59 Viteza vântului = 4.02 Unghiul vântului = 61 Stare = nori 10-25%']

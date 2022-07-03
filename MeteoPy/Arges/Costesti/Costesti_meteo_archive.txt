@@ -950,3 +950,83 @@ Costesti: 20 \ vineri \ 20:5:2022 \ 19:02:44
 [' Răsarit = 05:47:41 Apus = 20:46:35 Min (°C) = 10.28 Max (°C) =24.33 Presiune = 1021 Umiditate (%) = 43 Index UV = 0.58 Viteza vântului = 3.72 Unghiul vântului = 249 Stare = nori 10-25%']
 Costesti: 20 \ sâmbătă \ 21:5:2022 \ 19:03:10
 [' Răsarit = 05:46:45 Apus = 20:47:40 Min (°C) = 12.9 Max (°C) =27.83 Presiune = 1011 Umiditate (%) = 46 Index UV = 0.62 Viteza vântului = 3.08 Unghiul vântului = 237 Stare = nori 10-25%']
+Costesti: 20 \ duminică \ 22:5:2022 \ 19:02:56
+[' Răsarit = 05:45:50 Apus = 20:48:44 Min (°C) = 15.74 Max (°C) =24.73 Presiune = 1007 Umiditate (%) = 40 Index UV = 0.55 Viteza vântului = 5.85 Unghiul vântului = 351 Stare = nori 25-50%']
+Costesti: 21 \ luni \ 23:5:2022 \ 19:02:49
+[' Răsarit = 05:44:58 Apus = 20:49:46 Min (°C) = 12.56 Max (°C) =21.43 Presiune = 1009 Umiditate (%) = 51 Index UV = 0.15 Viteza vântului = 2.86 Unghiul vântului = 114 Stare = nori 85-100%']
+Costesti: 21 \ marți \ 24:5:2022 \ 19:02:58
+[' Răsarit = 05:44:07 Apus = 20:50:48 Min (°C) = 11.96 Max (°C) =19.75 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.56 Viteza vântului = 3.23 Unghiul vântului = 60 Stare = nori 85-100%']
+Costesti: 21 \ miercuri \ 25:5:2022 \ 19:02:45
+[' Răsarit = 05:43:19 Apus = 20:51:49 Min (°C) = 11.77 Max (°C) =25.88 Presiune = 1014 Umiditate (%) = 48 Index UV = 0.64 Viteza vântului = 1.72 Unghiul vântului = 156 Stare = nori 25-50%']
+Costesti: 21 \ joi \ 26:5:2022 \ 19:02:47
+[' Răsarit = 05:42:32 Apus = 20:52:48 Min (°C) = 16.2 Max (°C) =28.49 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.64 Viteza vântului = 3.25 Unghiul vântului = 331 Stare = cer senin']
+Costesti: 21 \ vineri \ 27:5:2022 \ 19:03:22
+[' Răsarit = 05:41:48 Apus = 20:53:46 Min (°C) = 15.95 Max (°C) =26.49 Presiune = 1014 Umiditate (%) = 41 Index UV = 0.64 Viteza vântului = 2.98 Unghiul vântului = 244 Stare = nori 10-25%']
+Costesti: 21 \ sâmbătă \ 28:5:2022 \ 19:03:42
+[' Răsarit = 05:41:05 Apus = 20:54:43 Min (°C) = 16.15 Max (°C) =27.42 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.52 Viteza vântului = 3.93 Unghiul vântului = 303 Stare = nori 85-100%']
+Costesti: 21 \ duminică \ 29:5:2022 \ 19:02:53
+[' Răsarit = 05:40:25 Apus = 20:55:39 Min (°C) = 14.93 Max (°C) =19.61 Presiune = 1007 Umiditate (%) = 89 Index UV = 0.28 Viteza vântului = 6.35 Unghiul vântului = 49 Stare = nori 85-100%']
+Costesti: 22 \ luni \ 30:5:2022 \ 19:03:14
+[' Răsarit = 05:39:47 Apus = 20:56:34 Min (°C) = 14.35 Max (°C) =24.19 Presiune = 1011 Umiditate (%) = 60 Index UV = 0.47 Viteza vântului = 2.67 Unghiul vântului = 223 Stare = nori 10-25%']
+Costesti: 22 \ marți \ 31:5:2022 \ 19:03:00
+[' Răsarit = 05:39:10 Apus = 20:57:27 Min (°C) = 15.54 Max (°C) =26.85 Presiune = 1014 Umiditate (%) = 49 Index UV = 0.63 Viteza vântului = 1.19 Unghiul vântului = 221 Stare = ploaie intensă']
+Costesti: 22 \ miercuri \ 01:6:2022 \ 19:03:09
+[' Răsarit = 05:38:36 Apus = 20:58:18 Min (°C) = 15.08 Max (°C) =26.97 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.65 Viteza vântului = 1.41 Unghiul vântului = 246 Stare = nori 50-85%']
+Costesti: 22 \ joi \ 02:6:2022 \ 19:02:50
+[' Răsarit = 05:38:05 Apus = 20:59:08 Min (°C) = 16.65 Max (°C) =29.02 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.61 Viteza vântului = 1.68 Unghiul vântului = 205 Stare = nori 10-25%']
+Costesti: 22 \ vineri \ 03:6:2022 \ 19:03:03
+[' Răsarit = 05:37:35 Apus = 20:59:57 Min (°C) = 18.24 Max (°C) =28.33 Presiune = 1020 Umiditate (%) = 77 Index UV = 0.33 Viteza vântului = 4.26 Unghiul vântului = 60 Stare = nori 85-100%']
+Costesti: 22 \ sâmbătă \ 04:6:2022 \ 19:03:06
+[' Răsarit = 05:37:07 Apus = 21:00:44 Min (°C) = 17.08 Max (°C) =28.06 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.78 Viteza vântului = 0.78 Unghiul vântului = 178 Stare = nori 25-50%']
+Costesti: 22 \ duminică \ 05:6:2022 \ 19:02:51
+[' Răsarit = 05:36:42 Apus = 21:01:29 Min (°C) = 18.05 Max (°C) =30.17 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.78 Viteza vântului = 0.21 Unghiul vântului = 187 Stare = nori 50-85%']
+Costesti: 23 \ luni \ 06:6:2022 \ 19:03:27
+[' Răsarit = 05:36:19 Apus = 21:02:13 Min (°C) = 15.69 Max (°C) =24.45 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.28 Viteza vântului = 2.62 Unghiul vântului = 100 Stare = nori 50-85%']
+Costesti: 23 \ marți \ 07:6:2022 \ 19:02:44
+[' Răsarit = 05:35:58 Apus = 21:02:55 Min (°C) = 16.02 Max (°C) =23.96 Presiune = 1012 Umiditate (%) = 42 Index UV = 0.41 Viteza vântului = 2.87 Unghiul vântului = 74 Stare = nori 50-85%']
+Costesti: 23 \ miercuri \ 08:6:2022 \ 19:03:11
+[' Răsarit = 05:35:40 Apus = 21:03:35 Min (°C) = 14.58 Max (°C) =24.11 Presiune = 1010 Umiditate (%) = 52 Index UV = 0.21 Viteza vântului = 3.55 Unghiul vântului = 139 Stare = nori 85-100%']
+Costesti: 23 \ joi \ 09:6:2022 \ 19:02:53
+[' Răsarit = 05:35:23 Apus = 21:04:14 Min (°C) = 14.89 Max (°C) =22.79 Presiune = 1007 Umiditate (%) = 61 Index UV = 0.62 Viteza vântului = 3.91 Unghiul vântului = 73 Stare = nori 85-100%']
+Costesti: 23 \ vineri \ 10:6:2022 \ 19:02:59
+[' Răsarit = 05:35:09 Apus = 21:04:50 Min (°C) = 14.63 Max (°C) =24.03 Presiune = 1010 Umiditate (%) = 56 Index UV = 0.68 Viteza vântului = 6.24 Unghiul vântului = 87 Stare = nori 85-100%']
+Costesti: 23 \ sâmbătă \ 11:6:2022 \ 19:02:51
+[' Răsarit = 05:34:57 Apus = 21:05:25 Min (°C) = 14.97 Max (°C) =21.68 Presiune = 1012 Umiditate (%) = 66 Index UV = 0.68 Viteza vântului = 3.89 Unghiul vântului = 85 Stare = nori 85-100%']
+Costesti: 23 \ duminică \ 12:6:2022 \ 19:02:53
+[' Răsarit = 05:34:48 Apus = 21:05:58 Min (°C) = 16.56 Max (°C) =26.75 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.66 Viteza vântului = 3.38 Unghiul vântului = 295 Stare = ploaie ușoară']
+Costesti: 24 \ luni \ 13:6:2022 \ 19:03:09
+[' Răsarit = 05:34:41 Apus = 21:06:28 Min (°C) = 15.46 Max (°C) =28.33 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.26 Viteza vântului = 2.67 Unghiul vântului = 264 Stare = nori 50-85%']
+Costesti: 24 \ marți \ 14:6:2022 \ 19:02:53
+[' Răsarit = 05:34:36 Apus = 21:06:57 Min (°C) = 16.63 Max (°C) =28.76 Presiune = 1015 Umiditate (%) = 83 Index UV = 0.64 Viteza vântului = 6.98 Unghiul vântului = 73 Stare = nori 50-85%']
+Costesti: 24 \ miercuri \ 15:6:2022 \ 19:02:44
+[' Răsarit = 05:34:33 Apus = 21:07:24 Min (°C) = 15.28 Max (°C) =22.35 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.72 Viteza vântului = 1.96 Unghiul vântului = 254 Stare = nori 25-50%']
+Costesti: 24 \ joi \ 16:6:2022 \ 19:02:47
+[' Răsarit = 05:34:32 Apus = 21:07:49 Min (°C) = 14.87 Max (°C) =25.38 Presiune = 1018 Umiditate (%) = 45 Index UV = 0.51 Viteza vântului = 2.75 Unghiul vântului = 198 Stare = nori 50-85%']
+Costesti: 24 \ vineri \ 17:6:2022 \ 19:02:57
+[' Răsarit = 05:34:34 Apus = 21:08:11 Min (°C) = 15.82 Max (°C) =27.81 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.62 Viteza vântului = 2.59 Unghiul vântului = 37 Stare = nori 85-100%']
+Costesti: 24 \ sâmbătă \ 18:6:2022 \ 19:02:48
+[' Răsarit = 05:34:38 Apus = 21:08:32 Min (°C) = 14.77 Max (°C) =23.84 Presiune = 1019 Umiditate (%) = 60 Index UV = 0.75 Viteza vântului = 1.13 Unghiul vântului = 320 Stare = nori 50-85%']
+Costesti: 24 \ duminică \ 19:6:2022 \ 19:02:40
+[' Răsarit = 05:34:44 Apus = 21:08:50 Min (°C) = 14.35 Max (°C) =26.59 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.76 Viteza vântului = 1.96 Unghiul vântului = 128 Stare = nori 25-50%']
+Costesti: 25 \ luni \ 20:6:2022 \ 19:02:43
+[' Răsarit = 05:34:52 Apus = 21:09:06 Min (°C) = 16.16 Max (°C) =28.34 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.77 Viteza vântului = 2.38 Unghiul vântului = 234 Stare = nori 85-100%']
+Costesti: 25 \ marți \ 21:6:2022 \ 19:03:05
+[' Răsarit = 05:35:03 Apus = 21:09:20 Min (°C) = 17.67 Max (°C) =33.53 Presiune = 1006 Umiditate (%) = 25 Index UV = 0.81 Viteza vântului = 7.25 Unghiul vântului = 313 Stare = nori 10-25%']
+Costesti: 25 \ miercuri \ 22:6:2022 \ 19:02:53
+[' Răsarit = 05:35:15 Apus = 21:09:32 Min (°C) = 15.08 Max (°C) =28.26 Presiune = 1007 Umiditate (%) = 26 Index UV = 0.69 Viteza vântului = 5.03 Unghiul vântului = 339 Stare = nori 25-50%']
+Costesti: 25 \ joi \ 23:6:2022 \ 19:02:47
+[' Răsarit = 05:35:30 Apus = 21:09:41 Min (°C) = 15.5 Max (°C) =22.78 Presiune = 1012 Umiditate (%) = 47 Index UV = 0.69 Viteza vântului = 4.07 Unghiul vântului = 244 Stare = nori 25-50%']
+Costesti: 25 \ duminică \ 26:6:2022 \ 19:43:06
+[' Răsarit = 05:36:27 Apus = 21:09:56 Min (°C) = 18.11 Max (°C) =26.01 Presiune = 1016 Umiditate (%) = 83 Index UV = 0.18 Viteza vântului = 1.57 Unghiul vântului = 255 Stare = nori 85-100%']
+Costesti: 26 \ luni \ 27:6:2022 \ 19:02:55
+[' Răsarit = 05:36:50 Apus = 21:09:57 Min (°C) = 16.33 Max (°C) =29.62 Presiune = 1016 Umiditate (%) = 39 Index UV = 0.72 Viteza vântului = 2.9 Unghiul vântului = 115 Stare = nori 85-100%']
+Costesti: 26 \ marți \ 28:6:2022 \ 19:02:51
+[' Răsarit = 05:37:15 Apus = 21:09:55 Min (°C) = 19.36 Max (°C) =29.54 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.77 Viteza vântului = 1.96 Unghiul vântului = 339 Stare = nori 50-85%']
+Costesti: 26 \ miercuri \ 29:6:2022 \ 19:02:53
+[' Răsarit = 05:37:42 Apus = 21:09:50 Min (°C) = 19.6 Max (°C) =33.43 Presiune = 1013 Umiditate (%) = 21 Index UV = 0.73 Viteza vântului = 2.7 Unghiul vântului = 99 Stare = cer senin']
+Costesti: 26 \ joi \ 30:6:2022 \ 19:03:00
+[' Răsarit = 05:38:12 Apus = 21:09:44 Min (°C) = 20.7 Max (°C) =34.51 Presiune = 1011 Umiditate (%) = 21 Index UV = 0.48 Viteza vântului = 2.56 Unghiul vântului = 146 Stare = cer senin']
+Costesti: 26 \ vineri \ 01:7:2022 \ 19:03:02
+[' Răsarit = 05:38:43 Apus = 21:09:35 Min (°C) = 20.18 Max (°C) =34.33 Presiune = 1013 Umiditate (%) = 32 Index UV = 0.8 Viteza vântului = 1.45 Unghiul vântului = 326 Stare = nori 50-85%']
+Costesti: 26 \ sâmbătă \ 02:7:2022 \ 19:02:53
+[' Răsarit = 05:39:15 Apus = 21:09:24 Min (°C) = 19.1 Max (°C) =34.04 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.78 Viteza vântului = 1.72 Unghiul vântului = 209 Stare = ploaie moderată']

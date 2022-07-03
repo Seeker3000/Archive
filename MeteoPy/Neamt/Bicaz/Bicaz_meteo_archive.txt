@@ -952,3 +952,83 @@ Bicaz: 20 \ vineri \ 20:5:2022 \ 19:15:30
 [' Răsarit = 05:35:22 Apus = 20:49:24 Min (°C) = 6.39 Max (°C) =22.33 Presiune = 1020 Umiditate (%) = 46 Index UV = 0.33 Viteza vântului = 2.8 Unghiul vântului = 260 Stare = nori 50-85%']
 Bicaz: 20 \ sâmbătă \ 21:5:2022 \ 19:17:46
 [' Răsarit = 05:34:20 Apus = 20:50:34 Min (°C) = 9.35 Max (°C) =23.09 Presiune = 1011 Umiditate (%) = 64 Index UV = 0.58 Viteza vântului = 4.29 Unghiul vântului = 277 Stare = nori 50-85%']
+Bicaz: 20 \ duminică \ 22:5:2022 \ 19:16:53
+[' Răsarit = 05:33:20 Apus = 20:51:44 Min (°C) = 9.16 Max (°C) =17.99 Presiune = 1009 Umiditate (%) = 68 Index UV = 0.27 Viteza vântului = 1.67 Unghiul vântului = 7 Stare = nori 85-100%']
+Bicaz: 21 \ luni \ 23:5:2022 \ 19:16:18
+[' Răsarit = 05:32:22 Apus = 20:52:52 Min (°C) = 6.75 Max (°C) =14.29 Presiune = 1011 Umiditate (%) = 68 Index UV = 0.11 Viteza vântului = 1.79 Unghiul vântului = 38 Stare = nori 50-85%']
+Bicaz: 21 \ marți \ 24:5:2022 \ 19:16:16
+[' Răsarit = 05:31:26 Apus = 20:53:59 Min (°C) = 5.8 Max (°C) =16.01 Presiune = 1012 Umiditate (%) = 75 Index UV = 0.48 Viteza vântului = 1.65 Unghiul vântului = 100 Stare = nori 85-100%']
+Bicaz: 21 \ miercuri \ 25:5:2022 \ 19:16:21
+[' Răsarit = 05:30:32 Apus = 20:55:05 Min (°C) = 8.08 Max (°C) =23.16 Presiune = 1013 Umiditate (%) = 57 Index UV = 0.57 Viteza vântului = 2.15 Unghiul vântului = 263 Stare = nori 85-100%']
+Bicaz: 21 \ joi \ 26:5:2022 \ 19:16:12
+[' Răsarit = 05:29:40 Apus = 20:56:10 Min (°C) = 11.11 Max (°C) =17.26 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.55 Viteza vântului = 0.72 Unghiul vântului = 252 Stare = nori 85-100%']
+Bicaz: 21 \ vineri \ 27:5:2022 \ 19:16:16
+[' Răsarit = 05:28:50 Apus = 20:57:14 Min (°C) = 8.72 Max (°C) =19.97 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.63 Viteza vântului = 5.49 Unghiul vântului = 263 Stare = nori 10-25%']
+Bicaz: 21 \ sâmbătă \ 28:5:2022 \ 19:17:17
+[' Răsarit = 05:28:03 Apus = 20:58:16 Min (°C) = 8.82 Max (°C) =16.83 Presiune = 1012 Umiditate (%) = 94 Index UV = 0.14 Viteza vântului = 1.8 Unghiul vântului = 248 Stare = nori 85-100%']
+Bicaz: 21 \ duminică \ 29:5:2022 \ 19:15:58
+[' Răsarit = 05:27:18 Apus = 20:59:16 Min (°C) = 7.44 Max (°C) =13.09 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.45 Viteza vântului = 1.9 Unghiul vântului = 97 Stare = nori 85-100%']
+Bicaz: 22 \ luni \ 30:5:2022 \ 19:16:48
+[' Răsarit = 05:26:35 Apus = 21:00:15 Min (°C) = 10.08 Max (°C) =20.95 Presiune = 1011 Umiditate (%) = 60 Index UV = 0.5 Viteza vântului = 1.2 Unghiul vântului = 271 Stare = nori 25-50%']
+Bicaz: 22 \ marți \ 31:5:2022 \ 19:16:44
+[' Răsarit = 05:25:54 Apus = 21:01:13 Min (°C) = 10.24 Max (°C) =21.86 Presiune = 1017 Umiditate (%) = 93 Index UV = 0.56 Viteza vântului = 1.93 Unghiul vântului = 45 Stare = nori 85-100%']
+Bicaz: 22 \ miercuri \ 01:6:2022 \ 19:16:14
+[' Răsarit = 05:25:16 Apus = 21:02:09 Min (°C) = 10.83 Max (°C) =24.32 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.56 Viteza vântului = 0.99 Unghiul vântului = 281 Stare = nori 50-85%']
+Bicaz: 22 \ joi \ 02:6:2022 \ 19:15:41
+[' Răsarit = 05:24:40 Apus = 21:03:03 Min (°C) = 12.03 Max (°C) =24.69 Presiune = 1016 Umiditate (%) = 61 Index UV = 0.61 Viteza vântului = 1.41 Unghiul vântului = 185 Stare = nori 50-85%']
+Bicaz: 22 \ vineri \ 03:6:2022 \ 19:16:01
+[' Răsarit = 05:24:06 Apus = 21:03:56 Min (°C) = 12.13 Max (°C) =20.8 Presiune = 1023 Umiditate (%) = 65 Index UV = 0.7 Viteza vântului = 1.97 Unghiul vântului = 85 Stare = nori 85-100%']
+Bicaz: 22 \ sâmbătă \ 04:6:2022 \ 19:16:33
+[' Răsarit = 05:23:35 Apus = 21:04:47 Min (°C) = 11.47 Max (°C) =23.21 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.24 Viteza vântului = 1.62 Unghiul vântului = 235 Stare = nori 85-100%']
+Bicaz: 22 \ duminică \ 05:6:2022 \ 19:15:43
+[' Răsarit = 05:23:06 Apus = 21:05:36 Min (°C) = 13.47 Max (°C) =18.86 Presiune = 1016 Umiditate (%) = 91 Index UV = 0.27 Viteza vântului = 1.13 Unghiul vântului = 41 Stare = nori 85-100%']
+Bicaz: 23 \ luni \ 06:6:2022 \ 19:16:36
+[' Răsarit = 05:22:39 Apus = 21:06:23 Min (°C) = 11.47 Max (°C) =18.62 Presiune = 1018 Umiditate (%) = 77 Index UV = 0.69 Viteza vântului = 2 Unghiul vântului = 64 Stare = nori 85-100%']
+Bicaz: 23 \ marți \ 07:6:2022 \ 19:15:33
+[' Răsarit = 05:22:15 Apus = 21:07:08 Min (°C) = 9.39 Max (°C) =21.16 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.75 Viteza vântului = 3.19 Unghiul vântului = 107 Stare = nori 25-50%']
+Bicaz: 23 \ miercuri \ 08:6:2022 \ 19:16:15
+[' Răsarit = 05:21:54 Apus = 21:07:51 Min (°C) = 10.59 Max (°C) =22.42 Presiune = 1011 Umiditate (%) = 55 Index UV = 0.74 Viteza vântului = 3.51 Unghiul vântului = 121 Stare = nori 50-85%']
+Bicaz: 23 \ joi \ 09:6:2022 \ 19:15:56
+[' Răsarit = 05:21:34 Apus = 21:08:33 Min (°C) = 11.65 Max (°C) =21.14 Presiune = 1010 Umiditate (%) = 66 Index UV = 0.47 Viteza vântului = 2.93 Unghiul vântului = 121 Stare = nori 85-100%']
+Bicaz: 23 \ vineri \ 10:6:2022 \ 19:15:59
+[' Răsarit = 05:21:18 Apus = 21:09:12 Min (°C) = 11.65 Max (°C) =16.59 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.09 Viteza vântului = 1.74 Unghiul vântului = 15 Stare = nori 85-100%']
+Bicaz: 23 \ sâmbătă \ 11:6:2022 \ 19:15:55
+[' Răsarit = 05:21:03 Apus = 21:09:49 Min (°C) = 12.56 Max (°C) =19.57 Presiune = 1014 Umiditate (%) = 91 Index UV = 0.59 Viteza vântului = 2.01 Unghiul vântului = 25 Stare = nori 85-100%']
+Bicaz: 23 \ duminică \ 12:6:2022 \ 19:15:49
+[' Răsarit = 05:20:52 Apus = 21:10:24 Min (°C) = 11.7 Max (°C) =19.26 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.46 Viteza vântului = 3.52 Unghiul vântului = 29 Stare = nori 10-25%']
+Bicaz: 24 \ luni \ 13:6:2022 \ 19:15:48
+[' Răsarit = 05:20:42 Apus = 21:10:57 Min (°C) = 12.05 Max (°C) =24.03 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.75 Viteza vântului = 0.88 Unghiul vântului = 132 Stare = nori 50-85%']
+Bicaz: 24 \ marți \ 14:6:2022 \ 19:15:24
+[' Răsarit = 05:20:36 Apus = 21:11:27 Min (°C) = 11.33 Max (°C) =17.34 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.6 Viteza vântului = 1.64 Unghiul vântului = 23 Stare = nori 85-100%']
+Bicaz: 24 \ miercuri \ 15:6:2022 \ 19:15:38
+[' Răsarit = 05:20:31 Apus = 21:11:56 Min (°C) = 9.8 Max (°C) =17.37 Presiune = 1021 Umiditate (%) = 82 Index UV = 0.23 Viteza vântului = 1.19 Unghiul vântului = 66 Stare = nori 85-100%']
+Bicaz: 24 \ joi \ 16:6:2022 \ 19:15:45
+[' Răsarit = 05:20:29 Apus = 21:12:22 Min (°C) = 9.99 Max (°C) =22.05 Presiune = 1019 Umiditate (%) = 67 Index UV = 0.14 Viteza vântului = 1.52 Unghiul vântului = 108 Stare = nori 85-100%']
+Bicaz: 24 \ vineri \ 17:6:2022 \ 19:16:08
+[' Răsarit = 05:20:30 Apus = 21:12:45 Min (°C) = 9.73 Max (°C) =21.74 Presiune = 1018 Umiditate (%) = 86 Index UV = 0.66 Viteza vântului = 2.13 Unghiul vântului = 12 Stare = nori 50-85%']
+Bicaz: 24 \ sâmbătă \ 18:6:2022 \ 19:15:53
+[' Răsarit = 05:20:33 Apus = 21:13:07 Min (°C) = 8.23 Max (°C) =17.76 Presiune = 1021 Umiditate (%) = 59 Index UV = 0.63 Viteza vântului = 1.27 Unghiul vântului = 43 Stare = nori 50-85%']
+Bicaz: 24 \ duminică \ 19:6:2022 \ 19:14:19
+[' Răsarit = 05:20:38 Apus = 21:13:26 Min (°C) = 9.53 Max (°C) =24.16 Presiune = 1017 Umiditate (%) = 48 Index UV = 0.77 Viteza vântului = 2.16 Unghiul vântului = 94 Stare = cer senin']
+Bicaz: 25 \ luni \ 20:6:2022 \ 19:15:16
+[' Răsarit = 05:20:46 Apus = 21:13:42 Min (°C) = 12.25 Max (°C) =27.49 Presiune = 1010 Umiditate (%) = 55 Index UV = 0.74 Viteza vântului = 1.23 Unghiul vântului = 124 Stare = nori 10-25%']
+Bicaz: 25 \ marți \ 21:6:2022 \ 19:16:03
+[' Răsarit = 05:20:57 Apus = 21:13:56 Min (°C) = 12.83 Max (°C) =26.32 Presiune = 1007 Umiditate (%) = 37 Index UV = 0.77 Viteza vântului = 4.87 Unghiul vântului = 286 Stare = cer senin']
+Bicaz: 25 \ miercuri \ 22:6:2022 \ 19:15:32
+[' Răsarit = 05:21:09 Apus = 21:14:08 Min (°C) = 8.01 Max (°C) =19.68 Presiune = 1009 Umiditate (%) = 51 Index UV = 0.37 Viteza vântului = 2.52 Unghiul vântului = 325 Stare = nori 50-85%']
+Bicaz: 25 \ joi \ 23:6:2022 \ 19:15:36
+[' Răsarit = 05:21:24 Apus = 21:14:17 Min (°C) = 9.28 Max (°C) =19.9 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.68 Viteza vântului = 2.76 Unghiul vântului = 12 Stare = nori 50-85%']
+Bicaz: 25 \ duminică \ 26:6:2022 \ 19:56:28
+[' Răsarit = 05:22:24 Apus = 21:14:30 Min (°C) = 12.72 Max (°C) =19.01 Presiune = 1018 Umiditate (%) = 89 Index UV = 0.21 Viteza vântului = 1.14 Unghiul vântului = 343 Stare = nori 25-50%']
+Bicaz: 26 \ luni \ 27:6:2022 \ 19:15:53
+[' Răsarit = 05:22:48 Apus = 21:14:29 Min (°C) = 11.57 Max (°C) =21.91 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.42 Viteza vântului = 1.65 Unghiul vântului = 29 Stare = nori 50-85%']
+Bicaz: 26 \ marți \ 28:6:2022 \ 19:16:13
+[' Răsarit = 05:23:14 Apus = 21:14:26 Min (°C) = 14.86 Max (°C) =27.9 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.59 Viteza vântului = 3.04 Unghiul vântului = 37 Stare = nori 25-50%']
+Bicaz: 26 \ miercuri \ 29:6:2022 \ 19:16:03
+[' Răsarit = 05:23:43 Apus = 21:14:20 Min (°C) = 14.3 Max (°C) =28.05 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.72 Viteza vântului = 1.38 Unghiul vântului = 97 Stare = nori 10-25%']
+Bicaz: 26 \ joi \ 30:6:2022 \ 19:16:47
+[' Răsarit = 05:24:14 Apus = 21:14:11 Min (°C) = 16.71 Max (°C) =30.53 Presiune = 1016 Umiditate (%) = 82 Index UV = 0.25 Viteza vântului = 1.98 Unghiul vântului = 257 Stare = ploaie ușoară']
+Bicaz: 26 \ vineri \ 01:7:2022 \ 19:16:14
+[' Răsarit = 05:24:47 Apus = 21:14:00 Min (°C) = 15.56 Max (°C) =28.44 Presiune = 1018 Umiditate (%) = 75 Index UV = 0.74 Viteza vântului = 1.48 Unghiul vântului = 250 Stare = nori 50-85%']
+Bicaz: 26 \ sâmbătă \ 02:7:2022 \ 19:16:04
+[' Răsarit = 05:25:22 Apus = 21:13:47 Min (°C) = 15.79 Max (°C) =28.22 Presiune = 1022 Umiditate (%) = 93 Index UV = 0.66 Viteza vântului = 1.8 Unghiul vântului = 298 Stare = nori 85-100%']

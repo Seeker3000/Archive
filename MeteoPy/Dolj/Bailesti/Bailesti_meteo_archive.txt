@@ -952,3 +952,83 @@ Bailesti: 20 \ vineri \ 20:5:2022 \ 19:09:42
 [' Răsarit = 05:55:49 Apus = 20:50:44 Min (°C) = 9.99 Max (°C) =26.48 Presiune = 1021 Umiditate (%) = 36 Index UV = 0.65 Viteza vântului = 2.51 Unghiul vântului = 224 Stare = nori 10-25%']
 Bailesti: 20 \ sâmbătă \ 21:5:2022 \ 19:11:11
 [' Răsarit = 05:54:54 Apus = 20:51:47 Min (°C) = 12.42 Max (°C) =30.36 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.67 Viteza vântului = 6.92 Unghiul vântului = 287 Stare = ploaie ușoară']
+Bailesti: 20 \ duminică \ 22:5:2022 \ 19:10:34
+[' Răsarit = 05:54:01 Apus = 20:52:49 Min (°C) = 17.81 Max (°C) =26.22 Presiune = 1009 Umiditate (%) = 34 Index UV = 0.64 Viteza vântului = 8.87 Unghiul vântului = 302 Stare = cer senin']
+Bailesti: 21 \ luni \ 23:5:2022 \ 19:10:19
+[' Răsarit = 05:53:10 Apus = 20:53:50 Min (°C) = 12.84 Max (°C) =26.07 Presiune = 1008 Umiditate (%) = 32 Index UV = 0.6 Viteza vântului = 5.57 Unghiul vântului = 299 Stare = nori 50-85%']
+Bailesti: 21 \ marți \ 24:5:2022 \ 19:10:18
+[' Răsarit = 05:52:21 Apus = 20:54:50 Min (°C) = 11.33 Max (°C) =25.41 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.68 Viteza vântului = 5.46 Unghiul vântului = 72 Stare = nori 85-100%']
+Bailesti: 21 \ miercuri \ 25:5:2022 \ 19:09:59
+[' Răsarit = 05:51:34 Apus = 20:55:50 Min (°C) = 13.51 Max (°C) =29.07 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.65 Viteza vântului = 2.11 Unghiul vântului = 83 Stare = nori 25-50%']
+Bailesti: 21 \ joi \ 26:5:2022 \ 19:10:03
+[' Răsarit = 05:50:49 Apus = 20:56:48 Min (°C) = 16.74 Max (°C) =28.09 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.68 Viteza vântului = 7.4 Unghiul vântului = 296 Stare = cer senin']
+Bailesti: 21 \ vineri \ 27:5:2022 \ 19:10:24
+[' Răsarit = 05:50:06 Apus = 20:57:45 Min (°C) = 14.62 Max (°C) =29.21 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.71 Viteza vântului = 0.44 Unghiul vântului = 52 Stare = ploaie ușoară']
+Bailesti: 21 \ sâmbătă \ 28:5:2022 \ 19:11:20
+[' Răsarit = 05:49:25 Apus = 20:58:40 Min (°C) = 17.1 Max (°C) =30.52 Presiune = 1010 Umiditate (%) = 77 Index UV = 0.57 Viteza vântului = 7.65 Unghiul vântului = 261 Stare = ploaie intensă']
+Bailesti: 21 \ duminică \ 29:5:2022 \ 19:10:07
+[' Răsarit = 05:48:45 Apus = 20:59:35 Min (°C) = 12 Max (°C) =21.07 Presiune = 1005 Umiditate (%) = 88 Index UV = 0.11 Viteza vântului = 4.9 Unghiul vântului = 25 Stare = ploaie moderată']
+Bailesti: 22 \ luni \ 30:5:2022 \ 19:10:52
+[' Răsarit = 05:48:08 Apus = 21:00:28 Min (°C) = 15.51 Max (°C) =26.21 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.74 Viteza vântului = 1.05 Unghiul vântului = 230 Stare = cer senin']
+Bailesti: 22 \ marți \ 31:5:2022 \ 19:10:15
+[' Răsarit = 05:47:33 Apus = 21:01:20 Min (°C) = 15.91 Max (°C) =28.24 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.54 Viteza vântului = 0.53 Unghiul vântului = 279 Stare = cer senin']
+Bailesti: 22 \ miercuri \ 01:6:2022 \ 19:10:19
+[' Răsarit = 05:47:01 Apus = 21:02:10 Min (°C) = 15.93 Max (°C) =30.01 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.77 Viteza vântului = 0.88 Unghiul vântului = 97 Stare = nori 50-85%']
+Bailesti: 22 \ joi \ 02:6:2022 \ 19:09:50
+[' Răsarit = 05:46:30 Apus = 21:02:59 Min (°C) = 18.01 Max (°C) =30.7 Presiune = 1014 Umiditate (%) = 48 Index UV = 0.21 Viteza vântului = 5.55 Unghiul vântului = 266 Stare = nori 10-25%']
+Bailesti: 22 \ vineri \ 03:6:2022 \ 19:10:08
+[' Răsarit = 05:46:01 Apus = 21:03:47 Min (°C) = 18.17 Max (°C) =30.36 Presiune = 1018 Umiditate (%) = 46 Index UV = 0.14 Viteza vântului = 3.03 Unghiul vântului = 111 Stare = nori 10-25%']
+Bailesti: 22 \ sâmbătă \ 04:6:2022 \ 19:10:29
+[' Răsarit = 05:45:35 Apus = 21:04:33 Min (°C) = 17.56 Max (°C) =30.46 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.83 Viteza vântului = 1.31 Unghiul vântului = 75 Stare = nori 10-25%']
+Bailesti: 22 \ duminică \ 05:6:2022 \ 19:09:52
+[' Răsarit = 05:45:10 Apus = 21:05:17 Min (°C) = 18.54 Max (°C) =33.24 Presiune = 1011 Umiditate (%) = 33 Index UV = 0.85 Viteza vântului = 6.3 Unghiul vântului = 320 Stare = nori 10-25%']
+Bailesti: 23 \ luni \ 06:6:2022 \ 19:10:34
+[' Răsarit = 05:44:48 Apus = 21:06:00 Min (°C) = 17.69 Max (°C) =25.59 Presiune = 1014 Umiditate (%) = 52 Index UV = 0.8 Viteza vântului = 3.37 Unghiul vântului = 117 Stare = nori 50-85%']
+Bailesti: 23 \ marți \ 07:6:2022 \ 19:09:42
+[' Răsarit = 05:44:28 Apus = 21:06:41 Min (°C) = 18.58 Max (°C) =26.61 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.79 Viteza vântului = 5.42 Unghiul vântului = 106 Stare = cer senin']
+Bailesti: 23 \ miercuri \ 08:6:2022 \ 19:10:23
+[' Răsarit = 05:44:10 Apus = 21:07:21 Min (°C) = 15.07 Max (°C) =26.75 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.56 Viteza vântului = 5.48 Unghiul vântului = 82 Stare = nori 25-50%']
+Bailesti: 23 \ joi \ 09:6:2022 \ 19:10:00
+[' Răsarit = 05:43:55 Apus = 21:07:59 Min (°C) = 15.54 Max (°C) =26.89 Presiune = 1005 Umiditate (%) = 46 Index UV = 0.71 Viteza vântului = 6.43 Unghiul vântului = 87 Stare = nori 50-85%']
+Bailesti: 23 \ vineri \ 10:6:2022 \ 19:10:06
+[' Răsarit = 05:43:41 Apus = 21:08:34 Min (°C) = 15.51 Max (°C) =26.5 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.2 Viteza vântului = 4.55 Unghiul vântului = 62 Stare = ploaie ușoară']
+Bailesti: 23 \ sâmbătă \ 11:6:2022 \ 19:09:58
+[' Răsarit = 05:43:30 Apus = 21:09:09 Min (°C) = 15.56 Max (°C) =23.2 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.25 Viteza vântului = 2.99 Unghiul vântului = 94 Stare = nori 85-100%']
+Bailesti: 23 \ duminică \ 12:6:2022 \ 19:09:53
+[' Răsarit = 05:43:21 Apus = 21:09:41 Min (°C) = 17.23 Max (°C) =26.29 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.73 Viteza vântului = 4.4 Unghiul vântului = 267 Stare = nori 85-100%']
+Bailesti: 24 \ luni \ 13:6:2022 \ 19:10:06
+[' Răsarit = 05:43:14 Apus = 21:10:11 Min (°C) = 16.78 Max (°C) =29.29 Presiune = 1011 Umiditate (%) = 43 Index UV = 0.56 Viteza vântului = 2.47 Unghiul vântului = 268 Stare = cer senin']
+Bailesti: 24 \ marți \ 14:6:2022 \ 19:09:42
+[' Răsarit = 05:43:10 Apus = 21:10:39 Min (°C) = 17.03 Max (°C) =27.6 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.84 Viteza vântului = 8.7 Unghiul vântului = 292 Stare = cer senin']
+Bailesti: 24 \ miercuri \ 15:6:2022 \ 19:09:47
+[' Răsarit = 05:43:07 Apus = 21:11:06 Min (°C) = 15.5 Max (°C) =22.31 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.83 Viteza vântului = 2.01 Unghiul vântului = 155 Stare = nori 50-85%']
+Bailesti: 24 \ joi \ 16:6:2022 \ 19:09:51
+[' Răsarit = 05:43:07 Apus = 21:11:30 Min (°C) = 15.14 Max (°C) =28.5 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.83 Viteza vântului = 1.38 Unghiul vântului = 124 Stare = nori 10-25%']
+Bailesti: 24 \ vineri \ 17:6:2022 \ 19:10:12
+[' Răsarit = 05:43:09 Apus = 21:11:52 Min (°C) = 16.1 Max (°C) =28.8 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.72 Viteza vântului = 3.41 Unghiul vântului = 257 Stare = nori 85-100%']
+Bailesti: 24 \ sâmbătă \ 18:6:2022 \ 19:09:53
+[' Răsarit = 05:43:13 Apus = 21:12:13 Min (°C) = 15.49 Max (°C) =26.92 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.81 Viteza vântului = 4.34 Unghiul vântului = 158 Stare = nori 50-85%']
+Bailesti: 24 \ duminică \ 19:6:2022 \ 19:09:03
+[' Răsarit = 05:43:20 Apus = 21:12:31 Min (°C) = 17.26 Max (°C) =28.92 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.86 Viteza vântului = 3.54 Unghiul vântului = 150 Stare = nori 10-25%']
+Bailesti: 25 \ luni \ 20:6:2022 \ 19:09:32
+[' Răsarit = 05:43:28 Apus = 21:12:47 Min (°C) = 16.08 Max (°C) =30.44 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.88 Viteza vântului = 2.51 Unghiul vântului = 211 Stare = ploaie ușoară']
+Bailesti: 25 \ marți \ 21:6:2022 \ 19:10:10
+[' Răsarit = 05:43:39 Apus = 21:13:01 Min (°C) = 17.69 Max (°C) =35.42 Presiune = 1008 Umiditate (%) = 27 Index UV = 0.9 Viteza vântului = 7.15 Unghiul vântului = 325 Stare = cer senin']
+Bailesti: 25 \ miercuri \ 22:6:2022 \ 19:09:48
+[' Răsarit = 05:43:51 Apus = 21:13:12 Min (°C) = 20 Max (°C) =31.61 Presiune = 1008 Umiditate (%) = 22 Index UV = 0.88 Viteza vântului = 7.85 Unghiul vântului = 302 Stare = nori 10-25%']
+Bailesti: 25 \ joi \ 23:6:2022 \ 19:09:48
+[' Răsarit = 05:44:06 Apus = 21:13:22 Min (°C) = 15.67 Max (°C) =22.32 Presiune = 1013 Umiditate (%) = 58 Index UV = 0.78 Viteza vântului = 2.17 Unghiul vântului = 240 Stare = nori 25-50%']
+Bailesti: 25 \ duminică \ 26:6:2022 \ 19:50:18
+[' Răsarit = 05:45:03 Apus = 21:13:37 Min (°C) = 17.98 Max (°C) =31.51 Presiune = 1016 Umiditate (%) = 78 Index UV = 0.24 Viteza vântului = 3.1 Unghiul vântului = 90 Stare = nori 50-85%']
+Bailesti: 26 \ luni \ 27:6:2022 \ 19:10:02
+[' Răsarit = 05:45:25 Apus = 21:13:38 Min (°C) = 16.52 Max (°C) =31.79 Presiune = 1015 Umiditate (%) = 33 Index UV = 0.57 Viteza vântului = 1.6 Unghiul vântului = 168 Stare = nori 50-85%']
+Bailesti: 26 \ marți \ 28:6:2022 \ 19:10:07
+[' Răsarit = 05:45:50 Apus = 21:13:36 Min (°C) = 19.8 Max (°C) =33.55 Presiune = 1016 Umiditate (%) = 59 Index UV = 0.56 Viteza vântului = 5.28 Unghiul vântului = 77 Stare = ploaie ușoară']
+Bailesti: 26 \ miercuri \ 29:6:2022 \ 19:10:07
+[' Răsarit = 05:46:17 Apus = 21:13:32 Min (°C) = 18.56 Max (°C) =34.68 Presiune = 1012 Umiditate (%) = 21 Index UV = 0.87 Viteza vântului = 4.31 Unghiul vântului = 110 Stare = cer senin']
+Bailesti: 26 \ joi \ 30:6:2022 \ 19:10:32
+[' Răsarit = 05:46:45 Apus = 21:13:26 Min (°C) = 20.01 Max (°C) =36.04 Presiune = 1010 Umiditate (%) = 20 Index UV = 0.79 Viteza vântului = 4.57 Unghiul vântului = 107 Stare = ploaie ușoară']
+Bailesti: 26 \ vineri \ 01:7:2022 \ 19:10:14
+[' Răsarit = 05:47:16 Apus = 21:13:18 Min (°C) = 20.67 Max (°C) =36.91 Presiune = 1012 Umiditate (%) = 33 Index UV = 0.87 Viteza vântului = 8.45 Unghiul vântului = 53 Stare = nori 10-25%']
+Bailesti: 26 \ sâmbătă \ 02:7:2022 \ 19:10:05
+[' Răsarit = 05:47:48 Apus = 21:13:08 Min (°C) = 21.44 Max (°C) =36.35 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.47 Viteza vântului = 8.22 Unghiul vântului = 1 Stare = ploaie moderată']

@@ -954,3 +954,83 @@ Baile_Olanesti: 20 \ vineri \ 20:5:2022 \ 19:22:06
 [' Răsarit = 05:48:29 Apus = 20:50:54 Min (°C) = 8.71 Max (°C) =23.65 Presiune = 1021 Umiditate (%) = 57 Index UV = 0.54 Viteza vântului = 1.6 Unghiul vântului = 215 Stare = nori 10-25%']
 Baile_Olanesti: 20 \ sâmbătă \ 21:5:2022 \ 19:24:38
 [' Răsarit = 05:47:31 Apus = 20:52:00 Min (°C) = 12.47 Max (°C) =26.94 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.68 Viteza vântului = 2.1 Unghiul vântului = 328 Stare = nori 25-50%']
+Baile_Olanesti: 20 \ duminică \ 22:5:2022 \ 19:23:58
+[' Răsarit = 05:46:36 Apus = 20:53:05 Min (°C) = 12.5 Max (°C) =23.38 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.54 Viteza vântului = 3.25 Unghiul vântului = 13 Stare = nori 50-85%']
+Baile_Olanesti: 21 \ luni \ 23:5:2022 \ 19:23:01
+[' Răsarit = 05:45:42 Apus = 20:54:09 Min (°C) = 10.08 Max (°C) =19.78 Presiune = 1009 Umiditate (%) = 53 Index UV = 0.67 Viteza vântului = 1.75 Unghiul vântului = 14 Stare = nori 85-100%']
+Baile_Olanesti: 21 \ marți \ 24:5:2022 \ 19:23:13
+[' Răsarit = 05:44:50 Apus = 20:55:12 Min (°C) = 10.67 Max (°C) =16.94 Presiune = 1013 Umiditate (%) = 80 Index UV = 0.53 Viteza vântului = 1.56 Unghiul vântului = 49 Stare = nori 85-100%']
+Baile_Olanesti: 21 \ miercuri \ 25:5:2022 \ 19:23:07
+[' Răsarit = 05:44:00 Apus = 20:56:13 Min (°C) = 10.19 Max (°C) =23.83 Presiune = 1014 Umiditate (%) = 63 Index UV = 0.7 Viteza vântului = 1.49 Unghiul vântului = 185 Stare = nori 50-85%']
+Baile_Olanesti: 21 \ joi \ 26:5:2022 \ 19:23:07
+[' Răsarit = 05:43:13 Apus = 20:57:14 Min (°C) = 14.44 Max (°C) =26.27 Presiune = 1018 Umiditate (%) = 53 Index UV = 0.65 Viteza vântului = 3.51 Unghiul vântului = 20 Stare = nori 10-25%']
+Baile_Olanesti: 21 \ vineri \ 27:5:2022 \ 19:23:30
+[' Răsarit = 05:42:27 Apus = 20:58:14 Min (°C) = 11.75 Max (°C) =23.6 Presiune = 1014 Umiditate (%) = 60 Index UV = 0.7 Viteza vântului = 1.29 Unghiul vântului = 222 Stare = nori 50-85%']
+Baile_Olanesti: 21 \ sâmbătă \ 28:5:2022 \ 19:24:30
+[' Răsarit = 05:41:43 Apus = 20:59:12 Min (°C) = 12.77 Max (°C) =25.25 Presiune = 1010 Umiditate (%) = 81 Index UV = 0.21 Viteza vântului = 4.4 Unghiul vântului = 359 Stare = nori 85-100%']
+Baile_Olanesti: 21 \ duminică \ 29:5:2022 \ 19:22:47
+[' Răsarit = 05:41:02 Apus = 21:00:09 Min (°C) = 10.94 Max (°C) =15.68 Presiune = 1009 Umiditate (%) = 97 Index UV = 0.1 Viteza vântului = 2 Unghiul vântului = 83 Stare = nori 85-100%']
+Baile_Olanesti: 22 \ luni \ 30:5:2022 \ 19:23:28
+[' Răsarit = 05:40:22 Apus = 21:01:04 Min (°C) = 13.33 Max (°C) =23.33 Presiune = 1012 Umiditate (%) = 85 Index UV = 0.59 Viteza vântului = 1.56 Unghiul vântului = 289 Stare = nori 25-50%']
+Baile_Olanesti: 22 \ marți \ 31:5:2022 \ 19:25:11
+[' Răsarit = 05:39:45 Apus = 21:01:58 Min (°C) = 13.06 Max (°C) =24.71 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.7 Viteza vântului = 1.39 Unghiul vântului = 339 Stare = nori 50-85%']
+Baile_Olanesti: 22 \ miercuri \ 01:6:2022 \ 19:23:14
+[' Răsarit = 05:39:10 Apus = 21:02:51 Min (°C) = 12.48 Max (°C) =25.22 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.56 Viteza vântului = 1.96 Unghiul vântului = 341 Stare = nori 85-100%']
+Baile_Olanesti: 22 \ joi \ 02:6:2022 \ 19:22:22
+[' Răsarit = 05:38:38 Apus = 21:03:42 Min (°C) = 14.25 Max (°C) =26.83 Presiune = 1016 Umiditate (%) = 80 Index UV = 0.79 Viteza vântului = 2.5 Unghiul vântului = 353 Stare = nori 50-85%']
+Baile_Olanesti: 22 \ vineri \ 03:6:2022 \ 19:22:53
+[' Răsarit = 05:38:07 Apus = 21:04:31 Min (°C) = 15.62 Max (°C) =25.29 Presiune = 1020 Umiditate (%) = 71 Index UV = 0.81 Viteza vântului = 1.05 Unghiul vântului = 30 Stare = nori 85-100%']
+Baile_Olanesti: 22 \ sâmbătă \ 04:6:2022 \ 19:23:25
+[' Răsarit = 05:37:39 Apus = 21:05:19 Min (°C) = 15.11 Max (°C) =22.87 Presiune = 1017 Umiditate (%) = 85 Index UV = 0.53 Viteza vântului = 0.56 Unghiul vântului = 214 Stare = nori 50-85%']
+Baile_Olanesti: 22 \ duminică \ 05:6:2022 \ 19:22:20
+[' Răsarit = 05:37:12 Apus = 21:06:05 Min (°C) = 15.48 Max (°C) =28.82 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.78 Viteza vântului = 2.09 Unghiul vântului = 21 Stare = nori 50-85%']
+Baile_Olanesti: 23 \ luni \ 06:6:2022 \ 19:23:43
+[' Răsarit = 05:36:49 Apus = 21:06:50 Min (°C) = 13.06 Max (°C) =22.89 Presiune = 1015 Umiditate (%) = 76 Index UV = 0.82 Viteza vântului = 2.46 Unghiul vântului = 165 Stare = cer senin']
+Baile_Olanesti: 23 \ marți \ 07:6:2022 \ 19:22:30
+[' Răsarit = 05:36:27 Apus = 21:07:33 Min (°C) = 12.98 Max (°C) =23.48 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.65 Viteza vântului = 0.22 Unghiul vântului = 187 Stare = nori 85-100%']
+Baile_Olanesti: 23 \ miercuri \ 08:6:2022 \ 19:22:55
+[' Răsarit = 05:36:08 Apus = 21:08:14 Min (°C) = 12.64 Max (°C) =22.41 Presiune = 1011 Umiditate (%) = 75 Index UV = 0.76 Viteza vântului = 0.71 Unghiul vântului = 10 Stare = nori 85-100%']
+Baile_Olanesti: 23 \ joi \ 09:6:2022 \ 19:22:38
+[' Răsarit = 05:35:51 Apus = 21:08:53 Min (°C) = 12.96 Max (°C) =21.89 Presiune = 1008 Umiditate (%) = 79 Index UV = 0.78 Viteza vântului = 1.45 Unghiul vântului = 105 Stare = nori 50-85%']
+Baile_Olanesti: 23 \ vineri \ 10:6:2022 \ 19:22:44
+[' Răsarit = 05:35:36 Apus = 21:09:30 Min (°C) = 12.76 Max (°C) =20.85 Presiune = 1011 Umiditate (%) = 89 Index UV = 0.52 Viteza vântului = 1.81 Unghiul vântului = 37 Stare = nori 50-85%']
+Baile_Olanesti: 23 \ sâmbătă \ 11:6:2022 \ 19:22:45
+[' Răsarit = 05:35:24 Apus = 21:10:05 Min (°C) = 12.15 Max (°C) =23.14 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.84 Viteza vântului = 0.74 Unghiul vântului = 161 Stare = nori 85-100%']
+Baile_Olanesti: 23 \ duminică \ 12:6:2022 \ 19:22:35
+[' Răsarit = 05:35:14 Apus = 21:10:38 Min (°C) = 14.07 Max (°C) =23.97 Presiune = 1013 Umiditate (%) = 88 Index UV = 0.51 Viteza vântului = 1.47 Unghiul vântului = 337 Stare = nori 85-100%']
+Baile_Olanesti: 24 \ luni \ 13:6:2022 \ 19:22:19
+[' Răsarit = 05:35:06 Apus = 21:11:10 Min (°C) = 13.79 Max (°C) =25.71 Presiune = 1013 Umiditate (%) = 84 Index UV = 0.18 Viteza vântului = 3.45 Unghiul vântului = 337 Stare = nori 50-85%']
+Baile_Olanesti: 24 \ marți \ 14:6:2022 \ 19:22:01
+[' Răsarit = 05:35:01 Apus = 21:11:39 Min (°C) = 13.68 Max (°C) =26.97 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.81 Viteza vântului = 3.32 Unghiul vântului = 28 Stare = nori 50-85%']
+Baile_Olanesti: 24 \ miercuri \ 15:6:2022 \ 19:22:19
+[' Răsarit = 05:34:57 Apus = 21:12:06 Min (°C) = 11.98 Max (°C) =20.47 Presiune = 1020 Umiditate (%) = 81 Index UV = 0.82 Viteza vântului = 1.3 Unghiul vântului = 209 Stare = nori 25-50%']
+Baile_Olanesti: 24 \ joi \ 16:6:2022 \ 19:22:31
+[' Răsarit = 05:34:56 Apus = 21:12:31 Min (°C) = 11.62 Max (°C) =23.18 Presiune = 1018 Umiditate (%) = 71 Index UV = 0.8 Viteza vântului = 0.77 Unghiul vântului = 346 Stare = nori 85-100%']
+Baile_Olanesti: 24 \ vineri \ 17:6:2022 \ 19:23:03
+[' Răsarit = 05:34:58 Apus = 21:12:54 Min (°C) = 13.92 Max (°C) =22.77 Presiune = 1017 Umiditate (%) = 72 Index UV = 0.6 Viteza vântului = 3.88 Unghiul vântului = 358 Stare = nori 85-100%']
+Baile_Olanesti: 24 \ sâmbătă \ 18:6:2022 \ 19:22:35
+[' Răsarit = 05:35:02 Apus = 21:13:14 Min (°C) = 12.65 Max (°C) =24.43 Presiune = 1019 Umiditate (%) = 68 Index UV = 0.83 Viteza vântului = 0.73 Unghiul vântului = 136 Stare = nori 50-85%']
+Baile_Olanesti: 24 \ duminică \ 19:6:2022 \ 19:21:39
+[' Răsarit = 05:35:08 Apus = 21:13:33 Min (°C) = 12.28 Max (°C) =25.32 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.63 Viteza vântului = 0.68 Unghiul vântului = 225 Stare = nori 25-50%']
+Baile_Olanesti: 25 \ luni \ 20:6:2022 \ 19:21:52
+[' Răsarit = 05:35:16 Apus = 21:13:49 Min (°C) = 13.97 Max (°C) =26.84 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.87 Viteza vântului = 1.86 Unghiul vântului = 228 Stare = nori 25-50%']
+Baile_Olanesti: 25 \ marți \ 21:6:2022 \ 19:22:56
+[' Răsarit = 05:35:26 Apus = 21:14:03 Min (°C) = 16.3 Max (°C) =31.05 Presiune = 1008 Umiditate (%) = 40 Index UV = 0.86 Viteza vântului = 2.87 Unghiul vântului = 294 Stare = cer senin']
+Baile_Olanesti: 25 \ miercuri \ 22:6:2022 \ 19:22:02
+[' Răsarit = 05:35:39 Apus = 21:14:15 Min (°C) = 10.75 Max (°C) =25.4 Presiune = 1009 Umiditate (%) = 38 Index UV = 0.81 Viteza vântului = 3.14 Unghiul vântului = 2 Stare = nori 25-50%']
+Baile_Olanesti: 25 \ joi \ 23:6:2022 \ 19:22:18
+[' Răsarit = 05:35:54 Apus = 21:14:24 Min (°C) = 13.43 Max (°C) =23.13 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.73 Viteza vântului = 2.42 Unghiul vântului = 344 Stare = nori 25-50%']
+Baile_Olanesti: 25 \ duminică \ 26:6:2022 \ 20:04:23
+[' Răsarit = 05:36:51 Apus = 21:14:38 Min (°C) = 16.08 Max (°C) =22.52 Presiune = 1017 Umiditate (%) = 73 Index UV = 0.23 Viteza vântului = 0.62 Unghiul vântului = 197 Stare = nori 25-50%']
+Baile_Olanesti: 26 \ luni \ 27:6:2022 \ 19:22:33
+[' Răsarit = 05:37:15 Apus = 21:14:38 Min (°C) = 13.6 Max (°C) =28.29 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.82 Viteza vântului = 0.82 Unghiul vântului = 84 Stare = nori 50-85%']
+Baile_Olanesti: 26 \ marți \ 28:6:2022 \ 19:23:23
+[' Răsarit = 05:37:40 Apus = 21:14:36 Min (°C) = 16.25 Max (°C) =28.75 Presiune = 1018 Umiditate (%) = 64 Index UV = 0.87 Viteza vântului = 0.82 Unghiul vântului = 23 Stare = nori 85-100%']
+Baile_Olanesti: 26 \ miercuri \ 29:6:2022 \ 19:22:54
+[' Răsarit = 05:38:08 Apus = 21:14:32 Min (°C) = 16.77 Max (°C) =30.55 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.56 Viteza vântului = 0.39 Unghiul vântului = 253 Stare = cer senin']
+Baile_Olanesti: 26 \ joi \ 30:6:2022 \ 19:24:08
+[' Răsarit = 05:38:37 Apus = 21:14:25 Min (°C) = 18.53 Max (°C) =31.71 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.45 Viteza vântului = 1.62 Unghiul vântului = 325 Stare = cer senin']
+Baile_Olanesti: 26 \ vineri \ 01:7:2022 \ 19:23:38
+[' Răsarit = 05:39:09 Apus = 21:14:15 Min (°C) = 18.44 Max (°C) =32.18 Presiune = 1015 Umiditate (%) = 70 Index UV = 0.68 Viteza vântului = 1.67 Unghiul vântului = 348 Stare = nori 50-85%']
+Baile_Olanesti: 26 \ sâmbătă \ 02:7:2022 \ 19:22:55
+[' Răsarit = 05:39:42 Apus = 21:14:04 Min (°C) = 18.36 Max (°C) =31.06 Presiune = 1017 Umiditate (%) = 62 Index UV = 0.72 Viteza vântului = 2.7 Unghiul vântului = 230 Stare = nori 25-50%']

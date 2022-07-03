@@ -954,3 +954,83 @@ Ardud: 20 \ vineri \ 20:5:2022 \ 19:17:27
 [' Răsarit = 05:45:32 Apus = 21:04:42 Min (°C) = 9.53 Max (°C) =23.88 Presiune = 1020 Umiditate (%) = 35 Index UV = 0.71 Viteza vântului = 3.13 Unghiul vântului = 240 Stare = cer senin']
 Ardud: 20 \ sâmbătă \ 21:5:2022 \ 19:19:48
 [' Răsarit = 05:44:28 Apus = 21:05:55 Min (°C) = 13.42 Max (°C) =24.94 Presiune = 1010 Umiditate (%) = 53 Index UV = 0.69 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Ardud: 20 \ duminică \ 22:5:2022 \ 19:19:00
+[' Răsarit = 05:43:26 Apus = 21:07:06 Min (°C) = 12.96 Max (°C) =19.94 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.3 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 10-25%']
+Ardud: 21 \ luni \ 23:5:2022 \ 19:18:19
+[' Răsarit = 05:42:26 Apus = 21:08:17 Min (°C) = 7.84 Max (°C) =19.94 Presiune = 1011 Umiditate (%) = 40 Index UV = 0.69 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Ardud: 21 \ marți \ 24:5:2022 \ 19:18:18
+[' Răsarit = 05:41:28 Apus = 21:09:26 Min (°C) = 8.51 Max (°C) =23.94 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.48 Viteza vântului = 1.54 Unghiul vântului = 140 Stare = cer senin']
+Ardud: 21 \ miercuri \ 25:5:2022 \ 19:18:21
+[' Răsarit = 05:40:32 Apus = 21:10:34 Min (°C) = 11.86 Max (°C) =27.05 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.63 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = cer senin']
+Ardud: 21 \ joi \ 26:5:2022 \ 19:18:18
+[' Răsarit = 05:39:38 Apus = 21:11:40 Min (°C) = 12.15 Max (°C) =24.94 Presiune = 1018 Umiditate (%) = 31 Index UV = 0.64 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = cer senin']
+Ardud: 21 \ vineri \ 27:5:2022 \ 19:18:17
+[' Răsarit = 05:38:47 Apus = 21:12:45 Min (°C) = 12.22 Max (°C) =26.94 Presiune = 1012 Umiditate (%) = 36 Index UV = 0.76 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = cer senin']
+Ardud: 21 \ sâmbătă \ 28:5:2022 \ 19:19:28
+[' Răsarit = 05:37:58 Apus = 21:13:49 Min (°C) = 11.35 Max (°C) =20.11 Presiune = 1012 Umiditate (%) = 55 Index UV = 0.63 Viteza vântului = 5.81 Unghiul vântului = 230 Stare = cer senin']
+Ardud: 21 \ duminică \ 29:5:2022 \ 19:17:56
+[' Răsarit = 05:37:11 Apus = 21:14:51 Min (°C) = 7.5 Max (°C) =17.38 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.08 Viteza vântului = 4.63 Unghiul vântului = 60 Stare = nori 85-100%']
+Ardud: 22 \ luni \ 30:5:2022 \ 19:18:48
+[' Răsarit = 05:36:26 Apus = 21:15:52 Min (°C) = 10.78 Max (°C) =19.94 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.21 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']
+Ardud: 22 \ marți \ 31:5:2022 \ 19:20:24
+[' Răsarit = 05:35:44 Apus = 21:16:51 Min (°C) = 12.81 Max (°C) =22.83 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.45 Viteza vântului = 2.68 Unghiul vântului = 250 Stare = cer senin']
+Ardud: 22 \ miercuri \ 01:6:2022 \ 19:18:13
+[' Răsarit = 05:35:04 Apus = 21:17:49 Min (°C) = 13.39 Max (°C) =26.94 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.81 Viteza vântului = 4.12 Unghiul vântului = 250 Stare = cer senin']
+Ardud: 22 \ joi \ 02:6:2022 \ 19:17:39
+[' Răsarit = 05:34:27 Apus = 21:18:44 Min (°C) = 14.93 Max (°C) =27.14 Presiune = 1016 Umiditate (%) = 39 Index UV = 0.73 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = cer senin']
+Ardud: 22 \ vineri \ 03:6:2022 \ 19:18:06
+[' Răsarit = 05:33:52 Apus = 21:19:38 Min (°C) = 15.44 Max (°C) =28.88 Presiune = 1019 Umiditate (%) = 37 Index UV = 0.91 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = cer senin']
+Ardud: 22 \ sâmbătă \ 04:6:2022 \ 19:18:39
+[' Răsarit = 05:33:19 Apus = 21:20:31 Min (°C) = 16.82 Max (°C) =23.88 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.39 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Ardud: 22 \ duminică \ 05:6:2022 \ 19:17:40
+[' Răsarit = 05:32:49 Apus = 21:21:21 Min (°C) = 14.53 Max (°C) =25.36 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.74 Viteza vântului = 6.71 Unghiul vântului = 30 Stare = cer senin']
+Ardud: 23 \ luni \ 06:6:2022 \ 19:18:43
+[' Răsarit = 05:32:21 Apus = 21:22:09 Min (°C) = 11.65 Max (°C) =27.05 Presiune = 1014 Umiditate (%) = 34 Index UV = 0.93 Viteza vântului = 4.63 Unghiul vântului = 150 Stare = cer senin']
+Ardud: 23 \ marți \ 07:6:2022 \ 19:17:36
+[' Răsarit = 05:31:56 Apus = 21:22:56 Min (°C) = 15.26 Max (°C) =28.94 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.9 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Ardud: 23 \ miercuri \ 08:6:2022 \ 19:18:14
+[' Răsarit = 05:31:33 Apus = 21:23:40 Min (°C) = 15.29 Max (°C) =28.88 Presiune = 1007 Umiditate (%) = 34 Index UV = 0.91 Viteza vântului = 3.13 Unghiul vântului = 170 Stare = cer senin']
+Ardud: 23 \ joi \ 09:6:2022 \ 19:17:56
+[' Răsarit = 05:31:13 Apus = 21:24:22 Min (°C) = 15.38 Max (°C) =28.94 Presiune = 1006 Umiditate (%) = 34 Index UV = 0.91 Viteza vântului = 5.66 Unghiul vântului = 160 Stare = cer senin']
+Ardud: 23 \ vineri \ 10:6:2022 \ 19:18:00
+[' Răsarit = 05:30:56 Apus = 21:25:02 Min (°C) = 15.25 Max (°C) =28.6 Presiune = 1013 Umiditate (%) = 77 Index UV = 0.3 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = cer senin']
+Ardud: 23 \ sâmbătă \ 11:6:2022 \ 19:18:00
+[' Răsarit = 05:30:40 Apus = 21:25:40 Min (°C) = 14.42 Max (°C) =26.19 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.91 Viteza vântului = 6.71 Unghiul vântului = 20 Stare = cer senin']
+Ardud: 23 \ duminică \ 12:6:2022 \ 19:17:52
+[' Răsarit = 05:30:28 Apus = 21:26:16 Min (°C) = 14.31 Max (°C) =27.98 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.92 Viteza vântului = 5.81 Unghiul vântului = 50 Stare = nori 10-25%']
+Ardud: 24 \ luni \ 13:6:2022 \ 19:17:45
+[' Răsarit = 05:30:18 Apus = 21:26:49 Min (°C) = 14.89 Max (°C) =28.88 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.96 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = cer senin']
+Ardud: 24 \ marți \ 14:6:2022 \ 19:17:25
+[' Răsarit = 05:30:10 Apus = 21:27:21 Min (°C) = 12.63 Max (°C) =23.18 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.75 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = cer senin']
+Ardud: 24 \ miercuri \ 15:6:2022 \ 19:17:38
+[' Răsarit = 05:30:06 Apus = 21:27:49 Min (°C) = 12.79 Max (°C) =24.11 Presiune = 1020 Umiditate (%) = 31 Index UV = 0.87 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = cer senin']
+Ardud: 24 \ joi \ 16:6:2022 \ 19:17:46
+[' Răsarit = 05:30:03 Apus = 21:28:16 Min (°C) = 12.22 Max (°C) =27.14 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.86 Viteza vântului = 2.68 Unghiul vântului = 270 Stare = cer senin']
+Ardud: 24 \ vineri \ 17:6:2022 \ 19:18:09
+[' Răsarit = 05:30:03 Apus = 21:28:40 Min (°C) = 15.63 Max (°C) =26.23 Presiune = 1017 Umiditate (%) = 43 Index UV = 0.86 Viteza vântului = 8.94 Unghiul vântului = 20 Stare = nori 10-25%']
+Ardud: 24 \ sâmbătă \ 18:6:2022 \ 19:17:53
+[' Răsarit = 05:30:06 Apus = 21:29:02 Min (°C) = 11.15 Max (°C) =27.83 Presiune = 1019 Umiditate (%) = 30 Index UV = 0.94 Viteza vântului = 2.24 Unghiul vântului = 0 Stare = cer senin']
+Ardud: 24 \ duminică \ 19:6:2022 \ 19:16:29
+[' Răsarit = 05:30:11 Apus = 21:29:21 Min (°C) = 14.1 Max (°C) =30.99 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.93 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Ardud: 25 \ luni \ 20:6:2022 \ 19:17:15
+[' Răsarit = 05:30:19 Apus = 21:29:37 Min (°C) = 16.07 Max (°C) =32.13 Presiune = 1008 Umiditate (%) = 31 Index UV = 0.97 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Ardud: 25 \ marți \ 21:6:2022 \ 19:18:04
+[' Răsarit = 05:30:30 Apus = 21:29:52 Min (°C) = 17.69 Max (°C) =25.44 Presiune = 1009 Umiditate (%) = 31 Index UV = 0.92 Viteza vântului = 8.94 Unghiul vântului = 350 Stare = cer senin']
+Ardud: 25 \ miercuri \ 22:6:2022 \ 19:17:28
+[' Răsarit = 05:30:42 Apus = 21:30:03 Min (°C) = 10.06 Max (°C) =26.24 Presiune = 1011 Umiditate (%) = 27 Index UV = 0.92 Viteza vântului = 5.81 Unghiul vântului = 360 Stare = cer senin']
+Ardud: 25 \ joi \ 23:6:2022 \ 19:17:36
+[' Răsarit = 05:30:57 Apus = 21:30:12 Min (°C) = 12.97 Max (°C) =27.62 Presiune = 1013 Umiditate (%) = 28 Index UV = 0.83 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = cer senin']
+Ardud: 25 \ duminică \ 26:6:2022 \ 19:58:47
+[' Răsarit = 05:31:58 Apus = 21:30:24 Min (°C) = 15.58 Max (°C) =31.74 Presiune = 1016 Umiditate (%) = 47 Index UV = 0.12 Viteza vântului = 6.17 Unghiul vântului = 140 Stare = ploaie torențială \n de intensitate mică']
+Ardud: 26 \ luni \ 27:6:2022 \ 19:17:52
+[' Răsarit = 05:32:22 Apus = 21:30:23 Min (°C) = 15.43 Max (°C) =32.23 Presiune = 1017 Umiditate (%) = 29 Index UV = 0.94 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Ardud: 26 \ marți \ 28:6:2022 \ 19:18:17
+[' Răsarit = 05:32:49 Apus = 21:30:19 Min (°C) = 18.19 Max (°C) =33.88 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.66 Viteza vântului = 2.24 Unghiul vântului = 300 Stare = cer senin']
+Ardud: 26 \ miercuri \ 29:6:2022 \ 19:18:06
+[' Răsarit = 05:33:19 Apus = 21:30:12 Min (°C) = 20.42 Max (°C) =35.9 Presiune = 1012 Umiditate (%) = 21 Index UV = 0.96 Viteza vântului = 2.68 Unghiul vântului = 170 Stare = cer senin']
+Ardud: 26 \ joi \ 30:6:2022 \ 19:19:07
+[' Răsarit = 05:33:50 Apus = 21:30:03 Min (°C) = 19.78 Max (°C) =37.55 Presiune = 1011 Umiditate (%) = 23 Index UV = 0.93 Viteza vântului = 2.06 Unghiul vântului = 0 Stare = cer senin']
+Ardud: 26 \ vineri \ 01:7:2022 \ 19:18:26
+[' Răsarit = 05:34:24 Apus = 21:29:52 Min (°C) = 21.53 Max (°C) =38.2 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.58 Viteza vântului = 5.14 Unghiul vântului = 260 Stare = nori 10-25%']
+Ardud: 26 \ sâmbătă \ 02:7:2022 \ 19:18:05
+[' Răsarit = 05:35:00 Apus = 21:29:38 Min (°C) = 20.95 Max (°C) =34.87 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.92 Viteza vântului = 5.81 Unghiul vântului = 330 Stare = cer senin']

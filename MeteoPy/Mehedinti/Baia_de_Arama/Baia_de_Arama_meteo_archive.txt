@@ -952,3 +952,83 @@ Baia_de_Arama: 20 \ vineri \ 20:5:2022 \ 19:14:21
 [' Răsarit = 05:54:53 Apus = 20:55:59 Min (°C) = 10.74 Max (°C) =24.94 Presiune = 1021 Umiditate (%) = 56 Index UV = 0.69 Viteza vântului = 1.49 Unghiul vântului = 174 Stare = nori 25-50%']
 Baia_de_Arama: 20 \ sâmbătă \ 21:5:2022 \ 19:16:33
 [' Răsarit = 05:53:55 Apus = 20:57:04 Min (°C) = 14.16 Max (°C) =29.13 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.72 Viteza vântului = 4.17 Unghiul vântului = 288 Stare = nori 50-85%']
+Baia_de_Arama: 20 \ duminică \ 22:5:2022 \ 19:15:37
+[' Răsarit = 05:53:00 Apus = 20:58:09 Min (°C) = 13.7 Max (°C) =22.62 Presiune = 1009 Umiditate (%) = 47 Index UV = 0.68 Viteza vântului = 4.08 Unghiul vântului = 292 Stare = nori 10-25%']
+Baia_de_Arama: 21 \ luni \ 23:5:2022 \ 19:15:07
+[' Răsarit = 05:52:07 Apus = 20:59:12 Min (°C) = 10.72 Max (°C) =23.47 Presiune = 1008 Umiditate (%) = 52 Index UV = 0.67 Viteza vântului = 1.21 Unghiul vântului = 285 Stare = nori 85-100%']
+Baia_de_Arama: 21 \ marți \ 24:5:2022 \ 19:15:03
+[' Răsarit = 05:51:16 Apus = 21:00:15 Min (°C) = 11.45 Max (°C) =21.13 Presiune = 1012 Umiditate (%) = 58 Index UV = 0.72 Viteza vântului = 1.49 Unghiul vântului = 70 Stare = nori 50-85%']
+Baia_de_Arama: 21 \ miercuri \ 25:5:2022 \ 19:15:09
+[' Răsarit = 05:50:26 Apus = 21:01:16 Min (°C) = 12.31 Max (°C) =25.28 Presiune = 1013 Umiditate (%) = 62 Index UV = 0.75 Viteza vântului = 1.15 Unghiul vântului = 83 Stare = nori 85-100%']
+Baia_de_Arama: 21 \ joi \ 26:5:2022 \ 19:14:58
+[' Răsarit = 05:49:39 Apus = 21:02:16 Min (°C) = 15.56 Max (°C) =25.29 Presiune = 1018 Umiditate (%) = 48 Index UV = 0.69 Viteza vântului = 3.48 Unghiul vântului = 281 Stare = nori 10-25%']
+Baia_de_Arama: 21 \ vineri \ 27:5:2022 \ 19:15:03
+[' Răsarit = 05:48:54 Apus = 21:03:15 Min (°C) = 12.86 Max (°C) =26.55 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.75 Viteza vântului = 0.63 Unghiul vântului = 269 Stare = nori 10-25%']
+Baia_de_Arama: 21 \ sâmbătă \ 28:5:2022 \ 19:16:04
+[' Răsarit = 05:48:11 Apus = 21:04:13 Min (°C) = 16.01 Max (°C) =26.65 Presiune = 1009 Umiditate (%) = 66 Index UV = 0.55 Viteza vântului = 2.5 Unghiul vântului = 321 Stare = nori 50-85%']
+Baia_de_Arama: 21 \ duminică \ 29:5:2022 \ 19:14:47
+[' Răsarit = 05:47:30 Apus = 21:05:09 Min (°C) = 11.23 Max (°C) =16.47 Presiune = 1008 Umiditate (%) = 98 Index UV = 0.08 Viteza vântului = 2.86 Unghiul vântului = 70 Stare = ploaie intensă']
+Baia_de_Arama: 22 \ luni \ 30:5:2022 \ 19:15:37
+[' Răsarit = 05:46:51 Apus = 21:06:04 Min (°C) = 14.01 Max (°C) =25.21 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.8 Viteza vântului = 1.09 Unghiul vântului = 335 Stare = nori 25-50%']
+Baia_de_Arama: 22 \ marți \ 31:5:2022 \ 19:15:27
+[' Răsarit = 05:46:14 Apus = 21:06:58 Min (°C) = 14.68 Max (°C) =25.94 Presiune = 1014 Umiditate (%) = 67 Index UV = 0.78 Viteza vântului = 1.6 Unghiul vântului = 24 Stare = nori 50-85%']
+Baia_de_Arama: 22 \ miercuri \ 01:6:2022 \ 19:15:03
+[' Răsarit = 05:45:39 Apus = 21:07:50 Min (°C) = 13.9 Max (°C) =26.4 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.65 Viteza vântului = 0.59 Unghiul vântului = 275 Stare = nori 85-100%']
+Baia_de_Arama: 22 \ joi \ 02:6:2022 \ 19:14:30
+[' Răsarit = 05:45:07 Apus = 21:08:41 Min (°C) = 15.91 Max (°C) =29.12 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.74 Viteza vântului = 1.03 Unghiul vântului = 93 Stare = nori 50-85%']
+Baia_de_Arama: 22 \ vineri \ 03:6:2022 \ 19:14:50
+[' Răsarit = 05:44:37 Apus = 21:09:30 Min (°C) = 17.2 Max (°C) =28.1 Presiune = 1020 Umiditate (%) = 85 Index UV = 0.15 Viteza vântului = 1.86 Unghiul vântului = 323 Stare = nori 50-85%']
+Baia_de_Arama: 22 \ sâmbătă \ 04:6:2022 \ 19:15:20
+[' Răsarit = 05:44:09 Apus = 21:10:18 Min (°C) = 16.89 Max (°C) =24.64 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.66 Viteza vântului = 1.5 Unghiul vântului = 357 Stare = nori 50-85%']
+Baia_de_Arama: 22 \ duminică \ 05:6:2022 \ 19:14:32
+[' Răsarit = 05:43:43 Apus = 21:11:04 Min (°C) = 16.59 Max (°C) =30.1 Presiune = 1012 Umiditate (%) = 52 Index UV = 0.93 Viteza vântului = 2.97 Unghiul vântului = 286 Stare = nori 10-25%']
+Baia_de_Arama: 23 \ luni \ 06:6:2022 \ 19:15:21
+[' Răsarit = 05:43:19 Apus = 21:11:48 Min (°C) = 16.14 Max (°C) =24.34 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.68 Viteza vântului = 1.64 Unghiul vântului = 144 Stare = nori 25-50%']
+Baia_de_Arama: 23 \ marți \ 07:6:2022 \ 19:14:20
+[' Răsarit = 05:42:58 Apus = 21:12:30 Min (°C) = 15.01 Max (°C) =24.42 Presiune = 1012 Umiditate (%) = 64 Index UV = 0.55 Viteza vântului = 1.12 Unghiul vântului = 67 Stare = nori 85-100%']
+Baia_de_Arama: 23 \ miercuri \ 08:6:2022 \ 19:15:05
+[' Răsarit = 05:42:39 Apus = 21:13:11 Min (°C) = 14.39 Max (°C) =24.01 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.8 Viteza vântului = 1.57 Unghiul vântului = 94 Stare = nori 85-100%']
+Baia_de_Arama: 23 \ joi \ 09:6:2022 \ 19:14:45
+[' Răsarit = 05:42:22 Apus = 21:13:50 Min (°C) = 14.67 Max (°C) =22.57 Presiune = 1007 Umiditate (%) = 82 Index UV = 0.85 Viteza vântului = 2.63 Unghiul vântului = 38 Stare = nori 50-85%']
+Baia_de_Arama: 23 \ vineri \ 10:6:2022 \ 19:14:48
+[' Răsarit = 05:42:08 Apus = 21:14:27 Min (°C) = 14.86 Max (°C) =21.39 Presiune = 1011 Umiditate (%) = 87 Index UV = 0.87 Viteza vântului = 1.78 Unghiul vântului = 81 Stare = nori 25-50%']
+Baia_de_Arama: 23 \ sâmbătă \ 11:6:2022 \ 19:14:45
+[' Răsarit = 05:41:56 Apus = 21:15:02 Min (°C) = 13.82 Max (°C) =23.91 Presiune = 1013 Umiditate (%) = 86 Index UV = 0.88 Viteza vântului = 1.31 Unghiul vântului = 115 Stare = ploaie ușoară']
+Baia_de_Arama: 23 \ duminică \ 12:6:2022 \ 19:14:36
+[' Răsarit = 05:41:46 Apus = 21:15:35 Min (°C) = 14.74 Max (°C) =24.74 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.78 Viteza vântului = 0.92 Unghiul vântului = 142 Stare = ploaie ușoară']
+Baia_de_Arama: 24 \ luni \ 13:6:2022 \ 19:14:39
+[' Răsarit = 05:41:38 Apus = 21:16:06 Min (°C) = 15.38 Max (°C) =27.55 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.84 Viteza vântului = 1.38 Unghiul vântului = 18 Stare = nori 85-100%']
+Baia_de_Arama: 24 \ marți \ 14:6:2022 \ 19:14:15
+[' Răsarit = 05:41:33 Apus = 21:16:35 Min (°C) = 15.54 Max (°C) =27.13 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.89 Viteza vântului = 3.22 Unghiul vântului = 305 Stare = nori 10-25%']
+Baia_de_Arama: 24 \ miercuri \ 15:6:2022 \ 19:14:28
+[' Răsarit = 05:41:30 Apus = 21:17:02 Min (°C) = 15.61 Max (°C) =22.55 Presiune = 1020 Umiditate (%) = 72 Index UV = 0.84 Viteza vântului = 1.81 Unghiul vântului = 173 Stare = nori 25-50%']
+Baia_de_Arama: 24 \ joi \ 16:6:2022 \ 19:14:33
+[' Răsarit = 05:41:29 Apus = 21:17:27 Min (°C) = 13.23 Max (°C) =25.68 Presiune = 1017 Umiditate (%) = 50 Index UV = 0.67 Viteza vântului = 1.86 Unghiul vântului = 157 Stare = nori 25-50%']
+Baia_de_Arama: 24 \ vineri \ 17:6:2022 \ 19:14:57
+[' Răsarit = 05:41:31 Apus = 21:17:49 Min (°C) = 15.48 Max (°C) =26.17 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.83 Viteza vântului = 2.55 Unghiul vântului = 321 Stare = nori 85-100%']
+Baia_de_Arama: 24 \ sâmbătă \ 18:6:2022 \ 19:14:42
+[' Răsarit = 05:41:35 Apus = 21:18:10 Min (°C) = 14.67 Max (°C) =25.63 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.57 Viteza vântului = 0.24 Unghiul vântului = 356 Stare = nori 50-85%']
+Baia_de_Arama: 24 \ duminică \ 19:6:2022 \ 19:13:14
+[' Răsarit = 05:41:41 Apus = 21:18:28 Min (°C) = 14.69 Max (°C) =26.59 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.78 Viteza vântului = 0.45 Unghiul vântului = 168 Stare = nori 50-85%']
+Baia_de_Arama: 25 \ luni \ 20:6:2022 \ 19:14:05
+[' Răsarit = 05:41:49 Apus = 21:18:44 Min (°C) = 15.85 Max (°C) =28.85 Presiune = 1010 Umiditate (%) = 45 Index UV = 0.71 Viteza vântului = 2.62 Unghiul vântului = 197 Stare = nori 25-50%']
+Baia_de_Arama: 25 \ marți \ 21:6:2022 \ 19:14:52
+[' Răsarit = 05:41:59 Apus = 21:18:58 Min (°C) = 17.81 Max (°C) =30.89 Presiune = 1009 Umiditate (%) = 41 Index UV = 0.97 Viteza vântului = 5.03 Unghiul vântului = 300 Stare = cer senin']
+Baia_de_Arama: 25 \ miercuri \ 22:6:2022 \ 19:14:22
+[' Răsarit = 05:42:12 Apus = 21:19:10 Min (°C) = 13.23 Max (°C) =28.07 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.94 Viteza vântului = 4.09 Unghiul vântului = 287 Stare = nori 10-25%']
+Baia_de_Arama: 25 \ joi \ 23:6:2022 \ 19:14:27
+[' Răsarit = 05:42:27 Apus = 21:19:19 Min (°C) = 13.58 Max (°C) =24.11 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.64 Viteza vântului = 1.77 Unghiul vântului = 221 Stare = nori 50-85%']
+Baia_de_Arama: 25 \ duminică \ 26:6:2022 \ 19:55:14
+[' Răsarit = 05:43:24 Apus = 21:19:34 Min (°C) = 16.7 Max (°C) =27.09 Presiune = 1016 Umiditate (%) = 75 Index UV = 0.27 Viteza vântului = 1.43 Unghiul vântului = 121 Stare = nori 50-85%']
+Baia_de_Arama: 26 \ luni \ 27:6:2022 \ 19:14:43
+[' Răsarit = 05:43:48 Apus = 21:19:34 Min (°C) = 15.37 Max (°C) =29.81 Presiune = 1015 Umiditate (%) = 40 Index UV = 0.76 Viteza vântului = 1 Unghiul vântului = 218 Stare = nori 25-50%']
+Baia_de_Arama: 26 \ marți \ 28:6:2022 \ 19:14:58
+[' Răsarit = 05:44:13 Apus = 21:19:32 Min (°C) = 18.53 Max (°C) =29.45 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.52 Viteza vântului = 1.22 Unghiul vântului = 109 Stare = nori 50-85%']
+Baia_de_Arama: 26 \ miercuri \ 29:6:2022 \ 19:14:51
+[' Răsarit = 05:44:40 Apus = 21:19:28 Min (°C) = 18.74 Max (°C) =31.74 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.94 Viteza vântului = 2.17 Unghiul vântului = 71 Stare = nori 25-50%']
+Baia_de_Arama: 26 \ joi \ 30:6:2022 \ 19:15:32
+[' Răsarit = 05:45:10 Apus = 21:19:21 Min (°C) = 19.82 Max (°C) =32.93 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.91 Viteza vântului = 1.84 Unghiul vântului = 4 Stare = cer senin']
+Baia_de_Arama: 26 \ vineri \ 01:7:2022 \ 19:15:01
+[' Răsarit = 05:45:41 Apus = 21:19:12 Min (°C) = 20.71 Max (°C) =34.79 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.86 Viteza vântului = 1.5 Unghiul vântului = 66 Stare = ploaie ușoară']
+Baia_de_Arama: 26 \ sâmbătă \ 02:7:2022 \ 19:14:50
+[' Răsarit = 05:46:14 Apus = 21:19:00 Min (°C) = 20.8 Max (°C) =34.06 Presiune = 1018 Umiditate (%) = 79 Index UV = 0.42 Viteza vântului = 2.54 Unghiul vântului = 343 Stare = nori 85-100%']

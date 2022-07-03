@@ -952,3 +952,83 @@ Gaesti: 20 \ vineri \ 20:5:2022 \ 19:09:16
 [' Răsarit = 05:45:44 Apus = 20:44:59 Min (°C) = 10.2 Max (°C) =24.31 Presiune = 1021 Umiditate (%) = 47 Index UV = 0.56 Viteza vântului = 4.42 Unghiul vântului = 248 Stare = nori 10-25%']
 Gaesti: 20 \ sâmbătă \ 21:5:2022 \ 19:10:41
 [' Răsarit = 05:44:47 Apus = 20:46:04 Min (°C) = 12.86 Max (°C) =27.62 Presiune = 1011 Umiditate (%) = 49 Index UV = 0.6 Viteza vântului = 4.08 Unghiul vântului = 234 Stare = nori 10-25%']
+Gaesti: 20 \ duminică \ 22:5:2022 \ 19:10:07
+[' Răsarit = 05:43:53 Apus = 20:47:08 Min (°C) = 14.88 Max (°C) =25.49 Presiune = 1007 Umiditate (%) = 59 Index UV = 0.54 Viteza vântului = 3.62 Unghiul vântului = 92 Stare = nori 50-85%']
+Gaesti: 21 \ luni \ 23:5:2022 \ 19:09:45
+[' Răsarit = 05:43:00 Apus = 20:48:11 Min (°C) = 12.83 Max (°C) =20.76 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.33 Viteza vântului = 5.44 Unghiul vântului = 114 Stare = nori 50-85%']
+Gaesti: 21 \ marți \ 24:5:2022 \ 19:09:49
+[' Răsarit = 05:42:09 Apus = 20:49:13 Min (°C) = 11.98 Max (°C) =19.54 Presiune = 1012 Umiditate (%) = 60 Index UV = 0.46 Viteza vântului = 3.35 Unghiul vântului = 29 Stare = nori 85-100%']
+Gaesti: 21 \ miercuri \ 25:5:2022 \ 19:09:32
+[' Răsarit = 05:41:21 Apus = 20:50:13 Min (°C) = 11.57 Max (°C) =26.18 Presiune = 1014 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 1.83 Unghiul vântului = 139 Stare = nori 25-50%']
+Gaesti: 21 \ joi \ 26:5:2022 \ 19:09:37
+[' Răsarit = 05:40:34 Apus = 20:51:13 Min (°C) = 16.37 Max (°C) =29.08 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.63 Viteza vântului = 5.68 Unghiul vântului = 107 Stare = nori 25-50%']
+Gaesti: 21 \ vineri \ 27:5:2022 \ 19:09:57
+[' Răsarit = 05:39:49 Apus = 20:52:11 Min (°C) = 15.9 Max (°C) =27.29 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.62 Viteza vântului = 3.02 Unghiul vântului = 226 Stare = nori 50-85%']
+Gaesti: 21 \ sâmbătă \ 28:5:2022 \ 19:10:53
+[' Răsarit = 05:39:07 Apus = 20:53:08 Min (°C) = 15.86 Max (°C) =26.76 Presiune = 1007 Umiditate (%) = 50 Index UV = 0.38 Viteza vântului = 1.83 Unghiul vântului = 4 Stare = nori 85-100%']
+Gaesti: 21 \ duminică \ 29:5:2022 \ 19:09:38
+[' Răsarit = 05:38:26 Apus = 20:54:04 Min (°C) = 14.94 Max (°C) =20.94 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.44 Viteza vântului = 7.66 Unghiul vântului = 60 Stare = nori 85-100%']
+Gaesti: 22 \ luni \ 30:5:2022 \ 19:10:24
+[' Răsarit = 05:37:48 Apus = 20:54:59 Min (°C) = 14.27 Max (°C) =25.06 Presiune = 1011 Umiditate (%) = 61 Index UV = 0.43 Viteza vântului = 2.76 Unghiul vântului = 223 Stare = nori 10-25%']
+Gaesti: 22 \ marți \ 31:5:2022 \ 19:09:46
+[' Răsarit = 05:37:12 Apus = 20:55:52 Min (°C) = 15.71 Max (°C) =27.17 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.68 Viteza vântului = 1.45 Unghiul vântului = 218 Stare = cer senin']
+Gaesti: 22 \ miercuri \ 01:6:2022 \ 19:09:52
+[' Răsarit = 05:36:38 Apus = 20:56:44 Min (°C) = 15.41 Max (°C) =26.85 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.56 Viteza vântului = 1.64 Unghiul vântului = 220 Stare = nori 85-100%']
+Gaesti: 22 \ joi \ 02:6:2022 \ 19:09:24
+[' Răsarit = 05:36:06 Apus = 20:57:34 Min (°C) = 17.06 Max (°C) =30.06 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.42 Viteza vântului = 1.11 Unghiul vântului = 257 Stare = nori 10-25%']
+Gaesti: 22 \ vineri \ 03:6:2022 \ 19:09:41
+[' Răsarit = 05:35:36 Apus = 20:58:23 Min (°C) = 18.17 Max (°C) =28.78 Presiune = 1020 Umiditate (%) = 80 Index UV = 0.45 Viteza vântului = 4.06 Unghiul vântului = 39 Stare = nori 85-100%']
+Gaesti: 22 \ sâmbătă \ 04:6:2022 \ 19:10:02
+[' Răsarit = 05:35:08 Apus = 20:59:10 Min (°C) = 17.53 Max (°C) =28.95 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.65 Viteza vântului = 1.2 Unghiul vântului = 176 Stare = nori 25-50%']
+Gaesti: 22 \ duminică \ 05:6:2022 \ 19:09:26
+[' Răsarit = 05:34:43 Apus = 20:59:55 Min (°C) = 18.29 Max (°C) =29.21 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.54 Viteza vântului = 5.24 Unghiul vântului = 87 Stare = nori 50-85%']
+Gaesti: 23 \ luni \ 06:6:2022 \ 19:10:08
+[' Răsarit = 05:34:20 Apus = 21:00:39 Min (°C) = 15.28 Max (°C) =24.97 Presiune = 1015 Umiditate (%) = 60 Index UV = 0.25 Viteza vântului = 0.8 Unghiul vântului = 75 Stare = nori 85-100%']
+Gaesti: 23 \ marți \ 07:6:2022 \ 19:09:15
+[' Răsarit = 05:33:59 Apus = 21:01:21 Min (°C) = 15.06 Max (°C) =25.62 Presiune = 1012 Umiditate (%) = 44 Index UV = 0.7 Viteza vântului = 3.66 Unghiul vântului = 81 Stare = nori 50-85%']
+Gaesti: 23 \ miercuri \ 08:6:2022 \ 19:09:56
+[' Răsarit = 05:33:40 Apus = 21:02:01 Min (°C) = 14.65 Max (°C) =24.2 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.5 Viteza vântului = 4.14 Unghiul vântului = 122 Stare = nori 85-100%']
+Gaesti: 23 \ joi \ 09:6:2022 \ 19:09:33
+[' Răsarit = 05:33:24 Apus = 21:02:40 Min (°C) = 14.74 Max (°C) =23.27 Presiune = 1007 Umiditate (%) = 66 Index UV = 0.69 Viteza vântului = 2.56 Unghiul vântului = 25 Stare = nori 85-100%']
+Gaesti: 23 \ vineri \ 10:6:2022 \ 19:09:39
+[' Răsarit = 05:33:10 Apus = 21:03:16 Min (°C) = 14.5 Max (°C) =24.51 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.74 Viteza vântului = 5.7 Unghiul vântului = 81 Stare = nori 85-100%']
+Gaesti: 23 \ sâmbătă \ 11:6:2022 \ 19:09:32
+[' Răsarit = 05:32:58 Apus = 21:03:51 Min (°C) = 14.96 Max (°C) =21.31 Presiune = 1012 Umiditate (%) = 74 Index UV = 0.56 Viteza vântului = 2.78 Unghiul vântului = 68 Stare = ploaie ușoară']
+Gaesti: 23 \ duminică \ 12:6:2022 \ 19:09:26
+[' Răsarit = 05:32:48 Apus = 21:04:24 Min (°C) = 16.89 Max (°C) =25.28 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.62 Viteza vântului = 2.67 Unghiul vântului = 313 Stare = nori 85-100%']
+Gaesti: 24 \ luni \ 13:6:2022 \ 19:09:40
+[' Răsarit = 05:32:41 Apus = 21:04:55 Min (°C) = 15.93 Max (°C) =28.59 Presiune = 1011 Umiditate (%) = 54 Index UV = 0.45 Viteza vântului = 1.19 Unghiul vântului = 319 Stare = nori 50-85%']
+Gaesti: 24 \ marți \ 14:6:2022 \ 19:09:16
+[' Răsarit = 05:32:36 Apus = 21:05:24 Min (°C) = 16.68 Max (°C) =28.22 Presiune = 1015 Umiditate (%) = 90 Index UV = 0.73 Viteza vântului = 5.95 Unghiul vântului = 51 Stare = nori 85-100%']
+Gaesti: 24 \ miercuri \ 15:6:2022 \ 19:09:20
+[' Răsarit = 05:32:33 Apus = 21:05:51 Min (°C) = 15.57 Max (°C) =22.61 Presiune = 1020 Umiditate (%) = 46 Index UV = 0.65 Viteza vântului = 1.09 Unghiul vântului = 202 Stare = nori 25-50%']
+Gaesti: 24 \ joi \ 16:6:2022 \ 19:09:25
+[' Răsarit = 05:32:32 Apus = 21:06:15 Min (°C) = 15.94 Max (°C) =23.96 Presiune = 1018 Umiditate (%) = 52 Index UV = 0.34 Viteza vântului = 2.51 Unghiul vântului = 177 Stare = nori 25-50%']
+Gaesti: 24 \ vineri \ 17:6:2022 \ 19:09:44
+[' Răsarit = 05:32:34 Apus = 21:06:38 Min (°C) = 15.86 Max (°C) =27.47 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.43 Viteza vântului = 1.99 Unghiul vântului = 60 Stare = nori 85-100%']
+Gaesti: 24 \ sâmbătă \ 18:6:2022 \ 19:09:27
+[' Răsarit = 05:32:38 Apus = 21:06:58 Min (°C) = 14.74 Max (°C) =24.47 Presiune = 1019 Umiditate (%) = 57 Index UV = 0.51 Viteza vântului = 0.94 Unghiul vântului = 319 Stare = nori 25-50%']
+Gaesti: 24 \ duminică \ 19:6:2022 \ 19:08:39
+[' Răsarit = 05:32:44 Apus = 21:07:17 Min (°C) = 14.5 Max (°C) =26.9 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.63 Viteza vântului = 0.56 Unghiul vântului = 81 Stare = nori 25-50%']
+Gaesti: 25 \ luni \ 20:6:2022 \ 19:09:07
+[' Răsarit = 05:32:52 Apus = 21:07:33 Min (°C) = 16.26 Max (°C) =28.95 Presiune = 1010 Umiditate (%) = 42 Index UV = 0.45 Viteza vântului = 2.13 Unghiul vântului = 205 Stare = nori 50-85%']
+Gaesti: 25 \ marți \ 21:6:2022 \ 19:09:44
+[' Răsarit = 05:33:03 Apus = 21:07:47 Min (°C) = 17.2 Max (°C) =33.8 Presiune = 1006 Umiditate (%) = 27 Index UV = 0.78 Viteza vântului = 8.55 Unghiul vântului = 327 Stare = nori 10-25%']
+Gaesti: 25 \ miercuri \ 22:6:2022 \ 19:09:23
+[' Răsarit = 05:33:15 Apus = 21:07:58 Min (°C) = 14.45 Max (°C) =28 Presiune = 1007 Umiditate (%) = 30 Index UV = 0.66 Viteza vântului = 5.04 Unghiul vântului = 317 Stare = nori 25-50%']
+Gaesti: 25 \ joi \ 23:6:2022 \ 19:09:22
+[' Răsarit = 05:33:30 Apus = 21:08:08 Min (°C) = 14.82 Max (°C) =22.69 Presiune = 1012 Umiditate (%) = 48 Index UV = 0.48 Viteza vântului = 4.08 Unghiul vântului = 239 Stare = nori 25-50%']
+Gaesti: 25 \ duminică \ 26:6:2022 \ 19:49:51
+[' Răsarit = 05:34:27 Apus = 21:08:23 Min (°C) = 18.27 Max (°C) =26.89 Presiune = 1016 Umiditate (%) = 70 Index UV = 0.16 Viteza vântului = 0.83 Unghiul vântului = 142 Stare = nori 85-100%']
+Gaesti: 26 \ luni \ 27:6:2022 \ 19:09:35
+[' Răsarit = 05:34:50 Apus = 21:08:23 Min (°C) = 16.29 Max (°C) =28.44 Presiune = 1016 Umiditate (%) = 45 Index UV = 0.51 Viteza vântului = 2.13 Unghiul vântului = 54 Stare = nori 50-85%']
+Gaesti: 26 \ marți \ 28:6:2022 \ 19:09:39
+[' Răsarit = 05:35:16 Apus = 21:08:21 Min (°C) = 19.05 Max (°C) =29.51 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.76 Viteza vântului = 2.8 Unghiul vântului = 310 Stare = nori 50-85%']
+Gaesti: 26 \ miercuri \ 29:6:2022 \ 19:09:39
+[' Răsarit = 05:35:43 Apus = 21:08:17 Min (°C) = 19.54 Max (°C) =33.43 Presiune = 1013 Umiditate (%) = 23 Index UV = 0.38 Viteza vântului = 3.44 Unghiul vântului = 66 Stare = cer senin']
+Gaesti: 26 \ joi \ 30:6:2022 \ 19:10:04
+[' Răsarit = 05:36:12 Apus = 21:08:10 Min (°C) = 20.44 Max (°C) =34.44 Presiune = 1011 Umiditate (%) = 21 Index UV = 0.66 Viteza vântului = 0.77 Unghiul vântului = 87 Stare = cer senin']
+Gaesti: 26 \ vineri \ 01:7:2022 \ 19:09:47
+[' Răsarit = 05:36:43 Apus = 21:08:01 Min (°C) = 19.79 Max (°C) =33.76 Presiune = 1013 Umiditate (%) = 30 Index UV = 0.77 Viteza vântului = 3.54 Unghiul vântului = 20 Stare = ploaie ușoară']
+Gaesti: 26 \ sâmbătă \ 02:7:2022 \ 19:09:38
+[' Răsarit = 05:37:16 Apus = 21:07:50 Min (°C) = 19.11 Max (°C) =33.96 Presiune = 1016 Umiditate (%) = 37 Index UV = 0.75 Viteza vântului = 2.97 Unghiul vântului = 64 Stare = nori 25-50%']

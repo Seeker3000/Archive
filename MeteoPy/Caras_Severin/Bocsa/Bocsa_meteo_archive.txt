@@ -952,3 +952,83 @@ Bocsa: 20 \ vineri \ 20:5:2022 \ 19:06:48
 [' Răsarit = 05:57:58 Apus = 21:01:31 Min (°C) = 9.3 Max (°C) =26.37 Presiune = 1022 Umiditate (%) = 57 Index UV = 0.72 Viteza vântului = 0.59 Unghiul vântului = 221 Stare = nori 85-100%']
 Bocsa: 20 \ sâmbătă \ 21:5:2022 \ 19:07:55
 [' Răsarit = 05:57:00 Apus = 21:02:37 Min (°C) = 14.34 Max (°C) =27.37 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.74 Viteza vântului = 3.96 Unghiul vântului = 342 Stare = nori 85-100%']
+Bocsa: 20 \ duminică \ 22:5:2022 \ 19:07:25
+[' Răsarit = 05:56:04 Apus = 21:03:42 Min (°C) = 13.36 Max (°C) =24.37 Presiune = 1012 Umiditate (%) = 57 Index UV = 0.71 Viteza vântului = 3.52 Unghiul vântului = 354 Stare = cer senin']
+Bocsa: 21 \ luni \ 23:5:2022 \ 19:07:08
+[' Răsarit = 05:55:09 Apus = 21:04:47 Min (°C) = 10.5 Max (°C) =22.37 Presiune = 1010 Umiditate (%) = 61 Index UV = 0.7 Viteza vântului = 3.45 Unghiul vântului = 2 Stare = nori 85-100%']
+Bocsa: 21 \ marți \ 24:5:2022 \ 19:07:17
+[' Răsarit = 05:54:17 Apus = 21:05:50 Min (°C) = 11.23 Max (°C) =25.37 Presiune = 1009 Umiditate (%) = 65 Index UV = 0.76 Viteza vântului = 2.34 Unghiul vântului = 53 Stare = nori 50-85%']
+Bocsa: 21 \ miercuri \ 25:5:2022 \ 19:06:58
+[' Răsarit = 05:53:27 Apus = 21:06:52 Min (°C) = 14.52 Max (°C) =29.37 Presiune = 1011 Umiditate (%) = 59 Index UV = 0.77 Viteza vântului = 1.85 Unghiul vântului = 176 Stare = cer senin']
+Bocsa: 21 \ joi \ 26:5:2022 \ 19:07:03
+[' Răsarit = 05:52:39 Apus = 21:07:53 Min (°C) = 14.84 Max (°C) =23.37 Presiune = 1021 Umiditate (%) = 60 Index UV = 0.79 Viteza vântului = 2.79 Unghiul vântului = 351 Stare = nori 85-100%']
+Bocsa: 21 \ vineri \ 27:5:2022 \ 19:07:31
+[' Răsarit = 05:51:53 Apus = 21:08:53 Min (°C) = 13.35 Max (°C) =27.37 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.79 Viteza vântului = 1.77 Unghiul vântului = 41 Stare = cer senin']
+Bocsa: 21 \ sâmbătă \ 28:5:2022 \ 19:08:22
+[' Răsarit = 05:51:09 Apus = 21:09:52 Min (°C) = 12.28 Max (°C) =19.83 Presiune = 1014 Umiditate (%) = 75 Index UV = 0.27 Viteza vântului = 4.38 Unghiul vântului = 9 Stare = nori 85-100%']
+Bocsa: 21 \ duminică \ 29:5:2022 \ 19:07:08
+[' Răsarit = 05:50:27 Apus = 21:10:49 Min (°C) = 8.52 Max (°C) =19.34 Presiune = 1007 Umiditate (%) = 89 Index UV = 0.13 Viteza vântului = 1.56 Unghiul vântului = 322 Stare = nori 85-100%']
+Bocsa: 22 \ luni \ 30:5:2022 \ 19:07:45
+[' Răsarit = 05:49:48 Apus = 21:11:45 Min (°C) = 12.56 Max (°C) =21.69 Presiune = 1012 Umiditate (%) = 63 Index UV = 0.83 Viteza vântului = 2.28 Unghiul vântului = 5 Stare = cer senin']
+Bocsa: 22 \ marți \ 31:5:2022 \ 19:07:17
+[' Răsarit = 05:49:10 Apus = 21:12:39 Min (°C) = 11.97 Max (°C) =23.68 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.83 Viteza vântului = 2.89 Unghiul vântului = 350 Stare = nori 10-25%']
+Bocsa: 22 \ miercuri \ 01:6:2022 \ 19:07:21
+[' Răsarit = 05:48:35 Apus = 21:13:32 Min (°C) = 14.19 Max (°C) =27.37 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.84 Viteza vântului = 1.31 Unghiul vântului = 348 Stare = nori 25-50%']
+Bocsa: 22 \ joi \ 02:6:2022 \ 19:06:56
+[' Răsarit = 05:48:02 Apus = 21:14:23 Min (°C) = 16.39 Max (°C) =28.33 Presiune = 1017 Umiditate (%) = 86 Index UV = 0.17 Viteza vântului = 1.9 Unghiul vântului = 33 Stare = nori 50-85%']
+Bocsa: 22 \ vineri \ 03:6:2022 \ 19:07:11
+[' Răsarit = 05:47:31 Apus = 21:15:13 Min (°C) = 16.61 Max (°C) =29.37 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.93 Viteza vântului = 2.21 Unghiul vântului = 6 Stare = nori 10-25%']
+Bocsa: 22 \ sâmbătă \ 04:6:2022 \ 19:07:29
+[' Răsarit = 05:47:02 Apus = 21:16:01 Min (°C) = 18.59 Max (°C) =29.05 Presiune = 1015 Umiditate (%) = 85 Index UV = 0.59 Viteza vântului = 1.6 Unghiul vântului = 114 Stare = nori 50-85%']
+Bocsa: 22 \ duminică \ 05:6:2022 \ 19:06:57
+[' Răsarit = 05:46:36 Apus = 21:16:48 Min (°C) = 17.3 Max (°C) =27.55 Presiune = 1014 Umiditate (%) = 66 Index UV = 0.9 Viteza vântului = 2.97 Unghiul vântului = 12 Stare = nori 50-85%']
+Bocsa: 23 \ luni \ 06:6:2022 \ 19:07:39
+[' Răsarit = 05:46:12 Apus = 21:17:33 Min (°C) = 15.43 Max (°C) =28.37 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.98 Viteza vântului = 1.82 Unghiul vântului = 358 Stare = cer senin']
+Bocsa: 23 \ marți \ 07:6:2022 \ 19:06:47
+[' Răsarit = 05:45:50 Apus = 21:18:16 Min (°C) = 15.68 Max (°C) =28.37 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.78 Viteza vântului = 2.3 Unghiul vântului = 124 Stare = nori 85-100%']
+Bocsa: 23 \ miercuri \ 08:6:2022 \ 19:07:23
+[' Răsarit = 05:45:31 Apus = 21:18:57 Min (°C) = 15.99 Max (°C) =27.08 Presiune = 1008 Umiditate (%) = 53 Index UV = 0.71 Viteza vântului = 3.64 Unghiul vântului = 120 Stare = nori 50-85%']
+Bocsa: 23 \ joi \ 09:6:2022 \ 19:07:02
+[' Răsarit = 05:45:13 Apus = 21:19:36 Min (°C) = 14.25 Max (°C) =26.4 Presiune = 1005 Umiditate (%) = 67 Index UV = 0.87 Viteza vântului = 3.96 Unghiul vântului = 70 Stare = nori 85-100%']
+Bocsa: 23 \ vineri \ 10:6:2022 \ 19:07:08
+[' Răsarit = 05:44:59 Apus = 21:20:13 Min (°C) = 14.99 Max (°C) =26.22 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.14 Viteza vântului = 5.34 Unghiul vântului = 51 Stare = nori 25-50%']
+Bocsa: 23 \ sâmbătă \ 11:6:2022 \ 19:07:01
+[' Răsarit = 05:44:46 Apus = 21:20:49 Min (°C) = 14.13 Max (°C) =26.54 Presiune = 1012 Umiditate (%) = 62 Index UV = 0.5 Viteza vântului = 2.24 Unghiul vântului = 32 Stare = nori 50-85%']
+Bocsa: 23 \ duminică \ 12:6:2022 \ 19:06:59
+[' Răsarit = 05:44:36 Apus = 21:21:22 Min (°C) = 14.43 Max (°C) =27.37 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.34 Viteza vântului = 1.88 Unghiul vântului = 8 Stare = nori 85-100%']
+Bocsa: 24 \ luni \ 13:6:2022 \ 19:07:13
+[' Răsarit = 05:44:28 Apus = 21:21:53 Min (°C) = 15.17 Max (°C) =29.37 Presiune = 1012 Umiditate (%) = 44 Index UV = 0.97 Viteza vântului = 3.23 Unghiul vântului = 36 Stare = ploaie ușoară']
+Bocsa: 24 \ marți \ 14:6:2022 \ 19:06:51
+[' Răsarit = 05:44:22 Apus = 21:22:23 Min (°C) = 14.7 Max (°C) =24.37 Presiune = 1018 Umiditate (%) = 41 Index UV = 0.9 Viteza vântului = 4.2 Unghiul vântului = 359 Stare = nori 25-50%']
+Bocsa: 24 \ miercuri \ 15:6:2022 \ 19:06:51
+[' Răsarit = 05:44:19 Apus = 21:22:50 Min (°C) = 11.48 Max (°C) =26.37 Presiune = 1019 Umiditate (%) = 35 Index UV = 0.92 Viteza vântului = 1.84 Unghiul vântului = 341 Stare = cer senin']
+Bocsa: 24 \ joi \ 16:6:2022 \ 19:06:55
+[' Răsarit = 05:44:18 Apus = 21:23:15 Min (°C) = 13.22 Max (°C) =28.51 Presiune = 1016 Umiditate (%) = 34 Index UV = 0.92 Viteza vântului = 2.52 Unghiul vântului = 51 Stare = nori 10-25%']
+Bocsa: 24 \ vineri \ 17:6:2022 \ 19:07:11
+[' Răsarit = 05:44:19 Apus = 21:23:38 Min (°C) = 16.41 Max (°C) =27.37 Presiune = 1017 Umiditate (%) = 45 Index UV = 0.82 Viteza vântului = 4.38 Unghiul vântului = 20 Stare = nori 85-100%']
+Bocsa: 24 \ sâmbătă \ 18:6:2022 \ 19:06:56
+[' Răsarit = 05:44:23 Apus = 21:23:59 Min (°C) = 12.92 Max (°C) =27.37 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.97 Viteza vântului = 4.03 Unghiul vântului = 360 Stare = nori 10-25%']
+Bocsa: 24 \ duminică \ 19:6:2022 \ 19:06:24
+[' Răsarit = 05:44:29 Apus = 21:24:17 Min (°C) = 14.21 Max (°C) =30.37 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.95 Viteza vântului = 1.5 Unghiul vântului = 158 Stare = ploaie ușoară']
+Bocsa: 25 \ luni \ 20:6:2022 \ 19:06:42
+[' Răsarit = 05:44:37 Apus = 21:24:33 Min (°C) = 16.65 Max (°C) =32.39 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.96 Viteza vântului = 0.5 Unghiul vântului = 314 Stare = ploaie ușoară']
+Bocsa: 25 \ marți \ 21:6:2022 \ 19:07:14
+[' Răsarit = 05:44:48 Apus = 21:24:47 Min (°C) = 18.48 Max (°C) =30.12 Presiune = 1011 Umiditate (%) = 32 Index UV = 1.01 Viteza vântului = 6.66 Unghiul vântului = 321 Stare = nori 25-50%']
+Bocsa: 25 \ miercuri \ 22:6:2022 \ 19:06:55
+[' Răsarit = 05:45:00 Apus = 21:24:59 Min (°C) = 13.44 Max (°C) =27.9 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.95 Viteza vântului = 3.48 Unghiul vântului = 358 Stare = ploaie ușoară']
+Bocsa: 25 \ joi \ 23:6:2022 \ 19:06:54
+[' Răsarit = 05:45:15 Apus = 21:25:08 Min (°C) = 14.03 Max (°C) =25.46 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.73 Viteza vântului = 3.45 Unghiul vântului = 349 Stare = ploaie ușoară']
+Bocsa: 25 \ duminică \ 26:6:2022 \ 19:47:20
+[' Răsarit = 05:46:13 Apus = 21:25:22 Min (°C) = 15.98 Max (°C) =27.61 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.21 Viteza vântului = 1.92 Unghiul vântului = 71 Stare = nori 50-85%']
+Bocsa: 26 \ luni \ 27:6:2022 \ 19:07:04
+[' Răsarit = 05:46:37 Apus = 21:25:22 Min (°C) = 16.85 Max (°C) =32.24 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.97 Viteza vântului = 3.18 Unghiul vântului = 33 Stare = cer senin']
+Bocsa: 26 \ marți \ 28:6:2022 \ 19:07:04
+[' Răsarit = 05:47:02 Apus = 21:25:20 Min (°C) = 18.97 Max (°C) =33.9 Presiune = 1014 Umiditate (%) = 27 Index UV = 1 Viteza vântului = 5.82 Unghiul vântului = 51 Stare = ploaie ușoară']
+Bocsa: 26 \ miercuri \ 29:6:2022 \ 19:07:07
+[' Răsarit = 05:47:30 Apus = 21:25:15 Min (°C) = 19.71 Max (°C) =35.17 Presiune = 1011 Umiditate (%) = 22 Index UV = 0.98 Viteza vântului = 6.13 Unghiul vântului = 142 Stare = ploaie ușoară']
+Bocsa: 26 \ joi \ 30:6:2022 \ 19:07:25
+[' Răsarit = 05:47:59 Apus = 21:25:08 Min (°C) = 20.08 Max (°C) =36.46 Presiune = 1010 Umiditate (%) = 20 Index UV = 0.94 Viteza vântului = 4.73 Unghiul vântului = 156 Stare = ploaie ușoară']
+Bocsa: 26 \ vineri \ 01:7:2022 \ 19:07:15
+[' Răsarit = 05:48:31 Apus = 21:24:59 Min (°C) = 20.88 Max (°C) =38.76 Presiune = 1011 Umiditate (%) = 22 Index UV = 0.53 Viteza vântului = 3.29 Unghiul vântului = 116 Stare = ploaie ușoară']
+Bocsa: 26 \ sâmbătă \ 02:7:2022 \ 19:07:06
+[' Răsarit = 05:49:05 Apus = 21:24:47 Min (°C) = 21.38 Max (°C) =35.38 Presiune = 1015 Umiditate (%) = 21 Index UV = 0.95 Viteza vântului = 5.18 Unghiul vântului = 286 Stare = ploaie ușoară']

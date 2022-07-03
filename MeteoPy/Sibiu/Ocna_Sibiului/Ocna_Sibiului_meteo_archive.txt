@@ -954,3 +954,83 @@ Ocna_Sibiului: 20 \ vineri \ 20:5:2022 \ 19:18:42
 [' Răsarit = 05:46:59 Apus = 20:53:55 Min (°C) = 7.94 Max (°C) =25.12 Presiune = 1021 Umiditate (%) = 22 Index UV = 0.6 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = cer senin']
 Ocna_Sibiului: 20 \ sâmbătă \ 21:5:2022 \ 19:21:06
 [' Răsarit = 05:46:00 Apus = 20:55:03 Min (°C) = 12 Max (°C) =25.67 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.63 Viteza vântului = 6.17 Unghiul vântului = 290 Stare = nori 10-25%']
+Ocna_Sibiului: 20 \ duminică \ 22:5:2022 \ 19:20:19
+[' Răsarit = 05:45:03 Apus = 20:56:09 Min (°C) = 11.47 Max (°C) =18.39 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.56 Viteza vântului = 5.66 Unghiul vântului = 10 Stare = nori 25-50%']
+Ocna_Sibiului: 21 \ luni \ 23:5:2022 \ 19:19:34
+[' Răsarit = 05:44:07 Apus = 20:57:15 Min (°C) = 10.49 Max (°C) =18.99 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.17 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = nori 10-25%']
+Ocna_Sibiului: 21 \ marți \ 24:5:2022 \ 19:19:36
+[' Răsarit = 05:43:14 Apus = 20:58:20 Min (°C) = 8.21 Max (°C) =18.49 Presiune = 1012 Umiditate (%) = 77 Index UV = 0.29 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Ocna_Sibiului: 21 \ miercuri \ 25:5:2022 \ 19:19:37
+[' Răsarit = 05:42:22 Apus = 20:59:23 Min (°C) = 10.89 Max (°C) =27.12 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.67 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 10-25%']
+Ocna_Sibiului: 21 \ joi \ 26:5:2022 \ 19:19:35
+[' Răsarit = 05:41:33 Apus = 21:00:25 Min (°C) = 14.55 Max (°C) =22.32 Presiune = 1020 Umiditate (%) = 44 Index UV = 0.64 Viteza vântului = 8.23 Unghiul vântului = 290 Stare = nori 10-25%']
+Ocna_Sibiului: 21 \ vineri \ 27:5:2022 \ 19:19:33
+[' Răsarit = 05:40:46 Apus = 21:01:26 Min (°C) = 11.72 Max (°C) =23.99 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.68 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = cer senin']
+Ocna_Sibiului: 21 \ sâmbătă \ 28:5:2022 \ 19:20:51
+[' Răsarit = 05:40:01 Apus = 21:02:26 Min (°C) = 12.43 Max (°C) =20.88 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.05 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = nori 85-100%']
+Ocna_Sibiului: 21 \ duminică \ 29:5:2022 \ 19:19:11
+[' Răsarit = 05:39:18 Apus = 21:03:24 Min (°C) = 10.68 Max (°C) =18.6 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.64 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = nori 10-25%']
+Ocna_Sibiului: 22 \ luni \ 30:5:2022 \ 19:20:02
+[' Răsarit = 05:38:37 Apus = 21:04:21 Min (°C) = 13.46 Max (°C) =21.21 Presiune = 1013 Umiditate (%) = 69 Index UV = 0.72 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 10-25%']
+Ocna_Sibiului: 22 \ marți \ 31:5:2022 \ 19:21:41
+[' Răsarit = 05:37:59 Apus = 21:05:17 Min (°C) = 12.39 Max (°C) =22.15 Presiune = 1017 Umiditate (%) = 78 Index UV = 0.73 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 25-50%']
+Ocna_Sibiului: 22 \ miercuri \ 01:6:2022 \ 19:19:29
+[' Răsarit = 05:37:22 Apus = 21:06:10 Min (°C) = 11.95 Max (°C) =25.23 Presiune = 1017 Umiditate (%) = 57 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = nori 10-25%']
+Ocna_Sibiului: 22 \ joi \ 02:6:2022 \ 19:18:55
+[' Răsarit = 05:36:48 Apus = 21:07:03 Min (°C) = 13.83 Max (°C) =26.23 Presiune = 1017 Umiditate (%) = 51 Index UV = 0.7 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = nori 10-25%']
+Ocna_Sibiului: 22 \ vineri \ 03:6:2022 \ 19:19:23
+[' Răsarit = 05:36:17 Apus = 21:07:53 Min (°C) = 15.32 Max (°C) =25.14 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.79 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = nori 10-25%']
+Ocna_Sibiului: 22 \ sâmbătă \ 04:6:2022 \ 19:19:55
+[' Răsarit = 05:35:47 Apus = 21:08:42 Min (°C) = 15.13 Max (°C) =26.5 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.37 Viteza vântului = 1.54 Unghiul vântului = 170 Stare = nori 25-50%']
+Ocna_Sibiului: 22 \ duminică \ 05:6:2022 \ 19:18:54
+[' Răsarit = 05:35:20 Apus = 21:09:30 Min (°C) = 14.82 Max (°C) =24.24 Presiune = 1016 Umiditate (%) = 94 Index UV = 0.8 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 10-25%']
+Ocna_Sibiului: 23 \ luni \ 06:6:2022 \ 19:20:02
+[' Răsarit = 05:34:55 Apus = 21:10:15 Min (°C) = 12.23 Max (°C) =23.23 Presiune = 1017 Umiditate (%) = 50 Index UV = 0.8 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = cer senin']
+Ocna_Sibiului: 23 \ marți \ 07:6:2022 \ 19:18:54
+[' Răsarit = 05:34:33 Apus = 21:10:59 Min (°C) = 12.08 Max (°C) =25.1 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.81 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Ocna_Sibiului: 23 \ miercuri \ 08:6:2022 \ 19:19:28
+[' Răsarit = 05:34:12 Apus = 21:11:41 Min (°C) = 12.53 Max (°C) =24.62 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.52 Viteza vântului = 4.12 Unghiul vântului = 160 Stare = nori 25-50%']
+Ocna_Sibiului: 23 \ joi \ 09:6:2022 \ 19:19:12
+[' Răsarit = 05:33:55 Apus = 21:12:21 Min (°C) = 14.17 Max (°C) =22.88 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.79 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = nori 25-50%']
+Ocna_Sibiului: 23 \ vineri \ 10:6:2022 \ 19:19:16
+[' Răsarit = 05:33:39 Apus = 21:12:59 Min (°C) = 12.3 Max (°C) =22.12 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.77 Viteza vântului = 6.17 Unghiul vântului = 90 Stare = nori 25-50%']
+Ocna_Sibiului: 23 \ sâmbătă \ 11:6:2022 \ 19:19:17
+[' Răsarit = 05:33:26 Apus = 21:13:35 Min (°C) = 13.46 Max (°C) =21.78 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.77 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = nori 25-50%']
+Ocna_Sibiului: 23 \ duminică \ 12:6:2022 \ 19:19:10
+[' Răsarit = 05:33:15 Apus = 21:14:08 Min (°C) = 13.7 Max (°C) =22.22 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.67 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 10-25%']
+Ocna_Sibiului: 24 \ luni \ 13:6:2022 \ 19:18:56
+[' Răsarit = 05:33:07 Apus = 21:14:40 Min (°C) = 13.8 Max (°C) =24.83 Presiune = 1014 Umiditate (%) = 65 Index UV = 0.71 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']
+Ocna_Sibiului: 24 \ marți \ 14:6:2022 \ 19:18:39
+[' Răsarit = 05:33:01 Apus = 21:15:10 Min (°C) = 14.91 Max (°C) =21.12 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.8 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = nori 25-50%']
+Ocna_Sibiului: 24 \ miercuri \ 15:6:2022 \ 19:18:52
+[' Răsarit = 05:32:57 Apus = 21:15:38 Min (°C) = 10.85 Max (°C) =22.32 Presiune = 1020 Umiditate (%) = 41 Index UV = 0.75 Viteza vântului = 4.63 Unghiul vântului = 30 Stare = nori 10-25%']
+Ocna_Sibiului: 24 \ joi \ 16:6:2022 \ 19:19:03
+[' Răsarit = 05:32:56 Apus = 21:16:03 Min (°C) = 11.78 Max (°C) =24.06 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.79 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Ocna_Sibiului: 24 \ vineri \ 17:6:2022 \ 19:19:30
+[' Răsarit = 05:32:57 Apus = 21:16:26 Min (°C) = 13.69 Max (°C) =23.09 Presiune = 1018 Umiditate (%) = 57 Index UV = 0.51 Viteza vântului = 1.03 Unghiul vântului = 220 Stare = nori 10-25%']
+Ocna_Sibiului: 24 \ sâmbătă \ 18:6:2022 \ 19:19:08
+[' Răsarit = 05:33:01 Apus = 21:16:47 Min (°C) = 11.75 Max (°C) =22.88 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.82 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = cer senin']
+Ocna_Sibiului: 24 \ duminică \ 19:6:2022 \ 19:17:52
+[' Răsarit = 05:33:06 Apus = 21:17:06 Min (°C) = 12.23 Max (°C) =26.21 Presiune = 1018 Umiditate (%) = 39 Index UV = 0.83 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = cer senin']
+Ocna_Sibiului: 25 \ luni \ 20:6:2022 \ 19:18:28
+[' Răsarit = 05:33:14 Apus = 21:17:22 Min (°C) = 14.3 Max (°C) =27.88 Presiune = 1011 Umiditate (%) = 35 Index UV = 0.83 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = cer senin']
+Ocna_Sibiului: 25 \ marți \ 21:6:2022 \ 19:19:17
+[' Răsarit = 05:33:25 Apus = 21:17:36 Min (°C) = 17.15 Max (°C) =28.12 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.84 Viteza vântului = 8.75 Unghiul vântului = 270 Stare = cer senin']
+Ocna_Sibiului: 25 \ miercuri \ 22:6:2022 \ 19:18:41
+[' Răsarit = 05:33:38 Apus = 21:17:48 Min (°C) = 10.67 Max (°C) =22.94 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.82 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 10-25%']
+Ocna_Sibiului: 25 \ joi \ 23:6:2022 \ 19:18:51
+[' Răsarit = 05:33:53 Apus = 21:17:57 Min (°C) = 13.11 Max (°C) =23.99 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.73 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 25-50%']
+Ocna_Sibiului: 25 \ duminică \ 26:6:2022 \ 20:00:20
+[' Răsarit = 05:34:51 Apus = 21:18:11 Min (°C) = 16.53 Max (°C) =25.07 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.04 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 10-25%']
+Ocna_Sibiului: 26 \ luni \ 27:6:2022 \ 19:19:07
+[' Răsarit = 05:35:15 Apus = 21:18:10 Min (°C) = 13.18 Max (°C) =27.32 Presiune = 1019 Umiditate (%) = 42 Index UV = 0.7 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = nori 10-25%']
+Ocna_Sibiului: 26 \ marți \ 28:6:2022 \ 19:19:33
+[' Răsarit = 05:35:40 Apus = 21:18:08 Min (°C) = 15.96 Max (°C) =27.88 Presiune = 1018 Umiditate (%) = 45 Index UV = 0.83 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = cer senin']
+Ocna_Sibiului: 26 \ miercuri \ 29:6:2022 \ 19:19:23
+[' Răsarit = 05:36:08 Apus = 21:18:03 Min (°C) = 16.89 Max (°C) =31.56 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.78 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Ocna_Sibiului: 26 \ joi \ 30:6:2022 \ 19:20:29
+[' Răsarit = 05:36:38 Apus = 21:17:55 Min (°C) = 17.78 Max (°C) =32.51 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.83 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 10-25%']
+Ocna_Sibiului: 26 \ vineri \ 01:7:2022 \ 19:19:51
+[' Răsarit = 05:37:10 Apus = 21:17:45 Min (°C) = 18.96 Max (°C) =32.79 Presiune = 1016 Umiditate (%) = 74 Index UV = 0.56 Viteza vântului = 5.66 Unghiul vântului = 100 Stare = furtună cu ploaie']
+Ocna_Sibiului: 26 \ sâmbătă \ 02:7:2022 \ 19:19:21
+[' Răsarit = 05:37:44 Apus = 21:17:33 Min (°C) = 18.59 Max (°C) =30.2 Presiune = 1019 Umiditate (%) = 51 Index UV = 0.63 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = nori 25-50%']

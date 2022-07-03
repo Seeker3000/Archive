@@ -954,3 +954,83 @@ Saliste: 20 \ vineri \ 20:5:2022 \ 19:18:46
 [' Răsarit = 05:47:59 Apus = 20:54:19 Min (°C) = 8.5 Max (°C) =24.14 Presiune = 1021 Umiditate (%) = 22 Index UV = 0.63 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = cer senin']
 Saliste: 20 \ sâmbătă \ 21:5:2022 \ 19:21:10
 [' Răsarit = 05:47:00 Apus = 20:55:27 Min (°C) = 12.66 Max (°C) =25.45 Presiune = 1013 Umiditate (%) = 44 Index UV = 0.6 Viteza vântului = 6.17 Unghiul vântului = 290 Stare = nori 10-25%']
+Saliste: 20 \ duminică \ 22:5:2022 \ 19:20:24
+[' Răsarit = 05:46:03 Apus = 20:56:33 Min (°C) = 11.68 Max (°C) =18.25 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.46 Viteza vântului = 5.66 Unghiul vântului = 10 Stare = nori 25-50%']
+Saliste: 21 \ luni \ 23:5:2022 \ 19:19:38
+[' Răsarit = 05:45:08 Apus = 20:57:39 Min (°C) = 9.48 Max (°C) =18.14 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.48 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = nori 10-25%']
+Saliste: 21 \ marți \ 24:5:2022 \ 19:19:41
+[' Răsarit = 05:44:14 Apus = 20:58:43 Min (°C) = 8.13 Max (°C) =17.17 Presiune = 1012 Umiditate (%) = 77 Index UV = 0.56 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Saliste: 21 \ miercuri \ 25:5:2022 \ 19:19:42
+[' Răsarit = 05:43:23 Apus = 20:59:46 Min (°C) = 11.54 Max (°C) =26.14 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.69 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 10-25%']
+Saliste: 21 \ joi \ 26:5:2022 \ 19:19:40
+[' Răsarit = 05:42:34 Apus = 21:00:48 Min (°C) = 13.91 Max (°C) =21.14 Presiune = 1020 Umiditate (%) = 43 Index UV = 0.68 Viteza vântului = 8.23 Unghiul vântului = 290 Stare = nori 10-25%']
+Saliste: 21 \ vineri \ 27:5:2022 \ 19:19:37
+[' Răsarit = 05:41:47 Apus = 21:01:49 Min (°C) = 11.7 Max (°C) =23.14 Presiune = 1015 Umiditate (%) = 41 Index UV = 0.71 Viteza vântului = 5.66 Unghiul vântului = 320 Stare = cer senin']
+Saliste: 21 \ sâmbătă \ 28:5:2022 \ 19:20:55
+[' Răsarit = 05:41:02 Apus = 21:02:48 Min (°C) = 12.03 Max (°C) =20.96 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.08 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = nori 85-100%']
+Saliste: 21 \ duminică \ 29:5:2022 \ 19:19:16
+[' Răsarit = 05:40:20 Apus = 21:03:47 Min (°C) = 9.75 Max (°C) =17.81 Presiune = 1008 Umiditate (%) = 77 Index UV = 0.59 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = nori 10-25%']
+Saliste: 22 \ luni \ 30:5:2022 \ 19:20:06
+[' Răsarit = 05:39:39 Apus = 21:04:43 Min (°C) = 12.71 Max (°C) =20.52 Presiune = 1013 Umiditate (%) = 68 Index UV = 0.66 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 10-25%']
+Saliste: 22 \ marți \ 31:5:2022 \ 19:21:45
+[' Răsarit = 05:39:01 Apus = 21:05:38 Min (°C) = 12.25 Max (°C) =20.96 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.69 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 25-50%']
+Saliste: 22 \ miercuri \ 01:6:2022 \ 19:19:33
+[' Răsarit = 05:38:25 Apus = 21:06:32 Min (°C) = 11.95 Max (°C) =23.81 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.63 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = nori 10-25%']
+Saliste: 22 \ joi \ 02:6:2022 \ 19:18:59
+[' Răsarit = 05:37:51 Apus = 21:07:24 Min (°C) = 13.56 Max (°C) =25.15 Presiune = 1017 Umiditate (%) = 50 Index UV = 0.25 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = nori 10-25%']
+Saliste: 22 \ vineri \ 03:6:2022 \ 19:19:28
+[' Răsarit = 05:37:19 Apus = 21:08:15 Min (°C) = 15.02 Max (°C) =24.31 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.83 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = nori 10-25%']
+Saliste: 22 \ sâmbătă \ 04:6:2022 \ 19:20:00
+[' Răsarit = 05:36:50 Apus = 21:09:04 Min (°C) = 14.95 Max (°C) =26.44 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.15 Viteza vântului = 1.54 Unghiul vântului = 170 Stare = nori 25-50%']
+Saliste: 22 \ duminică \ 05:6:2022 \ 19:18:58
+[' Răsarit = 05:36:23 Apus = 21:09:51 Min (°C) = 14.8 Max (°C) =23.94 Presiune = 1016 Umiditate (%) = 94 Index UV = 0.84 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 10-25%']
+Saliste: 23 \ luni \ 06:6:2022 \ 19:20:07
+[' Răsarit = 05:35:58 Apus = 21:10:36 Min (°C) = 11.88 Max (°C) =22.48 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.85 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = cer senin']
+Saliste: 23 \ marți \ 07:6:2022 \ 19:18:58
+[' Răsarit = 05:35:36 Apus = 21:11:20 Min (°C) = 12.4 Max (°C) =24.14 Presiune = 1013 Umiditate (%) = 47 Index UV = 0.85 Viteza vântului = 2.57 Unghiul vântului = 140 Stare = cer senin']
+Saliste: 23 \ miercuri \ 08:6:2022 \ 19:19:33
+[' Răsarit = 05:35:16 Apus = 21:12:01 Min (°C) = 12.8 Max (°C) =22.23 Presiune = 1010 Umiditate (%) = 64 Index UV = 0.78 Viteza vântului = 4.12 Unghiul vântului = 160 Stare = nori 25-50%']
+Saliste: 23 \ joi \ 09:6:2022 \ 19:19:16
+[' Răsarit = 05:34:58 Apus = 21:12:41 Min (°C) = 13.75 Max (°C) =21.64 Presiune = 1008 Umiditate (%) = 64 Index UV = 0.79 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = nori 25-50%']
+Saliste: 23 \ vineri \ 10:6:2022 \ 19:19:21
+[' Răsarit = 05:34:43 Apus = 21:13:19 Min (°C) = 12.05 Max (°C) =21.14 Presiune = 1013 Umiditate (%) = 53 Index UV = 0.83 Viteza vântului = 6.17 Unghiul vântului = 90 Stare = nori 25-50%']
+Saliste: 23 \ sâmbătă \ 11:6:2022 \ 19:19:21
+[' Răsarit = 05:34:30 Apus = 21:13:55 Min (°C) = 13.12 Max (°C) =20.7 Presiune = 1014 Umiditate (%) = 77 Index UV = 0.78 Viteza vântului = 2.06 Unghiul vântului = 130 Stare = ploaie torențială \n de intensitate mică']
+Saliste: 23 \ duminică \ 12:6:2022 \ 19:19:14
+[' Răsarit = 05:34:19 Apus = 21:14:29 Min (°C) = 13.15 Max (°C) =21.14 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.44 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = nori 10-25%']
+Saliste: 24 \ luni \ 13:6:2022 \ 19:19:00
+[' Răsarit = 05:34:11 Apus = 21:15:01 Min (°C) = 13.54 Max (°C) =23.08 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.7 Viteza vântului = 4.12 Unghiul vântului = 300 Stare = nori 10-25%']
+Saliste: 24 \ marți \ 14:6:2022 \ 19:18:43
+[' Răsarit = 05:34:05 Apus = 21:15:30 Min (°C) = 14.12 Max (°C) =21 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.83 Viteza vântului = 4.63 Unghiul vântului = 10 Stare = nori 25-50%']
+Saliste: 24 \ miercuri \ 15:6:2022 \ 19:18:57
+[' Răsarit = 05:34:01 Apus = 21:15:58 Min (°C) = 10.75 Max (°C) =21.15 Presiune = 1020 Umiditate (%) = 40 Index UV = 0.35 Viteza vântului = 4.63 Unghiul vântului = 30 Stare = nori 10-25%']
+Saliste: 24 \ joi \ 16:6:2022 \ 19:19:07
+[' Răsarit = 05:34:00 Apus = 21:16:23 Min (°C) = 11.78 Max (°C) =23.14 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.82 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Saliste: 24 \ vineri \ 17:6:2022 \ 19:19:35
+[' Răsarit = 05:34:01 Apus = 21:16:46 Min (°C) = 14.15 Max (°C) =21.31 Presiune = 1018 Umiditate (%) = 56 Index UV = 0.57 Viteza vântului = 1.03 Unghiul vântului = 220 Stare = nori 10-25%']
+Saliste: 24 \ sâmbătă \ 18:6:2022 \ 19:19:12
+[' Răsarit = 05:34:05 Apus = 21:17:07 Min (°C) = 11.35 Max (°C) =22.14 Presiune = 1020 Umiditate (%) = 38 Index UV = 0.86 Viteza vântului = 3.09 Unghiul vântului = 310 Stare = cer senin']
+Saliste: 24 \ duminică \ 19:6:2022 \ 19:17:58
+[' Răsarit = 05:34:11 Apus = 21:17:26 Min (°C) = 12.32 Max (°C) =25.14 Presiune = 1018 Umiditate (%) = 38 Index UV = 0.86 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = cer senin']
+Saliste: 25 \ luni \ 20:6:2022 \ 19:18:32
+[' Răsarit = 05:34:19 Apus = 21:17:42 Min (°C) = 14.6 Max (°C) =27.14 Presiune = 1011 Umiditate (%) = 34 Index UV = 0.86 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = cer senin']
+Saliste: 25 \ marți \ 21:6:2022 \ 19:19:21
+[' Răsarit = 05:34:29 Apus = 21:17:56 Min (°C) = 17.48 Max (°C) =26.56 Presiune = 1010 Umiditate (%) = 29 Index UV = 0.88 Viteza vântului = 8.75 Unghiul vântului = 270 Stare = cer senin']
+Saliste: 25 \ miercuri \ 22:6:2022 \ 19:18:45
+[' Răsarit = 05:34:42 Apus = 21:18:08 Min (°C) = 10.66 Max (°C) =22.42 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.81 Viteza vântului = 5.14 Unghiul vântului = 310 Stare = nori 10-25%']
+Saliste: 25 \ joi \ 23:6:2022 \ 19:18:56
+[' Răsarit = 05:34:57 Apus = 21:18:17 Min (°C) = 13.33 Max (°C) =23.14 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.58 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = nori 25-50%']
+Saliste: 25 \ duminică \ 26:6:2022 \ 20:00:25
+[' Răsarit = 05:35:55 Apus = 21:18:31 Min (°C) = 16.67 Max (°C) =23.8 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.25 Viteza vântului = 2.06 Unghiul vântului = 170 Stare = nori 10-25%']
+Saliste: 26 \ luni \ 27:6:2022 \ 19:19:12
+[' Răsarit = 05:36:19 Apus = 21:18:31 Min (°C) = 13.28 Max (°C) =26.14 Presiune = 1019 Umiditate (%) = 41 Index UV = 0.79 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = nori 10-25%']
+Saliste: 26 \ marți \ 28:6:2022 \ 19:19:38
+[' Răsarit = 05:36:44 Apus = 21:18:28 Min (°C) = 16.06 Max (°C) =27.14 Presiune = 1018 Umiditate (%) = 44 Index UV = 0.88 Viteza vântului = 3.09 Unghiul vântului = 150 Stare = cer senin']
+Saliste: 26 \ miercuri \ 29:6:2022 \ 19:19:27
+[' Răsarit = 05:37:12 Apus = 21:18:23 Min (°C) = 16.86 Max (°C) =30.14 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.81 Viteza vântului = 3.09 Unghiul vântului = 120 Stare = cer senin']
+Saliste: 26 \ joi \ 30:6:2022 \ 19:20:33
+[' Răsarit = 05:37:42 Apus = 21:18:15 Min (°C) = 18.19 Max (°C) =30.68 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.86 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 10-25%']
+Saliste: 26 \ vineri \ 01:7:2022 \ 19:19:56
+[' Răsarit = 05:38:14 Apus = 21:18:06 Min (°C) = 19.67 Max (°C) =31.29 Presiune = 1016 Umiditate (%) = 73 Index UV = 0.25 Viteza vântului = 5.66 Unghiul vântului = 100 Stare = nori 25-50%']
+Saliste: 26 \ sâmbătă \ 02:7:2022 \ 19:19:26
+[' Răsarit = 05:38:48 Apus = 21:17:53 Min (°C) = 19.44 Max (°C) =29.04 Presiune = 1019 Umiditate (%) = 50 Index UV = 0.64 Viteza vântului = 5.66 Unghiul vântului = 110 Stare = nori 25-50%']
