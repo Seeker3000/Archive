@@ -1032,3 +1032,121 @@ Victoria: 26 \ vineri \ 01:7:2022 \ 19:06:17
 [' Răsarit = 05:35:15 Apus = 21:14:37 Min (°C) = 17.69 Max (°C) =30.56 Presiune = 1015 Umiditate (%) = 66 Index UV = 0.47 Viteza vântului = 3.95 Unghiul vântului = 84 Stare = ploaie ușoară']
 Victoria: 26 \ sâmbătă \ 02:7:2022 \ 19:06:06
 [' Răsarit = 05:35:49 Apus = 21:14:24 Min (°C) = 18.37 Max (°C) =30.43 Presiune = 1018 Umiditate (%) = 55 Index UV = 0.62 Viteza vântului = 2.98 Unghiul vântului = 339 Stare = cer senin']
+Victoria: 26 \ duminică \ 03:7:2022 \ 19:06:09
+[' Răsarit = 05:36:25 Apus = 21:14:10 Min (°C) = 17.55 Max (°C) =29.14 Presiune = 1016 Umiditate (%) = 58 Index UV = 0.17 Viteza vântului = 1.8 Unghiul vântului = 82 Stare = cer senin']
+Victoria: 27 \ luni \ 04:7:2022 \ 19:05:33
+[' Răsarit = 05:37:02 Apus = 21:13:53 Min (°C) = 19.05 Max (°C) =30.52 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.36 Viteza vântului = 1.52 Unghiul vântului = 213 Stare = nori 10-25%']
+Victoria: 27 \ marți \ 05:7:2022 \ 19:05:43
+[' Răsarit = 05:37:42 Apus = 21:13:34 Min (°C) = 19.11 Max (°C) =30.41 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.68 Viteza vântului = 2.27 Unghiul vântului = 167 Stare = nori 50-85%']
+Victoria: 27 \ miercuri \ 06:7:2022 \ 19:05:35
+[' Răsarit = 05:38:23 Apus = 21:13:12 Min (°C) = 16.09 Max (°C) =20.69 Presiune = 1015 Umiditate (%) = 98 Index UV = 0.46 Viteza vântului = 0.58 Unghiul vântului = 346 Stare = ploaie ușoară']
+Victoria: 27 \ joi \ 07:7:2022 \ 19:05:34
+[' Răsarit = 05:39:06 Apus = 21:12:48 Min (°C) = 14.89 Max (°C) =23.54 Presiune = 1015 Umiditate (%) = 59 Index UV = 0.38 Viteza vântului = 1.49 Unghiul vântului = 75 Stare = nori 25-50%']
+Victoria: 27 \ vineri \ 08:7:2022 \ 19:05:37
+[' Răsarit = 05:39:51 Apus = 21:12:21 Min (°C) = 13.65 Max (°C) =23.44 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.1 Viteza vântului = 2.07 Unghiul vântului = 55 Stare = nori 50-85%']
+Victoria: 27 \ sâmbătă \ 09:7:2022 \ 19:05:36
+[' Răsarit = 05:40:38 Apus = 21:11:52 Min (°C) = 14.55 Max (°C) =22.63 Presiune = 1014 Umiditate (%) = 79 Index UV = 0.37 Viteza vântului = 1.31 Unghiul vântului = 232 Stare = nori 85-100%']
+Victoria: 27 \ duminică \ 10:7:2022 \ 19:05:32
+[' Răsarit = 05:41:26 Apus = 21:11:21 Min (°C) = 14.93 Max (°C) =22.44 Presiune = 1013 Umiditate (%) = 64 Index UV = 0.61 Viteza vântului = 3.72 Unghiul vântului = 251 Stare = nori 85-100%']
+Victoria: 28 \ luni \ 11:7:2022 \ 19:05:32
+[' Răsarit = 05:42:15 Apus = 21:10:48 Min (°C) = 12.35 Max (°C) =19.18 Presiune = 1017 Umiditate (%) = 55 Index UV = 0.19 Viteza vântului = 1.4 Unghiul vântului = 276 Stare = nori 50-85%']
+Victoria: 28 \ marți \ 12:7:2022 \ 19:05:48
+[' Răsarit = 05:43:06 Apus = 21:10:12 Min (°C) = 10.54 Max (°C) =19.48 Presiune = 1019 Umiditate (%) = 48 Index UV = 0.62 Viteza vântului = 3.32 Unghiul vântului = 262 Stare = nori 50-85%']
+Victoria: 28 \ miercuri \ 13:7:2022 \ 19:05:36
+[' Răsarit = 05:43:59 Apus = 21:09:34 Min (°C) = 11.31 Max (°C) =23.3 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.71 Viteza vântului = 2.95 Unghiul vântului = 224 Stare = nori 50-85%']
+Victoria: 28 \ joi \ 14:7:2022 \ 19:05:55
+[' Răsarit = 05:44:53 Apus = 21:08:54 Min (°C) = 15.65 Max (°C) =28.3 Presiune = 1016 Umiditate (%) = 32 Index UV = 0.73 Viteza vântului = 2.38 Unghiul vântului = 250 Stare = nori 10-25%']
+Victoria: 28 \ vineri \ 15:7:2022 \ 19:06:57
+[' Răsarit = 05:45:48 Apus = 21:08:11 Min (°C) = 17.23 Max (°C) =29.73 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.45 Viteza vântului = 1.19 Unghiul vântului = 123 Stare = nori 50-85%']
+Victoria: 28 \ sâmbătă \ 16:7:2022 \ 19:06:08
+[' Răsarit = 05:46:45 Apus = 21:07:27 Min (°C) = 17.25 Max (°C) =26.86 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.67 Viteza vântului = 5.07 Unghiul vântului = 252 Stare = nori 25-50%']
+Victoria: 28 \ duminică \ 17:7:2022 \ 19:06:16
+[' Răsarit = 05:47:42 Apus = 21:06:40 Min (°C) = 16.01 Max (°C) =25.26 Presiune = 1021 Umiditate (%) = 25 Index UV = 0.65 Viteza vântului = 4.82 Unghiul vântului = 342 Stare = cer senin']
+Victoria: 29 \ luni \ 18:7:2022 \ 19:05:56
+[' Răsarit = 05:48:42 Apus = 21:05:51 Min (°C) = 11.73 Max (°C) =24.71 Presiune = 1022 Umiditate (%) = 22 Index UV = 0.56 Viteza vântului = 1.69 Unghiul vântului = 328 Stare = nori 25-50%']
+Victoria: 29 \ marți \ 19:7:2022 \ 19:06:05
+[' Răsarit = 05:49:42 Apus = 21:05:00 Min (°C) = 12.4 Max (°C) =27.35 Presiune = 1019 Umiditate (%) = 24 Index UV = 0.67 Viteza vântului = 1.62 Unghiul vântului = 228 Stare = nori 10-25%']
+Victoria: 29 \ miercuri \ 20:7:2022 \ 19:05:57
+[' Răsarit = 05:50:43 Apus = 21:04:07 Min (°C) = 15.01 Max (°C) =29.35 Presiune = 1017 Umiditate (%) = 30 Index UV = 0.68 Viteza vântului = 2.92 Unghiul vântului = 311 Stare = nori 25-50%']
+Victoria: 29 \ joi \ 21:7:2022 \ 19:05:37
+[' Răsarit = 05:51:45 Apus = 21:03:12 Min (°C) = 17.85 Max (°C) =31.35 Presiune = 1013 Umiditate (%) = 19 Index UV = 0.66 Viteza vântului = 2.73 Unghiul vântului = 308 Stare = cer senin']
+Victoria: 29 \ vineri \ 22:7:2022 \ 19:05:30
+[' Răsarit = 05:52:49 Apus = 21:02:15 Min (°C) = 15.75 Max (°C) =33.39 Presiune = 1014 Umiditate (%) = 18 Index UV = 0.62 Viteza vântului = 3.36 Unghiul vântului = 353 Stare = cer senin']
+Victoria: 29 \ sâmbătă \ 23:7:2022 \ 19:06:06
+[' Răsarit = 05:53:53 Apus = 21:01:16 Min (°C) = 19.88 Max (°C) =35.1 Presiune = 1013 Umiditate (%) = 16 Index UV = 0.6 Viteza vântului = 4.38 Unghiul vântului = 256 Stare = nori 25-50%']
+Victoria: 29 \ duminică \ 24:7:2022 \ 19:06:05
+[' Răsarit = 05:54:58 Apus = 21:00:14 Min (°C) = 20.66 Max (°C) =34.01 Presiune = 1014 Umiditate (%) = 46 Index UV = 0.3 Viteza vântului = 1.99 Unghiul vântului = 65 Stare = nori 85-100%']
+Victoria: 30 \ luni \ 25:7:2022 \ 19:06:09
+[' Răsarit = 05:56:04 Apus = 20:59:11 Min (°C) = 16.76 Max (°C) =31.06 Presiune = 1011 Umiditate (%) = 19 Index UV = 0.63 Viteza vântului = 3.31 Unghiul vântului = 256 Stare = nori 25-50%']
+Victoria: 30 \ marți \ 26:7:2022 \ 19:06:24
+[' Răsarit = 05:57:11 Apus = 20:58:06 Min (°C) = 16.76 Max (°C) =33.11 Presiune = 1008 Umiditate (%) = 24 Index UV = 0.62 Viteza vântului = 4.61 Unghiul vântului = 271 Stare = cer senin']
+Victoria: 30 \ miercuri \ 27:7:2022 \ 19:06:30
+[' Răsarit = 05:58:18 Apus = 20:57:00 Min (°C) = 18.3 Max (°C) =30.98 Presiune = 1009 Umiditate (%) = 24 Index UV = 0.3 Viteza vântului = 2.87 Unghiul vântului = 294 Stare = nori 25-50%']
+Victoria: 30 \ joi \ 28:7:2022 \ 19:06:01
+[' Răsarit = 05:59:27 Apus = 20:55:51 Min (°C) = 16.46 Max (°C) =24.2 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.47 Viteza vântului = 1.63 Unghiul vântului = 78 Stare = ploaie ușoară']
+Victoria: 30 \ vineri \ 29:7:2022 \ 19:06:04
+[' Răsarit = 06:00:35 Apus = 20:54:41 Min (°C) = 16.46 Max (°C) =30.4 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.28 Viteza vântului = 2.95 Unghiul vântului = 74 Stare = nori 85-100%']
+Victoria: 30 \ sâmbătă \ 30:7:2022 \ 19:06:12
+[' Răsarit = 06:01:45 Apus = 20:53:28 Min (°C) = 17.52 Max (°C) =31.1 Presiune = 1011 Umiditate (%) = 38 Index UV = 0.41 Viteza vântului = 0.87 Unghiul vântului = 179 Stare = nori 25-50%']
+Victoria: 30 \ duminică \ 31:7:2022 \ 19:06:34
+[' Răsarit = 06:02:55 Apus = 20:52:15 Min (°C) = 16.56 Max (°C) =23.3 Presiune = 1010 Umiditate (%) = 50 Index UV = 0.51 Viteza vântului = 5.65 Unghiul vântului = 283 Stare = nori 85-100%']
+Victoria: 31 \ sâmbătă \ 06:8:2022 \ 19:06:03
+[' Răsarit = 06:10:05 Apus = 20:44:17 Min (°C) = 18.02 Max (°C) =32.36 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.44 Viteza vântului = 5.34 Unghiul vântului = 70 Stare = nori 50-85%']
+Victoria: 31 \ duminică \ 07:8:2022 \ 19:06:07
+[' Răsarit = 06:11:18 Apus = 20:42:52 Min (°C) = 19.55 Max (°C) =30.33 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.31 Viteza vântului = 5.17 Unghiul vântului = 90 Stare = nori 25-50%']
+Victoria: 32 \ luni \ 08:8:2022 \ 19:06:35
+[' Răsarit = 06:12:31 Apus = 20:41:25 Min (°C) = 18.11 Max (°C) =30.34 Presiune = 1017 Umiditate (%) = 67 Index UV = 0.07 Viteza vântului = 2.44 Unghiul vântului = 201 Stare = ploaie moderată']
+Victoria: 32 \ marți \ 09:8:2022 \ 19:06:01
+[' Răsarit = 06:13:45 Apus = 20:39:57 Min (°C) = 16.24 Max (°C) =28.68 Presiune = 1018 Umiditate (%) = 55 Index UV = 0.38 Viteza vântului = 2.44 Unghiul vântului = 309 Stare = ploaie ușoară']
+Victoria: 32 \ miercuri \ 10:8:2022 \ 19:06:23
+[' Răsarit = 06:14:58 Apus = 20:38:28 Min (°C) = 15.42 Max (°C) =23.98 Presiune = 1017 Umiditate (%) = 70 Index UV = 0.13 Viteza vântului = 1.55 Unghiul vântului = 54 Stare = nori 50-85%']
+Victoria: 32 \ joi \ 11:8:2022 \ 19:06:00
+[' Răsarit = 06:16:12 Apus = 20:36:57 Min (°C) = 13.24 Max (°C) =24.2 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.21 Viteza vântului = 5.7 Unghiul vântului = 60 Stare = nori 25-50%']
+Victoria: 32 \ vineri \ 12:8:2022 \ 19:06:06
+[' Răsarit = 06:17:26 Apus = 20:35:25 Min (°C) = 14.14 Max (°C) =27.57 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.35 Viteza vântului = 2.85 Unghiul vântului = 31 Stare = nori 50-85%']
+Victoria: 32 \ sâmbătă \ 13:8:2022 \ 19:06:08
+[' Răsarit = 06:18:40 Apus = 20:33:52 Min (°C) = 14.6 Max (°C) =27.34 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.04 Viteza vântului = 1.89 Unghiul vântului = 183 Stare = nori 85-100%']
+Victoria: 32 \ duminică \ 14:8:2022 \ 19:06:13
+[' Răsarit = 06:19:54 Apus = 20:32:18 Min (°C) = 15.82 Max (°C) =26.37 Presiune = 1007 Umiditate (%) = 68 Index UV = 0.06 Viteza vântului = 0.4 Unghiul vântului = 147 Stare = ploaie ușoară']
+Victoria: 33 \ luni \ 15:8:2022 \ 19:06:14
+[' Răsarit = 06:21:09 Apus = 20:30:42 Min (°C) = 15.65 Max (°C) =27.53 Presiune = 1007 Umiditate (%) = 17 Index UV = 0.12 Viteza vântului = 2.45 Unghiul vântului = 260 Stare = ploaie ușoară']
+Victoria: 33 \ marți \ 16:8:2022 \ 19:06:40
+[' Răsarit = 06:22:23 Apus = 20:29:05 Min (°C) = 16.31 Max (°C) =27.26 Presiune = 1010 Umiditate (%) = 72 Index UV = 0.1 Viteza vântului = 4.54 Unghiul vântului = 239 Stare = nori 50-85%']
+Victoria: 33 \ miercuri \ 17:8:2022 \ 19:06:28
+[' Răsarit = 06:23:37 Apus = 20:27:27 Min (°C) = 17.25 Max (°C) =28.56 Presiune = 1012 Umiditate (%) = 67 Index UV = 0.27 Viteza vântului = 1.52 Unghiul vântului = 212 Stare = nori 50-85%']
+Victoria: 33 \ joi \ 18:8:2022 \ 19:06:36
+[' Răsarit = 06:24:52 Apus = 20:25:48 Min (°C) = 18.85 Max (°C) =29.41 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.38 Viteza vântului = 2.22 Unghiul vântului = 235 Stare = nori 85-100%']
+Victoria: 33 \ vineri \ 19:8:2022 \ 19:07:11
+[' Răsarit = 06:26:06 Apus = 20:24:07 Min (°C) = 18.1 Max (°C) =31.67 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.37 Viteza vântului = 3.34 Unghiul vântului = 76 Stare = cer senin']
+Victoria: 33 \ sâmbătă \ 20:8:2022 \ 19:07:08
+[' Răsarit = 06:27:21 Apus = 20:22:26 Min (°C) = 18.98 Max (°C) =31.53 Presiune = 1007 Umiditate (%) = 33 Index UV = 0.36 Viteza vântului = 1.16 Unghiul vântului = 60 Stare = cer senin']
+Victoria: 33 \ duminică \ 21:8:2022 \ 19:06:28
+[' Răsarit = 06:28:35 Apus = 20:20:43 Min (°C) = 17.33 Max (°C) =26.43 Presiune = 1008 Umiditate (%) = 63 Index UV = 0.26 Viteza vântului = 0.86 Unghiul vântului = 356 Stare = nori 85-100%']
+Victoria: 34 \ luni \ 22:8:2022 \ 19:06:38
+[' Răsarit = 06:29:50 Apus = 20:19:00 Min (°C) = 16.95 Max (°C) =24.41 Presiune = 1009 Umiditate (%) = 64 Index UV = 0.24 Viteza vântului = 0.85 Unghiul vântului = 59 Stare = nori 50-85%']
+Victoria: 34 \ marți \ 23:8:2022 \ 19:06:44
+[' Răsarit = 06:31:04 Apus = 20:17:16 Min (°C) = 15.71 Max (°C) =25.54 Presiune = 1013 Umiditate (%) = 75 Index UV = 0.21 Viteza vântului = 2.87 Unghiul vântului = 286 Stare = ploaie moderată']
+Victoria: 34 \ miercuri \ 24:8:2022 \ 19:06:16
+[' Răsarit = 06:32:18 Apus = 20:15:30 Min (°C) = 16.47 Max (°C) =27.71 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.21 Viteza vântului = 1.05 Unghiul vântului = 73 Stare = nori 85-100%']
+Victoria: 34 \ joi \ 25:8:2022 \ 19:07:06
+[' Răsarit = 06:33:33 Apus = 20:13:44 Min (°C) = 16.26 Max (°C) =28.88 Presiune = 1013 Umiditate (%) = 17 Index UV = 0.26 Viteza vântului = 5.21 Unghiul vântului = 84 Stare = nori 25-50%']
+Victoria: 34 \ vineri \ 26:8:2022 \ 19:05:57
+[' Răsarit = 06:34:47 Apus = 20:11:57 Min (°C) = 15.48 Max (°C) =28.87 Presiune = 1009 Umiditate (%) = 36 Index UV = 0.25 Viteza vântului = 1.65 Unghiul vântului = 160 Stare = cer senin']
+Victoria: 34 \ sâmbătă \ 27:8:2022 \ 19:05:56
+[' Răsarit = 06:36:01 Apus = 20:10:09 Min (°C) = 16.49 Max (°C) =28.84 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.26 Viteza vântului = 2.99 Unghiul vântului = 250 Stare = cer senin']
+Victoria: 34 \ duminică \ 28:8:2022 \ 19:06:12
+[' Răsarit = 06:37:15 Apus = 20:08:21 Min (°C) = 17.77 Max (°C) =30.2 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.25 Viteza vântului = 1.99 Unghiul vântului = 323 Stare = cer senin']
+Victoria: 35 \ luni \ 29:8:2022 \ 19:06:54
+[' Răsarit = 06:38:29 Apus = 20:06:31 Min (°C) = 18.32 Max (°C) =30.88 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.17 Viteza vântului = 1.3 Unghiul vântului = 199 Stare = nori 85-100%']
+Victoria: 35 \ marți \ 30:8:2022 \ 19:06:26
+[' Răsarit = 06:39:43 Apus = 20:04:41 Min (°C) = 16.47 Max (°C) =28.4 Presiune = 1017 Umiditate (%) = 93 Index UV = 0.03 Viteza vântului = 4.63 Unghiul vântului = 98 Stare = nori 85-100%']
+Victoria: 35 \ miercuri \ 31:8:2022 \ 19:06:20
+[' Răsarit = 06:40:56 Apus = 20:02:50 Min (°C) = 14.66 Max (°C) =26.12 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.07 Viteza vântului = 3.85 Unghiul vântului = 78 Stare = ploaie ușoară']
+Victoria: 35 \ joi \ 01:9:2022 \ 19:06:27
+[' Răsarit = 06:42:10 Apus = 20:00:59 Min (°C) = 14.21 Max (°C) =23.38 Presiune = 1014 Umiditate (%) = 84 Index UV = 0.03 Viteza vântului = 1.51 Unghiul vântului = 314 Stare = nori 85-100%']
+Victoria: 35 \ vineri \ 02:9:2022 \ 19:06:47
+[' Răsarit = 06:43:24 Apus = 19:59:07 Min (°C) = 13.05 Max (°C) =16.16 Presiune = 1016 Umiditate (%) = 92 Index UV = 0.02 Viteza vântului = 0.84 Unghiul vântului = 3 Stare = nori 85-100%']
+Victoria: 35 \ sâmbătă \ 03:9:2022 \ 19:06:25
+[' Răsarit = 06:44:37 Apus = 19:57:14 Min (°C) = 12.34 Max (°C) =16.52 Presiune = 1018 Umiditate (%) = 87 Index UV = 0.15 Viteza vântului = 1.72 Unghiul vântului = 66 Stare = nori 50-85%']
+Victoria: 35 \ duminică \ 04:9:2022 \ 19:06:13
+[' Răsarit = 06:45:51 Apus = 19:55:21 Min (°C) = 12.6 Max (°C) =20.69 Presiune = 1021 Umiditate (%) = 64 Index UV = 0.15 Viteza vântului = 0.66 Unghiul vântului = 202 Stare = nori 50-85%']

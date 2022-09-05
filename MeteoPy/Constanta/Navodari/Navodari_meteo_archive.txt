@@ -1032,3 +1032,121 @@ Navodari: 26 \ vineri \ 01:7:2022 \ 19:09:02
 [' Răsarit = 05:25:08 Apus = 20:53:23 Min (°C) = 20.92 Max (°C) =28.5 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
 Navodari: 26 \ sâmbătă \ 02:7:2022 \ 19:08:53
 [' Răsarit = 05:25:41 Apus = 20:53:12 Min (°C) = 20.27 Max (°C) =29.5 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.59 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Navodari: 26 \ duminică \ 03:7:2022 \ 19:08:50
+[' Răsarit = 05:26:15 Apus = 20:52:59 Min (°C) = 20.37 Max (°C) =28.5 Presiune = 1018 Umiditate (%) = 30 Index UV = 0.59 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 27 \ luni \ 04:7:2022 \ 19:08:03
+[' Răsarit = 05:26:51 Apus = 20:52:44 Min (°C) = 19.28 Max (°C) =28.77 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.61 Viteza vântului = 5.66 Unghiul vântului = 160 Stare = cer senin']
+Navodari: 27 \ marți \ 05:7:2022 \ 19:08:15
+[' Răsarit = 05:27:29 Apus = 20:52:26 Min (°C) = 19.86 Max (°C) =29.5 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.59 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 27 \ miercuri \ 06:7:2022 \ 19:08:06
+[' Răsarit = 05:28:08 Apus = 20:52:06 Min (°C) = 19.39 Max (°C) =29.69 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.57 Viteza vântului = 5.66 Unghiul vântului = 120 Stare = cer senin']
+Navodari: 27 \ joi \ 07:7:2022 \ 19:08:05
+[' Răsarit = 05:28:50 Apus = 20:51:44 Min (°C) = 19.2 Max (°C) =29.7 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.54 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = cer senin']
+Navodari: 27 \ vineri \ 08:7:2022 \ 19:08:08
+[' Răsarit = 05:29:32 Apus = 20:51:20 Min (°C) = 17.27 Max (°C) =28.88 Presiune = 1012 Umiditate (%) = 88 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = ploaie torențială \n de intensitate mică']
+Navodari: 27 \ sâmbătă \ 09:7:2022 \ 19:08:10
+[' Răsarit = 05:30:16 Apus = 20:50:53 Min (°C) = 18.76 Max (°C) =28.79 Presiune = 1009 Umiditate (%) = 57 Index UV = 0.36 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = nori 10-25%']
+Navodari: 27 \ duminică \ 10:7:2022 \ 19:08:02
+[' Răsarit = 05:31:02 Apus = 20:50:24 Min (°C) = 18.4 Max (°C) =28.5 Presiune = 1008 Umiditate (%) = 34 Index UV = 0.32 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = cer senin']
+Navodari: 28 \ luni \ 11:7:2022 \ 19:08:02
+[' Răsarit = 05:31:49 Apus = 20:49:53 Min (°C) = 17.71 Max (°C) =26.15 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.45 Viteza vântului = 6.17 Unghiul vântului = 340 Stare = cer senin']
+Navodari: 28 \ marți \ 12:7:2022 \ 19:08:20
+[' Răsarit = 05:32:38 Apus = 20:49:20 Min (°C) = 16.9 Max (°C) =24.11 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.38 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = cer senin']
+Navodari: 28 \ miercuri \ 13:7:2022 \ 19:08:09
+[' Răsarit = 05:33:28 Apus = 20:48:45 Min (°C) = 16.95 Max (°C) =27.33 Presiune = 1015 Umiditate (%) = 29 Index UV = 0.4 Viteza vântului = 9.26 Unghiul vântului = 340 Stare = cer senin']
+Navodari: 28 \ joi \ 14:7:2022 \ 19:08:36
+[' Răsarit = 05:34:19 Apus = 20:48:07 Min (°C) = 18.24 Max (°C) =29.94 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.27 Viteza vântului = 6.17 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 28 \ vineri \ 15:7:2022 \ 19:09:53
+[' Răsarit = 05:35:11 Apus = 20:47:28 Min (°C) = 20.79 Max (°C) =29.5 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.51 Viteza vântului = 7.2 Unghiul vântului = 150 Stare = cer senin']
+Navodari: 28 \ sâmbătă \ 16:7:2022 \ 19:08:46
+[' Răsarit = 05:36:05 Apus = 20:46:46 Min (°C) = 19.87 Max (°C) =30.5 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.4 Viteza vântului = 5.14 Unghiul vântului = 150 Stare = nori 10-25%']
+Navodari: 28 \ duminică \ 17:7:2022 \ 19:08:59
+[' Răsarit = 05:37:00 Apus = 20:46:02 Min (°C) = 19.32 Max (°C) =29.85 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.4 Viteza vântului = 3.09 Unghiul vântului = 190 Stare = cer senin']
+Navodari: 29 \ luni \ 18:7:2022 \ 19:08:35
+[' Răsarit = 05:37:56 Apus = 20:45:17 Min (°C) = 17.02 Max (°C) =26.08 Presiune = 1022 Umiditate (%) = 46 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 120 Stare = cer senin']
+Navodari: 29 \ marți \ 19:7:2022 \ 19:08:45
+[' Răsarit = 05:38:53 Apus = 20:44:29 Min (°C) = 17.01 Max (°C) =26.55 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = cer senin']
+Navodari: 29 \ miercuri \ 20:7:2022 \ 19:08:39
+[' Răsarit = 05:39:51 Apus = 20:43:39 Min (°C) = 17.41 Max (°C) =28.73 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.42 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Navodari: 29 \ joi \ 21:7:2022 \ 19:08:09
+[' Răsarit = 05:40:50 Apus = 20:42:47 Min (°C) = 20.49 Max (°C) =28.52 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.46 Viteza vântului = 4.63 Unghiul vântului = 130 Stare = cer senin']
+Navodari: 29 \ vineri \ 22:7:2022 \ 19:07:59
+[' Răsarit = 05:41:50 Apus = 20:41:53 Min (°C) = 18.7 Max (°C) =30.98 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.45 Viteza vântului = 1.82 Unghiul vântului = 138 Stare = cer senin']
+Navodari: 29 \ sâmbătă \ 23:7:2022 \ 19:08:47
+[' Răsarit = 05:42:51 Apus = 20:40:58 Min (°C) = 22.27 Max (°C) =29.56 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.45 Viteza vântului = 6.69 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 29 \ duminică \ 24:7:2022 \ 19:08:45
+[' Răsarit = 05:43:52 Apus = 20:40:00 Min (°C) = 20.84 Max (°C) =30.24 Presiune = 1011 Umiditate (%) = 48 Index UV = 0.43 Viteza vântului = 7.72 Unghiul vântului = 150 Stare = cer senin']
+Navodari: 30 \ luni \ 25:7:2022 \ 19:08:57
+[' Răsarit = 05:44:55 Apus = 20:39:01 Min (°C) = 21.3 Max (°C) =28.5 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.42 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 30 \ marți \ 26:7:2022 \ 19:09:02
+[' Răsarit = 05:45:58 Apus = 20:38:00 Min (°C) = 19.88 Max (°C) =30.5 Presiune = 1009 Umiditate (%) = 37 Index UV = 0.43 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 30 \ miercuri \ 27:7:2022 \ 19:09:20
+[' Răsarit = 05:47:01 Apus = 20:36:57 Min (°C) = 21.3 Max (°C) =31.32 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.4 Viteza vântului = 7.72 Unghiul vântului = 160 Stare = nori 10-25%']
+Navodari: 30 \ joi \ 28:7:2022 \ 19:08:42
+[' Răsarit = 05:48:06 Apus = 20:35:52 Min (°C) = 21.5 Max (°C) =29.32 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.42 Viteza vântului = 5.66 Unghiul vântului = 130 Stare = cer senin']
+Navodari: 30 \ vineri \ 29:7:2022 \ 19:08:49
+[' Răsarit = 05:49:11 Apus = 20:34:45 Min (°C) = 21 Max (°C) =29.83 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.43 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Navodari: 30 \ sâmbătă \ 30:7:2022 \ 19:08:58
+[' Răsarit = 05:50:17 Apus = 20:33:37 Min (°C) = 21.58 Max (°C) =29.43 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.42 Viteza vântului = 5.14 Unghiul vântului = 80 Stare = nori 10-25%']
+Navodari: 30 \ duminică \ 31:7:2022 \ 19:09:21
+[' Răsarit = 05:51:23 Apus = 20:32:27 Min (°C) = 21.84 Max (°C) =30.5 Presiune = 1009 Umiditate (%) = 73 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 10-25%']
+Navodari: 31 \ sâmbătă \ 06:8:2022 \ 19:08:43
+[' Răsarit = 05:58:08 Apus = 20:24:54 Min (°C) = 21.71 Max (°C) =29.05 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.26 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Navodari: 31 \ duminică \ 07:8:2022 \ 19:08:50
+[' Răsarit = 05:59:17 Apus = 20:23:33 Min (°C) = 22.13 Max (°C) =30.89 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.34 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Navodari: 32 \ luni \ 08:8:2022 \ 19:09:23
+[' Răsarit = 06:00:26 Apus = 20:22:11 Min (°C) = 22.11 Max (°C) =32.11 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.33 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Navodari: 32 \ marți \ 09:8:2022 \ 19:08:43
+[' Răsarit = 06:01:35 Apus = 20:20:47 Min (°C) = 22.86 Max (°C) =31.8 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.32 Viteza vântului = 7.72 Unghiul vântului = 20 Stare = cer senin']
+Navodari: 32 \ miercuri \ 10:8:2022 \ 19:09:08
+[' Răsarit = 06:02:44 Apus = 20:19:22 Min (°C) = 21.23 Max (°C) =29.54 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.31 Viteza vântului = 9.26 Unghiul vântului = 340 Stare = cer senin']
+Navodari: 32 \ joi \ 11:8:2022 \ 19:08:46
+[' Răsarit = 06:03:54 Apus = 20:17:56 Min (°C) = 18.8 Max (°C) =30.42 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.29 Viteza vântului = 5.66 Unghiul vântului = 10 Stare = cer senin']
+Navodari: 32 \ vineri \ 12:8:2022 \ 19:08:52
+[' Răsarit = 06:05:03 Apus = 20:16:28 Min (°C) = 19.53 Max (°C) =29.68 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.06 Viteza vântului = 3.6 Unghiul vântului = 120 Stare = cer senin']
+Navodari: 32 \ sâmbătă \ 13:8:2022 \ 19:08:56
+[' Răsarit = 06:06:13 Apus = 20:14:59 Min (°C) = 19.62 Max (°C) =28.37 Presiune = 1008 Umiditate (%) = 65 Index UV = 0.2 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = nori 10-25%']
+Navodari: 32 \ duminică \ 14:8:2022 \ 19:08:59
+[' Răsarit = 06:07:23 Apus = 20:13:29 Min (°C) = 21.24 Max (°C) =28.44 Presiune = 1004 Umiditate (%) = 65 Index UV = 0.19 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = nori 10-25%']
+Navodari: 33 \ luni \ 15:8:2022 \ 19:08:58
+[' Răsarit = 06:08:33 Apus = 20:11:58 Min (°C) = 18.77 Max (°C) =30.03 Presiune = 1007 Umiditate (%) = 94 Index UV = 0.06 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = ploaie ușoară']
+Navodari: 33 \ marți \ 16:8:2022 \ 19:09:25
+[' Răsarit = 06:09:43 Apus = 20:10:25 Min (°C) = 19.66 Max (°C) =30.79 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.08 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = nori 10-25%']
+Navodari: 33 \ miercuri \ 17:8:2022 \ 19:09:18
+[' Răsarit = 06:10:53 Apus = 20:08:52 Min (°C) = 21.91 Max (°C) =31.27 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.04 Viteza vântului = 6.69 Unghiul vântului = 170 Stare = cer senin']
+Navodari: 33 \ joi \ 18:8:2022 \ 19:09:20
+[' Răsarit = 06:12:03 Apus = 20:07:17 Min (°C) = 22.37 Max (°C) =29.89 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.21 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 10-25%']
+Navodari: 33 \ vineri \ 19:8:2022 \ 19:09:56
+[' Răsarit = 06:13:13 Apus = 20:05:41 Min (°C) = 22.24 Max (°C) =31.35 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.24 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
+Navodari: 33 \ sâmbătă \ 20:8:2022 \ 19:10:10
+[' Răsarit = 06:14:23 Apus = 20:04:04 Min (°C) = 22.8 Max (°C) =30.05 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.22 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = nori 10-25%']
+Navodari: 33 \ duminică \ 21:8:2022 \ 19:09:19
+[' Răsarit = 06:15:33 Apus = 20:02:26 Min (°C) = 21.73 Max (°C) =28.51 Presiune = 1007 Umiditate (%) = 69 Index UV = 0.21 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Navodari: 34 \ luni \ 22:8:2022 \ 19:09:22
+[' Răsarit = 06:16:43 Apus = 20:00:47 Min (°C) = 21.57 Max (°C) =29.57 Presiune = 1007 Umiditate (%) = 84 Index UV = 0.21 Viteza vântului = 4.35 Unghiul vântului = 102 Stare = cer senin']
+Navodari: 34 \ marți \ 23:8:2022 \ 19:09:29
+[' Răsarit = 06:17:52 Apus = 19:59:08 Min (°C) = 22.6 Max (°C) =29.56 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.2 Viteza vântului = 4.63 Unghiul vântului = 80 Stare = nori 10-25%']
+Navodari: 34 \ miercuri \ 24:8:2022 \ 19:08:57
+[' Răsarit = 06:19:02 Apus = 19:57:27 Min (°C) = 22.45 Max (°C) =30.49 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.19 Viteza vântului = 6.17 Unghiul vântului = 50 Stare = cer senin']
+Navodari: 34 \ joi \ 25:8:2022 \ 19:09:49
+[' Răsarit = 06:20:12 Apus = 19:55:45 Min (°C) = 21.79 Max (°C) =29.41 Presiune = 1009 Umiditate (%) = 44 Index UV = 0.07 Viteza vântului = 5.66 Unghiul vântului = 30 Stare = cer senin']
+Navodari: 34 \ vineri \ 26:8:2022 \ 19:08:32
+[' Răsarit = 06:21:22 Apus = 19:54:03 Min (°C) = 21.78 Max (°C) =30.41 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.17 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = cer senin']
+Navodari: 34 \ sâmbătă \ 27:8:2022 \ 19:08:31
+[' Răsarit = 06:22:31 Apus = 19:52:20 Min (°C) = 21.95 Max (°C) =30.58 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Navodari: 34 \ duminică \ 28:8:2022 \ 19:08:58
+[' Răsarit = 06:23:41 Apus = 19:50:35 Min (°C) = 22.51 Max (°C) =32.25 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Navodari: 35 \ luni \ 29:8:2022 \ 19:09:42
+[' Răsarit = 06:24:50 Apus = 19:48:51 Min (°C) = 22.97 Max (°C) =31.5 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Navodari: 35 \ marți \ 30:8:2022 \ 19:09:13
+[' Răsarit = 06:25:59 Apus = 19:47:05 Min (°C) = 22.19 Max (°C) =29.81 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.15 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
+Navodari: 35 \ miercuri \ 31:8:2022 \ 19:09:10
+[' Răsarit = 06:27:08 Apus = 19:45:19 Min (°C) = 21.34 Max (°C) =28.11 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.12 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = nori 10-25%']
+Navodari: 35 \ joi \ 01:9:2022 \ 19:09:11
+[' Răsarit = 06:28:18 Apus = 19:43:32 Min (°C) = 20.3 Max (°C) =27.21 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 6.17 Unghiul vântului = 90 Stare = nori 10-25%']
+Navodari: 35 \ vineri \ 02:9:2022 \ 19:09:31
+[' Răsarit = 06:29:27 Apus = 19:41:44 Min (°C) = 21.32 Max (°C) =25.53 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.13 Viteza vântului = 7.2 Unghiul vântului = 50 Stare = nori 50-85%']
+Navodari: 35 \ sâmbătă \ 03:9:2022 \ 19:09:06
+[' Răsarit = 06:30:36 Apus = 19:39:56 Min (°C) = 15.87 Max (°C) =23.53 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.02 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 50-85%']
+Navodari: 35 \ duminică \ 04:9:2022 \ 19:08:55
+[' Răsarit = 06:31:45 Apus = 19:38:08 Min (°C) = 13.62 Max (°C) =21.73 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = nori 10-25%']

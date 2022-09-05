@@ -1034,3 +1034,121 @@ Ludus: 26 \ vineri \ 01:7:2022 \ 19:15:29
 [' Răsarit = 05:34:33 Apus = 21:20:02 Min (°C) = 18.3 Max (°C) =36.15 Presiune = 1014 Umiditate (%) = 29 Index UV = 0.57 Viteza vântului = 4.63 Unghiul vântului = 220 Stare = nori 50-85%']
 Ludus: 26 \ sâmbătă \ 02:7:2022 \ 19:15:18
 [' Răsarit = 05:35:08 Apus = 21:19:49 Min (°C) = 17.88 Max (°C) =30.02 Presiune = 1019 Umiditate (%) = 61 Index UV = 0.71 Viteza vântului = 7.72 Unghiul vântului = 0 Stare = ploaie torențială']
+Ludus: 26 \ duminică \ 03:7:2022 \ 19:15:06
+[' Răsarit = 05:35:44 Apus = 21:19:34 Min (°C) = 17.5 Max (°C) =32.99 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.49 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = nori 50-85%']
+Ludus: 27 \ luni \ 04:7:2022 \ 19:13:52
+[' Răsarit = 05:36:23 Apus = 21:19:16 Min (°C) = 18.23 Max (°C) =33.84 Presiune = 1015 Umiditate (%) = 33 Index UV = 0.27 Viteza vântului = 1.54 Unghiul vântului = 150 Stare = nori 25-50%']
+Ludus: 27 \ marți \ 05:7:2022 \ 19:14:11
+[' Răsarit = 05:37:03 Apus = 21:18:55 Min (°C) = 20.9 Max (°C) =34.98 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.56 Viteza vântului = 5.14 Unghiul vântului = 170 Stare = nori 10-25%']
+Ludus: 27 \ miercuri \ 06:7:2022 \ 19:13:57
+[' Răsarit = 05:37:46 Apus = 21:18:32 Min (°C) = 18.04 Max (°C) =25.45 Presiune = 1016 Umiditate (%) = 100 Index UV = 0.54 Viteza vântului = 4.63 Unghiul vântului = 330 Stare = heavy intensity ploaie torențială']
+Ludus: 27 \ joi \ 07:7:2022 \ 19:14:00
+[' Răsarit = 05:38:30 Apus = 21:18:07 Min (°C) = 13.6 Max (°C) =26.2 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.42 Viteza vântului = 2.57 Unghiul vântului = 320 Stare = nori 50-85%']
+Ludus: 27 \ vineri \ 08:7:2022 \ 19:13:59
+[' Răsarit = 05:39:16 Apus = 21:17:40 Min (°C) = 14.96 Max (°C) =27.14 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.24 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 50-85%']
+Ludus: 27 \ sâmbătă \ 09:7:2022 \ 19:14:23
+[' Răsarit = 05:40:03 Apus = 21:17:10 Min (°C) = 15.26 Max (°C) =25.91 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.11 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = nori 25-50%']
+Ludus: 27 \ duminică \ 10:7:2022 \ 19:13:53
+[' Răsarit = 05:40:53 Apus = 21:16:37 Min (°C) = 13.23 Max (°C) =23.4 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.64 Viteza vântului = 2.73 Unghiul vântului = 260 Stare = nori 50-85%']
+Ludus: 28 \ luni \ 11:7:2022 \ 19:13:57
+[' Răsarit = 05:41:44 Apus = 21:16:02 Min (°C) = 12.08 Max (°C) =22.53 Presiune = 1016 Umiditate (%) = 33 Index UV = 0.25 Viteza vântului = 5.51 Unghiul vântului = 323 Stare = nori 50-85%']
+Ludus: 28 \ marți \ 12:7:2022 \ 19:14:13
+[' Răsarit = 05:42:36 Apus = 21:15:25 Min (°C) = 11.56 Max (°C) =20.46 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.51 Viteza vântului = 2.98 Unghiul vântului = 305 Stare = nori 85-100%']
+Ludus: 28 \ miercuri \ 13:7:2022 \ 19:13:57
+[' Răsarit = 05:43:30 Apus = 21:14:46 Min (°C) = 10 Max (°C) =26.66 Presiune = 1015 Umiditate (%) = 21 Index UV = 0.74 Viteza vântului = 6.19 Unghiul vântului = 311 Stare = nori 25-50%']
+Ludus: 28 \ joi \ 14:7:2022 \ 19:14:48
+[' Răsarit = 05:44:26 Apus = 21:14:04 Min (°C) = 13.93 Max (°C) =30.77 Presiune = 1015 Umiditate (%) = 24 Index UV = 0.74 Viteza vântului = 3.3 Unghiul vântului = 300 Stare = nori 25-50%']
+Ludus: 28 \ vineri \ 15:7:2022 \ 19:16:27
+[' Răsarit = 05:45:23 Apus = 21:13:20 Min (°C) = 16.98 Max (°C) =32.1 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.65 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = nori 50-85%']
+Ludus: 28 \ sâmbătă \ 16:7:2022 \ 19:14:53
+[' Răsarit = 05:46:21 Apus = 21:12:34 Min (°C) = 15.15 Max (°C) =29.62 Presiune = 1015 Umiditate (%) = 20 Index UV = 0.69 Viteza vântului = 6.64 Unghiul vântului = 309 Stare = cer senin']
+Ludus: 28 \ duminică \ 17:7:2022 \ 19:15:31
+[' Răsarit = 05:47:20 Apus = 21:11:45 Min (°C) = 15.96 Max (°C) =25.95 Presiune = 1023 Umiditate (%) = 36 Index UV = 0.66 Viteza vântului = 8.75 Unghiul vântului = 330 Stare = nori 10-25%']
+Ludus: 29 \ luni \ 18:7:2022 \ 19:15:14
+[' Răsarit = 05:48:21 Apus = 21:10:55 Min (°C) = 10.16 Max (°C) =27.05 Presiune = 1023 Umiditate (%) = 23 Index UV = 0.53 Viteza vântului = 3.6 Unghiul vântului = 10 Stare = nori 25-50%']
+Ludus: 29 \ marți \ 19:7:2022 \ 19:14:55
+[' Răsarit = 05:49:23 Apus = 21:10:02 Min (°C) = 11.71 Max (°C) =29.83 Presiune = 1018 Umiditate (%) = 21 Index UV = 0.69 Viteza vântului = 2.8 Unghiul vântului = 343 Stare = nori 50-85%']
+Ludus: 29 \ miercuri \ 20:7:2022 \ 19:14:57
+[' Răsarit = 05:50:26 Apus = 21:09:07 Min (°C) = 14.42 Max (°C) =32.43 Presiune = 1019 Umiditate (%) = 29 Index UV = 0.7 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = nori 10-25%']
+Ludus: 29 \ joi \ 21:7:2022 \ 19:14:03
+[' Răsarit = 05:51:30 Apus = 21:08:10 Min (°C) = 16.2 Max (°C) =33.64 Presiune = 1015 Umiditate (%) = 20 Index UV = 0.68 Viteza vântului = 6.17 Unghiul vântului = 350 Stare = cer senin']
+Ludus: 29 \ vineri \ 22:7:2022 \ 19:13:51
+[' Răsarit = 05:52:36 Apus = 21:07:11 Min (°C) = 14.22 Max (°C) =36.3 Presiune = 1013 Umiditate (%) = 14 Index UV = 0.64 Viteza vântului = 4.59 Unghiul vântului = 353 Stare = cer senin']
+Ludus: 29 \ sâmbătă \ 23:7:2022 \ 19:15:00
+[' Răsarit = 05:53:42 Apus = 21:06:10 Min (°C) = 18.26 Max (°C) =37.62 Presiune = 1014 Umiditate (%) = 23 Index UV = 0.63 Viteza vântului = 2.06 Unghiul vântului = 180 Stare = nori 25-50%']
+Ludus: 29 \ duminică \ 24:7:2022 \ 19:15:01
+[' Răsarit = 05:54:49 Apus = 21:05:07 Min (°C) = 18.59 Max (°C) =35.03 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 8.23 Unghiul vântului = 340 Stare = nori 25-50%']
+Ludus: 30 \ luni \ 25:7:2022 \ 19:15:25
+[' Răsarit = 05:55:57 Apus = 21:04:02 Min (°C) = 15.3 Max (°C) =32.85 Presiune = 1013 Umiditate (%) = 24 Index UV = 0.65 Viteza vântului = 4.12 Unghiul vântului = 40 Stare = nori 10-25%']
+Ludus: 30 \ marți \ 26:7:2022 \ 19:15:18
+[' Răsarit = 05:57:06 Apus = 21:02:55 Min (°C) = 15.36 Max (°C) =34.56 Presiune = 1009 Umiditate (%) = 24 Index UV = 0.64 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Ludus: 30 \ miercuri \ 27:7:2022 \ 19:15:54
+[' Răsarit = 05:58:15 Apus = 21:01:46 Min (°C) = 17.16 Max (°C) =32.92 Presiune = 1012 Umiditate (%) = 41 Index UV = 0.6 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = cer senin']
+Ludus: 30 \ joi \ 28:7:2022 \ 19:14:59
+[' Răsarit = 05:59:26 Apus = 21:00:35 Min (°C) = 15.37 Max (°C) =30.81 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.58 Viteza vântului = 4.63 Unghiul vântului = 180 Stare = nori 50-85%']
+Ludus: 30 \ vineri \ 29:7:2022 \ 19:15:14
+[' Răsarit = 06:00:37 Apus = 20:59:23 Min (°C) = 17.3 Max (°C) =33.71 Presiune = 1015 Umiditate (%) = 73 Index UV = 0.2 Viteza vântului = 4.1 Unghiul vântului = 4 Stare = nori 85-100%']
+Ludus: 30 \ sâmbătă \ 30:7:2022 \ 19:15:23
+[' Răsarit = 06:01:48 Apus = 20:58:08 Min (°C) = 17.26 Max (°C) =33.1 Presiune = 1011 Umiditate (%) = 72 Index UV = 0.37 Viteza vântului = 3.19 Unghiul vântului = 27 Stare = nori 85-100%']
+Ludus: 30 \ duminică \ 31:7:2022 \ 19:15:53
+[' Răsarit = 06:03:01 Apus = 20:56:52 Min (°C) = 17.52 Max (°C) =26.26 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.39 Viteza vântului = 4.12 Unghiul vântului = 20 Stare = nori 50-85%']
+Ludus: 31 \ sâmbătă \ 06:8:2022 \ 19:15:37
+[' Răsarit = 06:10:24 Apus = 20:48:41 Min (°C) = 17.97 Max (°C) =34.22 Presiune = 1010 Umiditate (%) = 27 Index UV = 0.53 Viteza vântului = 5.6 Unghiul vântului = 89 Stare = cer senin']
+Ludus: 31 \ duminică \ 07:8:2022 \ 19:15:11
+[' Răsarit = 06:11:39 Apus = 20:47:13 Min (°C) = 21 Max (°C) =32.18 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.41 Viteza vântului = 3.6 Unghiul vântului = 40 Stare = nori 25-50%']
+Ludus: 32 \ luni \ 08:8:2022 \ 19:15:51
+[' Răsarit = 06:12:55 Apus = 20:45:45 Min (°C) = 18.32 Max (°C) =29.05 Presiune = 1019 Umiditate (%) = 74 Index UV = 0.21 Viteza vântului = 3.6 Unghiul vântului = 220 Stare = nori 50-85%']
+Ludus: 32 \ marți \ 09:8:2022 \ 19:15:04
+[' Răsarit = 06:14:11 Apus = 20:44:14 Min (°C) = 18.48 Max (°C) =29.97 Presiune = 1019 Umiditate (%) = 69 Index UV = 0.37 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 50-85%']
+Ludus: 32 \ miercuri \ 10:8:2022 \ 19:15:38
+[' Răsarit = 06:15:27 Apus = 20:42:43 Min (°C) = 15.92 Max (°C) =24.13 Presiune = 1017 Umiditate (%) = 49 Index UV = 0.39 Viteza vântului = 5.04 Unghiul vântului = 33 Stare = nori 25-50%']
+Ludus: 32 \ joi \ 11:8:2022 \ 19:15:11
+[' Răsarit = 06:16:43 Apus = 20:41:10 Min (°C) = 14.91 Max (°C) =26.19 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.23 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = nori 10-25%']
+Ludus: 32 \ vineri \ 12:8:2022 \ 19:15:23
+[' Răsarit = 06:17:59 Apus = 20:39:35 Min (°C) = 14.41 Max (°C) =28.72 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 300 Stare = nori 50-85%']
+Ludus: 32 \ sâmbătă \ 13:8:2022 \ 19:15:10
+[' Răsarit = 06:19:16 Apus = 20:38:00 Min (°C) = 15.45 Max (°C) =28.93 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.34 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = nori 50-85%']
+Ludus: 32 \ duminică \ 14:8:2022 \ 19:15:19
+[' Răsarit = 06:20:32 Apus = 20:36:23 Min (°C) = 16.52 Max (°C) =29.47 Presiune = 1008 Umiditate (%) = 50 Index UV = 0.04 Viteza vântului = 7.2 Unghiul vântului = 80 Stare = furtună']
+Ludus: 33 \ luni \ 15:8:2022 \ 19:15:35
+[' Răsarit = 06:21:49 Apus = 20:34:44 Min (°C) = 16.3 Max (°C) =28.74 Presiune = 1007 Umiditate (%) = 51 Index UV = 0.21 Viteza vântului = 3.09 Unghiul vântului = 270 Stare = nori 50-85%']
+Ludus: 33 \ marți \ 16:8:2022 \ 19:16:19
+[' Răsarit = 06:23:06 Apus = 20:33:05 Min (°C) = 16.73 Max (°C) =28.19 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.08 Viteza vântului = 5.14 Unghiul vântului = 200 Stare = nori 25-50%']
+Ludus: 33 \ miercuri \ 17:8:2022 \ 19:15:51
+[' Răsarit = 06:24:23 Apus = 20:31:24 Min (°C) = 16.98 Max (°C) =30.55 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.37 Viteza vântului = 6.17 Unghiul vântului = 340 Stare = nori 50-85%']
+Ludus: 33 \ joi \ 18:8:2022 \ 19:15:44
+[' Răsarit = 06:25:40 Apus = 20:29:43 Min (°C) = 18.35 Max (°C) =32.11 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.4 Viteza vântului = 5.14 Unghiul vântului = 360 Stare = nori 10-25%']
+Ludus: 33 \ vineri \ 19:8:2022 \ 19:16:29
+[' Răsarit = 06:26:57 Apus = 20:28:00 Min (°C) = 18.17 Max (°C) =33.08 Presiune = 1012 Umiditate (%) = 33 Index UV = 0.39 Viteza vântului = 3.09 Unghiul vântului = 50 Stare = cer senin']
+Ludus: 33 \ sâmbătă \ 20:8:2022 \ 19:17:02
+[' Răsarit = 06:28:14 Apus = 20:26:16 Min (°C) = 18.57 Max (°C) =34.26 Presiune = 1010 Umiditate (%) = 54 Index UV = 0.36 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = nori 85-100%']
+Ludus: 33 \ duminică \ 21:8:2022 \ 19:15:54
+[' Răsarit = 06:29:30 Apus = 20:24:31 Min (°C) = 18.08 Max (°C) =31.03 Presiune = 1008 Umiditate (%) = 94 Index UV = 0.19 Viteza vântului = 4.63 Unghiul vântului = 160 Stare = nori 50-85%']
+Ludus: 34 \ luni \ 22:8:2022 \ 19:15:40
+[' Răsarit = 06:30:47 Apus = 20:22:45 Min (°C) = 17.6 Max (°C) =24.23 Presiune = 1009 Umiditate (%) = 57 Index UV = 0.04 Viteza vântului = 1.52 Unghiul vântului = 138 Stare = nori 50-85%']
+Ludus: 34 \ marți \ 23:8:2022 \ 19:15:42
+[' Răsarit = 06:32:04 Apus = 20:20:59 Min (°C) = 16.65 Max (°C) =28.01 Presiune = 1014 Umiditate (%) = 94 Index UV = 0.05 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = furtună cu ploaie']
+Ludus: 34 \ miercuri \ 24:8:2022 \ 19:15:11
+[' Răsarit = 06:33:21 Apus = 20:19:11 Min (°C) = 17.7 Max (°C) =28.47 Presiune = 1016 Umiditate (%) = 54 Index UV = 0.24 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = nori 25-50%']
+Ludus: 34 \ joi \ 25:8:2022 \ 19:16:28
+[' Răsarit = 06:34:38 Apus = 20:17:22 Min (°C) = 16.85 Max (°C) =30.84 Presiune = 1014 Umiditate (%) = 33 Index UV = 0.29 Viteza vântului = 2.57 Unghiul vântului = 20 Stare = cer senin']
+Ludus: 34 \ vineri \ 26:8:2022 \ 19:14:27
+[' Răsarit = 06:35:54 Apus = 20:15:33 Min (°C) = 15.66 Max (°C) =30.99 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.28 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = cer senin']
+Ludus: 34 \ sâmbătă \ 27:8:2022 \ 19:14:29
+[' Răsarit = 06:37:11 Apus = 20:13:42 Min (°C) = 16.12 Max (°C) =31.11 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.27 Viteza vântului = 2.47 Unghiul vântului = 39 Stare = cer senin']
+Ludus: 34 \ duminică \ 28:8:2022 \ 19:15:22
+[' Răsarit = 06:38:27 Apus = 20:11:51 Min (°C) = 16.96 Max (°C) =31.94 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.27 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = nori 10-25%']
+Ludus: 35 \ luni \ 29:8:2022 \ 19:16:12
+[' Răsarit = 06:39:44 Apus = 20:09:59 Min (°C) = 18.05 Max (°C) =31.77 Presiune = 1016 Umiditate (%) = 69 Index UV = 0.19 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = nori 50-85%']
+Ludus: 35 \ marți \ 30:8:2022 \ 19:15:37
+[' Răsarit = 06:41:00 Apus = 20:08:07 Min (°C) = 17.72 Max (°C) =30.33 Presiune = 1018 Umiditate (%) = 94 Index UV = 0.07 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = ploaie moderată']
+Ludus: 35 \ miercuri \ 31:8:2022 \ 19:15:31
+[' Răsarit = 06:42:17 Apus = 20:06:13 Min (°C) = 16.64 Max (°C) =27.17 Presiune = 1015 Umiditate (%) = 78 Index UV = 0.13 Viteza vântului = 1.54 Unghiul vântului = 190 Stare = nori 50-85%']
+Ludus: 35 \ joi \ 01:9:2022 \ 19:15:33
+[' Răsarit = 06:43:33 Apus = 20:04:19 Min (°C) = 16.28 Max (°C) =25.71 Presiune = 1014 Umiditate (%) = 100 Index UV = 0.05 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = ploaie torențială \n de intensitate mică']
+Ludus: 35 \ vineri \ 02:9:2022 \ 19:15:59
+[' Răsarit = 06:44:49 Apus = 20:02:25 Min (°C) = 13.72 Max (°C) =17.41 Presiune = 1016 Umiditate (%) = 100 Index UV = 0.02 Viteza vântului = 2.06 Unghiul vântului = 80 Stare = nori 85-100%']
+Ludus: 35 \ sâmbătă \ 03:9:2022 \ 19:15:26
+[' Răsarit = 06:46:05 Apus = 20:00:30 Min (°C) = 12.6 Max (°C) =17.91 Presiune = 1018 Umiditate (%) = 82 Index UV = 0.04 Viteza vântului = 1.03 Unghiul vântului = 190 Stare = nori 85-100%']
+Ludus: 35 \ duminică \ 04:9:2022 \ 19:15:13
+[' Răsarit = 06:47:21 Apus = 19:58:34 Min (°C) = 14.66 Max (°C) =22.87 Presiune = 1020 Umiditate (%) = 61 Index UV = 0.04 Viteza vântului = 0.77 Unghiul vântului = 7 Stare = nori 85-100%']

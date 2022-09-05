@@ -1110,3 +1110,121 @@ Alba_Iulia: 26 \ vineri \ 01:7:2022 \ 19:01:34
 [' Răsarit = 05:38:17 Apus = 21:20:22 Min (°C) = 19.39 Max (°C) =35.74 Presiune = 1014 Umiditate (%) = 53 Index UV = 0.89 Viteza vântului = 0.89 Unghiul vântului = 286 Stare = nori 50-85%']
 Alba_Iulia: 26 \ sâmbătă \ 02:7:2022 \ 19:01:25
 [' Răsarit = 05:38:52 Apus = 21:20:10 Min (°C) = 19.24 Max (°C) =32.68 Presiune = 1017 Umiditate (%) = 58 Index UV = 0.44 Viteza vântului = 1.25 Unghiul vântului = 256 Stare = ploaie ușoară']
+Alba_Iulia: 26 \ duminică \ 03:7:2022 \ 19:01:23
+[' Răsarit = 05:39:28 Apus = 21:19:55 Min (°C) = 18.15 Max (°C) =34.65 Presiune = 1016 Umiditate (%) = 52 Index UV = 0.63 Viteza vântului = 0.67 Unghiul vântului = 97 Stare = nori 50-85%']
+Alba_Iulia: 27 \ luni \ 04:7:2022 \ 19:01:17
+[' Răsarit = 05:40:06 Apus = 21:19:37 Min (°C) = 19.73 Max (°C) =34.89 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.51 Viteza vântului = 2.56 Unghiul vântului = 4 Stare = nori 25-50%']
+Alba_Iulia: 27 \ marți \ 05:7:2022 \ 19:01:20
+[' Răsarit = 05:40:46 Apus = 21:19:18 Min (°C) = 19.5 Max (°C) =35.69 Presiune = 1010 Umiditate (%) = 26 Index UV = 0.85 Viteza vântului = 2.42 Unghiul vântului = 199 Stare = nori 25-50%']
+Alba_Iulia: 27 \ miercuri \ 06:7:2022 \ 19:01:19
+[' Răsarit = 05:41:28 Apus = 21:18:55 Min (°C) = 18.48 Max (°C) =23.93 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.54 Viteza vântului = 2.33 Unghiul vântului = 226 Stare = nori 85-100%']
+Alba_Iulia: 27 \ joi \ 07:7:2022 \ 19:01:17
+[' Răsarit = 05:42:11 Apus = 21:18:31 Min (°C) = 14.32 Max (°C) =26.58 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.79 Viteza vântului = 3.18 Unghiul vântului = 23 Stare = nori 50-85%']
+Alba_Iulia: 27 \ vineri \ 08:7:2022 \ 19:01:20
+[' Răsarit = 05:42:57 Apus = 21:18:04 Min (°C) = 16.65 Max (°C) =27.35 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.57 Viteza vântului = 0.94 Unghiul vântului = 48 Stare = nori 85-100%']
+Alba_Iulia: 27 \ sâmbătă \ 09:7:2022 \ 19:01:23
+[' Răsarit = 05:43:44 Apus = 21:17:34 Min (°C) = 15.96 Max (°C) =25.35 Presiune = 1013 Umiditate (%) = 49 Index UV = 0.37 Viteza vântului = 1.7 Unghiul vântului = 12 Stare = ploaie ușoară']
+Alba_Iulia: 27 \ duminică \ 10:7:2022 \ 19:01:18
+[' Răsarit = 05:44:32 Apus = 21:17:03 Min (°C) = 12.96 Max (°C) =23.22 Presiune = 1012 Umiditate (%) = 59 Index UV = 0.63 Viteza vântului = 1.68 Unghiul vântului = 204 Stare = ploaie ușoară']
+Alba_Iulia: 28 \ luni \ 11:7:2022 \ 19:01:18
+[' Răsarit = 05:45:22 Apus = 21:16:29 Min (°C) = 11.1 Max (°C) =20.95 Presiune = 1017 Umiditate (%) = 44 Index UV = 0.29 Viteza vântului = 0.67 Unghiul vântului = 167 Stare = nori 85-100%']
+Alba_Iulia: 28 \ marți \ 12:7:2022 \ 19:01:21
+[' Răsarit = 05:46:14 Apus = 21:15:52 Min (°C) = 9.89 Max (°C) =22.46 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.52 Viteza vântului = 2.37 Unghiul vântului = 291 Stare = nori 50-85%']
+Alba_Iulia: 28 \ miercuri \ 13:7:2022 \ 19:01:21
+[' Răsarit = 05:47:07 Apus = 21:15:14 Min (°C) = 11.05 Max (°C) =27.63 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.79 Viteza vântului = 4.22 Unghiul vântului = 314 Stare = nori 25-50%']
+Alba_Iulia: 28 \ joi \ 14:7:2022 \ 19:01:24
+[' Răsarit = 05:48:02 Apus = 21:14:33 Min (°C) = 14.1 Max (°C) =31.27 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.77 Viteza vântului = 2.45 Unghiul vântului = 289 Stare = nori 10-25%']
+Alba_Iulia: 28 \ vineri \ 15:7:2022 \ 19:01:35
+[' Răsarit = 05:48:58 Apus = 21:13:50 Min (°C) = 18.06 Max (°C) =33.1 Presiune = 1012 Umiditate (%) = 25 Index UV = 0.72 Viteza vântului = 4.98 Unghiul vântului = 306 Stare = nori 50-85%']
+Alba_Iulia: 28 \ sâmbătă \ 16:7:2022 \ 19:01:37
+[' Răsarit = 05:49:55 Apus = 21:13:04 Min (°C) = 16.12 Max (°C) =29.57 Presiune = 1016 Umiditate (%) = 23 Index UV = 0.73 Viteza vântului = 5.32 Unghiul vântului = 290 Stare = cer senin']
+Alba_Iulia: 28 \ duminică \ 17:7:2022 \ 19:01:36
+[' Răsarit = 05:50:54 Apus = 21:12:17 Min (°C) = 14.57 Max (°C) =28.32 Presiune = 1021 Umiditate (%) = 21 Index UV = 0.7 Viteza vântului = 6.09 Unghiul vântului = 22 Stare = cer senin']
+Alba_Iulia: 29 \ luni \ 18:7:2022 \ 19:01:26
+[' Răsarit = 05:51:54 Apus = 21:11:27 Min (°C) = 12.02 Max (°C) =28.3 Presiune = 1021 Umiditate (%) = 21 Index UV = 0.68 Viteza vântului = 2.24 Unghiul vântului = 81 Stare = nori 50-85%']
+Alba_Iulia: 29 \ marți \ 19:7:2022 \ 19:01:25
+[' Răsarit = 05:52:55 Apus = 21:10:35 Min (°C) = 12.45 Max (°C) =30.39 Presiune = 1019 Umiditate (%) = 24 Index UV = 0.61 Viteza vântului = 2.12 Unghiul vântului = 8 Stare = nori 25-50%']
+Alba_Iulia: 29 \ miercuri \ 20:7:2022 \ 19:01:20
+[' Răsarit = 05:53:57 Apus = 21:09:41 Min (°C) = 15.2 Max (°C) =33.45 Presiune = 1017 Umiditate (%) = 23 Index UV = 0.74 Viteza vântului = 3.41 Unghiul vântului = 352 Stare = nori 25-50%']
+Alba_Iulia: 29 \ joi \ 21:7:2022 \ 19:01:18
+[' Răsarit = 05:55:00 Apus = 21:08:45 Min (°C) = 17.42 Max (°C) =35.29 Presiune = 1013 Umiditate (%) = 14 Index UV = 0.72 Viteza vântului = 4.79 Unghiul vântului = 354 Stare = cer senin']
+Alba_Iulia: 29 \ vineri \ 22:7:2022 \ 19:01:15
+[' Răsarit = 05:56:04 Apus = 21:07:47 Min (°C) = 16.05 Max (°C) =36.82 Presiune = 1014 Umiditate (%) = 15 Index UV = 0.68 Viteza vântului = 4.39 Unghiul vântului = 360 Stare = cer senin']
+Alba_Iulia: 29 \ sâmbătă \ 23:7:2022 \ 19:01:27
+[' Răsarit = 05:57:09 Apus = 21:06:47 Min (°C) = 19.26 Max (°C) =38.57 Presiune = 1012 Umiditate (%) = 17 Index UV = 0.7 Viteza vântului = 2.21 Unghiul vântului = 320 Stare = nori 25-50%']
+Alba_Iulia: 29 \ duminică \ 24:7:2022 \ 19:01:35
+[' Răsarit = 05:58:15 Apus = 21:05:45 Min (°C) = 20.2 Max (°C) =35.91 Presiune = 1013 Umiditate (%) = 35 Index UV = 0.47 Viteza vântului = 4 Unghiul vântului = 314 Stare = nori 85-100%']
+Alba_Iulia: 30 \ luni \ 25:7:2022 \ 19:01:24
+[' Răsarit = 05:59:22 Apus = 21:04:41 Min (°C) = 16.69 Max (°C) =34.57 Presiune = 1010 Umiditate (%) = 16 Index UV = 0.69 Viteza vântului = 2.7 Unghiul vântului = 251 Stare = nori 25-50%']
+Alba_Iulia: 30 \ marți \ 26:7:2022 \ 19:01:46
+[' Răsarit = 06:00:30 Apus = 21:03:36 Min (°C) = 16.87 Max (°C) =35.86 Presiune = 1007 Umiditate (%) = 15 Index UV = 0.65 Viteza vântului = 4.44 Unghiul vântului = 279 Stare = cer senin']
+Alba_Iulia: 30 \ miercuri \ 27:7:2022 \ 19:01:33
+[' Răsarit = 06:01:38 Apus = 21:02:28 Min (°C) = 17.7 Max (°C) =33.55 Presiune = 1009 Umiditate (%) = 23 Index UV = 0.53 Viteza vântului = 3.42 Unghiul vântului = 301 Stare = cer senin']
+Alba_Iulia: 30 \ joi \ 28:7:2022 \ 19:01:25
+[' Răsarit = 06:02:47 Apus = 21:01:18 Min (°C) = 16.85 Max (°C) =30.54 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.6 Viteza vântului = 2.67 Unghiul vântului = 102 Stare = nori 85-100%']
+Alba_Iulia: 30 \ vineri \ 29:7:2022 \ 19:01:22
+[' Răsarit = 06:03:57 Apus = 21:00:07 Min (°C) = 17.21 Max (°C) =34.19 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.42 Viteza vântului = 3.29 Unghiul vântului = 273 Stare = nori 85-100%']
+Alba_Iulia: 30 \ sâmbătă \ 30:7:2022 \ 19:01:26
+[' Răsarit = 06:05:08 Apus = 20:58:54 Min (°C) = 18.63 Max (°C) =33.64 Presiune = 1012 Umiditate (%) = 78 Index UV = 0.2 Viteza vântului = 6.02 Unghiul vântului = 251 Stare = ploaie ușoară']
+Alba_Iulia: 30 \ duminică \ 31:7:2022 \ 19:01:37
+[' Răsarit = 06:06:19 Apus = 20:57:39 Min (°C) = 17.72 Max (°C) =26.62 Presiune = 1011 Umiditate (%) = 51 Index UV = 0.35 Viteza vântului = 7.72 Unghiul vântului = 267 Stare = cer senin']
+Alba_Iulia: 31 \ sâmbătă \ 06:8:2022 \ 19:01:29
+[' Răsarit = 06:13:35 Apus = 20:49:35 Min (°C) = 18.36 Max (°C) =35.11 Presiune = 1010 Umiditate (%) = 20 Index UV = 0.57 Viteza vântului = 3.81 Unghiul vântului = 55 Stare = nori 25-50%']
+Alba_Iulia: 31 \ duminică \ 07:8:2022 \ 19:01:26
+[' Răsarit = 06:14:49 Apus = 20:48:09 Min (°C) = 19.81 Max (°C) =33.45 Presiune = 1013 Umiditate (%) = 30 Index UV = 0.19 Viteza vântului = 5.89 Unghiul vântului = 98 Stare = nori 50-85%']
+Alba_Iulia: 32 \ luni \ 08:8:2022 \ 19:01:41
+[' Răsarit = 06:16:03 Apus = 20:46:41 Min (°C) = 19 Max (°C) =32 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.19 Viteza vântului = 3.46 Unghiul vântului = 238 Stare = ploaie ușoară']
+Alba_Iulia: 32 \ marți \ 09:8:2022 \ 19:01:24
+[' Răsarit = 06:17:17 Apus = 20:45:12 Min (°C) = 19.09 Max (°C) =24 Presiune = 1019 Umiditate (%) = 75 Index UV = 0.26 Viteza vântului = 3.19 Unghiul vântului = 274 Stare = nori 85-100%']
+Alba_Iulia: 32 \ miercuri \ 10:8:2022 \ 19:01:38
+[' Răsarit = 06:18:32 Apus = 20:43:42 Min (°C) = 16.91 Max (°C) =24.74 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.29 Viteza vântului = 3.7 Unghiul vântului = 59 Stare = nori 50-85%']
+Alba_Iulia: 32 \ joi \ 11:8:2022 \ 19:01:23
+[' Răsarit = 06:19:47 Apus = 20:42:10 Min (°C) = 16.08 Max (°C) =26.8 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.26 Viteza vântului = 3.59 Unghiul vântului = 48 Stare = nori 50-85%']
+Alba_Iulia: 32 \ vineri \ 12:8:2022 \ 19:01:23
+[' Răsarit = 06:21:02 Apus = 20:40:37 Min (°C) = 14.96 Max (°C) =28.64 Presiune = 1014 Umiditate (%) = 29 Index UV = 0.34 Viteza vântului = 2.2 Unghiul vântului = 56 Stare = nori 85-100%']
+Alba_Iulia: 32 \ sâmbătă \ 13:8:2022 \ 19:01:30
+[' Răsarit = 06:22:17 Apus = 20:39:03 Min (°C) = 15.45 Max (°C) =29.47 Presiune = 1010 Umiditate (%) = 42 Index UV = 0.04 Viteza vântului = 4.4 Unghiul vântului = 228 Stare = nori 85-100%']
+Alba_Iulia: 32 \ duminică \ 14:8:2022 \ 19:01:32
+[' Răsarit = 06:23:32 Apus = 20:37:27 Min (°C) = 16.46 Max (°C) =28.97 Presiune = 1007 Umiditate (%) = 60 Index UV = 0.36 Viteza vântului = 2.19 Unghiul vântului = 285 Stare = nori 85-100%']
+Alba_Iulia: 33 \ luni \ 15:8:2022 \ 19:01:31
+[' Răsarit = 06:24:48 Apus = 20:35:51 Min (°C) = 17.25 Max (°C) =28.52 Presiune = 1007 Umiditate (%) = 67 Index UV = 0.13 Viteza vântului = 3.4 Unghiul vântului = 243 Stare = nori 85-100%']
+Alba_Iulia: 33 \ marți \ 16:8:2022 \ 19:01:51
+[' Răsarit = 06:26:03 Apus = 20:34:13 Min (°C) = 17.13 Max (°C) =28.89 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.24 Viteza vântului = 2.39 Unghiul vântului = 212 Stare = nori 50-85%']
+Alba_Iulia: 33 \ miercuri \ 17:8:2022 \ 19:01:29
+[' Răsarit = 06:27:19 Apus = 20:32:33 Min (°C) = 17.89 Max (°C) =30.68 Presiune = 1010 Umiditate (%) = 38 Index UV = 0.33 Viteza vântului = 2.84 Unghiul vântului = 328 Stare = nori 50-85%']
+Alba_Iulia: 33 \ joi \ 18:8:2022 \ 19:01:30
+[' Răsarit = 06:28:34 Apus = 20:30:53 Min (°C) = 18.96 Max (°C) =31.72 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.41 Viteza vântului = 1.37 Unghiul vântului = 35 Stare = nori 50-85%']
+Alba_Iulia: 33 \ vineri \ 19:8:2022 \ 19:01:52
+[' Răsarit = 06:29:50 Apus = 20:29:12 Min (°C) = 19.15 Max (°C) =33.16 Presiune = 1009 Umiditate (%) = 32 Index UV = 0.42 Viteza vântului = 2.79 Unghiul vântului = 112 Stare = cer senin']
+Alba_Iulia: 33 \ sâmbătă \ 20:8:2022 \ 19:01:37
+[' Răsarit = 06:31:05 Apus = 20:27:29 Min (°C) = 19.12 Max (°C) =33.96 Presiune = 1007 Umiditate (%) = 50 Index UV = 0.2 Viteza vântului = 4 Unghiul vântului = 257 Stare = nori 25-50%']
+Alba_Iulia: 33 \ duminică \ 21:8:2022 \ 19:01:35
+[' Răsarit = 06:32:21 Apus = 20:25:46 Min (°C) = 18.91 Max (°C) =25.92 Presiune = 1008 Umiditate (%) = 69 Index UV = 0.27 Viteza vântului = 1.02 Unghiul vântului = 233 Stare = nori 85-100%']
+Alba_Iulia: 34 \ luni \ 22:8:2022 \ 19:02:01
+[' Răsarit = 06:33:36 Apus = 20:24:01 Min (°C) = 17.59 Max (°C) =23.22 Presiune = 1009 Umiditate (%) = 70 Index UV = 0.05 Viteza vântului = 1.95 Unghiul vântului = 9 Stare = nori 50-85%']
+Alba_Iulia: 34 \ marți \ 23:8:2022 \ 19:01:41
+[' Răsarit = 06:34:52 Apus = 20:22:16 Min (°C) = 16.34 Max (°C) =26.38 Presiune = 1013 Umiditate (%) = 73 Index UV = 0.3 Viteza vântului = 3.34 Unghiul vântului = 245 Stare = nori 85-100%']
+Alba_Iulia: 34 \ miercuri \ 24:8:2022 \ 19:01:39
+[' Răsarit = 06:36:07 Apus = 20:20:29 Min (°C) = 16.88 Max (°C) =27.8 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.32 Viteza vântului = 1.37 Unghiul vântului = 278 Stare = nori 50-85%']
+Alba_Iulia: 34 \ joi \ 25:8:2022 \ 19:01:42
+[' Răsarit = 06:37:23 Apus = 20:18:42 Min (°C) = 17.58 Max (°C) =30.22 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.32 Viteza vântului = 1.71 Unghiul vântului = 34 Stare = cer senin']
+Alba_Iulia: 34 \ vineri \ 26:8:2022 \ 19:01:34
+[' Răsarit = 06:38:38 Apus = 20:16:54 Min (°C) = 16.44 Max (°C) =29.9 Presiune = 1009 Umiditate (%) = 31 Index UV = 0.3 Viteza vântului = 1.5 Unghiul vântului = 328 Stare = cer senin']
+Alba_Iulia: 34 \ sâmbătă \ 27:8:2022 \ 19:01:35
+[' Răsarit = 06:39:53 Apus = 20:15:05 Min (°C) = 16.67 Max (°C) =30.29 Presiune = 1009 Umiditate (%) = 39 Index UV = 0.12 Viteza vântului = 1.36 Unghiul vântului = 160 Stare = cer senin']
+Alba_Iulia: 34 \ duminică \ 28:8:2022 \ 19:01:30
+[' Răsarit = 06:41:08 Apus = 20:13:15 Min (°C) = 17.98 Max (°C) =31.81 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.14 Viteza vântului = 0.24 Unghiul vântului = 108 Stare = nori 10-25%']
+Alba_Iulia: 35 \ luni \ 29:8:2022 \ 19:02:06
+[' Răsarit = 06:42:23 Apus = 20:11:25 Min (°C) = 18.62 Max (°C) =31.87 Presiune = 1015 Umiditate (%) = 56 Index UV = 0.19 Viteza vântului = 2.52 Unghiul vântului = 244 Stare = nori 85-100%']
+Alba_Iulia: 35 \ marți \ 30:8:2022 \ 19:01:42
+[' Răsarit = 06:43:38 Apus = 20:09:33 Min (°C) = 17.33 Max (°C) =29.72 Presiune = 1016 Umiditate (%) = 77 Index UV = 0.08 Viteza vântului = 1.89 Unghiul vântului = 221 Stare = ploaie moderată']
+Alba_Iulia: 35 \ miercuri \ 31:8:2022 \ 19:01:35
+[' Răsarit = 06:44:53 Apus = 20:07:42 Min (°C) = 16.32 Max (°C) =27.14 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.11 Viteza vântului = 2.23 Unghiul vântului = 324 Stare = nori 25-50%']
+Alba_Iulia: 35 \ joi \ 01:9:2022 \ 19:01:43
+[' Răsarit = 06:46:08 Apus = 20:05:49 Min (°C) = 15.73 Max (°C) =25.51 Presiune = 1013 Umiditate (%) = 81 Index UV = 0.14 Viteza vântului = 2.01 Unghiul vântului = 262 Stare = ploaie ușoară']
+Alba_Iulia: 35 \ vineri \ 02:9:2022 \ 19:02:04
+[' Răsarit = 06:47:23 Apus = 20:03:56 Min (°C) = 14.43 Max (°C) =17.73 Presiune = 1016 Umiditate (%) = 96 Index UV = 0.01 Viteza vântului = 1.11 Unghiul vântului = 37 Stare = nori 85-100%']
+Alba_Iulia: 35 \ sâmbătă \ 03:9:2022 \ 19:01:45
+[' Răsarit = 06:48:38 Apus = 20:02:02 Min (°C) = 14.92 Max (°C) =20.59 Presiune = 1018 Umiditate (%) = 85 Index UV = 0.05 Viteza vântului = 2.22 Unghiul vântului = 42 Stare = nori 85-100%']
+Alba_Iulia: 35 \ duminică \ 04:9:2022 \ 19:01:37
+[' Răsarit = 06:49:52 Apus = 20:00:07 Min (°C) = 15.18 Max (°C) =22.26 Presiune = 1020 Umiditate (%) = 67 Index UV = 0.21 Viteza vântului = 1.47 Unghiul vântului = 21 Stare = nori 25-50%']

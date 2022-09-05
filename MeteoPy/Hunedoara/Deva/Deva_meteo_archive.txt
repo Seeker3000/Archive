@@ -1030,3 +1030,121 @@ Deva: 26 \ vineri \ 01:7:2022 \ 19:00:10
 [' Răsarit = 05:41:47 Apus = 21:22:14 Min (°C) = 20.34 Max (°C) =37.4 Presiune = 1014 Umiditate (%) = 59 Index UV = 0.87 Viteza vântului = 2.08 Unghiul vântului = 88 Stare = nori 50-85%']
 Deva: 26 \ sâmbătă \ 02:7:2022 \ 19:00:06
 [' Răsarit = 05:42:21 Apus = 21:22:01 Min (°C) = 19.63 Max (°C) =35.54 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.9 Viteza vântului = 2.74 Unghiul vântului = 115 Stare = nori 50-85%']
+Deva: 26 \ duminică \ 03:7:2022 \ 19:00:03
+[' Răsarit = 05:42:57 Apus = 21:21:46 Min (°C) = 18.6 Max (°C) =34.86 Presiune = 1015 Umiditate (%) = 53 Index UV = 0.56 Viteza vântului = 1.84 Unghiul vântului = 172 Stare = nori 85-100%']
+Deva: 27 \ luni \ 04:7:2022 \ 19:00:06
+[' Răsarit = 05:43:35 Apus = 21:21:29 Min (°C) = 20.27 Max (°C) =35.15 Presiune = 1012 Umiditate (%) = 29 Index UV = 0.92 Viteza vântului = 2.2 Unghiul vântului = 333 Stare = nori 25-50%']
+Deva: 27 \ marți \ 05:7:2022 \ 19:00:05
+[' Răsarit = 05:44:15 Apus = 21:21:10 Min (°C) = 19.48 Max (°C) =36.08 Presiune = 1010 Umiditate (%) = 34 Index UV = 0.71 Viteza vântului = 2.03 Unghiul vântului = 169 Stare = nori 25-50%']
+Deva: 27 \ miercuri \ 06:7:2022 \ 19:00:04
+[' Răsarit = 05:44:56 Apus = 21:20:48 Min (°C) = 17.76 Max (°C) =22.51 Presiune = 1015 Umiditate (%) = 84 Index UV = 0.84 Viteza vântului = 3.26 Unghiul vântului = 291 Stare = nori 85-100%']
+Deva: 27 \ joi \ 07:7:2022 \ 19:00:03
+[' Răsarit = 05:45:40 Apus = 21:20:23 Min (°C) = 14.09 Max (°C) =28.55 Presiune = 1014 Umiditate (%) = 39 Index UV = 0.81 Viteza vântului = 2.32 Unghiul vântului = 19 Stare = nori 50-85%']
+Deva: 27 \ vineri \ 08:7:2022 \ 19:00:07
+[' Răsarit = 05:46:25 Apus = 21:19:57 Min (°C) = 15.4 Max (°C) =27.83 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.27 Viteza vântului = 0.4 Unghiul vântului = 297 Stare = nori 85-100%']
+Deva: 27 \ sâmbătă \ 09:7:2022 \ 19:00:07
+[' Răsarit = 05:47:11 Apus = 21:19:28 Min (°C) = 15.9 Max (°C) =24.72 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.41 Viteza vântului = 0.97 Unghiul vântului = 282 Stare = nori 85-100%']
+Deva: 27 \ duminică \ 10:7:2022 \ 19:00:03
+[' Răsarit = 05:48:00 Apus = 21:18:56 Min (°C) = 12.53 Max (°C) =24.62 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.65 Viteza vântului = 3.65 Unghiul vântului = 318 Stare = ploaie ușoară']
+Deva: 28 \ luni \ 11:7:2022 \ 19:00:07
+[' Răsarit = 05:48:49 Apus = 21:18:23 Min (°C) = 11.23 Max (°C) =22.37 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.76 Viteza vântului = 3.06 Unghiul vântului = 306 Stare = nori 50-85%']
+Deva: 28 \ marți \ 12:7:2022 \ 19:00:09
+[' Răsarit = 05:49:41 Apus = 21:17:47 Min (°C) = 10.33 Max (°C) =22.97 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.64 Viteza vântului = 2.18 Unghiul vântului = 287 Stare = nori 50-85%']
+Deva: 28 \ miercuri \ 13:7:2022 \ 19:00:07
+[' Răsarit = 05:50:34 Apus = 21:17:08 Min (°C) = 10.92 Max (°C) =28.16 Presiune = 1016 Umiditate (%) = 24 Index UV = 0.83 Viteza vântului = 3.53 Unghiul vântului = 315 Stare = nori 25-50%']
+Deva: 28 \ joi \ 14:7:2022 \ 19:00:03
+[' Răsarit = 05:51:28 Apus = 21:16:28 Min (°C) = 14.02 Max (°C) =31.13 Presiune = 1016 Umiditate (%) = 30 Index UV = 0.83 Viteza vântului = 1.96 Unghiul vântului = 317 Stare = cer senin']
+Deva: 28 \ vineri \ 15:7:2022 \ 19:00:07
+[' Răsarit = 05:52:23 Apus = 21:15:45 Min (°C) = 17.7 Max (°C) =33.39 Presiune = 1012 Umiditate (%) = 27 Index UV = 0.8 Viteza vântului = 4.26 Unghiul vântului = 332 Stare = nori 25-50%']
+Deva: 28 \ sâmbătă \ 16:7:2022 \ 19:00:10
+[' Răsarit = 05:53:20 Apus = 21:15:00 Min (°C) = 16.76 Max (°C) =28.53 Presiune = 1017 Umiditate (%) = 26 Index UV = 0.76 Viteza vântului = 2.74 Unghiul vântului = 299 Stare = cer senin']
+Deva: 28 \ duminică \ 17:7:2022 \ 19:00:05
+[' Răsarit = 05:54:18 Apus = 21:14:13 Min (°C) = 14.64 Max (°C) =27.56 Presiune = 1021 Umiditate (%) = 22 Index UV = 0.74 Viteza vântului = 4.69 Unghiul vântului = 308 Stare = cer senin']
+Deva: 29 \ luni \ 18:7:2022 \ 19:00:10
+[' Răsarit = 05:55:18 Apus = 21:13:24 Min (°C) = 11.54 Max (°C) =28.94 Presiune = 1021 Umiditate (%) = 26 Index UV = 0.66 Viteza vântului = 1.69 Unghiul vântului = 309 Stare = nori 50-85%']
+Deva: 29 \ marți \ 19:7:2022 \ 19:00:04
+[' Răsarit = 05:56:18 Apus = 21:12:33 Min (°C) = 12.76 Max (°C) =30.86 Presiune = 1019 Umiditate (%) = 25 Index UV = 0.76 Viteza vântului = 1.51 Unghiul vântului = 44 Stare = nori 10-25%']
+Deva: 29 \ miercuri \ 20:7:2022 \ 19:00:02
+[' Răsarit = 05:57:20 Apus = 21:11:39 Min (°C) = 15.98 Max (°C) =33.61 Presiune = 1017 Umiditate (%) = 27 Index UV = 0.77 Viteza vântului = 1.13 Unghiul vântului = 319 Stare = nori 10-25%']
+Deva: 29 \ joi \ 21:7:2022 \ 19:00:04
+[' Răsarit = 05:58:23 Apus = 21:10:44 Min (°C) = 17.85 Max (°C) =35.09 Presiune = 1013 Umiditate (%) = 19 Index UV = 0.76 Viteza vântului = 3.74 Unghiul vântului = 3 Stare = cer senin']
+Deva: 29 \ vineri \ 22:7:2022 \ 19:00:02
+[' Răsarit = 05:59:26 Apus = 21:09:46 Min (°C) = 16.81 Max (°C) =36.9 Presiune = 1014 Umiditate (%) = 19 Index UV = 0.72 Viteza vântului = 1.33 Unghiul vântului = 307 Stare = cer senin']
+Deva: 29 \ sâmbătă \ 23:7:2022 \ 19:00:03
+[' Răsarit = 06:00:31 Apus = 21:08:47 Min (°C) = 19.66 Max (°C) =38.26 Presiune = 1012 Umiditate (%) = 18 Index UV = 0.73 Viteza vântului = 2.67 Unghiul vântului = 301 Stare = cer senin']
+Deva: 29 \ duminică \ 24:7:2022 \ 19:00:12
+[' Răsarit = 06:01:36 Apus = 21:07:45 Min (°C) = 20.6 Max (°C) =34.97 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.6 Viteza vântului = 3.92 Unghiul vântului = 316 Stare = nori 85-100%']
+Deva: 30 \ luni \ 25:7:2022 \ 19:00:04
+[' Răsarit = 06:02:43 Apus = 21:06:42 Min (°C) = 17.25 Max (°C) =33.54 Presiune = 1011 Umiditate (%) = 20 Index UV = 0.73 Viteza vântului = 2.81 Unghiul vântului = 301 Stare = nori 10-25%']
+Deva: 30 \ marți \ 26:7:2022 \ 19:00:13
+[' Răsarit = 06:03:50 Apus = 21:05:37 Min (°C) = 17.33 Max (°C) =35.48 Presiune = 1008 Umiditate (%) = 18 Index UV = 0.72 Viteza vântului = 3.76 Unghiul vântului = 314 Stare = cer senin']
+Deva: 30 \ miercuri \ 27:7:2022 \ 19:00:05
+[' Răsarit = 06:04:58 Apus = 21:04:29 Min (°C) = 18.42 Max (°C) =32.24 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.67 Viteza vântului = 3.23 Unghiul vântului = 322 Stare = cer senin']
+Deva: 30 \ joi \ 28:7:2022 \ 19:00:07
+[' Răsarit = 06:06:06 Apus = 21:03:20 Min (°C) = 17.06 Max (°C) =32.25 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.69 Viteza vântului = 1.74 Unghiul vântului = 177 Stare = nori 85-100%']
+Deva: 30 \ vineri \ 29:7:2022 \ 19:00:05
+[' Răsarit = 06:07:15 Apus = 21:02:10 Min (°C) = 17.29 Max (°C) =33.06 Presiune = 1014 Umiditate (%) = 55 Index UV = 0.16 Viteza vântului = 1.03 Unghiul vântului = 338 Stare = nori 85-100%']
+Deva: 30 \ sâmbătă \ 30:7:2022 \ 19:00:05
+[' Răsarit = 06:08:25 Apus = 21:00:57 Min (°C) = 18.65 Max (°C) =34.26 Presiune = 1014 Umiditate (%) = 92 Index UV = 0.21 Viteza vântului = 2.12 Unghiul vântului = 315 Stare = ploaie intensă']
+Deva: 30 \ duminică \ 31:7:2022 \ 19:00:09
+[' Răsarit = 06:09:36 Apus = 20:59:43 Min (°C) = 17.49 Max (°C) =26.09 Presiune = 1012 Umiditate (%) = 56 Index UV = 0.38 Viteza vântului = 5.35 Unghiul vântului = 282 Stare = nori 50-85%']
+Deva: 31 \ sâmbătă \ 06:8:2022 \ 19:00:08
+[' Răsarit = 06:16:48 Apus = 20:51:43 Min (°C) = 18.6 Max (°C) =35.18 Presiune = 1010 Umiditate (%) = 30 Index UV = 0.59 Viteza vântului = 1.02 Unghiul vântului = 45 Stare = nori 50-85%']
+Deva: 31 \ duminică \ 07:8:2022 \ 19:00:03
+[' Răsarit = 06:18:02 Apus = 20:50:17 Min (°C) = 19.03 Max (°C) =33.39 Presiune = 1013 Umiditate (%) = 36 Index UV = 0.36 Viteza vântului = 2.34 Unghiul vântului = 331 Stare = nori 50-85%']
+Deva: 32 \ luni \ 08:8:2022 \ 19:00:08
+[' Răsarit = 06:19:15 Apus = 20:48:50 Min (°C) = 19.44 Max (°C) =32.52 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.05 Viteza vântului = 1.61 Unghiul vântului = 169 Stare = nori 85-100%']
+Deva: 32 \ marți \ 09:8:2022 \ 19:00:04
+[' Răsarit = 06:20:29 Apus = 20:47:22 Min (°C) = 17.46 Max (°C) =28.35 Presiune = 1019 Umiditate (%) = 94 Index UV = 0.06 Viteza vântului = 2.56 Unghiul vântului = 296 Stare = ploaie ușoară']
+Deva: 32 \ miercuri \ 10:8:2022 \ 19:00:04
+[' Răsarit = 06:21:43 Apus = 20:45:52 Min (°C) = 17.26 Max (°C) =27.3 Presiune = 1017 Umiditate (%) = 78 Index UV = 0.41 Viteza vântului = 1.76 Unghiul vântului = 42 Stare = nori 50-85%']
+Deva: 32 \ joi \ 11:8:2022 \ 19:00:02
+[' Răsarit = 06:22:57 Apus = 20:44:21 Min (°C) = 15.46 Max (°C) =27.07 Presiune = 1015 Umiditate (%) = 43 Index UV = 0.17 Viteza vântului = 2.16 Unghiul vântului = 15 Stare = nori 50-85%']
+Deva: 32 \ vineri \ 12:8:2022 \ 19:00:03
+[' Răsarit = 06:24:12 Apus = 20:42:49 Min (°C) = 16.27 Max (°C) =29.1 Presiune = 1013 Umiditate (%) = 34 Index UV = 0.43 Viteza vântului = 2.37 Unghiul vântului = 106 Stare = nori 85-100%']
+Deva: 32 \ sâmbătă \ 13:8:2022 \ 19:00:10
+[' Răsarit = 06:25:26 Apus = 20:41:15 Min (°C) = 15.3 Max (°C) =28.31 Presiune = 1011 Umiditate (%) = 50 Index UV = 0.4 Viteza vântului = 2.91 Unghiul vântului = 269 Stare = nori 85-100%']
+Deva: 32 \ duminică \ 14:8:2022 \ 19:00:06
+[' Răsarit = 06:26:41 Apus = 20:39:40 Min (°C) = 16.72 Max (°C) =28.55 Presiune = 1009 Umiditate (%) = 94 Index UV = 0.14 Viteza vântului = 1.39 Unghiul vântului = 310 Stare = nori 85-100%']
+Deva: 33 \ luni \ 15:8:2022 \ 19:00:11
+[' Răsarit = 06:27:56 Apus = 20:38:04 Min (°C) = 16.95 Max (°C) =29.6 Presiune = 1008 Umiditate (%) = 78 Index UV = 0.37 Viteza vântului = 0.66 Unghiul vântului = 8 Stare = nori 85-100%']
+Deva: 33 \ marți \ 16:8:2022 \ 19:00:13
+[' Răsarit = 06:29:10 Apus = 20:36:26 Min (°C) = 17.09 Max (°C) =30.5 Presiune = 1009 Umiditate (%) = 46 Index UV = 0.28 Viteza vântului = 0.93 Unghiul vântului = 53 Stare = nori 50-85%']
+Deva: 33 \ miercuri \ 17:8:2022 \ 19:00:05
+[' Răsarit = 06:30:25 Apus = 20:34:48 Min (°C) = 17.93 Max (°C) =31.35 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.43 Viteza vântului = 2.09 Unghiul vântului = 356 Stare = nori 25-50%']
+Deva: 33 \ joi \ 18:8:2022 \ 19:00:07
+[' Răsarit = 06:31:40 Apus = 20:33:08 Min (°C) = 19.07 Max (°C) =33.56 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.45 Viteza vântului = 2.62 Unghiul vântului = 335 Stare = cer senin']
+Deva: 33 \ vineri \ 19:8:2022 \ 19:00:11
+[' Răsarit = 06:32:55 Apus = 20:31:27 Min (°C) = 19.33 Max (°C) =34.44 Presiune = 1009 Umiditate (%) = 32 Index UV = 0.44 Viteza vântului = 3.65 Unghiul vântului = 82 Stare = cer senin']
+Deva: 33 \ sâmbătă \ 20:8:2022 \ 19:00:11
+[' Răsarit = 06:34:10 Apus = 20:29:46 Min (°C) = 19.89 Max (°C) =34.37 Presiune = 1007 Umiditate (%) = 62 Index UV = 0.14 Viteza vântului = 1.38 Unghiul vântului = 160 Stare = ploaie ușoară']
+Deva: 33 \ duminică \ 21:8:2022 \ 19:00:08
+[' Răsarit = 06:35:25 Apus = 20:28:03 Min (°C) = 18.65 Max (°C) =22.52 Presiune = 1008 Umiditate (%) = 80 Index UV = 0.37 Viteza vântului = 0.94 Unghiul vântului = 292 Stare = nori 85-100%']
+Deva: 34 \ luni \ 22:8:2022 \ 19:00:22
+[' Răsarit = 06:36:40 Apus = 20:26:19 Min (°C) = 17.21 Max (°C) =24.45 Presiune = 1009 Umiditate (%) = 67 Index UV = 0.37 Viteza vântului = 1.46 Unghiul vântului = 66 Stare = ploaie ușoară']
+Deva: 34 \ marți \ 23:8:2022 \ 19:00:08
+[' Răsarit = 06:37:54 Apus = 20:24:34 Min (°C) = 16.43 Max (°C) =26.55 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.32 Viteza vântului = 0.49 Unghiul vântului = 19 Stare = nori 85-100%']
+Deva: 34 \ miercuri \ 24:8:2022 \ 19:00:15
+[' Răsarit = 06:39:09 Apus = 20:22:48 Min (°C) = 16.17 Max (°C) =27.53 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.31 Viteza vântului = 0.24 Unghiul vântului = 263 Stare = nori 50-85%']
+Deva: 34 \ joi \ 25:8:2022 \ 19:00:05
+[' Răsarit = 06:40:24 Apus = 20:21:02 Min (°C) = 16.95 Max (°C) =29.66 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.34 Viteza vântului = 2.73 Unghiul vântului = 29 Stare = cer senin']
+Deva: 34 \ vineri \ 26:8:2022 \ 19:00:07
+[' Răsarit = 06:41:38 Apus = 20:19:14 Min (°C) = 15.64 Max (°C) =30.38 Presiune = 1009 Umiditate (%) = 34 Index UV = 0.33 Viteza vântului = 1.4 Unghiul vântului = 99 Stare = cer senin']
+Deva: 34 \ sâmbătă \ 27:8:2022 \ 19:00:06
+[' Răsarit = 06:42:53 Apus = 20:17:26 Min (°C) = 16.58 Max (°C) =31.76 Presiune = 1010 Umiditate (%) = 38 Index UV = 0.33 Viteza vântului = 1.29 Unghiul vântului = 300 Stare = nori 10-25%']
+Deva: 34 \ duminică \ 28:8:2022 \ 19:00:07
+[' Răsarit = 06:44:08 Apus = 20:15:37 Min (°C) = 18.21 Max (°C) =32.64 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.32 Viteza vântului = 0.8 Unghiul vântului = 161 Stare = cer senin']
+Deva: 35 \ luni \ 29:8:2022 \ 19:00:23
+[' Răsarit = 06:45:22 Apus = 20:13:47 Min (°C) = 18.73 Max (°C) =30.78 Presiune = 1016 Umiditate (%) = 79 Index UV = 0.25 Viteza vântului = 4.6 Unghiul vântului = 171 Stare = nori 85-100%']
+Deva: 35 \ marți \ 30:8:2022 \ 19:00:06
+[' Răsarit = 06:46:36 Apus = 20:11:57 Min (°C) = 17.04 Max (°C) =29.61 Presiune = 1016 Umiditate (%) = 90 Index UV = 0.1 Viteza vântului = 1.09 Unghiul vântului = 175 Stare = ploaie ușoară']
+Deva: 35 \ miercuri \ 31:8:2022 \ 19:00:09
+[' Răsarit = 06:47:50 Apus = 20:10:05 Min (°C) = 16.74 Max (°C) =28.43 Presiune = 1014 Umiditate (%) = 83 Index UV = 0.15 Viteza vântului = 1.17 Unghiul vântului = 281 Stare = nori 50-85%']
+Deva: 35 \ joi \ 01:9:2022 \ 19:00:18
+[' Răsarit = 06:49:05 Apus = 20:08:13 Min (°C) = 15.63 Max (°C) =23.92 Presiune = 1013 Umiditate (%) = 89 Index UV = 0.21 Viteza vântului = 1.04 Unghiul vântului = 216 Stare = ploaie moderată']
+Deva: 35 \ vineri \ 02:9:2022 \ 19:00:15
+[' Răsarit = 06:50:19 Apus = 20:06:21 Min (°C) = 15.03 Max (°C) =17.66 Presiune = 1016 Umiditate (%) = 98 Index UV = 0.01 Viteza vântului = 0.58 Unghiul vântului = 113 Stare = nori 85-100%']
+Deva: 35 \ sâmbătă \ 03:9:2022 \ 19:00:13
+[' Răsarit = 06:51:33 Apus = 20:04:28 Min (°C) = 14.98 Max (°C) =19.94 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.16 Viteza vântului = 1.47 Unghiul vântului = 299 Stare = nori 50-85%']
+Deva: 35 \ duminică \ 04:9:2022 \ 19:00:10
+[' Răsarit = 06:52:47 Apus = 20:02:34 Min (°C) = 14.18 Max (°C) =23.77 Presiune = 1020 Umiditate (%) = 69 Index UV = 0.13 Viteza vântului = 0.89 Unghiul vântului = 31 Stare = nori 50-85%']

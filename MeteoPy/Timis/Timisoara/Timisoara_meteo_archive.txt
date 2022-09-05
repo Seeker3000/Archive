@@ -1034,3 +1034,121 @@ Timisoara: 26 \ vineri \ 01:7:2022 \ 19:22:35
 [' Răsarit = 05:49:01 Apus = 21:28:30 Min (°C) = 21.45 Max (°C) =38.75 Presiune = 1012 Umiditate (%) = 24 Index UV = 0.95 Viteza vântului = 4.12 Unghiul vântului = 130 Stare = ploaie ușoară']
 Timisoara: 26 \ sâmbătă \ 02:7:2022 \ 19:21:57
 [' Răsarit = 05:49:35 Apus = 21:28:18 Min (°C) = 22.2 Max (°C) =35.33 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.98 Viteza vântului = 4.63 Unghiul vântului = 280 Stare = ploaie moderată']
+Timisoara: 26 \ duminică \ 03:7:2022 \ 19:21:31
+[' Răsarit = 05:50:11 Apus = 21:28:03 Min (°C) = 20.08 Max (°C) =37.26 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.93 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = nori 10-25%']
+Timisoara: 27 \ luni \ 04:7:2022 \ 19:19:46
+[' Răsarit = 05:50:48 Apus = 21:27:46 Min (°C) = 22.02 Max (°C) =37.13 Presiune = 1014 Umiditate (%) = 19 Index UV = 1.02 Viteza vântului = 3.09 Unghiul vântului = 330 Stare = ploaie ușoară']
+Timisoara: 27 \ marți \ 05:7:2022 \ 19:20:12
+[' Răsarit = 05:51:28 Apus = 21:27:27 Min (°C) = 19.97 Max (°C) =37.09 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.62 Viteza vântului = 7.72 Unghiul vântului = 310 Stare = cer senin']
+Timisoara: 27 \ miercuri \ 06:7:2022 \ 19:19:57
+[' Răsarit = 05:52:09 Apus = 21:27:05 Min (°C) = 17.98 Max (°C) =26.4 Presiune = 1016 Umiditate (%) = 55 Index UV = 0.87 Viteza vântului = 4.12 Unghiul vântului = 20 Stare = nori 10-25%']
+Timisoara: 27 \ joi \ 07:7:2022 \ 19:20:05
+[' Răsarit = 05:52:52 Apus = 21:26:41 Min (°C) = 16 Max (°C) =30.19 Presiune = 1014 Umiditate (%) = 24 Index UV = 0.89 Viteza vântului = 3.6 Unghiul vântului = 320 Stare = cer senin']
+Timisoara: 27 \ vineri \ 08:7:2022 \ 19:19:58
+[' Răsarit = 05:53:37 Apus = 21:26:14 Min (°C) = 16.45 Max (°C) =30.34 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.62 Viteza vântului = 3.6 Unghiul vântului = 160 Stare = cer senin']
+Timisoara: 27 \ sâmbătă \ 09:7:2022 \ 19:20:28
+[' Răsarit = 05:54:24 Apus = 21:25:45 Min (°C) = 17.21 Max (°C) =28.68 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.83 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Timisoara: 27 \ duminică \ 10:7:2022 \ 19:19:53
+[' Răsarit = 05:55:12 Apus = 21:25:14 Min (°C) = 14.98 Max (°C) =27.12 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.67 Viteza vântului = 5.14 Unghiul vântului = 300 Stare = ploaie torențială \n de intensitate mică']
+Timisoara: 28 \ luni \ 11:7:2022 \ 19:19:58
+[' Răsarit = 05:56:01 Apus = 21:24:41 Min (°C) = 10.85 Max (°C) =24.52 Presiune = 1017 Umiditate (%) = 28 Index UV = 0.83 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = cer senin']
+Timisoara: 28 \ marți \ 12:7:2022 \ 19:20:16
+[' Răsarit = 05:56:53 Apus = 21:24:05 Min (°C) = 12.49 Max (°C) =25.87 Presiune = 1019 Umiditate (%) = 25 Index UV = 0.74 Viteza vântului = 6.17 Unghiul vântului = 280 Stare = cer senin']
+Timisoara: 28 \ miercuri \ 13:7:2022 \ 19:19:58
+[' Răsarit = 05:57:45 Apus = 21:23:27 Min (°C) = 12.26 Max (°C) =30.33 Presiune = 1017 Umiditate (%) = 20 Index UV = 0.92 Viteza vântului = 6.17 Unghiul vântului = 300 Stare = cer senin']
+Timisoara: 28 \ joi \ 14:7:2022 \ 19:21:12
+[' Răsarit = 05:58:39 Apus = 21:22:47 Min (°C) = 14.88 Max (°C) =34.47 Presiune = 1015 Umiditate (%) = 18 Index UV = 0.9 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = ploaie ușoară']
+Timisoara: 28 \ vineri \ 15:7:2022 \ 19:23:45
+[' Răsarit = 05:59:34 Apus = 21:22:04 Min (°C) = 18.96 Max (°C) =35.6 Presiune = 1014 Umiditate (%) = 20 Index UV = 0.86 Viteza vântului = 7.2 Unghiul vântului = 340 Stare = ploaie ușoară']
+Timisoara: 28 \ sâmbătă \ 16:7:2022 \ 19:21:07
+[' Răsarit = 06:00:31 Apus = 21:21:19 Min (°C) = 15.8 Max (°C) =30.53 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.83 Viteza vântului = 3.09 Unghiul vântului = 250 Stare = cer senin']
+Timisoara: 28 \ duminică \ 17:7:2022 \ 19:22:39
+[' Răsarit = 06:01:29 Apus = 21:20:33 Min (°C) = 18.88 Max (°C) =28.45 Presiune = 1022 Umiditate (%) = 21 Index UV = 0.83 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = cer senin']
+Timisoara: 29 \ luni \ 18:7:2022 \ 19:22:12
+[' Răsarit = 06:02:28 Apus = 21:19:44 Min (°C) = 13.86 Max (°C) =30.34 Presiune = 1022 Umiditate (%) = 18 Index UV = 0.76 Viteza vântului = 3.6 Unghiul vântului = 10 Stare = cer senin']
+Timisoara: 29 \ marți \ 19:7:2022 \ 19:21:13
+[' Răsarit = 06:03:28 Apus = 21:18:52 Min (°C) = 15.04 Max (°C) =33.16 Presiune = 1019 Umiditate (%) = 19 Index UV = 0.83 Viteza vântului = 2.57 Unghiul vântului = 50 Stare = ploaie ușoară']
+Timisoara: 29 \ miercuri \ 20:7:2022 \ 19:21:23
+[' Răsarit = 06:04:30 Apus = 21:17:59 Min (°C) = 17.13 Max (°C) =35.33 Presiune = 1017 Umiditate (%) = 17 Index UV = 0.84 Viteza vântului = 4.63 Unghiul vântului = 360 Stare = ploaie ușoară']
+Timisoara: 29 \ joi \ 21:7:2022 \ 19:20:05
+[' Răsarit = 06:05:32 Apus = 21:17:04 Min (°C) = 19.62 Max (°C) =36.91 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.82 Viteza vântului = 6.69 Unghiul vântului = 360 Stare = ploaie ușoară']
+Timisoara: 29 \ vineri \ 22:7:2022 \ 19:20:12
+[' Răsarit = 06:06:35 Apus = 21:16:07 Min (°C) = 18.69 Max (°C) =38.61 Presiune = 1015 Umiditate (%) = 18 Index UV = 0.8 Viteza vântului = 1.34 Unghiul vântului = 0 Stare = cer senin']
+Timisoara: 29 \ sâmbătă \ 23:7:2022 \ 19:21:22
+[' Răsarit = 06:07:40 Apus = 21:15:08 Min (°C) = 21.73 Max (°C) =39.94 Presiune = 1013 Umiditate (%) = 14 Index UV = 0.8 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = cer senin']
+Timisoara: 29 \ duminică \ 24:7:2022 \ 19:21:24
+[' Răsarit = 06:08:45 Apus = 21:14:07 Min (°C) = 22.9 Max (°C) =36.16 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.59 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = ploaie ușoară']
+Timisoara: 30 \ luni \ 25:7:2022 \ 19:22:03
+[' Răsarit = 06:09:51 Apus = 21:13:03 Min (°C) = 19.49 Max (°C) =34.62 Presiune = 1012 Umiditate (%) = 19 Index UV = 0.8 Viteza vântului = 2.06 Unghiul vântului = 290 Stare = ploaie ușoară']
+Timisoara: 30 \ marți \ 26:7:2022 \ 19:21:47
+[' Răsarit = 06:10:58 Apus = 21:11:58 Min (°C) = 19.04 Max (°C) =37.32 Presiune = 1009 Umiditate (%) = 21 Index UV = 0.77 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = ploaie ușoară']
+Timisoara: 30 \ miercuri \ 27:7:2022 \ 19:22:45
+[' Răsarit = 06:12:05 Apus = 21:10:52 Min (°C) = 18.18 Max (°C) =32.59 Presiune = 1012 Umiditate (%) = 25 Index UV = 0.74 Viteza vântului = 5.14 Unghiul vântului = 360 Stare = cer senin']
+Timisoara: 30 \ joi \ 28:7:2022 \ 19:21:24
+[' Răsarit = 06:13:14 Apus = 21:09:43 Min (°C) = 18.75 Max (°C) =33.58 Presiune = 1014 Umiditate (%) = 28 Index UV = 0.76 Viteza vântului = 3.09 Unghiul vântului = 170 Stare = cer senin']
+Timisoara: 30 \ vineri \ 29:7:2022 \ 19:21:54
+[' Răsarit = 06:14:23 Apus = 21:08:32 Min (°C) = 20.25 Max (°C) =33.79 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.51 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = furtună']
+Timisoara: 30 \ sâmbătă \ 30:7:2022 \ 19:22:02
+[' Răsarit = 06:15:32 Apus = 21:07:20 Min (°C) = 20.11 Max (°C) =36.6 Presiune = 1012 Umiditate (%) = 95 Index UV = 0.28 Viteza vântului = 5.14 Unghiul vântului = 110 Stare = furtună']
+Timisoara: 30 \ duminică \ 31:7:2022 \ 19:22:51
+[' Răsarit = 06:16:42 Apus = 21:06:06 Min (°C) = 16.71 Max (°C) =25.64 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.49 Viteza vântului = 8.23 Unghiul vântului = 290 Stare = cer senin']
+Timisoara: 31 \ sâmbătă \ 06:8:2022 \ 19:22:40
+[' Răsarit = 06:23:53 Apus = 20:58:08 Min (°C) = 20.4 Max (°C) =36.99 Presiune = 1011 Umiditate (%) = 21 Index UV = 0.66 Viteza vântului = 5.66 Unghiul vântului = 350 Stare = ploaie ușoară']
+Timisoara: 31 \ duminică \ 07:8:2022 \ 19:21:46
+[' Răsarit = 06:25:06 Apus = 20:56:43 Min (°C) = 19.82 Max (°C) =34.87 Presiune = 1013 Umiditate (%) = 33 Index UV = 0.14 Viteza vântului = 5.66 Unghiul vântului = 60 Stare = ploaie ușoară']
+Timisoara: 32 \ luni \ 08:8:2022 \ 19:22:34
+[' Răsarit = 06:26:19 Apus = 20:55:16 Min (°C) = 19.73 Max (°C) =32.96 Presiune = 1018 Umiditate (%) = 100 Index UV = 0.41 Viteza vântului = 8.23 Unghiul vântului = 80 Stare = furtună cu ploaie']
+Timisoara: 32 \ marți \ 09:8:2022 \ 19:21:34
+[' Răsarit = 06:27:32 Apus = 20:53:48 Min (°C) = 18.88 Max (°C) =30.08 Presiune = 1018 Umiditate (%) = 67 Index UV = 0.42 Viteza vântului = 5.14 Unghiul vântului = 90 Stare = nori 10-25%']
+Timisoara: 32 \ miercuri \ 10:8:2022 \ 19:22:42
+[' Răsarit = 06:28:46 Apus = 20:52:19 Min (°C) = 17.45 Max (°C) =29.76 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.53 Viteza vântului = 7.2 Unghiul vântului = 360 Stare = cer senin']
+Timisoara: 32 \ joi \ 11:8:2022 \ 19:21:43
+[' Răsarit = 06:30:00 Apus = 20:50:48 Min (°C) = 15.89 Max (°C) =29.5 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.24 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
+Timisoara: 32 \ vineri \ 12:8:2022 \ 19:22:38
+[' Răsarit = 06:31:14 Apus = 20:49:16 Min (°C) = 16.28 Max (°C) =31.09 Presiune = 1013 Umiditate (%) = 28 Index UV = 0.49 Viteza vântului = 2.57 Unghiul vântului = 40 Stare = cer senin']
+Timisoara: 32 \ sâmbătă \ 13:8:2022 \ 19:21:33
+[' Răsarit = 06:32:28 Apus = 20:47:43 Min (°C) = 18.38 Max (°C) =27.1 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.26 Viteza vântului = 3.09 Unghiul vântului = 200 Stare = cer senin']
+Timisoara: 32 \ duminică \ 14:8:2022 \ 19:21:47
+[' Răsarit = 06:33:42 Apus = 20:46:08 Min (°C) = 17.89 Max (°C) =26.52 Presiune = 1007 Umiditate (%) = 60 Index UV = 0.46 Viteza vântului = 7.2 Unghiul vântului = 100 Stare = furtună with ploaie ușoară']
+Timisoara: 33 \ luni \ 15:8:2022 \ 19:22:48
+[' Răsarit = 06:34:57 Apus = 20:44:32 Min (°C) = 16.63 Max (°C) =33.05 Presiune = 1006 Umiditate (%) = 33 Index UV = 0.33 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = nori 10-25%']
+Timisoara: 33 \ marți \ 16:8:2022 \ 19:23:36
+[' Răsarit = 06:36:11 Apus = 20:42:55 Min (°C) = 18.8 Max (°C) =33.81 Presiune = 1008 Umiditate (%) = 36 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 240 Stare = ploaie ușoară']
+Timisoara: 33 \ miercuri \ 17:8:2022 \ 19:22:35
+[' Răsarit = 06:37:26 Apus = 20:41:17 Min (°C) = 19.41 Max (°C) =34.98 Presiune = 1011 Umiditate (%) = 44 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 330 Stare = ploaie ușoară']
+Timisoara: 33 \ joi \ 18:8:2022 \ 19:22:55
+[' Răsarit = 06:38:40 Apus = 20:39:38 Min (°C) = 21.18 Max (°C) =36.66 Presiune = 1010 Umiditate (%) = 20 Index UV = 0.34 Viteza vântului = 4.12 Unghiul vântului = 260 Stare = ploaie ușoară']
+Timisoara: 33 \ vineri \ 19:8:2022 \ 19:23:27
+[' Răsarit = 06:39:55 Apus = 20:37:58 Min (°C) = 21.96 Max (°C) =38.7 Presiune = 1009 Umiditate (%) = 28 Index UV = 0.47 Viteza vântului = 3.09 Unghiul vântului = 130 Stare = cer senin']
+Timisoara: 33 \ sâmbătă \ 20:8:2022 \ 19:24:51
+[' Răsarit = 06:41:09 Apus = 20:36:16 Min (°C) = 20.6 Max (°C) =31.19 Presiune = 1010 Umiditate (%) = 94 Index UV = 0.35 Viteza vântului = 4.12 Unghiul vântului = 90 Stare = cer senin']
+Timisoara: 33 \ duminică \ 21:8:2022 \ 19:23:18
+[' Răsarit = 06:42:24 Apus = 20:34:34 Min (°C) = 19.05 Max (°C) =21.96 Presiune = 1007 Umiditate (%) = 96 Index UV = 0.09 Viteza vântului = 3.09 Unghiul vântului = 290 Stare = ploaie ușoară']
+Timisoara: 34 \ luni \ 22:8:2022 \ 19:22:07
+[' Răsarit = 06:43:38 Apus = 20:32:50 Min (°C) = 17.04 Max (°C) =24.07 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.38 Viteza vântului = 3.43 Unghiul vântului = 269 Stare = nori 50-85%']
+Timisoara: 34 \ marți \ 23:8:2022 \ 19:22:08
+[' Răsarit = 06:44:52 Apus = 20:31:06 Min (°C) = 16.66 Max (°C) =25.45 Presiune = 1013 Umiditate (%) = 91 Index UV = 0.05 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = furtună cu ploaie']
+Timisoara: 34 \ miercuri \ 24:8:2022 \ 19:21:59
+[' Răsarit = 06:46:07 Apus = 20:29:21 Min (°C) = 17.56 Max (°C) =26.96 Presiune = 1016 Umiditate (%) = 62 Index UV = 0.38 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Timisoara: 34 \ joi \ 25:8:2022 \ 19:23:02
+[' Răsarit = 06:47:21 Apus = 20:27:34 Min (°C) = 18.26 Max (°C) =31.96 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.28 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = ploaie ușoară']
+Timisoara: 34 \ vineri \ 26:8:2022 \ 19:20:39
+[' Răsarit = 06:48:35 Apus = 20:25:47 Min (°C) = 18.3 Max (°C) =31.37 Presiune = 1009 Umiditate (%) = 30 Index UV = 0.37 Viteza vântului = 2.57 Unghiul vântului = 120 Stare = cer senin']
+Timisoara: 34 \ sâmbătă \ 27:8:2022 \ 19:20:41
+[' Răsarit = 06:49:49 Apus = 20:23:59 Min (°C) = 19.09 Max (°C) =33.41 Presiune = 1009 Umiditate (%) = 22 Index UV = 0.37 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = ploaie ușoară']
+Timisoara: 34 \ duminică \ 28:8:2022 \ 19:22:06
+[' Răsarit = 06:51:04 Apus = 20:22:11 Min (°C) = 20.04 Max (°C) =32.86 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.36 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = ploaie ușoară']
+Timisoara: 35 \ luni \ 29:8:2022 \ 19:22:56
+[' Răsarit = 06:52:18 Apus = 20:20:21 Min (°C) = 19.16 Max (°C) =28.12 Presiune = 1016 Umiditate (%) = 63 Index UV = 0.32 Viteza vântului = 2.06 Unghiul vântului = 350 Stare = nori 10-25%']
+Timisoara: 35 \ marți \ 30:8:2022 \ 19:22:14
+[' Răsarit = 06:53:31 Apus = 20:18:31 Min (°C) = 18.38 Max (°C) =29.03 Presiune = 1016 Umiditate (%) = 65 Index UV = 0.15 Viteza vântului = 4.12 Unghiul vântului = 20 Stare = nori 10-25%']
+Timisoara: 35 \ miercuri \ 31:8:2022 \ 19:22:09
+[' Răsarit = 06:54:45 Apus = 20:16:40 Min (°C) = 18.31 Max (°C) =30.04 Presiune = 1013 Umiditate (%) = 43 Index UV = 0.32 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = nori 10-25%']
+Timisoara: 35 \ joi \ 01:9:2022 \ 19:22:10
+[' Răsarit = 06:55:59 Apus = 20:14:49 Min (°C) = 17.61 Max (°C) =23.66 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.18 Viteza vântului = 4.12 Unghiul vântului = 10 Stare = nori 50-85%']
+Timisoara: 35 \ vineri \ 02:9:2022 \ 19:22:31
+[' Răsarit = 06:57:13 Apus = 20:12:56 Min (°C) = 13.73 Max (°C) =18.4 Presiune = 1016 Umiditate (%) = 97 Index UV = 0.01 Viteza vântului = 2.06 Unghiul vântului = 260 Stare = ploaie maruntă']
+Timisoara: 35 \ sâmbătă \ 03:9:2022 \ 19:21:55
+[' Răsarit = 06:58:26 Apus = 20:11:04 Min (°C) = 14.45 Max (°C) =20.68 Presiune = 1018 Umiditate (%) = 70 Index UV = 0.21 Viteza vântului = 1.54 Unghiul vântului = 130 Stare = nori 10-25%']
+Timisoara: 35 \ duminică \ 04:9:2022 \ 19:22:09
+[' Răsarit = 06:59:40 Apus = 20:09:10 Min (°C) = 14.74 Max (°C) =25.13 Presiune = 1020 Umiditate (%) = 52 Index UV = 0.21 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = cer senin']

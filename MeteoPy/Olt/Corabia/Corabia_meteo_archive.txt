@@ -1034,3 +1034,121 @@ Corabia: 26 \ vineri \ 01:7:2022 \ 19:16:46
 [' Răsarit = 05:43:33 Apus = 21:07:46 Min (°C) = 20.56 Max (°C) =36.91 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.78 Viteza vântului = 6.19 Unghiul vântului = 57 Stare = nori 10-25%']
 Corabia: 26 \ sâmbătă \ 02:7:2022 \ 19:16:36
 [' Răsarit = 05:44:05 Apus = 21:07:36 Min (°C) = 21.59 Max (°C) =36.09 Presiune = 1014 Umiditate (%) = 27 Index UV = 0.76 Viteza vântului = 5.47 Unghiul vântului = 80 Stare = cer senin']
+Corabia: 26 \ duminică \ 03:7:2022 \ 19:16:22
+[' Răsarit = 05:44:39 Apus = 21:07:23 Min (°C) = 20.28 Max (°C) =35.22 Presiune = 1014 Umiditate (%) = 30 Index UV = 0.52 Viteza vântului = 4.96 Unghiul vântului = 62 Stare = nori 50-85%']
+Corabia: 27 \ luni \ 04:7:2022 \ 19:15:00
+[' Răsarit = 05:45:15 Apus = 21:07:09 Min (°C) = 21.23 Max (°C) =35.45 Presiune = 1012 Umiditate (%) = 23 Index UV = 0.28 Viteza vântului = 4.15 Unghiul vântului = 74 Stare = nori 10-25%']
+Corabia: 27 \ marți \ 05:7:2022 \ 19:15:21
+[' Răsarit = 05:45:52 Apus = 21:06:52 Min (°C) = 21.66 Max (°C) =36.51 Presiune = 1010 Umiditate (%) = 23 Index UV = 0.75 Viteza vântului = 1.8 Unghiul vântului = 147 Stare = nori 85-100%']
+Corabia: 27 \ miercuri \ 06:7:2022 \ 19:15:07
+[' Răsarit = 05:46:31 Apus = 21:06:32 Min (°C) = 19.04 Max (°C) =28.98 Presiune = 1010 Umiditate (%) = 35 Index UV = 0.61 Viteza vântului = 6.66 Unghiul vântului = 318 Stare = nori 50-85%']
+Corabia: 27 \ joi \ 07:7:2022 \ 19:15:10
+[' Răsarit = 05:47:11 Apus = 21:06:11 Min (°C) = 17.51 Max (°C) =28.06 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.7 Viteza vântului = 6.09 Unghiul vântului = 91 Stare = nori 25-50%']
+Corabia: 27 \ vineri \ 08:7:2022 \ 19:15:08
+[' Răsarit = 05:47:53 Apus = 21:05:47 Min (°C) = 16.47 Max (°C) =29.77 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.5 Viteza vântului = 4.63 Unghiul vântului = 33 Stare = nori 85-100%']
+Corabia: 27 \ sâmbătă \ 09:7:2022 \ 19:15:32
+[' Răsarit = 05:48:36 Apus = 21:05:21 Min (°C) = 17.3 Max (°C) =25.48 Presiune = 1012 Umiditate (%) = 43 Index UV = 0.66 Viteza vântului = 6.17 Unghiul vântului = 286 Stare = nori 85-100%']
+Corabia: 27 \ duminică \ 10:7:2022 \ 19:15:02
+[' Răsarit = 05:49:21 Apus = 21:04:54 Min (°C) = 17.11 Max (°C) =29.46 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.57 Viteza vântului = 8.11 Unghiul vântului = 290 Stare = nori 85-100%']
+Corabia: 28 \ luni \ 11:7:2022 \ 19:15:06
+[' Răsarit = 05:50:08 Apus = 21:04:23 Min (°C) = 13.65 Max (°C) =26.79 Presiune = 1014 Umiditate (%) = 22 Index UV = 0.64 Viteza vântului = 7 Unghiul vântului = 275 Stare = cer senin']
+Corabia: 28 \ marți \ 12:7:2022 \ 19:15:23
+[' Răsarit = 05:50:55 Apus = 21:03:51 Min (°C) = 12.88 Max (°C) =28.03 Presiune = 1016 Umiditate (%) = 19 Index UV = 0.63 Viteza vântului = 5.89 Unghiul vântului = 288 Stare = cer senin']
+Corabia: 28 \ miercuri \ 13:7:2022 \ 19:15:05
+[' Răsarit = 05:51:44 Apus = 21:03:17 Min (°C) = 12.76 Max (°C) =29.82 Presiune = 1015 Umiditate (%) = 19 Index UV = 0.66 Viteza vântului = 5.11 Unghiul vântului = 334 Stare = nori 10-25%']
+Corabia: 28 \ joi \ 14:7:2022 \ 19:16:03
+[' Răsarit = 05:52:34 Apus = 21:02:40 Min (°C) = 14.89 Max (°C) =33.26 Presiune = 1014 Umiditate (%) = 16 Index UV = 0.69 Viteza vântului = 2 Unghiul vântului = 318 Stare = cer senin']
+Corabia: 28 \ vineri \ 15:7:2022 \ 19:17:51
+[' Răsarit = 05:53:26 Apus = 21:02:02 Min (°C) = 18.18 Max (°C) =35.56 Presiune = 1010 Umiditate (%) = 17 Index UV = 0.4 Viteza vântului = 2.8 Unghiul vântului = 336 Stare = ploaie ușoară']
+Corabia: 28 \ sâmbătă \ 16:7:2022 \ 19:16:06
+[' Răsarit = 05:54:19 Apus = 21:01:21 Min (°C) = 20.32 Max (°C) =35.8 Presiune = 1012 Umiditate (%) = 19 Index UV = 0.66 Viteza vântului = 6.42 Unghiul vântului = 303 Stare = cer senin']
+Corabia: 28 \ duminică \ 17:7:2022 \ 19:16:55
+[' Răsarit = 05:55:12 Apus = 21:00:38 Min (°C) = 16.96 Max (°C) =34.41 Presiune = 1016 Umiditate (%) = 9 Index UV = 0.63 Viteza vântului = 7.84 Unghiul vântului = 298 Stare = cer senin']
+Corabia: 29 \ luni \ 18:7:2022 \ 19:16:37
+[' Răsarit = 05:56:07 Apus = 20:59:53 Min (°C) = 16.67 Max (°C) =29.9 Presiune = 1020 Umiditate (%) = 20 Index UV = 0.63 Viteza vântului = 4.32 Unghiul vântului = 69 Stare = cer senin']
+Corabia: 29 \ marți \ 19:7:2022 \ 19:16:08
+[' Răsarit = 05:57:03 Apus = 20:59:07 Min (°C) = 15.09 Max (°C) =31.99 Presiune = 1018 Umiditate (%) = 16 Index UV = 0.64 Viteza vântului = 3.34 Unghiul vântului = 73 Stare = cer senin']
+Corabia: 29 \ miercuri \ 20:7:2022 \ 19:16:13
+[' Răsarit = 05:58:00 Apus = 20:58:18 Min (°C) = 16.81 Max (°C) =34.19 Presiune = 1015 Umiditate (%) = 16 Index UV = 0.64 Viteza vântului = 2.19 Unghiul vântului = 323 Stare = cer senin']
+Corabia: 29 \ joi \ 21:7:2022 \ 19:15:13
+[' Răsarit = 05:58:58 Apus = 20:57:27 Min (°C) = 19.33 Max (°C) =37.14 Presiune = 1010 Umiditate (%) = 14 Index UV = 0.63 Viteza vântului = 1.7 Unghiul vântului = 186 Stare = ploaie ușoară']
+Corabia: 29 \ vineri \ 22:7:2022 \ 19:15:05
+[' Răsarit = 05:59:56 Apus = 20:56:35 Min (°C) = 19.98 Max (°C) =37.64 Presiune = 1012 Umiditate (%) = 13 Index UV = 0.63 Viteza vântului = 1.93 Unghiul vântului = 15 Stare = cer senin']
+Corabia: 29 \ sâmbătă \ 23:7:2022 \ 19:16:14
+[' Răsarit = 06:00:56 Apus = 20:55:40 Min (°C) = 21.42 Max (°C) =39.85 Presiune = 1011 Umiditate (%) = 10 Index UV = 0.63 Viteza vântului = 1.63 Unghiul vântului = 36 Stare = cer senin']
+Corabia: 29 \ duminică \ 24:7:2022 \ 19:16:16
+[' Răsarit = 06:01:56 Apus = 20:54:44 Min (°C) = 22.73 Max (°C) =40.38 Presiune = 1009 Umiditate (%) = 22 Index UV = 0.43 Viteza vântului = 4.12 Unghiul vântului = 87 Stare = nori 50-85%']
+Corabia: 30 \ luni \ 25:7:2022 \ 19:16:41
+[' Răsarit = 06:02:57 Apus = 20:53:46 Min (°C) = 19.32 Max (°C) =33.9 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.59 Viteza vântului = 1.2 Unghiul vântului = 52 Stare = nori 50-85%']
+Corabia: 30 \ marți \ 26:7:2022 \ 19:16:34
+[' Răsarit = 06:03:59 Apus = 20:52:46 Min (°C) = 20.82 Max (°C) =38.38 Presiune = 1006 Umiditate (%) = 16 Index UV = 0.61 Viteza vântului = 1.87 Unghiul vântului = 17 Stare = cer senin']
+Corabia: 30 \ miercuri \ 27:7:2022 \ 19:17:13
+[' Răsarit = 06:05:02 Apus = 20:51:44 Min (°C) = 22.79 Max (°C) =38.3 Presiune = 1005 Umiditate (%) = 17 Index UV = 0.59 Viteza vântului = 3.48 Unghiul vântului = 281 Stare = cer senin']
+Corabia: 30 \ joi \ 28:7:2022 \ 19:16:13
+[' Răsarit = 06:06:05 Apus = 20:50:41 Min (°C) = 21.34 Max (°C) =34.79 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.53 Viteza vântului = 1.15 Unghiul vântului = 99 Stare = nori 25-50%']
+Corabia: 30 \ vineri \ 29:7:2022 \ 19:16:30
+[' Răsarit = 06:07:08 Apus = 20:49:36 Min (°C) = 19.32 Max (°C) =35.21 Presiune = 1011 Umiditate (%) = 20 Index UV = 0.38 Viteza vântului = 0.98 Unghiul vântului = 179 Stare = cer senin']
+Corabia: 30 \ sâmbătă \ 30:7:2022 \ 19:16:39
+[' Răsarit = 06:08:13 Apus = 20:48:29 Min (°C) = 21.21 Max (°C) =37.52 Presiune = 1006 Umiditate (%) = 16 Index UV = 0.38 Viteza vântului = 3.95 Unghiul vântului = 88 Stare = nori 50-85%']
+Corabia: 30 \ duminică \ 31:7:2022 \ 19:17:11
+[' Răsarit = 06:09:17 Apus = 20:47:20 Min (°C) = 19.4 Max (°C) =32.18 Presiune = 1009 Umiditate (%) = 25 Index UV = 0.5 Viteza vântului = 9.16 Unghiul vântului = 289 Stare = cer senin']
+Corabia: 31 \ sâmbătă \ 06:8:2022 \ 19:16:55
+[' Răsarit = 06:15:54 Apus = 20:39:56 Min (°C) = 22.1 Max (°C) =36.08 Presiune = 1008 Umiditate (%) = 24 Index UV = 0.35 Viteza vântului = 5.65 Unghiul vântului = 100 Stare = nori 25-50%']
+Corabia: 31 \ duminică \ 07:8:2022 \ 19:16:28
+[' Răsarit = 06:17:01 Apus = 20:38:36 Min (°C) = 22.63 Max (°C) =33.74 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.43 Viteza vântului = 6.56 Unghiul vântului = 38 Stare = nori 50-85%']
+Corabia: 32 \ luni \ 08:8:2022 \ 19:17:10
+[' Răsarit = 06:18:09 Apus = 20:37:16 Min (°C) = 19.91 Max (°C) =35.83 Presiune = 1012 Umiditate (%) = 22 Index UV = 0.43 Viteza vântului = 5.94 Unghiul vântului = 44 Stare = nori 50-85%']
+Corabia: 32 \ marți \ 09:8:2022 \ 19:16:20
+[' Răsarit = 06:19:16 Apus = 20:35:54 Min (°C) = 19.52 Max (°C) =35.47 Presiune = 1012 Umiditate (%) = 15 Index UV = 0.3 Viteza vântului = 4.31 Unghiul vântului = 346 Stare = nori 50-85%']
+Corabia: 32 \ miercuri \ 10:8:2022 \ 19:16:56
+[' Răsarit = 06:20:24 Apus = 20:34:30 Min (°C) = 19.59 Max (°C) =29.76 Presiune = 1013 Umiditate (%) = 35 Index UV = 0.37 Viteza vântului = 3.18 Unghiul vântului = 107 Stare = nori 50-85%']
+Corabia: 32 \ joi \ 11:8:2022 \ 19:16:28
+[' Răsarit = 06:21:32 Apus = 20:33:05 Min (°C) = 16.42 Max (°C) =30.32 Presiune = 1014 Umiditate (%) = 33 Index UV = 0.4 Viteza vântului = 3.71 Unghiul vântului = 59 Stare = cer senin']
+Corabia: 32 \ vineri \ 12:8:2022 \ 19:16:49
+[' Răsarit = 06:22:40 Apus = 20:31:39 Min (°C) = 17.35 Max (°C) =32.23 Presiune = 1011 Umiditate (%) = 21 Index UV = 0.39 Viteza vântului = 2.96 Unghiul vântului = 48 Stare = nori 50-85%']
+Corabia: 32 \ sâmbătă \ 13:8:2022 \ 19:16:25
+[' Răsarit = 06:23:48 Apus = 20:30:12 Min (°C) = 18.61 Max (°C) =32.51 Presiune = 1009 Umiditate (%) = 41 Index UV = 0.18 Viteza vântului = 6.71 Unghiul vântului = 269 Stare = nori 85-100%']
+Corabia: 32 \ duminică \ 14:8:2022 \ 19:16:33
+[' Răsarit = 06:24:57 Apus = 20:28:43 Min (°C) = 18.93 Max (°C) =29.71 Presiune = 1007 Umiditate (%) = 52 Index UV = 0.31 Viteza vântului = 1.49 Unghiul vântului = 251 Stare = nori 85-100%']
+Corabia: 33 \ luni \ 15:8:2022 \ 19:16:52
+[' Răsarit = 06:26:05 Apus = 20:27:14 Min (°C) = 17.79 Max (°C) =32.15 Presiune = 1005 Umiditate (%) = 35 Index UV = 0.37 Viteza vântului = 1.52 Unghiul vântului = 253 Stare = nori 50-85%']
+Corabia: 33 \ marți \ 16:8:2022 \ 19:17:59
+[' Răsarit = 06:27:13 Apus = 20:25:43 Min (°C) = 19.66 Max (°C) =34.49 Presiune = 1007 Umiditate (%) = 29 Index UV = 0.13 Viteza vântului = 5.43 Unghiul vântului = 268 Stare = nori 85-100%']
+Corabia: 33 \ miercuri \ 17:8:2022 \ 19:17:10
+[' Răsarit = 06:28:22 Apus = 20:24:11 Min (°C) = 20.63 Max (°C) =35.82 Presiune = 1008 Umiditate (%) = 37 Index UV = 0.31 Viteza vântului = 2.55 Unghiul vântului = 313 Stare = nori 50-85%']
+Corabia: 33 \ joi \ 18:8:2022 \ 19:17:16
+[' Răsarit = 06:29:30 Apus = 20:22:37 Min (°C) = 21.75 Max (°C) =37.1 Presiune = 1007 Umiditate (%) = 17 Index UV = 0.38 Viteza vântului = 4.68 Unghiul vântului = 351 Stare = ploaie ușoară']
+Corabia: 33 \ vineri \ 19:8:2022 \ 19:17:44
+[' Răsarit = 06:30:38 Apus = 20:21:03 Min (°C) = 22.3 Max (°C) =36.81 Presiune = 1007 Umiditate (%) = 23 Index UV = 0.36 Viteza vântului = 5.05 Unghiul vântului = 61 Stare = cer senin']
+Corabia: 33 \ sâmbătă \ 20:8:2022 \ 19:19:02
+[' Răsarit = 06:31:47 Apus = 20:19:28 Min (°C) = 23.1 Max (°C) =36.73 Presiune = 1005 Umiditate (%) = 24 Index UV = 0.34 Viteza vântului = 6.14 Unghiul vântului = 79 Stare = nori 10-25%']
+Corabia: 33 \ duminică \ 21:8:2022 \ 19:17:11
+[' Răsarit = 06:32:55 Apus = 20:17:52 Min (°C) = 19.26 Max (°C) =30.21 Presiune = 1005 Umiditate (%) = 40 Index UV = 0.2 Viteza vântului = 3.6 Unghiul vântului = 135 Stare = nori 50-85%']
+Corabia: 34 \ luni \ 22:8:2022 \ 19:16:54
+[' Răsarit = 06:34:03 Apus = 20:16:14 Min (°C) = 18.82 Max (°C) =30.27 Presiune = 1006 Umiditate (%) = 44 Index UV = 0.28 Viteza vântului = 2.24 Unghiul vântului = 327 Stare = nori 50-85%']
+Corabia: 34 \ marți \ 23:8:2022 \ 19:16:59
+[' Răsarit = 06:35:11 Apus = 20:14:36 Min (°C) = 19.18 Max (°C) =29.42 Presiune = 1009 Umiditate (%) = 40 Index UV = 0.25 Viteza vântului = 2.3 Unghiul vântului = 261 Stare = nori 50-85%']
+Corabia: 34 \ miercuri \ 24:8:2022 \ 19:16:30
+[' Răsarit = 06:36:20 Apus = 20:12:57 Min (°C) = 19.19 Max (°C) =29.37 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.27 Viteza vântului = 2.38 Unghiul vântului = 353 Stare = nori 85-100%']
+Corabia: 34 \ joi \ 25:8:2022 \ 19:17:45
+[' Răsarit = 06:37:28 Apus = 20:11:17 Min (°C) = 20.28 Max (°C) =32.79 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.26 Viteza vântului = 2.47 Unghiul vântului = 16 Stare = nori 10-25%']
+Corabia: 34 \ vineri \ 26:8:2022 \ 19:15:38
+[' Răsarit = 06:38:36 Apus = 20:09:36 Min (°C) = 19.58 Max (°C) =32.05 Presiune = 1007 Umiditate (%) = 26 Index UV = 0.25 Viteza vântului = 2.57 Unghiul vântului = 275 Stare = cer senin']
+Corabia: 34 \ sâmbătă \ 27:8:2022 \ 19:15:41
+[' Răsarit = 06:39:43 Apus = 20:07:55 Min (°C) = 20.12 Max (°C) =33.58 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.25 Viteza vântului = 1.55 Unghiul vântului = 128 Stare = cer senin']
+Corabia: 34 \ duminică \ 28:8:2022 \ 19:16:41
+[' Răsarit = 06:40:51 Apus = 20:06:12 Min (°C) = 21.66 Max (°C) =36.32 Presiune = 1011 Umiditate (%) = 26 Index UV = 0.25 Viteza vântului = 0.5 Unghiul vântului = 268 Stare = cer senin']
+Corabia: 35 \ luni \ 29:8:2022 \ 19:17:33
+[' Răsarit = 06:41:59 Apus = 20:04:29 Min (°C) = 22.48 Max (°C) =34.59 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.21 Viteza vântului = 2.47 Unghiul vântului = 157 Stare = nori 25-50%']
+Corabia: 35 \ marți \ 30:8:2022 \ 19:16:53
+[' Răsarit = 06:43:07 Apus = 20:02:45 Min (°C) = 20.45 Max (°C) =31.67 Presiune = 1012 Umiditate (%) = 34 Index UV = 0.16 Viteza vântului = 2.41 Unghiul vântului = 180 Stare = nori 85-100%']
+Corabia: 35 \ miercuri \ 31:8:2022 \ 19:16:48
+[' Răsarit = 06:44:14 Apus = 20:01:01 Min (°C) = 19.01 Max (°C) =30.37 Presiune = 1011 Umiditate (%) = 35 Index UV = 0.21 Viteza vântului = 3.13 Unghiul vântului = 59 Stare = nori 10-25%']
+Corabia: 35 \ joi \ 01:9:2022 \ 19:16:51
+[' Răsarit = 06:45:22 Apus = 19:59:15 Min (°C) = 17.64 Max (°C) =29.26 Presiune = 1010 Umiditate (%) = 38 Index UV = 0.2 Viteza vântului = 3.34 Unghiul vântului = 58 Stare = nori 50-85%']
+Corabia: 35 \ vineri \ 02:9:2022 \ 19:17:13
+[' Răsarit = 06:46:29 Apus = 19:57:30 Min (°C) = 17.44 Max (°C) =21.42 Presiune = 1014 Umiditate (%) = 86 Index UV = 0.03 Viteza vântului = 2.24 Unghiul vântului = 324 Stare = ploaie ușoară']
+Corabia: 35 \ sâmbătă \ 03:9:2022 \ 19:16:42
+[' Răsarit = 06:47:36 Apus = 19:55:43 Min (°C) = 14.98 Max (°C) =19.32 Presiune = 1018 Umiditate (%) = 78 Index UV = 0.12 Viteza vântului = 3.78 Unghiul vântului = 77 Stare = nori 50-85%']
+Corabia: 35 \ duminică \ 04:9:2022 \ 19:16:28
+[' Răsarit = 06:48:44 Apus = 19:53:56 Min (°C) = 13.06 Max (°C) =23.97 Presiune = 1020 Umiditate (%) = 55 Index UV = 0.17 Viteza vântului = 4.55 Unghiul vântului = 62 Stare = nori 25-50%']

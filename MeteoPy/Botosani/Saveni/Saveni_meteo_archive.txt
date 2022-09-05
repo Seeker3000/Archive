@@ -1032,3 +1032,121 @@ Saveni: 26 \ vineri \ 01:7:2022 \ 19:05:31
 [' Răsarit = 05:17:03 Apus = 21:15:21 Min (°C) = 20.49 Max (°C) =33.92 Presiune = 1014 Umiditate (%) = 26 Index UV = 0.7 Viteza vântului = 5.21 Unghiul vântului = 83 Stare = nori 10-25%']
 Saveni: 26 \ sâmbătă \ 02:7:2022 \ 19:05:21
 [' Răsarit = 05:17:39 Apus = 21:15:06 Min (°C) = 20.27 Max (°C) =33.65 Presiune = 1017 Umiditate (%) = 32 Index UV = 0.48 Viteza vântului = 3.77 Unghiul vântului = 326 Stare = nori 25-50%']
+Saveni: 26 \ duminică \ 03:7:2022 \ 19:05:25
+[' Răsarit = 05:18:17 Apus = 21:14:49 Min (°C) = 19.94 Max (°C) =30.65 Presiune = 1016 Umiditate (%) = 43 Index UV = 0.38 Viteza vântului = 2 Unghiul vântului = 140 Stare = nori 50-85%']
+Saveni: 27 \ luni \ 04:7:2022 \ 19:04:51
+[' Răsarit = 05:18:58 Apus = 21:14:29 Min (°C) = 19.47 Max (°C) =33.52 Presiune = 1013 Umiditate (%) = 24 Index UV = 0.72 Viteza vântului = 2.49 Unghiul vântului = 313 Stare = nori 25-50%']
+Saveni: 27 \ marți \ 05:7:2022 \ 19:05:01
+[' Răsarit = 05:19:40 Apus = 21:14:07 Min (°C) = 21.04 Max (°C) =35.23 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.33 Viteza vântului = 2.08 Unghiul vântului = 310 Stare = nori 50-85%']
+Saveni: 27 \ miercuri \ 06:7:2022 \ 19:04:54
+[' Răsarit = 05:20:25 Apus = 21:13:42 Min (°C) = 17.09 Max (°C) =33.39 Presiune = 1014 Umiditate (%) = 76 Index UV = 0.18 Viteza vântului = 8.82 Unghiul vântului = 313 Stare = nori 85-100%']
+Saveni: 27 \ joi \ 07:7:2022 \ 19:04:52
+[' Răsarit = 05:21:12 Apus = 21:13:14 Min (°C) = 15.39 Max (°C) =25.03 Presiune = 1015 Umiditate (%) = 39 Index UV = 0.66 Viteza vântului = 3.45 Unghiul vântului = 33 Stare = nori 50-85%']
+Saveni: 27 \ vineri \ 08:7:2022 \ 19:04:56
+[' Răsarit = 05:22:00 Apus = 21:12:44 Min (°C) = 14 Max (°C) =26.65 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.57 Viteza vântului = 5.56 Unghiul vântului = 353 Stare = nori 85-100%']
+Saveni: 27 \ sâmbătă \ 09:7:2022 \ 19:04:55
+[' Răsarit = 05:22:50 Apus = 21:12:11 Min (°C) = 15.78 Max (°C) =25.91 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.41 Viteza vântului = 5.3 Unghiul vântului = 336 Stare = nori 85-100%']
+Saveni: 27 \ duminică \ 10:7:2022 \ 19:04:51
+[' Răsarit = 05:23:42 Apus = 21:11:36 Min (°C) = 13.21 Max (°C) =24.46 Presiune = 1010 Umiditate (%) = 42 Index UV = 0.25 Viteza vântului = 6.06 Unghiul vântului = 292 Stare = nori 50-85%']
+Saveni: 28 \ luni \ 11:7:2022 \ 19:04:51
+[' Răsarit = 05:24:36 Apus = 21:10:58 Min (°C) = 13.11 Max (°C) =21.85 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.52 Viteza vântului = 5.84 Unghiul vântului = 332 Stare = nori 50-85%']
+Saveni: 28 \ marți \ 12:7:2022 \ 19:05:07
+[' Răsarit = 05:25:32 Apus = 21:10:18 Min (°C) = 10.58 Max (°C) =22.2 Presiune = 1016 Umiditate (%) = 53 Index UV = 0.49 Viteza vântului = 2.27 Unghiul vântului = 304 Stare = ploaie ușoară']
+Saveni: 28 \ miercuri \ 13:7:2022 \ 19:04:55
+[' Răsarit = 05:26:29 Apus = 21:09:36 Min (°C) = 13.51 Max (°C) =19.87 Presiune = 1014 Umiditate (%) = 78 Index UV = 0.29 Viteza vântului = 4.74 Unghiul vântului = 282 Stare = nori 85-100%']
+Saveni: 28 \ joi \ 14:7:2022 \ 19:05:13
+[' Răsarit = 05:27:28 Apus = 21:08:51 Min (°C) = 15.59 Max (°C) =30.01 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.63 Viteza vântului = 4.2 Unghiul vântului = 291 Stare = nori 50-85%']
+Saveni: 28 \ vineri \ 15:7:2022 \ 19:06:08
+[' Răsarit = 05:28:28 Apus = 21:08:03 Min (°C) = 19.21 Max (°C) =32.3 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.31 Viteza vântului = 4.09 Unghiul vântului = 305 Stare = nori 50-85%']
+Saveni: 28 \ sâmbătă \ 16:7:2022 \ 19:05:26
+[' Răsarit = 05:29:30 Apus = 21:07:14 Min (°C) = 14.87 Max (°C) =27.89 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.43 Viteza vântului = 2.54 Unghiul vântului = 11 Stare = nori 50-85%']
+Saveni: 28 \ duminică \ 17:7:2022 \ 19:05:32
+[' Răsarit = 05:30:33 Apus = 21:06:22 Min (°C) = 14.13 Max (°C) =24.75 Presiune = 1022 Umiditate (%) = 36 Index UV = 0.56 Viteza vântului = 9.36 Unghiul vântului = 337 Stare = nori 10-25%']
+Saveni: 29 \ luni \ 18:7:2022 \ 19:05:15
+[' Răsarit = 05:31:37 Apus = 21:05:28 Min (°C) = 11.12 Max (°C) =26.02 Presiune = 1022 Umiditate (%) = 27 Index UV = 0.56 Viteza vântului = 3.39 Unghiul vântului = 345 Stare = nori 50-85%']
+Saveni: 29 \ marți \ 19:7:2022 \ 19:05:21
+[' Răsarit = 05:32:43 Apus = 21:04:31 Min (°C) = 13.47 Max (°C) =28.34 Presiune = 1020 Umiditate (%) = 35 Index UV = 0.45 Viteza vântului = 4.04 Unghiul vântului = 26 Stare = nori 85-100%']
+Saveni: 29 \ miercuri \ 20:7:2022 \ 19:05:12
+[' Răsarit = 05:33:50 Apus = 21:03:32 Min (°C) = 15.87 Max (°C) =31.69 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.61 Viteza vântului = 8.04 Unghiul vântului = 340 Stare = nori 10-25%']
+Saveni: 29 \ joi \ 21:7:2022 \ 19:04:55
+[' Răsarit = 05:34:58 Apus = 21:02:31 Min (°C) = 14.72 Max (°C) =29.35 Presiune = 1014 Umiditate (%) = 23 Index UV = 0.59 Viteza vântului = 6.92 Unghiul vântului = 344 Stare = cer senin']
+Saveni: 29 \ vineri \ 22:7:2022 \ 19:04:48
+[' Răsarit = 05:36:07 Apus = 21:01:28 Min (°C) = 16.26 Max (°C) =32.9 Presiune = 1014 Umiditate (%) = 24 Index UV = 0.58 Viteza vântului = 7.26 Unghiul vântului = 5 Stare = cer senin']
+Saveni: 29 \ sâmbătă \ 23:7:2022 \ 19:05:23
+[' Răsarit = 05:37:17 Apus = 21:00:23 Min (°C) = 18.06 Max (°C) =33.82 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.38 Viteza vântului = 4.18 Unghiul vântului = 266 Stare = nori 25-50%']
+Saveni: 29 \ duminică \ 24:7:2022 \ 19:05:22
+[' Răsarit = 05:38:29 Apus = 20:59:16 Min (°C) = 19.33 Max (°C) =30.79 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.47 Viteza vântului = 2.89 Unghiul vântului = 328 Stare = nori 85-100%']
+Saveni: 30 \ luni \ 25:7:2022 \ 19:05:23
+[' Răsarit = 05:39:41 Apus = 20:58:07 Min (°C) = 15.02 Max (°C) =29.58 Presiune = 1012 Umiditate (%) = 22 Index UV = 0.54 Viteza vântului = 4.72 Unghiul vântului = 352 Stare = cer senin']
+Saveni: 30 \ marți \ 26:7:2022 \ 19:05:40
+[' Răsarit = 05:40:54 Apus = 20:56:55 Min (°C) = 15.47 Max (°C) =32.39 Presiune = 1008 Umiditate (%) = 23 Index UV = 0.47 Viteza vântului = 3.86 Unghiul vântului = 54 Stare = nori 50-85%']
+Saveni: 30 \ miercuri \ 27:7:2022 \ 19:05:43
+[' Răsarit = 05:42:08 Apus = 20:55:42 Min (°C) = 17.51 Max (°C) =26.26 Presiune = 1012 Umiditate (%) = 42 Index UV = 0.5 Viteza vântului = 4.94 Unghiul vântului = 348 Stare = nori 10-25%']
+Saveni: 30 \ joi \ 28:7:2022 \ 19:05:17
+[' Răsarit = 05:43:23 Apus = 20:54:27 Min (°C) = 18.45 Max (°C) =31.1 Presiune = 1014 Umiditate (%) = 25 Index UV = 0.52 Viteza vântului = 0.86 Unghiul vântului = 124 Stare = nori 85-100%']
+Saveni: 30 \ vineri \ 29:7:2022 \ 19:05:19
+[' Răsarit = 05:44:38 Apus = 20:53:10 Min (°C) = 18.39 Max (°C) =31.51 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.13 Viteza vântului = 5.34 Unghiul vântului = 131 Stare = nori 50-85%']
+Saveni: 30 \ sâmbătă \ 30:7:2022 \ 19:05:26
+[' Răsarit = 05:45:54 Apus = 20:51:51 Min (°C) = 19.62 Max (°C) =32.6 Presiune = 1011 Umiditate (%) = 47 Index UV = 0.47 Viteza vântului = 3.5 Unghiul vântului = 210 Stare = nori 85-100%']
+Saveni: 30 \ duminică \ 31:7:2022 \ 19:05:48
+[' Răsarit = 05:47:11 Apus = 20:50:31 Min (°C) = 18.65 Max (°C) =21.55 Presiune = 1009 Umiditate (%) = 84 Index UV = 0.28 Viteza vântului = 1.56 Unghiul vântului = 149 Stare = ploaie ușoară']
+Saveni: 31 \ sâmbătă \ 06:8:2022 \ 19:05:20
+[' Răsarit = 05:55:03 Apus = 20:41:51 Min (°C) = 19.24 Max (°C) =30.24 Presiune = 1013 Umiditate (%) = 46 Index UV = 0.29 Viteza vântului = 2.57 Unghiul vântului = 342 Stare = nori 50-85%']
+Saveni: 31 \ duminică \ 07:8:2022 \ 19:05:23
+[' Răsarit = 05:56:23 Apus = 20:40:19 Min (°C) = 18.84 Max (°C) =29.35 Presiune = 1018 Umiditate (%) = 61 Index UV = 0.42 Viteza vântului = 6.82 Unghiul vântului = 310 Stare = nori 50-85%']
+Saveni: 32 \ luni \ 08:8:2022 \ 19:05:48
+[' Răsarit = 05:57:44 Apus = 20:38:45 Min (°C) = 15.59 Max (°C) =29.28 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.42 Viteza vântului = 2.55 Unghiul vântului = 304 Stare = nori 10-25%']
+Saveni: 32 \ marți \ 09:8:2022 \ 19:05:17
+[' Răsarit = 05:59:04 Apus = 20:37:10 Min (°C) = 17.84 Max (°C) =26.24 Presiune = 1020 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 6.69 Unghiul vântului = 20 Stare = nori 85-100%']
+Saveni: 32 \ miercuri \ 10:8:2022 \ 19:05:38
+[' Răsarit = 06:00:25 Apus = 20:35:33 Min (°C) = 14.99 Max (°C) =21.71 Presiune = 1020 Umiditate (%) = 59 Index UV = 0.21 Viteza vântului = 5.03 Unghiul vântului = 340 Stare = nori 50-85%']
+Saveni: 32 \ joi \ 11:8:2022 \ 19:05:15
+[' Răsarit = 06:01:46 Apus = 20:33:55 Min (°C) = 13.74 Max (°C) =25.64 Presiune = 1017 Umiditate (%) = 47 Index UV = 0.27 Viteza vântului = 4.79 Unghiul vântului = 318 Stare = nori 85-100%']
+Saveni: 32 \ vineri \ 12:8:2022 \ 19:05:21
+[' Răsarit = 06:03:08 Apus = 20:32:16 Min (°C) = 16.98 Max (°C) =22.1 Presiune = 1017 Umiditate (%) = 86 Index UV = 0.12 Viteza vântului = 4.35 Unghiul vântului = 333 Stare = nori 85-100%']
+Saveni: 32 \ sâmbătă \ 13:8:2022 \ 19:05:24
+[' Răsarit = 06:04:29 Apus = 20:30:35 Min (°C) = 16.74 Max (°C) =27.94 Presiune = 1009 Umiditate (%) = 58 Index UV = 0.16 Viteza vântului = 2.92 Unghiul vântului = 345 Stare = nori 50-85%']
+Saveni: 32 \ duminică \ 14:8:2022 \ 19:05:30
+[' Răsarit = 06:05:51 Apus = 20:28:53 Min (°C) = 17.69 Max (°C) =29.84 Presiune = 1007 Umiditate (%) = 48 Index UV = 0.33 Viteza vântului = 4.21 Unghiul vântului = 60 Stare = ploaie ușoară']
+Saveni: 33 \ luni \ 15:8:2022 \ 19:05:30
+[' Răsarit = 06:07:13 Apus = 20:27:10 Min (°C) = 18.97 Max (°C) =29.99 Presiune = 1005 Umiditate (%) = 48 Index UV = 0.24 Viteza vântului = 1.66 Unghiul vântului = 359 Stare = nori 85-100%']
+Saveni: 33 \ marți \ 16:8:2022 \ 19:05:54
+[' Răsarit = 06:08:35 Apus = 20:25:25 Min (°C) = 18.88 Max (°C) =23.77 Presiune = 1008 Umiditate (%) = 71 Index UV = 0.23 Viteza vântului = 0.79 Unghiul vântului = 52 Stare = nori 85-100%']
+Saveni: 33 \ miercuri \ 17:8:2022 \ 19:05:41
+[' Răsarit = 06:09:57 Apus = 20:23:40 Min (°C) = 17.48 Max (°C) =26.14 Presiune = 1009 Umiditate (%) = 60 Index UV = 0.15 Viteza vântului = 3.28 Unghiul vântului = 336 Stare = nori 85-100%']
+Saveni: 33 \ joi \ 18:8:2022 \ 19:05:52
+[' Răsarit = 06:11:19 Apus = 20:21:53 Min (°C) = 17.45 Max (°C) =28.82 Presiune = 1011 Umiditate (%) = 57 Index UV = 0.13 Viteza vântului = 2.97 Unghiul vântului = 337 Stare = nori 50-85%']
+Saveni: 33 \ vineri \ 19:8:2022 \ 19:06:27
+[' Răsarit = 06:12:41 Apus = 20:20:05 Min (°C) = 18.57 Max (°C) =30.35 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.31 Viteza vântului = 3.07 Unghiul vântului = 347 Stare = nori 25-50%']
+Saveni: 33 \ sâmbătă \ 20:8:2022 \ 19:06:08
+[' Răsarit = 06:14:03 Apus = 20:18:16 Min (°C) = 18.62 Max (°C) =29.8 Presiune = 1009 Umiditate (%) = 38 Index UV = 0.29 Viteza vântului = 1.96 Unghiul vântului = 53 Stare = cer senin']
+Saveni: 33 \ duminică \ 21:8:2022 \ 19:05:42
+[' Răsarit = 06:15:25 Apus = 20:16:26 Min (°C) = 19.18 Max (°C) =28.91 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.18 Viteza vântului = 4.28 Unghiul vântului = 53 Stare = nori 10-25%']
+Saveni: 34 \ luni \ 22:8:2022 \ 19:05:53
+[' Răsarit = 06:16:47 Apus = 20:14:35 Min (°C) = 19.28 Max (°C) =31.43 Presiune = 1008 Umiditate (%) = 58 Index UV = 0.23 Viteza vântului = 0.97 Unghiul vântului = 90 Stare = nori 85-100%']
+Saveni: 34 \ marți \ 23:8:2022 \ 19:05:59
+[' Răsarit = 06:18:09 Apus = 20:12:43 Min (°C) = 20.04 Max (°C) =31.64 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.21 Viteza vântului = 2.11 Unghiul vântului = 84 Stare = nori 25-50%']
+Saveni: 34 \ miercuri \ 24:8:2022 \ 19:05:32
+[' Răsarit = 06:19:31 Apus = 20:10:50 Min (°C) = 19.49 Max (°C) =33.3 Presiune = 1014 Umiditate (%) = 24 Index UV = 0.23 Viteza vântului = 2.03 Unghiul vântului = 153 Stare = nori 85-100%']
+Saveni: 34 \ joi \ 25:8:2022 \ 19:06:20
+[' Răsarit = 06:20:53 Apus = 20:08:56 Min (°C) = 18.04 Max (°C) =33.07 Presiune = 1012 Umiditate (%) = 20 Index UV = 0.22 Viteza vântului = 3.6 Unghiul vântului = 26 Stare = cer senin']
+Saveni: 34 \ vineri \ 26:8:2022 \ 19:05:15
+[' Răsarit = 06:22:15 Apus = 20:07:02 Min (°C) = 16.94 Max (°C) =31.97 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.08 Viteza vântului = 3 Unghiul vântului = 13 Stare = cer senin']
+Saveni: 34 \ sâmbătă \ 27:8:2022 \ 19:05:14
+[' Răsarit = 06:23:36 Apus = 20:05:06 Min (°C) = 17.08 Max (°C) =30.84 Presiune = 1009 Umiditate (%) = 29 Index UV = 0.21 Viteza vântului = 2.8 Unghiul vântului = 331 Stare = nori 10-25%']
+Saveni: 34 \ duminică \ 28:8:2022 \ 19:05:27
+[' Răsarit = 06:24:58 Apus = 20:03:10 Min (°C) = 18.49 Max (°C) =32.86 Presiune = 1010 Umiditate (%) = 22 Index UV = 0.18 Viteza vântului = 1.11 Unghiul vântului = 345 Stare = cer senin']
+Saveni: 35 \ luni \ 29:8:2022 \ 19:06:08
+[' Răsarit = 06:26:20 Apus = 20:01:13 Min (°C) = 19.8 Max (°C) =34.29 Presiune = 1012 Umiditate (%) = 29 Index UV = 0.05 Viteza vântului = 4.84 Unghiul vântului = 322 Stare = nori 25-50%']
+Saveni: 35 \ marți \ 30:8:2022 \ 19:05:42
+[' Răsarit = 06:27:41 Apus = 19:59:15 Min (°C) = 18.28 Max (°C) =26.8 Presiune = 1016 Umiditate (%) = 50 Index UV = 0.19 Viteza vântului = 2.04 Unghiul vântului = 313 Stare = nori 50-85%']
+Saveni: 35 \ miercuri \ 31:8:2022 \ 19:05:35
+[' Răsarit = 06:29:03 Apus = 19:57:16 Min (°C) = 17.69 Max (°C) =25.94 Presiune = 1015 Umiditate (%) = 45 Index UV = 0.07 Viteza vântului = 4.36 Unghiul vântului = 337 Stare = nori 85-100%']
+Saveni: 35 \ joi \ 01:9:2022 \ 19:05:40
+[' Răsarit = 06:30:24 Apus = 19:55:17 Min (°C) = 17.24 Max (°C) =22.14 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.12 Viteza vântului = 4.46 Unghiul vântului = 344 Stare = nori 85-100%']
+Saveni: 35 \ vineri \ 02:9:2022 \ 19:06:04
+[' Răsarit = 06:31:46 Apus = 19:53:17 Min (°C) = 12.84 Max (°C) =17.05 Presiune = 1021 Umiditate (%) = 92 Index UV = 0.01 Viteza vântului = 1.53 Unghiul vântului = 80 Stare = nori 85-100%']
+Saveni: 35 \ sâmbătă \ 03:9:2022 \ 19:05:41
+[' Răsarit = 06:33:07 Apus = 19:51:17 Min (°C) = 11.22 Max (°C) =16.1 Presiune = 1021 Umiditate (%) = 92 Index UV = 0.01 Viteza vântului = 2.14 Unghiul vântului = 90 Stare = nori 85-100%']
+Saveni: 35 \ duminică \ 04:9:2022 \ 19:05:29
+[' Răsarit = 06:34:28 Apus = 19:49:16 Min (°C) = 11.12 Max (°C) =19.32 Presiune = 1023 Umiditate (%) = 58 Index UV = 0.13 Viteza vântului = 1.51 Unghiul vântului = 12 Stare = nori 85-100%']

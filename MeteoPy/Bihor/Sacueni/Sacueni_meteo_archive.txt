@@ -1030,3 +1030,121 @@ Sacueni: 26 \ vineri \ 01:7:2022 \ 19:04:29
 [' Răsarit = 05:38:47 Apus = 21:31:45 Min (°C) = 21.73 Max (°C) =38.11 Presiune = 1011 Umiditate (%) = 28 Index UV = 0.77 Viteza vântului = 2.28 Unghiul vântului = 90 Stare = ploaie ușoară']
 Sacueni: 26 \ sâmbătă \ 02:7:2022 \ 19:04:18
 [' Răsarit = 05:39:23 Apus = 21:31:31 Min (°C) = 21.3 Max (°C) =35.94 Presiune = 1016 Umiditate (%) = 48 Index UV = 0.61 Viteza vântului = 2.5 Unghiul vântului = 43 Stare = nori 25-50%']
+Sacueni: 26 \ duminică \ 03:7:2022 \ 19:04:21
+[' Răsarit = 05:40:00 Apus = 21:31:14 Min (°C) = 16.94 Max (°C) =35.37 Presiune = 1013 Umiditate (%) = 19 Index UV = 0.94 Viteza vântului = 5.24 Unghiul vântului = 316 Stare = nori 10-25%']
+Sacueni: 27 \ luni \ 04:7:2022 \ 19:03:55
+[' Răsarit = 05:40:40 Apus = 21:30:55 Min (°C) = 20.49 Max (°C) =36.54 Presiune = 1011 Umiditate (%) = 12 Index UV = 0.97 Viteza vântului = 2.39 Unghiul vântului = 303 Stare = cer senin']
+Sacueni: 27 \ marți \ 05:7:2022 \ 19:04:02
+[' Răsarit = 05:41:22 Apus = 21:30:34 Min (°C) = 19.04 Max (°C) =36.45 Presiune = 1009 Umiditate (%) = 22 Index UV = 0.92 Viteza vântului = 7.84 Unghiul vântului = 268 Stare = cer senin']
+Sacueni: 27 \ miercuri \ 06:7:2022 \ 19:03:57
+[' Răsarit = 05:42:05 Apus = 21:30:10 Min (°C) = 17.48 Max (°C) =25.12 Presiune = 1016 Umiditate (%) = 56 Index UV = 0.83 Viteza vântului = 5.54 Unghiul vântului = 33 Stare = nori 85-100%']
+Sacueni: 27 \ joi \ 07:7:2022 \ 19:03:54
+[' Răsarit = 05:42:51 Apus = 21:29:43 Min (°C) = 12.66 Max (°C) =27.94 Presiune = 1015 Umiditate (%) = 23 Index UV = 0.84 Viteza vântului = 0.83 Unghiul vântului = 295 Stare = nori 50-85%']
+Sacueni: 27 \ vineri \ 08:7:2022 \ 19:03:58
+[' Răsarit = 05:43:38 Apus = 21:29:14 Min (°C) = 14.6 Max (°C) =29.61 Presiune = 1016 Umiditate (%) = 25 Index UV = 0.59 Viteza vântului = 7.59 Unghiul vântului = 0 Stare = nori 85-100%']
+Sacueni: 27 \ sâmbătă \ 09:7:2022 \ 19:03:57
+[' Răsarit = 05:44:28 Apus = 21:28:42 Min (°C) = 14.91 Max (°C) =28.12 Presiune = 1014 Umiditate (%) = 26 Index UV = 0.81 Viteza vântului = 8.57 Unghiul vântului = 350 Stare = nori 85-100%']
+Sacueni: 27 \ duminică \ 10:7:2022 \ 19:03:54
+[' Răsarit = 05:45:19 Apus = 21:28:08 Min (°C) = 13.55 Max (°C) =25.59 Presiune = 1013 Umiditate (%) = 59 Index UV = 0.35 Viteza vântului = 0.39 Unghiul vântului = 52 Stare = nori 85-100%']
+Sacueni: 28 \ luni \ 11:7:2022 \ 19:03:54
+[' Răsarit = 05:46:11 Apus = 21:27:32 Min (°C) = 13.96 Max (°C) =22.46 Presiune = 1016 Umiditate (%) = 30 Index UV = 0.69 Viteza vântului = 4.23 Unghiul vântului = 303 Stare = nori 85-100%']
+Sacueni: 28 \ marți \ 12:7:2022 \ 19:04:10
+[' Răsarit = 05:47:06 Apus = 21:26:53 Min (°C) = 10.81 Max (°C) =24.18 Presiune = 1017 Umiditate (%) = 25 Index UV = 0.71 Viteza vântului = 3.16 Unghiul vântului = 324 Stare = nori 50-85%']
+Sacueni: 28 \ miercuri \ 13:7:2022 \ 19:03:59
+[' Răsarit = 05:48:01 Apus = 21:26:12 Min (°C) = 12.99 Max (°C) =29.84 Presiune = 1015 Umiditate (%) = 18 Index UV = 0.57 Viteza vântului = 4.47 Unghiul vântului = 323 Stare = cer senin']
+Sacueni: 28 \ joi \ 14:7:2022 \ 19:04:12
+[' Răsarit = 05:48:59 Apus = 21:25:28 Min (°C) = 17.17 Max (°C) =33.91 Presiune = 1013 Umiditate (%) = 20 Index UV = 0.49 Viteza vântului = 4.84 Unghiul vântului = 301 Stare = nori 50-85%']
+Sacueni: 28 \ vineri \ 15:7:2022 \ 19:04:58
+[' Răsarit = 05:49:58 Apus = 21:24:42 Min (°C) = 18.73 Max (°C) =30.58 Presiune = 1012 Umiditate (%) = 19 Index UV = 0.77 Viteza vântului = 3.48 Unghiul vântului = 315 Stare = nori 50-85%']
+Sacueni: 28 \ sâmbătă \ 16:7:2022 \ 19:04:28
+[' Răsarit = 05:50:58 Apus = 21:23:54 Min (°C) = 11.65 Max (°C) =29.74 Presiune = 1015 Umiditate (%) = 19 Index UV = 0.79 Viteza vântului = 6.84 Unghiul vântului = 286 Stare = nori 10-25%']
+Sacueni: 28 \ duminică \ 17:7:2022 \ 19:04:29
+[' Răsarit = 05:51:59 Apus = 21:23:03 Min (°C) = 14.22 Max (°C) =25.97 Presiune = 1022 Umiditate (%) = 22 Index UV = 0.71 Viteza vântului = 6.98 Unghiul vântului = 16 Stare = nori 25-50%']
+Sacueni: 29 \ luni \ 18:7:2022 \ 19:04:15
+[' Răsarit = 05:53:02 Apus = 21:22:10 Min (°C) = 12.56 Max (°C) =28.29 Presiune = 1021 Umiditate (%) = 18 Index UV = 0.69 Viteza vântului = 3.37 Unghiul vântului = 13 Stare = nori 25-50%']
+Sacueni: 29 \ marți \ 19:7:2022 \ 19:04:19
+[' Răsarit = 05:54:06 Apus = 21:21:15 Min (°C) = 15.44 Max (°C) =31.69 Presiune = 1018 Umiditate (%) = 17 Index UV = 0.79 Viteza vântului = 3.47 Unghiul vântului = 332 Stare = nori 10-25%']
+Sacueni: 29 \ miercuri \ 20:7:2022 \ 19:04:11
+[' Răsarit = 05:55:12 Apus = 21:20:18 Min (°C) = 17.86 Max (°C) =35.11 Presiune = 1016 Umiditate (%) = 16 Index UV = 0.8 Viteza vântului = 5.07 Unghiul vântului = 5 Stare = cer senin']
+Sacueni: 29 \ joi \ 21:7:2022 \ 19:03:57
+[' Răsarit = 05:56:18 Apus = 21:19:19 Min (°C) = 18.28 Max (°C) =35.03 Presiune = 1014 Umiditate (%) = 10 Index UV = 0.78 Viteza vântului = 7.22 Unghiul vântului = 21 Stare = cer senin']
+Sacueni: 29 \ vineri \ 22:7:2022 \ 19:03:52
+[' Răsarit = 05:57:26 Apus = 21:18:18 Min (°C) = 17.86 Max (°C) =37.91 Presiune = 1013 Umiditate (%) = 14 Index UV = 0.74 Viteza vântului = 3.31 Unghiul vântului = 349 Stare = nori 50-85%']
+Sacueni: 29 \ sâmbătă \ 23:7:2022 \ 19:04:22
+[' Răsarit = 05:58:34 Apus = 21:17:14 Min (°C) = 21.74 Max (°C) =39.09 Presiune = 1010 Umiditate (%) = 13 Index UV = 0.76 Viteza vântului = 3.64 Unghiul vântului = 294 Stare = nori 10-25%']
+Sacueni: 29 \ duminică \ 24:7:2022 \ 19:04:22
+[' Răsarit = 05:59:44 Apus = 21:16:09 Min (°C) = 18.54 Max (°C) =31.94 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.51 Viteza vântului = 6.08 Unghiul vântului = 343 Stare = nori 85-100%']
+Sacueni: 30 \ luni \ 25:7:2022 \ 19:04:20
+[' Răsarit = 06:00:54 Apus = 21:15:01 Min (°C) = 15.17 Max (°C) =33.21 Presiune = 1011 Umiditate (%) = 13 Index UV = 0.76 Viteza vântului = 3.42 Unghiul vântului = 345 Stare = nori 25-50%']
+Sacueni: 30 \ marți \ 26:7:2022 \ 19:04:39
+[' Răsarit = 06:02:06 Apus = 21:13:52 Min (°C) = 18.26 Max (°C) =35.21 Presiune = 1006 Umiditate (%) = 20 Index UV = 0.51 Viteza vântului = 5.04 Unghiul vântului = 305 Stare = cer senin']
+Sacueni: 30 \ miercuri \ 27:7:2022 \ 19:04:38
+[' Răsarit = 06:03:18 Apus = 21:12:40 Min (°C) = 15.22 Max (°C) =30.89 Presiune = 1010 Umiditate (%) = 23 Index UV = 0.72 Viteza vântului = 6.56 Unghiul vântului = 20 Stare = cer senin']
+Sacueni: 30 \ joi \ 28:7:2022 \ 19:04:14
+[' Răsarit = 06:04:31 Apus = 21:11:27 Min (°C) = 16.1 Max (°C) =32.73 Presiune = 1012 Umiditate (%) = 20 Index UV = 0.71 Viteza vântului = 4.84 Unghiul vântului = 344 Stare = nori 25-50%']
+Sacueni: 30 \ vineri \ 29:7:2022 \ 19:04:15
+[' Răsarit = 06:05:44 Apus = 21:10:12 Min (°C) = 19.02 Max (°C) =32.18 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.69 Viteza vântului = 5.5 Unghiul vântului = 120 Stare = nori 85-100%']
+Sacueni: 30 \ sâmbătă \ 30:7:2022 \ 19:04:22
+[' Răsarit = 06:06:59 Apus = 21:08:55 Min (°C) = 17.96 Max (°C) =32.23 Presiune = 1010 Umiditate (%) = 93 Index UV = 0.46 Viteza vântului = 6.76 Unghiul vântului = 238 Stare = ploaie ușoară']
+Sacueni: 30 \ duminică \ 31:7:2022 \ 19:04:40
+[' Răsarit = 06:08:14 Apus = 21:07:36 Min (°C) = 17.1 Max (°C) =22.66 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.36 Viteza vântului = 4.87 Unghiul vântului = 211 Stare = ploaie ușoară']
+Sacueni: 31 \ sâmbătă \ 06:8:2022 \ 19:04:18
+[' Răsarit = 06:15:54 Apus = 20:59:08 Min (°C) = 19.74 Max (°C) =35.27 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.63 Viteza vântului = 10.34 Unghiul vântului = 2 Stare = cer senin']
+Sacueni: 31 \ duminică \ 07:8:2022 \ 19:04:20
+[' Răsarit = 06:17:12 Apus = 20:57:38 Min (°C) = 18.08 Max (°C) =32.62 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.62 Viteza vântului = 5.17 Unghiul vântului = 12 Stare = nori 50-85%']
+Sacueni: 32 \ luni \ 08:8:2022 \ 19:04:44
+[' Răsarit = 06:18:30 Apus = 20:56:06 Min (°C) = 15.44 Max (°C) =31.36 Presiune = 1015 Umiditate (%) = 31 Index UV = 0.59 Viteza vântului = 4.65 Unghiul vântului = 350 Stare = cer senin']
+Sacueni: 32 \ marți \ 09:8:2022 \ 19:04:15
+[' Răsarit = 06:19:49 Apus = 20:54:33 Min (°C) = 16.95 Max (°C) =28.84 Presiune = 1017 Umiditate (%) = 39 Index UV = 0.46 Viteza vântului = 6.28 Unghiul vântului = 343 Stare = nori 85-100%']
+Sacueni: 32 \ miercuri \ 10:8:2022 \ 19:04:35
+[' Răsarit = 06:21:08 Apus = 20:52:58 Min (°C) = 14.78 Max (°C) =27.94 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.43 Viteza vântului = 6.6 Unghiul vântului = 33 Stare = nori 50-85%']
+Sacueni: 32 \ joi \ 11:8:2022 \ 19:04:13
+[' Răsarit = 06:22:27 Apus = 20:51:22 Min (°C) = 13.4 Max (°C) =28.1 Presiune = 1016 Umiditate (%) = 31 Index UV = 0.46 Viteza vântului = 4.85 Unghiul vântului = 56 Stare = nori 50-85%']
+Sacueni: 32 \ vineri \ 12:8:2022 \ 19:04:18
+[' Răsarit = 06:23:46 Apus = 20:49:45 Min (°C) = 15.98 Max (°C) =30.51 Presiune = 1013 Umiditate (%) = 22 Index UV = 0.42 Viteza vântului = 2.84 Unghiul vântului = 83 Stare = nori 85-100%']
+Sacueni: 32 \ sâmbătă \ 13:8:2022 \ 19:04:22
+[' Răsarit = 06:25:06 Apus = 20:48:06 Min (°C) = 15.44 Max (°C) =31.43 Presiune = 1009 Umiditate (%) = 36 Index UV = 0.41 Viteza vântului = 4.78 Unghiul vântului = 21 Stare = nori 85-100%']
+Sacueni: 32 \ duminică \ 14:8:2022 \ 19:04:27
+[' Răsarit = 06:26:25 Apus = 20:46:26 Min (°C) = 16.83 Max (°C) =32.29 Presiune = 1006 Umiditate (%) = 33 Index UV = 0.32 Viteza vântului = 2.95 Unghiul vântului = 290 Stare = nori 85-100%']
+Sacueni: 33 \ luni \ 15:8:2022 \ 19:04:26
+[' Răsarit = 06:27:45 Apus = 20:44:45 Min (°C) = 17.03 Max (°C) =32.39 Presiune = 1005 Umiditate (%) = 43 Index UV = 0.41 Viteza vântului = 4.29 Unghiul vântului = 130 Stare = nori 85-100%']
+Sacueni: 33 \ marți \ 16:8:2022 \ 19:04:46
+[' Răsarit = 06:29:05 Apus = 20:43:03 Min (°C) = 17.89 Max (°C) =33.26 Presiune = 1007 Umiditate (%) = 37 Index UV = 0.07 Viteza vântului = 7.56 Unghiul vântului = 302 Stare = nori 85-100%']
+Sacueni: 33 \ miercuri \ 17:8:2022 \ 19:04:36
+[' Răsarit = 06:30:25 Apus = 20:41:19 Min (°C) = 18.09 Max (°C) =32.93 Presiune = 1009 Umiditate (%) = 32 Index UV = 0.44 Viteza vântului = 4.99 Unghiul vântului = 11 Stare = nori 50-85%']
+Sacueni: 33 \ joi \ 18:8:2022 \ 19:04:48
+[' Răsarit = 06:31:45 Apus = 20:39:35 Min (°C) = 19.4 Max (°C) =33.52 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.46 Viteza vântului = 2.84 Unghiul vântului = 14 Stare = cer senin']
+Sacueni: 33 \ vineri \ 19:8:2022 \ 19:05:11
+[' Răsarit = 06:33:04 Apus = 20:37:49 Min (°C) = 21.17 Max (°C) =35.86 Presiune = 1008 Umiditate (%) = 24 Index UV = 0.45 Viteza vântului = 5.21 Unghiul vântului = 84 Stare = cer senin']
+Sacueni: 33 \ sâmbătă \ 20:8:2022 \ 19:05:04
+[' Răsarit = 06:34:24 Apus = 20:36:02 Min (°C) = 20.5 Max (°C) =35.51 Presiune = 1006 Umiditate (%) = 40 Index UV = 0.41 Viteza vântului = 7.23 Unghiul vântului = 304 Stare = nori 25-50%']
+Sacueni: 33 \ duminică \ 21:8:2022 \ 19:04:36
+[' Răsarit = 06:35:44 Apus = 20:34:14 Min (°C) = 18.99 Max (°C) =25.12 Presiune = 1008 Umiditate (%) = 85 Index UV = 0.14 Viteza vântului = 1.68 Unghiul vântului = 226 Stare = nori 85-100%']
+Sacueni: 34 \ luni \ 22:8:2022 \ 19:04:51
+[' Răsarit = 06:37:04 Apus = 20:32:25 Min (°C) = 17.71 Max (°C) =24.77 Presiune = 1009 Umiditate (%) = 62 Index UV = 0.28 Viteza vântului = 1.15 Unghiul vântului = 189 Stare = ploaie ușoară']
+Sacueni: 34 \ marți \ 23:8:2022 \ 19:04:43
+[' Răsarit = 06:38:24 Apus = 20:30:36 Min (°C) = 16.75 Max (°C) =27.87 Presiune = 1012 Umiditate (%) = 53 Index UV = 0.19 Viteza vântului = 1 Unghiul vântului = 150 Stare = nori 85-100%']
+Sacueni: 34 \ miercuri \ 24:8:2022 \ 19:04:29
+[' Răsarit = 06:39:44 Apus = 20:28:45 Min (°C) = 17.86 Max (°C) =29.09 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.36 Viteza vântului = 2.28 Unghiul vântului = 216 Stare = nori 50-85%']
+Sacueni: 34 \ joi \ 25:8:2022 \ 19:05:08
+[' Răsarit = 06:41:04 Apus = 20:26:53 Min (°C) = 18.19 Max (°C) =32.49 Presiune = 1012 Umiditate (%) = 30 Index UV = 0.36 Viteza vântului = 3.22 Unghiul vântului = 109 Stare = cer senin']
+Sacueni: 34 \ vineri \ 26:8:2022 \ 19:04:16
+[' Răsarit = 06:42:23 Apus = 20:25:01 Min (°C) = 18.5 Max (°C) =32.35 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.34 Viteza vântului = 3.23 Unghiul vântului = 44 Stare = nori 10-25%']
+Sacueni: 34 \ sâmbătă \ 27:8:2022 \ 19:04:15
+[' Răsarit = 06:43:43 Apus = 20:23:07 Min (°C) = 18.01 Max (°C) =33.26 Presiune = 1009 Umiditate (%) = 23 Index UV = 0.34 Viteza vântului = 3.46 Unghiul vântului = 357 Stare = cer senin']
+Sacueni: 34 \ duminică \ 28:8:2022 \ 19:04:24
+[' Răsarit = 06:45:02 Apus = 20:21:13 Min (°C) = 19.33 Max (°C) =33.9 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.33 Viteza vântului = 3.28 Unghiul vântului = 15 Stare = nori 50-85%']
+Sacueni: 35 \ luni \ 29:8:2022 \ 19:05:03
+[' Răsarit = 06:46:22 Apus = 20:19:18 Min (°C) = 19.25 Max (°C) =29.6 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.17 Viteza vântului = 1.77 Unghiul vântului = 304 Stare = ploaie ușoară']
+Sacueni: 35 \ marți \ 30:8:2022 \ 19:04:39
+[' Răsarit = 06:47:41 Apus = 20:17:22 Min (°C) = 16.61 Max (°C) =28.89 Presiune = 1015 Umiditate (%) = 31 Index UV = 0.3 Viteza vântului = 3.94 Unghiul vântului = 0 Stare = nori 10-25%']
+Sacueni: 35 \ miercuri \ 31:8:2022 \ 19:04:31
+[' Răsarit = 06:49:01 Apus = 20:15:26 Min (°C) = 14.87 Max (°C) =28.18 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.29 Viteza vântului = 5.52 Unghiul vântului = 347 Stare = nori 10-25%']
+Sacueni: 35 \ joi \ 01:9:2022 \ 19:04:37
+[' Răsarit = 06:50:20 Apus = 20:13:29 Min (°C) = 14.46 Max (°C) =20.12 Presiune = 1014 Umiditate (%) = 61 Index UV = 0.18 Viteza vântului = 1.25 Unghiul vântului = 45 Stare = ploaie ușoară']
+Sacueni: 35 \ vineri \ 02:9:2022 \ 19:05:02
+[' Răsarit = 06:51:39 Apus = 20:11:31 Min (°C) = 14.26 Max (°C) =16.46 Presiune = 1015 Umiditate (%) = 97 Index UV = 0.03 Viteza vântului = 5.37 Unghiul vântului = 40 Stare = ploaie ușoară']
+Sacueni: 35 \ sâmbătă \ 03:9:2022 \ 19:04:37
+[' Răsarit = 06:52:58 Apus = 20:09:33 Min (°C) = 13.48 Max (°C) =22.12 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.14 Viteza vântului = 0.47 Unghiul vântului = 26 Stare = nori 50-85%']
+Sacueni: 35 \ duminică \ 04:9:2022 \ 19:04:27
+[' Răsarit = 06:54:17 Apus = 20:07:34 Min (°C) = 12.78 Max (°C) =23.12 Presiune = 1021 Umiditate (%) = 73 Index UV = 0.22 Viteza vântului = 1.72 Unghiul vântului = 323 Stare = nori 85-100%']

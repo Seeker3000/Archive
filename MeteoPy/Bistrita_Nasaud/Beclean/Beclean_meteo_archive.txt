@@ -1032,3 +1032,121 @@ Beclean: 26 \ vineri \ 01:7:2022 \ 19:04:51
 [' Răsarit = 05:31:10 Apus = 21:22:41 Min (°C) = 18.88 Max (°C) =35.36 Presiune = 1013 Umiditate (%) = 52 Index UV = 0.72 Viteza vântului = 2.25 Unghiul vântului = 127 Stare = nori 50-85%']
 Beclean: 26 \ sâmbătă \ 02:7:2022 \ 19:04:41
 [' Răsarit = 05:31:46 Apus = 21:22:28 Min (°C) = 18.12 Max (°C) =29.42 Presiune = 1019 Umiditate (%) = 86 Index UV = 0.24 Viteza vântului = 3.77 Unghiul vântului = 41 Stare = nori 25-50%']
+Beclean: 26 \ duminică \ 03:7:2022 \ 19:04:44
+[' Răsarit = 05:32:23 Apus = 21:22:11 Min (°C) = 17.11 Max (°C) =30.84 Presiune = 1015 Umiditate (%) = 52 Index UV = 0.73 Viteza vântului = 1.67 Unghiul vântului = 7 Stare = nori 25-50%']
+Beclean: 27 \ luni \ 04:7:2022 \ 19:04:15
+[' Răsarit = 05:33:03 Apus = 21:21:53 Min (°C) = 18.61 Max (°C) =33.61 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.69 Viteza vântului = 3.07 Unghiul vântului = 111 Stare = nori 10-25%']
+Beclean: 27 \ marți \ 05:7:2022 \ 19:04:23
+[' Răsarit = 05:33:44 Apus = 21:21:31 Min (°C) = 19.1 Max (°C) =34.16 Presiune = 1010 Umiditate (%) = 31 Index UV = 0.82 Viteza vântului = 4.42 Unghiul vântului = 102 Stare = nori 50-85%']
+Beclean: 27 \ miercuri \ 06:7:2022 \ 19:04:17
+[' Răsarit = 05:34:28 Apus = 21:21:07 Min (°C) = 17.75 Max (°C) =23.84 Presiune = 1015 Umiditate (%) = 92 Index UV = 0.76 Viteza vântului = 1.08 Unghiul vântului = 294 Stare = ploaie ușoară']
+Beclean: 27 \ joi \ 07:7:2022 \ 19:04:14
+[' Răsarit = 05:35:13 Apus = 21:20:41 Min (°C) = 13.2 Max (°C) =25.65 Presiune = 1015 Umiditate (%) = 44 Index UV = 0.69 Viteza vântului = 2.34 Unghiul vântului = 20 Stare = nori 25-50%']
+Beclean: 27 \ vineri \ 08:7:2022 \ 19:04:19
+[' Răsarit = 05:36:00 Apus = 21:20:12 Min (°C) = 15.03 Max (°C) =26.62 Presiune = 1016 Umiditate (%) = 44 Index UV = 0.41 Viteza vântului = 4.64 Unghiul vântului = 79 Stare = nori 50-85%']
+Beclean: 27 \ sâmbătă \ 09:7:2022 \ 19:04:17
+[' Răsarit = 05:36:49 Apus = 21:19:41 Min (°C) = 15.14 Max (°C) =25.47 Presiune = 1013 Umiditate (%) = 50 Index UV = 0.66 Viteza vântului = 2.11 Unghiul vântului = 13 Stare = nori 50-85%']
+Beclean: 27 \ duminică \ 10:7:2022 \ 19:04:15
+[' Răsarit = 05:37:40 Apus = 21:19:07 Min (°C) = 12.73 Max (°C) =21.98 Presiune = 1011 Umiditate (%) = 47 Index UV = 0.49 Viteza vântului = 2.81 Unghiul vântului = 23 Stare = nori 50-85%']
+Beclean: 28 \ luni \ 11:7:2022 \ 19:04:14
+[' Răsarit = 05:38:32 Apus = 21:18:31 Min (°C) = 8.58 Max (°C) =21.03 Presiune = 1016 Umiditate (%) = 40 Index UV = 0.49 Viteza vântului = 4.58 Unghiul vântului = 304 Stare = nori 50-85%']
+Beclean: 28 \ marți \ 12:7:2022 \ 19:04:30
+[' Răsarit = 05:39:26 Apus = 21:17:52 Min (°C) = 8.46 Max (°C) =20.23 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.55 Viteza vântului = 3.85 Unghiul vântului = 332 Stare = nori 85-100%']
+Beclean: 28 \ miercuri \ 13:7:2022 \ 19:04:19
+[' Răsarit = 05:40:21 Apus = 21:17:12 Min (°C) = 11.14 Max (°C) =27.06 Presiune = 1014 Umiditate (%) = 27 Index UV = 0.63 Viteza vântului = 6.93 Unghiul vântului = 327 Stare = nori 25-50%']
+Beclean: 28 \ joi \ 14:7:2022 \ 19:04:33
+[' Răsarit = 05:41:18 Apus = 21:16:28 Min (°C) = 12.66 Max (°C) =29.38 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.63 Viteza vântului = 0.34 Unghiul vântului = 120 Stare = nori 50-85%']
+Beclean: 28 \ vineri \ 15:7:2022 \ 19:05:24
+[' Răsarit = 05:42:17 Apus = 21:15:43 Min (°C) = 17.53 Max (°C) =30.83 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.72 Viteza vântului = 4.66 Unghiul vântului = 315 Stare = nori 50-85%']
+Beclean: 28 \ sâmbătă \ 16:7:2022 \ 19:04:49
+[' Răsarit = 05:43:17 Apus = 21:14:55 Min (°C) = 13.23 Max (°C) =28.18 Presiune = 1015 Umiditate (%) = 21 Index UV = 0.61 Viteza vântului = 5.65 Unghiul vântului = 302 Stare = cer senin']
+Beclean: 28 \ duminică \ 17:7:2022 \ 19:04:52
+[' Răsarit = 05:44:18 Apus = 21:14:05 Min (°C) = 12.91 Max (°C) =25.58 Presiune = 1021 Umiditate (%) = 24 Index UV = 0.66 Viteza vântului = 5.31 Unghiul vântului = 323 Stare = cer senin']
+Beclean: 29 \ luni \ 18:7:2022 \ 19:04:35
+[' Răsarit = 05:45:20 Apus = 21:13:12 Min (°C) = 9.46 Max (°C) =27.02 Presiune = 1021 Umiditate (%) = 23 Index UV = 0.6 Viteza vântului = 2.98 Unghiul vântului = 346 Stare = nori 50-85%']
+Beclean: 29 \ marți \ 19:7:2022 \ 19:04:41
+[' Răsarit = 05:46:24 Apus = 21:12:18 Min (°C) = 11.28 Max (°C) =29.61 Presiune = 1019 Umiditate (%) = 27 Index UV = 0.59 Viteza vântului = 4.19 Unghiul vântului = 29 Stare = nori 50-85%']
+Beclean: 29 \ miercuri \ 20:7:2022 \ 19:04:33
+[' Răsarit = 05:47:29 Apus = 21:11:21 Min (°C) = 14.11 Max (°C) =32.62 Presiune = 1016 Umiditate (%) = 24 Index UV = 0.72 Viteza vântului = 3.38 Unghiul vântului = 1 Stare = cer senin']
+Beclean: 29 \ joi \ 21:7:2022 \ 19:04:18
+[' Răsarit = 05:48:35 Apus = 21:10:22 Min (°C) = 15.64 Max (°C) =33.08 Presiune = 1014 Umiditate (%) = 15 Index UV = 0.7 Viteza vântului = 4.69 Unghiul vântului = 15 Stare = cer senin']
+Beclean: 29 \ vineri \ 22:7:2022 \ 19:04:12
+[' Răsarit = 05:49:42 Apus = 21:09:21 Min (°C) = 14.58 Max (°C) =35.61 Presiune = 1013 Umiditate (%) = 18 Index UV = 0.63 Viteza vântului = 2.88 Unghiul vântului = 359 Stare = cer senin']
+Beclean: 29 \ sâmbătă \ 23:7:2022 \ 19:04:44
+[' Răsarit = 05:50:50 Apus = 21:08:18 Min (°C) = 17.67 Max (°C) =37.52 Presiune = 1011 Umiditate (%) = 18 Index UV = 0.68 Viteza vântului = 3.79 Unghiul vântului = 32 Stare = nori 50-85%']
+Beclean: 29 \ duminică \ 24:7:2022 \ 19:04:43
+[' Răsarit = 05:51:59 Apus = 21:07:13 Min (°C) = 18.73 Max (°C) =33.55 Presiune = 1012 Umiditate (%) = 38 Index UV = 0.63 Viteza vântului = 5.72 Unghiul vântului = 315 Stare = nori 85-100%']
+Beclean: 30 \ luni \ 25:7:2022 \ 19:04:42
+[' Răsarit = 05:53:09 Apus = 21:06:06 Min (°C) = 15.48 Max (°C) =32.81 Presiune = 1010 Umiditate (%) = 19 Index UV = 0.66 Viteza vântului = 4.22 Unghiul vântului = 320 Stare = nori 25-50%']
+Beclean: 30 \ marți \ 26:7:2022 \ 19:05:01
+[' Răsarit = 05:54:20 Apus = 21:04:57 Min (°C) = 14.28 Max (°C) =34.9 Presiune = 1007 Umiditate (%) = 16 Index UV = 0.65 Viteza vântului = 3.27 Unghiul vântului = 343 Stare = cer senin']
+Beclean: 30 \ miercuri \ 27:7:2022 \ 19:05:02
+[' Răsarit = 05:55:32 Apus = 21:03:46 Min (°C) = 17.5 Max (°C) =30.03 Presiune = 1010 Umiditate (%) = 34 Index UV = 0.63 Viteza vântului = 4.61 Unghiul vântului = 332 Stare = cer senin']
+Beclean: 30 \ joi \ 28:7:2022 \ 19:04:36
+[' Răsarit = 05:56:44 Apus = 21:02:34 Min (°C) = 14.67 Max (°C) =31.98 Presiune = 1014 Umiditate (%) = 54 Index UV = 0.41 Viteza vântului = 6.24 Unghiul vântului = 131 Stare = nori 85-100%']
+Beclean: 30 \ vineri \ 29:7:2022 \ 19:04:37
+[' Răsarit = 05:57:57 Apus = 21:01:19 Min (°C) = 17.24 Max (°C) =33.63 Presiune = 1015 Umiditate (%) = 68 Index UV = 0.17 Viteza vântului = 1.18 Unghiul vântului = 164 Stare = nori 85-100%']
+Beclean: 30 \ sâmbătă \ 30:7:2022 \ 19:04:46
+[' Răsarit = 05:59:11 Apus = 21:00:03 Min (°C) = 16.98 Max (°C) =31.85 Presiune = 1012 Umiditate (%) = 89 Index UV = 0.11 Viteza vântului = 2.6 Unghiul vântului = 69 Stare = nori 85-100%']
+Beclean: 30 \ duminică \ 31:7:2022 \ 19:05:04
+[' Răsarit = 06:00:25 Apus = 20:58:44 Min (°C) = 17.51 Max (°C) =22.83 Presiune = 1010 Umiditate (%) = 70 Index UV = 0.3 Viteza vântului = 4.49 Unghiul vântului = 305 Stare = nori 25-50%']
+Beclean: 31 \ sâmbătă \ 06:8:2022 \ 19:04:41
+[' Răsarit = 06:08:02 Apus = 20:50:20 Min (°C) = 16.99 Max (°C) =34.37 Presiune = 1011 Umiditate (%) = 35 Index UV = 0.49 Viteza vântului = 7.01 Unghiul vântului = 87 Stare = nori 50-85%']
+Beclean: 31 \ duminică \ 07:8:2022 \ 19:04:43
+[' Răsarit = 06:09:20 Apus = 20:48:50 Min (°C) = 20.42 Max (°C) =31.55 Presiune = 1015 Umiditate (%) = 49 Index UV = 0.41 Viteza vântului = 1.67 Unghiul vântului = 76 Stare = nori 85-100%']
+Beclean: 32 \ luni \ 08:8:2022 \ 19:05:07
+[' Răsarit = 06:10:38 Apus = 20:47:19 Min (°C) = 17.26 Max (°C) =32.2 Presiune = 1017 Umiditate (%) = 77 Index UV = 0.24 Viteza vântului = 2.96 Unghiul vântului = 246 Stare = nori 50-85%']
+Beclean: 32 \ marți \ 09:8:2022 \ 19:04:37
+[' Răsarit = 06:11:56 Apus = 20:45:46 Min (°C) = 18.09 Max (°C) =29.51 Presiune = 1020 Umiditate (%) = 92 Index UV = 0.06 Viteza vântului = 3.01 Unghiul vântului = 119 Stare = ploaie moderată']
+Beclean: 32 \ miercuri \ 10:8:2022 \ 19:04:57
+[' Răsarit = 06:13:14 Apus = 20:44:12 Min (°C) = 16.33 Max (°C) =23.08 Presiune = 1018 Umiditate (%) = 50 Index UV = 0.39 Viteza vântului = 3.93 Unghiul vântului = 65 Stare = nori 50-85%']
+Beclean: 32 \ joi \ 11:8:2022 \ 19:04:34
+[' Răsarit = 06:14:33 Apus = 20:42:37 Min (°C) = 12.89 Max (°C) =25.11 Presiune = 1017 Umiditate (%) = 46 Index UV = 0.39 Viteza vântului = 4.37 Unghiul vântului = 73 Stare = nori 50-85%']
+Beclean: 32 \ vineri \ 12:8:2022 \ 19:04:40
+[' Răsarit = 06:15:51 Apus = 20:41:00 Min (°C) = 12.64 Max (°C) =28.44 Presiune = 1015 Umiditate (%) = 46 Index UV = 0.21 Viteza vântului = 5.04 Unghiul vântului = 75 Stare = nori 85-100%']
+Beclean: 32 \ sâmbătă \ 13:8:2022 \ 19:04:44
+[' Răsarit = 06:17:10 Apus = 20:39:22 Min (°C) = 15.14 Max (°C) =28.67 Presiune = 1010 Umiditate (%) = 58 Index UV = 0.14 Viteza vântului = 1.79 Unghiul vântului = 20 Stare = nori 85-100%']
+Beclean: 32 \ duminică \ 14:8:2022 \ 19:04:49
+[' Răsarit = 06:18:29 Apus = 20:37:43 Min (°C) = 16.22 Max (°C) =30.14 Presiune = 1006 Umiditate (%) = 43 Index UV = 0.39 Viteza vântului = 1.78 Unghiul vântului = 49 Stare = ploaie ușoară']
+Beclean: 33 \ luni \ 15:8:2022 \ 19:04:49
+[' Răsarit = 06:19:48 Apus = 20:36:02 Min (°C) = 17.01 Max (°C) =29.44 Presiune = 1007 Umiditate (%) = 84 Index UV = 0.16 Viteza vântului = 0.48 Unghiul vântului = 67 Stare = ploaie ușoară']
+Beclean: 33 \ marți \ 16:8:2022 \ 19:05:09
+[' Răsarit = 06:21:08 Apus = 20:34:20 Min (°C) = 16.45 Max (°C) =27.72 Presiune = 1008 Umiditate (%) = 57 Index UV = 0.33 Viteza vântului = 2.21 Unghiul vântului = 254 Stare = ploaie ușoară']
+Beclean: 33 \ miercuri \ 17:8:2022 \ 19:04:59
+[' Răsarit = 06:22:27 Apus = 20:32:37 Min (°C) = 15.93 Max (°C) =28.23 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.39 Viteza vântului = 3.45 Unghiul vântului = 338 Stare = ploaie ușoară']
+Beclean: 33 \ joi \ 18:8:2022 \ 19:05:12
+[' Răsarit = 06:23:46 Apus = 20:30:53 Min (°C) = 16.85 Max (°C) =31.53 Presiune = 1011 Umiditate (%) = 36 Index UV = 0.41 Viteza vântului = 3.12 Unghiul vântului = 37 Stare = cer senin']
+Beclean: 33 \ vineri \ 19:8:2022 \ 19:05:44
+[' Răsarit = 06:25:05 Apus = 20:29:08 Min (°C) = 17.34 Max (°C) =31.8 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.4 Viteza vântului = 1.29 Unghiul vântului = 174 Stare = cer senin']
+Beclean: 33 \ sâmbătă \ 20:8:2022 \ 19:05:27
+[' Răsarit = 06:26:25 Apus = 20:27:22 Min (°C) = 18.5 Max (°C) =33.55 Presiune = 1006 Umiditate (%) = 32 Index UV = 0.38 Viteza vântului = 3.28 Unghiul vântului = 57 Stare = cer senin']
+Beclean: 33 \ duminică \ 21:8:2022 \ 19:04:59
+[' Răsarit = 06:27:44 Apus = 20:25:35 Min (°C) = 18.32 Max (°C) =29 Presiune = 1008 Umiditate (%) = 93 Index UV = 0.33 Viteza vântului = 3.13 Unghiul vântului = 213 Stare = nori 85-100%']
+Beclean: 34 \ luni \ 22:8:2022 \ 19:05:14
+[' Răsarit = 06:29:03 Apus = 20:23:46 Min (°C) = 16.95 Max (°C) =28.9 Presiune = 1010 Umiditate (%) = 80 Index UV = 0.21 Viteza vântului = 0.88 Unghiul vântului = 335 Stare = nori 85-100%']
+Beclean: 34 \ marți \ 23:8:2022 \ 19:05:08
+[' Răsarit = 06:30:23 Apus = 20:21:57 Min (°C) = 16.57 Max (°C) =28.47 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.02 Viteza vântului = 3.28 Unghiul vântului = 123 Stare = nori 85-100%']
+Beclean: 34 \ miercuri \ 24:8:2022 \ 19:04:52
+[' Răsarit = 06:31:42 Apus = 20:20:07 Min (°C) = 16.94 Max (°C) =29.42 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.3 Viteza vântului = 1.35 Unghiul vântului = 25 Stare = nori 50-85%']
+Beclean: 34 \ joi \ 25:8:2022 \ 19:05:34
+[' Răsarit = 06:33:01 Apus = 20:18:16 Min (°C) = 16.38 Max (°C) =31.16 Presiune = 1013 Umiditate (%) = 31 Index UV = 0.3 Viteza vântului = 5.27 Unghiul vântului = 87 Stare = cer senin']
+Beclean: 34 \ vineri \ 26:8:2022 \ 19:04:37
+[' Răsarit = 06:34:20 Apus = 20:16:24 Min (°C) = 15.69 Max (°C) =31.03 Presiune = 1009 Umiditate (%) = 28 Index UV = 0.27 Viteza vântului = 4.39 Unghiul vântului = 73 Stare = cer senin']
+Beclean: 34 \ sâmbătă \ 27:8:2022 \ 19:04:37
+[' Răsarit = 06:35:39 Apus = 20:14:31 Min (°C) = 15.98 Max (°C) =30.39 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.28 Viteza vântului = 1.95 Unghiul vântului = 272 Stare = cer senin']
+Beclean: 34 \ duminică \ 28:8:2022 \ 19:04:47
+[' Răsarit = 06:36:58 Apus = 20:12:37 Min (°C) = 16.18 Max (°C) =31.66 Presiune = 1012 Umiditate (%) = 30 Index UV = 0.26 Viteza vântului = 3.22 Unghiul vântului = 292 Stare = nori 25-50%']
+Beclean: 35 \ luni \ 29:8:2022 \ 19:05:26
+[' Răsarit = 06:38:17 Apus = 20:10:43 Min (°C) = 17.41 Max (°C) =31.16 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.26 Viteza vântului = 3.39 Unghiul vântului = 306 Stare = nori 50-85%']
+Beclean: 35 \ marți \ 30:8:2022 \ 19:05:01
+[' Răsarit = 06:39:36 Apus = 20:08:48 Min (°C) = 18.59 Max (°C) =29.51 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.24 Viteza vântului = 3.8 Unghiul vântului = 339 Stare = ploaie ușoară']
+Beclean: 35 \ miercuri \ 31:8:2022 \ 19:04:54
+[' Răsarit = 06:40:55 Apus = 20:06:52 Min (°C) = 16.21 Max (°C) =26.7 Presiune = 1013 Umiditate (%) = 50 Index UV = 0.22 Viteza vântului = 0.4 Unghiul vântului = 64 Stare = nori 25-50%']
+Beclean: 35 \ joi \ 01:9:2022 \ 19:04:59
+[' Răsarit = 06:42:13 Apus = 20:04:56 Min (°C) = 14.38 Max (°C) =24.7 Presiune = 1013 Umiditate (%) = 74 Index UV = 0.03 Viteza vântului = 2.4 Unghiul vântului = 29 Stare = ploaie intensă']
+Beclean: 35 \ vineri \ 02:9:2022 \ 19:05:24
+[' Răsarit = 06:43:32 Apus = 20:02:59 Min (°C) = 13.4 Max (°C) =15.36 Presiune = 1017 Umiditate (%) = 97 Index UV = 0.01 Viteza vântului = 1.32 Unghiul vântului = 100 Stare = nori 85-100%']
+Beclean: 35 \ sâmbătă \ 03:9:2022 \ 19:05:00
+[' Răsarit = 06:44:51 Apus = 20:01:01 Min (°C) = 12.71 Max (°C) =14.53 Presiune = 1019 Umiditate (%) = 92 Index UV = 0.03 Viteza vântului = 0.84 Unghiul vântului = 31 Stare = nori 85-100%']
+Beclean: 35 \ duminică \ 04:9:2022 \ 19:04:49
+[' Răsarit = 06:46:09 Apus = 19:59:03 Min (°C) = 13.52 Max (°C) =21.75 Presiune = 1021 Umiditate (%) = 67 Index UV = 0.16 Viteza vântului = 2.4 Unghiul vântului = 317 Stare = nori 85-100%']

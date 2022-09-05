@@ -1032,3 +1032,121 @@ Somcuta_Mare: 26 \ vineri \ 01:7:2022 \ 19:14:38
 [' Răsarit = 05:32:39 Apus = 21:26:58 Min (°C) = 20.64 Max (°C) =36.85 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.33 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = furtună']
 Somcuta_Mare: 26 \ sâmbătă \ 02:7:2022 \ 19:14:28
 [' Răsarit = 05:33:15 Apus = 21:26:44 Min (°C) = 19.14 Max (°C) =34.39 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.69 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 50-85%']
+Somcuta_Mare: 26 \ duminică \ 03:7:2022 \ 19:14:18
+[' Răsarit = 05:33:53 Apus = 21:26:27 Min (°C) = 17.06 Max (°C) =33.92 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.89 Viteza vântului = 5.66 Unghiul vântului = 260 Stare = nori 10-25%']
+Somcuta_Mare: 27 \ luni \ 04:7:2022 \ 19:13:07
+[' Răsarit = 05:34:33 Apus = 21:26:08 Min (°C) = 18.78 Max (°C) =35.56 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.9 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = nori 25-50%']
+Somcuta_Mare: 27 \ marți \ 05:7:2022 \ 19:13:25
+[' Răsarit = 05:35:15 Apus = 21:25:46 Min (°C) = 19.76 Max (°C) =36.84 Presiune = 1010 Umiditate (%) = 18 Index UV = 0.88 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = nori 10-25%']
+Somcuta_Mare: 27 \ miercuri \ 06:7:2022 \ 19:13:12
+[' Răsarit = 05:35:59 Apus = 21:25:22 Min (°C) = 16.14 Max (°C) =22.36 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.82 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = nori 25-50%']
+Somcuta_Mare: 27 \ joi \ 07:7:2022 \ 19:13:15
+[' Răsarit = 05:36:44 Apus = 21:24:55 Min (°C) = 12.43 Max (°C) =27.75 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.7 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 10-25%']
+Somcuta_Mare: 27 \ vineri \ 08:7:2022 \ 19:13:14
+[' Răsarit = 05:37:32 Apus = 21:24:26 Min (°C) = 13.99 Max (°C) =27.2 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.71 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 10-25%']
+Somcuta_Mare: 27 \ sâmbătă \ 09:7:2022 \ 19:13:39
+[' Răsarit = 05:38:22 Apus = 21:23:54 Min (°C) = 13.84 Max (°C) =26.49 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.75 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = nori 50-85%']
+Somcuta_Mare: 27 \ duminică \ 10:7:2022 \ 19:13:09
+[' Răsarit = 05:39:13 Apus = 21:23:20 Min (°C) = 11.53 Max (°C) =24.81 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.3 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Somcuta_Mare: 28 \ luni \ 11:7:2022 \ 19:13:13
+[' Răsarit = 05:40:06 Apus = 21:22:43 Min (°C) = 8.31 Max (°C) =21.47 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.49 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = nori 10-25%']
+Somcuta_Mare: 28 \ marți \ 12:7:2022 \ 19:13:28
+[' Răsarit = 05:41:00 Apus = 21:22:04 Min (°C) = 8.52 Max (°C) =20.71 Presiune = 1019 Umiditate (%) = 59 Index UV = 0.41 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = nori 10-25%']
+Somcuta_Mare: 28 \ miercuri \ 13:7:2022 \ 19:13:13
+[' Răsarit = 05:41:56 Apus = 21:21:22 Min (°C) = 12.3 Max (°C) =27.92 Presiune = 1016 Umiditate (%) = 28 Index UV = 0.82 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = cer senin']
+Somcuta_Mare: 28 \ joi \ 14:7:2022 \ 19:14:00
+[' Răsarit = 05:42:54 Apus = 21:20:38 Min (°C) = 14.85 Max (°C) =32.07 Presiune = 1015 Umiditate (%) = 23 Index UV = 0.36 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Somcuta_Mare: 28 \ vineri \ 15:7:2022 \ 19:15:34
+[' Răsarit = 05:43:53 Apus = 21:19:52 Min (°C) = 17.52 Max (°C) =31.58 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.72 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = nori 10-25%']
+Somcuta_Mare: 28 \ sâmbătă \ 16:7:2022 \ 19:14:05
+[' Răsarit = 05:44:54 Apus = 21:19:03 Min (°C) = 13.65 Max (°C) =28.1 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = nori 10-25%']
+Somcuta_Mare: 28 \ duminică \ 17:7:2022 \ 19:14:39
+[' Răsarit = 05:45:56 Apus = 21:18:12 Min (°C) = 11.61 Max (°C) =24.87 Presiune = 1023 Umiditate (%) = 33 Index UV = 0.64 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = nori 25-50%']
+Somcuta_Mare: 29 \ luni \ 18:7:2022 \ 19:14:23
+[' Răsarit = 05:46:59 Apus = 21:17:19 Min (°C) = 9.61 Max (°C) =27.04 Presiune = 1023 Umiditate (%) = 25 Index UV = 0.68 Viteza vântului = 4.63 Unghiul vântului = 270 Stare = cer senin']
+Somcuta_Mare: 29 \ marți \ 19:7:2022 \ 19:14:08
+[' Răsarit = 05:48:04 Apus = 21:16:24 Min (°C) = 12.53 Max (°C) =30.15 Presiune = 1020 Umiditate (%) = 28 Index UV = 0.73 Viteza vântului = 5.14 Unghiul vântului = 260 Stare = cer senin']
+Somcuta_Mare: 29 \ miercuri \ 20:7:2022 \ 19:14:08
+[' Răsarit = 05:49:10 Apus = 21:15:26 Min (°C) = 15.1 Max (°C) =33.11 Presiune = 1018 Umiditate (%) = 27 Index UV = 0.75 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = cer senin']
+Somcuta_Mare: 29 \ joi \ 21:7:2022 \ 19:13:19
+[' Răsarit = 05:50:16 Apus = 21:14:26 Min (°C) = 16.13 Max (°C) =34 Presiune = 1015 Umiditate (%) = 17 Index UV = 0.73 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Somcuta_Mare: 29 \ vineri \ 22:7:2022 \ 19:13:03
+[' Răsarit = 05:51:24 Apus = 21:13:25 Min (°C) = 15.47 Max (°C) =36.88 Presiune = 1013 Umiditate (%) = 14 Index UV = 0.68 Viteza vântului = 4.09 Unghiul vântului = 317 Stare = nori 10-25%']
+Somcuta_Mare: 29 \ sâmbătă \ 23:7:2022 \ 19:14:12
+[' Răsarit = 05:52:33 Apus = 21:12:21 Min (°C) = 19.19 Max (°C) =38.06 Presiune = 1012 Umiditate (%) = 19 Index UV = 0.7 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 25-50%']
+Somcuta_Mare: 29 \ duminică \ 24:7:2022 \ 19:14:15
+[' Răsarit = 05:53:43 Apus = 21:11:15 Min (°C) = 18.74 Max (°C) =32.49 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.65 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = nori 10-25%']
+Somcuta_Mare: 30 \ luni \ 25:7:2022 \ 19:14:35
+[' Răsarit = 05:54:54 Apus = 21:10:07 Min (°C) = 14.75 Max (°C) =32.19 Presiune = 1012 Umiditate (%) = 23 Index UV = 0.66 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Somcuta_Mare: 30 \ marți \ 26:7:2022 \ 19:14:30
+[' Răsarit = 05:56:06 Apus = 21:08:57 Min (°C) = 15.69 Max (°C) =34.66 Presiune = 1008 Umiditate (%) = 22 Index UV = 0.51 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Somcuta_Mare: 30 \ miercuri \ 27:7:2022 \ 19:15:03
+[' Răsarit = 05:57:19 Apus = 21:07:45 Min (°C) = 16.79 Max (°C) =28.49 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.64 Viteza vântului = 3.6 Unghiul vântului = 330 Stare = nori 10-25%']
+Somcuta_Mare: 30 \ joi \ 28:7:2022 \ 19:14:12
+[' Răsarit = 05:58:32 Apus = 21:06:31 Min (°C) = 14.86 Max (°C) =33.71 Presiune = 1014 Umiditate (%) = 30 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 200 Stare = nori 10-25%']
+Somcuta_Mare: 30 \ vineri \ 29:7:2022 \ 19:14:25
+[' Răsarit = 05:59:46 Apus = 21:05:16 Min (°C) = 18.06 Max (°C) =31.09 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.39 Viteza vântului = 1.54 Unghiul vântului = 360 Stare = nori 10-25%']
+Somcuta_Mare: 30 \ sâmbătă \ 30:7:2022 \ 19:14:34
+[' Răsarit = 06:01:01 Apus = 21:03:58 Min (°C) = 17.14 Max (°C) =33.16 Presiune = 1011 Umiditate (%) = 69 Index UV = 0.46 Viteza vântului = 12.35 Unghiul vântului = 260 Stare = ploaie moderată']
+Somcuta_Mare: 30 \ duminică \ 31:7:2022 \ 19:15:02
+[' Răsarit = 06:02:16 Apus = 21:02:39 Min (°C) = 17.54 Max (°C) =23.35 Presiune = 1011 Umiditate (%) = 73 Index UV = 0.27 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Somcuta_Mare: 31 \ sâmbătă \ 06:8:2022 \ 19:14:27
+[' Răsarit = 06:09:59 Apus = 20:54:08 Min (°C) = 17.71 Max (°C) =34.32 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.58 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = cer senin']
+Somcuta_Mare: 31 \ duminică \ 07:8:2022 \ 19:14:22
+[' Răsarit = 06:11:18 Apus = 20:52:37 Min (°C) = 20.07 Max (°C) =32.08 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.57 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = cer senin']
+Somcuta_Mare: 32 \ luni \ 08:8:2022 \ 19:15:01
+[' Răsarit = 06:12:37 Apus = 20:51:05 Min (°C) = 17.19 Max (°C) =32.74 Presiune = 1017 Umiditate (%) = 73 Index UV = 0.54 Viteza vântului = 3.09 Unghiul vântului = 360 Stare = nori 25-50%']
+Somcuta_Mare: 32 \ marți \ 09:8:2022 \ 19:14:16
+[' Răsarit = 06:13:56 Apus = 20:49:31 Min (°C) = 17.92 Max (°C) =29.6 Presiune = 1020 Umiditate (%) = 88 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = ploaie ușoară']
+Somcuta_Mare: 32 \ miercuri \ 10:8:2022 \ 19:14:47
+[' Răsarit = 06:15:16 Apus = 20:47:56 Min (°C) = 15.32 Max (°C) =24.84 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.46 Viteza vântului = 2.57 Unghiul vântului = 0 Stare = nori 10-25%']
+Somcuta_Mare: 32 \ joi \ 11:8:2022 \ 19:14:22
+[' Răsarit = 06:16:35 Apus = 20:46:20 Min (°C) = 13.11 Max (°C) =25.84 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.45 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Somcuta_Mare: 32 \ vineri \ 12:8:2022 \ 19:14:31
+[' Răsarit = 06:17:55 Apus = 20:44:42 Min (°C) = 13.33 Max (°C) =29.72 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.41 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
+Somcuta_Mare: 32 \ sâmbătă \ 13:8:2022 \ 19:14:22
+[' Răsarit = 06:19:15 Apus = 20:43:03 Min (°C) = 15.66 Max (°C) =28.54 Presiune = 1009 Umiditate (%) = 57 Index UV = 0.22 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Somcuta_Mare: 32 \ duminică \ 14:8:2022 \ 19:14:30
+[' Răsarit = 06:20:35 Apus = 20:41:22 Min (°C) = 17.22 Max (°C) =29.91 Presiune = 1007 Umiditate (%) = 60 Index UV = 0.42 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = nori 10-25%']
+Somcuta_Mare: 33 \ luni \ 15:8:2022 \ 19:14:32
+[' Răsarit = 06:21:55 Apus = 20:39:41 Min (°C) = 17.09 Max (°C) =29.84 Presiune = 1006 Umiditate (%) = 42 Index UV = 0.38 Viteza vântului = 2.57 Unghiul vântului = 210 Stare = ploaie ușoară']
+Somcuta_Mare: 33 \ marți \ 16:8:2022 \ 19:15:26
+[' Răsarit = 06:23:16 Apus = 20:37:58 Min (°C) = 17.93 Max (°C) =30.54 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.38 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = nori 10-25%']
+Somcuta_Mare: 33 \ miercuri \ 17:8:2022 \ 19:15:01
+[' Răsarit = 06:24:36 Apus = 20:36:14 Min (°C) = 16.56 Max (°C) =28 Presiune = 1011 Umiditate (%) = 83 Index UV = 0.43 Viteza vântului = 1.54 Unghiul vântului = 80 Stare = cer senin']
+Somcuta_Mare: 33 \ joi \ 18:8:2022 \ 19:14:54
+[' Răsarit = 06:25:56 Apus = 20:34:28 Min (°C) = 17.56 Max (°C) =30.93 Presiune = 1011 Umiditate (%) = 45 Index UV = 0.43 Viteza vântului = 1.54 Unghiul vântului = 230 Stare = nori 10-25%']
+Somcuta_Mare: 33 \ vineri \ 19:8:2022 \ 19:15:39
+[' Răsarit = 06:27:17 Apus = 20:32:42 Min (°C) = 18.49 Max (°C) =32.83 Presiune = 1011 Umiditate (%) = 40 Index UV = 0.42 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Somcuta_Mare: 33 \ sâmbătă \ 20:8:2022 \ 19:16:06
+[' Răsarit = 06:28:37 Apus = 20:30:55 Min (°C) = 19.67 Max (°C) =33.87 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.38 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = nori 25-50%']
+Somcuta_Mare: 33 \ duminică \ 21:8:2022 \ 19:15:02
+[' Răsarit = 06:29:58 Apus = 20:29:06 Min (°C) = 17.98 Max (°C) =28.78 Presiune = 1007 Umiditate (%) = 61 Index UV = 0.28 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = cer senin']
+Somcuta_Mare: 34 \ luni \ 22:8:2022 \ 19:14:51
+[' Răsarit = 06:31:18 Apus = 20:27:17 Min (°C) = 17.05 Max (°C) =29.49 Presiune = 1010 Umiditate (%) = 95 Index UV = 0.05 Viteza vântului = 3.56 Unghiul vântului = 6 Stare = nori 85-100%']
+Somcuta_Mare: 34 \ marți \ 23:8:2022 \ 19:14:54
+[' Răsarit = 06:32:39 Apus = 20:25:27 Min (°C) = 16.44 Max (°C) =27.71 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.32 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = nori 10-25%']
+Somcuta_Mare: 34 \ miercuri \ 24:8:2022 \ 19:14:24
+[' Răsarit = 06:33:59 Apus = 20:23:35 Min (°C) = 17.19 Max (°C) =29.68 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.32 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 10-25%']
+Somcuta_Mare: 34 \ joi \ 25:8:2022 \ 19:15:35
+[' Răsarit = 06:35:19 Apus = 20:21:43 Min (°C) = 17.19 Max (°C) =31.56 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.32 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Somcuta_Mare: 34 \ vineri \ 26:8:2022 \ 19:13:41
+[' Răsarit = 06:36:40 Apus = 20:19:50 Min (°C) = 16.33 Max (°C) =31.84 Presiune = 1010 Umiditate (%) = 25 Index UV = 0.31 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Somcuta_Mare: 34 \ sâmbătă \ 27:8:2022 \ 19:13:44
+[' Răsarit = 06:38:00 Apus = 20:17:56 Min (°C) = 16.76 Max (°C) =31.32 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.3 Viteza vântului = 1.54 Unghiul vântului = 210 Stare = cer senin']
+Somcuta_Mare: 34 \ duminică \ 28:8:2022 \ 19:14:33
+[' Răsarit = 06:39:20 Apus = 20:16:01 Min (°C) = 17.13 Max (°C) =32.08 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.29 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = nori 10-25%']
+Somcuta_Mare: 35 \ luni \ 29:8:2022 \ 19:15:19
+[' Răsarit = 06:40:40 Apus = 20:14:06 Min (°C) = 18.01 Max (°C) =30.08 Presiune = 1015 Umiditate (%) = 62 Index UV = 0.07 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = ploaie ușoară']
+Somcuta_Mare: 35 \ marți \ 30:8:2022 \ 19:14:47
+[' Răsarit = 06:42:00 Apus = 20:12:10 Min (°C) = 18.21 Max (°C) =27.49 Presiune = 1017 Umiditate (%) = 71 Index UV = 0.27 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = nori 10-25%']
+Somcuta_Mare: 35 \ miercuri \ 31:8:2022 \ 19:14:43
+[' Răsarit = 06:43:20 Apus = 20:10:13 Min (°C) = 15.81 Max (°C) =28.22 Presiune = 1014 Umiditate (%) = 34 Index UV = 0.26 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Somcuta_Mare: 35 \ joi \ 01:9:2022 \ 19:14:41
+[' Răsarit = 06:44:40 Apus = 20:08:15 Min (°C) = 14.63 Max (°C) =22.83 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.16 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = ploaie ușoară']
+Somcuta_Mare: 35 \ vineri \ 02:9:2022 \ 19:15:10
+[' Răsarit = 06:45:59 Apus = 20:06:17 Min (°C) = 13.95 Max (°C) =16.46 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.03 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = nori 50-85%']
+Somcuta_Mare: 35 \ sâmbătă \ 03:9:2022 \ 19:14:38
+[' Răsarit = 06:47:19 Apus = 20:04:18 Min (°C) = 13.25 Max (°C) =15.89 Presiune = 1018 Umiditate (%) = 88 Index UV = 0.15 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 50-85%']
+Somcuta_Mare: 35 \ duminică \ 04:9:2022 \ 19:14:25
+[' Răsarit = 06:48:39 Apus = 20:02:19 Min (°C) = 11.5 Max (°C) =21.92 Presiune = 1021 Umiditate (%) = 56 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = cer senin']

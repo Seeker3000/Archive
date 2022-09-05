@@ -1030,3 +1030,121 @@ Nucet: 26 \ vineri \ 01:7:2022 \ 19:04:20
 [' Răsarit = 05:40:38 Apus = 21:26:02 Min (°C) = 18.69 Max (°C) =30.82 Presiune = 1015 Umiditate (%) = 63 Index UV = 0.43 Viteza vântului = 2.7 Unghiul vântului = 93 Stare = nori 85-100%']
 Nucet: 26 \ sâmbătă \ 02:7:2022 \ 19:04:10
 [' Răsarit = 05:41:12 Apus = 21:25:49 Min (°C) = 19.26 Max (°C) =30.23 Presiune = 1017 Umiditate (%) = 54 Index UV = 0.58 Viteza vântului = 2.7 Unghiul vântului = 57 Stare = ploaie ușoară']
+Nucet: 26 \ duminică \ 03:7:2022 \ 19:04:12
+[' Răsarit = 05:41:49 Apus = 21:25:34 Min (°C) = 17.13 Max (°C) =29.41 Presiune = 1015 Umiditate (%) = 40 Index UV = 0.55 Viteza vântului = 0.95 Unghiul vântului = 316 Stare = nori 25-50%']
+Nucet: 27 \ luni \ 04:7:2022 \ 19:03:47
+[' Răsarit = 05:42:28 Apus = 21:25:16 Min (°C) = 17.55 Max (°C) =29.63 Presiune = 1014 Umiditate (%) = 40 Index UV = 0.94 Viteza vântului = 0.75 Unghiul vântului = 200 Stare = nori 10-25%']
+Nucet: 27 \ marți \ 05:7:2022 \ 19:03:53
+[' Răsarit = 05:43:08 Apus = 21:24:55 Min (°C) = 17.31 Max (°C) =30.41 Presiune = 1011 Umiditate (%) = 32 Index UV = 0.92 Viteza vântului = 0.9 Unghiul vântului = 171 Stare = cer senin']
+Nucet: 27 \ miercuri \ 06:7:2022 \ 19:03:49
+[' Răsarit = 05:43:51 Apus = 21:24:32 Min (°C) = 13.33 Max (°C) =17.6 Presiune = 1016 Umiditate (%) = 95 Index UV = 0.84 Viteza vântului = 2.49 Unghiul vântului = 323 Stare = nori 85-100%']
+Nucet: 27 \ joi \ 07:7:2022 \ 19:03:45
+[' Răsarit = 05:44:35 Apus = 21:24:07 Min (°C) = 10.12 Max (°C) =23.35 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.5 Viteza vântului = 1.73 Unghiul vântului = 15 Stare = nori 50-85%']
+Nucet: 27 \ vineri \ 08:7:2022 \ 19:03:49
+[' Răsarit = 05:45:21 Apus = 21:23:40 Min (°C) = 12.74 Max (°C) =22.5 Presiune = 1016 Umiditate (%) = 49 Index UV = 0.29 Viteza vântului = 0.4 Unghiul vântului = 123 Stare = nori 85-100%']
+Nucet: 27 \ sâmbătă \ 09:7:2022 \ 19:03:49
+[' Răsarit = 05:46:08 Apus = 21:23:10 Min (°C) = 12.55 Max (°C) =21.65 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.71 Viteza vântului = 1.65 Unghiul vântului = 39 Stare = nori 85-100%']
+Nucet: 27 \ duminică \ 10:7:2022 \ 19:03:46
+[' Răsarit = 05:46:58 Apus = 21:22:37 Min (°C) = 9.88 Max (°C) =18.9 Presiune = 1014 Umiditate (%) = 71 Index UV = 0.69 Viteza vântului = 1.86 Unghiul vântului = 12 Stare = nori 85-100%']
+Nucet: 28 \ luni \ 11:7:2022 \ 19:03:46
+[' Răsarit = 05:47:49 Apus = 21:22:02 Min (°C) = 7.6 Max (°C) =17.32 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.62 Viteza vântului = 1.17 Unghiul vântului = 330 Stare = nori 25-50%']
+Nucet: 28 \ marți \ 12:7:2022 \ 19:04:02
+[' Răsarit = 05:48:41 Apus = 21:21:25 Min (°C) = 7.23 Max (°C) =18.06 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.71 Viteza vântului = 1.09 Unghiul vântului = 270 Stare = nori 85-100%']
+Nucet: 28 \ miercuri \ 13:7:2022 \ 19:03:51
+[' Răsarit = 05:49:35 Apus = 21:20:46 Min (°C) = 9.23 Max (°C) =23.6 Presiune = 1016 Umiditate (%) = 28 Index UV = 0.84 Viteza vântului = 2.56 Unghiul vântului = 326 Stare = nori 25-50%']
+Nucet: 28 \ joi \ 14:7:2022 \ 19:04:03
+[' Răsarit = 05:50:31 Apus = 21:20:04 Min (°C) = 12.64 Max (°C) =26.14 Presiune = 1016 Umiditate (%) = 39 Index UV = 0.71 Viteza vântului = 1.69 Unghiul vântului = 183 Stare = nori 25-50%']
+Nucet: 28 \ vineri \ 15:7:2022 \ 19:04:44
+[' Răsarit = 05:51:27 Apus = 21:19:20 Min (°C) = 15.72 Max (°C) =27.07 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.69 Viteza vântului = 3.68 Unghiul vântului = 297 Stare = nori 50-85%']
+Nucet: 28 \ sâmbătă \ 16:7:2022 \ 19:04:20
+[' Răsarit = 05:52:26 Apus = 21:18:34 Min (°C) = 13.67 Max (°C) =23.83 Presiune = 1017 Umiditate (%) = 29 Index UV = 0.77 Viteza vântului = 3.29 Unghiul vântului = 304 Stare = cer senin']
+Nucet: 28 \ duminică \ 17:7:2022 \ 19:04:20
+[' Răsarit = 05:53:25 Apus = 21:17:45 Min (°C) = 11.17 Max (°C) =21.39 Presiune = 1022 Umiditate (%) = 28 Index UV = 0.73 Viteza vântului = 3.41 Unghiul vântului = 352 Stare = cer senin']
+Nucet: 29 \ luni \ 18:7:2022 \ 19:04:06
+[' Răsarit = 05:54:26 Apus = 21:16:55 Min (°C) = 9.62 Max (°C) =23.81 Presiune = 1022 Umiditate (%) = 32 Index UV = 0.49 Viteza vântului = 2.22 Unghiul vântului = 342 Stare = nori 50-85%']
+Nucet: 29 \ marți \ 19:7:2022 \ 19:04:10
+[' Răsarit = 05:55:28 Apus = 21:16:02 Min (°C) = 11.76 Max (°C) =26.14 Presiune = 1020 Umiditate (%) = 42 Index UV = 0.77 Viteza vântului = 1.65 Unghiul vântului = 63 Stare = nori 50-85%']
+Nucet: 29 \ miercuri \ 20:7:2022 \ 19:04:03
+[' Răsarit = 05:56:31 Apus = 21:15:07 Min (°C) = 14.78 Max (°C) =28.86 Presiune = 1018 Umiditate (%) = 31 Index UV = 0.78 Viteza vântului = 2.04 Unghiul vântului = 347 Stare = cer senin']
+Nucet: 29 \ joi \ 21:7:2022 \ 19:03:49
+[' Răsarit = 05:57:35 Apus = 21:14:10 Min (°C) = 16.01 Max (°C) =29.42 Presiune = 1015 Umiditate (%) = 21 Index UV = 0.77 Viteza vântului = 2.9 Unghiul vântului = 0 Stare = cer senin']
+Nucet: 29 \ vineri \ 22:7:2022 \ 19:03:43
+[' Răsarit = 05:58:40 Apus = 21:13:11 Min (°C) = 16.38 Max (°C) =32.05 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.73 Viteza vântului = 1.73 Unghiul vântului = 27 Stare = cer senin']
+Nucet: 29 \ sâmbătă \ 23:7:2022 \ 19:04:13
+[' Răsarit = 05:59:47 Apus = 21:12:10 Min (°C) = 18.98 Max (°C) =32.55 Presiune = 1014 Umiditate (%) = 27 Index UV = 0.75 Viteza vântului = 1.7 Unghiul vântului = 194 Stare = nori 10-25%']
+Nucet: 29 \ duminică \ 24:7:2022 \ 19:04:13
+[' Răsarit = 06:00:54 Apus = 21:11:07 Min (°C) = 19.08 Max (°C) =28.87 Presiune = 1014 Umiditate (%) = 44 Index UV = 0.3 Viteza vântului = 3.62 Unghiul vântului = 339 Stare = nori 85-100%']
+Nucet: 30 \ luni \ 25:7:2022 \ 19:04:10
+[' Răsarit = 06:02:02 Apus = 21:10:02 Min (°C) = 13.51 Max (°C) =28.35 Presiune = 1012 Umiditate (%) = 25 Index UV = 0.74 Viteza vântului = 1.93 Unghiul vântului = 299 Stare = nori 25-50%']
+Nucet: 30 \ marți \ 26:7:2022 \ 19:04:31
+[' Răsarit = 06:03:10 Apus = 21:08:55 Min (°C) = 15.41 Max (°C) =30.13 Presiune = 1009 Umiditate (%) = 24 Index UV = 0.72 Viteza vântului = 1.87 Unghiul vântului = 259 Stare = cer senin']
+Nucet: 30 \ miercuri \ 27:7:2022 \ 19:04:29
+[' Răsarit = 06:04:20 Apus = 21:07:46 Min (°C) = 14.27 Max (°C) =26.22 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.71 Viteza vântului = 2.31 Unghiul vântului = 348 Stare = cer senin']
+Nucet: 30 \ joi \ 28:7:2022 \ 19:04:05
+[' Răsarit = 06:05:30 Apus = 21:06:35 Min (°C) = 14.84 Max (°C) =28.07 Presiune = 1013 Umiditate (%) = 39 Index UV = 0.7 Viteza vântului = 1.75 Unghiul vântului = 185 Stare = nori 85-100%']
+Nucet: 30 \ vineri \ 29:7:2022 \ 19:04:05
+[' Răsarit = 06:06:41 Apus = 21:05:23 Min (°C) = 16.36 Max (°C) =27.54 Presiune = 1015 Umiditate (%) = 72 Index UV = 0.47 Viteza vântului = 1.1 Unghiul vântului = 145 Stare = nori 50-85%']
+Nucet: 30 \ sâmbătă \ 30:7:2022 \ 19:04:13
+[' Răsarit = 06:07:53 Apus = 21:04:09 Min (°C) = 14.86 Max (°C) =28.31 Presiune = 1014 Umiditate (%) = 98 Index UV = 0.53 Viteza vântului = 1.24 Unghiul vântului = 114 Stare = ploaie ușoară']
+Nucet: 30 \ duminică \ 31:7:2022 \ 19:04:31
+[' Răsarit = 06:09:05 Apus = 21:02:53 Min (°C) = 12.97 Max (°C) =17.38 Presiune = 1012 Umiditate (%) = 90 Index UV = 0.18 Viteza vântului = 1.28 Unghiul vântului = 253 Stare = nori 85-100%']
+Nucet: 31 \ sâmbătă \ 06:8:2022 \ 19:04:09
+[' Răsarit = 06:16:28 Apus = 20:54:41 Min (°C) = 17.34 Max (°C) =30.22 Presiune = 1012 Umiditate (%) = 31 Index UV = 0.6 Viteza vântului = 3.59 Unghiul vântului = 11 Stare = cer senin']
+Nucet: 31 \ duminică \ 07:8:2022 \ 19:04:11
+[' Răsarit = 06:17:44 Apus = 20:53:14 Min (°C) = 17.19 Max (°C) =27.68 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.08 Viteza vântului = 2 Unghiul vântului = 19 Stare = nori 85-100%']
+Nucet: 32 \ luni \ 08:8:2022 \ 19:04:36
+[' Răsarit = 06:18:59 Apus = 20:51:45 Min (°C) = 15.96 Max (°C) =26.9 Presiune = 1018 Umiditate (%) = 94 Index UV = 0.17 Viteza vântului = 0.92 Unghiul vântului = 64 Stare = ploaie ușoară']
+Nucet: 32 \ marți \ 09:8:2022 \ 19:04:06
+[' Răsarit = 06:20:15 Apus = 20:50:15 Min (°C) = 14.98 Max (°C) =22.55 Presiune = 1020 Umiditate (%) = 93 Index UV = 0.27 Viteza vântului = 2.35 Unghiul vântului = 158 Stare = ploaie ușoară']
+Nucet: 32 \ miercuri \ 10:8:2022 \ 19:04:25
+[' Răsarit = 06:21:31 Apus = 20:48:43 Min (°C) = 12.87 Max (°C) =21.12 Presiune = 1017 Umiditate (%) = 79 Index UV = 0.5 Viteza vântului = 1.92 Unghiul vântului = 64 Stare = nori 10-25%']
+Nucet: 32 \ joi \ 11:8:2022 \ 19:04:04
+[' Răsarit = 06:22:47 Apus = 20:47:10 Min (°C) = 10.85 Max (°C) =20.34 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.22 Viteza vântului = 2.05 Unghiul vântului = 87 Stare = nori 50-85%']
+Nucet: 32 \ vineri \ 12:8:2022 \ 19:04:09
+[' Răsarit = 06:24:03 Apus = 20:45:36 Min (°C) = 12.41 Max (°C) =24.81 Presiune = 1015 Umiditate (%) = 55 Index UV = 0.37 Viteza vântului = 1.79 Unghiul vântului = 69 Stare = nori 85-100%']
+Nucet: 32 \ sâmbătă \ 13:8:2022 \ 19:04:13
+[' Răsarit = 06:25:20 Apus = 20:44:00 Min (°C) = 13.98 Max (°C) =24.32 Presiune = 1011 Umiditate (%) = 58 Index UV = 0.11 Viteza vântului = 1.52 Unghiul vântului = 263 Stare = nori 85-100%']
+Nucet: 32 \ duminică \ 14:8:2022 \ 19:04:18
+[' Răsarit = 06:26:37 Apus = 20:42:23 Min (°C) = 14.6 Max (°C) =24.79 Presiune = 1009 Umiditate (%) = 90 Index UV = 0.38 Viteza vântului = 1.19 Unghiul vântului = 180 Stare = ploaie ușoară']
+Nucet: 33 \ luni \ 15:8:2022 \ 19:04:16
+[' Răsarit = 06:27:53 Apus = 20:40:45 Min (°C) = 13.96 Max (°C) =24.68 Presiune = 1008 Umiditate (%) = 80 Index UV = 0.31 Viteza vântului = 2.27 Unghiul vântului = 90 Stare = nori 85-100%']
+Nucet: 33 \ marți \ 16:8:2022 \ 19:04:37
+[' Răsarit = 06:29:10 Apus = 20:39:06 Min (°C) = 14.07 Max (°C) =24.43 Presiune = 1009 Umiditate (%) = 66 Index UV = 0.1 Viteza vântului = 1.87 Unghiul vântului = 109 Stare = nori 85-100%']
+Nucet: 33 \ miercuri \ 17:8:2022 \ 19:04:27
+[' Răsarit = 06:30:27 Apus = 20:37:25 Min (°C) = 14.82 Max (°C) =25.77 Presiune = 1011 Umiditate (%) = 56 Index UV = 0.29 Viteza vântului = 1.28 Unghiul vântului = 35 Stare = nori 50-85%']
+Nucet: 33 \ joi \ 18:8:2022 \ 19:04:34
+[' Răsarit = 06:31:44 Apus = 20:35:44 Min (°C) = 16.67 Max (°C) =28.01 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.46 Viteza vântului = 1.54 Unghiul vântului = 358 Stare = cer senin']
+Nucet: 33 \ vineri \ 19:8:2022 \ 19:05:01
+[' Răsarit = 06:33:01 Apus = 20:34:01 Min (°C) = 17.18 Max (°C) =31.14 Presiune = 1009 Umiditate (%) = 41 Index UV = 0.45 Viteza vântului = 1.08 Unghiul vântului = 93 Stare = cer senin']
+Nucet: 33 \ sâmbătă \ 20:8:2022 \ 19:04:24
+[' Răsarit = 06:34:17 Apus = 20:32:17 Min (°C) = 18.49 Max (°C) =29.38 Presiune = 1008 Umiditate (%) = 58 Index UV = 0.28 Viteza vântului = 1.44 Unghiul vântului = 14 Stare = ploaie moderată']
+Nucet: 33 \ duminică \ 21:8:2022 \ 19:04:27
+[' Răsarit = 06:35:34 Apus = 20:30:32 Min (°C) = 15.2 Max (°C) =18.85 Presiune = 1008 Umiditate (%) = 91 Index UV = 0.09 Viteza vântului = 0.49 Unghiul vântului = 305 Stare = nori 85-100%']
+Nucet: 34 \ luni \ 22:8:2022 \ 19:04:42
+[' Răsarit = 06:36:51 Apus = 20:28:46 Min (°C) = 13.5 Max (°C) =21.07 Presiune = 1009 Umiditate (%) = 69 Index UV = 0.28 Viteza vântului = 0.83 Unghiul vântului = 233 Stare = ploaie moderată']
+Nucet: 34 \ marți \ 23:8:2022 \ 19:04:33
+[' Răsarit = 06:38:08 Apus = 20:27:00 Min (°C) = 13.4 Max (°C) =23.02 Presiune = 1014 Umiditate (%) = 89 Index UV = 0.31 Viteza vântului = 0.79 Unghiul vântului = 53 Stare = nori 85-100%']
+Nucet: 34 \ miercuri \ 24:8:2022 \ 19:04:21
+[' Răsarit = 06:39:25 Apus = 20:25:12 Min (°C) = 13.79 Max (°C) =23.27 Presiune = 1016 Umiditate (%) = 68 Index UV = 0.26 Viteza vântului = 0.91 Unghiul vântului = 58 Stare = nori 50-85%']
+Nucet: 34 \ joi \ 25:8:2022 \ 19:04:58
+[' Răsarit = 06:40:41 Apus = 20:23:23 Min (°C) = 14.12 Max (°C) =28.03 Presiune = 1013 Umiditate (%) = 51 Index UV = 0.33 Viteza vântului = 1.94 Unghiul vântului = 69 Stare = cer senin']
+Nucet: 34 \ vineri \ 26:8:2022 \ 19:04:07
+[' Răsarit = 06:41:58 Apus = 20:21:34 Min (°C) = 15.11 Max (°C) =27.54 Presiune = 1010 Umiditate (%) = 49 Index UV = 0.31 Viteza vântului = 0.72 Unghiul vântului = 3 Stare = cer senin']
+Nucet: 34 \ sâmbătă \ 27:8:2022 \ 19:04:07
+[' Răsarit = 06:43:15 Apus = 20:19:43 Min (°C) = 15.53 Max (°C) =27.33 Presiune = 1010 Umiditate (%) = 46 Index UV = 0.33 Viteza vântului = 1.6 Unghiul vântului = 351 Stare = cer senin']
+Nucet: 34 \ duminică \ 28:8:2022 \ 19:04:16
+[' Răsarit = 06:44:31 Apus = 20:17:52 Min (°C) = 16.3 Max (°C) =28.77 Presiune = 1012 Umiditate (%) = 45 Index UV = 0.31 Viteza vântului = 0.62 Unghiul vântului = 11 Stare = nori 25-50%']
+Nucet: 35 \ luni \ 29:8:2022 \ 19:04:54
+[' Răsarit = 06:45:48 Apus = 20:16:01 Min (°C) = 16.52 Max (°C) =25.6 Presiune = 1016 Umiditate (%) = 66 Index UV = 0.29 Viteza vântului = 1.48 Unghiul vântului = 325 Stare = nori 85-100%']
+Nucet: 35 \ marți \ 30:8:2022 \ 19:04:30
+[' Răsarit = 06:47:04 Apus = 20:14:08 Min (°C) = 14.95 Max (°C) =24.26 Presiune = 1015 Umiditate (%) = 71 Index UV = 0.24 Viteza vântului = 1.31 Unghiul vântului = 37 Stare = ploaie ușoară']
+Nucet: 35 \ miercuri \ 31:8:2022 \ 19:04:22
+[' Răsarit = 06:48:20 Apus = 20:12:15 Min (°C) = 13.85 Max (°C) =21.58 Presiune = 1014 Umiditate (%) = 74 Index UV = 0.14 Viteza vântului = 1.26 Unghiul vântului = 67 Stare = nori 25-50%']
+Nucet: 35 \ joi \ 01:9:2022 \ 19:04:28
+[' Răsarit = 06:49:36 Apus = 20:10:21 Min (°C) = 12.79 Max (°C) =22.21 Presiune = 1014 Umiditate (%) = 85 Index UV = 0.23 Viteza vântului = 0.72 Unghiul vântului = 118 Stare = ploaie ușoară']
+Nucet: 35 \ vineri \ 02:9:2022 \ 19:04:53
+[' Răsarit = 06:50:52 Apus = 20:08:26 Min (°C) = 12.07 Max (°C) =14.79 Presiune = 1015 Umiditate (%) = 99 Index UV = 0.01 Viteza vântului = 1.72 Unghiul vântului = 183 Stare = ploaie ușoară']
+Nucet: 35 \ sâmbătă \ 03:9:2022 \ 19:04:28
+[' Răsarit = 06:52:09 Apus = 20:06:31 Min (°C) = 11.69 Max (°C) =15.68 Presiune = 1018 Umiditate (%) = 81 Index UV = 0.23 Viteza vântului = 1.48 Unghiul vântului = 305 Stare = nori 50-85%']
+Nucet: 35 \ duminică \ 04:9:2022 \ 19:04:18
+[' Răsarit = 06:53:24 Apus = 20:04:35 Min (°C) = 11.5 Max (°C) =20.14 Presiune = 1021 Umiditate (%) = 73 Index UV = 0.21 Viteza vântului = 0.3 Unghiul vântului = 349 Stare = nori 85-100%']

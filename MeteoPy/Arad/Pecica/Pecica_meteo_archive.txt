@@ -1028,3 +1028,121 @@ Pecica: 26 \ vineri \ 01:7:2022 \ 19:02:49
 [' Răsarit = 05:47:57 Apus = 21:30:51 Min (°C) = 21.73 Max (°C) =37.95 Presiune = 1011 Umiditate (%) = 23 Index UV = 1 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = nori 10-25%']
 Pecica: 26 \ sâmbătă \ 02:7:2022 \ 19:02:39
 [' Răsarit = 05:48:31 Apus = 21:30:38 Min (°C) = 21.52 Max (°C) =35.6 Presiune = 1016 Umiditate (%) = 38 Index UV = 1 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 10-25%']
+Pecica: 26 \ duminică \ 03:7:2022 \ 19:02:37
+[' Răsarit = 05:49:08 Apus = 21:30:23 Min (°C) = 18.5 Max (°C) =35.85 Presiune = 1015 Umiditate (%) = 33 Index UV = 0.82 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 10-25%']
+Pecica: 27 \ luni \ 04:7:2022 \ 19:02:24
+[' Răsarit = 05:49:46 Apus = 21:30:06 Min (°C) = 22.16 Max (°C) =36.48 Presiune = 1013 Umiditate (%) = 21 Index UV = 1.02 Viteza vântului = 5.14 Unghiul vântului = 290 Stare = nori 10-25%']
+Pecica: 27 \ marți \ 05:7:2022 \ 19:02:29
+[' Răsarit = 05:50:26 Apus = 21:29:46 Min (°C) = 20.75 Max (°C) =36.51 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.98 Viteza vântului = 8.23 Unghiul vântului = 280 Stare = nori 10-25%']
+Pecica: 27 \ miercuri \ 06:7:2022 \ 19:02:26
+[' Răsarit = 05:51:08 Apus = 21:29:23 Min (°C) = 17.92 Max (°C) =25.96 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.92 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = nori 25-50%']
+Pecica: 27 \ joi \ 07:7:2022 \ 19:02:23
+[' Răsarit = 05:51:52 Apus = 21:28:59 Min (°C) = 15.48 Max (°C) =29.61 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.88 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
+Pecica: 27 \ vineri \ 08:7:2022 \ 19:02:27
+[' Răsarit = 05:52:37 Apus = 21:28:31 Min (°C) = 15.43 Max (°C) =29.46 Presiune = 1016 Umiditate (%) = 26 Index UV = 0.73 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = cer senin']
+Pecica: 27 \ sâmbătă \ 09:7:2022 \ 19:02:28
+[' Răsarit = 05:53:24 Apus = 21:28:02 Min (°C) = 16.44 Max (°C) =28.24 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.83 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = cer senin']
+Pecica: 27 \ duminică \ 10:7:2022 \ 19:02:24
+[' Răsarit = 05:54:13 Apus = 21:27:30 Min (°C) = 14.77 Max (°C) =25.93 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.55 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = nori 10-25%']
+Pecica: 28 \ luni \ 11:7:2022 \ 19:02:24
+[' Răsarit = 05:55:03 Apus = 21:26:56 Min (°C) = 12.1 Max (°C) =24.17 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.83 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = nori 10-25%']
+Pecica: 28 \ marți \ 12:7:2022 \ 19:02:32
+[' Răsarit = 05:55:55 Apus = 21:26:19 Min (°C) = 11.5 Max (°C) =25.42 Presiune = 1018 Umiditate (%) = 35 Index UV = 0.81 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 25-50%']
+Pecica: 28 \ miercuri \ 13:7:2022 \ 19:02:28
+[' Răsarit = 05:56:49 Apus = 21:25:40 Min (°C) = 13.18 Max (°C) =30.72 Presiune = 1017 Umiditate (%) = 21 Index UV = 0.92 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = cer senin']
+Pecica: 28 \ joi \ 14:7:2022 \ 19:02:36
+[' Răsarit = 05:57:44 Apus = 21:24:59 Min (°C) = 15.71 Max (°C) =34.24 Presiune = 1015 Umiditate (%) = 24 Index UV = 0.82 Viteza vântului = 2.57 Unghiul vântului = 260 Stare = cer senin']
+Pecica: 28 \ vineri \ 15:7:2022 \ 19:02:55
+[' Răsarit = 05:58:40 Apus = 21:24:16 Min (°C) = 19.24 Max (°C) =35.09 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.82 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = cer senin']
+Pecica: 28 \ sâmbătă \ 16:7:2022 \ 19:02:57
+[' Răsarit = 05:59:37 Apus = 21:23:30 Min (°C) = 15.94 Max (°C) =30.78 Presiune = 1017 Umiditate (%) = 25 Index UV = 0.82 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = nori 50-85%']
+Pecica: 28 \ duminică \ 17:7:2022 \ 19:02:50
+[' Răsarit = 06:00:36 Apus = 21:22:42 Min (°C) = 17.17 Max (°C) =27.74 Presiune = 1023 Umiditate (%) = 25 Index UV = 0.82 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = cer senin']
+Pecica: 29 \ luni \ 18:7:2022 \ 19:02:38
+[' Răsarit = 06:01:36 Apus = 21:21:52 Min (°C) = 14.33 Max (°C) =29.88 Presiune = 1022 Umiditate (%) = 18 Index UV = 0.78 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Pecica: 29 \ marți \ 19:7:2022 \ 19:02:41
+[' Răsarit = 06:02:37 Apus = 21:21:00 Min (°C) = 16.04 Max (°C) =32.17 Presiune = 1019 Umiditate (%) = 22 Index UV = 0.84 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Pecica: 29 \ miercuri \ 20:7:2022 \ 19:02:32
+[' Răsarit = 06:03:40 Apus = 21:20:06 Min (°C) = 18.53 Max (°C) =34.97 Presiune = 1017 Umiditate (%) = 20 Index UV = 0.85 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = cer senin']
+Pecica: 29 \ joi \ 21:7:2022 \ 19:02:25
+[' Răsarit = 06:04:43 Apus = 21:19:10 Min (°C) = 20.41 Max (°C) =36.47 Presiune = 1014 Umiditate (%) = 21 Index UV = 0.83 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = cer senin']
+Pecica: 29 \ vineri \ 22:7:2022 \ 19:02:22
+[' Răsarit = 06:05:48 Apus = 21:18:12 Min (°C) = 18.7 Max (°C) =38.66 Presiune = 1013 Umiditate (%) = 11 Index UV = 0.81 Viteza vântului = 2.79 Unghiul vântului = 23 Stare = nori 10-25%']
+Pecica: 29 \ sâmbătă \ 23:7:2022 \ 19:02:41
+[' Răsarit = 06:06:53 Apus = 21:17:11 Min (°C) = 22.49 Max (°C) =39.77 Presiune = 1012 Umiditate (%) = 15 Index UV = 0.8 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = cer senin']
+Pecica: 29 \ duminică \ 24:7:2022 \ 19:02:46
+[' Răsarit = 06:07:59 Apus = 21:16:09 Min (°C) = 22.35 Max (°C) =34.45 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.73 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 25-50%']
+Pecica: 30 \ luni \ 25:7:2022 \ 19:02:37
+[' Răsarit = 06:09:06 Apus = 21:15:05 Min (°C) = 18.89 Max (°C) =33.77 Presiune = 1012 Umiditate (%) = 24 Index UV = 0.81 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Pecica: 30 \ marți \ 26:7:2022 \ 19:03:00
+[' Răsarit = 06:10:14 Apus = 21:13:59 Min (°C) = 19.72 Max (°C) =36.42 Presiune = 1008 Umiditate (%) = 23 Index UV = 0.31 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Pecica: 30 \ miercuri \ 27:7:2022 \ 19:02:52
+[' Răsarit = 06:11:23 Apus = 21:12:51 Min (°C) = 17.47 Max (°C) =31.98 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.75 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
+Pecica: 30 \ joi \ 28:7:2022 \ 19:02:37
+[' Răsarit = 06:12:33 Apus = 21:11:41 Min (°C) = 18.97 Max (°C) =33.84 Presiune = 1013 Umiditate (%) = 25 Index UV = 0.76 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = cer senin']
+Pecica: 30 \ vineri \ 29:7:2022 \ 19:02:35
+[' Răsarit = 06:13:43 Apus = 21:10:29 Min (°C) = 20.71 Max (°C) =33.66 Presiune = 1013 Umiditate (%) = 69 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = furtună with ploaie ușoară']
+Pecica: 30 \ sâmbătă \ 30:7:2022 \ 19:02:40
+[' Răsarit = 06:14:53 Apus = 21:09:16 Min (°C) = 20.47 Max (°C) =35.78 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.17 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = furtună']
+Pecica: 30 \ duminică \ 31:7:2022 \ 19:02:58
+[' Răsarit = 06:16:05 Apus = 21:08:01 Min (°C) = 16.42 Max (°C) =24.63 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.49 Viteza vântului = 7.72 Unghiul vântului = 280 Stare = cer senin']
+Pecica: 31 \ sâmbătă \ 06:8:2022 \ 19:02:42
+[' Răsarit = 06:23:23 Apus = 20:59:55 Min (°C) = 20.59 Max (°C) =36.78 Presiune = 1011 Umiditate (%) = 23 Index UV = 0.66 Viteza vântului = 5.14 Unghiul vântului = 40 Stare = cer senin']
+Pecica: 31 \ duminică \ 07:8:2022 \ 19:02:40
+[' Răsarit = 06:24:37 Apus = 20:58:29 Min (°C) = 19.1 Max (°C) =33.73 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.5 Viteza vântului = 5.14 Unghiul vântului = 20 Stare = nori 10-25%']
+Pecica: 32 \ luni \ 08:8:2022 \ 19:02:59
+[' Răsarit = 06:25:52 Apus = 20:57:01 Min (°C) = 18.23 Max (°C) =32.83 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.59 Viteza vântului = 8.75 Unghiul vântului = 110 Stare = nori 25-50%']
+Pecica: 32 \ marți \ 09:8:2022 \ 19:02:36
+[' Răsarit = 06:27:06 Apus = 20:55:31 Min (°C) = 18.08 Max (°C) =29.81 Presiune = 1018 Umiditate (%) = 42 Index UV = 0.53 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 10-25%']
+Pecica: 32 \ miercuri \ 10:8:2022 \ 19:02:53
+[' Răsarit = 06:28:21 Apus = 20:54:01 Min (°C) = 16.26 Max (°C) =29.62 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.57 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 10-25%']
+Pecica: 32 \ joi \ 11:8:2022 \ 19:02:34
+[' Răsarit = 06:29:37 Apus = 20:52:29 Min (°C) = 14.79 Max (°C) =29.18 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.5 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Pecica: 32 \ vineri \ 12:8:2022 \ 19:02:38
+[' Răsarit = 06:30:52 Apus = 20:50:55 Min (°C) = 16.74 Max (°C) =31.01 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.47 Viteza vântului = 3.09 Unghiul vântului = 100 Stare = cer senin']
+Pecica: 32 \ sâmbătă \ 13:8:2022 \ 19:02:43
+[' Răsarit = 06:32:07 Apus = 20:49:21 Min (°C) = 18.53 Max (°C) =28.15 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.48 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Pecica: 32 \ duminică \ 14:8:2022 \ 19:02:48
+[' Răsarit = 06:33:23 Apus = 20:47:45 Min (°C) = 19.11 Max (°C) =30.53 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.46 Viteza vântului = 6.17 Unghiul vântului = 240 Stare = nori 25-50%']
+Pecica: 33 \ luni \ 15:8:2022 \ 19:02:43
+[' Răsarit = 06:34:39 Apus = 20:46:07 Min (°C) = 17.27 Max (°C) =33.07 Presiune = 1006 Umiditate (%) = 35 Index UV = 0.46 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = nori 10-25%']
+Pecica: 33 \ marți \ 16:8:2022 \ 19:03:04
+[' Răsarit = 06:35:55 Apus = 20:44:29 Min (°C) = 19.09 Max (°C) =33.78 Presiune = 1008 Umiditate (%) = 37 Index UV = 0.21 Viteza vântului = 5.14 Unghiul vântului = 190 Stare = nori 10-25%']
+Pecica: 33 \ miercuri \ 17:8:2022 \ 19:02:49
+[' Răsarit = 06:37:10 Apus = 20:42:50 Min (°C) = 20.29 Max (°C) =34.94 Presiune = 1010 Umiditate (%) = 27 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = cer senin']
+Pecica: 33 \ joi \ 18:8:2022 \ 19:02:49
+[' Răsarit = 06:38:26 Apus = 20:41:09 Min (°C) = 21.38 Max (°C) =36.74 Presiune = 1009 Umiditate (%) = 17 Index UV = 0.42 Viteza vântului = 3.09 Unghiul vântului = 4 Stare = cer senin']
+Pecica: 33 \ vineri \ 19:8:2022 \ 19:03:18
+[' Răsarit = 06:39:42 Apus = 20:39:27 Min (°C) = 22.8 Max (°C) =38.5 Presiune = 1008 Umiditate (%) = 23 Index UV = 0.48 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = cer senin']
+Pecica: 33 \ sâmbătă \ 20:8:2022 \ 19:02:53
+[' Răsarit = 06:40:58 Apus = 20:37:44 Min (°C) = 20.41 Max (°C) =30.11 Presiune = 1010 Umiditate (%) = 88 Index UV = 0.32 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = ploaie ușoară']
+Pecica: 33 \ duminică \ 21:8:2022 \ 19:02:50
+[' Răsarit = 06:42:14 Apus = 20:36:01 Min (°C) = 18.94 Max (°C) =22.1 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.25 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = ploaie ușoară']
+Pecica: 34 \ luni \ 22:8:2022 \ 19:03:14
+[' Răsarit = 06:43:30 Apus = 20:34:16 Min (°C) = 16.77 Max (°C) =23.45 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.33 Viteza vântului = 2.43 Unghiul vântului = 256 Stare = nori 85-100%']
+Pecica: 34 \ marți \ 23:8:2022 \ 19:03:00
+[' Răsarit = 06:44:45 Apus = 20:32:30 Min (°C) = 16.38 Max (°C) =26.18 Presiune = 1013 Umiditate (%) = 100 Index UV = 0.07 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = furtună with ploaie ușoară']
+Pecica: 34 \ miercuri \ 24:8:2022 \ 19:02:53
+[' Răsarit = 06:46:01 Apus = 20:30:43 Min (°C) = 18.08 Max (°C) =27.5 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.37 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Pecica: 34 \ joi \ 25:8:2022 \ 19:03:15
+[' Răsarit = 06:47:17 Apus = 20:28:56 Min (°C) = 18.43 Max (°C) =32.13 Presiune = 1012 Umiditate (%) = 35 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Pecica: 34 \ vineri \ 26:8:2022 \ 19:02:42
+[' Răsarit = 06:48:32 Apus = 20:27:07 Min (°C) = 19.09 Max (°C) =32.92 Presiune = 1009 Umiditate (%) = 25 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Pecica: 34 \ sâmbătă \ 27:8:2022 \ 19:02:43
+[' Răsarit = 06:49:48 Apus = 20:25:18 Min (°C) = 19.28 Max (°C) =33.97 Presiune = 1009 Umiditate (%) = 18 Index UV = 0.37 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = cer senin']
+Pecica: 34 \ duminică \ 28:8:2022 \ 19:02:44
+[' Răsarit = 06:51:04 Apus = 20:23:28 Min (°C) = 20.7 Max (°C) =33.54 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.36 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Pecica: 35 \ luni \ 29:8:2022 \ 19:03:22
+[' Răsarit = 06:52:19 Apus = 20:21:37 Min (°C) = 19.45 Max (°C) =28.38 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.35 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = nori 25-50%']
+Pecica: 35 \ marți \ 30:8:2022 \ 19:02:57
+[' Răsarit = 06:53:34 Apus = 20:19:45 Min (°C) = 19.13 Max (°C) =28.98 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.33 Viteza vântului = 1.54 Unghiul vântului = 210 Stare = nori 10-25%']
+Pecica: 35 \ miercuri \ 31:8:2022 \ 19:02:52
+[' Răsarit = 06:54:49 Apus = 20:17:53 Min (°C) = 17.76 Max (°C) =29.92 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.31 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = nori 10-25%']
+Pecica: 35 \ joi \ 01:9:2022 \ 19:02:57
+[' Răsarit = 06:56:05 Apus = 20:16:00 Min (°C) = 17.86 Max (°C) =22.94 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.17 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = nori 50-85%']
+Pecica: 35 \ vineri \ 02:9:2022 \ 19:03:20
+[' Răsarit = 06:57:20 Apus = 20:14:07 Min (°C) = 13.04 Max (°C) =17.99 Presiune = 1015 Umiditate (%) = 100 Index UV = 0.01 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = nori 85-100%']
+Pecica: 35 \ sâmbătă \ 03:9:2022 \ 19:02:56
+[' Răsarit = 06:58:35 Apus = 20:12:12 Min (°C) = 13.35 Max (°C) =20.03 Presiune = 1018 Umiditate (%) = 68 Index UV = 0.25 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 25-50%']
+Pecica: 35 \ duminică \ 04:9:2022 \ 19:02:50
+[' Răsarit = 06:59:50 Apus = 20:10:18 Min (°C) = 14.48 Max (°C) =25.03 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.09 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']

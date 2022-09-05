@@ -1032,3 +1032,121 @@ Ovidiu: 26 \ vineri \ 01:7:2022 \ 19:09:10
 [' Răsarit = 05:25:28 Apus = 20:53:20 Min (°C) = 20.83 Max (°C) =28.72 Presiune = 1015 Umiditate (%) = 51 Index UV = 0.57 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
 Ovidiu: 26 \ sâmbătă \ 02:7:2022 \ 19:09:02
 [' Răsarit = 05:26:00 Apus = 20:53:09 Min (°C) = 20.07 Max (°C) =29.61 Presiune = 1018 Umiditate (%) = 37 Index UV = 0.59 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Ovidiu: 26 \ duminică \ 03:7:2022 \ 19:08:59
+[' Răsarit = 05:26:35 Apus = 20:52:56 Min (°C) = 20.4 Max (°C) =28.61 Presiune = 1018 Umiditate (%) = 30 Index UV = 0.59 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 27 \ luni \ 04:7:2022 \ 19:08:11
+[' Răsarit = 05:27:11 Apus = 20:52:40 Min (°C) = 19.05 Max (°C) =29.1 Presiune = 1016 Umiditate (%) = 42 Index UV = 0.61 Viteza vântului = 5.66 Unghiul vântului = 160 Stare = cer senin']
+Ovidiu: 27 \ marți \ 05:7:2022 \ 19:08:23
+[' Răsarit = 05:27:48 Apus = 20:52:23 Min (°C) = 19.81 Max (°C) =29.61 Presiune = 1015 Umiditate (%) = 32 Index UV = 0.59 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 27 \ miercuri \ 06:7:2022 \ 19:08:14
+[' Răsarit = 05:28:28 Apus = 20:52:03 Min (°C) = 19.27 Max (°C) =29.95 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.57 Viteza vântului = 5.66 Unghiul vântului = 120 Stare = cer senin']
+Ovidiu: 27 \ joi \ 07:7:2022 \ 19:08:14
+[' Răsarit = 05:29:09 Apus = 20:51:41 Min (°C) = 18.99 Max (°C) =30.18 Presiune = 1013 Umiditate (%) = 42 Index UV = 0.54 Viteza vântului = 7.72 Unghiul vântului = 320 Stare = cer senin']
+Ovidiu: 27 \ vineri \ 08:7:2022 \ 19:08:16
+[' Răsarit = 05:29:51 Apus = 20:51:17 Min (°C) = 17.01 Max (°C) =29.04 Presiune = 1012 Umiditate (%) = 88 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 80 Stare = ploaie torențială \n de intensitate mică']
+Ovidiu: 27 \ sâmbătă \ 09:7:2022 \ 19:08:18
+[' Răsarit = 05:30:35 Apus = 20:50:50 Min (°C) = 18.39 Max (°C) =29.24 Presiune = 1009 Umiditate (%) = 57 Index UV = 0.36 Viteza vântului = 5.66 Unghiul vântului = 290 Stare = nori 10-25%']
+Ovidiu: 27 \ duminică \ 10:7:2022 \ 19:08:11
+[' Răsarit = 05:31:21 Apus = 20:50:22 Min (°C) = 18.07 Max (°C) =28.61 Presiune = 1008 Umiditate (%) = 34 Index UV = 0.32 Viteza vântului = 6.17 Unghiul vântului = 310 Stare = cer senin']
+Ovidiu: 28 \ luni \ 11:7:2022 \ 19:08:10
+[' Răsarit = 05:32:08 Apus = 20:49:51 Min (°C) = 17.62 Max (°C) =26.49 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.45 Viteza vântului = 6.17 Unghiul vântului = 340 Stare = cer senin']
+Ovidiu: 28 \ marți \ 12:7:2022 \ 19:08:28
+[' Răsarit = 05:32:57 Apus = 20:49:18 Min (°C) = 16.67 Max (°C) =24.8 Presiune = 1017 Umiditate (%) = 56 Index UV = 0.38 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = cer senin']
+Ovidiu: 28 \ miercuri \ 13:7:2022 \ 19:08:17
+[' Răsarit = 05:33:46 Apus = 20:48:42 Min (°C) = 16.88 Max (°C) =27.67 Presiune = 1015 Umiditate (%) = 29 Index UV = 0.4 Viteza vântului = 9.26 Unghiul vântului = 340 Stare = cer senin']
+Ovidiu: 28 \ joi \ 14:7:2022 \ 19:08:44
+[' Răsarit = 05:34:37 Apus = 20:48:05 Min (°C) = 18.19 Max (°C) =30.48 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.27 Viteza vântului = 6.17 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 28 \ vineri \ 15:7:2022 \ 19:10:02
+[' Răsarit = 05:35:30 Apus = 20:47:25 Min (°C) = 20.77 Max (°C) =29.66 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.51 Viteza vântului = 7.2 Unghiul vântului = 150 Stare = cer senin']
+Ovidiu: 28 \ sâmbătă \ 16:7:2022 \ 19:08:55
+[' Răsarit = 05:36:23 Apus = 20:46:44 Min (°C) = 19.8 Max (°C) =30.61 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.4 Viteza vântului = 5.14 Unghiul vântului = 150 Stare = nori 10-25%']
+Ovidiu: 28 \ duminică \ 17:7:2022 \ 19:09:08
+[' Răsarit = 05:37:18 Apus = 20:46:00 Min (°C) = 19.14 Max (°C) =30.33 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.4 Viteza vântului = 3.09 Unghiul vântului = 190 Stare = cer senin']
+Ovidiu: 29 \ luni \ 18:7:2022 \ 19:08:44
+[' Răsarit = 05:38:14 Apus = 20:45:15 Min (°C) = 16.69 Max (°C) =26.39 Presiune = 1022 Umiditate (%) = 46 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 120 Stare = cer senin']
+Ovidiu: 29 \ marți \ 19:7:2022 \ 19:08:54
+[' Răsarit = 05:39:11 Apus = 20:44:27 Min (°C) = 16.89 Max (°C) =26.67 Presiune = 1021 Umiditate (%) = 41 Index UV = 0.46 Viteza vântului = 5.14 Unghiul vântului = 130 Stare = cer senin']
+Ovidiu: 29 \ miercuri \ 20:7:2022 \ 19:08:48
+[' Răsarit = 05:40:09 Apus = 20:43:37 Min (°C) = 17.31 Max (°C) =29.03 Presiune = 1017 Umiditate (%) = 34 Index UV = 0.42 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Ovidiu: 29 \ joi \ 21:7:2022 \ 19:08:17
+[' Răsarit = 05:41:08 Apus = 20:42:45 Min (°C) = 20.24 Max (°C) =28.93 Presiune = 1014 Umiditate (%) = 50 Index UV = 0.46 Viteza vântului = 4.63 Unghiul vântului = 130 Stare = cer senin']
+Ovidiu: 29 \ vineri \ 22:7:2022 \ 19:08:07
+[' Răsarit = 05:42:07 Apus = 20:41:52 Min (°C) = 18.51 Max (°C) =31.43 Presiune = 1013 Umiditate (%) = 32 Index UV = 0.45 Viteza vântului = 2.48 Unghiul vântului = 137 Stare = cer senin']
+Ovidiu: 29 \ sâmbătă \ 23:7:2022 \ 19:08:56
+[' Răsarit = 05:43:08 Apus = 20:40:56 Min (°C) = 22.23 Max (°C) =29.67 Presiune = 1016 Umiditate (%) = 36 Index UV = 0.45 Viteza vântului = 6.69 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 29 \ duminică \ 24:7:2022 \ 19:08:53
+[' Răsarit = 05:44:10 Apus = 20:39:59 Min (°C) = 20.89 Max (°C) =30.87 Presiune = 1011 Umiditate (%) = 48 Index UV = 0.43 Viteza vântului = 7.72 Unghiul vântului = 150 Stare = cer senin']
+Ovidiu: 30 \ luni \ 25:7:2022 \ 19:09:06
+[' Răsarit = 05:45:12 Apus = 20:39:00 Min (°C) = 21.15 Max (°C) =28.68 Presiune = 1012 Umiditate (%) = 51 Index UV = 0.42 Viteza vântului = 3.09 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 30 \ marți \ 26:7:2022 \ 19:09:10
+[' Răsarit = 05:46:15 Apus = 20:37:58 Min (°C) = 19.78 Max (°C) =30.61 Presiune = 1009 Umiditate (%) = 37 Index UV = 0.43 Viteza vântului = 5.66 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 30 \ miercuri \ 27:7:2022 \ 19:09:29
+[' Răsarit = 05:47:18 Apus = 20:36:56 Min (°C) = 21.24 Max (°C) =32.39 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.4 Viteza vântului = 7.72 Unghiul vântului = 160 Stare = nori 10-25%']
+Ovidiu: 30 \ joi \ 28:7:2022 \ 19:08:51
+[' Răsarit = 05:48:23 Apus = 20:35:51 Min (°C) = 21.53 Max (°C) =29.56 Presiune = 1015 Umiditate (%) = 50 Index UV = 0.42 Viteza vântului = 5.66 Unghiul vântului = 130 Stare = cer senin']
+Ovidiu: 30 \ vineri \ 29:7:2022 \ 19:08:58
+[' Răsarit = 05:49:28 Apus = 20:34:44 Min (°C) = 20.76 Max (°C) =30 Presiune = 1015 Umiditate (%) = 69 Index UV = 0.43 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Ovidiu: 30 \ sâmbătă \ 30:7:2022 \ 19:09:07
+[' Răsarit = 05:50:33 Apus = 20:33:36 Min (°C) = 21.43 Max (°C) =29.68 Presiune = 1013 Umiditate (%) = 65 Index UV = 0.42 Viteza vântului = 5.14 Unghiul vântului = 80 Stare = nori 10-25%']
+Ovidiu: 30 \ duminică \ 31:7:2022 \ 19:09:30
+[' Răsarit = 05:51:39 Apus = 20:32:26 Min (°C) = 21.64 Max (°C) =30.99 Presiune = 1009 Umiditate (%) = 73 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = nori 10-25%']
+Ovidiu: 31 \ sâmbătă \ 06:8:2022 \ 19:08:51
+[' Răsarit = 05:58:24 Apus = 20:24:54 Min (°C) = 21.49 Max (°C) =29.42 Presiune = 1011 Umiditate (%) = 65 Index UV = 0.26 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Ovidiu: 31 \ duminică \ 07:8:2022 \ 19:08:59
+[' Răsarit = 05:59:32 Apus = 20:23:33 Min (°C) = 21.89 Max (°C) =31.34 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.34 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Ovidiu: 32 \ luni \ 08:8:2022 \ 19:09:32
+[' Răsarit = 06:00:41 Apus = 20:22:11 Min (°C) = 21.89 Max (°C) =32.52 Presiune = 1015 Umiditate (%) = 37 Index UV = 0.33 Viteza vântului = 5.66 Unghiul vântului = 70 Stare = cer senin']
+Ovidiu: 32 \ marți \ 09:8:2022 \ 19:08:52
+[' Răsarit = 06:01:50 Apus = 20:20:48 Min (°C) = 22.53 Max (°C) =32.17 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.32 Viteza vântului = 7.72 Unghiul vântului = 20 Stare = cer senin']
+Ovidiu: 32 \ miercuri \ 10:8:2022 \ 19:09:17
+[' Răsarit = 06:02:59 Apus = 20:19:23 Min (°C) = 21.19 Max (°C) =30.05 Presiune = 1015 Umiditate (%) = 47 Index UV = 0.31 Viteza vântului = 9.26 Unghiul vântului = 340 Stare = cer senin']
+Ovidiu: 32 \ joi \ 11:8:2022 \ 19:08:55
+[' Răsarit = 06:04:09 Apus = 20:17:57 Min (°C) = 18.69 Max (°C) =30.8 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.29 Viteza vântului = 5.66 Unghiul vântului = 10 Stare = cer senin']
+Ovidiu: 32 \ vineri \ 12:8:2022 \ 19:09:01
+[' Răsarit = 06:05:18 Apus = 20:16:29 Min (°C) = 19.4 Max (°C) =30.08 Presiune = 1012 Umiditate (%) = 54 Index UV = 0.06 Viteza vântului = 3.6 Unghiul vântului = 120 Stare = cer senin']
+Ovidiu: 32 \ sâmbătă \ 13:8:2022 \ 19:09:04
+[' Răsarit = 06:06:28 Apus = 20:15:01 Min (°C) = 19.5 Max (°C) =29.03 Presiune = 1008 Umiditate (%) = 65 Index UV = 0.2 Viteza vântului = 2.06 Unghiul vântului = 320 Stare = nori 10-25%']
+Ovidiu: 32 \ duminică \ 14:8:2022 \ 19:09:08
+[' Răsarit = 06:07:38 Apus = 20:13:31 Min (°C) = 21.16 Max (°C) =28.74 Presiune = 1004 Umiditate (%) = 65 Index UV = 0.19 Viteza vântului = 3.6 Unghiul vântului = 130 Stare = nori 10-25%']
+Ovidiu: 33 \ luni \ 15:8:2022 \ 19:09:07
+[' Răsarit = 06:08:47 Apus = 20:11:59 Min (°C) = 18.45 Max (°C) =30.5 Presiune = 1007 Umiditate (%) = 94 Index UV = 0.06 Viteza vântului = 4.63 Unghiul vântului = 290 Stare = ploaie ușoară']
+Ovidiu: 33 \ marți \ 16:8:2022 \ 19:09:34
+[' Răsarit = 06:09:57 Apus = 20:10:27 Min (°C) = 19.62 Max (°C) =31.39 Presiune = 1007 Umiditate (%) = 58 Index UV = 0.08 Viteza vântului = 3.6 Unghiul vântului = 150 Stare = nori 10-25%']
+Ovidiu: 33 \ miercuri \ 17:8:2022 \ 19:09:27
+[' Răsarit = 06:11:07 Apus = 20:08:54 Min (°C) = 21.81 Max (°C) =31.67 Presiune = 1008 Umiditate (%) = 48 Index UV = 0.04 Viteza vântului = 6.69 Unghiul vântului = 170 Stare = cer senin']
+Ovidiu: 33 \ joi \ 18:8:2022 \ 19:09:29
+[' Răsarit = 06:12:17 Apus = 20:07:19 Min (°C) = 22.32 Max (°C) =30.45 Presiune = 1010 Umiditate (%) = 48 Index UV = 0.21 Viteza vântului = 6.69 Unghiul vântului = 340 Stare = nori 10-25%']
+Ovidiu: 33 \ vineri \ 19:8:2022 \ 19:10:06
+[' Răsarit = 06:13:27 Apus = 20:05:43 Min (°C) = 22.12 Max (°C) =31.78 Presiune = 1010 Umiditate (%) = 65 Index UV = 0.24 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
+Ovidiu: 33 \ sâmbătă \ 20:8:2022 \ 19:10:18
+[' Răsarit = 06:14:36 Apus = 20:04:07 Min (°C) = 22.68 Max (°C) =30.26 Presiune = 1009 Umiditate (%) = 74 Index UV = 0.22 Viteza vântului = 4.63 Unghiul vântului = 110 Stare = nori 10-25%']
+Ovidiu: 33 \ duminică \ 21:8:2022 \ 19:09:28
+[' Răsarit = 06:15:46 Apus = 20:02:29 Min (°C) = 21.58 Max (°C) =28.56 Presiune = 1007 Umiditate (%) = 69 Index UV = 0.21 Viteza vântului = 4.63 Unghiul vântului = 100 Stare = cer senin']
+Ovidiu: 34 \ luni \ 22:8:2022 \ 19:09:31
+[' Răsarit = 06:16:56 Apus = 20:00:50 Min (°C) = 21.42 Max (°C) =29.82 Presiune = 1007 Umiditate (%) = 84 Index UV = 0.21 Viteza vântului = 4.3 Unghiul vântului = 101 Stare = cer senin']
+Ovidiu: 34 \ marți \ 23:8:2022 \ 19:09:38
+[' Răsarit = 06:18:06 Apus = 19:59:10 Min (°C) = 22.54 Max (°C) =29.74 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.2 Viteza vântului = 4.63 Unghiul vântului = 80 Stare = nori 10-25%']
+Ovidiu: 34 \ miercuri \ 24:8:2022 \ 19:09:05
+[' Răsarit = 06:19:15 Apus = 19:57:30 Min (°C) = 22.36 Max (°C) =30.79 Presiune = 1012 Umiditate (%) = 65 Index UV = 0.19 Viteza vântului = 6.17 Unghiul vântului = 50 Stare = cer senin']
+Ovidiu: 34 \ joi \ 25:8:2022 \ 19:09:58
+[' Răsarit = 06:20:25 Apus = 19:55:48 Min (°C) = 21.52 Max (°C) =29.65 Presiune = 1009 Umiditate (%) = 44 Index UV = 0.07 Viteza vântului = 5.66 Unghiul vântului = 30 Stare = cer senin']
+Ovidiu: 34 \ vineri \ 26:8:2022 \ 19:08:40
+[' Răsarit = 06:21:34 Apus = 19:54:06 Min (°C) = 21.55 Max (°C) =30.91 Presiune = 1008 Umiditate (%) = 44 Index UV = 0.17 Viteza vântului = 4.63 Unghiul vântului = 50 Stare = cer senin']
+Ovidiu: 34 \ sâmbătă \ 27:8:2022 \ 19:08:40
+[' Răsarit = 06:22:44 Apus = 19:52:23 Min (°C) = 21.61 Max (°C) =31.14 Presiune = 1010 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 4.12 Unghiul vântului = 150 Stare = cer senin']
+Ovidiu: 34 \ duminică \ 28:8:2022 \ 19:09:07
+[' Răsarit = 06:23:53 Apus = 19:50:39 Min (°C) = 22.37 Max (°C) =32.78 Presiune = 1012 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 5.14 Unghiul vântului = 140 Stare = cer senin']
+Ovidiu: 35 \ luni \ 29:8:2022 \ 19:09:51
+[' Răsarit = 06:25:02 Apus = 19:48:54 Min (°C) = 23.08 Max (°C) =31.79 Presiune = 1014 Umiditate (%) = 37 Index UV = 0.16 Viteza vântului = 4.63 Unghiul vântului = 120 Stare = cer senin']
+Ovidiu: 35 \ marți \ 30:8:2022 \ 19:09:22
+[' Răsarit = 06:26:11 Apus = 19:47:09 Min (°C) = 22.23 Max (°C) =29.98 Presiune = 1013 Umiditate (%) = 54 Index UV = 0.15 Viteza vântului = 4.12 Unghiul vântului = 110 Stare = cer senin']
+Ovidiu: 35 \ miercuri \ 31:8:2022 \ 19:09:18
+[' Răsarit = 06:27:20 Apus = 19:45:23 Min (°C) = 21.2 Max (°C) =28.27 Presiune = 1012 Umiditate (%) = 83 Index UV = 0.12 Viteza vântului = 2.57 Unghiul vântului = 110 Stare = nori 10-25%']
+Ovidiu: 35 \ joi \ 01:9:2022 \ 19:09:20
+[' Răsarit = 06:28:29 Apus = 19:43:36 Min (°C) = 19.85 Max (°C) =27.39 Presiune = 1013 Umiditate (%) = 61 Index UV = 0.13 Viteza vântului = 6.17 Unghiul vântului = 90 Stare = nori 10-25%']
+Ovidiu: 35 \ vineri \ 02:9:2022 \ 19:09:43
+[' Răsarit = 06:29:38 Apus = 19:41:49 Min (°C) = 21.21 Max (°C) =25.78 Presiune = 1014 Umiditate (%) = 68 Index UV = 0.13 Viteza vântului = 7.2 Unghiul vântului = 50 Stare = nori 50-85%']
+Ovidiu: 35 \ sâmbătă \ 03:9:2022 \ 19:09:14
+[' Răsarit = 06:30:47 Apus = 19:40:01 Min (°C) = 15.83 Max (°C) =23.56 Presiune = 1016 Umiditate (%) = 72 Index UV = 0.02 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 50-85%']
+Ovidiu: 35 \ duminică \ 04:9:2022 \ 19:09:03
+[' Răsarit = 06:31:56 Apus = 19:38:12 Min (°C) = 13.41 Max (°C) =21.99 Presiune = 1022 Umiditate (%) = 59 Index UV = 0.11 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = nori 10-25%']

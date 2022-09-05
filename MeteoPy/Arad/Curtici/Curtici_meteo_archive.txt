@@ -1030,3 +1030,121 @@ Curtici: 26 \ vineri \ 01:7:2022 \ 19:02:26
 [' Răsarit = 05:46:15 Apus = 21:30:41 Min (°C) = 22.17 Max (°C) =37.91 Presiune = 1011 Umiditate (%) = 24 Index UV = 1 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = nori 10-25%']
 Curtici: 26 \ sâmbătă \ 02:7:2022 \ 19:02:16
 [' Răsarit = 05:46:50 Apus = 21:30:28 Min (°C) = 21.76 Max (°C) =35.97 Presiune = 1016 Umiditate (%) = 39 Index UV = 1 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 10-25%']
+Curtici: 26 \ duminică \ 03:7:2022 \ 19:02:15
+[' Răsarit = 05:47:26 Apus = 21:30:12 Min (°C) = 18.22 Max (°C) =35.69 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.82 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 10-25%']
+Curtici: 27 \ luni \ 04:7:2022 \ 19:02:03
+[' Răsarit = 05:48:05 Apus = 21:29:55 Min (°C) = 21.74 Max (°C) =36.28 Presiune = 1013 Umiditate (%) = 22 Index UV = 1.02 Viteza vântului = 5.14 Unghiul vântului = 290 Stare = nori 10-25%']
+Curtici: 27 \ marți \ 05:7:2022 \ 19:02:08
+[' Răsarit = 05:48:45 Apus = 21:29:34 Min (°C) = 20.52 Max (°C) =36.45 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.98 Viteza vântului = 8.23 Unghiul vântului = 280 Stare = nori 10-25%']
+Curtici: 27 \ miercuri \ 06:7:2022 \ 19:02:05
+[' Răsarit = 05:49:27 Apus = 21:29:12 Min (°C) = 18.24 Max (°C) =25.65 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.92 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = nori 25-50%']
+Curtici: 27 \ joi \ 07:7:2022 \ 19:02:02
+[' Răsarit = 05:50:11 Apus = 21:28:47 Min (°C) = 15.02 Max (°C) =29.46 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.88 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = cer senin']
+Curtici: 27 \ vineri \ 08:7:2022 \ 19:02:06
+[' Răsarit = 05:50:57 Apus = 21:28:19 Min (°C) = 15.41 Max (°C) =29.66 Presiune = 1016 Umiditate (%) = 26 Index UV = 0.73 Viteza vântului = 5.66 Unghiul vântului = 340 Stare = cer senin']
+Curtici: 27 \ sâmbătă \ 09:7:2022 \ 19:02:08
+[' Răsarit = 05:51:45 Apus = 21:27:49 Min (°C) = 16.36 Max (°C) =28.28 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.83 Viteza vântului = 5.14 Unghiul vântului = 330 Stare = cer senin']
+Curtici: 27 \ duminică \ 10:7:2022 \ 19:02:03
+[' Răsarit = 05:52:34 Apus = 21:27:17 Min (°C) = 14.9 Max (°C) =25.11 Presiune = 1013 Umiditate (%) = 72 Index UV = 0.55 Viteza vântului = 2.57 Unghiul vântului = 280 Stare = ploaie ușoară']
+Curtici: 28 \ luni \ 11:7:2022 \ 19:02:04
+[' Răsarit = 05:53:24 Apus = 21:26:43 Min (°C) = 13.97 Max (°C) =23.93 Presiune = 1017 Umiditate (%) = 31 Index UV = 0.83 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = nori 10-25%']
+Curtici: 28 \ marți \ 12:7:2022 \ 19:02:08
+[' Răsarit = 05:54:17 Apus = 21:26:06 Min (°C) = 11.03 Max (°C) =25.07 Presiune = 1018 Umiditate (%) = 36 Index UV = 0.81 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = nori 25-50%']
+Curtici: 28 \ miercuri \ 13:7:2022 \ 19:02:07
+[' Răsarit = 05:55:10 Apus = 21:25:27 Min (°C) = 12.54 Max (°C) =30.74 Presiune = 1017 Umiditate (%) = 22 Index UV = 0.92 Viteza vântului = 5.14 Unghiul vântului = 320 Stare = cer senin']
+Curtici: 28 \ joi \ 14:7:2022 \ 19:02:13
+[' Răsarit = 05:56:06 Apus = 21:24:45 Min (°C) = 15.7 Max (°C) =34.23 Presiune = 1015 Umiditate (%) = 24 Index UV = 0.82 Viteza vântului = 2.57 Unghiul vântului = 260 Stare = cer senin']
+Curtici: 28 \ vineri \ 15:7:2022 \ 19:02:31
+[' Răsarit = 05:57:02 Apus = 21:24:01 Min (°C) = 19.19 Max (°C) =34.65 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.82 Viteza vântului = 4.63 Unghiul vântului = 320 Stare = cer senin']
+Curtici: 28 \ sâmbătă \ 16:7:2022 \ 19:02:35
+[' Răsarit = 05:58:00 Apus = 21:23:15 Min (°C) = 15.44 Max (°C) =30.83 Presiune = 1017 Umiditate (%) = 25 Index UV = 0.82 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = nori 50-85%']
+Curtici: 28 \ duminică \ 17:7:2022 \ 19:02:26
+[' Răsarit = 05:58:59 Apus = 21:22:27 Min (°C) = 16.02 Max (°C) =27.43 Presiune = 1023 Umiditate (%) = 26 Index UV = 0.82 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = cer senin']
+Curtici: 29 \ luni \ 18:7:2022 \ 19:02:16
+[' Răsarit = 06:00:00 Apus = 21:21:37 Min (°C) = 14.15 Max (°C) =29.81 Presiune = 1022 Umiditate (%) = 18 Index UV = 0.78 Viteza vântului = 2.06 Unghiul vântului = 360 Stare = cer senin']
+Curtici: 29 \ marți \ 19:7:2022 \ 19:02:18
+[' Răsarit = 06:01:02 Apus = 21:20:44 Min (°C) = 15.72 Max (°C) =32.19 Presiune = 1019 Umiditate (%) = 22 Index UV = 0.84 Viteza vântului = 2.57 Unghiul vântului = 60 Stare = cer senin']
+Curtici: 29 \ miercuri \ 20:7:2022 \ 19:02:10
+[' Răsarit = 06:02:04 Apus = 21:19:50 Min (°C) = 18.54 Max (°C) =34.95 Presiune = 1017 Umiditate (%) = 20 Index UV = 0.85 Viteza vântului = 3.6 Unghiul vântului = 360 Stare = cer senin']
+Curtici: 29 \ joi \ 21:7:2022 \ 19:02:05
+[' Răsarit = 06:03:08 Apus = 21:18:53 Min (°C) = 20.16 Max (°C) =36.31 Presiune = 1014 Umiditate (%) = 22 Index UV = 0.83 Viteza vântului = 5.66 Unghiul vântului = 360 Stare = cer senin']
+Curtici: 29 \ vineri \ 22:7:2022 \ 19:02:01
+[' Răsarit = 06:04:13 Apus = 21:17:54 Min (°C) = 18.4 Max (°C) =38.63 Presiune = 1013 Umiditate (%) = 12 Index UV = 0.81 Viteza vântului = 3.08 Unghiul vântului = 10 Stare = nori 25-50%']
+Curtici: 29 \ sâmbătă \ 23:7:2022 \ 19:02:18
+[' Răsarit = 06:05:19 Apus = 21:16:53 Min (°C) = 22.35 Max (°C) =39.69 Presiune = 1012 Umiditate (%) = 15 Index UV = 0.8 Viteza vântului = 3.6 Unghiul vântului = 200 Stare = cer senin']
+Curtici: 29 \ duminică \ 24:7:2022 \ 19:02:24
+[' Răsarit = 06:06:26 Apus = 21:15:51 Min (°C) = 22.07 Max (°C) =34.08 Presiune = 1015 Umiditate (%) = 38 Index UV = 0.73 Viteza vântului = 2.57 Unghiul vântului = 330 Stare = nori 25-50%']
+Curtici: 30 \ luni \ 25:7:2022 \ 19:02:14
+[' Răsarit = 06:07:33 Apus = 21:14:46 Min (°C) = 18.7 Max (°C) =33.65 Presiune = 1012 Umiditate (%) = 24 Index UV = 0.81 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Curtici: 30 \ marți \ 26:7:2022 \ 19:02:38
+[' Răsarit = 06:08:42 Apus = 21:13:39 Min (°C) = 19.19 Max (°C) =36.16 Presiune = 1008 Umiditate (%) = 23 Index UV = 0.31 Viteza vântului = 4.12 Unghiul vântului = 310 Stare = cer senin']
+Curtici: 30 \ miercuri \ 27:7:2022 \ 19:02:28
+[' Răsarit = 06:09:51 Apus = 21:12:31 Min (°C) = 17.51 Max (°C) =31.91 Presiune = 1011 Umiditate (%) = 25 Index UV = 0.75 Viteza vântului = 4.12 Unghiul vântului = 350 Stare = cer senin']
+Curtici: 30 \ joi \ 28:7:2022 \ 19:02:15
+[' Răsarit = 06:11:01 Apus = 21:11:20 Min (°C) = 19.55 Max (°C) =33.75 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.76 Viteza vântului = 5.14 Unghiul vântului = 350 Stare = cer senin']
+Curtici: 30 \ vineri \ 29:7:2022 \ 19:02:13
+[' Răsarit = 06:12:12 Apus = 21:10:08 Min (°C) = 21.18 Max (°C) =33.25 Presiune = 1013 Umiditate (%) = 70 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = nori 25-50%']
+Curtici: 30 \ sâmbătă \ 30:7:2022 \ 19:02:17
+[' Răsarit = 06:13:23 Apus = 21:08:54 Min (°C) = 20.29 Max (°C) =35.26 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.17 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = furtună']
+Curtici: 30 \ duminică \ 31:7:2022 \ 19:02:33
+[' Răsarit = 06:14:35 Apus = 21:07:39 Min (°C) = 16.45 Max (°C) =24.21 Presiune = 1012 Umiditate (%) = 50 Index UV = 0.49 Viteza vântului = 7.72 Unghiul vântului = 280 Stare = cer senin']
+Curtici: 31 \ sâmbătă \ 06:8:2022 \ 19:02:17
+[' Răsarit = 06:21:56 Apus = 20:59:29 Min (°C) = 20.41 Max (°C) =36.62 Presiune = 1011 Umiditate (%) = 23 Index UV = 0.66 Viteza vântului = 5.14 Unghiul vântului = 40 Stare = cer senin']
+Curtici: 31 \ duminică \ 07:8:2022 \ 19:02:16
+[' Răsarit = 06:23:11 Apus = 20:58:03 Min (°C) = 18.69 Max (°C) =33.78 Presiune = 1014 Umiditate (%) = 35 Index UV = 0.5 Viteza vântului = 5.14 Unghiul vântului = 20 Stare = nori 10-25%']
+Curtici: 32 \ luni \ 08:8:2022 \ 19:02:34
+[' Răsarit = 06:24:26 Apus = 20:56:34 Min (°C) = 18.05 Max (°C) =32.75 Presiune = 1017 Umiditate (%) = 65 Index UV = 0.59 Viteza vântului = 8.75 Unghiul vântului = 110 Stare = nori 25-50%']
+Curtici: 32 \ marți \ 09:8:2022 \ 19:02:13
+[' Răsarit = 06:25:42 Apus = 20:55:04 Min (°C) = 17.87 Max (°C) =29.9 Presiune = 1018 Umiditate (%) = 43 Index UV = 0.53 Viteza vântului = 6.17 Unghiul vântului = 320 Stare = nori 10-25%']
+Curtici: 32 \ miercuri \ 10:8:2022 \ 19:02:30
+[' Răsarit = 06:26:57 Apus = 20:53:33 Min (°C) = 15.35 Max (°C) =29.38 Presiune = 1017 Umiditate (%) = 37 Index UV = 0.57 Viteza vântului = 6.17 Unghiul vântului = 360 Stare = nori 10-25%']
+Curtici: 32 \ joi \ 11:8:2022 \ 19:02:11
+[' Răsarit = 06:28:13 Apus = 20:52:00 Min (°C) = 14.61 Max (°C) =29.17 Presiune = 1015 Umiditate (%) = 26 Index UV = 0.5 Viteza vântului = 4.12 Unghiul vântului = 340 Stare = cer senin']
+Curtici: 32 \ vineri \ 12:8:2022 \ 19:02:15
+[' Răsarit = 06:29:29 Apus = 20:50:26 Min (°C) = 16.83 Max (°C) =31.38 Presiune = 1013 Umiditate (%) = 27 Index UV = 0.47 Viteza vântului = 3.09 Unghiul vântului = 100 Stare = cer senin']
+Curtici: 32 \ sâmbătă \ 13:8:2022 \ 19:02:22
+[' Răsarit = 06:30:45 Apus = 20:48:51 Min (°C) = 18.17 Max (°C) =29.41 Presiune = 1010 Umiditate (%) = 39 Index UV = 0.48 Viteza vântului = 2.57 Unghiul vântului = 240 Stare = cer senin']
+Curtici: 32 \ duminică \ 14:8:2022 \ 19:02:26
+[' Răsarit = 06:32:01 Apus = 20:47:14 Min (°C) = 18.99 Max (°C) =30.63 Presiune = 1007 Umiditate (%) = 43 Index UV = 0.46 Viteza vântului = 6.17 Unghiul vântului = 240 Stare = nori 25-50%']
+Curtici: 33 \ luni \ 15:8:2022 \ 19:02:21
+[' Răsarit = 06:33:18 Apus = 20:45:37 Min (°C) = 17.37 Max (°C) =33.15 Presiune = 1006 Umiditate (%) = 35 Index UV = 0.46 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = nori 10-25%']
+Curtici: 33 \ marți \ 16:8:2022 \ 19:02:42
+[' Răsarit = 06:34:34 Apus = 20:43:58 Min (°C) = 18.68 Max (°C) =33.43 Presiune = 1008 Umiditate (%) = 38 Index UV = 0.21 Viteza vântului = 5.14 Unghiul vântului = 190 Stare = nori 10-25%']
+Curtici: 33 \ miercuri \ 17:8:2022 \ 19:02:25
+[' Răsarit = 06:35:50 Apus = 20:42:18 Min (°C) = 19.99 Max (°C) =34.76 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.49 Viteza vântului = 4.12 Unghiul vântului = 320 Stare = cer senin']
+Curtici: 33 \ joi \ 18:8:2022 \ 19:02:26
+[' Răsarit = 06:37:07 Apus = 20:40:36 Min (°C) = 21 Max (°C) =36.75 Presiune = 1009 Umiditate (%) = 19 Index UV = 0.42 Viteza vântului = 3.5 Unghiul vântului = 17 Stare = cer senin']
+Curtici: 33 \ vineri \ 19:8:2022 \ 19:02:45
+[' Răsarit = 06:38:23 Apus = 20:38:54 Min (°C) = 22.62 Max (°C) =38.18 Presiune = 1008 Umiditate (%) = 24 Index UV = 0.48 Viteza vântului = 3.6 Unghiul vântului = 60 Stare = cer senin']
+Curtici: 33 \ sâmbătă \ 20:8:2022 \ 19:02:29
+[' Răsarit = 06:39:40 Apus = 20:37:11 Min (°C) = 20.41 Max (°C) =32 Presiune = 1010 Umiditate (%) = 88 Index UV = 0.32 Viteza vântului = 3.6 Unghiul vântului = 100 Stare = ploaie ușoară']
+Curtici: 33 \ duminică \ 21:8:2022 \ 19:02:27
+[' Răsarit = 06:40:56 Apus = 20:35:26 Min (°C) = 19.18 Max (°C) =22.12 Presiune = 1008 Umiditate (%) = 83 Index UV = 0.25 Viteza vântului = 2.57 Unghiul vântului = 350 Stare = nori 25-50%']
+Curtici: 34 \ luni \ 22:8:2022 \ 19:02:52
+[' Răsarit = 06:42:13 Apus = 20:33:41 Min (°C) = 17.1 Max (°C) =23.02 Presiune = 1009 Umiditate (%) = 78 Index UV = 0.33 Viteza vântului = 0.64 Unghiul vântului = 308 Stare = nori 85-100%']
+Curtici: 34 \ marți \ 23:8:2022 \ 19:02:36
+[' Răsarit = 06:43:29 Apus = 20:31:54 Min (°C) = 16.68 Max (°C) =26.55 Presiune = 1013 Umiditate (%) = 100 Index UV = 0.07 Viteza vântului = 3.09 Unghiul vântului = 40 Stare = furtună with ploaie ușoară']
+Curtici: 34 \ miercuri \ 24:8:2022 \ 19:02:29
+[' Răsarit = 06:44:46 Apus = 20:30:07 Min (°C) = 18.17 Max (°C) =27.55 Presiune = 1015 Umiditate (%) = 58 Index UV = 0.37 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Curtici: 34 \ joi \ 25:8:2022 \ 19:02:52
+[' Răsarit = 06:46:02 Apus = 20:28:19 Min (°C) = 18.44 Max (°C) =32.12 Presiune = 1012 Umiditate (%) = 36 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 90 Stare = cer senin']
+Curtici: 34 \ vineri \ 26:8:2022 \ 19:02:21
+[' Răsarit = 06:47:18 Apus = 20:26:30 Min (°C) = 19.39 Max (°C) =32.89 Presiune = 1009 Umiditate (%) = 26 Index UV = 0.38 Viteza vântului = 2.06 Unghiul vântului = 60 Stare = cer senin']
+Curtici: 34 \ sâmbătă \ 27:8:2022 \ 19:02:22
+[' Răsarit = 06:48:34 Apus = 20:24:40 Min (°C) = 18.86 Max (°C) =33.95 Presiune = 1009 Umiditate (%) = 19 Index UV = 0.37 Viteza vântului = 1.54 Unghiul vântului = 310 Stare = cer senin']
+Curtici: 34 \ duminică \ 28:8:2022 \ 19:02:22
+[' Răsarit = 06:49:50 Apus = 20:22:49 Min (°C) = 20.48 Max (°C) =33.65 Presiune = 1011 Umiditate (%) = 24 Index UV = 0.36 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Curtici: 35 \ luni \ 29:8:2022 \ 19:02:59
+[' Răsarit = 06:51:06 Apus = 20:20:58 Min (°C) = 19.31 Max (°C) =28.19 Presiune = 1015 Umiditate (%) = 65 Index UV = 0.35 Viteza vântului = 3.6 Unghiul vântului = 20 Stare = ploaie ușoară']
+Curtici: 35 \ marți \ 30:8:2022 \ 19:02:33
+[' Răsarit = 06:52:22 Apus = 20:19:05 Min (°C) = 19.06 Max (°C) =28.94 Presiune = 1016 Umiditate (%) = 88 Index UV = 0.33 Viteza vântului = 1.54 Unghiul vântului = 210 Stare = nori 10-25%']
+Curtici: 35 \ miercuri \ 31:8:2022 \ 19:02:29
+[' Răsarit = 06:53:38 Apus = 20:17:12 Min (°C) = 17.28 Max (°C) =29.96 Presiune = 1013 Umiditate (%) = 37 Index UV = 0.31 Viteza vântului = 4.63 Unghiul vântului = 350 Stare = nori 10-25%']
+Curtici: 35 \ joi \ 01:9:2022 \ 19:02:34
+[' Răsarit = 06:54:54 Apus = 20:15:19 Min (°C) = 17.79 Max (°C) =22.03 Presiune = 1014 Umiditate (%) = 88 Index UV = 0.17 Viteza vântului = 3.09 Unghiul vântului = 20 Stare = nori 50-85%']
+Curtici: 35 \ vineri \ 02:9:2022 \ 19:02:55
+[' Răsarit = 06:56:10 Apus = 20:13:25 Min (°C) = 13.62 Max (°C) =17.92 Presiune = 1015 Umiditate (%) = 100 Index UV = 0.01 Viteza vântului = 1.54 Unghiul vântului = 330 Stare = nori 85-100%']
+Curtici: 35 \ sâmbătă \ 03:9:2022 \ 19:02:34
+[' Răsarit = 06:57:25 Apus = 20:11:30 Min (°C) = 14.28 Max (°C) =20.01 Presiune = 1018 Umiditate (%) = 69 Index UV = 0.25 Viteza vântului = 3.09 Unghiul vântului = 160 Stare = nori 25-50%']
+Curtici: 35 \ duminică \ 04:9:2022 \ 19:02:27
+[' Răsarit = 06:58:41 Apus = 20:09:34 Min (°C) = 14.44 Max (°C) =25.01 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.09 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = cer senin']

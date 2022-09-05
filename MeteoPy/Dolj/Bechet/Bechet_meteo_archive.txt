@@ -1032,3 +1032,121 @@ Bechet: 26 \ vineri \ 01:7:2022 \ 19:10:18
 [' Răsarit = 05:45:49 Apus = 21:09:55 Min (°C) = 20.76 Max (°C) =37.08 Presiune = 1011 Umiditate (%) = 22 Index UV = 0.82 Viteza vântului = 5.48 Unghiul vântului = 53 Stare = cer senin']
 Bechet: 26 \ sâmbătă \ 02:7:2022 \ 19:10:09
 [' Răsarit = 05:46:21 Apus = 21:09:44 Min (°C) = 22.08 Max (°C) =36.68 Presiune = 1015 Umiditate (%) = 30 Index UV = 0.81 Viteza vântului = 1.65 Unghiul vântului = 145 Stare = nori 50-85%']
+Bechet: 26 \ duminică \ 03:7:2022 \ 19:10:05
+[' Răsarit = 05:46:55 Apus = 21:09:32 Min (°C) = 20.78 Max (°C) =36.09 Presiune = 1013 Umiditate (%) = 27 Index UV = 0.57 Viteza vântului = 3.58 Unghiul vântului = 105 Stare = nori 50-85%']
+Bechet: 27 \ luni \ 04:7:2022 \ 19:09:12
+[' Răsarit = 05:47:30 Apus = 21:09:17 Min (°C) = 20.46 Max (°C) =36.01 Presiune = 1012 Umiditate (%) = 25 Index UV = 0.79 Viteza vântului = 2.79 Unghiul vântului = 48 Stare = nori 25-50%']
+Bechet: 27 \ marți \ 05:7:2022 \ 19:09:25
+[' Răsarit = 05:48:07 Apus = 21:09:00 Min (°C) = 22.28 Max (°C) =36.34 Presiune = 1010 Umiditate (%) = 25 Index UV = 0.31 Viteza vântului = 3.89 Unghiul vântului = 162 Stare = nori 50-85%']
+Bechet: 27 \ miercuri \ 06:7:2022 \ 19:09:16
+[' Răsarit = 05:48:46 Apus = 21:08:41 Min (°C) = 19.59 Max (°C) =31.61 Presiune = 1011 Umiditate (%) = 31 Index UV = 0.75 Viteza vântului = 7.45 Unghiul vântului = 317 Stare = nori 25-50%']
+Bechet: 27 \ joi \ 07:7:2022 \ 19:09:15
+[' Răsarit = 05:49:27 Apus = 21:08:19 Min (°C) = 18.11 Max (°C) =28.42 Presiune = 1014 Umiditate (%) = 47 Index UV = 0.75 Viteza vântului = 5.99 Unghiul vântului = 122 Stare = nori 50-85%']
+Bechet: 27 \ vineri \ 08:7:2022 \ 19:09:17
+[' Răsarit = 05:50:09 Apus = 21:07:56 Min (°C) = 16.38 Max (°C) =29.67 Presiune = 1012 Umiditate (%) = 34 Index UV = 0.39 Viteza vântului = 4.27 Unghiul vântului = 39 Stare = nori 85-100%']
+Bechet: 27 \ sâmbătă \ 09:7:2022 \ 19:09:31
+[' Răsarit = 05:50:52 Apus = 21:07:30 Min (°C) = 16.91 Max (°C) =24.8 Presiune = 1013 Umiditate (%) = 45 Index UV = 0.69 Viteza vântului = 4.2 Unghiul vântului = 281 Stare = nori 85-100%']
+Bechet: 27 \ duminică \ 10:7:2022 \ 19:09:14
+[' Răsarit = 05:51:37 Apus = 21:07:02 Min (°C) = 16.75 Max (°C) =29.34 Presiune = 1010 Umiditate (%) = 28 Index UV = 0.24 Viteza vântului = 7.99 Unghiul vântului = 281 Stare = nori 85-100%']
+Bechet: 28 \ luni \ 11:7:2022 \ 19:09:11
+[' Răsarit = 05:52:23 Apus = 21:06:32 Min (°C) = 14.46 Max (°C) =26.99 Presiune = 1015 Umiditate (%) = 22 Index UV = 0.68 Viteza vântului = 6.42 Unghiul vântului = 285 Stare = cer senin']
+Bechet: 28 \ marți \ 12:7:2022 \ 19:09:29
+[' Răsarit = 05:53:11 Apus = 21:06:00 Min (°C) = 13.26 Max (°C) =28.28 Presiune = 1016 Umiditate (%) = 19 Index UV = 0.59 Viteza vântului = 5.97 Unghiul vântului = 301 Stare = cer senin']
+Bechet: 28 \ miercuri \ 13:7:2022 \ 19:09:17
+[' Răsarit = 05:54:00 Apus = 21:05:25 Min (°C) = 13.68 Max (°C) =30.26 Presiune = 1016 Umiditate (%) = 21 Index UV = 0.71 Viteza vântului = 5.51 Unghiul vântului = 316 Stare = nori 25-50%']
+Bechet: 28 \ joi \ 14:7:2022 \ 19:09:50
+[' Răsarit = 05:54:50 Apus = 21:04:49 Min (°C) = 15.29 Max (°C) =34.17 Presiune = 1014 Umiditate (%) = 15 Index UV = 0.75 Viteza vântului = 1.84 Unghiul vântului = 31 Stare = ploaie ușoară']
+Bechet: 28 \ vineri \ 15:7:2022 \ 19:11:10
+[' Răsarit = 05:55:41 Apus = 21:04:10 Min (°C) = 18.67 Max (°C) =36.22 Presiune = 1010 Umiditate (%) = 17 Index UV = 0.7 Viteza vântului = 2.15 Unghiul vântului = 9 Stare = ploaie ușoară']
+Bechet: 28 \ sâmbătă \ 16:7:2022 \ 19:09:59
+[' Răsarit = 05:56:34 Apus = 21:03:29 Min (°C) = 20.02 Max (°C) =36.26 Presiune = 1013 Umiditate (%) = 19 Index UV = 0.7 Viteza vântului = 5.72 Unghiul vântului = 303 Stare = cer senin']
+Bechet: 28 \ duminică \ 17:7:2022 \ 19:10:15
+[' Răsarit = 05:57:28 Apus = 21:02:47 Min (°C) = 17.59 Max (°C) =33.71 Presiune = 1017 Umiditate (%) = 9 Index UV = 0.68 Viteza vântului = 8.78 Unghiul vântului = 305 Stare = cer senin']
+Bechet: 29 \ luni \ 18:7:2022 \ 19:09:49
+[' Răsarit = 05:58:23 Apus = 21:02:02 Min (°C) = 15.51 Max (°C) =30.94 Presiune = 1020 Umiditate (%) = 20 Index UV = 0.67 Viteza vântului = 3.94 Unghiul vântului = 73 Stare = cer senin']
+Bechet: 29 \ marți \ 19:7:2022 \ 19:09:58
+[' Răsarit = 05:59:18 Apus = 21:01:15 Min (°C) = 15.5 Max (°C) =32.53 Presiune = 1018 Umiditate (%) = 17 Index UV = 0.69 Viteza vântului = 3.05 Unghiul vântului = 50 Stare = cer senin']
+Bechet: 29 \ miercuri \ 20:7:2022 \ 19:09:54
+[' Răsarit = 06:00:15 Apus = 21:00:27 Min (°C) = 17.17 Max (°C) =34.88 Presiune = 1016 Umiditate (%) = 15 Index UV = 0.69 Viteza vântului = 0.52 Unghiul vântului = 297 Stare = cer senin']
+Bechet: 29 \ joi \ 21:7:2022 \ 19:09:19
+[' Răsarit = 06:01:13 Apus = 20:59:36 Min (°C) = 19.52 Max (°C) =38.68 Presiune = 1010 Umiditate (%) = 13 Index UV = 0.67 Viteza vântului = 1.95 Unghiul vântului = 342 Stare = cer senin']
+Bechet: 29 \ vineri \ 22:7:2022 \ 19:09:08
+[' Răsarit = 06:02:12 Apus = 20:58:44 Min (°C) = 19.33 Max (°C) =38.2 Presiune = 1013 Umiditate (%) = 13 Index UV = 0.67 Viteza vântului = 3.3 Unghiul vântului = 33 Stare = cer senin']
+Bechet: 29 \ sâmbătă \ 23:7:2022 \ 19:10:01
+[' Răsarit = 06:03:11 Apus = 20:57:49 Min (°C) = 22.18 Max (°C) =40.6 Presiune = 1011 Umiditate (%) = 9 Index UV = 0.68 Viteza vântului = 1.57 Unghiul vântului = 328 Stare = cer senin']
+Bechet: 29 \ duminică \ 24:7:2022 \ 19:09:58
+[' Răsarit = 06:04:11 Apus = 20:56:53 Min (°C) = 22.91 Max (°C) =41 Presiune = 1009 Umiditate (%) = 20 Index UV = 0.52 Viteza vântului = 3.88 Unghiul vântului = 98 Stare = nori 50-85%']
+Bechet: 30 \ luni \ 25:7:2022 \ 19:10:14
+[' Răsarit = 06:05:13 Apus = 20:55:55 Min (°C) = 20.1 Max (°C) =35.36 Presiune = 1010 Umiditate (%) = 24 Index UV = 0.65 Viteza vântului = 4.49 Unghiul vântului = 78 Stare = nori 25-50%']
+Bechet: 30 \ marți \ 26:7:2022 \ 19:10:16
+[' Răsarit = 06:06:14 Apus = 20:54:55 Min (°C) = 21.21 Max (°C) =38.9 Presiune = 1005 Umiditate (%) = 16 Index UV = 0.66 Viteza vântului = 2.13 Unghiul vântului = 349 Stare = cer senin']
+Bechet: 30 \ miercuri \ 27:7:2022 \ 19:10:39
+[' Răsarit = 06:07:17 Apus = 20:53:53 Min (°C) = 22.45 Max (°C) =38.33 Presiune = 1006 Umiditate (%) = 18 Index UV = 0.64 Viteza vântului = 4.09 Unghiul vântului = 288 Stare = cer senin']
+Bechet: 30 \ joi \ 28:7:2022 \ 19:09:56
+[' Răsarit = 06:08:20 Apus = 20:52:50 Min (°C) = 21.81 Max (°C) =34.28 Presiune = 1011 Umiditate (%) = 34 Index UV = 0.54 Viteza vântului = 4.05 Unghiul vântului = 219 Stare = nori 50-85%']
+Bechet: 30 \ vineri \ 29:7:2022 \ 19:10:07
+[' Răsarit = 06:09:23 Apus = 20:51:45 Min (°C) = 19.49 Max (°C) =36.35 Presiune = 1011 Umiditate (%) = 23 Index UV = 0.49 Viteza vântului = 3.4 Unghiul vântului = 107 Stare = nori 25-50%']
+Bechet: 30 \ sâmbătă \ 30:7:2022 \ 19:10:16
+[' Răsarit = 06:10:28 Apus = 20:50:38 Min (°C) = 22.29 Max (°C) =38.26 Presiune = 1006 Umiditate (%) = 16 Index UV = 0.5 Viteza vântului = 3.01 Unghiul vântului = 87 Stare = nori 25-50%']
+Bechet: 30 \ duminică \ 31:7:2022 \ 19:10:38
+[' Răsarit = 06:11:32 Apus = 20:49:29 Min (°C) = 19.46 Max (°C) =31.8 Presiune = 1010 Umiditate (%) = 25 Index UV = 0.55 Viteza vântului = 9.51 Unghiul vântului = 306 Stare = cer senin']
+Bechet: 31 \ sâmbătă \ 06:8:2022 \ 19:09:56
+[' Răsarit = 06:18:09 Apus = 20:42:05 Min (°C) = 22.49 Max (°C) =36.91 Presiune = 1008 Umiditate (%) = 21 Index UV = 0.52 Viteza vântului = 5.34 Unghiul vântului = 102 Stare = nori 50-85%']
+Bechet: 31 \ duminică \ 07:8:2022 \ 19:10:06
+[' Răsarit = 06:19:16 Apus = 20:40:46 Min (°C) = 23.19 Max (°C) =33.93 Presiune = 1012 Umiditate (%) = 32 Index UV = 0.41 Viteza vântului = 2.82 Unghiul vântului = 333 Stare = nori 50-85%']
+Bechet: 32 \ luni \ 08:8:2022 \ 19:10:40
+[' Răsarit = 06:20:23 Apus = 20:39:25 Min (°C) = 20.46 Max (°C) =35.38 Presiune = 1012 Umiditate (%) = 23 Index UV = 0.49 Viteza vântului = 4.6 Unghiul vântului = 25 Stare = nori 50-85%']
+Bechet: 32 \ marți \ 09:8:2022 \ 19:09:58
+[' Răsarit = 06:21:31 Apus = 20:38:03 Min (°C) = 19.12 Max (°C) =35.02 Presiune = 1013 Umiditate (%) = 22 Index UV = 0.47 Viteza vântului = 3.02 Unghiul vântului = 284 Stare = ploaie ușoară']
+Bechet: 32 \ miercuri \ 10:8:2022 \ 19:10:25
+[' Răsarit = 06:22:39 Apus = 20:36:40 Min (°C) = 19.6 Max (°C) =30.6 Presiune = 1014 Umiditate (%) = 43 Index UV = 0.39 Viteza vântului = 3.88 Unghiul vântului = 163 Stare = nori 50-85%']
+Bechet: 32 \ joi \ 11:8:2022 \ 19:10:02
+[' Răsarit = 06:23:46 Apus = 20:35:15 Min (°C) = 16.77 Max (°C) =29.7 Presiune = 1014 Umiditate (%) = 32 Index UV = 0.41 Viteza vântului = 3.78 Unghiul vântului = 78 Stare = ploaie ușoară']
+Bechet: 32 \ vineri \ 12:8:2022 \ 19:10:09
+[' Răsarit = 06:24:55 Apus = 20:33:49 Min (°C) = 18.28 Max (°C) =32.2 Presiune = 1011 Umiditate (%) = 23 Index UV = 0.4 Viteza vântului = 2.48 Unghiul vântului = 10 Stare = nori 50-85%']
+Bechet: 32 \ sâmbătă \ 13:8:2022 \ 19:10:09
+[' Răsarit = 06:26:03 Apus = 20:32:22 Min (°C) = 19.07 Max (°C) =31.59 Presiune = 1010 Umiditate (%) = 51 Index UV = 0.13 Viteza vântului = 5.23 Unghiul vântului = 273 Stare = nori 85-100%']
+Bechet: 32 \ duminică \ 14:8:2022 \ 19:10:14
+[' Răsarit = 06:27:11 Apus = 20:30:53 Min (°C) = 18.32 Max (°C) =26.42 Presiune = 1007 Umiditate (%) = 49 Index UV = 0.37 Viteza vântului = 3.83 Unghiul vântului = 255 Stare = nori 85-100%']
+Bechet: 33 \ luni \ 15:8:2022 \ 19:10:13
+[' Răsarit = 06:28:19 Apus = 20:29:23 Min (°C) = 17.78 Max (°C) =32.55 Presiune = 1005 Umiditate (%) = 30 Index UV = 0.22 Viteza vântului = 5.33 Unghiul vântului = 254 Stare = nori 50-85%']
+Bechet: 33 \ marți \ 16:8:2022 \ 19:10:46
+[' Răsarit = 06:29:27 Apus = 20:27:52 Min (°C) = 20.26 Max (°C) =34.56 Presiune = 1007 Umiditate (%) = 30 Index UV = 0.26 Viteza vântului = 4.21 Unghiul vântului = 268 Stare = nori 85-100%']
+Bechet: 33 \ miercuri \ 17:8:2022 \ 19:10:38
+[' Răsarit = 06:30:36 Apus = 20:26:20 Min (°C) = 21.21 Max (°C) =35.64 Presiune = 1008 Umiditate (%) = 24 Index UV = 0.37 Viteza vântului = 5.37 Unghiul vântului = 300 Stare = ploaie ușoară']
+Bechet: 33 \ joi \ 18:8:2022 \ 19:10:36
+[' Răsarit = 06:31:44 Apus = 20:24:47 Min (°C) = 21.79 Max (°C) =38.33 Presiune = 1008 Umiditate (%) = 16 Index UV = 0.42 Viteza vântului = 5.38 Unghiul vântului = 307 Stare = ploaie ușoară']
+Bechet: 33 \ vineri \ 19:8:2022 \ 19:11:19
+[' Răsarit = 06:32:52 Apus = 20:23:13 Min (°C) = 22.18 Max (°C) =37.59 Presiune = 1007 Umiditate (%) = 21 Index UV = 0.4 Viteza vântului = 4.27 Unghiul vântului = 66 Stare = ploaie ușoară']
+Bechet: 33 \ sâmbătă \ 20:8:2022 \ 19:11:24
+[' Răsarit = 06:34:01 Apus = 20:21:38 Min (°C) = 23.35 Max (°C) =37.28 Presiune = 1004 Umiditate (%) = 25 Index UV = 0.32 Viteza vântului = 6.18 Unghiul vântului = 72 Stare = ploaie ușoară']
+Bechet: 33 \ duminică \ 21:8:2022 \ 19:10:38
+[' Răsarit = 06:35:09 Apus = 20:20:02 Min (°C) = 20.12 Max (°C) =29.81 Presiune = 1005 Umiditate (%) = 73 Index UV = 0.3 Viteza vântului = 2.35 Unghiul vântului = 197 Stare = nori 85-100%']
+Bechet: 34 \ luni \ 22:8:2022 \ 19:10:37
+[' Răsarit = 06:36:17 Apus = 20:18:25 Min (°C) = 19.04 Max (°C) =29.47 Presiune = 1007 Umiditate (%) = 44 Index UV = 0.26 Viteza vântului = 2.14 Unghiul vântului = 283 Stare = nori 50-85%']
+Bechet: 34 \ marți \ 23:8:2022 \ 19:10:43
+[' Răsarit = 06:37:25 Apus = 20:16:46 Min (°C) = 19.52 Max (°C) =29.1 Presiune = 1010 Umiditate (%) = 60 Index UV = 0.28 Viteza vântului = 6.22 Unghiul vântului = 303 Stare = nori 85-100%']
+Bechet: 34 \ miercuri \ 24:8:2022 \ 19:10:10
+[' Răsarit = 06:38:33 Apus = 20:15:07 Min (°C) = 19.39 Max (°C) =28.04 Presiune = 1013 Umiditate (%) = 55 Index UV = 0.28 Viteza vântului = 1.42 Unghiul vântului = 210 Stare = nori 50-85%']
+Bechet: 34 \ joi \ 25:8:2022 \ 19:11:09
+[' Răsarit = 06:39:41 Apus = 20:13:27 Min (°C) = 20.15 Max (°C) =32.36 Presiune = 1009 Umiditate (%) = 29 Index UV = 0.3 Viteza vântului = 4.27 Unghiul vântului = 67 Stare = ploaie ușoară']
+Bechet: 34 \ vineri \ 26:8:2022 \ 19:09:42
+[' Răsarit = 06:40:49 Apus = 20:11:47 Min (°C) = 19.48 Max (°C) =32.37 Presiune = 1008 Umiditate (%) = 26 Index UV = 0.28 Viteza vântului = 1.41 Unghiul vântului = 236 Stare = nori 10-25%']
+Bechet: 34 \ sâmbătă \ 27:8:2022 \ 19:09:42
+[' Răsarit = 06:41:57 Apus = 20:10:05 Min (°C) = 20.58 Max (°C) =33.75 Presiune = 1009 Umiditate (%) = 25 Index UV = 0.28 Viteza vântului = 1.22 Unghiul vântului = 302 Stare = cer senin']
+Bechet: 34 \ duminică \ 28:8:2022 \ 19:10:15
+[' Răsarit = 06:43:05 Apus = 20:08:23 Min (°C) = 21.47 Max (°C) =34.17 Presiune = 1011 Umiditate (%) = 28 Index UV = 0.28 Viteza vântului = 0.08 Unghiul vântului = 103 Stare = cer senin']
+Bechet: 35 \ luni \ 29:8:2022 \ 19:10:59
+[' Răsarit = 06:44:12 Apus = 20:06:40 Min (°C) = 22.29 Max (°C) =33.65 Presiune = 1011 Umiditate (%) = 29 Index UV = 0.25 Viteza vântului = 2.65 Unghiul vântului = 329 Stare = nori 10-25%']
+Bechet: 35 \ marți \ 30:8:2022 \ 19:10:30
+[' Răsarit = 06:45:20 Apus = 20:04:56 Min (°C) = 20.87 Max (°C) =32.64 Presiune = 1012 Umiditate (%) = 33 Index UV = 0.23 Viteza vântului = 1.45 Unghiul vântului = 236 Stare = nori 50-85%']
+Bechet: 35 \ miercuri \ 31:8:2022 \ 19:10:26
+[' Răsarit = 06:46:28 Apus = 20:03:11 Min (°C) = 19.69 Max (°C) =31.42 Presiune = 1011 Umiditate (%) = 37 Index UV = 0.22 Viteza vântului = 1.75 Unghiul vântului = 9 Stare = nori 85-100%']
+Bechet: 35 \ joi \ 01:9:2022 \ 19:10:26
+[' Răsarit = 06:47:35 Apus = 20:01:26 Min (°C) = 18.01 Max (°C) =29.57 Presiune = 1010 Umiditate (%) = 40 Index UV = 0.17 Viteza vântului = 3.55 Unghiul vântului = 60 Stare = nori 85-100%']
+Bechet: 35 \ vineri \ 02:9:2022 \ 19:10:55
+[' Răsarit = 06:48:42 Apus = 19:59:40 Min (°C) = 16.18 Max (°C) =21.29 Presiune = 1015 Umiditate (%) = 93 Index UV = 0.02 Viteza vântului = 3.61 Unghiul vântului = 310 Stare = nori 85-100%']
+Bechet: 35 \ sâmbătă \ 03:9:2022 \ 19:10:23
+[' Răsarit = 06:49:50 Apus = 19:57:54 Min (°C) = 15.93 Max (°C) =21.43 Presiune = 1018 Umiditate (%) = 73 Index UV = 0.21 Viteza vântului = 4.78 Unghiul vântului = 77 Stare = nori 25-50%']
+Bechet: 35 \ duminică \ 04:9:2022 \ 19:10:08
+[' Răsarit = 06:50:57 Apus = 19:56:07 Min (°C) = 14.57 Max (°C) =23.63 Presiune = 1020 Umiditate (%) = 56 Index UV = 0.18 Viteza vântului = 3.18 Unghiul vântului = 49 Stare = nori 25-50%']

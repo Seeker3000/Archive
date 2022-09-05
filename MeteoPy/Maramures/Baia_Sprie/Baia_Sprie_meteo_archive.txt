@@ -1032,3 +1032,121 @@ Baia_Sprie: 26 \ vineri \ 01:7:2022 \ 19:14:07
 [' Răsarit = 05:31:02 Apus = 21:26:45 Min (°C) = 21.13 Max (°C) =34.27 Presiune = 1012 Umiditate (%) = 28 Index UV = 0.23 Viteza vântului = 2.06 Unghiul vântului = 270 Stare = furtună']
 Baia_Sprie: 26 \ sâmbătă \ 02:7:2022 \ 19:13:57
 [' Răsarit = 05:31:38 Apus = 21:26:31 Min (°C) = 19.52 Max (°C) =31.9 Presiune = 1017 Umiditate (%) = 38 Index UV = 0.52 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = nori 50-85%']
+Baia_Sprie: 26 \ duminică \ 03:7:2022 \ 19:13:47
+[' Răsarit = 05:32:16 Apus = 21:26:14 Min (°C) = 17.55 Max (°C) =32.9 Presiune = 1015 Umiditate (%) = 27 Index UV = 0.87 Viteza vântului = 5.66 Unghiul vântului = 260 Stare = nori 10-25%']
+Baia_Sprie: 27 \ luni \ 04:7:2022 \ 19:12:38
+[' Răsarit = 05:32:56 Apus = 21:25:55 Min (°C) = 18.86 Max (°C) =33.9 Presiune = 1013 Umiditate (%) = 26 Index UV = 0.9 Viteza vântului = 3.09 Unghiul vântului = 230 Stare = nori 25-50%']
+Baia_Sprie: 27 \ marți \ 05:7:2022 \ 19:12:56
+[' Răsarit = 05:33:39 Apus = 21:25:33 Min (°C) = 19.81 Max (°C) =35.9 Presiune = 1010 Umiditate (%) = 18 Index UV = 0.83 Viteza vântului = 3.09 Unghiul vântului = 180 Stare = nori 10-25%']
+Baia_Sprie: 27 \ miercuri \ 06:7:2022 \ 19:12:44
+[' Răsarit = 05:34:23 Apus = 21:25:08 Min (°C) = 15.88 Max (°C) =22.42 Presiune = 1015 Umiditate (%) = 77 Index UV = 0.78 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = nori 25-50%']
+Baia_Sprie: 27 \ joi \ 07:7:2022 \ 19:12:46
+[' Răsarit = 05:35:09 Apus = 21:24:41 Min (°C) = 12.11 Max (°C) =26.9 Presiune = 1015 Umiditate (%) = 28 Index UV = 0.57 Viteza vântului = 2.06 Unghiul vântului = 330 Stare = nori 10-25%']
+Baia_Sprie: 27 \ vineri \ 08:7:2022 \ 19:12:45
+[' Răsarit = 05:35:57 Apus = 21:24:11 Min (°C) = 14.29 Max (°C) =23.48 Presiune = 1016 Umiditate (%) = 64 Index UV = 0.73 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = nori 10-25%']
+Baia_Sprie: 27 \ sâmbătă \ 09:7:2022 \ 19:13:10
+[' Răsarit = 05:36:47 Apus = 21:23:39 Min (°C) = 13.61 Max (°C) =24.9 Presiune = 1014 Umiditate (%) = 38 Index UV = 0.59 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = nori 50-85%']
+Baia_Sprie: 27 \ duminică \ 10:7:2022 \ 19:12:41
+[' Răsarit = 05:37:38 Apus = 21:23:04 Min (°C) = 13.13 Max (°C) =22.41 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.54 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Baia_Sprie: 28 \ luni \ 11:7:2022 \ 19:12:41
+[' Răsarit = 05:38:31 Apus = 21:22:27 Min (°C) = 8.2 Max (°C) =19.08 Presiune = 1017 Umiditate (%) = 42 Index UV = 0.57 Viteza vântului = 3.6 Unghiul vântului = 290 Stare = nori 10-25%']
+Baia_Sprie: 28 \ marți \ 12:7:2022 \ 19:12:59
+[' Răsarit = 05:39:26 Apus = 21:21:48 Min (°C) = 7.92 Max (°C) =18.44 Presiune = 1019 Umiditate (%) = 59 Index UV = 0.56 Viteza vântului = 3.6 Unghiul vântului = 30 Stare = nori 10-25%']
+Baia_Sprie: 28 \ miercuri \ 13:7:2022 \ 19:12:44
+[' Răsarit = 05:40:23 Apus = 21:21:06 Min (°C) = 11.25 Max (°C) =25.95 Presiune = 1016 Umiditate (%) = 28 Index UV = 0.56 Viteza vântului = 5.14 Unghiul vântului = 280 Stare = cer senin']
+Baia_Sprie: 28 \ joi \ 14:7:2022 \ 19:13:30
+[' Răsarit = 05:41:21 Apus = 21:20:22 Min (°C) = 14.78 Max (°C) =29.9 Presiune = 1015 Umiditate (%) = 23 Index UV = 0.29 Viteza vântului = 3.6 Unghiul vântului = 230 Stare = cer senin']
+Baia_Sprie: 28 \ vineri \ 15:7:2022 \ 19:15:03
+[' Răsarit = 05:42:20 Apus = 21:19:35 Min (°C) = 17.38 Max (°C) =28.92 Presiune = 1015 Umiditate (%) = 36 Index UV = 0.72 Viteza vântului = 3.6 Unghiul vântului = 280 Stare = nori 10-25%']
+Baia_Sprie: 28 \ sâmbătă \ 16:7:2022 \ 19:13:36
+[' Răsarit = 05:43:21 Apus = 21:18:46 Min (°C) = 13.69 Max (°C) =26.09 Presiune = 1016 Umiditate (%) = 29 Index UV = 0.67 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = nori 10-25%']
+Baia_Sprie: 28 \ duminică \ 17:7:2022 \ 19:14:03
+[' Răsarit = 05:44:24 Apus = 21:17:55 Min (°C) = 12.21 Max (°C) =22.9 Presiune = 1023 Umiditate (%) = 33 Index UV = 0.67 Viteza vântului = 3.09 Unghiul vântului = 10 Stare = nori 25-50%']
+Baia_Sprie: 29 \ luni \ 18:7:2022 \ 19:13:51
+[' Răsarit = 05:45:27 Apus = 21:17:01 Min (°C) = 10.3 Max (°C) =25.24 Presiune = 1023 Umiditate (%) = 25 Index UV = 0.66 Viteza vântului = 4.63 Unghiul vântului = 270 Stare = cer senin']
+Baia_Sprie: 29 \ marți \ 19:7:2022 \ 19:13:39
+[' Răsarit = 05:46:32 Apus = 21:16:05 Min (°C) = 13.32 Max (°C) =28.24 Presiune = 1020 Umiditate (%) = 28 Index UV = 0.72 Viteza vântului = 5.14 Unghiul vântului = 260 Stare = cer senin']
+Baia_Sprie: 29 \ miercuri \ 20:7:2022 \ 19:13:37
+[' Răsarit = 05:47:39 Apus = 21:15:07 Min (°C) = 15.64 Max (°C) =31 Presiune = 1018 Umiditate (%) = 27 Index UV = 0.74 Viteza vântului = 5.14 Unghiul vântului = 270 Stare = cer senin']
+Baia_Sprie: 29 \ joi \ 21:7:2022 \ 19:12:49
+[' Răsarit = 05:48:46 Apus = 21:14:07 Min (°C) = 16.7 Max (°C) =31.9 Presiune = 1015 Umiditate (%) = 17 Index UV = 0.71 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Baia_Sprie: 29 \ vineri \ 22:7:2022 \ 19:12:35
+[' Răsarit = 05:49:54 Apus = 21:13:05 Min (°C) = 16.3 Max (°C) =34.08 Presiune = 1014 Umiditate (%) = 22 Index UV = 0.6 Viteza vântului = 2.91 Unghiul vântului = 357 Stare = nori 10-25%']
+Baia_Sprie: 29 \ sâmbătă \ 23:7:2022 \ 19:13:42
+[' Răsarit = 05:51:04 Apus = 21:12:00 Min (°C) = 19.6 Max (°C) =35.9 Presiune = 1012 Umiditate (%) = 19 Index UV = 0.7 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 25-50%']
+Baia_Sprie: 29 \ duminică \ 24:7:2022 \ 19:13:45
+[' Răsarit = 05:52:14 Apus = 21:10:54 Min (°C) = 19.92 Max (°C) =30.37 Presiune = 1014 Umiditate (%) = 42 Index UV = 0.64 Viteza vântului = 6.17 Unghiul vântului = 270 Stare = nori 10-25%']
+Baia_Sprie: 30 \ luni \ 25:7:2022 \ 19:14:03
+[' Răsarit = 05:53:25 Apus = 21:09:46 Min (°C) = 15.51 Max (°C) =30.54 Presiune = 1012 Umiditate (%) = 23 Index UV = 0.65 Viteza vântului = 4.12 Unghiul vântului = 270 Stare = cer senin']
+Baia_Sprie: 30 \ marți \ 26:7:2022 \ 19:13:59
+[' Răsarit = 05:54:38 Apus = 21:08:35 Min (°C) = 16.5 Max (°C) =32.62 Presiune = 1008 Umiditate (%) = 22 Index UV = 0.61 Viteza vântului = 4.12 Unghiul vântului = 280 Stare = cer senin']
+Baia_Sprie: 30 \ miercuri \ 27:7:2022 \ 19:14:32
+[' Răsarit = 05:55:51 Apus = 21:07:23 Min (°C) = 17.34 Max (°C) =26.9 Presiune = 1012 Umiditate (%) = 39 Index UV = 0.62 Viteza vântului = 3.09 Unghiul vântului = 350 Stare = nori 25-50%']
+Baia_Sprie: 30 \ joi \ 28:7:2022 \ 19:13:43
+[' Răsarit = 05:57:05 Apus = 21:06:09 Min (°C) = 14.85 Max (°C) =31.29 Presiune = 1014 Umiditate (%) = 30 Index UV = 0.64 Viteza vântului = 3.09 Unghiul vântului = 200 Stare = nori 10-25%']
+Baia_Sprie: 30 \ vineri \ 29:7:2022 \ 19:13:54
+[' Răsarit = 05:58:19 Apus = 21:04:53 Min (°C) = 17.57 Max (°C) =29.45 Presiune = 1014 Umiditate (%) = 45 Index UV = 0.31 Viteza vântului = 1.54 Unghiul vântului = 360 Stare = ploaie ușoară']
+Baia_Sprie: 30 \ sâmbătă \ 30:7:2022 \ 19:14:03
+[' Răsarit = 05:59:35 Apus = 21:03:35 Min (°C) = 17.3 Max (°C) =29.64 Presiune = 1011 Umiditate (%) = 61 Index UV = 0.35 Viteza vântului = 12.35 Unghiul vântului = 260 Stare = ploaie intensă']
+Baia_Sprie: 30 \ duminică \ 31:7:2022 \ 19:14:30
+[' Răsarit = 06:00:50 Apus = 21:02:15 Min (°C) = 16.44 Max (°C) =21.2 Presiune = 1012 Umiditate (%) = 73 Index UV = 0.21 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Baia_Sprie: 31 \ sâmbătă \ 06:8:2022 \ 19:13:48
+[' Răsarit = 06:08:37 Apus = 20:53:41 Min (°C) = 18.48 Max (°C) =33.07 Presiune = 1012 Umiditate (%) = 27 Index UV = 0.48 Viteza vântului = 3.09 Unghiul vântului = 320 Stare = nori 10-25%']
+Baia_Sprie: 31 \ duminică \ 07:8:2022 \ 19:13:51
+[' Răsarit = 06:09:56 Apus = 20:52:10 Min (°C) = 20.78 Max (°C) =29.9 Presiune = 1015 Umiditate (%) = 42 Index UV = 0.21 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = cer senin']
+Baia_Sprie: 32 \ luni \ 08:8:2022 \ 19:14:30
+[' Răsarit = 06:11:15 Apus = 20:50:37 Min (°C) = 16.44 Max (°C) =30.39 Presiune = 1017 Umiditate (%) = 69 Index UV = 0.33 Viteza vântului = 2.57 Unghiul vântului = 340 Stare = nori 10-25%']
+Baia_Sprie: 32 \ marți \ 09:8:2022 \ 19:13:45
+[' Răsarit = 06:12:35 Apus = 20:49:03 Min (°C) = 16.97 Max (°C) =25.89 Presiune = 1020 Umiditate (%) = 88 Index UV = 0.28 Viteza vântului = 2.06 Unghiul vântului = 70 Stare = ploaie moderată']
+Baia_Sprie: 32 \ miercuri \ 10:8:2022 \ 19:14:16
+[' Răsarit = 06:13:55 Apus = 20:47:27 Min (°C) = 14.52 Max (°C) =23.9 Presiune = 1019 Umiditate (%) = 44 Index UV = 0.44 Viteza vântului = 3.09 Unghiul vântului = 30 Stare = nori 10-25%']
+Baia_Sprie: 32 \ joi \ 11:8:2022 \ 19:13:50
+[' Răsarit = 06:15:15 Apus = 20:45:50 Min (°C) = 12.51 Max (°C) =24.9 Presiune = 1017 Umiditate (%) = 36 Index UV = 0.21 Viteza vântului = 1.54 Unghiul vântului = 0 Stare = cer senin']
+Baia_Sprie: 32 \ vineri \ 12:8:2022 \ 19:13:59
+[' Răsarit = 06:16:36 Apus = 20:44:11 Min (°C) = 12.98 Max (°C) =27.69 Presiune = 1015 Umiditate (%) = 34 Index UV = 0.33 Viteza vântului = 2.06 Unghiul vântului = 220 Stare = cer senin']
+Baia_Sprie: 32 \ sâmbătă \ 13:8:2022 \ 19:13:52
+[' Răsarit = 06:17:56 Apus = 20:42:32 Min (°C) = 15.38 Max (°C) =26.36 Presiune = 1009 Umiditate (%) = 54 Index UV = 0.35 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Baia_Sprie: 32 \ duminică \ 14:8:2022 \ 19:13:59
+[' Răsarit = 06:19:17 Apus = 20:40:51 Min (°C) = 16.87 Max (°C) =28.13 Presiune = 1007 Umiditate (%) = 60 Index UV = 0.34 Viteza vântului = 3.6 Unghiul vântului = 50 Stare = nori 10-25%']
+Baia_Sprie: 33 \ luni \ 15:8:2022 \ 19:14:00
+[' Răsarit = 06:20:38 Apus = 20:39:09 Min (°C) = 17.07 Max (°C) =28.9 Presiune = 1006 Umiditate (%) = 42 Index UV = 0.22 Viteza vântului = 2.57 Unghiul vântului = 210 Stare = nori 10-25%']
+Baia_Sprie: 33 \ marți \ 16:8:2022 \ 19:14:46
+[' Răsarit = 06:21:58 Apus = 20:37:25 Min (°C) = 16.95 Max (°C) =28.9 Presiune = 1007 Umiditate (%) = 42 Index UV = 0.35 Viteza vântului = 5.66 Unghiul vântului = 250 Stare = ploaie ușoară']
+Baia_Sprie: 33 \ miercuri \ 17:8:2022 \ 19:14:29
+[' Răsarit = 06:23:19 Apus = 20:35:41 Min (°C) = 16.05 Max (°C) =25.06 Presiune = 1011 Umiditate (%) = 78 Index UV = 0.42 Viteza vântului = 1.54 Unghiul vântului = 40 Stare = cer senin']
+Baia_Sprie: 33 \ joi \ 18:8:2022 \ 19:14:22
+[' Răsarit = 06:24:40 Apus = 20:33:55 Min (°C) = 16.86 Max (°C) =29.9 Presiune = 1011 Umiditate (%) = 42 Index UV = 0.42 Viteza vântului = 2.06 Unghiul vântului = 230 Stare = nori 10-25%']
+Baia_Sprie: 33 \ vineri \ 19:8:2022 \ 19:15:07
+[' Răsarit = 06:26:01 Apus = 20:32:08 Min (°C) = 18.34 Max (°C) =31.9 Presiune = 1011 Umiditate (%) = 40 Index UV = 0.41 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Baia_Sprie: 33 \ sâmbătă \ 20:8:2022 \ 19:15:31
+[' Răsarit = 06:27:22 Apus = 20:30:20 Min (°C) = 19.8 Max (°C) =32.03 Presiune = 1010 Umiditate (%) = 57 Index UV = 0.37 Viteza vântului = 3.6 Unghiul vântului = 270 Stare = nori 25-50%']
+Baia_Sprie: 33 \ duminică \ 21:8:2022 \ 19:14:31
+[' Răsarit = 06:28:43 Apus = 20:28:31 Min (°C) = 17.45 Max (°C) =26.44 Presiune = 1007 Umiditate (%) = 57 Index UV = 0.2 Viteza vântului = 3.6 Unghiul vântului = 260 Stare = cer senin']
+Baia_Sprie: 34 \ luni \ 22:8:2022 \ 19:14:20
+[' Răsarit = 06:30:04 Apus = 20:26:41 Min (°C) = 16.86 Max (°C) =28.02 Presiune = 1011 Umiditate (%) = 96 Index UV = 0.33 Viteza vântului = 1.05 Unghiul vântului = 311 Stare = nori 85-100%']
+Baia_Sprie: 34 \ marți \ 23:8:2022 \ 19:14:24
+[' Răsarit = 06:31:25 Apus = 20:24:50 Min (°C) = 16.35 Max (°C) =27.9 Presiune = 1012 Umiditate (%) = 61 Index UV = 0.25 Viteza vântului = 1.54 Unghiul vântului = 10 Stare = nori 25-50%']
+Baia_Sprie: 34 \ miercuri \ 24:8:2022 \ 19:13:53
+[' Răsarit = 06:32:46 Apus = 20:22:58 Min (°C) = 17.08 Max (°C) =28.86 Presiune = 1015 Umiditate (%) = 48 Index UV = 0.29 Viteza vântului = 2.57 Unghiul vântului = 250 Stare = nori 10-25%']
+Baia_Sprie: 34 \ joi \ 25:8:2022 \ 19:15:02
+[' Răsarit = 06:34:07 Apus = 20:21:05 Min (°C) = 17.69 Max (°C) =29.96 Presiune = 1013 Umiditate (%) = 48 Index UV = 0.31 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Baia_Sprie: 34 \ vineri \ 26:8:2022 \ 19:13:12
+[' Răsarit = 06:35:28 Apus = 20:19:12 Min (°C) = 16.78 Max (°C) =30.9 Presiune = 1010 Umiditate (%) = 25 Index UV = 0.3 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Baia_Sprie: 34 \ sâmbătă \ 27:8:2022 \ 19:13:14
+[' Răsarit = 06:36:49 Apus = 20:17:17 Min (°C) = 17.29 Max (°C) =29.9 Presiune = 1010 Umiditate (%) = 33 Index UV = 0.29 Viteza vântului = 1.54 Unghiul vântului = 210 Stare = cer senin']
+Baia_Sprie: 34 \ duminică \ 28:8:2022 \ 19:14:02
+[' Răsarit = 06:38:09 Apus = 20:15:22 Min (°C) = 17.81 Max (°C) =30.63 Presiune = 1012 Umiditate (%) = 40 Index UV = 0.28 Viteza vântului = 2.06 Unghiul vântului = 150 Stare = nori 10-25%']
+Baia_Sprie: 35 \ luni \ 29:8:2022 \ 19:14:48
+[' Răsarit = 06:39:30 Apus = 20:13:26 Min (°C) = 18.19 Max (°C) =28.73 Presiune = 1015 Umiditate (%) = 57 Index UV = 0.24 Viteza vântului = 2.57 Unghiul vântului = 230 Stare = nori 10-25%']
+Baia_Sprie: 35 \ marți \ 30:8:2022 \ 19:14:17
+[' Răsarit = 06:40:50 Apus = 20:11:29 Min (°C) = 17.86 Max (°C) =25.12 Presiune = 1017 Umiditate (%) = 68 Index UV = 0.21 Viteza vântului = 3.09 Unghiul vântului = 80 Stare = nori 10-25%']
+Baia_Sprie: 35 \ miercuri \ 31:8:2022 \ 19:14:11
+[' Răsarit = 06:42:11 Apus = 20:09:32 Min (°C) = 15.45 Max (°C) =26.9 Presiune = 1014 Umiditate (%) = 36 Index UV = 0.24 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Baia_Sprie: 35 \ joi \ 01:9:2022 \ 19:14:11
+[' Răsarit = 06:43:31 Apus = 20:07:34 Min (°C) = 14.04 Max (°C) =20.83 Presiune = 1014 Umiditate (%) = 64 Index UV = 0.15 Viteza vântului = 2.06 Unghiul vântului = 20 Stare = ploaie ușoară']
+Baia_Sprie: 35 \ vineri \ 02:9:2022 \ 19:14:39
+[' Răsarit = 06:44:52 Apus = 20:05:35 Min (°C) = 12.59 Max (°C) =13.9 Presiune = 1015 Umiditate (%) = 94 Index UV = 0.02 Viteza vântului = 2.06 Unghiul vântului = 40 Stare = nori 50-85%']
+Baia_Sprie: 35 \ sâmbătă \ 03:9:2022 \ 19:14:07
+[' Răsarit = 06:46:12 Apus = 20:03:35 Min (°C) = 12.41 Max (°C) =14.9 Presiune = 1018 Umiditate (%) = 88 Index UV = 0.06 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = nori 50-85%']
+Baia_Sprie: 35 \ duminică \ 04:9:2022 \ 19:13:54
+[' Răsarit = 06:47:32 Apus = 20:01:35 Min (°C) = 11.14 Max (°C) =20.9 Presiune = 1021 Umiditate (%) = 56 Index UV = 0.2 Viteza vântului = 2.06 Unghiul vântului = 280 Stare = cer senin']
