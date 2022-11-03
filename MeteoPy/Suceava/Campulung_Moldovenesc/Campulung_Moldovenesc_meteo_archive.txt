@@ -1152,3 +1152,121 @@ Campulung_Moldovenesc: 35 \ sâmbătă \ 03:9:2022 \ 19:19:47
 [' Răsarit = 06:38:51 Apus = 19:55:56 Min (°C) = 8.92 Max (°C) =12.44 Presiune = 1020 Umiditate (%) = 99 Index UV = 0.02 Viteza vântului = 1.11 Unghiul vântului = 52 Stare = nori 85-100%']
 Campulung_Moldovenesc: 35 \ duminică \ 04:9:2022 \ 19:19:55
 [' Răsarit = 06:40:11 Apus = 19:53:57 Min (°C) = 9.83 Max (°C) =13.55 Presiune = 1023 Umiditate (%) = 86 Index UV = 0.1 Viteza vântului = 0.89 Unghiul vântului = 69 Stare = nori 85-100%']
+Campulung_Moldovenesc: 36 \ luni \ 05:9:2022 \ 19:20:10
+[' Răsarit = 06:41:31 Apus = 19:51:57 Min (°C) = 9.91 Max (°C) =15.91 Presiune = 1025 Umiditate (%) = 73 Index UV = 0.07 Viteza vântului = 0.84 Unghiul vântului = 78 Stare = nori 85-100%']
+Campulung_Moldovenesc: 36 \ marți \ 06:9:2022 \ 19:20:19
+[' Răsarit = 06:42:50 Apus = 19:49:56 Min (°C) = 6.89 Max (°C) =17.29 Presiune = 1022 Umiditate (%) = 72 Index UV = 0.09 Viteza vântului = 1.34 Unghiul vântului = 83 Stare = nori 85-100%']
+Campulung_Moldovenesc: 36 \ miercuri \ 07:9:2022 \ 19:20:24
+[' Răsarit = 06:44:10 Apus = 19:47:55 Min (°C) = 7.88 Max (°C) =18.59 Presiune = 1018 Umiditate (%) = 84 Index UV = 0.14 Viteza vântului = 0.63 Unghiul vântului = 196 Stare = nori 10-25%']
+Campulung_Moldovenesc: 36 \ joi \ 08:9:2022 \ 19:19:02
+[' Răsarit = 06:45:30 Apus = 19:45:54 Min (°C) = 10.28 Max (°C) =22.11 Presiune = 1017 Umiditate (%) = 83 Index UV = 0.13 Viteza vântului = 0.5 Unghiul vântului = 95 Stare = nori 10-25%']
+Campulung_Moldovenesc: 36 \ vineri \ 09:9:2022 \ 19:18:56
+[' Răsarit = 06:46:49 Apus = 19:43:52 Min (°C) = 12.36 Max (°C) =17.48 Presiune = 1016 Umiditate (%) = 93 Index UV = 0.01 Viteza vântului = 0.21 Unghiul vântului = 304 Stare = nori 85-100%']
+Campulung_Moldovenesc: 36 \ sâmbătă \ 10:9:2022 \ 19:18:26
+[' Răsarit = 06:48:08 Apus = 19:41:50 Min (°C) = 12.13 Max (°C) =21.5 Presiune = 1010 Umiditate (%) = 78 Index UV = 0.1 Viteza vântului = 4.12 Unghiul vântului = 240 Stare = ploaie ușoară']
+Campulung_Moldovenesc: 36 \ duminică \ 11:9:2022 \ 19:18:47
+[' Răsarit = 06:49:28 Apus = 19:39:47 Min (°C) = 10.42 Max (°C) =19.46 Presiune = 1011 Umiditate (%) = 80 Index UV = 0.1 Viteza vântului = 2.54 Unghiul vântului = 243 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ luni \ 12:9:2022 \ 19:20:02
+[' Răsarit = 06:50:47 Apus = 19:37:44 Min (°C) = 9.41 Max (°C) =14.22 Presiune = 1012 Umiditate (%) = 86 Index UV = 0.01 Viteza vântului = 1.49 Unghiul vântului = 297 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ marți \ 13:9:2022 \ 19:20:07
+[' Răsarit = 06:52:07 Apus = 19:35:41 Min (°C) = 8.52 Max (°C) =13.52 Presiune = 1012 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 230 Stare = nori 50-85%']
+Campulung_Moldovenesc: 37 \ miercuri \ 14:9:2022 \ 19:20:26
+[' Răsarit = 06:53:26 Apus = 19:33:38 Min (°C) = 6.52 Max (°C) =19.89 Presiune = 1010 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 231 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ joi \ 15:9:2022 \ 19:21:26
+[' Răsarit = 06:54:46 Apus = 19:31:34 Min (°C) = 12.6 Max (°C) =20.25 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 238 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ vineri \ 16:9:2022 \ 19:20:30
+[' Răsarit = 06:56:05 Apus = 19:29:30 Min (°C) = 13.82 Max (°C) =19.67 Presiune = 1006 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 219 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ sâmbătă \ 17:9:2022 \ 19:20:05
+[' Răsarit = 06:57:25 Apus = 19:27:26 Min (°C) = 11.57 Max (°C) =13.03 Presiune = 1003 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 61 Stare = nori 85-100%']
+Campulung_Moldovenesc: 37 \ duminică \ 18:9:2022 \ 19:20:38
+[' Răsarit = 06:58:44 Apus = 19:25:22 Min (°C) = 5.39 Max (°C) =11.54 Presiune = 1007 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.35 Unghiul vântului = 253 Stare = nori 50-85%']
+Campulung_Moldovenesc: 38 \ luni \ 19:9:2022 \ 19:20:47
+[' Răsarit = 07:00:04 Apus = 19:23:18 Min (°C) = 4.23 Max (°C) =8.61 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 230 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ marți \ 20:9:2022 \ 19:20:00
+[' Răsarit = 07:01:24 Apus = 19:21:14 Min (°C) = 4.13 Max (°C) =10.66 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 246 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ miercuri \ 21:9:2022 \ 19:20:02
+[' Răsarit = 07:02:44 Apus = 19:19:10 Min (°C) = 2.87 Max (°C) =11.25 Presiune = 1018 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 294 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ joi \ 22:9:2022 \ 19:20:13
+[' Răsarit = 07:04:04 Apus = 19:17:06 Min (°C) = 5.85 Max (°C) =8.12 Presiune = 1019 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 281 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ vineri \ 23:9:2022 \ 19:20:28
+[' Răsarit = 07:05:24 Apus = 19:15:02 Min (°C) = 4.84 Max (°C) =8.01 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 303 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ sâmbătă \ 24:9:2022 \ 19:21:07
+[' Răsarit = 07:06:44 Apus = 19:12:58 Min (°C) = 3.02 Max (°C) =11.72 Presiune = 1019 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 238 Stare = nori 85-100%']
+Campulung_Moldovenesc: 38 \ duminică \ 25:9:2022 \ 20:05:56
+[' Răsarit = 07:08:05 Apus = 19:10:54 Min (°C) = 3.87 Max (°C) =17.1 Presiune = 1015 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 252 Stare = nori 85-100%']
+Campulung_Moldovenesc: 39 \ luni \ 26:9:2022 \ 19:20:01
+[' Răsarit = 07:09:25 Apus = 19:08:51 Min (°C) = 7.74 Max (°C) =15.29 Presiune = 1008 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 249 Stare = nori 85-100%']
+Campulung_Moldovenesc: 39 \ marți \ 27:9:2022 \ 19:20:08
+[' Răsarit = 07:10:46 Apus = 19:06:47 Min (°C) = 9.82 Max (°C) =17.37 Presiune = 1001 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 235 Stare = cer senin']
+Campulung_Moldovenesc: 39 \ miercuri \ 28:9:2022 \ 19:20:08
+[' Răsarit = 07:12:07 Apus = 19:04:44 Min (°C) = 7.71 Max (°C) =15.94 Presiune = 1005 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 233 Stare = cer senin']
+Campulung_Moldovenesc: 39 \ joi \ 29:9:2022 \ 19:20:14
+[' Răsarit = 07:13:28 Apus = 19:02:41 Min (°C) = 7.77 Max (°C) =19.89 Presiune = 1007 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 211 Stare = nori 85-100%']
+Campulung_Moldovenesc: 39 \ vineri \ 30:9:2022 \ 19:21:12
+[' Răsarit = 07:14:50 Apus = 19:00:38 Min (°C) = 8.69 Max (°C) =19.14 Presiune = 1015 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 239 Stare = nori 50-85%']
+Campulung_Moldovenesc: 39 \ sâmbătă \ 01:10:2022 \ 19:21:19
+[' Răsarit = 07:16:12 Apus = 18:58:36 Min (°C) = 10.32 Max (°C) =21.39 Presiune = 1012 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 203 Stare = nori 85-100%']
+Campulung_Moldovenesc: 39 \ duminică \ 02:10:2022 \ 19:20:10
+[' Răsarit = 07:17:34 Apus = 18:56:34 Min (°C) = 6.88 Max (°C) =13.54 Presiune = 1012 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 5.18 Unghiul vântului = 276 Stare = nori 10-25%']
+Campulung_Moldovenesc: 40 \ luni \ 03:10:2022 \ 19:17:43
+[' Răsarit = 07:18:56 Apus = 18:54:33 Min (°C) = 6.33 Max (°C) =12.93 Presiune = 1012 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.17 Unghiul vântului = 261 Stare = nori 85-100%']
+Campulung_Moldovenesc: 40 \ marți \ 04:10:2022 \ 19:17:29
+[' Răsarit = 07:20:18 Apus = 18:52:32 Min (°C) = 4.06 Max (°C) =10.88 Presiune = 1022 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 258 Stare = nori 85-100%']
+Campulung_Moldovenesc: 40 \ miercuri \ 05:10:2022 \ 19:17:23
+[' Răsarit = 07:21:41 Apus = 18:50:31 Min (°C) = 2.92 Max (°C) =14.38 Presiune = 1028 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 247 Stare = nori 85-100%']
+Campulung_Moldovenesc: 40 \ joi \ 06:10:2022 \ 19:17:13
+[' Răsarit = 07:23:04 Apus = 18:48:31 Min (°C) = 5.6 Max (°C) =18.97 Presiune = 1028 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.19 Unghiul vântului = 44 Stare = nori 85-100%']
+Campulung_Moldovenesc: 40 \ vineri \ 07:10:2022 \ 19:17:04
+[' Răsarit = 07:24:28 Apus = 18:46:31 Min (°C) = 8.4 Max (°C) =13.95 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 82 Stare = nori 85-100%']
+Campulung_Moldovenesc: 40 \ sâmbătă \ 08:10:2022 \ 19:19:20
+[' Răsarit = 07:25:52 Apus = 18:44:32 Min (°C) = 6.89 Max (°C) =19.79 Presiune = 1019 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 140 Stare = nori 50-85%']
+Campulung_Moldovenesc: 40 \ duminică \ 09:10:2022 \ 19:21:39
+[' Răsarit = 07:27:16 Apus = 18:42:34 Min (°C) = 8.56 Max (°C) =14.91 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 31 Stare = nori 85-100%']
+Campulung_Moldovenesc: 41 \ luni \ 10:10:2022 \ 19:17:35
+[' Răsarit = 07:28:40 Apus = 18:40:36 Min (°C) = 2.87 Max (°C) =14.15 Presiune = 1027 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 99 Stare = cer senin']
+Campulung_Moldovenesc: 41 \ marți \ 11:10:2022 \ 19:19:37
+[' Răsarit = 07:30:05 Apus = 18:38:39 Min (°C) = 4.13 Max (°C) =17.64 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 57 Stare = nori 85-100%']
+Campulung_Moldovenesc: 41 \ miercuri \ 12:10:2022 \ 19:21:52
+[' Răsarit = 07:31:30 Apus = 18:36:43 Min (°C) = 5.82 Max (°C) =13.38 Presiune = 1025 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 76 Stare = nori 85-100%']
+Campulung_Moldovenesc: 41 \ joi \ 13:10:2022 \ 19:22:08
+[' Răsarit = 07:32:56 Apus = 18:34:48 Min (°C) = 8.74 Max (°C) =10.48 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 81 Stare = nori 85-100%']
+Campulung_Moldovenesc: 41 \ vineri \ 14:10:2022 \ 19:21:17
+[' Răsarit = 07:34:22 Apus = 18:32:53 Min (°C) = 6.82 Max (°C) =11.48 Presiune = 1020 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 94 Stare = nori 50-85%']
+Campulung_Moldovenesc: 41 \ sâmbătă \ 15:10:2022 \ 19:19:50
+[' Răsarit = 07:35:48 Apus = 18:30:59 Min (°C) = 4.58 Max (°C) =15.67 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 127 Stare = nori 25-50%']
+Campulung_Moldovenesc: 41 \ duminică \ 16:10:2022 \ 19:20:40
+[' Răsarit = 07:37:15 Apus = 18:29:06 Min (°C) = 4.54 Max (°C) =16.07 Presiune = 1028 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 127 Stare = nori 10-25%']
+Campulung_Moldovenesc: 42 \ luni \ 17:10:2022 \ 19:19:27
+[' Răsarit = 07:38:42 Apus = 18:27:14 Min (°C) = 6.2 Max (°C) =18.89 Presiune = 1032 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 167 Stare = cer senin']
+Campulung_Moldovenesc: 42 \ marți \ 18:10:2022 \ 19:19:47
+[' Răsarit = 07:40:09 Apus = 18:25:23 Min (°C) = 8.28 Max (°C) =21.14 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 240 Stare = nori 85-100%']
+Campulung_Moldovenesc: 42 \ miercuri \ 19:10:2022 \ 19:16:10
+[' Răsarit = 07:41:37 Apus = 18:23:32 Min (°C) = 7.5 Max (°C) =13.1 Presiune = 1018 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 356 Stare = nori 50-85%']
+Campulung_Moldovenesc: 42 \ joi \ 20:10:2022 \ 19:19:34
+[' Răsarit = 07:43:05 Apus = 18:21:43 Min (°C) = 1.05 Max (°C) =8.58 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 355 Stare = nori 10-25%']
+Campulung_Moldovenesc: 42 \ vineri \ 21:10:2022 \ 19:22:17
+[' Răsarit = 07:44:33 Apus = 18:19:55 Min (°C) = -0.03 Max (°C) =15.15 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 225 Stare = nori 25-50%']
+Campulung_Moldovenesc: 42 \ sâmbătă \ 22:10:2022 \ 19:20:07
+[' Răsarit = 07:46:02 Apus = 18:18:08 Min (°C) = 5.11 Max (°C) =17.28 Presiune = 1016 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 233 Stare = ploaie ușoară']
+Campulung_Moldovenesc: 42 \ duminică \ 23:10:2022 \ 19:20:12
+[' Răsarit = 07:47:31 Apus = 18:16:22 Min (°C) = 7.19 Max (°C) =13.82 Presiune = 1022 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 243 Stare = nori 25-50%']
+Campulung_Moldovenesc: 43 \ luni \ 24:10:2022 \ 19:16:53
+[' Răsarit = 07:49:00 Apus = 18:14:37 Min (°C) = 5.47 Max (°C) =16.37 Presiune = 1019 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 234 Stare = nori 85-100%']
+Campulung_Moldovenesc: 43 \ marți \ 25:10:2022 \ 19:22:26
+[' Răsarit = 07:50:30 Apus = 18:12:54 Min (°C) = 10.33 Max (°C) =16.46 Presiune = 1017 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 262 Stare = nori 85-100%']
+Campulung_Moldovenesc: 43 \ miercuri \ 26:10:2022 \ 19:21:18
+[' Răsarit = 07:52:00 Apus = 18:11:11 Min (°C) = 7.35 Max (°C) =14.2 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 240 Stare = nori 50-85%']
+Campulung_Moldovenesc: 43 \ joi \ 27:10:2022 \ 19:17:59
+[' Răsarit = 07:53:30 Apus = 18:09:30 Min (°C) = 5.25 Max (°C) =14.97 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 205 Stare = nori 10-25%']
+Campulung_Moldovenesc: 43 \ vineri \ 28:10:2022 \ 19:17:13
+[' Răsarit = 07:55:01 Apus = 18:07:51 Min (°C) = 5.43 Max (°C) =15.97 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 235 Stare = nori 85-100%']
+Campulung_Moldovenesc: 43 \ sâmbătă \ 29:10:2022 \ 19:19:50
+[' Răsarit = 07:56:31 Apus = 18:06:12 Min (°C) = 6.35 Max (°C) =18.89 Presiune = 1023 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 242 Stare = nori 85-100%']
+Campulung_Moldovenesc: 43 \ duminică \ 30:10:2022 \ 19:21:51
+[' Răsarit = 06:58:02 Apus = 17:04:35 Min (°C) = 8.52 Max (°C) =15.12 Presiune = 1021 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 258 Stare = nori 85-100%']
+Campulung_Moldovenesc: 44 \ luni \ 31:10:2022 \ 19:23:15
+[' Răsarit = 06:59:33 Apus = 17:03:00 Min (°C) = 8.08 Max (°C) =18.88 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 232 Stare = cer senin']
+Campulung_Moldovenesc: 44 \ marți \ 01:11:2022 \ 19:20:47
+[' Răsarit = 07:01:05 Apus = 17:01:26 Min (°C) = 7.92 Max (°C) =20.17 Presiune = 1021 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 235 Stare = nori 85-100%']
+Campulung_Moldovenesc: 44 \ miercuri \ 02:11:2022 \ 19:21:30
+[' Răsarit = 07:02:36 Apus = 16:59:53 Min (°C) = 7.83 Max (°C) =16.9 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 273 Stare = nori 85-100%']

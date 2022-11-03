@@ -1150,3 +1150,121 @@ Fierbinti_Targ: 35 \ sâmbătă \ 03:9:2022 \ 19:12:49
 [' Răsarit = 06:39:03 Apus = 19:49:13 Min (°C) = 13.22 Max (°C) =16.36 Presiune = 1019 Umiditate (%) = 80 Index UV = 0.11 Viteza vântului = 4.23 Unghiul vântului = 66 Stare = nori 85-100%']
 Fierbinti_Targ: 35 \ duminică \ 04:9:2022 \ 19:12:34
 [' Răsarit = 06:40:13 Apus = 19:47:23 Min (°C) = 13.24 Max (°C) =19.93 Presiune = 1022 Umiditate (%) = 56 Index UV = 0.07 Viteza vântului = 2.02 Unghiul vântului = 71 Stare = nori 25-50%']
+Fierbinti_Targ: 36 \ luni \ 05:9:2022 \ 19:13:14
+[' Răsarit = 06:41:23 Apus = 19:45:33 Min (°C) = 13.16 Max (°C) =22.97 Presiune = 1023 Umiditate (%) = 50 Index UV = 0.03 Viteza vântului = 3.29 Unghiul vântului = 46 Stare = nori 50-85%']
+Fierbinti_Targ: 36 \ marți \ 06:9:2022 \ 19:13:12
+[' Răsarit = 06:42:33 Apus = 19:43:42 Min (°C) = 16.96 Max (°C) =24 Presiune = 1020 Umiditate (%) = 47 Index UV = 0.05 Viteza vântului = 3.54 Unghiul vântului = 109 Stare = nori 10-25%']
+Fierbinti_Targ: 36 \ miercuri \ 07:9:2022 \ 19:13:16
+[' Răsarit = 06:43:43 Apus = 19:41:50 Min (°C) = 14.39 Max (°C) =25.72 Presiune = 1018 Umiditate (%) = 40 Index UV = 0.14 Viteza vântului = 1.57 Unghiul vântului = 181 Stare = nori 25-50%']
+Fierbinti_Targ: 36 \ joi \ 08:9:2022 \ 19:12:22
+[' Răsarit = 06:44:53 Apus = 19:39:59 Min (°C) = 16.03 Max (°C) =28.15 Presiune = 1015 Umiditate (%) = 35 Index UV = 0.13 Viteza vântului = 2.66 Unghiul vântului = 187 Stare = cer senin']
+Fierbinti_Targ: 36 \ vineri \ 09:9:2022 \ 19:12:20
+[' Răsarit = 06:46:03 Apus = 19:38:06 Min (°C) = 16.78 Max (°C) =28.68 Presiune = 1013 Umiditate (%) = 38 Index UV = 0.02 Viteza vântului = 1.73 Unghiul vântului = 21 Stare = nori 85-100%']
+Fierbinti_Targ: 36 \ sâmbătă \ 10:9:2022 \ 19:11:54
+[' Răsarit = 06:47:13 Apus = 19:36:14 Min (°C) = 19.08 Max (°C) =29.41 Presiune = 1009 Umiditate (%) = 52 Index UV = 0.11 Viteza vântului = 3.09 Unghiul vântului = 221 Stare = nori 25-50%']
+Fierbinti_Targ: 36 \ duminică \ 11:9:2022 \ 19:12:08
+[' Răsarit = 06:48:22 Apus = 19:34:21 Min (°C) = 17.91 Max (°C) =27.52 Presiune = 1009 Umiditate (%) = 45 Index UV = 0.07 Viteza vântului = 4.37 Unghiul vântului = 17 Stare = nori 50-85%']
+Fierbinti_Targ: 37 \ luni \ 12:9:2022 \ 19:12:55
+[' Răsarit = 06:49:32 Apus = 19:32:28 Min (°C) = 15.98 Max (°C) =25.14 Presiune = 1010 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 47 Stare = nori 85-100%']
+Fierbinti_Targ: 37 \ marți \ 13:9:2022 \ 19:12:57
+[' Răsarit = 06:50:42 Apus = 19:30:34 Min (°C) = 11.64 Max (°C) =22.74 Presiune = 1011 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 3.95 Unghiul vântului = 74 Stare = nori 50-85%']
+Fierbinti_Targ: 37 \ miercuri \ 14:9:2022 \ 19:13:04
+[' Răsarit = 06:51:52 Apus = 19:28:41 Min (°C) = 12.23 Max (°C) =25.62 Presiune = 1010 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 234 Stare = nori 10-25%']
+Fierbinti_Targ: 37 \ joi \ 15:9:2022 \ 19:13:41
+[' Răsarit = 06:53:01 Apus = 19:26:47 Min (°C) = 17.49 Max (°C) =32.47 Presiune = 1005 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 270 Stare = nori 25-50%']
+Fierbinti_Targ: 37 \ vineri \ 16:9:2022 \ 19:13:09
+[' Răsarit = 06:54:11 Apus = 19:24:53 Min (°C) = 21.78 Max (°C) =31.05 Presiune = 1004 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 6.06 Unghiul vântului = 263 Stare = nori 50-85%']
+Fierbinti_Targ: 37 \ sâmbătă \ 17:9:2022 \ 19:12:57
+[' Răsarit = 06:55:21 Apus = 19:22:58 Min (°C) = 18.32 Max (°C) =27.27 Presiune = 1000 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.89 Unghiul vântului = 280 Stare = nori 85-100%']
+Fierbinti_Targ: 37 \ duminică \ 18:9:2022 \ 19:13:17
+[' Răsarit = 06:56:31 Apus = 19:21:04 Min (°C) = 14.06 Max (°C) =21.56 Presiune = 1009 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 6.39 Unghiul vântului = 275 Stare = cer senin']
+Fierbinti_Targ: 38 \ luni \ 19:9:2022 \ 19:13:25
+[' Răsarit = 06:57:41 Apus = 19:19:10 Min (°C) = 9.33 Max (°C) =20.85 Presiune = 1012 Umiditate (%) = 31 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 252 Stare = nori 25-50%']
+Fierbinti_Targ: 38 \ marți \ 20:9:2022 \ 19:12:57
+[' Răsarit = 06:58:51 Apus = 19:17:15 Min (°C) = 9.77 Max (°C) =18.75 Presiune = 1014 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 353 Stare = nori 25-50%']
+Fierbinti_Targ: 38 \ miercuri \ 21:9:2022 \ 19:12:52
+[' Răsarit = 07:00:01 Apus = 19:15:21 Min (°C) = 9.47 Max (°C) =18.34 Presiune = 1016 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 349 Stare = nori 85-100%']
+Fierbinti_Targ: 38 \ joi \ 22:9:2022 \ 19:12:55
+[' Răsarit = 07:01:12 Apus = 19:13:26 Min (°C) = 9.87 Max (°C) =17.21 Presiune = 1017 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 26 Stare = nori 85-100%']
+Fierbinti_Targ: 38 \ vineri \ 23:9:2022 \ 19:13:24
+[' Răsarit = 07:02:22 Apus = 19:11:32 Min (°C) = 10.75 Max (°C) =16.69 Presiune = 1017 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 255 Stare = nori 50-85%']
+Fierbinti_Targ: 38 \ sâmbătă \ 24:9:2022 \ 19:13:46
+[' Răsarit = 07:03:33 Apus = 19:09:38 Min (°C) = 8.69 Max (°C) =18.7 Presiune = 1018 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 250 Stare = nori 85-100%']
+Fierbinti_Targ: 38 \ duminică \ 25:9:2022 \ 19:58:39
+[' Răsarit = 07:04:44 Apus = 19:07:44 Min (°C) = 10.17 Max (°C) =23.26 Presiune = 1015 Umiditate (%) = 30 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 283 Stare = nori 50-85%']
+Fierbinti_Targ: 39 \ luni \ 26:9:2022 \ 19:12:59
+[' Răsarit = 07:05:54 Apus = 19:05:50 Min (°C) = 15 Max (°C) =24.4 Presiune = 1008 Umiditate (%) = 34 Index UV = 0 Viteza vântului = 2.9 Unghiul vântului = 293 Stare = nori 85-100%']
+Fierbinti_Targ: 39 \ marți \ 27:9:2022 \ 19:12:53
+[' Răsarit = 07:07:06 Apus = 19:03:56 Min (°C) = 17.13 Max (°C) =22.97 Presiune = 1000 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 219 Stare = nori 85-100%']
+Fierbinti_Targ: 39 \ miercuri \ 28:9:2022 \ 19:13:02
+[' Răsarit = 07:08:17 Apus = 19:02:03 Min (°C) = 14.18 Max (°C) =24.76 Presiune = 1004 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 253 Stare = cer senin']
+Fierbinti_Targ: 39 \ joi \ 29:9:2022 \ 19:13:14
+[' Răsarit = 07:09:29 Apus = 19:00:09 Min (°C) = 16.33 Max (°C) =25.64 Presiune = 1006 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 273 Stare = nori 50-85%']
+Fierbinti_Targ: 39 \ vineri \ 30:9:2022 \ 19:13:36
+[' Răsarit = 07:10:40 Apus = 18:58:16 Min (°C) = 16.4 Max (°C) =27.56 Presiune = 1014 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 271 Stare = cer senin']
+Fierbinti_Targ: 39 \ sâmbătă \ 01:10:2022 \ 19:14:00
+[' Răsarit = 07:11:52 Apus = 18:56:24 Min (°C) = 17.77 Max (°C) =29.58 Presiune = 1012 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 248 Stare = nori 85-100%']
+Fierbinti_Targ: 39 \ duminică \ 02:10:2022 \ 19:13:10
+[' Răsarit = 07:13:05 Apus = 18:54:32 Min (°C) = 16.07 Max (°C) =22.09 Presiune = 1013 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 347 Stare = nori 10-25%']
+Fierbinti_Targ: 40 \ luni \ 03:10:2022 \ 19:11:43
+[' Răsarit = 07:14:17 Apus = 18:52:40 Min (°C) = 12.62 Max (°C) =20.26 Presiune = 1012 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 34 Stare = nori 50-85%']
+Fierbinti_Targ: 40 \ marți \ 04:10:2022 \ 19:11:18
+[' Răsarit = 07:15:30 Apus = 18:50:48 Min (°C) = 11.11 Max (°C) =17.93 Presiune = 1020 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 164 Stare = nori 85-100%']
+Fierbinti_Targ: 40 \ miercuri \ 05:10:2022 \ 19:11:14
+[' Răsarit = 07:16:43 Apus = 18:48:57 Min (°C) = 10.15 Max (°C) =18.89 Presiune = 1028 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 222 Stare = nori 50-85%']
+Fierbinti_Targ: 40 \ joi \ 06:10:2022 \ 19:11:10
+[' Răsarit = 07:17:57 Apus = 18:47:07 Min (°C) = 11.59 Max (°C) =20.62 Presiune = 1026 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 198 Stare = nori 85-100%']
+Fierbinti_Targ: 40 \ vineri \ 07:10:2022 \ 19:11:04
+[' Răsarit = 07:19:11 Apus = 18:45:17 Min (°C) = 11.8 Max (°C) =22.33 Presiune = 1025 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 6.44 Unghiul vântului = 31 Stare = nori 50-85%']
+Fierbinti_Targ: 40 \ sâmbătă \ 08:10:2022 \ 19:13:14
+[' Răsarit = 07:20:25 Apus = 18:43:28 Min (°C) = 14.05 Max (°C) =21.46 Presiune = 1019 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 112 Stare = nori 10-25%']
+Fierbinti_Targ: 40 \ duminică \ 09:10:2022 \ 19:15:31
+[' Răsarit = 07:21:39 Apus = 18:41:39 Min (°C) = 12.87 Max (°C) =21.94 Presiune = 1021 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 75 Stare = nori 25-50%']
+Fierbinti_Targ: 41 \ luni \ 10:10:2022 \ 19:11:30
+[' Răsarit = 07:22:54 Apus = 18:39:51 Min (°C) = 13.89 Max (°C) =18.85 Presiune = 1025 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 94 Stare = nori 85-100%']
+Fierbinti_Targ: 41 \ marți \ 11:10:2022 \ 19:13:30
+[' Răsarit = 07:24:09 Apus = 18:38:04 Min (°C) = 9.71 Max (°C) =19.06 Presiune = 1022 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 50 Stare = nori 85-100%']
+Fierbinti_Targ: 41 \ miercuri \ 12:10:2022 \ 19:11:22
+[' Răsarit = 07:25:24 Apus = 18:36:17 Min (°C) = 12.6 Max (°C) =20.02 Presiune = 1024 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 69 Stare = nori 50-85%']
+Fierbinti_Targ: 41 \ joi \ 13:10:2022 \ 19:16:02
+[' Răsarit = 07:26:40 Apus = 18:34:31 Min (°C) = 10.97 Max (°C) =19.32 Presiune = 1022 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 4.17 Unghiul vântului = 59 Stare = nori 85-100%']
+Fierbinti_Targ: 41 \ vineri \ 14:10:2022 \ 19:10:51
+[' Răsarit = 07:27:57 Apus = 18:32:46 Min (°C) = 10.1 Max (°C) =17.26 Presiune = 1021 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 4.87 Unghiul vântului = 75 Stare = nori 85-100%']
+Fierbinti_Targ: 41 \ sâmbătă \ 15:10:2022 \ 19:11:26
+[' Răsarit = 07:29:13 Apus = 18:31:02 Min (°C) = 8.41 Max (°C) =16.83 Presiune = 1022 Umiditate (%) = 47 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 56 Stare = cer senin']
+Fierbinti_Targ: 41 \ duminică \ 16:10:2022 \ 19:13:24
+[' Răsarit = 07:30:30 Apus = 18:29:19 Min (°C) = 6.88 Max (°C) =16.55 Presiune = 1028 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 64 Stare = cer senin']
+Fierbinti_Targ: 42 \ luni \ 17:10:2022 \ 19:11:14
+[' Răsarit = 07:31:47 Apus = 18:27:36 Min (°C) = 6.89 Max (°C) =17.69 Presiune = 1033 Umiditate (%) = 33 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 105 Stare = cer senin']
+Fierbinti_Targ: 42 \ marți \ 18:10:2022 \ 19:13:39
+[' Răsarit = 07:33:05 Apus = 18:25:55 Min (°C) = 7.68 Max (°C) =18.22 Presiune = 1026 Umiditate (%) = 32 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 209 Stare = cer senin']
+Fierbinti_Targ: 42 \ miercuri \ 19:10:2022 \ 19:10:27
+[' Răsarit = 07:34:23 Apus = 18:24:14 Min (°C) = 8.68 Max (°C) =20.19 Presiune = 1016 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 261 Stare = cer senin']
+Fierbinti_Targ: 42 \ joi \ 20:10:2022 \ 19:13:26
+[' Răsarit = 07:35:41 Apus = 18:22:35 Min (°C) = 9.76 Max (°C) =14.17 Presiune = 1025 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 173 Stare = nori 10-25%']
+Fierbinti_Targ: 42 \ vineri \ 21:10:2022 \ 19:16:05
+[' Răsarit = 07:37:00 Apus = 18:20:56 Min (°C) = 3.88 Max (°C) =13.46 Presiune = 1025 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 156 Stare = cer senin']
+Fierbinti_Targ: 42 \ sâmbătă \ 22:10:2022 \ 19:13:40
+[' Răsarit = 07:38:19 Apus = 18:19:19 Min (°C) = 7.33 Max (°C) =17.87 Presiune = 1018 Umiditate (%) = 39 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 213 Stare = nori 25-50%']
+Fierbinti_Targ: 42 \ duminică \ 23:10:2022 \ 19:11:29
+[' Răsarit = 07:39:39 Apus = 18:17:42 Min (°C) = 13.61 Max (°C) =22.87 Presiune = 1020 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 71 Stare = cer senin']
+Fierbinti_Targ: 43 \ luni \ 24:10:2022 \ 19:10:55
+[' Răsarit = 07:40:59 Apus = 18:16:07 Min (°C) = 11.05 Max (°C) =21.17 Presiune = 1020 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.39 Unghiul vântului = 222 Stare = nori 10-25%']
+Fierbinti_Targ: 43 \ marți \ 25:10:2022 \ 19:14:36
+[' Răsarit = 07:42:19 Apus = 18:14:33 Min (°C) = 13.34 Max (°C) =24.43 Presiune = 1014 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 318 Stare = nori 85-100%']
+Fierbinti_Targ: 43 \ miercuri \ 26:10:2022 \ 19:13:13
+[' Răsarit = 07:43:39 Apus = 18:13:00 Min (°C) = 15.03 Max (°C) =20.36 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 223 Stare = nori 10-25%']
+Fierbinti_Targ: 43 \ joi \ 27:10:2022 \ 19:11:46
+[' Răsarit = 07:45:00 Apus = 18:11:29 Min (°C) = 11.83 Max (°C) =20.32 Presiune = 1028 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 185 Stare = cer senin']
+Fierbinti_Targ: 43 \ vineri \ 28:10:2022 \ 19:11:10
+[' Răsarit = 07:46:21 Apus = 18:09:59 Min (°C) = 10.01 Max (°C) =19.42 Presiune = 1028 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 197 Stare = cer senin']
+Fierbinti_Targ: 43 \ sâmbătă \ 29:10:2022 \ 19:13:42
+[' Răsarit = 07:47:42 Apus = 18:08:30 Min (°C) = 10.78 Max (°C) =20.29 Presiune = 1023 Umiditate (%) = 41 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 214 Stare = cer senin']
+Fierbinti_Targ: 43 \ duminică \ 30:10:2022 \ 19:11:22
+[' Răsarit = 06:49:04 Apus = 17:07:02 Min (°C) = 12.11 Max (°C) =22.3 Presiune = 1019 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 74 Stare = nori 85-100%']
+Fierbinti_Targ: 44 \ luni \ 31:10:2022 \ 19:14:30
+[' Răsarit = 06:50:26 Apus = 17:05:36 Min (°C) = 12.18 Max (°C) =22.18 Presiune = 1021 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 44 Stare = cer senin']
+Fierbinti_Targ: 44 \ marți \ 01:11:2022 \ 19:12:04
+[' Răsarit = 06:51:48 Apus = 17:04:11 Min (°C) = 10.61 Max (°C) =20.42 Presiune = 1021 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 227 Stare = cer senin']
+Fierbinti_Targ: 44 \ miercuri \ 02:11:2022 \ 19:12:41
+[' Răsarit = 06:53:10 Apus = 17:02:48 Min (°C) = 12.75 Max (°C) =23.57 Presiune = 1018 Umiditate (%) = 42 Index UV = 0 Viteza vântului = 3.49 Unghiul vântului = 79 Stare = nori 10-25%']
