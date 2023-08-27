@@ -1270,3 +1270,169 @@ Boldesti_Scaeni: 44 \ marți \ 01:11:2022 \ 19:16:18
 [' Răsarit = 06:53:55 Apus = 17:04:55 Min (°C) = 10.55 Max (°C) =19.77 Presiune = 1021 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 275 Stare = nori 10-25%']
 Boldesti_Scaeni: 44 \ miercuri \ 02:11:2022 \ 19:16:59
 [' Răsarit = 06:55:18 Apus = 17:03:30 Min (°C) = 13.31 Max (°C) =23.06 Presiune = 1018 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 19 Stare = nori 25-50%']
+Boldesti_Scaeni: 44 \ joi \ 03:11:2022 \ 19:17:55
+[' Răsarit = 06:56:41 Apus = 17:02:08 Min (°C) = 11.37 Max (°C) =18.01 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 200 Stare = nori 50-85%']
+Boldesti_Scaeni: 44 \ vineri \ 04:11:2022 \ 19:20:38
+[' Răsarit = 06:58:05 Apus = 17:00:46 Min (°C) = 8.09 Max (°C) =16.32 Presiune = 1012 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 352 Stare = nori 85-100%']
+Boldesti_Scaeni: 44 \ sâmbătă \ 05:11:2022 \ 19:21:53
+[' Răsarit = 06:59:28 Apus = 16:59:27 Min (°C) = 9.56 Max (°C) =18.08 Presiune = 1014 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 4.83 Unghiul vântului = 54 Stare = nori 85-100%']
+Boldesti_Scaeni: 44 \ duminică \ 06:11:2022 \ 19:15:18
+[' Răsarit = 07:00:52 Apus = 16:58:09 Min (°C) = 12.03 Max (°C) =15.95 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 73 Stare = nori 85-100%']
+Boldesti_Scaeni: 45 \ luni \ 07:11:2022 \ 19:15:15
+[' Răsarit = 07:02:16 Apus = 16:56:52 Min (°C) = 10.26 Max (°C) =16.05 Presiune = 1021 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 254 Stare = cer senin']
+Boldesti_Scaeni: 45 \ marți \ 08:11:2022 \ 19:15:19
+[' Răsarit = 07:03:39 Apus = 16:55:38 Min (°C) = 8.57 Max (°C) =15.07 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 80 Stare = nori 85-100%']
+Boldesti_Scaeni: 45 \ miercuri \ 09:11:2022 \ 19:17:29
+[' Răsarit = 07:05:03 Apus = 16:54:25 Min (°C) = 7.86 Max (°C) =15.73 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.49 Unghiul vântului = 70 Stare = cer senin']
+Boldesti_Scaeni: 45 \ joi \ 10:11:2022 \ 19:18:20
+[' Răsarit = 07:06:26 Apus = 16:53:14 Min (°C) = 7.67 Max (°C) =16.59 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 272 Stare = cer senin']
+Boldesti_Scaeni: 45 \ vineri \ 11:11:2022 \ 19:17:18
+[' Răsarit = 07:07:50 Apus = 16:52:04 Min (°C) = 8.89 Max (°C) =11.97 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 230 Stare = nori 85-100%']
+Boldesti_Scaeni: 45 \ sâmbătă \ 12:11:2022 \ 19:15:25
+[' Răsarit = 07:09:13 Apus = 16:50:57 Min (°C) = 6.86 Max (°C) =13.64 Presiune = 1033 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 274 Stare = nori 25-50%']
+Boldesti_Scaeni: 45 \ duminică \ 13:11:2022 \ 19:21:41
+[' Răsarit = 07:10:36 Apus = 16:49:51 Min (°C) = 6.61 Max (°C) =15.23 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 304 Stare = nori 10-25%']
+Boldesti_Scaeni: 46 \ luni \ 14:11:2022 \ 19:17:18
+[' Răsarit = 07:11:58 Apus = 16:48:48 Min (°C) = 6.08 Max (°C) =12.1 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 347 Stare = nori 85-100%']
+Boldesti_Scaeni: 46 \ marți \ 15:11:2022 \ 19:16:00
+[' Răsarit = 07:13:21 Apus = 16:47:46 Min (°C) = 4.24 Max (°C) =11.07 Presiune = 1016 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 237 Stare = nori 85-100%']
+Boldesti_Scaeni: 46 \ miercuri \ 16:11:2022 \ 19:15:07
+[' Răsarit = 07:14:43 Apus = 16:46:46 Min (°C) = 5.56 Max (°C) =15.62 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 265 Stare = nori 10-25%']
+Boldesti_Scaeni: 46 \ joi \ 17:11:2022 \ 19:15:23
+[' Răsarit = 07:16:04 Apus = 16:45:49 Min (°C) = 8.85 Max (°C) =10.69 Presiune = 1000 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 4 Stare = nori 50-85%']
+Boldesti_Scaeni: 46 \ vineri \ 18:11:2022 \ 19:17:46
+[' Răsarit = 07:17:26 Apus = 16:44:53 Min (°C) = 5.8 Max (°C) =10.57 Presiune = 1001 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 340 Stare = nori 85-100%']
+Boldesti_Scaeni: 46 \ sâmbătă \ 19:11:2022 \ 19:19:28
+[' Răsarit = 07:18:46 Apus = 16:43:59 Min (°C) = 8.1 Max (°C) =13.31 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 78 Stare = ploaie ușoară']
+Boldesti_Scaeni: 46 \ duminică \ 20:11:2022 \ 19:15:18
+[' Răsarit = 07:20:06 Apus = 16:43:08 Min (°C) = 7.98 Max (°C) =9.64 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 227 Stare = nori 85-100%']
+Boldesti_Scaeni: 47 \ luni \ 21:11:2022 \ 19:17:48
+[' Răsarit = 07:21:26 Apus = 16:42:19 Min (°C) = 5.88 Max (°C) =9.68 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 272 Stare = nori 85-100%']
+Boldesti_Scaeni: 47 \ marți \ 22:11:2022 \ 19:18:23
+[' Răsarit = 07:22:44 Apus = 16:41:32 Min (°C) = 4.7 Max (°C) =9.6 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 100 Stare = nori 85-100%']
+Boldesti_Scaeni: 47 \ miercuri \ 23:11:2022 \ 19:19:52
+[' Răsarit = 07:24:02 Apus = 16:40:47 Min (°C) = 6.26 Max (°C) =10.33 Presiune = 1003 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 257 Stare = nori 85-100%']
+Boldesti_Scaeni: 47 \ joi \ 24:11:2022 \ 19:19:35
+[' Răsarit = 07:25:19 Apus = 16:40:05 Min (°C) = 5.94 Max (°C) =12.33 Presiune = 1008 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 251 Stare = nori 50-85%']
+Boldesti_Scaeni: 47 \ vineri \ 25:11:2022 \ 19:18:33
+[' Răsarit = 07:26:35 Apus = 16:39:25 Min (°C) = 4.28 Max (°C) =9.73 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 355 Stare = nori 25-50%']
+Boldesti_Scaeni: 47 \ sâmbătă \ 26:11:2022 \ 19:15:01
+[' Răsarit = 07:27:51 Apus = 16:38:47 Min (°C) = 1.91 Max (°C) =8.25 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 359 Stare = cer senin']
+Boldesti_Scaeni: 47 \ duminică \ 27:11:2022 \ 19:18:40
+[' Răsarit = 07:29:05 Apus = 16:38:11 Min (°C) = 2.7 Max (°C) =6.99 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 92 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ luni \ 28:11:2022 \ 19:15:17
+[' Răsarit = 07:30:18 Apus = 16:37:38 Min (°C) = 3.43 Max (°C) =5.94 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 75 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ marți \ 29:11:2022 \ 19:15:03
+[' Răsarit = 07:31:30 Apus = 16:37:08 Min (°C) = 2.21 Max (°C) =7.33 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 93 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ miercuri \ 30:11:2022 \ 19:17:26
+[' Răsarit = 07:32:41 Apus = 16:36:39 Min (°C) = 2.95 Max (°C) =6.74 Presiune = 1025 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 80 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ joi \ 01:12:2022 \ 19:15:09
+[' Răsarit = 07:33:51 Apus = 16:36:14 Min (°C) = 1.13 Max (°C) =3.72 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 43 Stare = zăpadă slabă']
+Boldesti_Scaeni: 48 \ vineri \ 02:12:2022 \ 19:16:14
+[' Răsarit = 07:34:59 Apus = 16:35:50 Min (°C) = 2.27 Max (°C) =3.22 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 218 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ sâmbătă \ 03:12:2022 \ 19:17:17
+[' Răsarit = 07:36:06 Apus = 16:35:30 Min (°C) = 2.33 Max (°C) =4.7 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 95 Stare = nori 85-100%']
+Boldesti_Scaeni: 48 \ duminică \ 04:12:2022 \ 19:18:12
+[' Răsarit = 07:37:11 Apus = 16:35:11 Min (°C) = 2.53 Max (°C) =3.72 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.9 Unghiul vântului = 58 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ luni \ 05:12:2022 \ 19:19:55
+[' Răsarit = 07:38:15 Apus = 16:34:56 Min (°C) = 2.29 Max (°C) =3.39 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 76 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ marți \ 06:12:2022 \ 19:18:51
+[' Răsarit = 07:39:17 Apus = 16:34:43 Min (°C) = 3.15 Max (°C) =4.87 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 31 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ miercuri \ 07:12:2022 \ 19:16:08
+[' Răsarit = 07:40:18 Apus = 16:34:32 Min (°C) = 3.59 Max (°C) =8.22 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 239 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ joi \ 08:12:2022 \ 19:18:44
+[' Răsarit = 07:41:17 Apus = 16:34:24 Min (°C) = 5.22 Max (°C) =7.4 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 63 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ vineri \ 09:12:2022 \ 19:22:37
+[' Răsarit = 07:42:14 Apus = 16:34:19 Min (°C) = 4.33 Max (°C) =9.94 Presiune = 1012 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 261 Stare = nori 85-100%']
+Boldesti_Scaeni: 49 \ sâmbătă \ 10:12:2022 \ 19:16:01
+[' Răsarit = 07:43:10 Apus = 16:34:16 Min (°C) = 7.1 Max (°C) =12.07 Presiune = 1002 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 123 Stare = nori 50-85%']
+Boldesti_Scaeni: 49 \ duminică \ 11:12:2022 \ 19:18:29
+[' Răsarit = 07:44:03 Apus = 16:34:16 Min (°C) = 7.14 Max (°C) =14.09 Presiune = 995 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 5.3 Unghiul vântului = 248 Stare = ploaie ușoară']
+Boldesti_Scaeni: 50 \ luni \ 12:12:2022 \ 19:16:09
+[' Răsarit = 07:44:55 Apus = 16:34:18 Min (°C) = 3.29 Max (°C) =7.98 Presiune = 1006 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 262 Stare = nori 85-100%']
+Boldesti_Scaeni: 50 \ marți \ 13:12:2022 \ 19:15:40
+[' Răsarit = 07:45:44 Apus = 16:34:23 Min (°C) = -0.42 Max (°C) =3.18 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 276 Stare = cer senin']
+Boldesti_Scaeni: 50 \ miercuri \ 14:12:2022 \ 19:20:53
+[' Răsarit = 07:46:32 Apus = 16:34:31 Min (°C) = -1.9 Max (°C) =2.46 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 18 Stare = nori 85-100%']
+Boldesti_Scaeni: 50 \ joi \ 15:12:2022 \ 19:22:47
+[' Răsarit = 07:47:17 Apus = 16:34:41 Min (°C) = 1.7 Max (°C) =7.14 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 260 Stare = cer senin']
+Boldesti_Scaeni: 50 \ vineri \ 16:12:2022 \ 19:18:01
+[' Răsarit = 07:48:01 Apus = 16:34:54 Min (°C) = 3.46 Max (°C) =9.81 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 275 Stare = nori 10-25%']
+Boldesti_Scaeni: 50 \ sâmbătă \ 17:12:2022 \ 19:15:51
+[' Răsarit = 07:48:42 Apus = 16:35:10 Min (°C) = 7.64 Max (°C) =14.47 Presiune = 1016 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 255 Stare = nori 50-85%']
+Boldesti_Scaeni: 50 \ duminică \ 18:12:2022 \ 19:15:17
+[' Răsarit = 07:49:21 Apus = 16:35:28 Min (°C) = 1.01 Max (°C) =7.86 Presiune = 1035 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 101 Stare = nori 85-100%']
+Boldesti_Scaeni: 51 \ luni \ 19:12:2022 \ 19:20:03
+[' Răsarit = 07:49:57 Apus = 16:35:48 Min (°C) = -1.8 Max (°C) =1.34 Presiune = 1042 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 115 Stare = nori 10-25%']
+Boldesti_Scaeni: 51 \ marți \ 20:12:2022 \ 19:15:42
+[' Răsarit = 07:50:32 Apus = 16:36:12 Min (°C) = -2.96 Max (°C) =2.05 Presiune = 1031 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 238 Stare = nori 50-85%']
+Boldesti_Scaeni: 51 \ miercuri \ 21:12:2022 \ 19:15:32
+[' Răsarit = 07:51:04 Apus = 16:36:37 Min (°C) = -1.34 Max (°C) =5.57 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 261 Stare = cer senin']
+Boldesti_Scaeni: 51 \ joi \ 22:12:2022 \ 19:17:34
+[' Răsarit = 07:51:33 Apus = 16:37:05 Min (°C) = -0.23 Max (°C) =5.51 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 263 Stare = nori 85-100%']
+Boldesti_Scaeni: 51 \ vineri \ 23:12:2022 \ 19:17:25
+[' Răsarit = 07:52:00 Apus = 16:37:36 Min (°C) = 2.2 Max (°C) =8.17 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 323 Stare = cer senin']
+Boldesti_Scaeni: 51 \ sâmbătă \ 24:12:2022 \ 19:16:59
+[' Răsarit = 07:52:25 Apus = 16:38:09 Min (°C) = 4.2 Max (°C) =9.01 Presiune = 1012 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 316 Stare = nori 85-100%']
+Boldesti_Scaeni: 51 \ duminică \ 25:12:2022 \ 19:17:47
+[' Răsarit = 07:52:47 Apus = 16:38:45 Min (°C) = 5.43 Max (°C) =11.64 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 313 Stare = nori 10-25%']
+Boldesti_Scaeni: 52 \ luni \ 26:12:2022 \ 19:20:34
+[' Răsarit = 07:53:07 Apus = 16:39:22 Min (°C) = 2.83 Max (°C) =7.45 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 256 Stare = nori 85-100%']
+Boldesti_Scaeni: 52 \ marți \ 27:12:2022 \ 19:18:17
+[' Răsarit = 07:53:24 Apus = 16:40:03 Min (°C) = 4.31 Max (°C) =12.66 Presiune = 1020 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 352 Stare = nori 50-85%']
+Boldesti_Scaeni: 52 \ miercuri \ 28:12:2022 \ 19:18:20
+[' Răsarit = 07:53:39 Apus = 16:40:45 Min (°C) = 1.78 Max (°C) =5.59 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 310 Stare = nori 10-25%']
+Boldesti_Scaeni: 52 \ joi \ 29:12:2022 \ 19:20:40
+[' Răsarit = 07:53:51 Apus = 16:41:30 Min (°C) = 0.56 Max (°C) =8.5 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 259 Stare = cer senin']
+Boldesti_Scaeni: 52 \ vineri \ 30:12:2022 \ 19:15:10
+[' Răsarit = 07:54:01 Apus = 16:42:17 Min (°C) = 2.51 Max (°C) =10.14 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 332 Stare = nori 50-85%']
+Boldesti_Scaeni: 52 \ sâmbătă \ 31:12:2022 \ 19:19:15
+[' Răsarit = 07:54:08 Apus = 16:43:06 Min (°C) = 5.66 Max (°C) =12.09 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 296 Stare = nori 10-25%']
+Boldesti_Scaeni: 00 \ duminică \ 01:1:2023 \ 19:21:31
+[' Răsarit = 07:54:12 Apus = 16:43:57 Min (°C) = 7.17 Max (°C) =14.89 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 303 Stare = nori 10-25%']
+Boldesti_Scaeni: 01 \ luni \ 02:1:2023 \ 19:21:48
+[' Răsarit = 07:54:14 Apus = 16:44:50 Min (°C) = 8.49 Max (°C) =15.22 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 255 Stare = cer senin']
+Boldesti_Scaeni: 01 \ marți \ 03:1:2023 \ 19:22:04
+[' Răsarit = 07:54:14 Apus = 16:45:45 Min (°C) = 8.57 Max (°C) =14.7 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 45 Stare = nori 85-100%']
+Boldesti_Scaeni: 01 \ miercuri \ 04:1:2023 \ 19:18:56
+[' Răsarit = 07:54:11 Apus = 16:46:42 Min (°C) = 4.44 Max (°C) =8.28 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.15 Unghiul vântului = 233 Stare = nori 85-100%']
+Boldesti_Scaeni: 01 \ joi \ 05:1:2023 \ 19:20:34
+[' Răsarit = 07:54:05 Apus = 16:47:41 Min (°C) = 3.1 Max (°C) =10.15 Presiune = 1012 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 290 Stare = nori 85-100%']
+Boldesti_Scaeni: 01 \ vineri \ 06:1:2023 \ 19:25:55
+[' Răsarit = 07:53:57 Apus = 16:48:42 Min (°C) = 5.15 Max (°C) =10.08 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 346 Stare = nori 25-50%']
+Boldesti_Scaeni: 01 \ sâmbătă \ 07:1:2023 \ 19:16:44
+[' Răsarit = 07:53:46 Apus = 16:49:44 Min (°C) = 2.37 Max (°C) =8.05 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 64 Stare = nori 10-25%']
+Boldesti_Scaeni: 01 \ duminică \ 08:1:2023 \ 19:18:07
+[' Răsarit = 07:53:32 Apus = 16:50:49 Min (°C) = 1.9 Max (°C) =6.87 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 26 Stare = cer senin']
+Boldesti_Scaeni: 02 \ luni \ 09:1:2023 \ 19:18:10
+[' Răsarit = 07:53:16 Apus = 16:51:55 Min (°C) = 1.98 Max (°C) =6.77 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 37 Stare = nori 85-100%']
+Boldesti_Scaeni: 02 \ marți \ 10:1:2023 \ 19:15:38
+[' Răsarit = 07:52:58 Apus = 16:53:02 Min (°C) = 3.48 Max (°C) =8.22 Presiune = 1009 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 7.6 Unghiul vântului = 84 Stare = ploaie ușoară']
+Boldesti_Scaeni: 02 \ miercuri \ 11:1:2023 \ 19:17:55
+[' Răsarit = 07:52:37 Apus = 16:54:11 Min (°C) = 3.1 Max (°C) =7.78 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.95 Unghiul vântului = 50 Stare = nori 85-100%']
+Boldesti_Scaeni: 02 \ joi \ 12:1:2023 \ 19:16:59
+[' Răsarit = 07:52:13 Apus = 16:55:22 Min (°C) = 2.28 Max (°C) =4.2 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 190 Stare = nori 85-100%']
+Boldesti_Scaeni: 02 \ vineri \ 13:1:2023 \ 19:22:39
+[' Răsarit = 07:51:48 Apus = 16:56:33 Min (°C) = 2.38 Max (°C) =4.78 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 212 Stare = nori 85-100%']
+Boldesti_Scaeni: 02 \ sâmbătă \ 14:1:2023 \ 19:18:17
+[' Răsarit = 07:51:19 Apus = 16:57:47 Min (°C) = 2.8 Max (°C) =7.11 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 139 Stare = nori 85-100%']
+Boldesti_Scaeni: 02 \ duminică \ 15:1:2023 \ 19:19:16
+[' Răsarit = 07:50:49 Apus = 16:59:01 Min (°C) = 3.02 Max (°C) =5.87 Presiune = 1018 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 229 Stare = nori 25-50%']
+Boldesti_Scaeni: 03 \ luni \ 16:1:2023 \ 19:16:46
+[' Răsarit = 07:50:15 Apus = 17:00:16 Min (°C) = 1.12 Max (°C) =5.33 Presiune = 1007 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 12 Stare = nori 85-100%']
+Boldesti_Scaeni: 03 \ marți \ 17:1:2023 \ 19:18:58
+[' Răsarit = 07:49:40 Apus = 17:01:33 Min (°C) = 2.31 Max (°C) =8.2 Presiune = 1003 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 314 Stare = nori 50-85%']
+Boldesti_Scaeni: 03 \ miercuri \ 18:1:2023 \ 19:20:59
+[' Răsarit = 07:49:02 Apus = 17:02:51 Min (°C) = 5.1 Max (°C) =13.59 Presiune = 1005 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 278 Stare = nori 50-85%']
+Boldesti_Scaeni: 03 \ joi \ 19:1:2023 \ 19:16:14
+[' Răsarit = 07:48:22 Apus = 17:04:10 Min (°C) = 6.8 Max (°C) =14.44 Presiune = 1007 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 54 Stare = nori 25-50%']
+Boldesti_Scaeni: 03 \ vineri \ 20:1:2023 \ 19:16:03
+[' Răsarit = 07:47:40 Apus = 17:05:29 Min (°C) = 8.03 Max (°C) =12.96 Presiune = 1004 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 5.53 Unghiul vântului = 123 Stare = nori 85-100%']
+Boldesti_Scaeni: 03 \ sâmbătă \ 21:1:2023 \ 19:16:22
+[' Răsarit = 07:46:55 Apus = 17:06:50 Min (°C) = 2.24 Max (°C) =9.16 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 59 Stare = nori 50-85%']
+Boldesti_Scaeni: 04 \ luni \ 23:1:2023 \ 17:07:03
+[' Răsarit = 07:45:19 Apus = 17:09:33 Min (°C) = 2.82 Max (°C) =7.51 Presiune = 1030 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 4.4 Unghiul vântului = 96 Stare = nori 10-25%']
+Boldesti_Scaeni: 04 \ marți \ 24:1:2023 \ 20:05:53
+[' Răsarit = 07:44:28 Apus = 17:10:56 Min (°C) = 0.71 Max (°C) =3.39 Presiune = 1033 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 109 Stare = nori 85-100%']
+Boldesti_Scaeni: 04 \ miercuri \ 25:1:2023 \ 21:56:09
+[' Răsarit = 07:43:35 Apus = 17:12:20 Min (°C) = -1 Max (°C) =1.71 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 72 Stare = nori 85-100%']

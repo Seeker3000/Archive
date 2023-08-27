@@ -1270,3 +1270,169 @@ Brosteni: 44 \ marți \ 01:11:2022 \ 19:20:43
 [' Răsarit = 06:59:54 Apus = 17:01:33 Min (°C) = 8.78 Max (°C) =20.96 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 232 Stare = nori 50-85%']
 Brosteni: 44 \ miercuri \ 02:11:2022 \ 19:21:25
 [' Răsarit = 07:01:25 Apus = 17:00:02 Min (°C) = 8.58 Max (°C) =17.88 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 305 Stare = nori 85-100%']
+Brosteni: 44 \ joi \ 03:11:2022 \ 19:22:13
+[' Răsarit = 07:02:55 Apus = 16:58:32 Min (°C) = 5.32 Max (°C) =13.52 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 95 Stare = cer senin']
+Brosteni: 44 \ vineri \ 04:11:2022 \ 19:22:59
+[' Răsarit = 07:04:26 Apus = 16:57:03 Min (°C) = 2.75 Max (°C) =14.4 Presiune = 1013 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 222 Stare = nori 85-100%']
+Brosteni: 44 \ sâmbătă \ 05:11:2022 \ 19:24:01
+[' Răsarit = 07:05:57 Apus = 16:55:37 Min (°C) = 7.34 Max (°C) =16.73 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 137 Stare = nori 85-100%']
+Brosteni: 44 \ duminică \ 06:11:2022 \ 19:17:28
+[' Răsarit = 07:07:27 Apus = 16:54:11 Min (°C) = 8.99 Max (°C) =15.46 Presiune = 1020 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 98 Stare = nori 85-100%']
+Brosteni: 45 \ luni \ 07:11:2022 \ 19:17:26
+[' Răsarit = 07:08:58 Apus = 16:52:48 Min (°C) = 6.74 Max (°C) =16.03 Presiune = 1020 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 252 Stare = nori 50-85%']
+Brosteni: 45 \ marți \ 08:11:2022 \ 19:17:28
+[' Răsarit = 07:10:29 Apus = 16:51:26 Min (°C) = 5.93 Max (°C) =13.09 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 248 Stare = nori 50-85%']
+Brosteni: 45 \ miercuri \ 09:11:2022 \ 19:21:48
+[' Răsarit = 07:11:59 Apus = 16:50:07 Min (°C) = 4.39 Max (°C) =14.69 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 235 Stare = nori 10-25%']
+Brosteni: 45 \ joi \ 10:11:2022 \ 19:20:40
+[' Răsarit = 07:13:30 Apus = 16:48:49 Min (°C) = 5.31 Max (°C) =15.49 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 296 Stare = nori 85-100%']
+Brosteni: 45 \ vineri \ 11:11:2022 \ 19:19:30
+[' Răsarit = 07:15:00 Apus = 16:47:33 Min (°C) = 4.68 Max (°C) =9.06 Presiune = 1033 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 344 Stare = nori 50-85%']
+Brosteni: 45 \ sâmbătă \ 12:11:2022 \ 19:17:34
+[' Răsarit = 07:16:30 Apus = 16:46:18 Min (°C) = 3.12 Max (°C) =12.16 Presiune = 1033 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 249 Stare = nori 50-85%']
+Brosteni: 45 \ duminică \ 13:11:2022 \ 19:23:48
+[' Răsarit = 07:17:59 Apus = 16:45:06 Min (°C) = 3.89 Max (°C) =14.36 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.49 Unghiul vântului = 234 Stare = cer senin']
+Brosteni: 46 \ luni \ 14:11:2022 \ 19:21:38
+[' Răsarit = 07:19:29 Apus = 16:43:56 Min (°C) = 3.87 Max (°C) =13.33 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 181 Stare = nori 10-25%']
+Brosteni: 46 \ marți \ 15:11:2022 \ 19:20:23
+[' Răsarit = 07:20:58 Apus = 16:42:48 Min (°C) = 4.89 Max (°C) =15.01 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 245 Stare = cer senin']
+Brosteni: 46 \ miercuri \ 16:11:2022 \ 19:19:28
+[' Răsarit = 07:22:26 Apus = 16:41:41 Min (°C) = 5.28 Max (°C) =9.54 Presiune = 1005 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 212 Stare = nori 85-100%']
+Brosteni: 46 \ joi \ 17:11:2022 \ 19:17:34
+[' Răsarit = 07:23:54 Apus = 16:40:37 Min (°C) = 4.17 Max (°C) =7.22 Presiune = 1002 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 312 Stare = nori 85-100%']
+Brosteni: 46 \ vineri \ 18:11:2022 \ 19:20:00
+[' Răsarit = 07:25:21 Apus = 16:39:36 Min (°C) = 4.48 Max (°C) =10.06 Presiune = 1000 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 192 Stare = ploaie ușoară']
+Brosteni: 46 \ sâmbătă \ 19:11:2022 \ 19:23:48
+[' Răsarit = 07:26:48 Apus = 16:38:36 Min (°C) = 1.95 Max (°C) =7.83 Presiune = 1016 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 180 Stare = nori 85-100%']
+Brosteni: 46 \ duminică \ 20:11:2022 \ 19:17:30
+[' Răsarit = 07:28:14 Apus = 16:37:38 Min (°C) = 1.88 Max (°C) =7.75 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 211 Stare = nori 85-100%']
+Brosteni: 47 \ luni \ 21:11:2022 \ 19:19:57
+[' Răsarit = 07:29:40 Apus = 16:36:43 Min (°C) = 0.36 Max (°C) =5.79 Presiune = 1008 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 261 Stare = nori 85-100%']
+Brosteni: 47 \ marți \ 22:11:2022 \ 19:20:32
+[' Răsarit = 07:31:04 Apus = 16:35:50 Min (°C) = -4.02 Max (°C) =3.84 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 208 Stare = nori 25-50%']
+Brosteni: 47 \ miercuri \ 23:11:2022 \ 19:24:11
+[' Răsarit = 07:32:28 Apus = 16:35:00 Min (°C) = -3.66 Max (°C) =5.28 Presiune = 1005 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 241 Stare = nori 85-100%']
+Brosteni: 47 \ joi \ 24:11:2022 \ 19:21:39
+[' Răsarit = 07:33:51 Apus = 16:34:12 Min (°C) = 2.94 Max (°C) =7.44 Presiune = 1010 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.38 Unghiul vântului = 91 Stare = nori 85-100%']
+Brosteni: 47 \ vineri \ 25:11:2022 \ 19:20:53
+[' Răsarit = 07:35:12 Apus = 16:33:26 Min (°C) = -2.76 Max (°C) =2.96 Presiune = 1021 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 335 Stare = zăpadă slabă']
+Brosteni: 47 \ sâmbătă \ 26:11:2022 \ 19:17:08
+[' Răsarit = 07:36:33 Apus = 16:32:43 Min (°C) = -6.51 Max (°C) =3.5 Presiune = 1028 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 303 Stare = nori 85-100%']
+Brosteni: 47 \ duminică \ 27:11:2022 \ 19:20:47
+[' Răsarit = 07:37:52 Apus = 16:32:02 Min (°C) = -5.63 Max (°C) =3.66 Presiune = 1028 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 66 Stare = nori 85-100%']
+Brosteni: 48 \ luni \ 28:11:2022 \ 19:17:31
+[' Răsarit = 07:39:11 Apus = 16:31:24 Min (°C) = -1.38 Max (°C) =2.38 Presiune = 1025 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 102 Stare = nori 85-100%']
+Brosteni: 48 \ marți \ 29:11:2022 \ 19:17:13
+[' Răsarit = 07:40:28 Apus = 16:30:49 Min (°C) = -5.56 Max (°C) =3.98 Presiune = 1028 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 145 Stare = cer senin']
+Brosteni: 48 \ miercuri \ 30:11:2022 \ 19:19:35
+[' Răsarit = 07:41:43 Apus = 16:30:16 Min (°C) = -1.86 Max (°C) =3.07 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 85 Stare = nori 85-100%']
+Brosteni: 48 \ joi \ 01:12:2022 \ 19:17:18
+[' Răsarit = 07:42:57 Apus = 16:29:45 Min (°C) = -2.27 Max (°C) =3.57 Presiune = 1026 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 82 Stare = nori 85-100%']
+Brosteni: 48 \ vineri \ 02:12:2022 \ 19:20:47
+[' Răsarit = 07:44:10 Apus = 16:29:18 Min (°C) = 1.01 Max (°C) =4.13 Presiune = 1025 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 113 Stare = nori 85-100%']
+Brosteni: 48 \ sâmbătă \ 03:12:2022 \ 19:19:22
+[' Răsarit = 07:45:21 Apus = 16:28:53 Min (°C) = 0.32 Max (°C) =6.92 Presiune = 1029 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 147 Stare = nori 85-100%']
+Brosteni: 48 \ duminică \ 04:12:2022 \ 19:20:31
+[' Răsarit = 07:46:31 Apus = 16:28:30 Min (°C) = 0.19 Max (°C) =3.39 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 145 Stare = nori 85-100%']
+Brosteni: 49 \ luni \ 05:12:2022 \ 19:22:13
+[' Răsarit = 07:47:38 Apus = 16:28:11 Min (°C) = 0.36 Max (°C) =5.81 Presiune = 1025 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 188 Stare = nori 85-100%']
+Brosteni: 49 \ marți \ 06:12:2022 \ 19:21:15
+[' Răsarit = 07:48:44 Apus = 16:27:54 Min (°C) = 2.22 Max (°C) =6.34 Presiune = 1016 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 210 Stare = nori 85-100%']
+Brosteni: 49 \ miercuri \ 07:12:2022 \ 19:18:29
+[' Răsarit = 07:49:49 Apus = 16:27:40 Min (°C) = -0.85 Max (°C) =4.51 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 239 Stare = nori 50-85%']
+Brosteni: 49 \ joi \ 08:12:2022 \ 19:23:11
+[' Răsarit = 07:50:51 Apus = 16:27:29 Min (°C) = -3.28 Max (°C) =5.68 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 210 Stare = nori 85-100%']
+Brosteni: 49 \ vineri \ 09:12:2022 \ 19:27:04
+[' Răsarit = 07:51:51 Apus = 16:27:20 Min (°C) = 1.34 Max (°C) =7.41 Presiune = 1012 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 218 Stare = nori 85-100%']
+Brosteni: 49 \ sâmbătă \ 10:12:2022 \ 19:18:16
+[' Răsarit = 07:52:49 Apus = 16:27:15 Min (°C) = 3.7 Max (°C) =8.5 Presiune = 1003 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 218 Stare = nori 85-100%']
+Brosteni: 49 \ duminică \ 11:12:2022 \ 19:20:55
+[' Răsarit = 07:53:46 Apus = 16:27:12 Min (°C) = 0.84 Max (°C) =9.52 Presiune = 998 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 236 Stare = nori 85-100%']
+Brosteni: 50 \ luni \ 12:12:2022 \ 19:18:23
+[' Răsarit = 07:54:40 Apus = 16:27:12 Min (°C) = -4.26 Max (°C) =2.45 Presiune = 1008 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 235 Stare = nori 85-100%']
+Brosteni: 50 \ marți \ 13:12:2022 \ 19:20:12
+[' Răsarit = 07:55:31 Apus = 16:27:15 Min (°C) = -7.23 Max (°C) =-1.37 Presiune = 1017 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 237 Stare = nori 25-50%']
+Brosteni: 50 \ miercuri \ 14:12:2022 \ 19:25:14
+[' Răsarit = 07:56:21 Apus = 16:27:20 Min (°C) = -7.58 Max (°C) =1.06 Presiune = 1014 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 184 Stare = nori 85-100%']
+Brosteni: 50 \ joi \ 15:12:2022 \ 19:25:05
+[' Răsarit = 07:57:08 Apus = 16:27:29 Min (°C) = -1.43 Max (°C) =6.32 Presiune = 1016 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 233 Stare = nori 25-50%']
+Brosteni: 50 \ vineri \ 16:12:2022 \ 19:20:17
+[' Răsarit = 07:57:53 Apus = 16:27:40 Min (°C) = 1.29 Max (°C) =9.17 Presiune = 1009 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.65 Unghiul vântului = 234 Stare = nori 50-85%']
+Brosteni: 50 \ sâmbătă \ 17:12:2022 \ 19:20:20
+[' Răsarit = 07:58:35 Apus = 16:27:55 Min (°C) = 3.95 Max (°C) =8.44 Presiune = 1016 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 263 Stare = nori 85-100%']
+Brosteni: 50 \ duminică \ 18:12:2022 \ 19:17:32
+[' Răsarit = 07:59:15 Apus = 16:28:12 Min (°C) = -3.6 Max (°C) =3.82 Presiune = 1038 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 50 Stare = nori 50-85%']
+Brosteni: 51 \ luni \ 19:12:2022 \ 19:22:22
+[' Răsarit = 07:59:53 Apus = 16:28:31 Min (°C) = -5.86 Max (°C) =0.15 Presiune = 1042 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 200 Stare = cer senin']
+Brosteni: 51 \ marți \ 20:12:2022 \ 19:17:56
+[' Răsarit = 08:00:27 Apus = 16:28:54 Min (°C) = -3.85 Max (°C) =4.72 Presiune = 1029 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 238 Stare = nori 50-85%']
+Brosteni: 51 \ miercuri \ 21:12:2022 \ 19:17:42
+[' Răsarit = 08:01:00 Apus = 16:29:19 Min (°C) = -0.56 Max (°C) =10.17 Presiune = 1020 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 241 Stare = nori 25-50%']
+Brosteni: 51 \ joi \ 22:12:2022 \ 19:19:40
+[' Răsarit = 08:01:29 Apus = 16:29:48 Min (°C) = 2.48 Max (°C) =6.55 Presiune = 1016 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 231 Stare = nori 85-100%']
+Brosteni: 51 \ vineri \ 23:12:2022 \ 19:19:29
+[' Răsarit = 08:01:56 Apus = 16:30:18 Min (°C) = 1.97 Max (°C) =7.56 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 228 Stare = nori 25-50%']
+Brosteni: 51 \ sâmbătă \ 24:12:2022 \ 19:19:08
+[' Răsarit = 08:02:21 Apus = 16:30:52 Min (°C) = 1.8 Max (°C) =4.39 Presiune = 1014 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 253 Stare = nori 85-100%']
+Brosteni: 51 \ duminică \ 25:12:2022 \ 19:20:10
+[' Răsarit = 08:02:42 Apus = 16:31:28 Min (°C) = 1.06 Max (°C) =6.07 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 295 Stare = nori 85-100%']
+Brosteni: 52 \ luni \ 26:12:2022 \ 19:23:01
+[' Răsarit = 08:03:01 Apus = 16:32:07 Min (°C) = 0.48 Max (°C) =6.97 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 252 Stare = nori 85-100%']
+Brosteni: 52 \ marți \ 27:12:2022 \ 19:22:47
+[' Răsarit = 08:03:17 Apus = 16:32:48 Min (°C) = 0.94 Max (°C) =7.76 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 283 Stare = nori 50-85%']
+Brosteni: 52 \ miercuri \ 28:12:2022 \ 19:20:37
+[' Răsarit = 08:03:31 Apus = 16:33:32 Min (°C) = -1.94 Max (°C) =3.77 Presiune = 1028 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 229 Stare = nori 50-85%']
+Brosteni: 52 \ joi \ 29:12:2022 \ 19:23:01
+[' Răsarit = 08:03:41 Apus = 16:34:18 Min (°C) = -2.56 Max (°C) =6.54 Presiune = 1024 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 229 Stare = nori 85-100%']
+Brosteni: 52 \ vineri \ 30:12:2022 \ 19:17:17
+[' Răsarit = 08:03:49 Apus = 16:35:07 Min (°C) = 0.34 Max (°C) =6.06 Presiune = 1025 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 216 Stare = nori 85-100%']
+Brosteni: 52 \ sâmbătă \ 31:12:2022 \ 19:21:23
+[' Răsarit = 08:03:54 Apus = 16:35:58 Min (°C) = 3.52 Max (°C) =9.57 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 239 Stare = nori 85-100%']
+Brosteni: 00 \ duminică \ 01:1:2023 \ 19:23:58
+[' Răsarit = 08:03:56 Apus = 16:36:51 Min (°C) = 5.17 Max (°C) =12.61 Presiune = 1030 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 230 Stare = nori 50-85%']
+Brosteni: 01 \ luni \ 02:1:2023 \ 19:24:21
+[' Răsarit = 08:03:56 Apus = 16:37:47 Min (°C) = 6.96 Max (°C) =14.33 Presiune = 1026 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 231 Stare = nori 50-85%']
+Brosteni: 01 \ marți \ 03:1:2023 \ 19:26:50
+[' Răsarit = 08:03:52 Apus = 16:38:45 Min (°C) = 6.15 Max (°C) =13.47 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 72 Stare = nori 50-85%']
+Brosteni: 01 \ miercuri \ 04:1:2023 \ 19:21:23
+[' Răsarit = 08:03:46 Apus = 16:39:45 Min (°C) = 1.4 Max (°C) =7.17 Presiune = 1027 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 223 Stare = nori 25-50%']
+Brosteni: 01 \ joi \ 05:1:2023 \ 19:22:53
+[' Răsarit = 08:03:37 Apus = 16:40:47 Min (°C) = 2.33 Max (°C) =6.4 Presiune = 1011 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.06 Unghiul vântului = 269 Stare = nori 85-100%']
+Brosteni: 01 \ vineri \ 06:1:2023 \ 19:30:35
+[' Răsarit = 08:03:25 Apus = 16:41:51 Min (°C) = -1.38 Max (°C) =5.02 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 223 Stare = nori 85-100%']
+Brosteni: 01 \ sâmbătă \ 07:1:2023 \ 19:19:10
+[' Răsarit = 08:03:11 Apus = 16:42:58 Min (°C) = -0.67 Max (°C) =6.44 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 261 Stare = nori 85-100%']
+Brosteni: 01 \ duminică \ 08:1:2023 \ 19:22:58
+[' Răsarit = 08:02:54 Apus = 16:44:06 Min (°C) = 0.66 Max (°C) =7.52 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 188 Stare = nori 25-50%']
+Brosteni: 02 \ luni \ 09:1:2023 \ 19:20:26
+[' Răsarit = 08:02:34 Apus = 16:45:16 Min (°C) = 1.11 Max (°C) =8.68 Presiune = 1012 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 197 Stare = nori 85-100%']
+Brosteni: 02 \ marți \ 10:1:2023 \ 19:20:04
+[' Răsarit = 08:02:11 Apus = 16:46:27 Min (°C) = 1.58 Max (°C) =5.48 Presiune = 1014 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 78 Stare = nori 85-100%']
+Brosteni: 02 \ miercuri \ 11:1:2023 \ 19:22:41
+[' Răsarit = 08:01:46 Apus = 16:47:41 Min (°C) = 0.96 Max (°C) =3.7 Presiune = 1023 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 182 Stare = nori 85-100%']
+Brosteni: 02 \ joi \ 12:1:2023 \ 19:19:24
+[' Răsarit = 08:01:18 Apus = 16:48:56 Min (°C) = 0.69 Max (°C) =7.32 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 29 Stare = nori 85-100%']
+Brosteni: 02 \ vineri \ 13:1:2023 \ 19:25:35
+[' Răsarit = 08:00:47 Apus = 16:50:12 Min (°C) = 0.18 Max (°C) =7.03 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 236 Stare = nori 50-85%']
+Brosteni: 02 \ sâmbătă \ 14:1:2023 \ 19:21:00
+[' Răsarit = 08:00:14 Apus = 16:51:30 Min (°C) = -1.36 Max (°C) =7.09 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.49 Unghiul vântului = 94 Stare = nori 85-100%']
+Brosteni: 02 \ duminică \ 15:1:2023 \ 19:21:45
+[' Răsarit = 07:59:38 Apus = 16:52:50 Min (°C) = -0.75 Max (°C) =6.75 Presiune = 1017 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 228 Stare = cer senin']
+Brosteni: 03 \ luni \ 16:1:2023 \ 19:18:55
+[' Răsarit = 07:59:00 Apus = 16:54:10 Min (°C) = -0.07 Max (°C) =6.7 Presiune = 1003 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 198 Stare = nori 85-100%']
+Brosteni: 03 \ marți \ 17:1:2023 \ 19:23:28
+[' Răsarit = 07:58:19 Apus = 16:55:32 Min (°C) = 0.25 Max (°C) =7.96 Presiune = 1001 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 202 Stare = nori 25-50%']
+Brosteni: 03 \ miercuri \ 18:1:2023 \ 19:23:26
+[' Răsarit = 07:57:36 Apus = 16:56:56 Min (°C) = 1.94 Max (°C) =10.61 Presiune = 1005 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 207 Stare = nori 25-50%']
+Brosteni: 03 \ joi \ 19:1:2023 \ 19:18:42
+[' Răsarit = 07:56:50 Apus = 16:58:20 Min (°C) = 2.56 Max (°C) =12.29 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 229 Stare = nori 25-50%']
+Brosteni: 03 \ vineri \ 20:1:2023 \ 19:18:33
+[' Răsarit = 07:56:02 Apus = 16:59:45 Min (°C) = 2.01 Max (°C) =5.85 Presiune = 1007 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 76 Stare = nori 85-100%']
+Brosteni: 03 \ sâmbătă \ 21:1:2023 \ 19:18:46
+[' Răsarit = 07:55:12 Apus = 17:01:12 Min (°C) = 0.17 Max (°C) =6.42 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 66 Stare = cer senin']
+Brosteni: 04 \ luni \ 23:1:2023 \ 17:11:32
+[' Răsarit = 07:53:24 Apus = 17:04:07 Min (°C) = -1.84 Max (°C) =6 Presiune = 1033 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 46 Stare = nori 25-50%']
+Brosteni: 04 \ marți \ 24:1:2023 \ 20:08:24
+[' Răsarit = 07:52:26 Apus = 17:05:36 Min (°C) = -3.79 Max (°C) =2.7 Presiune = 1036 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 18 Stare = nori 25-50%']
+Brosteni: 04 \ miercuri \ 25:1:2023 \ 21:58:23
+[' Răsarit = 07:51:27 Apus = 17:07:06 Min (°C) = -5.02 Max (°C) =0.09 Presiune = 1030 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 124 Stare = nori 50-85%']

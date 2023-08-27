@@ -1270,3 +1270,169 @@ Gura_Humorului: 44 \ marți \ 01:11:2022 \ 19:21:08
 [' Răsarit = 06:59:51 Apus = 17:00:07 Min (°C) = 8.61 Max (°C) =21.27 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 238 Stare = nori 85-100%']
 Gura_Humorului: 44 \ miercuri \ 02:11:2022 \ 19:21:50
 [' Răsarit = 07:01:22 Apus = 16:58:34 Min (°C) = 9.24 Max (°C) =18.41 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 324 Stare = nori 50-85%']
+Gura_Humorului: 44 \ joi \ 03:11:2022 \ 19:22:35
+[' Răsarit = 07:02:54 Apus = 16:57:03 Min (°C) = 6.3 Max (°C) =13.57 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.09 Unghiul vântului = 38 Stare = nori 25-50%']
+Gura_Humorului: 44 \ vineri \ 04:11:2022 \ 19:23:25
+[' Răsarit = 07:04:26 Apus = 16:55:34 Min (°C) = 3.28 Max (°C) =13.71 Presiune = 1013 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 219 Stare = nori 85-100%']
+Gura_Humorului: 44 \ sâmbătă \ 05:11:2022 \ 19:24:24
+[' Răsarit = 07:05:57 Apus = 16:54:06 Min (°C) = 6.22 Max (°C) =13.92 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 149 Stare = nori 85-100%']
+Gura_Humorului: 44 \ duminică \ 06:11:2022 \ 19:17:51
+[' Răsarit = 07:07:29 Apus = 16:52:40 Min (°C) = 8.99 Max (°C) =13.05 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 80 Stare = nori 85-100%']
+Gura_Humorului: 45 \ luni \ 07:11:2022 \ 19:17:49
+[' Răsarit = 07:09:01 Apus = 16:51:15 Min (°C) = 6.72 Max (°C) =16.35 Presiune = 1020 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 194 Stare = nori 50-85%']
+Gura_Humorului: 45 \ marți \ 08:11:2022 \ 19:17:50
+[' Răsarit = 07:10:33 Apus = 16:49:52 Min (°C) = 7.02 Max (°C) =14.09 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 200 Stare = nori 50-85%']
+Gura_Humorului: 45 \ miercuri \ 09:11:2022 \ 19:22:11
+[' Răsarit = 07:12:04 Apus = 16:48:32 Min (°C) = 4.93 Max (°C) =15.79 Presiune = 1021 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 225 Stare = cer senin']
+Gura_Humorului: 45 \ joi \ 10:11:2022 \ 19:21:05
+[' Răsarit = 07:13:36 Apus = 16:47:13 Min (°C) = 5.61 Max (°C) =16.36 Presiune = 1025 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 360 Stare = nori 85-100%']
+Gura_Humorului: 45 \ vineri \ 11:11:2022 \ 19:22:04
+[' Răsarit = 07:15:07 Apus = 16:45:55 Min (°C) = 6.03 Max (°C) =10.46 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 263 Stare = nori 50-85%']
+Gura_Humorului: 45 \ sâmbătă \ 12:11:2022 \ 19:20:07
+[' Răsarit = 07:16:38 Apus = 16:44:40 Min (°C) = 5.23 Max (°C) =12.99 Presiune = 1032 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 242 Stare = nori 50-85%']
+Gura_Humorului: 45 \ duminică \ 13:11:2022 \ 19:24:12
+[' Răsarit = 07:18:08 Apus = 16:43:27 Min (°C) = 4.47 Max (°C) =12.84 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 277 Stare = cer senin']
+Gura_Humorului: 46 \ luni \ 14:11:2022 \ 19:22:02
+[' Răsarit = 07:19:39 Apus = 16:42:16 Min (°C) = 3.69 Max (°C) =11.09 Presiune = 1026 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 159 Stare = nori 10-25%']
+Gura_Humorului: 46 \ marți \ 15:11:2022 \ 19:20:46
+[' Răsarit = 07:21:09 Apus = 16:41:06 Min (°C) = 3.81 Max (°C) =13.45 Presiune = 1014 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 235 Stare = cer senin']
+Gura_Humorului: 46 \ miercuri \ 16:11:2022 \ 19:19:51
+[' Răsarit = 07:22:38 Apus = 16:39:59 Min (°C) = 5.83 Max (°C) =10.98 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 240 Stare = nori 50-85%']
+Gura_Humorului: 46 \ joi \ 17:11:2022 \ 19:17:57
+[' Răsarit = 07:24:07 Apus = 16:38:54 Min (°C) = 0.57 Max (°C) =6.79 Presiune = 1003 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 1 Stare = nori 85-100%']
+Gura_Humorului: 46 \ vineri \ 18:11:2022 \ 19:20:24
+[' Răsarit = 07:25:35 Apus = 16:37:52 Min (°C) = 1.35 Max (°C) =8.63 Presiune = 1001 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 92 Stare = ploaie ușoară']
+Gura_Humorului: 46 \ sâmbătă \ 19:11:2022 \ 19:24:11
+[' Răsarit = 07:27:03 Apus = 16:36:51 Min (°C) = 0.02 Max (°C) =6.12 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 67 Stare = nori 85-100%']
+Gura_Humorului: 46 \ duminică \ 20:11:2022 \ 19:17:53
+[' Răsarit = 07:28:30 Apus = 16:35:53 Min (°C) = -0.36 Max (°C) =2.53 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.26 Unghiul vântului = 78 Stare = nori 85-100%']
+Gura_Humorului: 47 \ luni \ 21:11:2022 \ 19:20:22
+[' Răsarit = 07:29:56 Apus = 16:34:57 Min (°C) = -1.01 Max (°C) =2.08 Presiune = 1008 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 288 Stare = nori 85-100%']
+Gura_Humorului: 47 \ marți \ 22:11:2022 \ 19:20:56
+[' Răsarit = 07:31:22 Apus = 16:34:03 Min (°C) = -4.1 Max (°C) =4.57 Presiune = 1013 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 211 Stare = nori 25-50%']
+Gura_Humorului: 47 \ miercuri \ 23:11:2022 \ 19:24:34
+[' Răsarit = 07:32:46 Apus = 16:33:11 Min (°C) = -5.57 Max (°C) =1.99 Presiune = 1006 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 329 Stare = snow']
+Gura_Humorului: 47 \ joi \ 24:11:2022 \ 19:22:02
+[' Răsarit = 07:34:10 Apus = 16:32:23 Min (°C) = 0.28 Max (°C) =4.87 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 353 Stare = ploaie ușoară']
+Gura_Humorului: 47 \ vineri \ 25:11:2022 \ 19:21:17
+[' Răsarit = 07:35:32 Apus = 16:31:36 Min (°C) = -2.96 Max (°C) =1.92 Presiune = 1022 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 336 Stare = nori 85-100%']
+Gura_Humorului: 47 \ sâmbătă \ 26:11:2022 \ 19:17:31
+[' Răsarit = 07:36:54 Apus = 16:30:52 Min (°C) = -5.17 Max (°C) =3.31 Presiune = 1028 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 285 Stare = nori 85-100%']
+Gura_Humorului: 47 \ duminică \ 27:11:2022 \ 19:21:10
+[' Răsarit = 07:38:14 Apus = 16:30:11 Min (°C) = -2.97 Max (°C) =3.4 Presiune = 1030 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 35 Stare = nori 85-100%']
+Gura_Humorului: 48 \ luni \ 28:11:2022 \ 19:17:54
+[' Răsarit = 07:39:33 Apus = 16:29:32 Min (°C) = -0.55 Max (°C) =1.26 Presiune = 1026 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 102 Stare = nori 85-100%']
+Gura_Humorului: 48 \ marți \ 29:11:2022 \ 19:17:35
+[' Răsarit = 07:40:51 Apus = 16:28:55 Min (°C) = -5.49 Max (°C) =2.36 Presiune = 1028 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 241 Stare = nori 10-25%']
+Gura_Humorului: 48 \ miercuri \ 30:11:2022 \ 19:19:58
+[' Răsarit = 07:42:07 Apus = 16:28:22 Min (°C) = -0.19 Max (°C) =2.61 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.55 Unghiul vântului = 86 Stare = nori 85-100%']
+Gura_Humorului: 48 \ joi \ 01:12:2022 \ 19:17:42
+[' Răsarit = 07:43:22 Apus = 16:27:51 Min (°C) = -2.67 Max (°C) =1.17 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 91 Stare = nori 85-100%']
+Gura_Humorului: 48 \ vineri \ 02:12:2022 \ 19:21:12
+[' Răsarit = 07:44:35 Apus = 16:27:22 Min (°C) = -1.09 Max (°C) =1.29 Presiune = 1027 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 104 Stare = nori 85-100%']
+Gura_Humorului: 48 \ sâmbătă \ 03:12:2022 \ 19:19:45
+[' Răsarit = 07:45:47 Apus = 16:26:57 Min (°C) = -1.65 Max (°C) =3.8 Presiune = 1030 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 131 Stare = nori 85-100%']
+Gura_Humorului: 48 \ duminică \ 04:12:2022 \ 19:20:56
+[' Răsarit = 07:46:57 Apus = 16:26:34 Min (°C) = -1.1 Max (°C) =1.83 Presiune = 1030 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 125 Stare = nori 85-100%']
+Gura_Humorului: 49 \ luni \ 05:12:2022 \ 19:22:37
+[' Răsarit = 07:48:05 Apus = 16:26:14 Min (°C) = -1.74 Max (°C) =1.83 Presiune = 1027 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 121 Stare = nori 85-100%']
+Gura_Humorului: 49 \ marți \ 06:12:2022 \ 19:21:41
+[' Răsarit = 07:49:12 Apus = 16:25:56 Min (°C) = -0.64 Max (°C) =4.26 Presiune = 1016 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 157 Stare = nori 85-100%']
+Gura_Humorului: 49 \ miercuri \ 07:12:2022 \ 19:18:54
+[' Răsarit = 07:50:17 Apus = 16:25:42 Min (°C) = 0.71 Max (°C) =5.9 Presiune = 1015 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 241 Stare = nori 50-85%']
+Gura_Humorului: 49 \ joi \ 08:12:2022 \ 19:23:37
+[' Răsarit = 07:51:19 Apus = 16:25:30 Min (°C) = -1.16 Max (°C) =6.16 Presiune = 1016 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 180 Stare = nori 50-85%']
+Gura_Humorului: 49 \ vineri \ 09:12:2022 \ 19:29:41
+[' Răsarit = 07:52:20 Apus = 16:25:21 Min (°C) = 1.66 Max (°C) =9.1 Presiune = 1010 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 211 Stare = nori 85-100%']
+Gura_Humorului: 49 \ sâmbătă \ 10:12:2022 \ 19:18:40
+[' Răsarit = 07:53:19 Apus = 16:25:15 Min (°C) = 4.73 Max (°C) =11.25 Presiune = 1003 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 1 Stare = nori 85-100%']
+Gura_Humorului: 49 \ duminică \ 11:12:2022 \ 19:21:22
+[' Răsarit = 07:54:15 Apus = 16:25:12 Min (°C) = 1.68 Max (°C) =8.82 Presiune = 998 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 282 Stare = nori 85-100%']
+Gura_Humorului: 50 \ luni \ 12:12:2022 \ 19:18:48
+[' Răsarit = 07:55:10 Apus = 16:25:11 Min (°C) = -2.13 Max (°C) =2.39 Presiune = 1007 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 257 Stare = nori 85-100%']
+Gura_Humorului: 50 \ marți \ 13:12:2022 \ 19:20:37
+[' Răsarit = 07:56:02 Apus = 16:25:14 Min (°C) = -3.73 Max (°C) =0.37 Presiune = 1016 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 181 Stare = nori 50-85%']
+Gura_Humorului: 50 \ miercuri \ 14:12:2022 \ 19:25:38
+[' Răsarit = 07:56:52 Apus = 16:25:19 Min (°C) = -5.87 Max (°C) =0.11 Presiune = 1014 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 142 Stare = nori 85-100%']
+Gura_Humorului: 50 \ joi \ 15:12:2022 \ 19:25:30
+[' Răsarit = 07:57:39 Apus = 16:25:28 Min (°C) = -2.21 Max (°C) =8 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 229 Stare = nori 10-25%']
+Gura_Humorului: 50 \ vineri \ 16:12:2022 \ 19:20:41
+[' Răsarit = 07:58:24 Apus = 16:25:39 Min (°C) = 0.72 Max (°C) =7 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 173 Stare = nori 25-50%']
+Gura_Humorului: 50 \ sâmbătă \ 17:12:2022 \ 19:20:46
+[' Răsarit = 07:59:07 Apus = 16:25:53 Min (°C) = 0.41 Max (°C) =7.72 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 358 Stare = nori 85-100%']
+Gura_Humorului: 50 \ duminică \ 18:12:2022 \ 19:20:06
+[' Răsarit = 07:59:47 Apus = 16:26:10 Min (°C) = -4.43 Max (°C) =0.67 Presiune = 1039 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 355 Stare = nori 10-25%']
+Gura_Humorului: 51 \ luni \ 19:12:2022 \ 19:22:46
+[' Răsarit = 08:00:25 Apus = 16:26:29 Min (°C) = -6.4 Max (°C) =-0.53 Presiune = 1041 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 187 Stare = cer senin']
+Gura_Humorului: 51 \ marți \ 20:12:2022 \ 19:18:22
+[' Răsarit = 08:00:59 Apus = 16:26:52 Min (°C) = -3.67 Max (°C) =5.31 Presiune = 1026 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 241 Stare = nori 50-85%']
+Gura_Humorului: 51 \ miercuri \ 21:12:2022 \ 19:18:05
+[' Răsarit = 08:01:32 Apus = 16:27:17 Min (°C) = 0.57 Max (°C) =9.03 Presiune = 1018 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 246 Stare = nori 25-50%']
+Gura_Humorului: 51 \ joi \ 22:12:2022 \ 19:20:04
+[' Răsarit = 08:02:01 Apus = 16:27:45 Min (°C) = 2.08 Max (°C) =6.47 Presiune = 1014 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 238 Stare = nori 85-100%']
+Gura_Humorului: 51 \ vineri \ 23:12:2022 \ 19:19:51
+[' Răsarit = 08:02:28 Apus = 16:28:16 Min (°C) = 1.8 Max (°C) =9.78 Presiune = 1014 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 237 Stare = nori 25-50%']
+Gura_Humorului: 51 \ sâmbătă \ 24:12:2022 \ 19:19:32
+[' Răsarit = 08:02:53 Apus = 16:28:50 Min (°C) = 3.12 Max (°C) =6.08 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 247 Stare = nori 50-85%']
+Gura_Humorului: 51 \ duminică \ 25:12:2022 \ 19:22:47
+[' Răsarit = 08:03:14 Apus = 16:29:26 Min (°C) = 2.1 Max (°C) =6.51 Presiune = 1026 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 262 Stare = nori 50-85%']
+Gura_Humorului: 52 \ luni \ 26:12:2022 \ 19:23:27
+[' Răsarit = 08:03:33 Apus = 16:30:05 Min (°C) = 0.91 Max (°C) =8.24 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 240 Stare = nori 85-100%']
+Gura_Humorului: 52 \ marți \ 27:12:2022 \ 19:23:12
+[' Răsarit = 08:03:49 Apus = 16:30:46 Min (°C) = 0.62 Max (°C) =10.58 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 350 Stare = nori 50-85%']
+Gura_Humorului: 52 \ miercuri \ 28:12:2022 \ 19:21:02
+[' Răsarit = 08:04:02 Apus = 16:31:30 Min (°C) = -1.09 Max (°C) =5.03 Presiune = 1027 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 229 Stare = nori 50-85%']
+Gura_Humorului: 52 \ joi \ 29:12:2022 \ 19:23:26
+[' Răsarit = 08:04:12 Apus = 16:32:17 Min (°C) = -0.85 Max (°C) =7.56 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 239 Stare = nori 85-100%']
+Gura_Humorului: 52 \ vineri \ 30:12:2022 \ 19:17:43
+[' Răsarit = 08:04:20 Apus = 16:33:06 Min (°C) = 2.1 Max (°C) =9.13 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 244 Stare = nori 85-100%']
+Gura_Humorului: 52 \ sâmbătă \ 31:12:2022 \ 19:21:45
+[' Răsarit = 08:04:24 Apus = 16:33:57 Min (°C) = 4.03 Max (°C) =11.27 Presiune = 1026 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.96 Unghiul vântului = 242 Stare = nori 85-100%']
+Gura_Humorului: 00 \ duminică \ 01:1:2023 \ 19:24:23
+[' Răsarit = 08:04:26 Apus = 16:34:51 Min (°C) = 6.37 Max (°C) =13.89 Presiune = 1027 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.01 Unghiul vântului = 240 Stare = nori 85-100%']
+Gura_Humorului: 01 \ luni \ 02:1:2023 \ 19:24:48
+[' Răsarit = 08:04:25 Apus = 16:35:47 Min (°C) = 7.08 Max (°C) =14.8 Presiune = 1025 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 239 Stare = nori 50-85%']
+Gura_Humorului: 01 \ marți \ 03:1:2023 \ 19:27:18
+[' Răsarit = 08:04:22 Apus = 16:36:45 Min (°C) = 6.13 Max (°C) =13.07 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 1 Stare = nori 85-100%']
+Gura_Humorului: 01 \ miercuri \ 04:1:2023 \ 19:21:48
+[' Răsarit = 08:04:15 Apus = 16:37:46 Min (°C) = 2.13 Max (°C) =6.97 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 212 Stare = nori 25-50%']
+Gura_Humorului: 01 \ joi \ 05:1:2023 \ 19:25:27
+[' Răsarit = 08:04:05 Apus = 16:38:49 Min (°C) = 3.05 Max (°C) =9.32 Presiune = 1010 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.76 Unghiul vântului = 268 Stare = nori 85-100%']
+Gura_Humorului: 01 \ vineri \ 06:1:2023 \ 19:31:04
+[' Răsarit = 08:03:53 Apus = 16:39:53 Min (°C) = -0.14 Max (°C) =6.57 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 28 Stare = nori 50-85%']
+Gura_Humorului: 01 \ sâmbătă \ 07:1:2023 \ 19:19:35
+[' Răsarit = 08:03:38 Apus = 16:41:00 Min (°C) = -0.46 Max (°C) =6.27 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 147 Stare = nori 85-100%']
+Gura_Humorului: 01 \ duminică \ 08:1:2023 \ 19:23:29
+[' Răsarit = 08:03:20 Apus = 16:42:09 Min (°C) = 1.85 Max (°C) =4.92 Presiune = 1021 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 135 Stare = nori 85-100%']
+Gura_Humorului: 02 \ luni \ 09:1:2023 \ 19:20:51
+[' Răsarit = 08:03:00 Apus = 16:43:19 Min (°C) = 1.24 Max (°C) =9.32 Presiune = 1011 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 183 Stare = nori 50-85%']
+Gura_Humorului: 02 \ marți \ 10:1:2023 \ 19:20:30
+[' Răsarit = 08:02:37 Apus = 16:44:31 Min (°C) = 0.8 Max (°C) =4.92 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 125 Stare = nori 85-100%']
+Gura_Humorului: 02 \ miercuri \ 11:1:2023 \ 19:23:08
+[' Răsarit = 08:02:11 Apus = 16:45:45 Min (°C) = -1.15 Max (°C) =4.33 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 125 Stare = nori 85-100%']
+Gura_Humorului: 02 \ joi \ 12:1:2023 \ 19:22:01
+[' Răsarit = 08:01:42 Apus = 16:47:01 Min (°C) = 0.68 Max (°C) =4.78 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 114 Stare = nori 85-100%']
+Gura_Humorului: 02 \ vineri \ 13:1:2023 \ 19:26:07
+[' Răsarit = 08:01:11 Apus = 16:48:18 Min (°C) = 0.52 Max (°C) =7.77 Presiune = 1020 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 233 Stare = nori 25-50%']
+Gura_Humorului: 02 \ sâmbătă \ 14:1:2023 \ 19:21:30
+[' Răsarit = 08:00:37 Apus = 16:49:37 Min (°C) = 0.59 Max (°C) =6.47 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 163 Stare = nori 85-100%']
+Gura_Humorului: 02 \ duminică \ 15:1:2023 \ 19:22:13
+[' Răsarit = 08:00:00 Apus = 16:50:57 Min (°C) = -0.24 Max (°C) =8.36 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 229 Stare = cer senin']
+Gura_Humorului: 03 \ luni \ 16:1:2023 \ 19:19:21
+[' Răsarit = 07:59:21 Apus = 16:52:19 Min (°C) = 0.24 Max (°C) =5.52 Presiune = 1003 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 170 Stare = nori 85-100%']
+Gura_Humorului: 03 \ marți \ 17:1:2023 \ 19:23:54
+[' Răsarit = 07:58:40 Apus = 16:53:42 Min (°C) = 1.01 Max (°C) =10.36 Presiune = 1000 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 193 Stare = nori 25-50%']
+Gura_Humorului: 03 \ miercuri \ 18:1:2023 \ 19:23:52
+[' Răsarit = 07:57:56 Apus = 16:55:06 Min (°C) = 2.68 Max (°C) =12.8 Presiune = 1002 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 6.55 Unghiul vântului = 245 Stare = cer senin']
+Gura_Humorului: 03 \ joi \ 19:1:2023 \ 19:19:08
+[' Răsarit = 07:57:09 Apus = 16:56:31 Min (°C) = 4.51 Max (°C) =15.03 Presiune = 1003 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 244 Stare = nori 25-50%']
+Gura_Humorului: 03 \ vineri \ 20:1:2023 \ 19:19:01
+[' Răsarit = 07:56:20 Apus = 16:57:57 Min (°C) = 3.07 Max (°C) =5.59 Presiune = 1008 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 19 Stare = nori 85-100%']
+Gura_Humorului: 03 \ sâmbătă \ 21:1:2023 \ 19:19:11
+[' Răsarit = 07:55:29 Apus = 16:59:24 Min (°C) = 2.47 Max (°C) =8.04 Presiune = 1019 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 58 Stare = nori 10-25%']
+Gura_Humorului: 04 \ luni \ 23:1:2023 \ 17:12:00
+[' Răsarit = 07:53:39 Apus = 17:02:22 Min (°C) = 0.18 Max (°C) =4.72 Presiune = 1033 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 60 Stare = nori 25-50%']
+Gura_Humorului: 04 \ marți \ 24:1:2023 \ 20:08:51
+[' Răsarit = 07:52:41 Apus = 17:03:52 Min (°C) = -2.4 Max (°C) =2.73 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 314 Stare = nori 10-25%']
+Gura_Humorului: 04 \ miercuri \ 25:1:2023 \ 21:58:47
+[' Răsarit = 07:51:40 Apus = 17:05:22 Min (°C) = -4.4 Max (°C) =0.47 Presiune = 1030 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 141 Stare = nori 50-85%']

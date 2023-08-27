@@ -1268,3 +1268,169 @@ Nehoiu: 44 \ marți \ 01:11:2022 \ 19:06:36
 [' Răsarit = 06:51:49 Apus = 17:01:14 Min (°C) = 9.41 Max (°C) =19.64 Presiune = 1021 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 259 Stare = nori 25-50%']
 Nehoiu: 44 \ miercuri \ 02:11:2022 \ 19:07:09
 [' Răsarit = 06:53:13 Apus = 16:59:48 Min (°C) = 14.31 Max (°C) =23.19 Presiune = 1019 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 328 Stare = nori 50-85%']
+Nehoiu: 44 \ joi \ 03:11:2022 \ 19:06:24
+[' Răsarit = 06:54:38 Apus = 16:58:24 Min (°C) = 10.16 Max (°C) =17.07 Presiune = 1021 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 111 Stare = nori 85-100%']
+Nehoiu: 44 \ vineri \ 04:11:2022 \ 19:08:48
+[' Răsarit = 06:56:02 Apus = 16:57:02 Min (°C) = 7.12 Max (°C) =15.44 Presiune = 1013 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 302 Stare = nori 85-100%']
+Nehoiu: 44 \ sâmbătă \ 05:11:2022 \ 19:08:30
+[' Răsarit = 06:57:27 Apus = 16:55:41 Min (°C) = 9.03 Max (°C) =16.24 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.42 Unghiul vântului = 65 Stare = nori 85-100%']
+Nehoiu: 44 \ duminică \ 06:11:2022 \ 19:06:09
+[' Răsarit = 06:58:52 Apus = 16:54:22 Min (°C) = 11.69 Max (°C) =13.57 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 85 Stare = nori 85-100%']
+Nehoiu: 45 \ luni \ 07:11:2022 \ 19:06:13
+[' Răsarit = 07:00:17 Apus = 16:53:04 Min (°C) = 9.13 Max (°C) =16.17 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 223 Stare = cer senin']
+Nehoiu: 45 \ marți \ 08:11:2022 \ 19:06:10
+[' Răsarit = 07:01:42 Apus = 16:51:48 Min (°C) = 7.53 Max (°C) =14.51 Presiune = 1023 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 348 Stare = nori 10-25%']
+Nehoiu: 45 \ miercuri \ 09:11:2022 \ 19:06:02
+[' Răsarit = 07:03:06 Apus = 16:50:34 Min (°C) = 7.36 Max (°C) =15.51 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 230 Stare = cer senin']
+Nehoiu: 45 \ joi \ 10:11:2022 \ 19:06:22
+[' Răsarit = 07:04:31 Apus = 16:49:22 Min (°C) = 7.02 Max (°C) =16.31 Presiune = 1025 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 273 Stare = cer senin']
+Nehoiu: 45 \ vineri \ 11:11:2022 \ 19:06:04
+[' Răsarit = 07:05:56 Apus = 16:48:12 Min (°C) = 7.13 Max (°C) =12.18 Presiune = 1032 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 14 Stare = nori 25-50%']
+Nehoiu: 45 \ sâmbătă \ 12:11:2022 \ 19:06:25
+[' Răsarit = 07:07:20 Apus = 16:47:03 Min (°C) = 5.77 Max (°C) =13.38 Presiune = 1033 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 279 Stare = nori 50-85%']
+Nehoiu: 45 \ duminică \ 13:11:2022 \ 19:06:04
+[' Răsarit = 07:08:44 Apus = 16:45:56 Min (°C) = 6.58 Max (°C) =15.11 Presiune = 1029 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 331 Stare = nori 25-50%']
+Nehoiu: 46 \ luni \ 14:11:2022 \ 19:06:02
+[' Răsarit = 07:10:08 Apus = 16:44:51 Min (°C) = 5.83 Max (°C) =13.12 Presiune = 1026 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 7 Stare = nori 50-85%']
+Nehoiu: 46 \ marți \ 15:11:2022 \ 19:06:38
+[' Răsarit = 07:11:31 Apus = 16:43:49 Min (°C) = 3.58 Max (°C) =11.86 Presiune = 1016 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 241 Stare = nori 85-100%']
+Nehoiu: 46 \ miercuri \ 16:11:2022 \ 19:06:03
+[' Răsarit = 07:12:54 Apus = 16:42:48 Min (°C) = 5.52 Max (°C) =16.4 Presiune = 1004 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 317 Stare = nori 10-25%']
+Nehoiu: 46 \ joi \ 17:11:2022 \ 19:06:19
+[' Răsarit = 07:14:17 Apus = 16:41:49 Min (°C) = 7.92 Max (°C) =11.23 Presiune = 1001 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 5.4 Unghiul vântului = 302 Stare = nori 85-100%']
+Nehoiu: 46 \ vineri \ 18:11:2022 \ 19:06:20
+[' Răsarit = 07:15:39 Apus = 16:40:52 Min (°C) = 4.6 Max (°C) =11.4 Presiune = 1002 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 302 Stare = nori 85-100%']
+Nehoiu: 46 \ sâmbătă \ 19:11:2022 \ 19:06:03
+[' Răsarit = 07:17:01 Apus = 16:39:58 Min (°C) = 7.5 Max (°C) =12.45 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 58 Stare = ploaie ușoară']
+Nehoiu: 46 \ duminică \ 20:11:2022 \ 19:06:06
+[' Răsarit = 07:18:22 Apus = 16:39:06 Min (°C) = 5.68 Max (°C) =9.92 Presiune = 1009 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 209 Stare = nori 85-100%']
+Nehoiu: 47 \ luni \ 21:11:2022 \ 19:06:34
+[' Răsarit = 07:19:42 Apus = 16:38:15 Min (°C) = 5.51 Max (°C) =8.42 Presiune = 1006 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.49 Unghiul vântului = 248 Stare = nori 85-100%']
+Nehoiu: 47 \ marți \ 22:11:2022 \ 19:06:04
+[' Răsarit = 07:21:02 Apus = 16:37:27 Min (°C) = 4.37 Max (°C) =9.56 Presiune = 1012 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 214 Stare = nori 50-85%']
+Nehoiu: 47 \ miercuri \ 23:11:2022 \ 19:06:18
+[' Răsarit = 07:22:21 Apus = 16:36:42 Min (°C) = 4.56 Max (°C) =8.37 Presiune = 1003 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 256 Stare = nori 85-100%']
+Nehoiu: 47 \ joi \ 24:11:2022 \ 19:08:18
+[' Răsarit = 07:23:39 Apus = 16:35:58 Min (°C) = 5.68 Max (°C) =12.22 Presiune = 1009 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 273 Stare = nori 50-85%']
+Nehoiu: 47 \ vineri \ 25:11:2022 \ 19:06:33
+[' Răsarit = 07:24:56 Apus = 16:35:17 Min (°C) = 3.04 Max (°C) =8.14 Presiune = 1019 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 315 Stare = nori 25-50%']
+Nehoiu: 47 \ sâmbătă \ 26:11:2022 \ 19:06:06
+[' Răsarit = 07:26:12 Apus = 16:34:38 Min (°C) = 1.32 Max (°C) =7.88 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 304 Stare = nori 25-50%']
+Nehoiu: 47 \ duminică \ 27:11:2022 \ 19:06:21
+[' Răsarit = 07:27:27 Apus = 16:34:02 Min (°C) = 2.01 Max (°C) =6.84 Presiune = 1028 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 30 Stare = nori 85-100%']
+Nehoiu: 48 \ luni \ 28:11:2022 \ 19:06:17
+[' Răsarit = 07:28:41 Apus = 16:33:28 Min (°C) = 2.4 Max (°C) =4.45 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.73 Unghiul vântului = 34 Stare = nori 85-100%']
+Nehoiu: 48 \ marți \ 29:11:2022 \ 19:06:01
+[' Răsarit = 07:29:54 Apus = 16:32:57 Min (°C) = 1.7 Max (°C) =4.25 Presiune = 1025 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.22 Unghiul vântului = 37 Stare = nori 85-100%']
+Nehoiu: 48 \ miercuri \ 30:11:2022 \ 19:08:25
+[' Răsarit = 07:31:06 Apus = 16:32:28 Min (°C) = 2.79 Max (°C) =5.57 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.87 Unghiul vântului = 38 Stare = nori 85-100%']
+Nehoiu: 48 \ joi \ 01:12:2022 \ 19:06:11
+[' Răsarit = 07:32:16 Apus = 16:32:01 Min (°C) = 0.47 Max (°C) =4.42 Presiune = 1024 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 4.44 Unghiul vântului = 29 Stare = nori 85-100%']
+Nehoiu: 48 \ vineri \ 02:12:2022 \ 19:06:20
+[' Răsarit = 07:33:25 Apus = 16:31:37 Min (°C) = 1.47 Max (°C) =3.75 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 93 Stare = nori 85-100%']
+Nehoiu: 48 \ sâmbătă \ 03:12:2022 \ 19:06:13
+[' Răsarit = 07:34:33 Apus = 16:31:16 Min (°C) = 2.22 Max (°C) =4.09 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 75 Stare = nori 85-100%']
+Nehoiu: 48 \ duminică \ 04:12:2022 \ 19:06:10
+[' Răsarit = 07:35:39 Apus = 16:30:57 Min (°C) = 1.36 Max (°C) =2.69 Presiune = 1032 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 46 Stare = nori 85-100%']
+Nehoiu: 49 \ luni \ 05:12:2022 \ 19:10:08
+[' Răsarit = 07:36:44 Apus = 16:30:40 Min (°C) = 1.32 Max (°C) =2.69 Presiune = 1028 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 133 Stare = nori 85-100%']
+Nehoiu: 49 \ marți \ 06:12:2022 \ 19:06:43
+[' Răsarit = 07:37:46 Apus = 16:30:27 Min (°C) = 2.39 Max (°C) =4.1 Presiune = 1020 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 225 Stare = nori 85-100%']
+Nehoiu: 49 \ miercuri \ 07:12:2022 \ 19:06:17
+[' Răsarit = 07:38:48 Apus = 16:30:16 Min (°C) = 3.05 Max (°C) =8.78 Presiune = 1014 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 280 Stare = nori 85-100%']
+Nehoiu: 49 \ joi \ 08:12:2022 \ 19:06:42
+[' Răsarit = 07:39:47 Apus = 16:30:07 Min (°C) = 5.2 Max (°C) =8.52 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 235 Stare = nori 85-100%']
+Nehoiu: 49 \ vineri \ 09:12:2022 \ 19:06:03
+[' Răsarit = 07:40:45 Apus = 16:30:01 Min (°C) = 4.26 Max (°C) =10.96 Presiune = 1012 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 251 Stare = nori 85-100%']
+Nehoiu: 49 \ sâmbătă \ 10:12:2022 \ 19:06:14
+[' Răsarit = 07:41:41 Apus = 16:29:58 Min (°C) = 7.25 Max (°C) =14.64 Presiune = 1003 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 253 Stare = nori 85-100%']
+Nehoiu: 49 \ duminică \ 11:12:2022 \ 19:06:06
+[' Răsarit = 07:42:35 Apus = 16:29:57 Min (°C) = 7.91 Max (°C) =13.75 Presiune = 996 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 276 Stare = ploaie ușoară']
+Nehoiu: 50 \ luni \ 12:12:2022 \ 19:06:29
+[' Răsarit = 07:43:27 Apus = 16:29:59 Min (°C) = 2.94 Max (°C) =7.24 Presiune = 1006 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 303 Stare = nori 85-100%']
+Nehoiu: 50 \ marți \ 13:12:2022 \ 19:06:07
+[' Răsarit = 07:44:17 Apus = 16:30:04 Min (°C) = -1.59 Max (°C) =2.56 Presiune = 1016 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 308 Stare = cer senin']
+Nehoiu: 50 \ miercuri \ 14:12:2022 \ 19:07:15
+[' Răsarit = 07:45:05 Apus = 16:30:11 Min (°C) = -2.73 Max (°C) =1.53 Presiune = 1016 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 283 Stare = nori 50-85%']
+Nehoiu: 50 \ joi \ 15:12:2022 \ 19:06:37
+[' Răsarit = 07:45:50 Apus = 16:30:21 Min (°C) = 1.16 Max (°C) =8.1 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 321 Stare = cer senin']
+Nehoiu: 50 \ vineri \ 16:12:2022 \ 19:06:23
+[' Răsarit = 07:46:34 Apus = 16:30:34 Min (°C) = 3.52 Max (°C) =10.29 Presiune = 1012 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 246 Stare = nori 50-85%']
+Nehoiu: 50 \ sâmbătă \ 17:12:2022 \ 19:06:06
+[' Răsarit = 07:47:15 Apus = 16:30:49 Min (°C) = 8.5 Max (°C) =15.39 Presiune = 1016 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 307 Stare = nori 50-85%']
+Nehoiu: 50 \ duminică \ 18:12:2022 \ 19:05:59
+[' Răsarit = 07:47:54 Apus = 16:31:07 Min (°C) = -0.63 Max (°C) =7.51 Presiune = 1036 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 35 Stare = nori 85-100%']
+Nehoiu: 51 \ luni \ 19:12:2022 \ 19:06:04
+[' Răsarit = 07:48:31 Apus = 16:31:28 Min (°C) = -2.83 Max (°C) =1.54 Presiune = 1043 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 332 Stare = cer senin']
+Nehoiu: 51 \ marți \ 20:12:2022 \ 19:06:30
+[' Răsarit = 07:49:05 Apus = 16:31:51 Min (°C) = -3.36 Max (°C) =2.58 Presiune = 1030 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.29 Unghiul vântului = 243 Stare = nori 50-85%']
+Nehoiu: 51 \ miercuri \ 21:12:2022 \ 19:06:26
+[' Răsarit = 07:49:37 Apus = 16:32:16 Min (°C) = -0.17 Max (°C) =7.19 Presiune = 1020 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 244 Stare = cer senin']
+Nehoiu: 51 \ joi \ 22:12:2022 \ 19:06:21
+[' Răsarit = 07:50:07 Apus = 16:32:45 Min (°C) = 2.76 Max (°C) =7.47 Presiune = 1015 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 244 Stare = nori 85-100%']
+Nehoiu: 51 \ vineri \ 23:12:2022 \ 19:06:14
+[' Răsarit = 07:50:34 Apus = 16:33:15 Min (°C) = 4.41 Max (°C) =8.67 Presiune = 1014 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 300 Stare = nori 25-50%']
+Nehoiu: 51 \ sâmbătă \ 24:12:2022 \ 19:08:06
+[' Răsarit = 07:50:59 Apus = 16:33:48 Min (°C) = 4.55 Max (°C) =9.61 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 260 Stare = nori 85-100%']
+Nehoiu: 51 \ duminică \ 25:12:2022 \ 19:06:02
+[' Răsarit = 07:51:21 Apus = 16:34:24 Min (°C) = 4.69 Max (°C) =10.07 Presiune = 1025 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 346 Stare = nori 10-25%']
+Nehoiu: 52 \ luni \ 26:12:2022 \ 19:08:27
+[' Răsarit = 07:51:41 Apus = 16:35:02 Min (°C) = 2.28 Max (°C) =8.27 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 264 Stare = nori 50-85%']
+Nehoiu: 52 \ marți \ 27:12:2022 \ 19:06:26
+[' Răsarit = 07:51:58 Apus = 16:35:42 Min (°C) = 5.67 Max (°C) =12.51 Presiune = 1022 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.57 Unghiul vântului = 309 Stare = nori 85-100%']
+Nehoiu: 52 \ miercuri \ 28:12:2022 \ 19:06:21
+[' Răsarit = 07:52:12 Apus = 16:36:25 Min (°C) = 1.24 Max (°C) =6.25 Presiune = 1029 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 249 Stare = cer senin']
+Nehoiu: 52 \ joi \ 29:12:2022 \ 19:06:27
+[' Răsarit = 07:52:24 Apus = 16:37:10 Min (°C) = 0.46 Max (°C) =9.12 Presiune = 1023 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 271 Stare = nori 50-85%']
+Nehoiu: 52 \ vineri \ 30:12:2022 \ 19:06:02
+[' Răsarit = 07:52:33 Apus = 16:37:57 Min (°C) = 4.33 Max (°C) =11.85 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 273 Stare = nori 25-50%']
+Nehoiu: 52 \ sâmbătă \ 31:12:2022 \ 19:07:59
+[' Răsarit = 07:52:40 Apus = 16:38:46 Min (°C) = 6.46 Max (°C) =14.15 Presiune = 1028 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 269 Stare = nori 10-25%']
+Nehoiu: 00 \ duminică \ 01:1:2023 \ 19:08:44
+[' Răsarit = 07:52:44 Apus = 16:39:38 Min (°C) = 7.76 Max (°C) =16.94 Presiune = 1028 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 294 Stare = nori 10-25%']
+Nehoiu: 01 \ luni \ 02:1:2023 \ 19:06:59
+[' Răsarit = 07:52:46 Apus = 16:40:31 Min (°C) = 10.46 Max (°C) =16.84 Presiune = 1026 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 257 Stare = cer senin']
+Nehoiu: 01 \ marți \ 03:1:2023 \ 19:06:57
+[' Răsarit = 07:52:45 Apus = 16:41:27 Min (°C) = 8.96 Max (°C) =16.94 Presiune = 1025 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 21 Stare = nori 85-100%']
+Nehoiu: 01 \ miercuri \ 04:1:2023 \ 19:06:31
+[' Răsarit = 07:52:41 Apus = 16:42:25 Min (°C) = 4.25 Max (°C) =8.41 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 232 Stare = nori 85-100%']
+Nehoiu: 01 \ joi \ 05:1:2023 \ 19:06:23
+[' Răsarit = 07:52:35 Apus = 16:43:24 Min (°C) = 2.67 Max (°C) =9.83 Presiune = 1013 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5.46 Unghiul vântului = 284 Stare = nori 85-100%']
+Nehoiu: 01 \ vineri \ 06:1:2023 \ 19:11:10
+[' Răsarit = 07:52:26 Apus = 16:44:26 Min (°C) = 2.9 Max (°C) =9.66 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 358 Stare = nori 25-50%']
+Nehoiu: 01 \ sâmbătă \ 07:1:2023 \ 19:06:34
+[' Răsarit = 07:52:14 Apus = 16:45:29 Min (°C) = 0.84 Max (°C) =8.37 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 69 Stare = nori 50-85%']
+Nehoiu: 01 \ duminică \ 08:1:2023 \ 19:06:55
+[' Răsarit = 07:52:00 Apus = 16:46:34 Min (°C) = 2.21 Max (°C) =5.17 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 67 Stare = nori 85-100%']
+Nehoiu: 02 \ luni \ 09:1:2023 \ 19:06:23
+[' Răsarit = 07:51:44 Apus = 16:47:40 Min (°C) = 3.62 Max (°C) =6.31 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 154 Stare = nori 85-100%']
+Nehoiu: 02 \ marți \ 10:1:2023 \ 19:05:57
+[' Răsarit = 07:51:25 Apus = 16:48:48 Min (°C) = 4.18 Max (°C) =6.71 Presiune = 1013 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.76 Unghiul vântului = 93 Stare = ploaie ușoară']
+Nehoiu: 02 \ miercuri \ 11:1:2023 \ 19:07:56
+[' Răsarit = 07:51:03 Apus = 16:49:58 Min (°C) = 2.31 Max (°C) =6.72 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 28 Stare = nori 85-100%']
+Nehoiu: 02 \ joi \ 12:1:2023 \ 19:06:41
+[' Răsarit = 07:50:39 Apus = 16:51:09 Min (°C) = 1.7 Max (°C) =3 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 90 Stare = nori 85-100%']
+Nehoiu: 02 \ vineri \ 13:1:2023 \ 19:07:35
+[' Răsarit = 07:50:12 Apus = 16:52:22 Min (°C) = 2.22 Max (°C) =5.19 Presiune = 1022 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 224 Stare = nori 50-85%']
+Nehoiu: 02 \ sâmbătă \ 14:1:2023 \ 19:07:06
+[' Răsarit = 07:49:43 Apus = 16:53:36 Min (°C) = 1.89 Max (°C) =5.9 Presiune = 1023 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 90 Stare = nori 85-100%']
+Nehoiu: 02 \ duminică \ 15:1:2023 \ 19:06:19
+[' Răsarit = 07:49:12 Apus = 16:54:51 Min (°C) = 2.8 Max (°C) =5.81 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.48 Unghiul vântului = 231 Stare = nori 25-50%']
+Nehoiu: 03 \ luni \ 16:1:2023 \ 19:05:32
+[' Răsarit = 07:48:38 Apus = 16:56:08 Min (°C) = 0.79 Max (°C) =5.12 Presiune = 1008 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 244 Stare = nori 85-100%']
+Nehoiu: 03 \ marți \ 17:1:2023 \ 19:06:44
+[' Răsarit = 07:48:01 Apus = 16:57:25 Min (°C) = 2.23 Max (°C) =8.84 Presiune = 1003 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 243 Stare = nori 25-50%']
+Nehoiu: 03 \ miercuri \ 18:1:2023 \ 19:06:08
+[' Răsarit = 07:47:22 Apus = 16:58:44 Min (°C) = 5.88 Max (°C) =13.56 Presiune = 1005 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 238 Stare = nori 10-25%']
+Nehoiu: 03 \ joi \ 19:1:2023 \ 19:06:15
+[' Răsarit = 07:46:41 Apus = 17:00:03 Min (°C) = 7.17 Max (°C) =14.69 Presiune = 1007 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.26 Unghiul vântului = 217 Stare = cer senin']
+Nehoiu: 03 \ vineri \ 20:1:2023 \ 19:06:23
+[' Răsarit = 07:45:58 Apus = 17:01:24 Min (°C) = 7.98 Max (°C) =12.01 Presiune = 1006 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.61 Unghiul vântului = 133 Stare = nori 85-100%']
+Nehoiu: 03 \ sâmbătă \ 21:1:2023 \ 19:06:15
+[' Răsarit = 07:45:12 Apus = 17:02:46 Min (°C) = 2.82 Max (°C) =8.95 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 357 Stare = nori 25-50%']
+Nehoiu: 04 \ luni \ 23:1:2023 \ 16:54:50
+[' Răsarit = 07:43:35 Apus = 17:05:31 Min (°C) = 2.06 Max (°C) =7.02 Presiune = 1030 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.74 Unghiul vântului = 44 Stare = cer senin']
+Nehoiu: 04 \ marți \ 24:1:2023 \ 19:55:14
+[' Răsarit = 07:42:42 Apus = 17:06:55 Min (°C) = -0.46 Max (°C) =2.78 Presiune = 1034 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 23 Stare = nori 50-85%']
+Nehoiu: 04 \ miercuri \ 25:1:2023 \ 21:41:20
+[' Răsarit = 07:41:48 Apus = 17:08:19 Min (°C) = -1.96 Max (°C) =1.68 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 344 Stare = nori 85-100%']

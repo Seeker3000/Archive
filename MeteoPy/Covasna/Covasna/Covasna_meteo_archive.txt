@@ -1266,3 +1266,169 @@ Covasna: 44 \ marți \ 01:11:2022 \ 19:09:01
 [' Răsarit = 06:54:59 Apus = 17:02:36 Min (°C) = 7.81 Max (°C) =18.79 Presiune = 1022 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 160 Stare = nori 25-50%']
 Covasna: 44 \ miercuri \ 02:11:2022 \ 19:09:34
 [' Răsarit = 06:56:25 Apus = 17:01:09 Min (°C) = 9.48 Max (°C) =17.56 Presiune = 1021 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 229 Stare = nori 50-85%']
+Covasna: 44 \ joi \ 03:11:2022 \ 19:10:55
+[' Răsarit = 06:57:51 Apus = 16:59:43 Min (°C) = 6.07 Max (°C) =13.98 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 136 Stare = nori 50-85%']
+Covasna: 44 \ vineri \ 04:11:2022 \ 19:11:10
+[' Răsarit = 06:59:17 Apus = 16:58:20 Min (°C) = 4.8 Max (°C) =15.55 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 127 Stare = nori 85-100%']
+Covasna: 44 \ sâmbătă \ 05:11:2022 \ 19:10:44
+[' Răsarit = 07:00:43 Apus = 16:56:57 Min (°C) = 7.95 Max (°C) =19 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.34 Unghiul vântului = 96 Stare = nori 85-100%']
+Covasna: 44 \ duminică \ 06:11:2022 \ 19:08:23
+[' Răsarit = 07:02:09 Apus = 16:55:37 Min (°C) = 8.93 Max (°C) =14.48 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 112 Stare = nori 85-100%']
+Covasna: 45 \ luni \ 07:11:2022 \ 19:08:27
+[' Răsarit = 07:03:35 Apus = 16:54:18 Min (°C) = 6.09 Max (°C) =16.1 Presiune = 1021 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 158 Stare = cer senin']
+Covasna: 45 \ marți \ 08:11:2022 \ 19:08:30
+[' Răsarit = 07:05:01 Apus = 16:53:01 Min (°C) = 6.08 Max (°C) =13.56 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 179 Stare = nori 25-50%']
+Covasna: 45 \ miercuri \ 09:11:2022 \ 19:08:22
+[' Răsarit = 07:06:27 Apus = 16:51:45 Min (°C) = 5.68 Max (°C) =15.43 Presiune = 1023 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 145 Stare = cer senin']
+Covasna: 45 \ joi \ 10:11:2022 \ 19:08:45
+[' Răsarit = 07:07:53 Apus = 16:50:32 Min (°C) = 5.52 Max (°C) =15.19 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.99 Unghiul vântului = 178 Stare = nori 10-25%']
+Covasna: 45 \ vineri \ 11:11:2022 \ 19:08:22
+[' Răsarit = 07:09:19 Apus = 16:49:20 Min (°C) = 4.98 Max (°C) =9.73 Presiune = 1032 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.27 Unghiul vântului = 315 Stare = nori 85-100%']
+Covasna: 45 \ sâmbătă \ 12:11:2022 \ 19:08:38
+[' Răsarit = 07:10:45 Apus = 16:48:10 Min (°C) = 3.57 Max (°C) =11.1 Presiune = 1033 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 149 Stare = nori 50-85%']
+Covasna: 45 \ duminică \ 13:11:2022 \ 19:08:19
+[' Răsarit = 07:12:10 Apus = 16:47:02 Min (°C) = 3.38 Max (°C) =14.07 Presiune = 1029 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 110 Stare = nori 10-25%']
+Covasna: 46 \ luni \ 14:11:2022 \ 19:08:17
+[' Răsarit = 07:13:35 Apus = 16:45:56 Min (°C) = 4.21 Max (°C) =14.17 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 105 Stare = nori 85-100%']
+Covasna: 46 \ marți \ 15:11:2022 \ 19:08:58
+[' Răsarit = 07:15:00 Apus = 16:44:52 Min (°C) = 3.87 Max (°C) =13.46 Presiune = 1015 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 181 Stare = nori 50-85%']
+Covasna: 46 \ miercuri \ 16:11:2022 \ 19:08:19
+[' Răsarit = 07:16:24 Apus = 16:43:50 Min (°C) = 4.68 Max (°C) =11.37 Presiune = 1006 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 198 Stare = nori 50-85%']
+Covasna: 46 \ joi \ 17:11:2022 \ 19:08:34
+[' Răsarit = 07:17:48 Apus = 16:42:50 Min (°C) = 6.05 Max (°C) =9.25 Presiune = 1002 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 5.77 Unghiul vântului = 282 Stare = nori 85-100%']
+Covasna: 46 \ vineri \ 18:11:2022 \ 19:08:39
+[' Răsarit = 07:19:11 Apus = 16:41:52 Min (°C) = 3.91 Max (°C) =12.29 Presiune = 1000 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 4.06 Unghiul vântului = 169 Stare = nori 85-100%']
+Covasna: 46 \ sâmbătă \ 19:11:2022 \ 19:10:28
+[' Răsarit = 07:20:34 Apus = 16:40:57 Min (°C) = 5 Max (°C) =9.83 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 107 Stare = nori 85-100%']
+Covasna: 46 \ duminică \ 20:11:2022 \ 19:08:26
+[' Răsarit = 07:21:56 Apus = 16:40:03 Min (°C) = 5.16 Max (°C) =11.29 Presiune = 1008 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 130 Stare = nori 85-100%']
+Covasna: 47 \ luni \ 21:11:2022 \ 19:08:46
+[' Răsarit = 07:23:18 Apus = 16:39:12 Min (°C) = 2.11 Max (°C) =7.57 Presiune = 1008 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 253 Stare = nori 85-100%']
+Covasna: 47 \ marți \ 22:11:2022 \ 19:08:23
+[' Răsarit = 07:24:39 Apus = 16:38:23 Min (°C) = 1.57 Max (°C) =5.41 Presiune = 1012 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 111 Stare = nori 50-85%']
+Covasna: 47 \ miercuri \ 23:11:2022 \ 19:10:46
+[' Răsarit = 07:25:59 Apus = 16:37:36 Min (°C) = 1.92 Max (°C) =6.69 Presiune = 1004 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 132 Stare = nori 85-100%']
+Covasna: 47 \ joi \ 24:11:2022 \ 19:10:29
+[' Răsarit = 07:27:18 Apus = 16:36:51 Min (°C) = 2.9 Max (°C) =9.75 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 233 Stare = nori 85-100%']
+Covasna: 47 \ vineri \ 25:11:2022 \ 19:09:00
+[' Răsarit = 07:28:36 Apus = 16:36:09 Min (°C) = -0.05 Max (°C) =2.88 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 275 Stare = nori 85-100%']
+Covasna: 47 \ sâmbătă \ 26:11:2022 \ 19:08:18
+[' Răsarit = 07:29:53 Apus = 16:35:30 Min (°C) = -0.45 Max (°C) =1.88 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 260 Stare = nori 85-100%']
+Covasna: 47 \ duminică \ 27:11:2022 \ 19:08:37
+[' Răsarit = 07:31:09 Apus = 16:34:52 Min (°C) = -0.56 Max (°C) =4 Presiune = 1028 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 84 Stare = nori 85-100%']
+Covasna: 48 \ luni \ 28:11:2022 \ 19:08:32
+[' Răsarit = 07:32:24 Apus = 16:34:17 Min (°C) = 0.24 Max (°C) =4.21 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 71 Stare = nori 85-100%']
+Covasna: 48 \ marți \ 29:11:2022 \ 19:08:17
+[' Răsarit = 07:33:38 Apus = 16:33:45 Min (°C) = -0.16 Max (°C) =4.87 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 70 Stare = nori 50-85%']
+Covasna: 48 \ miercuri \ 30:11:2022 \ 19:10:39
+[' Răsarit = 07:34:51 Apus = 16:33:15 Min (°C) = -0.32 Max (°C) =5.39 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 72 Stare = nori 50-85%']
+Covasna: 48 \ joi \ 01:12:2022 \ 19:08:25
+[' Răsarit = 07:36:02 Apus = 16:32:48 Min (°C) = -1.3 Max (°C) =6.08 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 56 Stare = zăpadă slabă']
+Covasna: 48 \ vineri \ 02:12:2022 \ 19:08:49
+[' Răsarit = 07:37:12 Apus = 16:32:23 Min (°C) = 1.56 Max (°C) =6.6 Presiune = 1025 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 102 Stare = nori 85-100%']
+Covasna: 48 \ sâmbătă \ 03:12:2022 \ 19:08:25
+[' Răsarit = 07:38:20 Apus = 16:32:00 Min (°C) = 0.24 Max (°C) =7.62 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 108 Stare = nori 85-100%']
+Covasna: 48 \ duminică \ 04:12:2022 \ 19:08:41
+[' Răsarit = 07:39:27 Apus = 16:31:41 Min (°C) = 0.24 Max (°C) =4.2 Presiune = 1030 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 101 Stare = nori 85-100%']
+Covasna: 49 \ luni \ 05:12:2022 \ 19:12:31
+[' Răsarit = 07:40:32 Apus = 16:31:24 Min (°C) = 0.24 Max (°C) =4.15 Presiune = 1027 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 131 Stare = nori 85-100%']
+Covasna: 49 \ marți \ 06:12:2022 \ 19:11:21
+[' Răsarit = 07:41:36 Apus = 16:31:09 Min (°C) = 1.93 Max (°C) =4.93 Presiune = 1019 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 161 Stare = nori 85-100%']
+Covasna: 49 \ miercuri \ 07:12:2022 \ 19:08:44
+[' Răsarit = 07:42:38 Apus = 16:30:57 Min (°C) = 1.68 Max (°C) =5.31 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 124 Stare = ploaie ușoară']
+Covasna: 49 \ joi \ 08:12:2022 \ 19:11:16
+[' Răsarit = 07:43:38 Apus = 16:30:48 Min (°C) = 1.33 Max (°C) =7.16 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 116 Stare = nori 85-100%']
+Covasna: 49 \ vineri \ 09:12:2022 \ 19:10:46
+[' Răsarit = 07:44:36 Apus = 16:30:42 Min (°C) = 2.63 Max (°C) =9.61 Presiune = 1011 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.29 Unghiul vântului = 168 Stare = nori 85-100%']
+Covasna: 49 \ sâmbătă \ 10:12:2022 \ 19:08:39
+[' Răsarit = 07:45:33 Apus = 16:30:38 Min (°C) = 7.03 Max (°C) =13.85 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 110 Stare = nori 50-85%']
+Covasna: 49 \ duminică \ 11:12:2022 \ 19:08:37
+[' Răsarit = 07:46:27 Apus = 16:30:37 Min (°C) = 2.79 Max (°C) =13.54 Presiune = 1000 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 246 Stare = nori 85-100%']
+Covasna: 50 \ luni \ 12:12:2022 \ 19:08:54
+[' Răsarit = 07:47:20 Apus = 16:30:39 Min (°C) = -2.94 Max (°C) =3.64 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 251 Stare = zăpadă slabă']
+Covasna: 50 \ marți \ 13:12:2022 \ 19:08:32
+[' Răsarit = 07:48:10 Apus = 16:30:43 Min (°C) = -6.35 Max (°C) =-2.01 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 150 Stare = nori 25-50%']
+Covasna: 50 \ miercuri \ 14:12:2022 \ 19:11:53
+[' Răsarit = 07:48:58 Apus = 16:30:50 Min (°C) = -6.68 Max (°C) =3.01 Presiune = 1014 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 136 Stare = nori 50-85%']
+Covasna: 50 \ joi \ 15:12:2022 \ 19:09:00
+[' Răsarit = 07:49:44 Apus = 16:31:00 Min (°C) = 0.92 Max (°C) =4.66 Presiune = 1016 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 126 Stare = nori 85-100%']
+Covasna: 50 \ vineri \ 16:12:2022 \ 19:08:46
+[' Răsarit = 07:50:28 Apus = 16:31:12 Min (°C) = 1.98 Max (°C) =13.9 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 215 Stare = nori 50-85%']
+Covasna: 50 \ sâmbătă \ 17:12:2022 \ 19:08:31
+[' Răsarit = 07:51:10 Apus = 16:31:27 Min (°C) = 4.93 Max (°C) =13.21 Presiune = 1018 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 271 Stare = nori 85-100%']
+Covasna: 50 \ duminică \ 18:12:2022 \ 19:08:17
+[' Răsarit = 07:51:49 Apus = 16:31:45 Min (°C) = -2.98 Max (°C) =4.45 Presiune = 1038 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 275 Stare = nori 50-85%']
+Covasna: 51 \ luni \ 19:12:2022 \ 19:10:38
+[' Răsarit = 07:52:26 Apus = 16:32:05 Min (°C) = -4.4 Max (°C) =1.24 Presiune = 1042 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 109 Stare = cer senin']
+Covasna: 51 \ marți \ 20:12:2022 \ 19:08:51
+[' Răsarit = 07:53:00 Apus = 16:32:28 Min (°C) = -3.88 Max (°C) =4.6 Presiune = 1030 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 167 Stare = nori 50-85%']
+Covasna: 51 \ miercuri \ 21:12:2022 \ 19:08:39
+[' Răsarit = 07:53:32 Apus = 16:32:53 Min (°C) = -0.03 Max (°C) =8.29 Presiune = 1021 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 145 Stare = cer senin']
+Covasna: 51 \ joi \ 22:12:2022 \ 19:10:47
+[' Răsarit = 07:54:02 Apus = 16:33:22 Min (°C) = -0.26 Max (°C) =6.03 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 229 Stare = nori 85-100%']
+Covasna: 51 \ vineri \ 23:12:2022 \ 19:08:30
+[' Răsarit = 07:54:29 Apus = 16:33:52 Min (°C) = 1.06 Max (°C) =5.9 Presiune = 1016 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 153 Stare = nori 10-25%']
+Covasna: 51 \ sâmbătă \ 24:12:2022 \ 19:10:19
+[' Răsarit = 07:54:54 Apus = 16:34:26 Min (°C) = 1.88 Max (°C) =6.63 Presiune = 1015 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 3.39 Unghiul vântului = 280 Stare = nori 85-100%']
+Covasna: 51 \ duminică \ 25:12:2022 \ 19:08:16
+[' Răsarit = 07:55:16 Apus = 16:35:01 Min (°C) = 2.63 Max (°C) =5.47 Presiune = 1026 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 256 Stare = nori 85-100%']
+Covasna: 52 \ luni \ 26:12:2022 \ 19:10:49
+[' Răsarit = 07:55:35 Apus = 16:35:39 Min (°C) = 1.19 Max (°C) =7.81 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 215 Stare = nori 50-85%']
+Covasna: 52 \ marți \ 27:12:2022 \ 19:08:48
+[' Răsarit = 07:55:52 Apus = 16:36:20 Min (°C) = 3.41 Max (°C) =7 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.33 Unghiul vântului = 305 Stare = nori 85-100%']
+Covasna: 52 \ miercuri \ 28:12:2022 \ 19:08:46
+[' Răsarit = 07:56:06 Apus = 16:37:03 Min (°C) = -1.55 Max (°C) =3.5 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 176 Stare = cer senin']
+Covasna: 52 \ joi \ 29:12:2022 \ 19:11:04
+[' Răsarit = 07:56:18 Apus = 16:37:48 Min (°C) = -1.04 Max (°C) =6.97 Presiune = 1026 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 192 Stare = nori 50-85%']
+Covasna: 52 \ vineri \ 30:12:2022 \ 19:08:17
+[' Răsarit = 07:56:27 Apus = 16:38:36 Min (°C) = 1.38 Max (°C) =5.68 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 172 Stare = nori 85-100%']
+Covasna: 52 \ sâmbătă \ 31:12:2022 \ 19:10:16
+[' Răsarit = 07:56:33 Apus = 16:39:25 Min (°C) = 3.55 Max (°C) =9.59 Presiune = 1030 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 224 Stare = nori 50-85%']
+Covasna: 00 \ duminică \ 01:1:2023 \ 19:11:23
+[' Răsarit = 07:56:37 Apus = 16:40:17 Min (°C) = 4.65 Max (°C) =10.94 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 166 Stare = nori 25-50%']
+Covasna: 01 \ luni \ 02:1:2023 \ 19:09:31
+[' Răsarit = 07:56:38 Apus = 16:41:11 Min (°C) = 6.63 Max (°C) =13.76 Presiune = 1027 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 179 Stare = cer senin']
+Covasna: 01 \ marți \ 03:1:2023 \ 19:13:56
+[' Răsarit = 07:56:36 Apus = 16:42:08 Min (°C) = 5.83 Max (°C) =11.8 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 191 Stare = nori 25-50%']
+Covasna: 01 \ miercuri \ 04:1:2023 \ 19:11:15
+[' Răsarit = 07:56:32 Apus = 16:43:06 Min (°C) = 4.76 Max (°C) =7.55 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 268 Stare = nori 85-100%']
+Covasna: 01 \ joi \ 05:1:2023 \ 19:08:51
+[' Răsarit = 07:56:25 Apus = 16:44:06 Min (°C) = 1.58 Max (°C) =8.1 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 6.63 Unghiul vântului = 278 Stare = nori 85-100%']
+Covasna: 01 \ vineri \ 06:1:2023 \ 19:15:54
+[' Răsarit = 07:56:16 Apus = 16:45:08 Min (°C) = 1.42 Max (°C) =5.11 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.04 Unghiul vântului = 269 Stare = nori 50-85%']
+Covasna: 01 \ sâmbătă \ 07:1:2023 \ 19:09:06
+[' Răsarit = 07:56:04 Apus = 16:46:12 Min (°C) = 0.09 Max (°C) =4.28 Presiune = 1025 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 203 Stare = nori 85-100%']
+Covasna: 01 \ duminică \ 08:1:2023 \ 19:09:39
+[' Răsarit = 07:55:49 Apus = 16:47:17 Min (°C) = 2.05 Max (°C) =7.54 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 126 Stare = cer senin']
+Covasna: 02 \ luni \ 09:1:2023 \ 19:10:56
+[' Răsarit = 07:55:31 Apus = 16:48:25 Min (°C) = 1.26 Max (°C) =5.74 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.34 Unghiul vântului = 136 Stare = nori 85-100%']
+Covasna: 02 \ marți \ 10:1:2023 \ 19:08:21
+[' Răsarit = 07:55:12 Apus = 16:49:34 Min (°C) = 1.32 Max (°C) =7.66 Presiune = 1012 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 77 Stare = nori 85-100%']
+Covasna: 02 \ miercuri \ 11:1:2023 \ 19:10:22
+[' Răsarit = 07:54:49 Apus = 16:50:44 Min (°C) = 2.76 Max (°C) =4.41 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 78 Stare = nori 85-100%']
+Covasna: 02 \ joi \ 12:1:2023 \ 19:09:14
+[' Răsarit = 07:54:24 Apus = 16:51:56 Min (°C) = 3.25 Max (°C) =4.52 Presiune = 1022 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 285 Stare = ploaie ușoară']
+Covasna: 02 \ vineri \ 13:1:2023 \ 19:10:28
+[' Răsarit = 07:53:56 Apus = 16:53:10 Min (°C) = 3.1 Max (°C) =5.14 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 204 Stare = nori 85-100%']
+Covasna: 02 \ sâmbătă \ 14:1:2023 \ 19:09:55
+[' Răsarit = 07:53:26 Apus = 16:54:25 Min (°C) = -0.15 Max (°C) =5.45 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 149 Stare = nori 50-85%']
+Covasna: 02 \ duminică \ 15:1:2023 \ 19:08:49
+[' Răsarit = 07:52:54 Apus = 16:55:41 Min (°C) = 0.74 Max (°C) =5.91 Presiune = 1017 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 162 Stare = cer senin']
+Covasna: 03 \ luni \ 16:1:2023 \ 19:07:56
+[' Răsarit = 07:52:19 Apus = 16:56:58 Min (°C) = 0.48 Max (°C) =5.61 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 150 Stare = nori 85-100%']
+Covasna: 03 \ marți \ 17:1:2023 \ 19:09:22
+[' Răsarit = 07:51:41 Apus = 16:58:17 Min (°C) = 2.32 Max (°C) =9.41 Presiune = 1001 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 152 Stare = nori 25-50%']
+Covasna: 03 \ miercuri \ 18:1:2023 \ 19:08:43
+[' Răsarit = 07:51:02 Apus = 16:59:37 Min (°C) = 4.8 Max (°C) =12.74 Presiune = 1005 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 181 Stare = nori 50-85%']
+Covasna: 03 \ joi \ 19:1:2023 \ 19:08:36
+[' Răsarit = 07:50:20 Apus = 17:00:57 Min (°C) = 6.44 Max (°C) =14.44 Presiune = 1005 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.46 Unghiul vântului = 176 Stare = nori 50-85%']
+Covasna: 03 \ vineri \ 20:1:2023 \ 19:08:44
+[' Răsarit = 07:49:35 Apus = 17:02:19 Min (°C) = 5.86 Max (°C) =10.36 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.77 Unghiul vântului = 132 Stare = nori 85-100%']
+Covasna: 03 \ sâmbătă \ 21:1:2023 \ 19:08:46
+[' Răsarit = 07:48:48 Apus = 17:03:42 Min (°C) = 0.79 Max (°C) =8.39 Presiune = 1017 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 106 Stare = nori 10-25%']
+Covasna: 04 \ luni \ 23:1:2023 \ 16:57:17
+[' Răsarit = 07:47:08 Apus = 17:06:30 Min (°C) = -0.02 Max (°C) =7.38 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 72 Stare = cer senin']
+Covasna: 04 \ marți \ 24:1:2023 \ 19:57:49
+[' Răsarit = 07:46:15 Apus = 17:07:55 Min (°C) = -1.53 Max (°C) =3.26 Presiune = 1034 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 70 Stare = nori 50-85%']
+Covasna: 04 \ miercuri \ 25:1:2023 \ 21:46:19
+[' Răsarit = 07:45:19 Apus = 17:09:20 Min (°C) = -4.52 Max (°C) =0.88 Presiune = 1030 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 107 Stare = nori 10-25%']

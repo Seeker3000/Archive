@@ -1270,3 +1270,169 @@ Targu_Neamt: 44 \ marți \ 01:11:2022 \ 19:15:32
 [' Răsarit = 06:57:08 Apus = 16:58:58 Min (°C) = 8.79 Max (°C) =20.26 Presiune = 1019 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.18 Unghiul vântului = 210 Stare = nori 50-85%']
 Targu_Neamt: 44 \ miercuri \ 02:11:2022 \ 19:16:14
 [' Răsarit = 06:58:39 Apus = 16:57:27 Min (°C) = 10.32 Max (°C) =18.96 Presiune = 1020 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 330 Stare = nori 85-100%']
+Targu_Neamt: 44 \ joi \ 03:11:2022 \ 19:17:13
+[' Răsarit = 07:00:09 Apus = 16:55:57 Min (°C) = 8.13 Max (°C) =14.31 Presiune = 1022 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 330 Stare = nori 25-50%']
+Targu_Neamt: 44 \ vineri \ 04:11:2022 \ 19:19:51
+[' Răsarit = 07:01:40 Apus = 16:54:29 Min (°C) = 4.04 Max (°C) =13.33 Presiune = 1013 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 191 Stare = nori 85-100%']
+Targu_Neamt: 44 \ sâmbătă \ 05:11:2022 \ 19:21:09
+[' Răsarit = 07:03:10 Apus = 16:53:02 Min (°C) = 6.17 Max (°C) =13.4 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 158 Stare = nori 85-100%']
+Targu_Neamt: 44 \ duminică \ 06:11:2022 \ 19:14:31
+[' Răsarit = 07:04:41 Apus = 16:51:37 Min (°C) = 9.26 Max (°C) =11.64 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 151 Stare = nori 85-100%']
+Targu_Neamt: 45 \ luni \ 07:11:2022 \ 19:14:31
+[' Răsarit = 07:06:11 Apus = 16:50:14 Min (°C) = 6.95 Max (°C) =15.48 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 161 Stare = nori 50-85%']
+Targu_Neamt: 45 \ marți \ 08:11:2022 \ 19:14:35
+[' Răsarit = 07:07:42 Apus = 16:48:52 Min (°C) = 7.69 Max (°C) =13.19 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 172 Stare = nori 50-85%']
+Targu_Neamt: 45 \ miercuri \ 09:11:2022 \ 19:16:44
+[' Răsarit = 07:09:12 Apus = 16:47:33 Min (°C) = 5.8 Max (°C) =15.63 Presiune = 1021 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.33 Unghiul vântului = 181 Stare = cer senin']
+Targu_Neamt: 45 \ joi \ 10:11:2022 \ 19:15:24
+[' Răsarit = 07:10:42 Apus = 16:46:15 Min (°C) = 5.84 Max (°C) =16.08 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 352 Stare = nori 50-85%']
+Targu_Neamt: 45 \ vineri \ 11:11:2022 \ 19:16:36
+[' Răsarit = 07:12:12 Apus = 16:44:59 Min (°C) = 6.74 Max (°C) =10.93 Presiune = 1032 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 311 Stare = nori 25-50%']
+Targu_Neamt: 45 \ sâmbătă \ 12:11:2022 \ 19:14:42
+[' Răsarit = 07:13:42 Apus = 16:43:45 Min (°C) = 4.29 Max (°C) =13.07 Presiune = 1032 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 224 Stare = nori 50-85%']
+Targu_Neamt: 45 \ duminică \ 13:11:2022 \ 19:18:46
+[' Răsarit = 07:15:12 Apus = 16:42:33 Min (°C) = 5.11 Max (°C) =13.2 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 310 Stare = cer senin']
+Targu_Neamt: 46 \ luni \ 14:11:2022 \ 19:16:34
+[' Răsarit = 07:16:41 Apus = 16:41:22 Min (°C) = 4.11 Max (°C) =10.99 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 159 Stare = nori 10-25%']
+Targu_Neamt: 46 \ marți \ 15:11:2022 \ 19:15:14
+[' Răsarit = 07:18:10 Apus = 16:40:14 Min (°C) = 3.28 Max (°C) =12.24 Presiune = 1014 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 200 Stare = nori 25-50%']
+Targu_Neamt: 46 \ miercuri \ 16:11:2022 \ 19:14:25
+[' Răsarit = 07:19:38 Apus = 16:39:08 Min (°C) = 5.88 Max (°C) =11.99 Presiune = 1004 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 210 Stare = nori 50-85%']
+Targu_Neamt: 46 \ joi \ 17:11:2022 \ 19:14:40
+[' Răsarit = 07:21:06 Apus = 16:38:04 Min (°C) = 2.99 Max (°C) =6.71 Presiune = 1003 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 345 Stare = nori 85-100%']
+Targu_Neamt: 46 \ vineri \ 18:11:2022 \ 19:17:01
+[' Răsarit = 07:22:33 Apus = 16:37:03 Min (°C) = 1.64 Max (°C) =8.44 Presiune = 1001 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 124 Stare = nori 85-100%']
+Targu_Neamt: 46 \ sâmbătă \ 19:11:2022 \ 19:18:45
+[' Răsarit = 07:24:00 Apus = 16:36:03 Min (°C) = 1.3 Max (°C) =5.8 Presiune = 1017 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 42 Stare = nori 85-100%']
+Targu_Neamt: 46 \ duminică \ 20:11:2022 \ 19:14:35
+[' Răsarit = 07:25:26 Apus = 16:35:06 Min (°C) = 0.04 Max (°C) =2.75 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 9 Stare = nori 85-100%']
+Targu_Neamt: 47 \ luni \ 21:11:2022 \ 19:17:06
+[' Răsarit = 07:26:51 Apus = 16:34:11 Min (°C) = -1.34 Max (°C) =1.26 Presiune = 1007 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 288 Stare = nori 85-100%']
+Targu_Neamt: 47 \ marți \ 22:11:2022 \ 19:17:42
+[' Răsarit = 07:28:15 Apus = 16:33:18 Min (°C) = -5.04 Max (°C) =4.26 Presiune = 1013 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 197 Stare = nori 25-50%']
+Targu_Neamt: 47 \ miercuri \ 23:11:2022 \ 19:19:09
+[' Răsarit = 07:29:39 Apus = 16:32:28 Min (°C) = -4.03 Max (°C) =3.31 Presiune = 1005 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 323 Stare = nori 85-100%']
+Targu_Neamt: 47 \ joi \ 24:11:2022 \ 19:16:42
+[' Răsarit = 07:31:02 Apus = 16:31:40 Min (°C) = 0.91 Max (°C) =4.94 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 333 Stare = nori 85-100%']
+Targu_Neamt: 47 \ vineri \ 25:11:2022 \ 19:17:46
+[' Răsarit = 07:32:23 Apus = 16:30:54 Min (°C) = -0.04 Max (°C) =3.86 Presiune = 1022 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 330 Stare = nori 85-100%']
+Targu_Neamt: 47 \ sâmbătă \ 26:11:2022 \ 19:14:17
+[' Răsarit = 07:33:44 Apus = 16:30:11 Min (°C) = -3.08 Max (°C) =4.19 Presiune = 1028 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 307 Stare = nori 85-100%']
+Targu_Neamt: 47 \ duminică \ 27:11:2022 \ 19:16:52
+[' Răsarit = 07:35:03 Apus = 16:29:30 Min (°C) = 1.08 Max (°C) =4.42 Presiune = 1029 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 14 Stare = nori 85-100%']
+Targu_Neamt: 48 \ luni \ 28:11:2022 \ 19:14:34
+[' Răsarit = 07:36:21 Apus = 16:28:52 Min (°C) = 0.26 Max (°C) =2.2 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 118 Stare = nori 85-100%']
+Targu_Neamt: 48 \ marți \ 29:11:2022 \ 19:14:20
+[' Răsarit = 07:37:38 Apus = 16:28:17 Min (°C) = -1.74 Max (°C) =3.25 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 113 Stare = nori 50-85%']
+Targu_Neamt: 48 \ miercuri \ 30:11:2022 \ 19:16:41
+[' Răsarit = 07:38:54 Apus = 16:27:44 Min (°C) = 1.52 Max (°C) =4.42 Presiune = 1028 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 77 Stare = nori 85-100%']
+Targu_Neamt: 48 \ joi \ 01:12:2022 \ 19:14:25
+[' Răsarit = 07:40:08 Apus = 16:27:14 Min (°C) = -1.61 Max (°C) =1.57 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 120 Stare = nori 85-100%']
+Targu_Neamt: 48 \ vineri \ 02:12:2022 \ 19:15:27
+[' Răsarit = 07:41:20 Apus = 16:26:46 Min (°C) = -1.62 Max (°C) =0.78 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 131 Stare = nori 85-100%']
+Targu_Neamt: 48 \ sâmbătă \ 03:12:2022 \ 19:16:35
+[' Răsarit = 07:42:31 Apus = 16:26:21 Min (°C) = -1.04 Max (°C) =4.17 Presiune = 1030 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 137 Stare = nori 85-100%']
+Targu_Neamt: 48 \ duminică \ 04:12:2022 \ 19:17:25
+[' Răsarit = 07:43:41 Apus = 16:25:59 Min (°C) = -0.52 Max (°C) =0.78 Presiune = 1031 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 137 Stare = nori 85-100%']
+Targu_Neamt: 49 \ luni \ 05:12:2022 \ 19:19:09
+[' Răsarit = 07:44:49 Apus = 16:25:39 Min (°C) = -1.3 Max (°C) =0.25 Presiune = 1028 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.47 Unghiul vântului = 140 Stare = nori 85-100%']
+Targu_Neamt: 49 \ marți \ 06:12:2022 \ 19:18:02
+[' Răsarit = 07:45:54 Apus = 16:25:23 Min (°C) = -0.19 Max (°C) =1.78 Presiune = 1018 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.68 Unghiul vântului = 156 Stare = nori 85-100%']
+Targu_Neamt: 49 \ miercuri \ 07:12:2022 \ 19:15:19
+[' Răsarit = 07:46:59 Apus = 16:25:09 Min (°C) = 0.66 Max (°C) =6.49 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 266 Stare = nori 85-100%']
+Targu_Neamt: 49 \ joi \ 08:12:2022 \ 19:17:58
+[' Răsarit = 07:48:01 Apus = 16:24:58 Min (°C) = -0.16 Max (°C) =6.23 Presiune = 1016 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 184 Stare = nori 50-85%']
+Targu_Neamt: 49 \ vineri \ 09:12:2022 \ 19:21:53
+[' Răsarit = 07:49:01 Apus = 16:24:49 Min (°C) = 1.57 Max (°C) =11.03 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 185 Stare = nori 85-100%']
+Targu_Neamt: 49 \ sâmbătă \ 10:12:2022 \ 19:15:14
+[' Răsarit = 07:49:59 Apus = 16:24:44 Min (°C) = 4.96 Max (°C) =13.65 Presiune = 1003 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 228 Stare = nori 50-85%']
+Targu_Neamt: 49 \ duminică \ 11:12:2022 \ 19:17:38
+[' Răsarit = 07:50:55 Apus = 16:24:41 Min (°C) = 2.35 Max (°C) =11.62 Presiune = 996 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 269 Stare = nori 85-100%']
+Targu_Neamt: 50 \ luni \ 12:12:2022 \ 19:15:23
+[' Răsarit = 07:51:49 Apus = 16:24:41 Min (°C) = -0.52 Max (°C) =2.38 Presiune = 1006 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 216 Stare = nori 85-100%']
+Targu_Neamt: 50 \ marți \ 13:12:2022 \ 19:14:53
+[' Răsarit = 07:52:41 Apus = 16:24:44 Min (°C) = -3.44 Max (°C) =1.09 Presiune = 1016 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 246 Stare = nori 25-50%']
+Targu_Neamt: 50 \ miercuri \ 14:12:2022 \ 19:20:11
+[' Răsarit = 07:53:30 Apus = 16:24:50 Min (°C) = -5.33 Max (°C) =0.06 Presiune = 1014 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 155 Stare = nori 85-100%']
+Targu_Neamt: 50 \ joi \ 15:12:2022 \ 19:19:51
+[' Răsarit = 07:54:18 Apus = 16:24:58 Min (°C) = -2.01 Max (°C) =7.56 Presiune = 1015 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 241 Stare = nori 10-25%']
+Targu_Neamt: 50 \ vineri \ 16:12:2022 \ 19:17:20
+[' Răsarit = 07:55:02 Apus = 16:25:10 Min (°C) = 0.45 Max (°C) =7.01 Presiune = 1010 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 202 Stare = nori 50-85%']
+Targu_Neamt: 50 \ sâmbătă \ 17:12:2022 \ 19:15:03
+[' Răsarit = 07:55:45 Apus = 16:25:24 Min (°C) = 0.61 Max (°C) =8.94 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.32 Unghiul vântului = 354 Stare = nori 85-100%']
+Targu_Neamt: 50 \ duminică \ 18:12:2022 \ 19:14:26
+[' Răsarit = 07:56:25 Apus = 16:25:41 Min (°C) = -3.76 Max (°C) =1.01 Presiune = 1039 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 336 Stare = nori 10-25%']
+Targu_Neamt: 51 \ luni \ 19:12:2022 \ 19:19:18
+[' Răsarit = 07:57:02 Apus = 16:26:01 Min (°C) = -6.33 Max (°C) =-0.93 Presiune = 1042 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 186 Stare = cer senin']
+Targu_Neamt: 51 \ marți \ 20:12:2022 \ 19:14:58
+[' Răsarit = 07:57:37 Apus = 16:26:23 Min (°C) = -4.25 Max (°C) =4.22 Presiune = 1026 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 231 Stare = nori 50-85%']
+Targu_Neamt: 51 \ miercuri \ 21:12:2022 \ 19:14:48
+[' Răsarit = 07:58:09 Apus = 16:26:49 Min (°C) = 1.44 Max (°C) =8.64 Presiune = 1018 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 1.49 Unghiul vântului = 216 Stare = nori 25-50%']
+Targu_Neamt: 51 \ joi \ 22:12:2022 \ 19:16:52
+[' Răsarit = 07:58:39 Apus = 16:27:17 Min (°C) = 1.64 Max (°C) =6.92 Presiune = 1014 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 214 Stare = nori 85-100%']
+Targu_Neamt: 51 \ vineri \ 23:12:2022 \ 19:16:41
+[' Răsarit = 07:59:06 Apus = 16:27:48 Min (°C) = 2.23 Max (°C) =9.83 Presiune = 1014 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.77 Unghiul vântului = 250 Stare = nori 25-50%']
+Targu_Neamt: 51 \ sâmbătă \ 24:12:2022 \ 19:16:17
+[' Răsarit = 07:59:30 Apus = 16:28:21 Min (°C) = 3.15 Max (°C) =6.26 Presiune = 1013 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 285 Stare = nori 85-100%']
+Targu_Neamt: 51 \ duminică \ 25:12:2022 \ 19:17:00
+[' Răsarit = 07:59:52 Apus = 16:28:57 Min (°C) = 3.48 Max (°C) =7.59 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 298 Stare = nori 50-85%']
+Targu_Neamt: 52 \ luni \ 26:12:2022 \ 19:19:45
+[' Răsarit = 08:00:11 Apus = 16:29:36 Min (°C) = 0.66 Max (°C) =7.43 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 228 Stare = nori 85-100%']
+Targu_Neamt: 52 \ marți \ 27:12:2022 \ 19:15:20
+[' Răsarit = 08:00:27 Apus = 16:30:17 Min (°C) = 2.53 Max (°C) =11.67 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.24 Unghiul vântului = 339 Stare = nori 50-85%']
+Targu_Neamt: 52 \ miercuri \ 28:12:2022 \ 19:17:34
+[' Răsarit = 08:00:40 Apus = 16:31:01 Min (°C) = -0.61 Max (°C) =5.46 Presiune = 1027 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 194 Stare = nori 25-50%']
+Targu_Neamt: 52 \ joi \ 29:12:2022 \ 19:19:53
+[' Răsarit = 08:00:51 Apus = 16:31:47 Min (°C) = -0.52 Max (°C) =8.17 Presiune = 1022 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 242 Stare = nori 85-100%']
+Targu_Neamt: 52 \ vineri \ 30:12:2022 \ 19:14:26
+[' Răsarit = 08:00:59 Apus = 16:32:36 Min (°C) = 1.97 Max (°C) =10.56 Presiune = 1023 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 253 Stare = nori 85-100%']
+Targu_Neamt: 52 \ sâmbătă \ 31:12:2022 \ 19:18:31
+[' Răsarit = 08:01:04 Apus = 16:33:27 Min (°C) = 4.56 Max (°C) =11.88 Presiune = 1026 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 239 Stare = nori 85-100%']
+Targu_Neamt: 00 \ duminică \ 01:1:2023 \ 19:20:42
+[' Răsarit = 08:01:06 Apus = 16:34:20 Min (°C) = 6.16 Max (°C) =14.53 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 234 Stare = nori 50-85%']
+Targu_Neamt: 01 \ luni \ 02:1:2023 \ 19:18:44
+[' Răsarit = 08:01:05 Apus = 16:35:16 Min (°C) = 8.07 Max (°C) =15.47 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 233 Stare = nori 10-25%']
+Targu_Neamt: 01 \ marți \ 03:1:2023 \ 19:21:15
+[' Răsarit = 08:01:02 Apus = 16:36:14 Min (°C) = 7.08 Max (°C) =14.09 Presiune = 1027 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 343 Stare = nori 50-85%']
+Targu_Neamt: 01 \ miercuri \ 04:1:2023 \ 19:18:09
+[' Răsarit = 08:00:56 Apus = 16:37:14 Min (°C) = 2.83 Max (°C) =8.03 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 184 Stare = nori 50-85%']
+Targu_Neamt: 01 \ joi \ 05:1:2023 \ 19:19:42
+[' Răsarit = 08:00:47 Apus = 16:38:16 Min (°C) = 1.99 Max (°C) =9.75 Presiune = 1010 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 5.19 Unghiul vântului = 283 Stare = nori 85-100%']
+Targu_Neamt: 01 \ vineri \ 06:1:2023 \ 19:25:03
+[' Răsarit = 08:00:35 Apus = 16:39:20 Min (°C) = 0.44 Max (°C) =7.66 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 351 Stare = nori 50-85%']
+Targu_Neamt: 01 \ sâmbătă \ 07:1:2023 \ 19:15:54
+[' Răsarit = 08:00:21 Apus = 16:40:26 Min (°C) = -0.66 Max (°C) =5.28 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 146 Stare = nori 85-100%']
+Targu_Neamt: 01 \ duminică \ 08:1:2023 \ 19:17:14
+[' Răsarit = 08:00:04 Apus = 16:41:34 Min (°C) = 2.03 Max (°C) =3.44 Presiune = 1022 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 4.51 Unghiul vântului = 145 Stare = nori 85-100%']
+Targu_Neamt: 02 \ luni \ 09:1:2023 \ 19:17:24
+[' Răsarit = 07:59:44 Apus = 16:42:44 Min (°C) = 1.83 Max (°C) =7.74 Presiune = 1013 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.93 Unghiul vântului = 166 Stare = nori 50-85%']
+Targu_Neamt: 02 \ marți \ 10:1:2023 \ 19:14:53
+[' Răsarit = 07:59:22 Apus = 16:43:56 Min (°C) = 2.72 Max (°C) =7.2 Presiune = 1014 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 128 Stare = nori 85-100%']
+Targu_Neamt: 02 \ miercuri \ 11:1:2023 \ 19:17:01
+[' Răsarit = 07:58:56 Apus = 16:45:09 Min (°C) = 0.96 Max (°C) =5.38 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 136 Stare = nori 85-100%']
+Targu_Neamt: 02 \ joi \ 12:1:2023 \ 19:16:06
+[' Răsarit = 07:58:28 Apus = 16:46:24 Min (°C) = 0.09 Max (°C) =2.2 Presiune = 1023 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 130 Stare = nori 85-100%']
+Targu_Neamt: 02 \ vineri \ 13:1:2023 \ 19:21:43
+[' Răsarit = 07:57:58 Apus = 16:47:40 Min (°C) = 1.83 Max (°C) =7.57 Presiune = 1020 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 171 Stare = nori 50-85%']
+Targu_Neamt: 02 \ sâmbătă \ 14:1:2023 \ 19:17:25
+[' Răsarit = 07:57:25 Apus = 16:48:58 Min (°C) = 0.35 Max (°C) =5.35 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 191 Stare = nori 50-85%']
+Targu_Neamt: 02 \ duminică \ 15:1:2023 \ 19:18:28
+[' Răsarit = 07:56:49 Apus = 16:50:17 Min (°C) = -0.33 Max (°C) =7.39 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 198 Stare = cer senin']
+Targu_Neamt: 03 \ luni \ 16:1:2023 \ 19:16:05
+[' Răsarit = 07:56:11 Apus = 16:51:38 Min (°C) = 0.41 Max (°C) =4.33 Presiune = 1004 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 166 Stare = nori 85-100%']
+Targu_Neamt: 03 \ marți \ 17:1:2023 \ 19:18:11
+[' Răsarit = 07:55:30 Apus = 16:53:00 Min (°C) = 1.27 Max (°C) =9.96 Presiune = 1000 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 192 Stare = nori 50-85%']
+Targu_Neamt: 03 \ miercuri \ 18:1:2023 \ 19:20:11
+[' Răsarit = 07:54:47 Apus = 16:54:23 Min (°C) = 3.37 Max (°C) =14.68 Presiune = 1002 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 7.43 Unghiul vântului = 247 Stare = nori 25-50%']
+Targu_Neamt: 03 \ joi \ 19:1:2023 \ 19:15:26
+[' Răsarit = 07:54:02 Apus = 16:55:47 Min (°C) = 5.46 Max (°C) =16.49 Presiune = 1003 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 187 Stare = nori 50-85%']
+Targu_Neamt: 03 \ vineri \ 20:1:2023 \ 19:15:10
+[' Răsarit = 07:53:14 Apus = 16:57:13 Min (°C) = 4.71 Max (°C) =7.26 Presiune = 1008 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 349 Stare = nori 85-100%']
+Targu_Neamt: 03 \ sâmbătă \ 21:1:2023 \ 19:15:36
+[' Răsarit = 07:52:23 Apus = 16:58:39 Min (°C) = 2.95 Max (°C) =9.18 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 4 Stare = cer senin']
+Targu_Neamt: 04 \ luni \ 23:1:2023 \ 17:06:16
+[' Răsarit = 07:50:36 Apus = 17:01:34 Min (°C) = 0.27 Max (°C) =5.35 Presiune = 1033 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.14 Unghiul vântului = 7 Stare = nori 25-50%']
+Targu_Neamt: 04 \ marți \ 24:1:2023 \ 20:05:05
+[' Răsarit = 07:49:38 Apus = 17:03:03 Min (°C) = -0.53 Max (°C) =2.44 Presiune = 1036 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 334 Stare = nori 50-85%']
+Targu_Neamt: 04 \ miercuri \ 25:1:2023 \ 21:55:25
+[' Răsarit = 07:48:39 Apus = 17:04:33 Min (°C) = -3.92 Max (°C) =0.68 Presiune = 1030 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 168 Stare = nori 85-100%']

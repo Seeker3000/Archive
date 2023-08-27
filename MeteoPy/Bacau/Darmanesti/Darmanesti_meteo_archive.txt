@@ -1266,3 +1266,169 @@ Darmanesti: 44 \ marți \ 01:11:2022 \ 19:03:44
 [' Răsarit = 06:54:55 Apus = 17:00:21 Min (°C) = 9.25 Max (°C) =21.4 Presiune = 1021 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 250 Stare = nori 25-50%']
 Darmanesti: 44 \ miercuri \ 02:11:2022 \ 19:04:19
 [' Răsarit = 06:56:22 Apus = 16:58:52 Min (°C) = 10.75 Max (°C) =20.75 Presiune = 1020 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 284 Stare = nori 50-85%']
+Darmanesti: 44 \ joi \ 03:11:2022 \ 19:03:37
+[' Răsarit = 06:57:50 Apus = 16:57:25 Min (°C) = 7.42 Max (°C) =13.86 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 277 Stare = nori 10-25%']
+Darmanesti: 44 \ vineri \ 04:11:2022 \ 19:03:43
+[' Răsarit = 06:59:18 Apus = 16:56:00 Min (°C) = 4.84 Max (°C) =15.66 Presiune = 1013 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 251 Stare = nori 85-100%']
+Darmanesti: 44 \ sâmbătă \ 05:11:2022 \ 19:03:41
+[' Răsarit = 07:00:45 Apus = 16:54:36 Min (°C) = 7.96 Max (°C) =15.05 Presiune = 1016 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 100 Stare = nori 85-100%']
+Darmanesti: 44 \ duminică \ 06:11:2022 \ 19:03:29
+[' Răsarit = 07:02:13 Apus = 16:53:14 Min (°C) = 10.23 Max (°C) =12.32 Presiune = 1020 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 122 Stare = nori 85-100%']
+Darmanesti: 45 \ luni \ 07:11:2022 \ 19:03:34
+[' Răsarit = 07:03:41 Apus = 16:51:53 Min (°C) = 7.39 Max (°C) =17.05 Presiune = 1020 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 217 Stare = cer senin']
+Darmanesti: 45 \ marți \ 08:11:2022 \ 19:03:35
+[' Răsarit = 07:05:09 Apus = 16:50:34 Min (°C) = 7.8 Max (°C) =15.77 Presiune = 1022 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 197 Stare = nori 50-85%']
+Darmanesti: 45 \ miercuri \ 09:11:2022 \ 19:03:22
+[' Răsarit = 07:06:37 Apus = 16:49:17 Min (°C) = 7.06 Max (°C) =16.98 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 227 Stare = cer senin']
+Darmanesti: 45 \ joi \ 10:11:2022 \ 19:03:35
+[' Răsarit = 07:08:04 Apus = 16:48:02 Min (°C) = 4.85 Max (°C) =17.9 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 257 Stare = nori 25-50%']
+Darmanesti: 45 \ vineri \ 11:11:2022 \ 19:03:26
+[' Răsarit = 07:09:32 Apus = 16:46:49 Min (°C) = 6.68 Max (°C) =11.35 Presiune = 1032 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 42 Stare = nori 85-100%']
+Darmanesti: 45 \ sâmbătă \ 12:11:2022 \ 19:03:45
+[' Răsarit = 07:10:59 Apus = 16:45:37 Min (°C) = 4.43 Max (°C) =13.16 Presiune = 1033 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 256 Stare = nori 50-85%']
+Darmanesti: 45 \ duminică \ 13:11:2022 \ 19:03:26
+[' Răsarit = 07:12:26 Apus = 16:44:28 Min (°C) = 3.85 Max (°C) =15.3 Presiune = 1030 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 276 Stare = nori 10-25%']
+Darmanesti: 46 \ luni \ 14:11:2022 \ 19:03:21
+[' Răsarit = 07:13:52 Apus = 16:43:20 Min (°C) = 4.42 Max (°C) =11.99 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 211 Stare = nori 25-50%']
+Darmanesti: 46 \ marți \ 15:11:2022 \ 19:03:52
+[' Răsarit = 07:15:19 Apus = 16:42:14 Min (°C) = 3.85 Max (°C) =14.3 Presiune = 1014 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 247 Stare = nori 50-85%']
+Darmanesti: 46 \ miercuri \ 16:11:2022 \ 19:03:22
+[' Răsarit = 07:16:44 Apus = 16:41:11 Min (°C) = 4.85 Max (°C) =13.87 Presiune = 1005 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 253 Stare = nori 50-85%']
+Darmanesti: 46 \ joi \ 17:11:2022 \ 19:03:39
+[' Răsarit = 07:18:10 Apus = 16:40:10 Min (°C) = 2.85 Max (°C) =10.19 Presiune = 1002 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 19 Stare = nori 85-100%']
+Darmanesti: 46 \ vineri \ 18:11:2022 \ 19:03:38
+[' Răsarit = 07:19:35 Apus = 16:39:10 Min (°C) = 3.85 Max (°C) =13.36 Presiune = 1001 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 153 Stare = nori 85-100%']
+Darmanesti: 46 \ sâmbătă \ 19:11:2022 \ 19:03:25
+[' Răsarit = 07:20:59 Apus = 16:38:13 Min (°C) = 0.85 Max (°C) =10.32 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.16 Unghiul vântului = 246 Stare = nori 85-100%']
+Darmanesti: 46 \ duminică \ 20:11:2022 \ 19:03:28
+[' Răsarit = 07:22:22 Apus = 16:37:18 Min (°C) = 0.85 Max (°C) =5.14 Presiune = 1011 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 356 Stare = nori 85-100%']
+Darmanesti: 47 \ luni \ 21:11:2022 \ 19:03:55
+[' Răsarit = 07:23:45 Apus = 16:36:25 Min (°C) = 0.85 Max (°C) =4.32 Presiune = 1006 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 224 Stare = nori 85-100%']
+Darmanesti: 47 \ marți \ 22:11:2022 \ 19:03:28
+[' Răsarit = 07:25:07 Apus = 16:35:35 Min (°C) = 0.43 Max (°C) =6.81 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 262 Stare = nori 25-50%']
+Darmanesti: 47 \ miercuri \ 23:11:2022 \ 19:03:39
+[' Răsarit = 07:26:29 Apus = 16:34:47 Min (°C) = 0.15 Max (°C) =4.54 Presiune = 1004 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 304 Stare = nori 85-100%']
+Darmanesti: 47 \ joi \ 24:11:2022 \ 19:03:33
+[' Răsarit = 07:27:49 Apus = 16:34:01 Min (°C) = 0.85 Max (°C) =8.68 Presiune = 1010 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 230 Stare = nori 85-100%']
+Darmanesti: 47 \ vineri \ 25:11:2022 \ 19:03:45
+[' Răsarit = 07:29:09 Apus = 16:33:18 Min (°C) = 1.85 Max (°C) =4.8 Presiune = 1021 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.04 Unghiul vântului = 126 Stare = nori 85-100%']
+Darmanesti: 47 \ sâmbătă \ 26:11:2022 \ 19:03:28
+[' Răsarit = 07:30:27 Apus = 16:32:37 Min (°C) = -0.25 Max (°C) =6.01 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 256 Stare = nori 85-100%']
+Darmanesti: 47 \ duminică \ 27:11:2022 \ 19:03:41
+[' Răsarit = 07:31:44 Apus = 16:31:58 Min (°C) = 0.26 Max (°C) =5.63 Presiune = 1029 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 62 Stare = nori 85-100%']
+Darmanesti: 48 \ luni \ 28:11:2022 \ 19:03:41
+[' Răsarit = 07:33:01 Apus = 16:31:22 Min (°C) = 0.79 Max (°C) =2.58 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 73 Stare = nori 85-100%']
+Darmanesti: 48 \ marți \ 29:11:2022 \ 19:03:23
+[' Răsarit = 07:34:16 Apus = 16:30:48 Min (°C) = -0.55 Max (°C) =2.91 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 48 Stare = nori 85-100%']
+Darmanesti: 48 \ miercuri \ 30:11:2022 \ 19:03:38
+[' Răsarit = 07:35:29 Apus = 16:30:17 Min (°C) = 1.59 Max (°C) =3.94 Presiune = 1028 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 50 Stare = nori 85-100%']
+Darmanesti: 48 \ joi \ 01:12:2022 \ 19:03:31
+[' Răsarit = 07:36:42 Apus = 16:29:49 Min (°C) = -1.19 Max (°C) =2.68 Presiune = 1027 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 47 Stare = zăpadă slabă']
+Darmanesti: 48 \ vineri \ 02:12:2022 \ 19:03:29
+[' Răsarit = 07:37:52 Apus = 16:29:23 Min (°C) = -0.39 Max (°C) =2.93 Presiune = 1028 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 342 Stare = nori 50-85%']
+Darmanesti: 48 \ sâmbătă \ 03:12:2022 \ 19:03:42
+[' Răsarit = 07:39:02 Apus = 16:29:00 Min (°C) = -0.15 Max (°C) =5.34 Presiune = 1030 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 118 Stare = nori 85-100%']
+Darmanesti: 48 \ duminică \ 04:12:2022 \ 19:03:19
+[' Răsarit = 07:40:10 Apus = 16:28:39 Min (°C) = -1.15 Max (°C) =1.58 Presiune = 1031 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 103 Stare = nori 85-100%']
+Darmanesti: 49 \ luni \ 05:12:2022 \ 19:07:08
+[' Răsarit = 07:41:16 Apus = 16:28:21 Min (°C) = -1.15 Max (°C) =1.42 Presiune = 1028 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 132 Stare = nori 85-100%']
+Darmanesti: 49 \ marți \ 06:12:2022 \ 19:03:51
+[' Răsarit = 07:42:20 Apus = 16:28:06 Min (°C) = 0.85 Max (°C) =3.71 Presiune = 1018 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 189 Stare = nori 85-100%']
+Darmanesti: 49 \ miercuri \ 07:12:2022 \ 19:03:28
+[' Răsarit = 07:43:23 Apus = 16:27:53 Min (°C) = 2.5 Max (°C) =7.14 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 255 Stare = nori 85-100%']
+Darmanesti: 49 \ joi \ 08:12:2022 \ 19:03:54
+[' Răsarit = 07:44:24 Apus = 16:27:43 Min (°C) = 0.85 Max (°C) =8.75 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 193 Stare = nori 85-100%']
+Darmanesti: 49 \ vineri \ 09:12:2022 \ 19:03:14
+[' Răsarit = 07:45:23 Apus = 16:27:36 Min (°C) = 3.16 Max (°C) =10.39 Presiune = 1011 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 224 Stare = nori 85-100%']
+Darmanesti: 49 \ sâmbătă \ 10:12:2022 \ 19:03:35
+[' Răsarit = 07:46:20 Apus = 16:27:32 Min (°C) = 6.85 Max (°C) =14.68 Presiune = 1002 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 247 Stare = nori 85-100%']
+Darmanesti: 49 \ duminică \ 11:12:2022 \ 19:03:12
+[' Răsarit = 07:47:15 Apus = 16:27:30 Min (°C) = 5.82 Max (°C) =14.91 Presiune = 997 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 232 Stare = nori 85-100%']
+Darmanesti: 50 \ luni \ 12:12:2022 \ 19:03:42
+[' Răsarit = 07:48:08 Apus = 16:27:31 Min (°C) = -0.16 Max (°C) =6.04 Presiune = 1007 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 231 Stare = nori 85-100%']
+Darmanesti: 50 \ marți \ 13:12:2022 \ 19:03:24
+[' Răsarit = 07:48:59 Apus = 16:27:35 Min (°C) = -4.13 Max (°C) =1.67 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 252 Stare = cer senin']
+Darmanesti: 50 \ miercuri \ 14:12:2022 \ 19:04:27
+[' Răsarit = 07:49:48 Apus = 16:27:41 Min (°C) = -5.03 Max (°C) =1.91 Presiune = 1015 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 161 Stare = nori 50-85%']
+Darmanesti: 50 \ joi \ 15:12:2022 \ 19:03:46
+[' Răsarit = 07:50:34 Apus = 16:27:51 Min (°C) = -0.35 Max (°C) =7.5 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 253 Stare = nori 10-25%']
+Darmanesti: 50 \ vineri \ 16:12:2022 \ 19:03:35
+[' Răsarit = 07:51:18 Apus = 16:28:03 Min (°C) = 2.2 Max (°C) =13.01 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 251 Stare = nori 50-85%']
+Darmanesti: 50 \ sâmbătă \ 17:12:2022 \ 19:03:15
+[' Răsarit = 07:52:00 Apus = 16:28:17 Min (°C) = 1.85 Max (°C) =14.78 Presiune = 1016 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 269 Stare = nori 85-100%']
+Darmanesti: 50 \ duminică \ 18:12:2022 \ 19:03:19
+[' Răsarit = 07:52:40 Apus = 16:28:35 Min (°C) = -3.15 Max (°C) =5.14 Presiune = 1038 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 67 Stare = nori 85-100%']
+Darmanesti: 51 \ luni \ 19:12:2022 \ 19:03:30
+[' Răsarit = 07:53:17 Apus = 16:28:55 Min (°C) = -5.15 Max (°C) =0 Presiune = 1043 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 227 Stare = cer senin']
+Darmanesti: 51 \ marți \ 20:12:2022 \ 19:03:46
+[' Răsarit = 07:53:52 Apus = 16:29:18 Min (°C) = -3.67 Max (°C) =6.45 Presiune = 1028 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 3.36 Unghiul vântului = 252 Stare = nori 50-85%']
+Darmanesti: 51 \ miercuri \ 21:12:2022 \ 19:03:49
+[' Răsarit = 07:54:24 Apus = 16:29:43 Min (°C) = -3.15 Max (°C) =11.48 Presiune = 1019 Umiditate (%) = 44 Index UV = 0 Viteza vântului = 2.9 Unghiul vântului = 251 Stare = cer senin']
+Darmanesti: 51 \ joi \ 22:12:2022 \ 19:03:41
+[' Răsarit = 07:54:53 Apus = 16:30:11 Min (°C) = -3.15 Max (°C) =8.88 Presiune = 1015 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 249 Stare = nori 85-100%']
+Darmanesti: 51 \ vineri \ 23:12:2022 \ 19:03:34
+[' Răsarit = 07:55:20 Apus = 16:30:42 Min (°C) = -3.15 Max (°C) =10.03 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 250 Stare = nori 10-25%']
+Darmanesti: 51 \ sâmbătă \ 24:12:2022 \ 19:03:23
+[' Răsarit = 07:55:45 Apus = 16:31:15 Min (°C) = -1.15 Max (°C) =7.72 Presiune = 1013 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 263 Stare = nori 85-100%']
+Darmanesti: 51 \ duminică \ 25:12:2022 \ 19:03:22
+[' Răsarit = 07:56:07 Apus = 16:31:51 Min (°C) = 1.85 Max (°C) =8.83 Presiune = 1026 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 292 Stare = nori 50-85%']
+Darmanesti: 52 \ luni \ 26:12:2022 \ 19:03:29
+[' Răsarit = 07:56:26 Apus = 16:32:30 Min (°C) = 0.85 Max (°C) =9.44 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 251 Stare = nori 85-100%']
+Darmanesti: 52 \ marți \ 27:12:2022 \ 19:03:43
+[' Răsarit = 07:56:43 Apus = 16:33:10 Min (°C) = 3.22 Max (°C) =9.72 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 358 Stare = nori 50-85%']
+Darmanesti: 52 \ miercuri \ 28:12:2022 \ 19:03:28
+[' Răsarit = 07:56:57 Apus = 16:33:54 Min (°C) = -0.85 Max (°C) =6.1 Presiune = 1029 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 244 Stare = cer senin']
+Darmanesti: 52 \ joi \ 29:12:2022 \ 19:03:36
+[' Răsarit = 07:57:08 Apus = 16:34:39 Min (°C) = -0.48 Max (°C) =9.34 Presiune = 1023 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 250 Stare = nori 50-85%']
+Darmanesti: 52 \ vineri \ 30:12:2022 \ 19:03:23
+[' Răsarit = 07:57:16 Apus = 16:35:27 Min (°C) = 1.8 Max (°C) =9.85 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 257 Stare = nori 25-50%']
+Darmanesti: 52 \ sâmbătă \ 31:12:2022 \ 19:03:17
+[' Răsarit = 07:57:22 Apus = 16:36:17 Min (°C) = 4.65 Max (°C) =12.67 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 243 Stare = nori 85-100%']
+Darmanesti: 00 \ duminică \ 01:1:2023 \ 19:03:36
+[' Răsarit = 07:57:25 Apus = 16:37:10 Min (°C) = 5.85 Max (°C) =14.36 Presiune = 1029 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 252 Stare = nori 25-50%']
+Darmanesti: 01 \ luni \ 02:1:2023 \ 19:03:51
+[' Răsarit = 07:57:26 Apus = 16:38:05 Min (°C) = 2.85 Max (°C) =17.46 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 251 Stare = cer senin']
+Darmanesti: 01 \ marți \ 03:1:2023 \ 19:03:45
+[' Răsarit = 07:57:24 Apus = 16:39:01 Min (°C) = 7.31 Max (°C) =15.05 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 300 Stare = nori 25-50%']
+Darmanesti: 01 \ miercuri \ 04:1:2023 \ 19:03:35
+[' Răsarit = 07:57:19 Apus = 16:40:00 Min (°C) = 1.85 Max (°C) =8.72 Presiune = 1027 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 239 Stare = nori 50-85%']
+Darmanesti: 01 \ joi \ 05:1:2023 \ 19:03:37
+[' Răsarit = 07:57:11 Apus = 16:41:01 Min (°C) = 3.38 Max (°C) =9.19 Presiune = 1011 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 6.12 Unghiul vântului = 276 Stare = nori 50-85%']
+Darmanesti: 01 \ vineri \ 06:1:2023 \ 19:08:22
+[' Răsarit = 07:57:01 Apus = 16:42:04 Min (°C) = 1.43 Max (°C) =7.65 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 73 Stare = nori 85-100%']
+Darmanesti: 01 \ sâmbătă \ 07:1:2023 \ 19:03:39
+[' Răsarit = 07:56:48 Apus = 16:43:09 Min (°C) = 0.62 Max (°C) =7.16 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 171 Stare = nori 85-100%']
+Darmanesti: 01 \ duminică \ 08:1:2023 \ 19:03:53
+[' Răsarit = 07:56:32 Apus = 16:44:15 Min (°C) = 1.85 Max (°C) =4.96 Presiune = 1022 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 122 Stare = nori 85-100%']
+Darmanesti: 02 \ luni \ 09:1:2023 \ 19:03:35
+[' Răsarit = 07:56:14 Apus = 16:45:23 Min (°C) = 1.76 Max (°C) =8.89 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 177 Stare = nori 85-100%']
+Darmanesti: 02 \ marți \ 10:1:2023 \ 19:03:10
+[' Răsarit = 07:55:53 Apus = 16:46:33 Min (°C) = 1.92 Max (°C) =5.85 Presiune = 1014 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 41 Stare = nori 85-100%']
+Darmanesti: 02 \ miercuri \ 11:1:2023 \ 19:03:07
+[' Răsarit = 07:55:29 Apus = 16:47:45 Min (°C) = -1.15 Max (°C) =5.29 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 120 Stare = nori 85-100%']
+Darmanesti: 02 \ joi \ 12:1:2023 \ 19:03:38
+[' Răsarit = 07:55:03 Apus = 16:48:58 Min (°C) = -1.15 Max (°C) =3.68 Presiune = 1023 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 122 Stare = nori 85-100%']
+Darmanesti: 02 \ vineri \ 13:1:2023 \ 19:04:15
+[' Răsarit = 07:54:35 Apus = 16:50:13 Min (°C) = -0.15 Max (°C) =7.2 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 238 Stare = nori 50-85%']
+Darmanesti: 02 \ sâmbătă \ 14:1:2023 \ 19:03:45
+[' Răsarit = 07:54:03 Apus = 16:51:29 Min (°C) = -0.15 Max (°C) =6.89 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 356 Stare = nori 50-85%']
+Darmanesti: 02 \ duminică \ 15:1:2023 \ 19:03:24
+[' Răsarit = 07:53:30 Apus = 16:52:46 Min (°C) = 1.27 Max (°C) =8.33 Presiune = 1016 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.42 Unghiul vântului = 247 Stare = cer senin']
+Darmanesti: 03 \ luni \ 16:1:2023 \ 19:02:57
+[' Răsarit = 07:52:53 Apus = 16:54:05 Min (°C) = 1.83 Max (°C) =7.32 Presiune = 1005 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 202 Stare = nori 85-100%']
+Darmanesti: 03 \ marți \ 17:1:2023 \ 19:03:52
+[' Răsarit = 07:52:15 Apus = 16:55:24 Min (°C) = 2.33 Max (°C) =11.31 Presiune = 1001 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 249 Stare = nori 25-50%']
+Darmanesti: 03 \ miercuri \ 18:1:2023 \ 19:03:18
+[' Răsarit = 07:51:34 Apus = 16:56:45 Min (°C) = 5.8 Max (°C) =15.1 Presiune = 1004 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 225 Stare = cer senin']
+Darmanesti: 03 \ joi \ 19:1:2023 \ 19:03:08
+[' Răsarit = 07:50:50 Apus = 16:58:08 Min (°C) = 7.38 Max (°C) =17.09 Presiune = 1004 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.27 Unghiul vântului = 210 Stare = nori 50-85%']
+Darmanesti: 03 \ vineri \ 20:1:2023 \ 19:03:39
+[' Răsarit = 07:50:05 Apus = 16:59:31 Min (°C) = 4.85 Max (°C) =10.06 Presiune = 1006 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 93 Stare = nori 85-100%']
+Darmanesti: 03 \ sâmbătă \ 21:1:2023 \ 19:03:25
+[' Răsarit = 07:49:17 Apus = 17:00:55 Min (°C) = 1.85 Max (°C) =10.33 Presiune = 1018 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 322 Stare = cer senin']
+Darmanesti: 04 \ luni \ 23:1:2023 \ 16:52:04
+[' Răsarit = 07:47:33 Apus = 17:03:45 Min (°C) = -0.15 Max (°C) =6.01 Presiune = 1032 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 42 Stare = cer senin']
+Darmanesti: 04 \ marți \ 24:1:2023 \ 19:52:10
+[' Răsarit = 07:46:39 Apus = 17:05:12 Min (°C) = -2.15 Max (°C) =1.76 Presiune = 1035 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 30 Stare = nori 85-100%']
+Darmanesti: 04 \ miercuri \ 25:1:2023 \ 21:38:08
+[' Răsarit = 07:45:42 Apus = 17:06:39 Min (°C) = -2.74 Max (°C) =-0.18 Presiune = 1031 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.61 Unghiul vântului = 175 Stare = nori 85-100%']

@@ -1270,3 +1270,169 @@ Scornicesti: 44 \ marți \ 01:11:2022 \ 19:16:02
 [' Răsarit = 06:58:56 Apus = 17:11:43 Min (°C) = 10.93 Max (°C) =20.32 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 207 Stare = cer senin']
 Scornicesti: 44 \ miercuri \ 02:11:2022 \ 19:16:43
 [' Răsarit = 07:00:18 Apus = 17:10:20 Min (°C) = 12.57 Max (°C) =25.2 Presiune = 1017 Umiditate (%) = 38 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 306 Stare = nori 25-50%']
+Scornicesti: 44 \ joi \ 03:11:2022 \ 19:17:39
+[' Răsarit = 07:01:40 Apus = 17:08:58 Min (°C) = 12.29 Max (°C) =18.17 Presiune = 1020 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 3 Unghiul vântului = 99 Stare = nori 25-50%']
+Scornicesti: 44 \ vineri \ 04:11:2022 \ 19:20:21
+[' Răsarit = 07:03:02 Apus = 17:07:39 Min (°C) = 8.82 Max (°C) =17.34 Presiune = 1012 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 56 Stare = nori 85-100%']
+Scornicesti: 44 \ sâmbătă \ 05:11:2022 \ 19:21:37
+[' Răsarit = 07:04:24 Apus = 17:06:20 Min (°C) = 10.36 Max (°C) =18.32 Presiune = 1012 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.8 Unghiul vântului = 66 Stare = nori 85-100%']
+Scornicesti: 44 \ duminică \ 06:11:2022 \ 19:14:58
+[' Răsarit = 07:05:46 Apus = 17:05:04 Min (°C) = 12.6 Max (°C) =17.19 Presiune = 1017 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 8.98 Unghiul vântului = 80 Stare = nori 85-100%']
+Scornicesti: 45 \ luni \ 07:11:2022 \ 19:14:59
+[' Răsarit = 07:07:09 Apus = 17:03:49 Min (°C) = 11.44 Max (°C) =14.87 Presiune = 1021 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 342 Stare = nori 25-50%']
+Scornicesti: 45 \ marți \ 08:11:2022 \ 19:15:04
+[' Răsarit = 07:08:31 Apus = 17:02:35 Min (°C) = 9.41 Max (°C) =16.8 Presiune = 1021 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 118 Stare = nori 10-25%']
+Scornicesti: 45 \ miercuri \ 09:11:2022 \ 19:17:12
+[' Răsarit = 07:09:53 Apus = 17:01:24 Min (°C) = 8.04 Max (°C) =15.9 Presiune = 1023 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 93 Stare = cer senin']
+Scornicesti: 45 \ joi \ 10:11:2022 \ 19:18:03
+[' Răsarit = 07:11:16 Apus = 17:00:14 Min (°C) = 8.24 Max (°C) =16.21 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 274 Stare = nori 25-50%']
+Scornicesti: 45 \ vineri \ 11:11:2022 \ 19:17:03
+[' Răsarit = 07:12:38 Apus = 16:59:06 Min (°C) = 8.52 Max (°C) =10.67 Presiune = 1032 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 263 Stare = nori 85-100%']
+Scornicesti: 45 \ sâmbătă \ 12:11:2022 \ 19:15:09
+[' Răsarit = 07:14:00 Apus = 16:58:00 Min (°C) = 7.29 Max (°C) =13.04 Presiune = 1033 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 101 Stare = cer senin']
+Scornicesti: 45 \ duminică \ 13:11:2022 \ 19:19:15
+[' Răsarit = 07:15:21 Apus = 16:56:55 Min (°C) = 6.36 Max (°C) =13.96 Presiune = 1029 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 180 Stare = nori 50-85%']
+Scornicesti: 46 \ luni \ 14:11:2022 \ 19:17:02
+[' Răsarit = 07:16:43 Apus = 16:55:53 Min (°C) = 7.01 Max (°C) =12.43 Presiune = 1026 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 99 Stare = nori 85-100%']
+Scornicesti: 46 \ marți \ 15:11:2022 \ 19:15:43
+[' Răsarit = 07:18:04 Apus = 16:54:53 Min (°C) = 4.05 Max (°C) =10.78 Presiune = 1017 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 223 Stare = nori 10-25%']
+Scornicesti: 46 \ miercuri \ 16:11:2022 \ 19:14:52
+[' Răsarit = 07:19:25 Apus = 16:53:54 Min (°C) = 4.87 Max (°C) =13.88 Presiune = 1005 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.34 Unghiul vântului = 242 Stare = nori 25-50%']
+Scornicesti: 46 \ joi \ 17:11:2022 \ 19:15:08
+[' Răsarit = 07:20:45 Apus = 16:52:58 Min (°C) = 8.71 Max (°C) =13.96 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.81 Unghiul vântului = 272 Stare = nori 50-85%']
+Scornicesti: 46 \ vineri \ 18:11:2022 \ 19:17:30
+[' Răsarit = 07:22:05 Apus = 16:52:03 Min (°C) = 6.33 Max (°C) =11.82 Presiune = 1001 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 51 Stare = ploaie ușoară']
+Scornicesti: 46 \ sâmbătă \ 19:11:2022 \ 19:19:13
+[' Răsarit = 07:23:24 Apus = 16:51:11 Min (°C) = 8.17 Max (°C) =13.5 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 88 Stare = nori 85-100%']
+Scornicesti: 46 \ duminică \ 20:11:2022 \ 19:15:02
+[' Răsarit = 07:24:43 Apus = 16:50:21 Min (°C) = 7.74 Max (°C) =9.95 Presiune = 1009 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 79 Stare = nori 85-100%']
+Scornicesti: 47 \ luni \ 21:11:2022 \ 19:17:33
+[' Răsarit = 07:26:01 Apus = 16:49:33 Min (°C) = 6.13 Max (°C) =9.75 Presiune = 1006 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 5.3 Unghiul vântului = 261 Stare = nori 85-100%']
+Scornicesti: 47 \ marți \ 22:11:2022 \ 19:18:08
+[' Răsarit = 07:27:19 Apus = 16:48:47 Min (°C) = 3.61 Max (°C) =8.95 Presiune = 1011 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.34 Unghiul vântului = 89 Stare = nori 85-100%']
+Scornicesti: 47 \ miercuri \ 23:11:2022 \ 19:19:36
+[' Răsarit = 07:28:36 Apus = 16:48:03 Min (°C) = 6.34 Max (°C) =9.94 Presiune = 1005 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 278 Stare = nori 85-100%']
+Scornicesti: 47 \ joi \ 24:11:2022 \ 19:17:09
+[' Răsarit = 07:29:52 Apus = 16:47:22 Min (°C) = 5.63 Max (°C) =7.92 Presiune = 1011 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 6.22 Unghiul vântului = 267 Stare = nori 85-100%']
+Scornicesti: 47 \ vineri \ 25:11:2022 \ 19:18:16
+[' Răsarit = 07:31:07 Apus = 16:46:43 Min (°C) = 3.77 Max (°C) =9.65 Presiune = 1019 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 308 Stare = cer senin']
+Scornicesti: 47 \ sâmbătă \ 26:11:2022 \ 19:14:45
+[' Răsarit = 07:32:21 Apus = 16:46:06 Min (°C) = 2.18 Max (°C) =7.99 Presiune = 1027 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 305 Stare = nori 10-25%']
+Scornicesti: 47 \ duminică \ 27:11:2022 \ 19:18:24
+[' Răsarit = 07:33:35 Apus = 16:45:31 Min (°C) = 2.87 Max (°C) =6.3 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 143 Stare = nori 85-100%']
+Scornicesti: 48 \ luni \ 28:11:2022 \ 19:15:01
+[' Răsarit = 07:34:47 Apus = 16:44:59 Min (°C) = 3.1 Max (°C) =5.43 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.97 Unghiul vântului = 95 Stare = nori 85-100%']
+Scornicesti: 48 \ marți \ 29:11:2022 \ 19:14:47
+[' Răsarit = 07:35:58 Apus = 16:44:30 Min (°C) = 1.6 Max (°C) =5.68 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.9 Unghiul vântului = 92 Stare = nori 85-100%']
+Scornicesti: 48 \ miercuri \ 30:11:2022 \ 19:17:10
+[' Răsarit = 07:37:08 Apus = 16:44:02 Min (°C) = 3.32 Max (°C) =5.67 Presiune = 1025 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 5.26 Unghiul vântului = 87 Stare = nori 85-100%']
+Scornicesti: 48 \ joi \ 01:12:2022 \ 19:14:51
+[' Răsarit = 07:38:17 Apus = 16:43:37 Min (°C) = 0.82 Max (°C) =3.13 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 64 Stare = zăpadă slabă']
+Scornicesti: 48 \ vineri \ 02:12:2022 \ 19:15:56
+[' Răsarit = 07:39:24 Apus = 16:43:15 Min (°C) = 1.08 Max (°C) =2.27 Presiune = 1027 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 121 Stare = nori 85-100%']
+Scornicesti: 48 \ sâmbătă \ 03:12:2022 \ 19:17:02
+[' Răsarit = 07:40:30 Apus = 16:42:55 Min (°C) = 1.83 Max (°C) =5.71 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 85 Stare = nori 85-100%']
+Scornicesti: 48 \ duminică \ 04:12:2022 \ 19:17:55
+[' Răsarit = 07:41:35 Apus = 16:42:37 Min (°C) = 2.21 Max (°C) =3.56 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.54 Unghiul vântului = 78 Stare = nori 85-100%']
+Scornicesti: 49 \ luni \ 05:12:2022 \ 19:19:38
+[' Răsarit = 07:42:38 Apus = 16:42:23 Min (°C) = 1.95 Max (°C) =3.05 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 77 Stare = nori 85-100%']
+Scornicesti: 49 \ marți \ 06:12:2022 \ 19:18:33
+[' Răsarit = 07:43:40 Apus = 16:42:10 Min (°C) = 3.04 Max (°C) =6.02 Presiune = 1019 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 78 Stare = nori 85-100%']
+Scornicesti: 49 \ miercuri \ 07:12:2022 \ 19:15:50
+[' Răsarit = 07:44:40 Apus = 16:42:00 Min (°C) = 3.35 Max (°C) =6.99 Presiune = 1015 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 295 Stare = nori 85-100%']
+Scornicesti: 49 \ joi \ 08:12:2022 \ 19:18:27
+[' Răsarit = 07:45:38 Apus = 16:41:53 Min (°C) = 5.3 Max (°C) =7.42 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 77 Stare = nori 85-100%']
+Scornicesti: 49 \ vineri \ 09:12:2022 \ 19:22:20
+[' Răsarit = 07:46:35 Apus = 16:41:48 Min (°C) = 4.04 Max (°C) =8.6 Presiune = 1012 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 56 Stare = nori 85-100%']
+Scornicesti: 49 \ sâmbătă \ 10:12:2022 \ 19:15:44
+[' Răsarit = 07:47:29 Apus = 16:41:46 Min (°C) = 6.75 Max (°C) =12 Presiune = 1003 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 81 Stare = nori 85-100%']
+Scornicesti: 49 \ duminică \ 11:12:2022 \ 19:18:09
+[' Răsarit = 07:48:22 Apus = 16:41:46 Min (°C) = 3.92 Max (°C) =11.26 Presiune = 999 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 5.54 Unghiul vântului = 256 Stare = ploaie ușoară']
+Scornicesti: 50 \ luni \ 12:12:2022 \ 19:15:51
+[' Răsarit = 07:49:14 Apus = 16:41:49 Min (°C) = 0.74 Max (°C) =6.28 Presiune = 1008 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.16 Unghiul vântului = 252 Stare = zăpadă slabă']
+Scornicesti: 50 \ marți \ 13:12:2022 \ 19:15:24
+[' Răsarit = 07:50:03 Apus = 16:41:55 Min (°C) = -1.89 Max (°C) =2.7 Presiune = 1016 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 214 Stare = nori 25-50%']
+Scornicesti: 50 \ miercuri \ 14:12:2022 \ 19:20:37
+[' Răsarit = 07:50:50 Apus = 16:42:03 Min (°C) = -2.17 Max (°C) =1.93 Presiune = 1015 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.89 Unghiul vântului = 46 Stare = nori 85-100%']
+Scornicesti: 50 \ joi \ 15:12:2022 \ 19:22:31
+[' Răsarit = 07:51:35 Apus = 16:42:13 Min (°C) = 0.25 Max (°C) =2.06 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 344 Stare = nori 85-100%']
+Scornicesti: 50 \ vineri \ 16:12:2022 \ 19:17:47
+[' Răsarit = 07:52:18 Apus = 16:42:27 Min (°C) = 1.75 Max (°C) =9.06 Presiune = 1014 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 302 Stare = ploaie ușoară']
+Scornicesti: 50 \ sâmbătă \ 17:12:2022 \ 19:15:34
+[' Răsarit = 07:52:59 Apus = 16:42:42 Min (°C) = 5.58 Max (°C) =9.62 Presiune = 1018 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 3.93 Unghiul vântului = 270 Stare = nori 50-85%']
+Scornicesti: 50 \ duminică \ 18:12:2022 \ 19:14:54
+[' Răsarit = 07:53:38 Apus = 16:43:01 Min (°C) = 1.22 Max (°C) =5.22 Presiune = 1035 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.91 Unghiul vântului = 84 Stare = nori 85-100%']
+Scornicesti: 51 \ luni \ 19:12:2022 \ 19:19:46
+[' Răsarit = 07:54:14 Apus = 16:43:21 Min (°C) = -1.71 Max (°C) =0.65 Presiune = 1042 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 82 Stare = nori 50-85%']
+Scornicesti: 51 \ marți \ 20:12:2022 \ 19:15:27
+[' Răsarit = 07:54:48 Apus = 16:43:45 Min (°C) = -2.93 Max (°C) =1.06 Presiune = 1032 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 256 Stare = nori 50-85%']
+Scornicesti: 51 \ miercuri \ 21:12:2022 \ 19:15:17
+[' Răsarit = 07:55:20 Apus = 16:44:10 Min (°C) = -1.9 Max (°C) =4.12 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 275 Stare = cer senin']
+Scornicesti: 51 \ joi \ 22:12:2022 \ 19:17:19
+[' Răsarit = 07:55:50 Apus = 16:44:39 Min (°C) = 0.11 Max (°C) =5.13 Presiune = 1016 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 257 Stare = nori 85-100%']
+Scornicesti: 51 \ vineri \ 23:12:2022 \ 19:17:10
+[' Răsarit = 07:56:17 Apus = 16:45:09 Min (°C) = 1.47 Max (°C) =8.56 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 279 Stare = nori 10-25%']
+Scornicesti: 51 \ sâmbătă \ 24:12:2022 \ 19:16:44
+[' Răsarit = 07:56:42 Apus = 16:45:42 Min (°C) = 3.71 Max (°C) =7.3 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 282 Stare = nori 85-100%']
+Scornicesti: 51 \ duminică \ 25:12:2022 \ 19:17:30
+[' Răsarit = 07:57:04 Apus = 16:46:18 Min (°C) = 4.03 Max (°C) =11.69 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 309 Stare = cer senin']
+Scornicesti: 52 \ luni \ 26:12:2022 \ 19:20:16
+[' Răsarit = 07:57:24 Apus = 16:46:55 Min (°C) = 2.51 Max (°C) =8.05 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 269 Stare = nori 50-85%']
+Scornicesti: 52 \ marți \ 27:12:2022 \ 19:18:00
+[' Răsarit = 07:57:41 Apus = 16:47:35 Min (°C) = 4.05 Max (°C) =12.94 Presiune = 1023 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 5.15 Unghiul vântului = 282 Stare = nori 50-85%']
+Scornicesti: 52 \ miercuri \ 28:12:2022 \ 19:18:04
+[' Răsarit = 07:57:56 Apus = 16:48:17 Min (°C) = 2.24 Max (°C) =6.55 Presiune = 1029 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 59 Stare = cer senin']
+Scornicesti: 52 \ joi \ 29:12:2022 \ 19:20:23
+[' Răsarit = 07:58:09 Apus = 16:49:02 Min (°C) = 0.52 Max (°C) =6.7 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 270 Stare = cer senin']
+Scornicesti: 52 \ vineri \ 30:12:2022 \ 19:14:53
+[' Răsarit = 07:58:19 Apus = 16:49:48 Min (°C) = 2.21 Max (°C) =9.98 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 278 Stare = nori 25-50%']
+Scornicesti: 52 \ sâmbătă \ 31:12:2022 \ 19:18:59
+[' Răsarit = 07:58:26 Apus = 16:50:37 Min (°C) = 4.77 Max (°C) =11.31 Presiune = 1029 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 262 Stare = nori 25-50%']
+Scornicesti: 00 \ duminică \ 01:1:2023 \ 19:21:14
+[' Răsarit = 07:58:31 Apus = 16:51:28 Min (°C) = 6.09 Max (°C) =13.31 Presiune = 1030 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 274 Stare = nori 10-25%']
+Scornicesti: 01 \ luni \ 02:1:2023 \ 19:21:28
+[' Răsarit = 07:58:34 Apus = 16:52:20 Min (°C) = 7.58 Max (°C) =14.12 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 266 Stare = cer senin']
+Scornicesti: 01 \ marți \ 03:1:2023 \ 19:21:46
+[' Răsarit = 07:58:34 Apus = 16:53:15 Min (°C) = 7.19 Max (°C) =13.47 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 314 Stare = nori 50-85%']
+Scornicesti: 01 \ miercuri \ 04:1:2023 \ 19:18:38
+[' Răsarit = 07:58:31 Apus = 16:54:12 Min (°C) = 4.85 Max (°C) =8.12 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 110 Stare = nori 85-100%']
+Scornicesti: 01 \ joi \ 05:1:2023 \ 19:20:16
+[' Răsarit = 07:58:26 Apus = 16:55:10 Min (°C) = 2.87 Max (°C) =10.04 Presiune = 1015 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.53 Unghiul vântului = 264 Stare = nori 85-100%']
+Scornicesti: 01 \ vineri \ 06:1:2023 \ 19:25:37
+[' Răsarit = 07:58:18 Apus = 16:56:10 Min (°C) = 5.49 Max (°C) =11.58 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 327 Stare = nori 25-50%']
+Scornicesti: 01 \ sâmbătă \ 07:1:2023 \ 19:16:25
+[' Răsarit = 07:58:08 Apus = 16:57:12 Min (°C) = 2.05 Max (°C) =8.1 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 104 Stare = nori 10-25%']
+Scornicesti: 01 \ duminică \ 08:1:2023 \ 19:17:47
+[' Răsarit = 07:57:55 Apus = 16:58:16 Min (°C) = 1.52 Max (°C) =7.59 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.2 Unghiul vântului = 73 Stare = cer senin']
+Scornicesti: 02 \ luni \ 09:1:2023 \ 19:17:54
+[' Răsarit = 07:57:40 Apus = 16:59:21 Min (°C) = 1.34 Max (°C) =6.82 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.52 Unghiul vântului = 61 Stare = nori 85-100%']
+Scornicesti: 02 \ marți \ 10:1:2023 \ 19:15:22
+[' Răsarit = 07:57:22 Apus = 17:00:27 Min (°C) = 3.14 Max (°C) =8.99 Presiune = 1004 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 10.66 Unghiul vântului = 93 Stare = nori 85-100%']
+Scornicesti: 02 \ miercuri \ 11:1:2023 \ 19:17:34
+[' Răsarit = 07:57:02 Apus = 17:01:36 Min (°C) = 3.87 Max (°C) =5.78 Presiune = 1020 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 6.27 Unghiul vântului = 74 Stare = ploaie ușoară']
+Scornicesti: 02 \ joi \ 12:1:2023 \ 19:16:39
+[' Răsarit = 07:56:39 Apus = 17:02:45 Min (°C) = 1.33 Max (°C) =4.06 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 243 Stare = nori 85-100%']
+Scornicesti: 02 \ vineri \ 13:1:2023 \ 19:22:20
+[' Răsarit = 07:56:14 Apus = 17:03:56 Min (°C) = 2.38 Max (°C) =4.02 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 212 Stare = nori 85-100%']
+Scornicesti: 02 \ sâmbătă \ 14:1:2023 \ 19:17:59
+[' Răsarit = 07:55:47 Apus = 17:05:08 Min (°C) = 3.88 Max (°C) =5.41 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 240 Stare = nori 85-100%']
+Scornicesti: 02 \ duminică \ 15:1:2023 \ 19:18:59
+[' Răsarit = 07:55:17 Apus = 17:06:22 Min (°C) = 3.13 Max (°C) =6.18 Presiune = 1019 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 105 Stare = nori 10-25%']
+Scornicesti: 03 \ luni \ 16:1:2023 \ 19:16:31
+[' Răsarit = 07:54:45 Apus = 17:07:37 Min (°C) = 1.31 Max (°C) =5.55 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 82 Stare = nori 85-100%']
+Scornicesti: 03 \ marți \ 17:1:2023 \ 19:18:41
+[' Răsarit = 07:54:11 Apus = 17:08:52 Min (°C) = 2.71 Max (°C) =7.45 Presiune = 1002 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.05 Unghiul vântului = 64 Stare = nori 85-100%']
+Scornicesti: 03 \ miercuri \ 18:1:2023 \ 19:20:42
+[' Răsarit = 07:53:34 Apus = 17:10:09 Min (°C) = 6.28 Max (°C) =14.96 Presiune = 1005 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 56 Stare = nori 85-100%']
+Scornicesti: 03 \ joi \ 19:1:2023 \ 19:15:56
+[' Răsarit = 07:52:55 Apus = 17:11:27 Min (°C) = 6.98 Max (°C) =15.56 Presiune = 1006 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.84 Unghiul vântului = 189 Stare = nori 50-85%']
+Scornicesti: 03 \ vineri \ 20:1:2023 \ 19:15:43
+[' Răsarit = 07:52:13 Apus = 17:12:45 Min (°C) = 3.57 Max (°C) =10.52 Presiune = 1003 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.79 Unghiul vântului = 281 Stare = nori 85-100%']
+Scornicesti: 03 \ sâmbătă \ 21:1:2023 \ 19:16:04
+[' Răsarit = 07:51:30 Apus = 17:14:05 Min (°C) = 0.63 Max (°C) =8.26 Presiune = 1013 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 6.69 Unghiul vântului = 75 Stare = nori 25-50%']
+Scornicesti: 04 \ luni \ 23:1:2023 \ 17:06:46
+[' Răsarit = 07:49:56 Apus = 17:16:46 Min (°C) = 3.24 Max (°C) =7.1 Presiune = 1028 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 7.26 Unghiul vântului = 91 Stare = nori 85-100%']
+Scornicesti: 04 \ marți \ 24:1:2023 \ 20:05:36
+[' Răsarit = 07:49:06 Apus = 17:18:08 Min (°C) = 0.62 Max (°C) =2.46 Presiune = 1034 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 98 Stare = nori 85-100%']
+Scornicesti: 04 \ miercuri \ 25:1:2023 \ 21:55:53
+[' Răsarit = 07:48:14 Apus = 17:19:30 Min (°C) = -1.28 Max (°C) =1.16 Presiune = 1030 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 80 Stare = nori 85-100%']

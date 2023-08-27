@@ -1266,3 +1266,169 @@ Mioveni: 44 \ marți \ 01:11:2022 \ 19:03:14
 [' Răsarit = 06:58:06 Apus = 17:09:22 Min (°C) = 9.87 Max (°C) =20.19 Presiune = 1022 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 283 Stare = nori 25-50%']
 Mioveni: 44 \ miercuri \ 02:11:2022 \ 19:03:49
 [' Răsarit = 06:59:29 Apus = 17:07:58 Min (°C) = 11.91 Max (°C) =24.87 Presiune = 1018 Umiditate (%) = 46 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 35 Stare = nori 25-50%']
+Mioveni: 44 \ joi \ 03:11:2022 \ 19:02:59
+[' Răsarit = 07:00:52 Apus = 17:06:36 Min (°C) = 10.65 Max (°C) =17.37 Presiune = 1020 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 148 Stare = nori 50-85%']
+Mioveni: 44 \ vineri \ 04:11:2022 \ 19:03:14
+[' Răsarit = 07:02:15 Apus = 17:05:15 Min (°C) = 7.6 Max (°C) =16.41 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 42 Stare = nori 85-100%']
+Mioveni: 44 \ sâmbătă \ 05:11:2022 \ 19:03:13
+[' Răsarit = 07:03:38 Apus = 17:03:55 Min (°C) = 9.49 Max (°C) =18.16 Presiune = 1013 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.98 Unghiul vântului = 75 Stare = nori 85-100%']
+Mioveni: 44 \ duminică \ 06:11:2022 \ 19:03:02
+[' Răsarit = 07:05:02 Apus = 17:02:37 Min (°C) = 11.39 Max (°C) =16.06 Presiune = 1018 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 5.8 Unghiul vântului = 88 Stare = nori 85-100%']
+Mioveni: 45 \ luni \ 07:11:2022 \ 19:03:06
+[' Răsarit = 07:06:25 Apus = 17:01:21 Min (°C) = 9.79 Max (°C) =15.02 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 302 Stare = nori 10-25%']
+Mioveni: 45 \ marți \ 08:11:2022 \ 19:03:07
+[' Răsarit = 07:07:49 Apus = 17:00:07 Min (°C) = 7.87 Max (°C) =16.78 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 76 Stare = nori 10-25%']
+Mioveni: 45 \ miercuri \ 09:11:2022 \ 19:02:54
+[' Răsarit = 07:09:12 Apus = 16:58:54 Min (°C) = 7.11 Max (°C) =15.63 Presiune = 1023 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 101 Stare = nori 10-25%']
+Mioveni: 45 \ joi \ 10:11:2022 \ 19:03:07
+[' Răsarit = 07:10:35 Apus = 16:57:43 Min (°C) = 7.15 Max (°C) =16.09 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 299 Stare = nori 25-50%']
+Mioveni: 45 \ vineri \ 11:11:2022 \ 19:02:59
+[' Răsarit = 07:11:59 Apus = 16:56:34 Min (°C) = 8.15 Max (°C) =11.33 Presiune = 1032 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.6 Unghiul vântului = 262 Stare = nori 85-100%']
+Mioveni: 45 \ sâmbătă \ 12:11:2022 \ 19:03:17
+[' Răsarit = 07:13:21 Apus = 16:55:27 Min (°C) = 5.19 Max (°C) =12.62 Presiune = 1033 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 331 Stare = cer senin']
+Mioveni: 45 \ duminică \ 13:11:2022 \ 19:02:58
+[' Răsarit = 07:14:44 Apus = 16:54:21 Min (°C) = 4.87 Max (°C) =14.73 Presiune = 1029 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 301 Stare = nori 25-50%']
+Mioveni: 46 \ luni \ 14:11:2022 \ 19:02:53
+[' Răsarit = 07:16:07 Apus = 16:53:18 Min (°C) = 5.83 Max (°C) =12.64 Presiune = 1026 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 103 Stare = nori 85-100%']
+Mioveni: 46 \ marți \ 15:11:2022 \ 19:03:25
+[' Răsarit = 07:17:29 Apus = 16:52:17 Min (°C) = 2.93 Max (°C) =11.37 Presiune = 1017 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 269 Stare = nori 25-50%']
+Mioveni: 46 \ miercuri \ 16:11:2022 \ 19:02:55
+[' Răsarit = 07:18:51 Apus = 16:51:17 Min (°C) = 4.29 Max (°C) =13.47 Presiune = 1005 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 307 Stare = nori 50-85%']
+Mioveni: 46 \ joi \ 17:11:2022 \ 19:03:12
+[' Răsarit = 07:20:12 Apus = 16:50:20 Min (°C) = 7.32 Max (°C) =10.83 Presiune = 1002 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 301 Stare = nori 50-85%']
+Mioveni: 46 \ vineri \ 18:11:2022 \ 19:03:09
+[' Răsarit = 07:21:33 Apus = 16:49:24 Min (°C) = 4.87 Max (°C) =10.31 Presiune = 1001 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 45 Stare = nori 85-100%']
+Mioveni: 46 \ sâmbătă \ 19:11:2022 \ 19:02:58
+[' Răsarit = 07:22:53 Apus = 16:48:31 Min (°C) = 7.49 Max (°C) =12.99 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 114 Stare = ploaie ușoară']
+Mioveni: 46 \ duminică \ 20:11:2022 \ 19:03:00
+[' Răsarit = 07:24:13 Apus = 16:47:40 Min (°C) = 7.85 Max (°C) =9.91 Presiune = 1010 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 306 Stare = nori 85-100%']
+Mioveni: 47 \ luni \ 21:11:2022 \ 19:03:27
+[' Răsarit = 07:25:33 Apus = 16:46:51 Min (°C) = 6.03 Max (°C) =9.43 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 297 Stare = nori 85-100%']
+Mioveni: 47 \ marți \ 22:11:2022 \ 19:03:01
+[' Răsarit = 07:26:51 Apus = 16:46:04 Min (°C) = 2.9 Max (°C) =8.46 Presiune = 1012 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 97 Stare = nori 85-100%']
+Mioveni: 47 \ miercuri \ 23:11:2022 \ 19:03:13
+[' Răsarit = 07:28:09 Apus = 16:45:19 Min (°C) = 5.83 Max (°C) =10.1 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 257 Stare = nori 85-100%']
+Mioveni: 47 \ joi \ 24:11:2022 \ 19:03:06
+[' Răsarit = 07:29:26 Apus = 16:44:37 Min (°C) = 5.66 Max (°C) =7.82 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 267 Stare = nori 85-100%']
+Mioveni: 47 \ vineri \ 25:11:2022 \ 19:03:15
+[' Răsarit = 07:30:42 Apus = 16:43:57 Min (°C) = 3.06 Max (°C) =9.09 Presiune = 1020 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 2 Stare = nori 10-25%']
+Mioveni: 47 \ sâmbătă \ 26:11:2022 \ 19:03:00
+[' Răsarit = 07:31:57 Apus = 16:43:19 Min (°C) = 0.7 Max (°C) =7.58 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 1 Stare = cer senin']
+Mioveni: 47 \ duminică \ 27:11:2022 \ 19:03:14
+[' Răsarit = 07:33:11 Apus = 16:42:44 Min (°C) = 1.62 Max (°C) =5.93 Presiune = 1028 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.16 Unghiul vântului = 203 Stare = nori 85-100%']
+Mioveni: 48 \ luni \ 28:11:2022 \ 19:03:12
+[' Răsarit = 07:34:24 Apus = 16:42:11 Min (°C) = 2.38 Max (°C) =4.37 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 74 Stare = nori 85-100%']
+Mioveni: 48 \ marți \ 29:11:2022 \ 19:02:55
+[' Răsarit = 07:35:36 Apus = 16:41:41 Min (°C) = 0.56 Max (°C) =5.86 Presiune = 1023 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 91 Stare = nori 85-100%']
+Mioveni: 48 \ miercuri \ 30:11:2022 \ 19:03:11
+[' Răsarit = 07:36:47 Apus = 16:41:13 Min (°C) = 2.22 Max (°C) =6.09 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 88 Stare = nori 85-100%']
+Mioveni: 48 \ joi \ 01:12:2022 \ 19:03:03
+[' Răsarit = 07:37:56 Apus = 16:40:47 Min (°C) = 1.59 Max (°C) =3.23 Presiune = 1024 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 59 Stare = nori 85-100%']
+Mioveni: 48 \ vineri \ 02:12:2022 \ 19:02:59
+[' Răsarit = 07:39:04 Apus = 16:40:24 Min (°C) = 1.74 Max (°C) =2.72 Presiune = 1026 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 241 Stare = nori 85-100%']
+Mioveni: 48 \ sâmbătă \ 03:12:2022 \ 19:03:15
+[' Răsarit = 07:40:11 Apus = 16:40:03 Min (°C) = 2.44 Max (°C) =5.19 Presiune = 1029 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 110 Stare = nori 85-100%']
+Mioveni: 48 \ duminică \ 04:12:2022 \ 19:02:50
+[' Răsarit = 07:41:16 Apus = 16:39:45 Min (°C) = 1.66 Max (°C) =3.12 Presiune = 1031 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 89 Stare = nori 85-100%']
+Mioveni: 49 \ luni \ 05:12:2022 \ 19:06:34
+[' Răsarit = 07:42:20 Apus = 16:39:30 Min (°C) = 1.71 Max (°C) =4.1 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 107 Stare = nori 85-100%']
+Mioveni: 49 \ marți \ 06:12:2022 \ 19:03:20
+[' Răsarit = 07:43:22 Apus = 16:39:17 Min (°C) = 2.55 Max (°C) =5.22 Presiune = 1020 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 110 Stare = nori 85-100%']
+Mioveni: 49 \ miercuri \ 07:12:2022 \ 19:02:57
+[' Răsarit = 07:44:23 Apus = 16:39:06 Min (°C) = 3.1 Max (°C) =7.2 Presiune = 1014 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 291 Stare = nori 85-100%']
+Mioveni: 49 \ joi \ 08:12:2022 \ 19:03:26
+[' Răsarit = 07:45:22 Apus = 16:38:58 Min (°C) = 5.14 Max (°C) =6.98 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 86 Stare = nori 85-100%']
+Mioveni: 49 \ vineri \ 09:12:2022 \ 19:02:45
+[' Răsarit = 07:46:19 Apus = 16:38:53 Min (°C) = 3.46 Max (°C) =8.37 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 327 Stare = nori 85-100%']
+Mioveni: 49 \ sâmbătă \ 10:12:2022 \ 19:03:05
+[' Răsarit = 07:47:14 Apus = 16:38:50 Min (°C) = 6.98 Max (°C) =12.4 Presiune = 1003 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 56 Stare = nori 85-100%']
+Mioveni: 49 \ duminică \ 11:12:2022 \ 19:02:46
+[' Răsarit = 07:48:07 Apus = 16:38:50 Min (°C) = 5.41 Max (°C) =12.09 Presiune = 998 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 238 Stare = nori 85-100%']
+Mioveni: 50 \ luni \ 12:12:2022 \ 19:03:12
+[' Răsarit = 07:48:59 Apus = 16:38:53 Min (°C) = 1.99 Max (°C) =5.77 Presiune = 1007 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.85 Unghiul vântului = 251 Stare = nori 85-100%']
+Mioveni: 50 \ marți \ 13:12:2022 \ 19:02:56
+[' Răsarit = 07:49:48 Apus = 16:38:58 Min (°C) = -2.24 Max (°C) =2.65 Presiune = 1016 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 0.18 Unghiul vântului = 178 Stare = cer senin']
+Mioveni: 50 \ miercuri \ 14:12:2022 \ 19:03:57
+[' Răsarit = 07:50:36 Apus = 16:39:06 Min (°C) = -2.94 Max (°C) =2.44 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 49 Stare = ploaie ușoară']
+Mioveni: 50 \ joi \ 15:12:2022 \ 19:03:17
+[' Răsarit = 07:51:21 Apus = 16:39:16 Min (°C) = 0.6 Max (°C) =4.66 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 347 Stare = nori 50-85%']
+Mioveni: 50 \ vineri \ 16:12:2022 \ 19:03:05
+[' Răsarit = 07:52:05 Apus = 16:39:29 Min (°C) = 1.22 Max (°C) =10.11 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 341 Stare = nori 50-85%']
+Mioveni: 50 \ sâmbătă \ 17:12:2022 \ 19:02:50
+[' Răsarit = 07:52:46 Apus = 16:39:45 Min (°C) = 7.28 Max (°C) =10.77 Presiune = 1017 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 277 Stare = nori 85-100%']
+Mioveni: 50 \ duminică \ 18:12:2022 \ 19:02:50
+[' Răsarit = 07:53:24 Apus = 16:40:03 Min (°C) = 0.48 Max (°C) =6.57 Presiune = 1036 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 107 Stare = nori 85-100%']
+Mioveni: 51 \ luni \ 19:12:2022 \ 19:03:02
+[' Răsarit = 07:54:01 Apus = 16:40:23 Min (°C) = -2.94 Max (°C) =-0.08 Presiune = 1042 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 88 Stare = nori 85-100%']
+Mioveni: 51 \ marți \ 20:12:2022 \ 19:03:14
+[' Răsarit = 07:54:35 Apus = 16:40:47 Min (°C) = -4.06 Max (°C) =1.59 Presiune = 1032 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 289 Stare = nori 50-85%']
+Mioveni: 51 \ miercuri \ 21:12:2022 \ 19:03:23
+[' Răsarit = 07:55:07 Apus = 16:41:12 Min (°C) = -1.98 Max (°C) =5.8 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 312 Stare = cer senin']
+Mioveni: 51 \ joi \ 22:12:2022 \ 19:03:14
+[' Răsarit = 07:55:37 Apus = 16:41:40 Min (°C) = -0.34 Max (°C) =6.03 Presiune = 1016 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 296 Stare = nori 85-100%']
+Mioveni: 51 \ vineri \ 23:12:2022 \ 19:03:06
+[' Răsarit = 07:56:04 Apus = 16:42:11 Min (°C) = 1.65 Max (°C) =10.08 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 358 Stare = nori 10-25%']
+Mioveni: 51 \ sâmbătă \ 24:12:2022 \ 19:02:55
+[' Răsarit = 07:56:29 Apus = 16:42:44 Min (°C) = 3.41 Max (°C) =7.31 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 314 Stare = nori 85-100%']
+Mioveni: 51 \ duminică \ 25:12:2022 \ 19:02:54
+[' Răsarit = 07:56:51 Apus = 16:43:20 Min (°C) = 3.91 Max (°C) =10.85 Presiune = 1025 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 3 Stare = cer senin']
+Mioveni: 52 \ luni \ 26:12:2022 \ 19:03:00
+[' Răsarit = 07:57:11 Apus = 16:43:57 Min (°C) = 1.66 Max (°C) =7.79 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 293 Stare = nori 85-100%']
+Mioveni: 52 \ marți \ 27:12:2022 \ 19:03:14
+[' Răsarit = 07:57:28 Apus = 16:44:37 Min (°C) = 3.1 Max (°C) =11.84 Presiune = 1023 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 294 Stare = nori 25-50%']
+Mioveni: 52 \ miercuri \ 28:12:2022 \ 19:02:57
+[' Răsarit = 07:57:43 Apus = 16:45:20 Min (°C) = 1.06 Max (°C) =5.63 Presiune = 1030 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 36 Stare = cer senin']
+Mioveni: 52 \ joi \ 29:12:2022 \ 19:03:08
+[' Răsarit = 07:57:55 Apus = 16:46:05 Min (°C) = -0.41 Max (°C) =6.87 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 294 Stare = cer senin']
+Mioveni: 52 \ vineri \ 30:12:2022 \ 19:02:55
+[' Răsarit = 07:58:05 Apus = 16:46:51 Min (°C) = 1.13 Max (°C) =9.82 Presiune = 1025 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 329 Stare = nori 50-85%']
+Mioveni: 52 \ sâmbătă \ 31:12:2022 \ 19:02:50
+[' Răsarit = 07:58:12 Apus = 16:47:40 Min (°C) = 4.39 Max (°C) =11.82 Presiune = 1029 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 321 Stare = nori 25-50%']
+Mioveni: 00 \ duminică \ 01:1:2023 \ 19:03:07
+[' Răsarit = 07:58:16 Apus = 16:48:31 Min (°C) = 5.93 Max (°C) =14.81 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 324 Stare = nori 25-50%']
+Mioveni: 01 \ luni \ 02:1:2023 \ 19:03:18
+[' Răsarit = 07:58:18 Apus = 16:49:24 Min (°C) = 7.75 Max (°C) =15.16 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 302 Stare = cer senin']
+Mioveni: 01 \ marți \ 03:1:2023 \ 19:03:12
+[' Răsarit = 07:58:18 Apus = 16:50:20 Min (°C) = 7.63 Max (°C) =14.73 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 65 Stare = nori 50-85%']
+Mioveni: 01 \ miercuri \ 04:1:2023 \ 19:03:07
+[' Răsarit = 07:58:15 Apus = 16:51:17 Min (°C) = 3.94 Max (°C) =7.3 Presiune = 1029 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 221 Stare = nori 85-100%']
+Mioveni: 01 \ joi \ 05:1:2023 \ 19:03:08
+[' Răsarit = 07:58:09 Apus = 16:52:15 Min (°C) = 1.71 Max (°C) =9.31 Presiune = 1014 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 281 Stare = nori 85-100%']
+Mioveni: 01 \ vineri \ 06:1:2023 \ 19:07:51
+[' Răsarit = 07:58:01 Apus = 16:53:16 Min (°C) = 3.84 Max (°C) =10.49 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 33 Stare = nori 25-50%']
+Mioveni: 01 \ sâmbătă \ 07:1:2023 \ 19:03:09
+[' Răsarit = 07:57:50 Apus = 16:54:19 Min (°C) = 1.25 Max (°C) =7.48 Presiune = 1024 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 61 Stare = nori 10-25%']
+Mioveni: 01 \ duminică \ 08:1:2023 \ 19:03:21
+[' Răsarit = 07:57:37 Apus = 16:55:23 Min (°C) = 0.98 Max (°C) =7.3 Presiune = 1023 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 78 Stare = cer senin']
+Mioveni: 02 \ luni \ 09:1:2023 \ 19:03:05
+[' Răsarit = 07:57:21 Apus = 16:56:29 Min (°C) = 0.76 Max (°C) =6.02 Presiune = 1015 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.59 Unghiul vântului = 60 Stare = nori 85-100%']
+Mioveni: 02 \ marți \ 10:1:2023 \ 19:02:41
+[' Răsarit = 07:57:03 Apus = 16:57:36 Min (°C) = 2.72 Max (°C) =7.7 Presiune = 1007 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 8.92 Unghiul vântului = 86 Stare = nori 85-100%']
+Mioveni: 02 \ miercuri \ 11:1:2023 \ 19:02:39
+[' Răsarit = 07:56:42 Apus = 16:58:45 Min (°C) = 5.06 Max (°C) =6.58 Presiune = 1021 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.72 Unghiul vântului = 81 Stare = nori 85-100%']
+Mioveni: 02 \ joi \ 12:1:2023 \ 19:03:07
+[' Răsarit = 07:56:19 Apus = 16:59:55 Min (°C) = 2.16 Max (°C) =4.54 Presiune = 1023 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 233 Stare = nori 85-100%']
+Mioveni: 02 \ vineri \ 13:1:2023 \ 19:03:41
+[' Răsarit = 07:55:53 Apus = 17:01:07 Min (°C) = 2.55 Max (°C) =4.8 Presiune = 1022 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 227 Stare = nori 85-100%']
+Mioveni: 02 \ sâmbătă \ 14:1:2023 \ 19:03:11
+[' Răsarit = 07:55:25 Apus = 17:02:20 Min (°C) = 2.98 Max (°C) =6.5 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 209 Stare = nori 50-85%']
+Mioveni: 02 \ duminică \ 15:1:2023 \ 19:02:54
+[' Răsarit = 07:54:54 Apus = 17:03:34 Min (°C) = 2.39 Max (°C) =5.19 Presiune = 1019 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 248 Stare = nori 50-85%']
+Mioveni: 03 \ luni \ 16:1:2023 \ 19:02:31
+[' Răsarit = 07:54:21 Apus = 17:04:50 Min (°C) = 0.56 Max (°C) =5.21 Presiune = 1008 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 95 Stare = nori 85-100%']
+Mioveni: 03 \ marți \ 17:1:2023 \ 19:03:15
+[' Răsarit = 07:53:46 Apus = 17:06:06 Min (°C) = 1.72 Max (°C) =6.17 Presiune = 1003 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 35 Stare = nori 85-100%']
+Mioveni: 03 \ miercuri \ 18:1:2023 \ 19:02:49
+[' Răsarit = 07:53:08 Apus = 17:07:24 Min (°C) = 5.12 Max (°C) =11.88 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 318 Stare = nori 85-100%']
+Mioveni: 03 \ joi \ 19:1:2023 \ 19:02:40
+[' Răsarit = 07:52:28 Apus = 17:08:42 Min (°C) = 5.98 Max (°C) =13.28 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 127 Stare = nori 85-100%']
+Mioveni: 03 \ vineri \ 20:1:2023 \ 19:03:11
+[' Răsarit = 07:51:46 Apus = 17:10:02 Min (°C) = 6.7 Max (°C) =11.49 Presiune = 1003 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 130 Stare = nori 85-100%']
+Mioveni: 03 \ sâmbătă \ 21:1:2023 \ 19:02:56
+[' Răsarit = 07:51:01 Apus = 17:11:22 Min (°C) = 1.8 Max (°C) =9.66 Presiune = 1014 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.86 Unghiul vântului = 80 Stare = nori 25-50%']
+Mioveni: 04 \ luni \ 23:1:2023 \ 16:51:26
+[' Răsarit = 07:49:26 Apus = 17:14:05 Min (°C) = 2.64 Max (°C) =6.86 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 4.7 Unghiul vântului = 103 Stare = nori 85-100%']
+Mioveni: 04 \ marți \ 24:1:2023 \ 19:51:40
+[' Răsarit = 07:48:35 Apus = 17:15:28 Min (°C) = -0.03 Max (°C) =1.33 Presiune = 1034 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.39 Unghiul vântului = 147 Stare = nori 85-100%']
+Mioveni: 04 \ miercuri \ 25:1:2023 \ 21:37:38
+[' Răsarit = 07:47:42 Apus = 17:16:51 Min (°C) = -1.39 Max (°C) =0.42 Presiune = 1030 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 89 Stare = nori 85-100%']

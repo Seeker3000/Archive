@@ -1270,3 +1270,169 @@ Orsova: 44 \ marți \ 01:11:2022 \ 19:14:19
 [' Răsarit = 07:07:49 Apus = 17:20:02 Min (°C) = 12.99 Max (°C) =24.14 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 33 Stare = nori 10-25%']
 Orsova: 44 \ miercuri \ 02:11:2022 \ 19:14:57
 [' Răsarit = 07:09:11 Apus = 17:18:39 Min (°C) = 13.02 Max (°C) =23.2 Presiune = 1020 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 299 Stare = nori 50-85%']
+Orsova: 44 \ joi \ 03:11:2022 \ 19:16:01
+[' Răsarit = 07:10:34 Apus = 17:17:17 Min (°C) = 10.55 Max (°C) =19.92 Presiune = 1020 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.24 Unghiul vântului = 61 Stare = nori 10-25%']
+Orsova: 44 \ vineri \ 04:11:2022 \ 19:18:38
+[' Răsarit = 07:11:56 Apus = 17:15:57 Min (°C) = 9.1 Max (°C) =16.44 Presiune = 1012 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 52 Stare = nori 85-100%']
+Orsova: 44 \ sâmbătă \ 05:11:2022 \ 19:17:49
+[' Răsarit = 07:13:19 Apus = 17:14:38 Min (°C) = 11.75 Max (°C) =18.41 Presiune = 1012 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.93 Unghiul vântului = 57 Stare = nori 85-100%']
+Orsova: 44 \ duminică \ 06:11:2022 \ 19:13:23
+[' Răsarit = 07:14:42 Apus = 17:13:21 Min (°C) = 12.07 Max (°C) =16.94 Presiune = 1017 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 64 Stare = nori 85-100%']
+Orsova: 45 \ luni \ 07:11:2022 \ 19:13:23
+[' Răsarit = 07:16:04 Apus = 17:12:06 Min (°C) = 11.59 Max (°C) =13.96 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 284 Stare = nori 85-100%']
+Orsova: 45 \ marți \ 08:11:2022 \ 19:13:26
+[' Răsarit = 07:17:27 Apus = 17:10:52 Min (°C) = 9.92 Max (°C) =18.14 Presiune = 1021 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 320 Stare = nori 10-25%']
+Orsova: 45 \ miercuri \ 09:11:2022 \ 19:15:34
+[' Răsarit = 07:18:50 Apus = 17:09:40 Min (°C) = 9.13 Max (°C) =15.77 Presiune = 1023 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 55 Stare = nori 50-85%']
+Orsova: 45 \ joi \ 10:11:2022 \ 19:14:08
+[' Răsarit = 07:20:12 Apus = 17:08:30 Min (°C) = 9.66 Max (°C) =17.79 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 298 Stare = nori 50-85%']
+Orsova: 45 \ vineri \ 11:11:2022 \ 19:15:25
+[' Răsarit = 07:21:35 Apus = 17:07:22 Min (°C) = 9.83 Max (°C) =16.18 Presiune = 1032 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 348 Stare = nori 85-100%']
+Orsova: 45 \ sâmbătă \ 12:11:2022 \ 19:13:33
+[' Răsarit = 07:22:57 Apus = 17:06:15 Min (°C) = 8.43 Max (°C) =13.23 Presiune = 1033 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 50 Stare = cer senin']
+Orsova: 45 \ duminică \ 13:11:2022 \ 19:15:23
+[' Răsarit = 07:24:19 Apus = 17:05:10 Min (°C) = 6.19 Max (°C) =13.75 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 75 Stare = cer senin']
+Orsova: 46 \ luni \ 14:11:2022 \ 19:13:11
+[' Răsarit = 07:25:41 Apus = 17:04:08 Min (°C) = 6.98 Max (°C) =14.1 Presiune = 1025 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 77 Stare = nori 50-85%']
+Orsova: 46 \ marți \ 15:11:2022 \ 19:14:00
+[' Răsarit = 07:27:02 Apus = 17:03:07 Min (°C) = 4.84 Max (°C) =11.94 Presiune = 1017 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 76 Stare = nori 85-100%']
+Orsova: 46 \ miercuri \ 16:11:2022 \ 19:13:16
+[' Răsarit = 07:28:24 Apus = 17:02:08 Min (°C) = 6.07 Max (°C) =17.02 Presiune = 1004 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 223 Stare = nori 85-100%']
+Orsova: 46 \ joi \ 17:11:2022 \ 19:13:31
+[' Răsarit = 07:29:44 Apus = 17:01:11 Min (°C) = 7.96 Max (°C) =12.51 Presiune = 1005 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 295 Stare = nori 85-100%']
+Orsova: 46 \ vineri \ 18:11:2022 \ 19:15:50
+[' Răsarit = 07:31:05 Apus = 17:00:16 Min (°C) = 7.37 Max (°C) =12.27 Presiune = 1001 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 358 Stare = nori 85-100%']
+Orsova: 46 \ sâmbătă \ 19:11:2022 \ 19:17:35
+[' Răsarit = 07:32:24 Apus = 16:59:24 Min (°C) = 7.83 Max (°C) =12.61 Presiune = 1012 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 62 Stare = ploaie moderată']
+Orsova: 46 \ duminică \ 20:11:2022 \ 19:13:25
+[' Răsarit = 07:33:44 Apus = 16:58:33 Min (°C) = 9.47 Max (°C) =10.12 Presiune = 1010 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.49 Unghiul vântului = 65 Stare = nori 85-100%']
+Orsova: 47 \ luni \ 21:11:2022 \ 19:15:54
+[' Răsarit = 07:35:02 Apus = 16:57:45 Min (°C) = 4.8 Max (°C) =9.69 Presiune = 1009 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.4 Unghiul vântului = 296 Stare = nori 85-100%']
+Orsova: 47 \ marți \ 22:11:2022 \ 19:13:17
+[' Răsarit = 07:36:20 Apus = 16:56:59 Min (°C) = 3 Max (°C) =8.32 Presiune = 1008 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 6.55 Unghiul vântului = 73 Stare = ploaie ușoară']
+Orsova: 47 \ miercuri \ 23:11:2022 \ 19:15:47
+[' Răsarit = 07:37:37 Apus = 16:56:15 Min (°C) = 6.06 Max (°C) =9.22 Presiune = 1005 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.11 Unghiul vântului = 67 Stare = nori 85-100%']
+Orsova: 47 \ joi \ 24:11:2022 \ 19:15:31
+[' Răsarit = 07:38:54 Apus = 16:55:33 Min (°C) = 5.21 Max (°C) =8.61 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 294 Stare = nori 85-100%']
+Orsova: 47 \ vineri \ 25:11:2022 \ 19:16:31
+[' Răsarit = 07:40:09 Apus = 16:54:54 Min (°C) = 3.14 Max (°C) =7.94 Presiune = 1021 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.07 Unghiul vântului = 302 Stare = nori 10-25%']
+Orsova: 47 \ sâmbătă \ 26:11:2022 \ 19:13:09
+[' Răsarit = 07:41:24 Apus = 16:54:16 Min (°C) = 2.17 Max (°C) =9.19 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 314 Stare = nori 50-85%']
+Orsova: 47 \ duminică \ 27:11:2022 \ 19:13:34
+[' Răsarit = 07:42:37 Apus = 16:53:42 Min (°C) = 3.32 Max (°C) =6.99 Presiune = 1027 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 102 Stare = nori 85-100%']
+Orsova: 48 \ luni \ 28:11:2022 \ 19:13:26
+[' Răsarit = 07:43:50 Apus = 16:53:09 Min (°C) = 2.32 Max (°C) =4.61 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 80 Stare = nori 85-100%']
+Orsova: 48 \ marți \ 29:11:2022 \ 19:13:11
+[' Răsarit = 07:45:01 Apus = 16:52:39 Min (°C) = 2.06 Max (°C) =4.6 Presiune = 1023 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 78 Stare = nori 85-100%']
+Orsova: 48 \ miercuri \ 30:11:2022 \ 19:15:30
+[' Răsarit = 07:46:11 Apus = 16:52:12 Min (°C) = 4.21 Max (°C) =5.97 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 88 Stare = nori 85-100%']
+Orsova: 48 \ joi \ 01:12:2022 \ 19:13:14
+[' Răsarit = 07:47:20 Apus = 16:51:47 Min (°C) = 2.45 Max (°C) =4.55 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 97 Stare = nori 85-100%']
+Orsova: 48 \ vineri \ 02:12:2022 \ 19:14:10
+[' Răsarit = 07:48:28 Apus = 16:51:24 Min (°C) = 2.35 Max (°C) =3.21 Presiune = 1027 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 125 Stare = nori 85-100%']
+Orsova: 48 \ sâmbătă \ 03:12:2022 \ 19:15:25
+[' Răsarit = 07:49:34 Apus = 16:51:04 Min (°C) = 3.28 Max (°C) =4.95 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 94 Stare = nori 85-100%']
+Orsova: 48 \ duminică \ 04:12:2022 \ 19:16:11
+[' Răsarit = 07:50:39 Apus = 16:50:46 Min (°C) = 3.26 Max (°C) =4.15 Presiune = 1029 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 81 Stare = nori 85-100%']
+Orsova: 49 \ luni \ 05:12:2022 \ 19:17:52
+[' Răsarit = 07:51:43 Apus = 16:50:31 Min (°C) = 2.89 Max (°C) =3.77 Presiune = 1027 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 95 Stare = nori 85-100%']
+Orsova: 49 \ marți \ 06:12:2022 \ 19:16:45
+[' Răsarit = 07:52:44 Apus = 16:50:18 Min (°C) = 3.87 Max (°C) =5.02 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 65 Stare = ploaie moderată']
+Orsova: 49 \ miercuri \ 07:12:2022 \ 19:14:03
+[' Răsarit = 07:53:45 Apus = 16:50:08 Min (°C) = 4.07 Max (°C) =6.02 Presiune = 1015 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 42 Stare = ploaie moderată']
+Orsova: 49 \ joi \ 08:12:2022 \ 19:16:43
+[' Răsarit = 07:54:43 Apus = 16:50:01 Min (°C) = 5.44 Max (°C) =6.59 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 89 Stare = ploaie ușoară']
+Orsova: 49 \ vineri \ 09:12:2022 \ 19:20:37
+[' Răsarit = 07:55:40 Apus = 16:49:56 Min (°C) = 6.03 Max (°C) =8.28 Presiune = 1012 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 84 Stare = nori 85-100%']
+Orsova: 49 \ sâmbătă \ 10:12:2022 \ 19:13:57
+[' Răsarit = 07:56:35 Apus = 16:49:54 Min (°C) = 7.76 Max (°C) =10.33 Presiune = 1002 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 76 Stare = nori 85-100%']
+Orsova: 49 \ duminică \ 11:12:2022 \ 19:14:09
+[' Răsarit = 07:57:28 Apus = 16:49:54 Min (°C) = 3.19 Max (°C) =9.99 Presiune = 1001 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.95 Unghiul vântului = 289 Stare = nori 85-100%']
+Orsova: 50 \ luni \ 12:12:2022 \ 19:14:10
+[' Răsarit = 07:58:19 Apus = 16:49:57 Min (°C) = -0.46 Max (°C) =3.72 Presiune = 1011 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.64 Unghiul vântului = 295 Stare = nori 85-100%']
+Orsova: 50 \ marți \ 13:12:2022 \ 19:13:38
+[' Răsarit = 07:59:09 Apus = 16:50:02 Min (°C) = -1.25 Max (°C) =3.19 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 27 Stare = nori 50-85%']
+Orsova: 50 \ miercuri \ 14:12:2022 \ 19:19:02
+[' Răsarit = 07:59:56 Apus = 16:50:10 Min (°C) = -0.76 Max (°C) =1.76 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 87 Stare = nori 85-100%']
+Orsova: 50 \ joi \ 15:12:2022 \ 19:16:26
+[' Răsarit = 08:00:41 Apus = 16:50:21 Min (°C) = -0.34 Max (°C) =5.52 Presiune = 1015 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 84 Stare = nori 50-85%']
+Orsova: 50 \ vineri \ 16:12:2022 \ 19:16:08
+[' Răsarit = 08:01:24 Apus = 16:50:34 Min (°C) = 2.32 Max (°C) =7.29 Presiune = 1014 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 103 Stare = nori 85-100%']
+Orsova: 50 \ sâmbătă \ 17:12:2022 \ 19:13:48
+[' Răsarit = 08:02:05 Apus = 16:50:49 Min (°C) = 4.01 Max (°C) =8.87 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 286 Stare = nori 50-85%']
+Orsova: 50 \ duminică \ 18:12:2022 \ 19:13:18
+[' Răsarit = 08:02:44 Apus = 16:51:08 Min (°C) = 0.91 Max (°C) =5.22 Presiune = 1036 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 303 Stare = nori 10-25%']
+Orsova: 51 \ luni \ 19:12:2022 \ 19:15:55
+[' Răsarit = 08:03:20 Apus = 16:51:28 Min (°C) = -0.16 Max (°C) =2.05 Presiune = 1041 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 86 Stare = nori 85-100%']
+Orsova: 51 \ marți \ 20:12:2022 \ 19:13:50
+[' Răsarit = 08:03:54 Apus = 16:51:52 Min (°C) = -1.65 Max (°C) =1.83 Presiune = 1033 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 124 Stare = nori 25-50%']
+Orsova: 51 \ miercuri \ 21:12:2022 \ 19:13:39
+[' Răsarit = 08:04:26 Apus = 16:52:17 Min (°C) = -0.89 Max (°C) =5.15 Presiune = 1022 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 10 Stare = nori 10-25%']
+Orsova: 51 \ joi \ 22:12:2022 \ 19:15:42
+[' Răsarit = 08:04:56 Apus = 16:52:45 Min (°C) = 2.19 Max (°C) =8.18 Presiune = 1017 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 303 Stare = nori 50-85%']
+Orsova: 51 \ vineri \ 23:12:2022 \ 19:15:32
+[' Răsarit = 08:05:23 Apus = 16:53:16 Min (°C) = 4.2 Max (°C) =9.79 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 305 Stare = nori 10-25%']
+Orsova: 51 \ sâmbătă \ 24:12:2022 \ 19:15:07
+[' Răsarit = 08:05:48 Apus = 16:53:49 Min (°C) = 7.01 Max (°C) =9.08 Presiune = 1017 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 285 Stare = nori 85-100%']
+Orsova: 51 \ duminică \ 25:12:2022 \ 19:15:43
+[' Răsarit = 08:06:10 Apus = 16:54:25 Min (°C) = 6.26 Max (°C) =11.19 Presiune = 1026 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 306 Stare = cer senin']
+Orsova: 52 \ luni \ 26:12:2022 \ 19:18:25
+[' Răsarit = 08:06:30 Apus = 16:55:02 Min (°C) = 4.94 Max (°C) =9.96 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 302 Stare = nori 50-85%']
+Orsova: 52 \ marți \ 27:12:2022 \ 19:14:04
+[' Răsarit = 08:06:47 Apus = 16:55:42 Min (°C) = 6.54 Max (°C) =12.81 Presiune = 1027 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.22 Unghiul vântului = 284 Stare = nori 50-85%']
+Orsova: 52 \ miercuri \ 28:12:2022 \ 19:14:09
+[' Răsarit = 08:07:02 Apus = 16:56:25 Min (°C) = 2.91 Max (°C) =7.63 Presiune = 1029 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 60 Stare = nori 25-50%']
+Orsova: 52 \ joi \ 29:12:2022 \ 19:18:37
+[' Răsarit = 08:07:15 Apus = 16:57:09 Min (°C) = 1.76 Max (°C) =8.07 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 293 Stare = nori 10-25%']
+Orsova: 52 \ vineri \ 30:12:2022 \ 19:13:15
+[' Răsarit = 08:07:24 Apus = 16:57:56 Min (°C) = 5.86 Max (°C) =12.97 Presiune = 1025 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 292 Stare = nori 85-100%']
+Orsova: 52 \ sâmbătă \ 31:12:2022 \ 19:15:09
+[' Răsarit = 08:07:32 Apus = 16:58:44 Min (°C) = 7.25 Max (°C) =13.87 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 304 Stare = nori 85-100%']
+Orsova: 00 \ duminică \ 01:1:2023 \ 19:17:08
+[' Răsarit = 08:07:37 Apus = 16:59:35 Min (°C) = 8.52 Max (°C) =15.66 Presiune = 1030 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 355 Stare = nori 50-85%']
+Orsova: 01 \ luni \ 02:1:2023 \ 19:17:21
+[' Răsarit = 08:07:39 Apus = 17:00:28 Min (°C) = 9.13 Max (°C) =15.8 Presiune = 1027 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 346 Stare = nori 25-50%']
+Orsova: 01 \ marți \ 03:1:2023 \ 19:19:54
+[' Răsarit = 08:07:39 Apus = 17:01:23 Min (°C) = 8.92 Max (°C) =15.26 Presiune = 1026 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 291 Stare = nori 25-50%']
+Orsova: 01 \ miercuri \ 04:1:2023 \ 19:16:49
+[' Răsarit = 08:07:36 Apus = 17:02:20 Min (°C) = 6.83 Max (°C) =10.87 Presiune = 1029 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 288 Stare = nori 85-100%']
+Orsova: 01 \ joi \ 05:1:2023 \ 19:18:26
+[' Răsarit = 08:07:30 Apus = 17:03:18 Min (°C) = 4.49 Max (°C) =12.45 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 4.1 Unghiul vântului = 281 Stare = nori 50-85%']
+Orsova: 01 \ vineri \ 06:1:2023 \ 19:21:32
+[' Răsarit = 08:07:22 Apus = 17:04:19 Min (°C) = 5.57 Max (°C) =10.16 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 304 Stare = nori 25-50%']
+Orsova: 01 \ sâmbătă \ 07:1:2023 \ 19:14:34
+[' Răsarit = 08:07:12 Apus = 17:05:21 Min (°C) = 4.21 Max (°C) =12.06 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 29 Stare = cer senin']
+Orsova: 01 \ duminică \ 08:1:2023 \ 19:15:48
+[' Răsarit = 08:06:59 Apus = 17:06:25 Min (°C) = 3.72 Max (°C) =8.02 Presiune = 1022 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 76 Stare = nori 25-50%']
+Orsova: 02 \ luni \ 09:1:2023 \ 19:16:09
+[' Răsarit = 08:06:44 Apus = 17:07:30 Min (°C) = 2.12 Max (°C) =6.86 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.94 Unghiul vântului = 76 Stare = nori 85-100%']
+Orsova: 02 \ marți \ 10:1:2023 \ 19:13:37
+[' Răsarit = 08:06:26 Apus = 17:08:37 Min (°C) = 3.81 Max (°C) =5 Presiune = 1008 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 308 Stare = ploaie ușoară']
+Orsova: 02 \ miercuri \ 11:1:2023 \ 19:15:37
+[' Răsarit = 08:06:05 Apus = 17:09:45 Min (°C) = 3.3 Max (°C) =5.76 Presiune = 1021 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 46 Stare = nori 85-100%']
+Orsova: 02 \ joi \ 12:1:2023 \ 19:14:46
+[' Răsarit = 08:05:42 Apus = 17:10:55 Min (°C) = 5.09 Max (°C) =5.55 Presiune = 1023 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 229 Stare = nori 85-100%']
+Orsova: 02 \ vineri \ 13:1:2023 \ 19:20:07
+[' Răsarit = 08:05:17 Apus = 17:12:06 Min (°C) = 4.98 Max (°C) =5.88 Presiune = 1022 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 136 Stare = nori 85-100%']
+Orsova: 02 \ sâmbătă \ 14:1:2023 \ 19:16:00
+[' Răsarit = 08:04:49 Apus = 17:13:19 Min (°C) = 4.8 Max (°C) =7.7 Presiune = 1023 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 287 Stare = nori 85-100%']
+Orsova: 02 \ duminică \ 15:1:2023 \ 19:17:09
+[' Răsarit = 08:04:19 Apus = 17:14:33 Min (°C) = 4.25 Max (°C) =6.41 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 73 Stare = nori 85-100%']
+Orsova: 03 \ luni \ 16:1:2023 \ 19:14:56
+[' Răsarit = 08:03:47 Apus = 17:15:48 Min (°C) = 3.48 Max (°C) =5.01 Presiune = 1007 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 79 Stare = nori 85-100%']
+Orsova: 03 \ marți \ 17:1:2023 \ 19:16:54
+[' Răsarit = 08:03:12 Apus = 17:17:04 Min (°C) = 2.42 Max (°C) =4.6 Presiune = 1001 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 55 Stare = nori 85-100%']
+Orsova: 03 \ miercuri \ 18:1:2023 \ 19:18:50
+[' Răsarit = 08:02:35 Apus = 17:18:21 Min (°C) = 5.22 Max (°C) =15.23 Presiune = 1003 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 105 Stare = ploaie ușoară']
+Orsova: 03 \ joi \ 19:1:2023 \ 19:14:13
+[' Răsarit = 08:01:56 Apus = 17:19:39 Min (°C) = 7.99 Max (°C) =11.73 Presiune = 1007 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 107 Stare = nori 85-100%']
+Orsova: 03 \ vineri \ 20:1:2023 \ 19:13:55
+[' Răsarit = 08:01:14 Apus = 17:20:58 Min (°C) = 1.8 Max (°C) =8.31 Presiune = 1007 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 4.93 Unghiul vântului = 288 Stare = nori 85-100%']
+Orsova: 03 \ sâmbătă \ 21:1:2023 \ 19:14:21
+[' Răsarit = 08:00:30 Apus = 17:22:18 Min (°C) = 1.09 Max (°C) =6.86 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.53 Unghiul vântului = 75 Stare = nori 50-85%']
+Orsova: 04 \ luni \ 23:1:2023 \ 17:02:47
+[' Răsarit = 07:58:56 Apus = 17:24:59 Min (°C) = 4.76 Max (°C) =8.55 Presiune = 1028 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.89 Unghiul vântului = 97 Stare = nori 85-100%']
+Orsova: 04 \ marți \ 24:1:2023 \ 20:03:44
+[' Răsarit = 07:58:05 Apus = 17:26:21 Min (°C) = 1.74 Max (°C) =3.19 Presiune = 1034 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 97 Stare = nori 85-100%']
+Orsova: 04 \ miercuri \ 25:1:2023 \ 21:54:10
+[' Răsarit = 07:57:13 Apus = 17:27:44 Min (°C) = -0.33 Max (°C) =2.17 Presiune = 1029 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 94 Stare = nori 85-100%']

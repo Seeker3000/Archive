@@ -1268,3 +1268,169 @@ Darabani: 44 \ marți \ 01:11:2022 \ 19:05:14
 [' Răsarit = 06:58:29 Apus = 16:55:54 Min (°C) = 6.95 Max (°C) =15.77 Presiune = 1019 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 128 Stare = nori 85-100%']
 Darabani: 44 \ miercuri \ 02:11:2022 \ 19:05:46
 [' Răsarit = 07:00:02 Apus = 16:54:19 Min (°C) = 9.71 Max (°C) =16.82 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 4.58 Unghiul vântului = 328 Stare = nori 50-85%']
+Darabani: 44 \ joi \ 03:11:2022 \ 19:05:03
+[' Răsarit = 07:01:36 Apus = 16:52:46 Min (°C) = 7.38 Max (°C) =14 Presiune = 1021 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.23 Unghiul vântului = 335 Stare = nori 10-25%']
+Darabani: 44 \ vineri \ 04:11:2022 \ 19:05:13
+[' Răsarit = 07:03:10 Apus = 16:51:14 Min (°C) = 4.85 Max (°C) =12.33 Presiune = 1013 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.14 Unghiul vântului = 110 Stare = nori 85-100%']
+Darabani: 44 \ sâmbătă \ 05:11:2022 \ 19:05:03
+[' Răsarit = 07:04:44 Apus = 16:49:44 Min (°C) = 6.61 Max (°C) =12.98 Presiune = 1016 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 108 Stare = nori 85-100%']
+Darabani: 44 \ duminică \ 06:11:2022 \ 19:04:51
+[' Răsarit = 07:06:18 Apus = 16:48:16 Min (°C) = 9.41 Max (°C) =11.03 Presiune = 1021 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.19 Unghiul vântului = 121 Stare = nori 85-100%']
+Darabani: 45 \ luni \ 07:11:2022 \ 19:04:56
+[' Răsarit = 07:07:52 Apus = 16:46:49 Min (°C) = 6.97 Max (°C) =14.05 Presiune = 1020 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 135 Stare = nori 10-25%']
+Darabani: 45 \ marți \ 08:11:2022 \ 19:04:56
+[' Răsarit = 07:09:26 Apus = 16:45:24 Min (°C) = 7.42 Max (°C) =11.74 Presiune = 1022 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 141 Stare = nori 25-50%']
+Darabani: 45 \ miercuri \ 09:11:2022 \ 19:04:45
+[' Răsarit = 07:11:00 Apus = 16:44:01 Min (°C) = 5.46 Max (°C) =14.06 Presiune = 1021 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 133 Stare = cer senin']
+Darabani: 45 \ joi \ 10:11:2022 \ 19:04:58
+[' Răsarit = 07:12:33 Apus = 16:42:40 Min (°C) = 5.25 Max (°C) =13.46 Presiune = 1025 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 324 Stare = nori 50-85%']
+Darabani: 45 \ vineri \ 11:11:2022 \ 19:04:50
+[' Răsarit = 07:14:06 Apus = 16:41:21 Min (°C) = 7.34 Max (°C) =12.38 Presiune = 1032 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 298 Stare = nori 25-50%']
+Darabani: 45 \ sâmbătă \ 12:11:2022 \ 19:05:08
+[' Răsarit = 07:15:39 Apus = 16:40:03 Min (°C) = 6.26 Max (°C) =13.09 Presiune = 1031 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 249 Stare = nori 50-85%']
+Darabani: 45 \ duminică \ 13:11:2022 \ 19:04:48
+[' Răsarit = 07:17:12 Apus = 16:38:48 Min (°C) = 5.93 Max (°C) =10.92 Presiune = 1030 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 331 Stare = cer senin']
+Darabani: 46 \ luni \ 14:11:2022 \ 19:04:45
+[' Răsarit = 07:18:45 Apus = 16:37:35 Min (°C) = 4.58 Max (°C) =10.75 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 121 Stare = nori 85-100%']
+Darabani: 46 \ marți \ 15:11:2022 \ 19:05:19
+[' Răsarit = 07:20:16 Apus = 16:36:24 Min (°C) = 3.1 Max (°C) =10.32 Presiune = 1014 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 157 Stare = nori 10-25%']
+Darabani: 46 \ miercuri \ 16:11:2022 \ 19:04:45
+[' Răsarit = 07:21:48 Apus = 16:35:14 Min (°C) = 4.88 Max (°C) =9.3 Presiune = 1004 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 83 Stare = nori 85-100%']
+Darabani: 46 \ joi \ 17:11:2022 \ 19:05:02
+[' Răsarit = 07:23:19 Apus = 16:34:07 Min (°C) = 1.23 Max (°C) =6.49 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 346 Stare = nori 85-100%']
+Darabani: 46 \ vineri \ 18:11:2022 \ 19:05:02
+[' Răsarit = 07:24:49 Apus = 16:33:03 Min (°C) = 0.4 Max (°C) =4.48 Presiune = 1002 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.78 Unghiul vântului = 120 Stare = ploaie ușoară']
+Darabani: 46 \ sâmbătă \ 19:11:2022 \ 19:04:46
+[' Răsarit = 07:26:19 Apus = 16:32:00 Min (°C) = -0.15 Max (°C) =3.71 Presiune = 1019 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 353 Stare = nori 50-85%']
+Darabani: 46 \ duminică \ 20:11:2022 \ 19:04:51
+[' Răsarit = 07:27:48 Apus = 16:31:00 Min (°C) = -0.87 Max (°C) =0.64 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 25 Stare = nori 85-100%']
+Darabani: 47 \ luni \ 21:11:2022 \ 19:05:19
+[' Răsarit = 07:29:16 Apus = 16:30:02 Min (°C) = -0.17 Max (°C) =0.73 Presiune = 1007 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 5.39 Unghiul vântului = 300 Stare = nori 85-100%']
+Darabani: 47 \ marți \ 22:11:2022 \ 19:04:51
+[' Răsarit = 07:30:43 Apus = 16:29:06 Min (°C) = -1.65 Max (°C) =1.79 Presiune = 1013 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 151 Stare = nori 25-50%']
+Darabani: 47 \ miercuri \ 23:11:2022 \ 19:05:01
+[' Răsarit = 07:32:09 Apus = 16:28:13 Min (°C) = -2.89 Max (°C) =1.97 Presiune = 1006 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 354 Stare = zăpadă slabă']
+Darabani: 47 \ joi \ 24:11:2022 \ 19:07:03
+[' Răsarit = 07:33:35 Apus = 16:27:23 Min (°C) = 1.23 Max (°C) =4.37 Presiune = 1011 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 341 Stare = nori 85-100%']
+Darabani: 47 \ vineri \ 25:11:2022 \ 19:05:14
+[' Răsarit = 07:34:59 Apus = 16:26:34 Min (°C) = -0.44 Max (°C) =3.29 Presiune = 1021 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 4.86 Unghiul vântului = 310 Stare = nori 85-100%']
+Darabani: 47 \ sâmbătă \ 26:11:2022 \ 19:04:49
+[' Răsarit = 07:36:22 Apus = 16:25:49 Min (°C) = -1.46 Max (°C) =2.91 Presiune = 1027 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 296 Stare = nori 85-100%']
+Darabani: 47 \ duminică \ 27:11:2022 \ 19:05:04
+[' Răsarit = 07:37:44 Apus = 16:25:06 Min (°C) = 1.49 Max (°C) =2.76 Presiune = 1030 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 339 Stare = nori 85-100%']
+Darabani: 48 \ luni \ 28:11:2022 \ 19:05:02
+[' Răsarit = 07:39:05 Apus = 16:24:25 Min (°C) = 0.25 Max (°C) =2.8 Presiune = 1027 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.32 Unghiul vântului = 112 Stare = nori 85-100%']
+Darabani: 48 \ marți \ 29:11:2022 \ 19:04:45
+[' Răsarit = 07:40:24 Apus = 16:23:47 Min (°C) = -1.05 Max (°C) =2.34 Presiune = 1027 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 87 Stare = nori 85-100%']
+Darabani: 48 \ miercuri \ 30:11:2022 \ 19:07:09
+[' Răsarit = 07:41:42 Apus = 16:23:12 Min (°C) = 1.79 Max (°C) =2.77 Presiune = 1029 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 92 Stare = nori 85-100%']
+Darabani: 48 \ joi \ 01:12:2022 \ 19:04:54
+[' Răsarit = 07:42:58 Apus = 16:22:39 Min (°C) = -1.64 Max (°C) =1.24 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 94 Stare = nori 85-100%']
+Darabani: 48 \ vineri \ 02:12:2022 \ 19:04:57
+[' Răsarit = 07:44:13 Apus = 16:22:10 Min (°C) = -0.61 Max (°C) =1.93 Presiune = 1028 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 102 Stare = nori 85-100%']
+Darabani: 48 \ sâmbătă \ 03:12:2022 \ 19:05:01
+[' Răsarit = 07:45:26 Apus = 16:21:43 Min (°C) = -0.44 Max (°C) =3.08 Presiune = 1031 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.4 Unghiul vântului = 125 Stare = nori 85-100%']
+Darabani: 48 \ duminică \ 04:12:2022 \ 19:04:51
+[' Răsarit = 07:46:37 Apus = 16:21:19 Min (°C) = -1 Max (°C) =0.71 Presiune = 1032 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 7 Unghiul vântului = 128 Stare = nori 85-100%']
+Darabani: 49 \ luni \ 05:12:2022 \ 19:08:44
+[' Răsarit = 07:47:47 Apus = 16:20:57 Min (°C) = -2.11 Max (°C) =-0.7 Presiune = 1028 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 6.36 Unghiul vântului = 129 Stare = nori 85-100%']
+Darabani: 49 \ marți \ 06:12:2022 \ 19:05:19
+[' Răsarit = 07:48:55 Apus = 16:20:39 Min (°C) = -1.47 Max (°C) =0.95 Presiune = 1018 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 6.92 Unghiul vântului = 138 Stare = nori 85-100%']
+Darabani: 49 \ miercuri \ 07:12:2022 \ 19:04:54
+[' Răsarit = 07:50:00 Apus = 16:20:23 Min (°C) = 0.12 Max (°C) =3.34 Presiune = 1014 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.81 Unghiul vântului = 163 Stare = nori 10-25%']
+Darabani: 49 \ joi \ 08:12:2022 \ 19:05:20
+[' Răsarit = 07:51:04 Apus = 16:20:10 Min (°C) = 0.01 Max (°C) =4.6 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 99 Stare = nori 25-50%']
+Darabani: 49 \ vineri \ 09:12:2022 \ 19:04:37
+[' Răsarit = 07:52:06 Apus = 16:20:00 Min (°C) = 0.16 Max (°C) =6.15 Presiune = 1011 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 122 Stare = nori 85-100%']
+Darabani: 49 \ sâmbătă \ 10:12:2022 \ 19:04:58
+[' Răsarit = 07:53:06 Apus = 16:19:53 Min (°C) = 2.85 Max (°C) =11.14 Presiune = 1004 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 318 Stare = nori 50-85%']
+Darabani: 49 \ duminică \ 11:12:2022 \ 19:04:36
+[' Răsarit = 07:54:03 Apus = 16:19:49 Min (°C) = 0.44 Max (°C) =4.85 Presiune = 998 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.3 Unghiul vântului = 313 Stare = nori 85-100%']
+Darabani: 50 \ luni \ 12:12:2022 \ 19:05:04
+[' Răsarit = 07:54:58 Apus = 16:19:48 Min (°C) = -1.8 Max (°C) =1.52 Presiune = 1007 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 169 Stare = nori 85-100%']
+Darabani: 50 \ marți \ 13:12:2022 \ 19:04:48
+[' Răsarit = 07:55:51 Apus = 16:19:50 Min (°C) = -2.66 Max (°C) =0.51 Presiune = 1015 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 339 Stare = nori 25-50%']
+Darabani: 50 \ miercuri \ 14:12:2022 \ 19:05:52
+[' Răsarit = 07:56:41 Apus = 16:19:55 Min (°C) = -5.48 Max (°C) =-1.2 Presiune = 1014 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 5.72 Unghiul vântului = 128 Stare = nori 85-100%']
+Darabani: 50 \ joi \ 15:12:2022 \ 19:05:14
+[' Răsarit = 07:57:29 Apus = 16:20:02 Min (°C) = -1.12 Max (°C) =4.03 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 257 Stare = nori 10-25%']
+Darabani: 50 \ vineri \ 16:12:2022 \ 19:05:03
+[' Răsarit = 07:58:15 Apus = 16:20:13 Min (°C) = 1.6 Max (°C) =5.73 Presiune = 1010 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.6 Unghiul vântului = 149 Stare = nori 85-100%']
+Darabani: 50 \ sâmbătă \ 17:12:2022 \ 19:04:41
+[' Răsarit = 07:58:58 Apus = 16:20:27 Min (°C) = -1.07 Max (°C) =5.32 Presiune = 1019 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 8.18 Unghiul vântului = 311 Stare = nori 85-100%']
+Darabani: 50 \ duminică \ 18:12:2022 \ 19:04:45
+[' Răsarit = 07:59:38 Apus = 16:20:43 Min (°C) = -3.77 Max (°C) =-0.41 Presiune = 1038 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 5.05 Unghiul vântului = 322 Stare = cer senin']
+Darabani: 51 \ luni \ 19:12:2022 \ 19:04:48
+[' Răsarit = 08:00:16 Apus = 16:21:03 Min (°C) = -5.79 Max (°C) =-1.76 Presiune = 1041 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 149 Stare = cer senin']
+Darabani: 51 \ marți \ 20:12:2022 \ 19:05:12
+[' Răsarit = 08:00:51 Apus = 16:21:25 Min (°C) = -4.35 Max (°C) =0.9 Presiune = 1026 Umiditate (%) = 48 Index UV = 0 Viteza vântului = 1.44 Unghiul vântului = 107 Stare = nori 85-100%']
+Darabani: 51 \ miercuri \ 21:12:2022 \ 19:05:10
+[' Răsarit = 08:01:24 Apus = 16:21:50 Min (°C) = -0.77 Max (°C) =3.88 Presiune = 1018 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 137 Stare = nori 50-85%']
+Darabani: 51 \ joi \ 22:12:2022 \ 19:05:03
+[' Răsarit = 08:01:53 Apus = 16:22:18 Min (°C) = -0.44 Max (°C) =3.29 Presiune = 1015 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 151 Stare = nori 85-100%']
+Darabani: 51 \ vineri \ 23:12:2022 \ 19:04:58
+[' Răsarit = 08:02:20 Apus = 16:22:49 Min (°C) = 0.14 Max (°C) =6.18 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 168 Stare = nori 50-85%']
+Darabani: 51 \ sâmbătă \ 24:12:2022 \ 19:06:52
+[' Răsarit = 08:02:44 Apus = 16:23:23 Min (°C) = 3.12 Max (°C) =5.55 Presiune = 1012 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.66 Unghiul vântului = 287 Stare = nori 85-100%']
+Darabani: 51 \ duminică \ 25:12:2022 \ 19:04:48
+[' Răsarit = 08:03:06 Apus = 16:23:59 Min (°C) = 2.68 Max (°C) =6.24 Presiune = 1025 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 317 Stare = nori 85-100%']
+Darabani: 52 \ luni \ 26:12:2022 \ 19:04:55
+[' Răsarit = 08:03:24 Apus = 16:24:38 Min (°C) = 0.76 Max (°C) =4.16 Presiune = 1020 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.98 Unghiul vântului = 156 Stare = nori 85-100%']
+Darabani: 52 \ marți \ 27:12:2022 \ 19:05:07
+[' Răsarit = 08:03:40 Apus = 16:25:20 Min (°C) = 2.64 Max (°C) =8.08 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 6.52 Unghiul vântului = 312 Stare = nori 85-100%']
+Darabani: 52 \ miercuri \ 28:12:2022 \ 19:04:56
+[' Răsarit = 08:03:52 Apus = 16:26:05 Min (°C) = 0.11 Max (°C) =4.35 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.11 Unghiul vântului = 149 Stare = nori 50-85%']
+Darabani: 52 \ joi \ 29:12:2022 \ 19:05:04
+[' Răsarit = 08:04:02 Apus = 16:26:52 Min (°C) = -0.05 Max (°C) =4.82 Presiune = 1020 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 164 Stare = nori 50-85%']
+Darabani: 52 \ vineri \ 30:12:2022 \ 19:04:44
+[' Răsarit = 08:04:09 Apus = 16:27:41 Min (°C) = 1.89 Max (°C) =7.05 Presiune = 1023 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.57 Unghiul vântului = 259 Stare = nori 85-100%']
+Darabani: 52 \ sâmbătă \ 31:12:2022 \ 19:06:48
+[' Răsarit = 08:04:13 Apus = 16:28:33 Min (°C) = 3.45 Max (°C) =9.35 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 204 Stare = nori 85-100%']
+Darabani: 00 \ duminică \ 01:1:2023 \ 19:05:10
+[' Răsarit = 08:04:14 Apus = 16:29:28 Min (°C) = 7.95 Max (°C) =13.25 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 169 Stare = nori 85-100%']
+Darabani: 01 \ luni \ 02:1:2023 \ 19:05:26
+[' Răsarit = 08:04:13 Apus = 16:30:25 Min (°C) = 6.23 Max (°C) =12.16 Presiune = 1024 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 153 Stare = nori 50-85%']
+Darabani: 01 \ marți \ 03:1:2023 \ 19:05:22
+[' Răsarit = 08:04:08 Apus = 16:31:24 Min (°C) = 6.47 Max (°C) =11.8 Presiune = 1026 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.93 Unghiul vântului = 321 Stare = nori 50-85%']
+Darabani: 01 \ miercuri \ 04:1:2023 \ 19:05:05
+[' Răsarit = 08:04:00 Apus = 16:32:26 Min (°C) = 1.23 Max (°C) =7.05 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 159 Stare = cer senin']
+Darabani: 01 \ joi \ 05:1:2023 \ 19:05:03
+[' Răsarit = 08:03:50 Apus = 16:33:29 Min (°C) = 2.31 Max (°C) =10.68 Presiune = 1009 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.7 Unghiul vântului = 296 Stare = nori 85-100%']
+Darabani: 01 \ vineri \ 06:1:2023 \ 19:09:47
+[' Răsarit = 08:03:37 Apus = 16:34:35 Min (°C) = 0.29 Max (°C) =7.67 Presiune = 1024 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.12 Unghiul vântului = 341 Stare = nori 85-100%']
+Darabani: 01 \ sâmbătă \ 07:1:2023 \ 19:05:08
+[' Răsarit = 08:03:20 Apus = 16:35:43 Min (°C) = -0.54 Max (°C) =1.78 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 135 Stare = nori 85-100%']
+Darabani: 01 \ duminică \ 08:1:2023 \ 19:05:26
+[' Răsarit = 08:03:01 Apus = 16:36:53 Min (°C) = -0.44 Max (°C) =1.25 Presiune = 1022 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 7.86 Unghiul vântului = 137 Stare = nori 85-100%']
+Darabani: 02 \ luni \ 09:1:2023 \ 19:05:02
+[' Răsarit = 08:02:40 Apus = 16:38:04 Min (°C) = 0.87 Max (°C) =6.58 Presiune = 1012 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 9.5 Unghiul vântului = 148 Stare = nori 85-100%']
+Darabani: 02 \ marți \ 10:1:2023 \ 19:04:34
+[' Răsarit = 08:02:15 Apus = 16:39:18 Min (°C) = 4.36 Max (°C) =5.75 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 6.9 Unghiul vântului = 116 Stare = nori 85-100%']
+Darabani: 02 \ miercuri \ 11:1:2023 \ 19:06:41
+[' Răsarit = 08:01:48 Apus = 16:40:33 Min (°C) = -2.11 Max (°C) =4.68 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 5.64 Unghiul vântului = 122 Stare = nori 50-85%']
+Darabani: 02 \ joi \ 12:1:2023 \ 19:05:12
+[' Răsarit = 08:01:18 Apus = 16:41:50 Min (°C) = -2.11 Max (°C) =1.89 Presiune = 1023 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 133 Stare = nori 85-100%']
+Darabani: 02 \ vineri \ 13:1:2023 \ 19:06:01
+[' Răsarit = 08:00:45 Apus = 16:43:09 Min (°C) = 0.12 Max (°C) =3.95 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 129 Stare = nori 85-100%']
+Darabani: 02 \ sâmbătă \ 14:1:2023 \ 19:05:29
+[' Răsarit = 08:00:09 Apus = 16:44:29 Min (°C) = -0.75 Max (°C) =3.01 Presiune = 1024 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 159 Stare = nori 85-100%']
+Darabani: 02 \ duminică \ 15:1:2023 \ 19:04:52
+[' Răsarit = 07:59:31 Apus = 16:45:51 Min (°C) = 0.12 Max (°C) =5.88 Presiune = 1014 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 5.26 Unghiul vântului = 150 Stare = cer senin']
+Darabani: 03 \ luni \ 16:1:2023 \ 19:04:16
+[' Răsarit = 07:58:51 Apus = 16:47:14 Min (°C) = -0.53 Max (°C) =3.34 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.63 Unghiul vântului = 143 Stare = nori 85-100%']
+Darabani: 03 \ marți \ 17:1:2023 \ 19:05:22
+[' Răsarit = 07:58:07 Apus = 16:48:39 Min (°C) = 2.37 Max (°C) =6.92 Presiune = 999 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 186 Stare = nori 50-85%']
+Darabani: 03 \ miercuri \ 18:1:2023 \ 19:04:45
+[' Răsarit = 07:57:22 Apus = 16:50:05 Min (°C) = 4.74 Max (°C) =11.68 Presiune = 1002 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 209 Stare = nori 25-50%']
+Darabani: 03 \ joi \ 19:1:2023 \ 19:04:32
+[' Răsarit = 07:56:33 Apus = 16:51:32 Min (°C) = 6.76 Max (°C) =13.65 Presiune = 1003 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 160 Stare = nori 50-85%']
+Darabani: 03 \ vineri \ 20:1:2023 \ 19:05:03
+[' Răsarit = 07:55:43 Apus = 16:53:00 Min (°C) = 2.34 Max (°C) =8.49 Presiune = 1008 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 289 Stare = nori 85-100%']
+Darabani: 03 \ sâmbătă \ 21:1:2023 \ 19:04:53
+[' Răsarit = 07:54:49 Apus = 16:54:29 Min (°C) = 2.12 Max (°C) =7.5 Presiune = 1019 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 351 Stare = nori 25-50%']
+Darabani: 04 \ luni \ 23:1:2023 \ 16:53:28
+[' Răsarit = 07:52:56 Apus = 16:57:30 Min (°C) = 0.67 Max (°C) =5.2 Presiune = 1033 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 37 Stare = nori 50-85%']
+Darabani: 04 \ marți \ 24:1:2023 \ 19:53:36
+[' Răsarit = 07:51:56 Apus = 16:59:02 Min (°C) = -1.77 Max (°C) =2.51 Presiune = 1036 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 357 Stare = nori 10-25%']
+Darabani: 04 \ miercuri \ 25:1:2023 \ 21:39:47
+[' Răsarit = 07:50:53 Apus = 17:00:34 Min (°C) = -2.92 Max (°C) =0.37 Presiune = 1030 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 143 Stare = nori 85-100%']

@@ -1270,3 +1270,169 @@ Baicoi: 44 \ marți \ 01:11:2022 \ 19:16:14
 [' Răsarit = 06:54:38 Apus = 17:05:36 Min (°C) = 9.82 Max (°C) =19.49 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.59 Unghiul vântului = 283 Stare = nori 10-25%']
 Baicoi: 44 \ miercuri \ 02:11:2022 \ 19:16:55
 [' Răsarit = 06:56:01 Apus = 17:04:12 Min (°C) = 12.94 Max (°C) =22.56 Presiune = 1018 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 16 Stare = nori 25-50%']
+Baicoi: 44 \ joi \ 03:11:2022 \ 19:17:51
+[' Răsarit = 06:57:25 Apus = 17:02:49 Min (°C) = 10.47 Max (°C) =17.4 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 213 Stare = nori 50-85%']
+Baicoi: 44 \ vineri \ 04:11:2022 \ 19:20:34
+[' Răsarit = 06:58:48 Apus = 17:01:28 Min (°C) = 7.47 Max (°C) =15.86 Presiune = 1013 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 355 Stare = nori 85-100%']
+Baicoi: 44 \ sâmbătă \ 05:11:2022 \ 19:21:49
+[' Răsarit = 07:00:12 Apus = 17:00:08 Min (°C) = 9.01 Max (°C) =17.74 Presiune = 1014 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.05 Unghiul vântului = 53 Stare = nori 85-100%']
+Baicoi: 44 \ duminică \ 06:11:2022 \ 19:15:14
+[' Răsarit = 07:01:35 Apus = 16:58:50 Min (°C) = 11.44 Max (°C) =15.09 Presiune = 1019 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5 Unghiul vântului = 72 Stare = nori 85-100%']
+Baicoi: 45 \ luni \ 07:11:2022 \ 19:15:11
+[' Răsarit = 07:02:59 Apus = 16:57:34 Min (°C) = 9.49 Max (°C) =15.57 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 259 Stare = cer senin']
+Baicoi: 45 \ marți \ 08:11:2022 \ 19:15:15
+[' Răsarit = 07:04:23 Apus = 16:56:19 Min (°C) = 8.03 Max (°C) =14.18 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 59 Stare = nori 85-100%']
+Baicoi: 45 \ miercuri \ 09:11:2022 \ 19:17:24
+[' Răsarit = 07:05:46 Apus = 16:55:06 Min (°C) = 7.09 Max (°C) =15.28 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 38 Stare = cer senin']
+Baicoi: 45 \ joi \ 10:11:2022 \ 19:18:16
+[' Răsarit = 07:07:10 Apus = 16:53:55 Min (°C) = 6.97 Max (°C) =16.27 Presiune = 1025 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 283 Stare = cer senin']
+Baicoi: 45 \ vineri \ 11:11:2022 \ 19:17:14
+[' Răsarit = 07:08:33 Apus = 16:52:46 Min (°C) = 8.04 Max (°C) =11.5 Presiune = 1031 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 269 Stare = nori 85-100%']
+Baicoi: 45 \ sâmbătă \ 12:11:2022 \ 19:15:21
+[' Răsarit = 07:09:56 Apus = 16:51:39 Min (°C) = 6.09 Max (°C) =12.98 Presiune = 1033 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 286 Stare = nori 10-25%']
+Baicoi: 45 \ duminică \ 13:11:2022 \ 19:21:37
+[' Răsarit = 07:11:19 Apus = 16:50:33 Min (°C) = 5.96 Max (°C) =14.93 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 314 Stare = nori 10-25%']
+Baicoi: 46 \ luni \ 14:11:2022 \ 19:17:14
+[' Răsarit = 07:12:42 Apus = 16:49:29 Min (°C) = 5.41 Max (°C) =11.67 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.79 Unghiul vântului = 353 Stare = nori 85-100%']
+Baicoi: 46 \ marți \ 15:11:2022 \ 19:15:56
+[' Răsarit = 07:14:04 Apus = 16:48:28 Min (°C) = 3.4 Max (°C) =10.85 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 245 Stare = nori 85-100%']
+Baicoi: 46 \ miercuri \ 16:11:2022 \ 19:15:03
+[' Răsarit = 07:15:27 Apus = 16:47:28 Min (°C) = 5.15 Max (°C) =14.83 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 274 Stare = nori 25-50%']
+Baicoi: 46 \ joi \ 17:11:2022 \ 19:15:19
+[' Răsarit = 07:16:48 Apus = 16:46:30 Min (°C) = 7.83 Max (°C) =10.16 Presiune = 1001 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 351 Stare = nori 50-85%']
+Baicoi: 46 \ vineri \ 18:11:2022 \ 19:17:42
+[' Răsarit = 07:18:09 Apus = 16:45:35 Min (°C) = 5.03 Max (°C) =10.16 Presiune = 1002 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 350 Stare = nori 85-100%']
+Baicoi: 46 \ sâmbătă \ 19:11:2022 \ 19:19:24
+[' Răsarit = 07:19:30 Apus = 16:44:41 Min (°C) = 7.38 Max (°C) =12.63 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 86 Stare = ploaie ușoară']
+Baicoi: 46 \ duminică \ 20:11:2022 \ 19:15:15
+[' Răsarit = 07:20:50 Apus = 16:43:50 Min (°C) = 7.38 Max (°C) =9.23 Presiune = 1009 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 241 Stare = nori 85-100%']
+Baicoi: 47 \ luni \ 21:11:2022 \ 19:17:44
+[' Răsarit = 07:22:09 Apus = 16:43:01 Min (°C) = 5.16 Max (°C) =8.71 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 324 Stare = nori 85-100%']
+Baicoi: 47 \ marți \ 22:11:2022 \ 19:18:20
+[' Răsarit = 07:23:28 Apus = 16:42:14 Min (°C) = 3.73 Max (°C) =8.79 Presiune = 1012 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 91 Stare = nori 85-100%']
+Baicoi: 47 \ miercuri \ 23:11:2022 \ 19:19:47
+[' Răsarit = 07:24:46 Apus = 16:41:29 Min (°C) = 5.66 Max (°C) =9.79 Presiune = 1004 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.52 Unghiul vântului = 259 Stare = nori 85-100%']
+Baicoi: 47 \ joi \ 24:11:2022 \ 19:19:31
+[' Răsarit = 07:26:03 Apus = 16:40:46 Min (°C) = 5.38 Max (°C) =10.96 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 259 Stare = nori 50-85%']
+Baicoi: 47 \ vineri \ 25:11:2022 \ 19:18:29
+[' Răsarit = 07:27:19 Apus = 16:40:06 Min (°C) = 3.52 Max (°C) =8.93 Presiune = 1019 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 356 Stare = nori 25-50%']
+Baicoi: 47 \ sâmbătă \ 26:11:2022 \ 19:14:57
+[' Răsarit = 07:28:35 Apus = 16:39:28 Min (°C) = 1.1 Max (°C) =7.45 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 0 Stare = cer senin']
+Baicoi: 47 \ duminică \ 27:11:2022 \ 19:18:36
+[' Răsarit = 07:29:49 Apus = 16:38:53 Min (°C) = 1.93 Max (°C) =6.27 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 68 Stare = nori 85-100%']
+Baicoi: 48 \ luni \ 28:11:2022 \ 19:15:13
+[' Răsarit = 07:31:02 Apus = 16:38:20 Min (°C) = 2.68 Max (°C) =5.08 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 82 Stare = nori 85-100%']
+Baicoi: 48 \ marți \ 29:11:2022 \ 19:14:58
+[' Răsarit = 07:32:14 Apus = 16:37:49 Min (°C) = 1.61 Max (°C) =6.61 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.83 Unghiul vântului = 98 Stare = nori 85-100%']
+Baicoi: 48 \ miercuri \ 30:11:2022 \ 19:17:22
+[' Răsarit = 07:33:25 Apus = 16:37:21 Min (°C) = 2.13 Max (°C) =6.26 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 82 Stare = nori 85-100%']
+Baicoi: 48 \ joi \ 01:12:2022 \ 19:15:05
+[' Răsarit = 07:34:35 Apus = 16:36:55 Min (°C) = 0.34 Max (°C) =2.8 Presiune = 1024 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 43 Stare = zăpadă slabă']
+Baicoi: 48 \ vineri \ 02:12:2022 \ 19:16:09
+[' Răsarit = 07:35:43 Apus = 16:36:32 Min (°C) = 1.61 Max (°C) =2.57 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 228 Stare = nori 85-100%']
+Baicoi: 48 \ sâmbătă \ 03:12:2022 \ 19:17:14
+[' Răsarit = 07:36:50 Apus = 16:36:11 Min (°C) = 1.61 Max (°C) =4.27 Presiune = 1030 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 97 Stare = nori 85-100%']
+Baicoi: 48 \ duminică \ 04:12:2022 \ 19:18:07
+[' Răsarit = 07:37:55 Apus = 16:35:53 Min (°C) = 1.85 Max (°C) =3 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 64 Stare = nori 85-100%']
+Baicoi: 49 \ luni \ 05:12:2022 \ 19:19:51
+[' Răsarit = 07:38:59 Apus = 16:35:37 Min (°C) = 1.72 Max (°C) =2.72 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 93 Stare = nori 85-100%']
+Baicoi: 49 \ marți \ 06:12:2022 \ 19:18:47
+[' Răsarit = 07:40:01 Apus = 16:35:24 Min (°C) = 2.5 Max (°C) =4.18 Presiune = 1020 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 47 Stare = nori 85-100%']
+Baicoi: 49 \ miercuri \ 07:12:2022 \ 19:16:03
+[' Răsarit = 07:41:02 Apus = 16:35:13 Min (°C) = 3.2 Max (°C) =7.86 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 244 Stare = nori 85-100%']
+Baicoi: 49 \ joi \ 08:12:2022 \ 19:18:40
+[' Răsarit = 07:42:01 Apus = 16:35:05 Min (°C) = 4.57 Max (°C) =6.89 Presiune = 1016 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 74 Stare = nori 85-100%']
+Baicoi: 49 \ vineri \ 09:12:2022 \ 19:22:32
+[' Răsarit = 07:42:58 Apus = 16:35:00 Min (°C) = 3.86 Max (°C) =9.41 Presiune = 1012 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 287 Stare = nori 85-100%']
+Baicoi: 49 \ sâmbătă \ 10:12:2022 \ 19:15:57
+[' Răsarit = 07:43:54 Apus = 16:34:57 Min (°C) = 6.78 Max (°C) =12 Presiune = 1003 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 122 Stare = nori 50-85%']
+Baicoi: 49 \ duminică \ 11:12:2022 \ 19:18:24
+[' Răsarit = 07:44:47 Apus = 16:34:57 Min (°C) = 6.3 Max (°C) =13.8 Presiune = 997 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.84 Unghiul vântului = 249 Stare = ploaie ușoară']
+Baicoi: 50 \ luni \ 12:12:2022 \ 19:16:04
+[' Răsarit = 07:45:39 Apus = 16:35:00 Min (°C) = 2.06 Max (°C) =7.09 Presiune = 1007 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 266 Stare = nori 85-100%']
+Baicoi: 50 \ marți \ 13:12:2022 \ 19:15:36
+[' Răsarit = 07:46:28 Apus = 16:35:05 Min (°C) = -1.31 Max (°C) =2.45 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 276 Stare = cer senin']
+Baicoi: 50 \ miercuri \ 14:12:2022 \ 19:20:49
+[' Răsarit = 07:47:16 Apus = 16:35:12 Min (°C) = -2.6 Max (°C) =1.64 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.73 Unghiul vântului = 21 Stare = nori 85-100%']
+Baicoi: 50 \ joi \ 15:12:2022 \ 19:22:44
+[' Răsarit = 07:48:01 Apus = 16:35:23 Min (°C) = 1.04 Max (°C) =6.62 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 290 Stare = cer senin']
+Baicoi: 50 \ vineri \ 16:12:2022 \ 19:17:58
+[' Răsarit = 07:48:45 Apus = 16:35:36 Min (°C) = 3.02 Max (°C) =10 Presiune = 1014 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 276 Stare = nori 25-50%']
+Baicoi: 50 \ sâmbătă \ 17:12:2022 \ 19:15:47
+[' Răsarit = 07:49:26 Apus = 16:35:51 Min (°C) = 7.71 Max (°C) =13.61 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 265 Stare = nori 50-85%']
+Baicoi: 50 \ duminică \ 18:12:2022 \ 19:15:13
+[' Răsarit = 07:50:05 Apus = 16:36:09 Min (°C) = 0.34 Max (°C) =7.28 Presiune = 1036 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 107 Stare = nori 85-100%']
+Baicoi: 51 \ luni \ 19:12:2022 \ 19:19:59
+[' Răsarit = 07:50:41 Apus = 16:36:30 Min (°C) = -2.28 Max (°C) =0.65 Presiune = 1043 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.03 Unghiul vântului = 284 Stare = nori 10-25%']
+Baicoi: 51 \ marți \ 20:12:2022 \ 19:15:38
+[' Răsarit = 07:51:15 Apus = 16:36:53 Min (°C) = -3.6 Max (°C) =1.7 Presiune = 1032 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 248 Stare = nori 50-85%']
+Baicoi: 51 \ miercuri \ 21:12:2022 \ 19:15:28
+[' Răsarit = 07:51:47 Apus = 16:37:19 Min (°C) = -2.06 Max (°C) =5.48 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 277 Stare = cer senin']
+Baicoi: 51 \ joi \ 22:12:2022 \ 19:17:30
+[' Răsarit = 07:52:17 Apus = 16:37:47 Min (°C) = -0.95 Max (°C) =5.37 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.84 Unghiul vântului = 288 Stare = nori 85-100%']
+Baicoi: 51 \ vineri \ 23:12:2022 \ 19:17:22
+[' Răsarit = 07:52:44 Apus = 16:38:17 Min (°C) = 1.88 Max (°C) =8.36 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 324 Stare = cer senin']
+Baicoi: 51 \ sâmbătă \ 24:12:2022 \ 19:16:55
+[' Răsarit = 07:53:09 Apus = 16:38:50 Min (°C) = 3.73 Max (°C) =8.67 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 331 Stare = nori 85-100%']
+Baicoi: 51 \ duminică \ 25:12:2022 \ 19:17:44
+[' Răsarit = 07:53:31 Apus = 16:39:26 Min (°C) = 4.63 Max (°C) =11.1 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 340 Stare = cer senin']
+Baicoi: 52 \ luni \ 26:12:2022 \ 19:20:30
+[' Răsarit = 07:53:51 Apus = 16:40:04 Min (°C) = 2.22 Max (°C) =7.11 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 264 Stare = nori 85-100%']
+Baicoi: 52 \ marți \ 27:12:2022 \ 19:18:13
+[' Răsarit = 07:54:08 Apus = 16:40:44 Min (°C) = 3.9 Max (°C) =12.42 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 334 Stare = nori 50-85%']
+Baicoi: 52 \ miercuri \ 28:12:2022 \ 19:18:16
+[' Răsarit = 07:54:23 Apus = 16:41:26 Min (°C) = 1.22 Max (°C) =4.95 Presiune = 1030 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 327 Stare = nori 10-25%']
+Baicoi: 52 \ joi \ 29:12:2022 \ 19:20:36
+[' Răsarit = 07:54:35 Apus = 16:42:11 Min (°C) = 0.01 Max (°C) =8.01 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 271 Stare = cer senin']
+Baicoi: 52 \ vineri \ 30:12:2022 \ 19:15:06
+[' Răsarit = 07:54:45 Apus = 16:42:58 Min (°C) = 2.18 Max (°C) =10.11 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 340 Stare = nori 50-85%']
+Baicoi: 52 \ sâmbătă \ 31:12:2022 \ 19:19:11
+[' Răsarit = 07:54:52 Apus = 16:43:47 Min (°C) = 5.21 Max (°C) =11.97 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 304 Stare = nori 10-25%']
+Baicoi: 00 \ duminică \ 01:1:2023 \ 19:21:27
+[' Răsarit = 07:54:56 Apus = 16:44:38 Min (°C) = 6.75 Max (°C) =14.98 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.32 Unghiul vântului = 323 Stare = nori 10-25%']
+Baicoi: 01 \ luni \ 02:1:2023 \ 19:21:44
+[' Răsarit = 07:54:58 Apus = 16:45:31 Min (°C) = 8.35 Max (°C) =15.25 Presiune = 1026 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 273 Stare = cer senin']
+Baicoi: 01 \ marți \ 03:1:2023 \ 19:22:00
+[' Răsarit = 07:54:58 Apus = 16:46:26 Min (°C) = 8.17 Max (°C) =14.66 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 44 Stare = nori 85-100%']
+Baicoi: 01 \ miercuri \ 04:1:2023 \ 19:18:52
+[' Răsarit = 07:54:54 Apus = 16:47:24 Min (°C) = 3.81 Max (°C) =7.78 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 236 Stare = nori 85-100%']
+Baicoi: 01 \ joi \ 05:1:2023 \ 19:20:29
+[' Răsarit = 07:54:49 Apus = 16:48:23 Min (°C) = 2.45 Max (°C) =10.05 Presiune = 1013 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.62 Unghiul vântului = 288 Stare = nori 50-85%']
+Baicoi: 01 \ vineri \ 06:1:2023 \ 19:25:49
+[' Răsarit = 07:54:40 Apus = 16:49:23 Min (°C) = 4.62 Max (°C) =9.38 Presiune = 1023 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.33 Unghiul vântului = 359 Stare = nori 25-50%']
+Baicoi: 01 \ sâmbătă \ 07:1:2023 \ 19:16:39
+[' Răsarit = 07:54:29 Apus = 16:50:26 Min (°C) = 1.82 Max (°C) =7.65 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 59 Stare = nori 10-25%']
+Baicoi: 01 \ duminică \ 08:1:2023 \ 19:18:02
+[' Răsarit = 07:54:16 Apus = 16:51:30 Min (°C) = 1.36 Max (°C) =6.37 Presiune = 1023 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 32 Stare = cer senin']
+Baicoi: 02 \ luni \ 09:1:2023 \ 19:18:06
+[' Răsarit = 07:54:00 Apus = 16:52:36 Min (°C) = 1.09 Max (°C) =5.69 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 33 Stare = nori 85-100%']
+Baicoi: 02 \ marți \ 10:1:2023 \ 19:15:35
+[' Răsarit = 07:53:42 Apus = 16:53:44 Min (°C) = 2.86 Max (°C) =7.38 Presiune = 1010 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 7.48 Unghiul vântului = 81 Stare = ploaie ușoară']
+Baicoi: 02 \ miercuri \ 11:1:2023 \ 19:17:49
+[' Răsarit = 07:53:21 Apus = 16:54:53 Min (°C) = 2.38 Max (°C) =6.94 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.74 Unghiul vântului = 54 Stare = nori 85-100%']
+Baicoi: 02 \ joi \ 12:1:2023 \ 19:16:55
+[' Răsarit = 07:52:57 Apus = 16:56:03 Min (°C) = 1.61 Max (°C) =4.13 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 190 Stare = nori 85-100%']
+Baicoi: 02 \ vineri \ 13:1:2023 \ 19:22:34
+[' Răsarit = 07:52:31 Apus = 16:57:15 Min (°C) = 2.12 Max (°C) =4.47 Presiune = 1022 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 214 Stare = nori 85-100%']
+Baicoi: 02 \ sâmbătă \ 14:1:2023 \ 19:18:12
+[' Răsarit = 07:52:03 Apus = 16:58:28 Min (°C) = 2.16 Max (°C) =6.68 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.52 Unghiul vântului = 140 Stare = nori 85-100%']
+Baicoi: 02 \ duminică \ 15:1:2023 \ 19:19:12
+[' Răsarit = 07:51:32 Apus = 16:59:42 Min (°C) = 2.26 Max (°C) =5.11 Presiune = 1019 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 235 Stare = nori 25-50%']
+Baicoi: 03 \ luni \ 16:1:2023 \ 19:16:43
+[' Răsarit = 07:50:59 Apus = 17:00:58 Min (°C) = 0.51 Max (°C) =4.63 Presiune = 1008 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 28 Stare = nori 85-100%']
+Baicoi: 03 \ marți \ 17:1:2023 \ 19:18:55
+[' Răsarit = 07:50:24 Apus = 17:02:15 Min (°C) = 1.75 Max (°C) =7.78 Presiune = 1003 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 321 Stare = nori 50-85%']
+Baicoi: 03 \ miercuri \ 18:1:2023 \ 19:20:55
+[' Răsarit = 07:49:46 Apus = 17:03:33 Min (°C) = 4.84 Max (°C) =13.01 Presiune = 1005 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 293 Stare = nori 50-85%']
+Baicoi: 03 \ joi \ 19:1:2023 \ 19:16:10
+[' Răsarit = 07:49:06 Apus = 17:04:51 Min (°C) = 6.28 Max (°C) =13.71 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 43 Stare = nori 25-50%']
+Baicoi: 03 \ vineri \ 20:1:2023 \ 19:15:58
+[' Răsarit = 07:48:23 Apus = 17:06:11 Min (°C) = 7.41 Max (°C) =12.09 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 5.17 Unghiul vântului = 128 Stare = nori 85-100%']
+Baicoi: 03 \ sâmbătă \ 21:1:2023 \ 19:16:17
+[' Răsarit = 07:47:39 Apus = 17:07:32 Min (°C) = 1.85 Max (°C) =8.45 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 58 Stare = nori 50-85%']
+Baicoi: 04 \ luni \ 23:1:2023 \ 17:06:59
+[' Răsarit = 07:46:03 Apus = 17:10:15 Min (°C) = 2.39 Max (°C) =6.9 Presiune = 1030 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 4.14 Unghiul vântului = 98 Stare = nori 25-50%']
+Baicoi: 04 \ marți \ 24:1:2023 \ 20:05:50
+[' Răsarit = 07:45:12 Apus = 17:11:38 Min (°C) = -0.05 Max (°C) =2.23 Presiune = 1034 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 133 Stare = nori 85-100%']
+Baicoi: 04 \ miercuri \ 25:1:2023 \ 21:56:05
+[' Răsarit = 07:44:18 Apus = 17:13:01 Min (°C) = -1.6 Max (°C) =0.75 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 74 Stare = nori 85-100%']

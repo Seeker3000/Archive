@@ -1268,3 +1268,169 @@ Brasov: 44 \ marți \ 01:11:2022 \ 19:05:34
 [' Răsarit = 06:58:03 Apus = 17:06:14 Min (°C) = 6.45 Max (°C) =18.44 Presiune = 1022 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.29 Unghiul vântului = 200 Stare = nori 25-50%']
 Brasov: 44 \ miercuri \ 02:11:2022 \ 19:06:06
 [' Răsarit = 06:59:28 Apus = 17:04:48 Min (°C) = 8.17 Max (°C) =16.4 Presiune = 1022 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 279 Stare = nori 50-85%']
+Brasov: 44 \ joi \ 03:11:2022 \ 19:05:23
+[' Răsarit = 07:00:54 Apus = 17:03:23 Min (°C) = 5.9 Max (°C) =12.87 Presiune = 1021 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 162 Stare = nori 50-85%']
+Brasov: 44 \ vineri \ 04:11:2022 \ 19:05:34
+[' Răsarit = 07:02:19 Apus = 17:02:00 Min (°C) = 2.99 Max (°C) =14.83 Presiune = 1012 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 166 Stare = nori 85-100%']
+Brasov: 44 \ sâmbătă \ 05:11:2022 \ 19:05:23
+[' Răsarit = 07:03:45 Apus = 17:00:38 Min (°C) = 5.72 Max (°C) =17.05 Presiune = 1013 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 132 Stare = nori 85-100%']
+Brasov: 44 \ duminică \ 06:11:2022 \ 19:05:11
+[' Răsarit = 07:05:11 Apus = 16:59:18 Min (°C) = 6.61 Max (°C) =15.72 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 136 Stare = nori 85-100%']
+Brasov: 45 \ luni \ 07:11:2022 \ 19:05:15
+[' Răsarit = 07:06:37 Apus = 16:57:59 Min (°C) = 4.3 Max (°C) =14.09 Presiune = 1021 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 221 Stare = nori 10-25%']
+Brasov: 45 \ marți \ 08:11:2022 \ 19:05:15
+[' Răsarit = 07:08:02 Apus = 16:56:43 Min (°C) = 5.31 Max (°C) =11.93 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 288 Stare = nori 25-50%']
+Brasov: 45 \ miercuri \ 09:11:2022 \ 19:05:05
+[' Răsarit = 07:09:28 Apus = 16:55:28 Min (°C) = 3.81 Max (°C) =13.73 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 183 Stare = nori 10-25%']
+Brasov: 45 \ joi \ 10:11:2022 \ 19:05:19
+[' Răsarit = 07:10:53 Apus = 16:54:15 Min (°C) = 3.64 Max (°C) =13.88 Presiune = 1025 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 256 Stare = nori 25-50%']
+Brasov: 45 \ vineri \ 11:11:2022 \ 19:05:10
+[' Răsarit = 07:12:19 Apus = 16:53:03 Min (°C) = 5.09 Max (°C) =8.23 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 264 Stare = nori 85-100%']
+Brasov: 45 \ sâmbătă \ 12:11:2022 \ 19:05:27
+[' Răsarit = 07:13:44 Apus = 16:51:54 Min (°C) = 2.01 Max (°C) =9.37 Presiune = 1033 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 208 Stare = nori 50-85%']
+Brasov: 45 \ duminică \ 13:11:2022 \ 19:05:07
+[' Răsarit = 07:15:09 Apus = 16:50:46 Min (°C) = 1.57 Max (°C) =11.02 Presiune = 1029 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 182 Stare = nori 10-25%']
+Brasov: 46 \ luni \ 14:11:2022 \ 19:05:05
+[' Răsarit = 07:16:34 Apus = 16:49:41 Min (°C) = 2.01 Max (°C) =11.03 Presiune = 1025 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 153 Stare = nori 85-100%']
+Brasov: 46 \ marți \ 15:11:2022 \ 19:05:38
+[' Răsarit = 07:17:58 Apus = 16:48:37 Min (°C) = 1.83 Max (°C) =11.44 Presiune = 1016 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 227 Stare = nori 50-85%']
+Brasov: 46 \ miercuri \ 16:11:2022 \ 19:05:04
+[' Răsarit = 07:19:22 Apus = 16:47:35 Min (°C) = 3.47 Max (°C) =10.49 Presiune = 1006 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 145 Stare = nori 50-85%']
+Brasov: 46 \ joi \ 17:11:2022 \ 19:05:21
+[' Răsarit = 07:20:45 Apus = 16:46:36 Min (°C) = 3.86 Max (°C) =7.07 Presiune = 1003 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.02 Unghiul vântului = 297 Stare = nori 85-100%']
+Brasov: 46 \ vineri \ 18:11:2022 \ 19:05:21
+[' Răsarit = 07:22:08 Apus = 16:45:38 Min (°C) = 2.21 Max (°C) =10.24 Presiune = 999 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 156 Stare = nori 85-100%']
+Brasov: 46 \ sâmbătă \ 19:11:2022 \ 19:05:05
+[' Răsarit = 07:23:31 Apus = 16:44:43 Min (°C) = 4.03 Max (°C) =6.41 Presiune = 1015 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 104 Stare = nori 85-100%']
+Brasov: 46 \ duminică \ 20:11:2022 \ 19:05:10
+[' Răsarit = 07:24:53 Apus = 16:43:50 Min (°C) = 3.62 Max (°C) =8.52 Presiune = 1009 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.56 Unghiul vântului = 284 Stare = nori 85-100%']
+Brasov: 47 \ luni \ 21:11:2022 \ 19:05:38
+[' Răsarit = 07:26:14 Apus = 16:42:59 Min (°C) = 1.18 Max (°C) =5.32 Presiune = 1007 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 291 Stare = snow']
+Brasov: 47 \ marți \ 22:11:2022 \ 19:05:11
+[' Răsarit = 07:27:34 Apus = 16:42:10 Min (°C) = -0.79 Max (°C) =4.91 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 140 Stare = nori 85-100%']
+Brasov: 47 \ miercuri \ 23:11:2022 \ 19:05:20
+[' Răsarit = 07:28:54 Apus = 16:41:24 Min (°C) = 0.8 Max (°C) =6.9 Presiune = 1004 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 165 Stare = nori 85-100%']
+Brasov: 47 \ joi \ 24:11:2022 \ 19:07:22
+[' Răsarit = 07:30:13 Apus = 16:40:40 Min (°C) = 1.11 Max (°C) =5.63 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 286 Stare = zăpadă slabă']
+Brasov: 47 \ vineri \ 25:11:2022 \ 19:05:34
+[' Răsarit = 07:31:30 Apus = 16:39:58 Min (°C) = -1.01 Max (°C) =1.51 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 314 Stare = zăpadă slabă']
+Brasov: 47 \ sâmbătă \ 26:11:2022 \ 19:05:08
+[' Răsarit = 07:32:47 Apus = 16:39:18 Min (°C) = -3.1 Max (°C) =1.86 Presiune = 1029 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 306 Stare = nori 85-100%']
+Brasov: 47 \ duminică \ 27:11:2022 \ 19:05:23
+[' Răsarit = 07:34:03 Apus = 16:38:41 Min (°C) = -1.35 Max (°C) =1.93 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 172 Stare = nori 85-100%']
+Brasov: 48 \ luni \ 28:11:2022 \ 19:05:21
+[' Răsarit = 07:35:18 Apus = 16:38:07 Min (°C) = -1.53 Max (°C) =2.59 Presiune = 1024 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 125 Stare = nori 85-100%']
+Brasov: 48 \ marți \ 29:11:2022 \ 19:05:04
+[' Răsarit = 07:36:31 Apus = 16:37:35 Min (°C) = -2.77 Max (°C) =4.75 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 134 Stare = nori 25-50%']
+Brasov: 48 \ miercuri \ 30:11:2022 \ 19:07:28
+[' Răsarit = 07:37:43 Apus = 16:37:05 Min (°C) = -1.77 Max (°C) =3.92 Presiune = 1025 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.16 Unghiul vântului = 128 Stare = nori 50-85%']
+Brasov: 48 \ joi \ 01:12:2022 \ 19:05:15
+[' Răsarit = 07:38:54 Apus = 16:36:38 Min (°C) = -2.56 Max (°C) =3.84 Presiune = 1023 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.05 Unghiul vântului = 103 Stare = zăpadă slabă']
+Brasov: 48 \ vineri \ 02:12:2022 \ 19:05:18
+[' Răsarit = 07:40:04 Apus = 16:36:13 Min (°C) = -0.65 Max (°C) =4.83 Presiune = 1024 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 149 Stare = nori 85-100%']
+Brasov: 48 \ sâmbătă \ 03:12:2022 \ 19:05:20
+[' Răsarit = 07:41:12 Apus = 16:35:51 Min (°C) = -0.71 Max (°C) =5.99 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 136 Stare = nori 85-100%']
+Brasov: 48 \ duminică \ 04:12:2022 \ 19:05:12
+[' Răsarit = 07:42:19 Apus = 16:35:32 Min (°C) = -0.47 Max (°C) =5.77 Presiune = 1028 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 129 Stare = nori 50-85%']
+Brasov: 49 \ luni \ 05:12:2022 \ 19:09:06
+[' Răsarit = 07:43:24 Apus = 16:35:15 Min (°C) = -1.13 Max (°C) =4.43 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.46 Unghiul vântului = 139 Stare = nori 85-100%']
+Brasov: 49 \ marți \ 06:12:2022 \ 19:05:40
+[' Răsarit = 07:44:27 Apus = 16:35:01 Min (°C) = 0.59 Max (°C) =6.55 Presiune = 1018 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 149 Stare = nori 50-85%']
+Brasov: 49 \ miercuri \ 07:12:2022 \ 19:05:15
+[' Răsarit = 07:45:29 Apus = 16:34:49 Min (°C) = 0.55 Max (°C) =4.4 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 265 Stare = nori 85-100%']
+Brasov: 49 \ joi \ 08:12:2022 \ 19:05:40
+[' Răsarit = 07:46:29 Apus = 16:34:40 Min (°C) = 0.4 Max (°C) =4.83 Presiune = 1014 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 137 Stare = nori 85-100%']
+Brasov: 49 \ vineri \ 09:12:2022 \ 19:04:59
+[' Răsarit = 07:47:27 Apus = 16:34:34 Min (°C) = 0.63 Max (°C) =7.32 Presiune = 1011 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 161 Stare = nori 85-100%']
+Brasov: 49 \ sâmbătă \ 10:12:2022 \ 19:05:17
+[' Răsarit = 07:48:23 Apus = 16:34:31 Min (°C) = 4.61 Max (°C) =10.65 Presiune = 1002 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 143 Stare = nori 50-85%']
+Brasov: 49 \ duminică \ 11:12:2022 \ 19:04:58
+[' Răsarit = 07:49:17 Apus = 16:34:30 Min (°C) = 0.66 Max (°C) =9.97 Presiune = 1001 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 283 Stare = nori 85-100%']
+Brasov: 50 \ luni \ 12:12:2022 \ 19:05:26
+[' Răsarit = 07:50:10 Apus = 16:34:31 Min (°C) = -4.32 Max (°C) =0.55 Presiune = 1011 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 282 Stare = nori 85-100%']
+Brasov: 50 \ marți \ 13:12:2022 \ 19:05:08
+[' Răsarit = 07:51:00 Apus = 16:34:36 Min (°C) = -7.04 Max (°C) =-2.85 Presiune = 1017 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 141 Stare = cer senin']
+Brasov: 50 \ miercuri \ 14:12:2022 \ 19:06:13
+[' Răsarit = 07:51:48 Apus = 16:34:43 Min (°C) = -7.05 Max (°C) =2 Presiune = 1013 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 137 Stare = nori 50-85%']
+Brasov: 50 \ joi \ 15:12:2022 \ 19:05:35
+[' Răsarit = 07:52:34 Apus = 16:34:53 Min (°C) = -1.29 Max (°C) =3.26 Presiune = 1016 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 130 Stare = nori 50-85%']
+Brasov: 50 \ vineri \ 16:12:2022 \ 19:05:23
+[' Răsarit = 07:53:18 Apus = 16:35:05 Min (°C) = -0.61 Max (°C) =13.13 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 188 Stare = nori 50-85%']
+Brasov: 50 \ sâmbătă \ 17:12:2022 \ 19:05:01
+[' Răsarit = 07:53:59 Apus = 16:35:20 Min (°C) = 2.73 Max (°C) =10.64 Presiune = 1019 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.96 Unghiul vântului = 294 Stare = nori 85-100%']
+Brasov: 50 \ duminică \ 18:12:2022 \ 19:05:05
+[' Răsarit = 07:54:38 Apus = 16:35:38 Min (°C) = -3.8 Max (°C) =1.78 Presiune = 1038 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 306 Stare = nori 85-100%']
+Brasov: 51 \ luni \ 19:12:2022 \ 19:05:08
+[' Răsarit = 07:55:15 Apus = 16:35:59 Min (°C) = -6.17 Max (°C) =-0.76 Presiune = 1041 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 132 Stare = cer senin']
+Brasov: 51 \ marți \ 20:12:2022 \ 19:05:31
+[' Răsarit = 07:55:50 Apus = 16:36:22 Min (°C) = -5.65 Max (°C) =1.15 Presiune = 1030 Umiditate (%) = 43 Index UV = 0 Viteza vântului = 0.8 Unghiul vântului = 180 Stare = nori 50-85%']
+Brasov: 51 \ miercuri \ 21:12:2022 \ 19:05:29
+[' Răsarit = 07:56:22 Apus = 16:36:47 Min (°C) = -2.23 Max (°C) =5.26 Presiune = 1021 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 199 Stare = cer senin']
+Brasov: 51 \ joi \ 22:12:2022 \ 19:05:24
+[' Răsarit = 07:56:51 Apus = 16:37:15 Min (°C) = -1.82 Max (°C) =4.35 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 244 Stare = nori 85-100%']
+Brasov: 51 \ vineri \ 23:12:2022 \ 19:05:18
+[' Răsarit = 07:57:18 Apus = 16:37:46 Min (°C) = -0.67 Max (°C) =5.33 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.14 Unghiul vântului = 281 Stare = nori 50-85%']
+Brasov: 51 \ sâmbătă \ 24:12:2022 \ 19:07:10
+[' Răsarit = 07:57:43 Apus = 16:38:19 Min (°C) = 0.64 Max (°C) =4.7 Presiune = 1016 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 4.34 Unghiul vântului = 290 Stare = nori 85-100%']
+Brasov: 51 \ duminică \ 25:12:2022 \ 19:05:07
+[' Răsarit = 07:58:05 Apus = 16:38:55 Min (°C) = 2.06 Max (°C) =5.38 Presiune = 1027 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.42 Unghiul vântului = 262 Stare = nori 50-85%']
+Brasov: 52 \ luni \ 26:12:2022 \ 19:07:26
+[' Răsarit = 07:58:25 Apus = 16:39:33 Min (°C) = -0.29 Max (°C) =6.23 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 221 Stare = nori 50-85%']
+Brasov: 52 \ marți \ 27:12:2022 \ 19:05:26
+[' Răsarit = 07:58:42 Apus = 16:40:13 Min (°C) = 1.25 Max (°C) =6.08 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.91 Unghiul vântului = 297 Stare = nori 85-100%']
+Brasov: 52 \ miercuri \ 28:12:2022 \ 19:05:17
+[' Răsarit = 07:58:56 Apus = 16:40:56 Min (°C) = -2.21 Max (°C) =2.67 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 178 Stare = nori 10-25%']
+Brasov: 52 \ joi \ 29:12:2022 \ 19:05:25
+[' Răsarit = 07:59:08 Apus = 16:41:41 Min (°C) = -1.82 Max (°C) =5.01 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 214 Stare = nori 10-25%']
+Brasov: 52 \ vineri \ 30:12:2022 \ 19:05:03
+[' Răsarit = 07:59:17 Apus = 16:42:29 Min (°C) = 0.26 Max (°C) =6.75 Presiune = 1025 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 172 Stare = nori 85-100%']
+Brasov: 52 \ sâmbătă \ 31:12:2022 \ 19:07:07
+[' Răsarit = 07:59:23 Apus = 16:43:18 Min (°C) = 2.08 Max (°C) =8.68 Presiune = 1029 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 228 Stare = nori 50-85%']
+Brasov: 00 \ duminică \ 01:1:2023 \ 19:05:33
+[' Răsarit = 07:59:27 Apus = 16:44:10 Min (°C) = 3.85 Max (°C) =10.65 Presiune = 1031 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.62 Unghiul vântului = 147 Stare = nori 25-50%']
+Brasov: 01 \ luni \ 02:1:2023 \ 19:05:49
+[' Răsarit = 07:59:28 Apus = 16:45:04 Min (°C) = 4.34 Max (°C) =11.58 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 203 Stare = cer senin']
+Brasov: 01 \ marți \ 03:1:2023 \ 19:05:45
+[' Răsarit = 07:59:27 Apus = 16:46:00 Min (°C) = 2.07 Max (°C) =10.21 Presiune = 1027 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 267 Stare = nori 10-25%']
+Brasov: 01 \ miercuri \ 04:1:2023 \ 19:05:26
+[' Răsarit = 07:59:23 Apus = 16:46:58 Min (°C) = 2.75 Max (°C) =4.35 Presiune = 1028 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 262 Stare = nori 85-100%']
+Brasov: 01 \ joi \ 05:1:2023 \ 19:05:23
+[' Răsarit = 07:59:16 Apus = 16:47:58 Min (°C) = 0.17 Max (°C) =7.32 Presiune = 1015 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 5.91 Unghiul vântului = 277 Stare = ploaie ușoară']
+Brasov: 01 \ vineri \ 06:1:2023 \ 19:10:09
+[' Răsarit = 07:59:07 Apus = 16:49:00 Min (°C) = 0.23 Max (°C) =4.32 Presiune = 1025 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 279 Stare = nori 85-100%']
+Brasov: 01 \ sâmbătă \ 07:1:2023 \ 19:05:29
+[' Răsarit = 07:58:55 Apus = 16:50:04 Min (°C) = -0.79 Max (°C) =2.07 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 112 Stare = nori 85-100%']
+Brasov: 01 \ duminică \ 08:1:2023 \ 19:05:47
+[' Răsarit = 07:58:40 Apus = 16:51:09 Min (°C) = -0.3 Max (°C) =6.52 Presiune = 1021 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 151 Stare = cer senin']
+Brasov: 02 \ luni \ 09:1:2023 \ 19:05:22
+[' Răsarit = 07:58:23 Apus = 16:52:16 Min (°C) = -0.62 Max (°C) =6.8 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 137 Stare = nori 85-100%']
+Brasov: 02 \ marți \ 10:1:2023 \ 19:04:53
+[' Răsarit = 07:58:03 Apus = 16:53:25 Min (°C) = -0.09 Max (°C) =6.37 Presiune = 1010 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 3.24 Unghiul vântului = 104 Stare = ploaie ușoară']
+Brasov: 02 \ miercuri \ 11:1:2023 \ 19:07:00
+[' Răsarit = 07:57:41 Apus = 16:54:35 Min (°C) = 1.61 Max (°C) =3.38 Presiune = 1021 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.82 Unghiul vântului = 103 Stare = nori 85-100%']
+Brasov: 02 \ joi \ 12:1:2023 \ 19:05:34
+[' Răsarit = 07:57:16 Apus = 16:55:47 Min (°C) = 1.02 Max (°C) =2.07 Presiune = 1022 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.4 Unghiul vântului = 304 Stare = nori 85-100%']
+Brasov: 02 \ vineri \ 13:1:2023 \ 19:06:24
+[' Răsarit = 07:56:49 Apus = 16:57:00 Min (°C) = 1.65 Max (°C) =3.5 Presiune = 1021 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.47 Unghiul vântului = 72 Stare = nori 85-100%']
+Brasov: 02 \ sâmbătă \ 14:1:2023 \ 19:05:52
+[' Răsarit = 07:56:19 Apus = 16:58:15 Min (°C) = -1.16 Max (°C) =3.9 Presiune = 1023 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 259 Stare = nori 50-85%']
+Brasov: 02 \ duminică \ 15:1:2023 \ 19:05:13
+[' Răsarit = 07:55:47 Apus = 16:59:31 Min (°C) = -0.95 Max (°C) =5.15 Presiune = 1017 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.78 Unghiul vântului = 180 Stare = cer senin']
+Brasov: 03 \ luni \ 16:1:2023 \ 19:04:35
+[' Răsarit = 07:55:12 Apus = 17:00:48 Min (°C) = -1.01 Max (°C) =4.52 Presiune = 1005 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 153 Stare = nori 85-100%']
+Brasov: 03 \ marți \ 17:1:2023 \ 19:05:41
+[' Răsarit = 07:54:35 Apus = 17:02:06 Min (°C) = -0.07 Max (°C) =5.79 Presiune = 1001 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.37 Unghiul vântului = 165 Stare = nori 50-85%']
+Brasov: 03 \ miercuri \ 18:1:2023 \ 19:05:05
+[' Răsarit = 07:53:56 Apus = 17:03:25 Min (°C) = 2.89 Max (°C) =9.68 Presiune = 1005 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.08 Unghiul vântului = 177 Stare = nori 50-85%']
+Brasov: 03 \ joi \ 19:1:2023 \ 19:04:53
+[' Răsarit = 07:53:14 Apus = 17:04:46 Min (°C) = 4.32 Max (°C) =12.68 Presiune = 1005 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 160 Stare = ploaie ușoară']
+Brasov: 03 \ vineri \ 20:1:2023 \ 19:05:22
+[' Răsarit = 07:52:30 Apus = 17:06:07 Min (°C) = 2.73 Max (°C) =8.64 Presiune = 1003 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 166 Stare = nori 85-100%']
+Brasov: 03 \ sâmbătă \ 21:1:2023 \ 19:05:14
+[' Răsarit = 07:51:44 Apus = 17:07:29 Min (°C) = -3.8 Max (°C) =3.56 Presiune = 1016 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 144 Stare = cer senin']
+Brasov: 04 \ luni \ 23:1:2023 \ 16:53:48
+[' Răsarit = 07:50:04 Apus = 17:10:16 Min (°C) = -0.19 Max (°C) =6.02 Presiune = 1028 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 105 Stare = nori 25-50%']
+Brasov: 04 \ marți \ 24:1:2023 \ 19:53:56
+[' Răsarit = 07:49:11 Apus = 17:11:41 Min (°C) = -4.66 Max (°C) =2.19 Presiune = 1034 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 125 Stare = nori 50-85%']
+Brasov: 04 \ miercuri \ 25:1:2023 \ 21:40:17
+[' Răsarit = 07:48:16 Apus = 17:13:06 Min (°C) = -5.09 Max (°C) =-0.66 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 125 Stare = nori 10-25%']

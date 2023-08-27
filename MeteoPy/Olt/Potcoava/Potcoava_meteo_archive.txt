@@ -1270,3 +1270,169 @@ Potcoava: 44 \ marți \ 01:11:2022 \ 19:15:57
 [' Răsarit = 06:58:20 Apus = 17:11:30 Min (°C) = 11.1 Max (°C) =20.31 Presiune = 1022 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 215 Stare = cer senin']
 Potcoava: 44 \ miercuri \ 02:11:2022 \ 19:16:38
 [' Răsarit = 06:59:42 Apus = 17:10:08 Min (°C) = 12.92 Max (°C) =25.44 Presiune = 1017 Umiditate (%) = 37 Index UV = 0 Viteza vântului = 3.52 Unghiul vântului = 284 Stare = nori 10-25%']
+Potcoava: 44 \ joi \ 03:11:2022 \ 19:17:35
+[' Răsarit = 07:01:03 Apus = 17:08:47 Min (°C) = 12.77 Max (°C) =18.38 Presiune = 1020 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.28 Unghiul vântului = 96 Stare = nori 25-50%']
+Potcoava: 44 \ vineri \ 04:11:2022 \ 19:20:17
+[' Răsarit = 07:02:25 Apus = 17:07:27 Min (°C) = 8.96 Max (°C) =17.53 Presiune = 1012 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.45 Unghiul vântului = 54 Stare = nori 85-100%']
+Potcoava: 44 \ sâmbătă \ 05:11:2022 \ 19:21:33
+[' Răsarit = 07:03:47 Apus = 17:06:09 Min (°C) = 10.38 Max (°C) =18.38 Presiune = 1012 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 7.1 Unghiul vântului = 62 Stare = nori 85-100%']
+Potcoava: 44 \ duminică \ 06:11:2022 \ 19:14:54
+[' Răsarit = 07:05:09 Apus = 17:04:53 Min (°C) = 12.66 Max (°C) =17.67 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 9.15 Unghiul vântului = 79 Stare = nori 85-100%']
+Potcoava: 45 \ luni \ 07:11:2022 \ 19:14:55
+[' Răsarit = 07:06:31 Apus = 17:03:38 Min (°C) = 11.63 Max (°C) =15.04 Presiune = 1021 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.35 Unghiul vântului = 352 Stare = nori 25-50%']
+Potcoava: 45 \ marți \ 08:11:2022 \ 19:14:59
+[' Răsarit = 07:07:53 Apus = 17:02:25 Min (°C) = 9.8 Max (°C) =16.8 Presiune = 1021 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 119 Stare = nori 10-25%']
+Potcoava: 45 \ miercuri \ 09:11:2022 \ 19:17:08
+[' Răsarit = 07:09:15 Apus = 17:01:14 Min (°C) = 8.23 Max (°C) =16.03 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 87 Stare = cer senin']
+Potcoava: 45 \ joi \ 10:11:2022 \ 19:17:59
+[' Răsarit = 07:10:37 Apus = 17:00:04 Min (°C) = 8.45 Max (°C) =16.26 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.3 Unghiul vântului = 267 Stare = nori 25-50%']
+Potcoava: 45 \ vineri \ 11:11:2022 \ 19:16:59
+[' Răsarit = 07:11:59 Apus = 16:58:56 Min (°C) = 8.92 Max (°C) =10.83 Presiune = 1032 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.09 Unghiul vântului = 273 Stare = nori 85-100%']
+Potcoava: 45 \ sâmbătă \ 12:11:2022 \ 19:15:05
+[' Răsarit = 07:13:20 Apus = 16:57:51 Min (°C) = 7.5 Max (°C) =13.19 Presiune = 1033 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 99 Stare = cer senin']
+Potcoava: 45 \ duminică \ 13:11:2022 \ 19:19:11
+[' Răsarit = 07:14:42 Apus = 16:56:47 Min (°C) = 6.72 Max (°C) =13.85 Presiune = 1029 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 168 Stare = nori 50-85%']
+Potcoava: 46 \ luni \ 14:11:2022 \ 19:16:58
+[' Răsarit = 07:16:03 Apus = 16:55:44 Min (°C) = 7.34 Max (°C) =12.38 Presiune = 1026 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 92 Stare = nori 85-100%']
+Potcoava: 46 \ marți \ 15:11:2022 \ 19:15:39
+[' Răsarit = 07:17:24 Apus = 16:54:44 Min (°C) = 4.47 Max (°C) =10.77 Presiune = 1017 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.06 Unghiul vântului = 220 Stare = nori 25-50%']
+Potcoava: 46 \ miercuri \ 16:11:2022 \ 19:14:48
+[' Răsarit = 07:18:44 Apus = 16:53:46 Min (°C) = 5.15 Max (°C) =13.91 Presiune = 1005 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 240 Stare = nori 50-85%']
+Potcoava: 46 \ joi \ 17:11:2022 \ 19:15:03
+[' Răsarit = 07:20:05 Apus = 16:52:50 Min (°C) = 8.92 Max (°C) =14.69 Presiune = 1002 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 5.51 Unghiul vântului = 270 Stare = nori 50-85%']
+Potcoava: 46 \ vineri \ 18:11:2022 \ 19:17:25
+[' Răsarit = 07:21:24 Apus = 16:51:56 Min (°C) = 6.54 Max (°C) =12.04 Presiune = 1000 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 62 Stare = ploaie ușoară']
+Potcoava: 46 \ sâmbătă \ 19:11:2022 \ 19:19:09
+[' Răsarit = 07:22:43 Apus = 16:51:04 Min (°C) = 8.55 Max (°C) =13.88 Presiune = 1013 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 89 Stare = nori 85-100%']
+Potcoava: 46 \ duminică \ 20:11:2022 \ 19:14:58
+[' Răsarit = 07:24:02 Apus = 16:50:14 Min (°C) = 7.64 Max (°C) =10.15 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.1 Unghiul vântului = 54 Stare = nori 85-100%']
+Potcoava: 47 \ luni \ 21:11:2022 \ 19:17:29
+[' Răsarit = 07:25:20 Apus = 16:49:26 Min (°C) = 6.2 Max (°C) =10.07 Presiune = 1006 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 6 Unghiul vântului = 264 Stare = nori 85-100%']
+Potcoava: 47 \ marți \ 22:11:2022 \ 19:18:04
+[' Răsarit = 07:26:37 Apus = 16:48:40 Min (°C) = 3.79 Max (°C) =9.11 Presiune = 1011 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 84 Stare = nori 85-100%']
+Potcoava: 47 \ miercuri \ 23:11:2022 \ 19:19:32
+[' Răsarit = 07:27:54 Apus = 16:47:57 Min (°C) = 6.36 Max (°C) =9.89 Presiune = 1005 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.84 Unghiul vântului = 286 Stare = nori 85-100%']
+Potcoava: 47 \ joi \ 24:11:2022 \ 19:17:05
+[' Răsarit = 07:29:10 Apus = 16:47:16 Min (°C) = 6.06 Max (°C) =8.31 Presiune = 1011 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 6.86 Unghiul vântului = 267 Stare = nori 85-100%']
+Potcoava: 47 \ vineri \ 25:11:2022 \ 19:18:11
+[' Răsarit = 07:30:25 Apus = 16:46:37 Min (°C) = 4.12 Max (°C) =9.87 Presiune = 1019 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 284 Stare = cer senin']
+Potcoava: 47 \ sâmbătă \ 26:11:2022 \ 19:14:41
+[' Răsarit = 07:31:39 Apus = 16:46:00 Min (°C) = 2.56 Max (°C) =8.14 Presiune = 1027 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 290 Stare = nori 10-25%']
+Potcoava: 47 \ duminică \ 27:11:2022 \ 19:17:14
+[' Răsarit = 07:32:52 Apus = 16:45:26 Min (°C) = 3.1 Max (°C) =6.44 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.35 Unghiul vântului = 83 Stare = nori 85-100%']
+Potcoava: 48 \ luni \ 28:11:2022 \ 19:14:57
+[' Răsarit = 07:34:04 Apus = 16:44:54 Min (°C) = 3.29 Max (°C) =5.87 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.27 Unghiul vântului = 95 Stare = nori 85-100%']
+Potcoava: 48 \ marți \ 29:11:2022 \ 19:14:43
+[' Răsarit = 07:35:15 Apus = 16:44:24 Min (°C) = 1.82 Max (°C) =5.59 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.31 Unghiul vântului = 89 Stare = nori 85-100%']
+Potcoava: 48 \ miercuri \ 30:11:2022 \ 19:17:06
+[' Răsarit = 07:36:25 Apus = 16:43:57 Min (°C) = 3.6 Max (°C) =5.67 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.84 Unghiul vântului = 85 Stare = nori 85-100%']
+Potcoava: 48 \ joi \ 01:12:2022 \ 19:14:47
+[' Răsarit = 07:37:33 Apus = 16:43:33 Min (°C) = 0.35 Max (°C) =3.34 Presiune = 1024 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 67 Stare = zăpadă slabă']
+Potcoava: 48 \ vineri \ 02:12:2022 \ 19:15:52
+[' Răsarit = 07:38:40 Apus = 16:43:10 Min (°C) = 0.91 Max (°C) =2.26 Presiune = 1027 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 101 Stare = nori 85-100%']
+Potcoava: 48 \ sâmbătă \ 03:12:2022 \ 19:16:58
+[' Răsarit = 07:39:46 Apus = 16:42:51 Min (°C) = 2.01 Max (°C) =5.66 Presiune = 1029 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.3 Unghiul vântului = 78 Stare = nori 85-100%']
+Potcoava: 48 \ duminică \ 04:12:2022 \ 19:17:50
+[' Răsarit = 07:40:51 Apus = 16:42:33 Min (°C) = 2.33 Max (°C) =3.66 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.82 Unghiul vântului = 75 Stare = nori 85-100%']
+Potcoava: 49 \ luni \ 05:12:2022 \ 19:19:34
+[' Răsarit = 07:41:54 Apus = 16:42:19 Min (°C) = 2.05 Max (°C) =3.17 Presiune = 1028 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 72 Stare = nori 85-100%']
+Potcoava: 49 \ marți \ 06:12:2022 \ 19:18:29
+[' Răsarit = 07:42:55 Apus = 16:42:06 Min (°C) = 3.16 Max (°C) =6.48 Presiune = 1019 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 64 Stare = nori 85-100%']
+Potcoava: 49 \ miercuri \ 07:12:2022 \ 19:15:46
+[' Răsarit = 07:43:55 Apus = 16:41:57 Min (°C) = 3.26 Max (°C) =6.98 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 283 Stare = nori 85-100%']
+Potcoava: 49 \ joi \ 08:12:2022 \ 19:18:24
+[' Răsarit = 07:44:53 Apus = 16:41:49 Min (°C) = 5.27 Max (°C) =7.56 Presiune = 1015 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.56 Unghiul vântului = 74 Stare = nori 85-100%']
+Potcoava: 49 \ vineri \ 09:12:2022 \ 19:22:17
+[' Răsarit = 07:45:50 Apus = 16:41:45 Min (°C) = 4.19 Max (°C) =8.65 Presiune = 1012 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 54 Stare = nori 85-100%']
+Potcoava: 49 \ sâmbătă \ 10:12:2022 \ 19:15:40
+[' Răsarit = 07:46:44 Apus = 16:41:43 Min (°C) = 6.68 Max (°C) =11.87 Presiune = 1003 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 82 Stare = nori 85-100%']
+Potcoava: 49 \ duminică \ 11:12:2022 \ 19:18:05
+[' Răsarit = 07:47:37 Apus = 16:41:43 Min (°C) = 3.98 Max (°C) =11.49 Presiune = 999 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.99 Unghiul vântului = 255 Stare = ploaie moderată']
+Potcoava: 50 \ luni \ 12:12:2022 \ 19:15:48
+[' Răsarit = 07:48:28 Apus = 16:41:46 Min (°C) = 0.94 Max (°C) =6.62 Presiune = 1008 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 5.62 Unghiul vântului = 255 Stare = nori 85-100%']
+Potcoava: 50 \ marți \ 13:12:2022 \ 19:15:19
+[' Răsarit = 07:49:17 Apus = 16:41:52 Min (°C) = -1.73 Max (°C) =2.86 Presiune = 1016 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 211 Stare = nori 50-85%']
+Potcoava: 50 \ miercuri \ 14:12:2022 \ 19:20:34
+[' Răsarit = 07:50:05 Apus = 16:42:00 Min (°C) = -1.96 Max (°C) =2.03 Presiune = 1014 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 5.21 Unghiul vântului = 43 Stare = nori 85-100%']
+Potcoava: 50 \ joi \ 15:12:2022 \ 19:22:27
+[' Răsarit = 07:50:50 Apus = 16:42:11 Min (°C) = 0.29 Max (°C) =2.36 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.68 Unghiul vântului = 333 Stare = nori 85-100%']
+Potcoava: 50 \ vineri \ 16:12:2022 \ 19:17:43
+[' Răsarit = 07:51:33 Apus = 16:42:24 Min (°C) = 1.92 Max (°C) =8.94 Presiune = 1014 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.56 Unghiul vântului = 276 Stare = ploaie ușoară']
+Potcoava: 50 \ sâmbătă \ 17:12:2022 \ 19:15:30
+[' Răsarit = 07:52:13 Apus = 16:42:40 Min (°C) = 5.65 Max (°C) =10.01 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 4.26 Unghiul vântului = 272 Stare = nori 50-85%']
+Potcoava: 50 \ duminică \ 18:12:2022 \ 19:14:50
+[' Răsarit = 07:52:52 Apus = 16:42:58 Min (°C) = 1.32 Max (°C) =4.95 Presiune = 1035 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 5.37 Unghiul vântului = 84 Stare = nori 85-100%']
+Potcoava: 51 \ luni \ 19:12:2022 \ 19:19:42
+[' Răsarit = 07:53:28 Apus = 16:43:19 Min (°C) = -1.58 Max (°C) =0.68 Presiune = 1042 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.48 Unghiul vântului = 78 Stare = nori 25-50%']
+Potcoava: 51 \ marți \ 20:12:2022 \ 19:15:23
+[' Răsarit = 07:54:03 Apus = 16:43:42 Min (°C) = -2.99 Max (°C) =0.99 Presiune = 1032 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 1.4 Unghiul vântului = 250 Stare = nori 50-85%']
+Potcoava: 51 \ miercuri \ 21:12:2022 \ 19:15:13
+[' Răsarit = 07:54:34 Apus = 16:44:08 Min (°C) = -1.94 Max (°C) =3.89 Presiune = 1022 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 272 Stare = cer senin']
+Potcoava: 51 \ joi \ 22:12:2022 \ 19:17:15
+[' Răsarit = 07:55:04 Apus = 16:44:36 Min (°C) = -0.01 Max (°C) =5.03 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 255 Stare = nori 85-100%']
+Potcoava: 51 \ vineri \ 23:12:2022 \ 19:17:06
+[' Răsarit = 07:55:31 Apus = 16:45:07 Min (°C) = 1.39 Max (°C) =8.45 Presiune = 1015 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 276 Stare = nori 10-25%']
+Potcoava: 51 \ sâmbătă \ 24:12:2022 \ 19:16:40
+[' Răsarit = 07:55:56 Apus = 16:45:40 Min (°C) = 3.77 Max (°C) =7.27 Presiune = 1015 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.68 Unghiul vântului = 275 Stare = nori 85-100%']
+Potcoava: 51 \ duminică \ 25:12:2022 \ 19:17:26
+[' Răsarit = 07:56:18 Apus = 16:46:15 Min (°C) = 4.05 Max (°C) =11.98 Presiune = 1025 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 294 Stare = cer senin']
+Potcoava: 52 \ luni \ 26:12:2022 \ 19:20:11
+[' Răsarit = 07:56:38 Apus = 16:46:52 Min (°C) = 2.58 Max (°C) =8.07 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 265 Stare = nori 50-85%']
+Potcoava: 52 \ marți \ 27:12:2022 \ 19:17:56
+[' Răsarit = 07:56:56 Apus = 16:47:32 Min (°C) = 4.2 Max (°C) =13.12 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.37 Unghiul vântului = 279 Stare = nori 50-85%']
+Potcoava: 52 \ miercuri \ 28:12:2022 \ 19:17:59
+[' Răsarit = 07:57:11 Apus = 16:48:15 Min (°C) = 2.46 Max (°C) =7.05 Presiune = 1029 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.5 Unghiul vântului = 58 Stare = cer senin']
+Potcoava: 52 \ joi \ 29:12:2022 \ 19:20:19
+[' Răsarit = 07:57:23 Apus = 16:48:59 Min (°C) = 0.83 Max (°C) =6.86 Presiune = 1026 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.44 Unghiul vântului = 266 Stare = cer senin']
+Potcoava: 52 \ vineri \ 30:12:2022 \ 19:14:50
+[' Răsarit = 07:57:34 Apus = 16:49:45 Min (°C) = 2.51 Max (°C) =10.14 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 275 Stare = nori 50-85%']
+Potcoava: 52 \ sâmbătă \ 31:12:2022 \ 19:18:55
+[' Răsarit = 07:57:41 Apus = 16:50:34 Min (°C) = 4.95 Max (°C) =11.3 Presiune = 1029 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 258 Stare = nori 10-25%']
+Potcoava: 00 \ duminică \ 01:1:2023 \ 19:21:09
+[' Răsarit = 07:57:46 Apus = 16:51:24 Min (°C) = 6.14 Max (°C) =13.21 Presiune = 1030 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.31 Unghiul vântului = 267 Stare = nori 10-25%']
+Potcoava: 01 \ luni \ 02:1:2023 \ 19:21:23
+[' Răsarit = 07:57:49 Apus = 16:52:17 Min (°C) = 7.62 Max (°C) =14.04 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 260 Stare = cer senin']
+Potcoava: 01 \ marți \ 03:1:2023 \ 19:21:42
+[' Răsarit = 07:57:49 Apus = 16:53:12 Min (°C) = 7.14 Max (°C) =13.45 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 298 Stare = nori 50-85%']
+Potcoava: 01 \ miercuri \ 04:1:2023 \ 19:18:34
+[' Răsarit = 07:57:46 Apus = 16:54:08 Min (°C) = 5.23 Max (°C) =8.47 Presiune = 1029 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.98 Unghiul vântului = 100 Stare = nori 85-100%']
+Potcoava: 01 \ joi \ 05:1:2023 \ 19:20:11
+[' Răsarit = 07:57:41 Apus = 16:55:06 Min (°C) = 3.1 Max (°C) =10.32 Presiune = 1015 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 6.78 Unghiul vântului = 263 Stare = nori 85-100%']
+Potcoava: 01 \ vineri \ 06:1:2023 \ 19:25:33
+[' Răsarit = 07:57:33 Apus = 16:56:06 Min (°C) = 5.83 Max (°C) =11.78 Presiune = 1023 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 312 Stare = nori 25-50%']
+Potcoava: 01 \ sâmbătă \ 07:1:2023 \ 19:16:21
+[' Răsarit = 07:57:23 Apus = 16:57:08 Min (°C) = 2.11 Max (°C) =8.24 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.89 Unghiul vântului = 86 Stare = nori 10-25%']
+Potcoava: 01 \ duminică \ 08:1:2023 \ 19:17:42
+[' Răsarit = 07:57:11 Apus = 16:58:12 Min (°C) = 1.61 Max (°C) =7.65 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 66 Stare = cer senin']
+Potcoava: 02 \ luni \ 09:1:2023 \ 19:17:49
+[' Răsarit = 07:56:56 Apus = 16:59:17 Min (°C) = 1.4 Max (°C) =7.13 Presiune = 1014 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.28 Unghiul vântului = 56 Stare = nori 85-100%']
+Potcoava: 02 \ marți \ 10:1:2023 \ 19:15:17
+[' Răsarit = 07:56:38 Apus = 17:00:23 Min (°C) = 3.12 Max (°C) =9.37 Presiune = 1004 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 10.32 Unghiul vântului = 100 Stare = nori 85-100%']
+Potcoava: 02 \ miercuri \ 11:1:2023 \ 19:17:29
+[' Răsarit = 07:56:18 Apus = 17:01:31 Min (°C) = 3.96 Max (°C) =5.7 Presiune = 1020 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 6.52 Unghiul vântului = 67 Stare = ploaie ușoară']
+Potcoava: 02 \ joi \ 12:1:2023 \ 19:16:33
+[' Răsarit = 07:55:56 Apus = 17:02:40 Min (°C) = 1.34 Max (°C) =3.82 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 230 Stare = nori 85-100%']
+Potcoava: 02 \ vineri \ 13:1:2023 \ 19:22:15
+[' Răsarit = 07:55:31 Apus = 17:03:51 Min (°C) = 2.33 Max (°C) =4.07 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 215 Stare = nori 85-100%']
+Potcoava: 02 \ sâmbătă \ 14:1:2023 \ 19:17:54
+[' Răsarit = 07:55:04 Apus = 17:05:03 Min (°C) = 3.92 Max (°C) =5.36 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 249 Stare = nori 85-100%']
+Potcoava: 02 \ duminică \ 15:1:2023 \ 19:18:54
+[' Răsarit = 07:54:34 Apus = 17:06:17 Min (°C) = 3.44 Max (°C) =6.44 Presiune = 1019 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.41 Unghiul vântului = 105 Stare = nori 10-25%']
+Potcoava: 03 \ luni \ 16:1:2023 \ 19:16:27
+[' Răsarit = 07:54:02 Apus = 17:07:31 Min (°C) = 1.39 Max (°C) =5.67 Presiune = 1007 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 81 Stare = nori 85-100%']
+Potcoava: 03 \ marți \ 17:1:2023 \ 19:18:36
+[' Răsarit = 07:53:28 Apus = 17:08:46 Min (°C) = 2.65 Max (°C) =8.1 Presiune = 1002 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.09 Unghiul vântului = 63 Stare = nori 85-100%']
+Potcoava: 03 \ miercuri \ 18:1:2023 \ 19:20:37
+[' Răsarit = 07:52:52 Apus = 17:10:03 Min (°C) = 6.32 Max (°C) =15.83 Presiune = 1005 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.9 Unghiul vântului = 18 Stare = nori 85-100%']
+Potcoava: 03 \ joi \ 19:1:2023 \ 19:15:52
+[' Răsarit = 07:52:13 Apus = 17:11:20 Min (°C) = 7.39 Max (°C) =16.65 Presiune = 1006 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 181 Stare = nori 50-85%']
+Potcoava: 03 \ vineri \ 20:1:2023 \ 19:15:38
+[' Răsarit = 07:51:32 Apus = 17:12:39 Min (°C) = 3.57 Max (°C) =11.27 Presiune = 1002 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 4.57 Unghiul vântului = 284 Stare = nori 85-100%']
+Potcoava: 03 \ sâmbătă \ 21:1:2023 \ 19:16:00
+[' Răsarit = 07:50:48 Apus = 17:13:58 Min (°C) = 0.77 Max (°C) =8.58 Presiune = 1013 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.42 Unghiul vântului = 72 Stare = nori 25-50%']
+Potcoava: 04 \ luni \ 23:1:2023 \ 17:06:42
+[' Răsarit = 07:49:15 Apus = 17:16:39 Min (°C) = 3.13 Max (°C) =7.09 Presiune = 1028 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 7.55 Unghiul vântului = 88 Stare = nori 85-100%']
+Potcoava: 04 \ marți \ 24:1:2023 \ 20:05:32
+[' Răsarit = 07:48:25 Apus = 17:18:00 Min (°C) = 0.77 Max (°C) =2.94 Presiune = 1034 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 93 Stare = nori 85-100%']
+Potcoava: 04 \ miercuri \ 25:1:2023 \ 21:55:49
+[' Răsarit = 07:47:34 Apus = 17:19:22 Min (°C) = -1.34 Max (°C) =1.35 Presiune = 1030 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.55 Unghiul vântului = 75 Stare = nori 50-85%']

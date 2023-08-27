@@ -1268,3 +1268,169 @@ Rovinari: 44 \ marți \ 01:11:2022 \ 19:10:55
 [' Răsarit = 07:05:04 Apus = 17:16:30 Min (°C) = 12.01 Max (°C) =21.94 Presiune = 1022 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.34 Unghiul vântului = 123 Stare = nori 10-25%']
 Rovinari: 44 \ miercuri \ 02:11:2022 \ 19:11:31
 [' Răsarit = 07:06:27 Apus = 17:15:06 Min (°C) = 12.49 Max (°C) =25.71 Presiune = 1018 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 326 Stare = nori 50-85%']
+Rovinari: 44 \ joi \ 03:11:2022 \ 19:12:46
+[' Răsarit = 07:07:50 Apus = 17:13:44 Min (°C) = 12.12 Max (°C) =19.15 Presiune = 1020 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 82 Stare = nori 10-25%']
+Rovinari: 44 \ vineri \ 04:11:2022 \ 19:13:05
+[' Răsarit = 07:09:14 Apus = 17:12:23 Min (°C) = 8.79 Max (°C) =16.88 Presiune = 1013 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 27 Stare = nori 85-100%']
+Rovinari: 44 \ sâmbătă \ 05:11:2022 \ 19:12:30
+[' Răsarit = 07:10:37 Apus = 17:11:03 Min (°C) = 11.09 Max (°C) =19.61 Presiune = 1012 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.87 Unghiul vântului = 48 Stare = nori 85-100%']
+Rovinari: 44 \ duminică \ 06:11:2022 \ 19:10:11
+[' Răsarit = 07:12:00 Apus = 17:09:46 Min (°C) = 11.57 Max (°C) =18.28 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 45 Stare = nori 85-100%']
+Rovinari: 45 \ luni \ 07:11:2022 \ 19:10:15
+[' Răsarit = 07:13:23 Apus = 17:08:30 Min (°C) = 10.94 Max (°C) =14.37 Presiune = 1021 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 282 Stare = nori 85-100%']
+Rovinari: 45 \ marți \ 08:11:2022 \ 19:10:19
+[' Răsarit = 07:14:47 Apus = 17:07:16 Min (°C) = 8.62 Max (°C) =17.43 Presiune = 1021 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 0.55 Unghiul vântului = 42 Stare = cer senin']
+Rovinari: 45 \ miercuri \ 09:11:2022 \ 19:12:21
+[' Răsarit = 07:16:10 Apus = 17:06:03 Min (°C) = 8.39 Max (°C) =15.97 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 6 Stare = nori 50-85%']
+Rovinari: 45 \ joi \ 10:11:2022 \ 19:10:41
+[' Răsarit = 07:17:33 Apus = 17:04:52 Min (°C) = 8.21 Max (°C) =16.44 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 253 Stare = nori 50-85%']
+Rovinari: 45 \ vineri \ 11:11:2022 \ 19:10:08
+[' Răsarit = 07:18:56 Apus = 17:03:43 Min (°C) = 10.09 Max (°C) =17.16 Presiune = 1032 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 165 Stare = nori 50-85%']
+Rovinari: 45 \ sâmbătă \ 12:11:2022 \ 19:10:26
+[' Răsarit = 07:20:19 Apus = 17:02:36 Min (°C) = 8.12 Max (°C) =13.8 Presiune = 1033 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 26 Stare = cer senin']
+Rovinari: 45 \ duminică \ 13:11:2022 \ 19:10:03
+[' Răsarit = 07:21:42 Apus = 17:01:31 Min (°C) = 5.57 Max (°C) =14.16 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 339 Stare = cer senin']
+Rovinari: 46 \ luni \ 14:11:2022 \ 19:10:05
+[' Răsarit = 07:23:04 Apus = 17:00:27 Min (°C) = 5.98 Max (°C) =13.58 Presiune = 1025 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.78 Unghiul vântului = 48 Stare = nori 85-100%']
+Rovinari: 46 \ marți \ 15:11:2022 \ 19:10:48
+[' Răsarit = 07:24:26 Apus = 16:59:26 Min (°C) = 3.92 Max (°C) =11.67 Presiune = 1017 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 0.05 Unghiul vântului = 16 Stare = nori 50-85%']
+Rovinari: 46 \ miercuri \ 16:11:2022 \ 19:10:07
+[' Răsarit = 07:25:48 Apus = 16:58:27 Min (°C) = 4.32 Max (°C) =14.57 Presiune = 1004 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.54 Unghiul vântului = 61 Stare = nori 50-85%']
+Rovinari: 46 \ joi \ 17:11:2022 \ 19:10:24
+[' Răsarit = 07:27:09 Apus = 16:57:29 Min (°C) = 8.34 Max (°C) =14.82 Presiune = 1003 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 314 Stare = nori 85-100%']
+Rovinari: 46 \ vineri \ 18:11:2022 \ 19:10:29
+[' Răsarit = 07:28:30 Apus = 16:56:34 Min (°C) = 6.67 Max (°C) =11.21 Presiune = 1000 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 50 Stare = ploaie ușoară']
+Rovinari: 46 \ sâmbătă \ 19:11:2022 \ 19:14:26
+[' Răsarit = 07:29:50 Apus = 16:55:41 Min (°C) = 7.96 Max (°C) =13.18 Presiune = 1013 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.15 Unghiul vântului = 54 Stare = ploaie ușoară']
+Rovinari: 46 \ duminică \ 20:11:2022 \ 19:10:13
+[' Răsarit = 07:31:10 Apus = 16:54:50 Min (°C) = 9.04 Max (°C) =9.91 Presiune = 1010 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.04 Unghiul vântului = 60 Stare = nori 85-100%']
+Rovinari: 47 \ luni \ 21:11:2022 \ 19:12:42
+[' Răsarit = 07:32:29 Apus = 16:54:01 Min (°C) = 5.78 Max (°C) =9.41 Presiune = 1007 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 264 Stare = nori 85-100%']
+Rovinari: 47 \ marți \ 22:11:2022 \ 19:10:12
+[' Răsarit = 07:33:47 Apus = 16:53:14 Min (°C) = 3.13 Max (°C) =9.01 Presiune = 1010 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 56 Stare = ploaie ușoară']
+Rovinari: 47 \ miercuri \ 23:11:2022 \ 19:12:34
+[' Răsarit = 07:35:05 Apus = 16:52:30 Min (°C) = 6.73 Max (°C) =9.77 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 14 Stare = nori 85-100%']
+Rovinari: 47 \ joi \ 24:11:2022 \ 19:12:21
+[' Răsarit = 07:36:22 Apus = 16:51:48 Min (°C) = 5.07 Max (°C) =8.49 Presiune = 1011 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 3.95 Unghiul vântului = 270 Stare = nori 85-100%']
+Rovinari: 47 \ vineri \ 25:11:2022 \ 19:10:55
+[' Răsarit = 07:37:38 Apus = 16:51:08 Min (°C) = 3.65 Max (°C) =10.2 Presiune = 1020 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.75 Unghiul vântului = 336 Stare = cer senin']
+Rovinari: 47 \ sâmbătă \ 26:11:2022 \ 19:10:03
+[' Răsarit = 07:38:53 Apus = 16:50:30 Min (°C) = 1.81 Max (°C) =8.23 Presiune = 1026 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 18 Stare = nori 50-85%']
+Rovinari: 47 \ duminică \ 27:11:2022 \ 19:10:24
+[' Răsarit = 07:40:07 Apus = 16:49:55 Min (°C) = 3.04 Max (°C) =6.62 Presiune = 1027 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 31 Stare = nori 85-100%']
+Rovinari: 48 \ luni \ 28:11:2022 \ 19:10:21
+[' Răsarit = 07:41:20 Apus = 16:49:22 Min (°C) = 2.63 Max (°C) =5.12 Presiune = 1024 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.53 Unghiul vântului = 35 Stare = nori 85-100%']
+Rovinari: 48 \ marți \ 29:11:2022 \ 19:10:05
+[' Răsarit = 07:42:32 Apus = 16:48:52 Min (°C) = 2.15 Max (°C) =6.34 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 31 Stare = nori 85-100%']
+Rovinari: 48 \ miercuri \ 30:11:2022 \ 19:12:23
+[' Răsarit = 07:43:42 Apus = 16:48:24 Min (°C) = 4.78 Max (°C) =7.18 Presiune = 1024 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.52 Unghiul vântului = 83 Stare = nori 85-100%']
+Rovinari: 48 \ joi \ 01:12:2022 \ 19:10:10
+[' Răsarit = 07:44:52 Apus = 16:47:58 Min (°C) = 2.24 Max (°C) =4.95 Presiune = 1024 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.53 Unghiul vântului = 83 Stare = nori 85-100%']
+Rovinari: 48 \ vineri \ 02:12:2022 \ 19:10:45
+[' Răsarit = 07:46:00 Apus = 16:47:35 Min (°C) = 2.13 Max (°C) =3.12 Presiune = 1027 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 146 Stare = nori 85-100%']
+Rovinari: 48 \ sâmbătă \ 03:12:2022 \ 19:10:09
+[' Răsarit = 07:47:06 Apus = 16:47:15 Min (°C) = 3.1 Max (°C) =5.49 Presiune = 1028 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.2 Unghiul vântului = 76 Stare = nori 85-100%']
+Rovinari: 48 \ duminică \ 04:12:2022 \ 19:12:47
+[' Răsarit = 07:48:12 Apus = 16:46:57 Min (°C) = 3.61 Max (°C) =4.62 Presiune = 1030 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.4 Unghiul vântului = 60 Stare = nori 85-100%']
+Rovinari: 49 \ luni \ 05:12:2022 \ 19:14:25
+[' Răsarit = 07:49:15 Apus = 16:46:41 Min (°C) = 2.97 Max (°C) =3.82 Presiune = 1028 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 74 Stare = nori 85-100%']
+Rovinari: 49 \ marți \ 06:12:2022 \ 19:13:17
+[' Răsarit = 07:50:17 Apus = 16:46:28 Min (°C) = 3.81 Max (°C) =5.04 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.14 Unghiul vântului = 59 Stare = nori 85-100%']
+Rovinari: 49 \ miercuri \ 07:12:2022 \ 19:10:41
+[' Răsarit = 07:51:18 Apus = 16:46:18 Min (°C) = 3.23 Max (°C) =6.05 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 24 Stare = ploaie ușoară']
+Rovinari: 49 \ joi \ 08:12:2022 \ 19:13:17
+[' Răsarit = 07:52:17 Apus = 16:46:10 Min (°C) = 5.22 Max (°C) =6.41 Presiune = 1015 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.2 Unghiul vântului = 350 Stare = ploaie ușoară']
+Rovinari: 49 \ vineri \ 09:12:2022 \ 19:14:56
+[' Răsarit = 07:53:14 Apus = 16:46:05 Min (°C) = 5.49 Max (°C) =8.64 Presiune = 1012 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.58 Unghiul vântului = 287 Stare = nori 85-100%']
+Rovinari: 49 \ sâmbătă \ 10:12:2022 \ 19:10:36
+[' Răsarit = 07:54:09 Apus = 16:46:02 Min (°C) = 7.64 Max (°C) =10.64 Presiune = 1002 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 4 Stare = nori 85-100%']
+Rovinari: 49 \ duminică \ 11:12:2022 \ 19:10:38
+[' Răsarit = 07:55:02 Apus = 16:46:02 Min (°C) = 5.04 Max (°C) =10.3 Presiune = 998 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 262 Stare = nori 85-100%']
+Rovinari: 50 \ luni \ 12:12:2022 \ 19:10:48
+[' Răsarit = 07:55:54 Apus = 16:46:05 Min (°C) = 1.35 Max (°C) =6.49 Presiune = 1008 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 285 Stare = nori 85-100%']
+Rovinari: 50 \ marți \ 13:12:2022 \ 19:10:25
+[' Răsarit = 07:56:43 Apus = 16:46:10 Min (°C) = -0.98 Max (°C) =3.17 Presiune = 1015 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 54 Stare = nori 25-50%']
+Rovinari: 50 \ miercuri \ 14:12:2022 \ 19:13:42
+[' Răsarit = 07:57:31 Apus = 16:46:18 Min (°C) = -1.13 Max (°C) =2.88 Presiune = 1016 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 42 Stare = nori 85-100%']
+Rovinari: 50 \ joi \ 15:12:2022 \ 19:13:06
+[' Răsarit = 07:58:16 Apus = 16:46:28 Min (°C) = -0.45 Max (°C) =2.37 Presiune = 1016 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 58 Stare = nori 85-100%']
+Rovinari: 50 \ vineri \ 16:12:2022 \ 19:10:39
+[' Răsarit = 07:58:59 Apus = 16:46:41 Min (°C) = 1.37 Max (°C) =7.05 Presiune = 1014 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 248 Stare = nori 85-100%']
+Rovinari: 50 \ sâmbătă \ 17:12:2022 \ 19:10:29
+[' Răsarit = 07:59:40 Apus = 16:46:57 Min (°C) = 6 Max (°C) =8.84 Presiune = 1019 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 3.67 Unghiul vântului = 260 Stare = nori 25-50%']
+Rovinari: 50 \ duminică \ 18:12:2022 \ 19:10:06
+[' Răsarit = 08:00:19 Apus = 16:47:15 Min (°C) = 2.08 Max (°C) =7.58 Presiune = 1035 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.61 Unghiul vântului = 101 Stare = nori 50-85%']
+Rovinari: 51 \ luni \ 19:12:2022 \ 19:12:32
+[' Răsarit = 08:00:56 Apus = 16:47:36 Min (°C) = 0.62 Max (°C) =2.14 Presiune = 1042 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 106 Stare = nori 85-100%']
+Rovinari: 51 \ marți \ 20:12:2022 \ 19:10:42
+[' Răsarit = 08:01:30 Apus = 16:47:59 Min (°C) = -1.89 Max (°C) =1.74 Presiune = 1033 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 245 Stare = nori 50-85%']
+Rovinari: 51 \ miercuri \ 21:12:2022 \ 19:10:26
+[' Răsarit = 08:02:02 Apus = 16:48:25 Min (°C) = -1.17 Max (°C) =4.28 Presiune = 1022 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 0.38 Unghiul vântului = 286 Stare = cer senin']
+Rovinari: 51 \ joi \ 22:12:2022 \ 19:12:33
+[' Răsarit = 08:02:31 Apus = 16:48:53 Min (°C) = 0.69 Max (°C) =5.57 Presiune = 1016 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 248 Stare = nori 85-100%']
+Rovinari: 51 \ vineri \ 23:12:2022 \ 19:12:26
+[' Răsarit = 08:02:58 Apus = 16:49:24 Min (°C) = 2.13 Max (°C) =9.08 Presiune = 1015 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.6 Unghiul vântului = 337 Stare = nori 25-50%']
+Rovinari: 51 \ sâmbătă \ 24:12:2022 \ 19:12:03
+[' Răsarit = 08:03:23 Apus = 16:49:57 Min (°C) = 4.92 Max (°C) =9.47 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.74 Unghiul vântului = 270 Stare = nori 85-100%']
+Rovinari: 51 \ duminică \ 25:12:2022 \ 19:12:19
+[' Răsarit = 08:03:45 Apus = 16:50:32 Min (°C) = 4.44 Max (°C) =11.23 Presiune = 1025 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 339 Stare = cer senin']
+Rovinari: 52 \ luni \ 26:12:2022 \ 19:14:54
+[' Răsarit = 08:04:05 Apus = 16:51:10 Min (°C) = 3.54 Max (°C) =8.67 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.12 Unghiul vântului = 197 Stare = nori 50-85%']
+Rovinari: 52 \ marți \ 27:12:2022 \ 19:10:42
+[' Răsarit = 08:04:23 Apus = 16:51:50 Min (°C) = 4.74 Max (°C) =13.52 Presiune = 1024 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.25 Unghiul vântului = 298 Stare = nori 50-85%']
+Rovinari: 52 \ miercuri \ 28:12:2022 \ 19:10:43
+[' Răsarit = 08:04:37 Apus = 16:52:32 Min (°C) = 2.7 Max (°C) =7.33 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.25 Unghiul vântului = 57 Stare = nori 25-50%']
+Rovinari: 52 \ joi \ 29:12:2022 \ 19:13:00
+[' Răsarit = 08:04:50 Apus = 16:53:17 Min (°C) = 0.87 Max (°C) =6.37 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.09 Unghiul vântului = 273 Stare = nori 10-25%']
+Rovinari: 52 \ vineri \ 30:12:2022 \ 19:10:08
+[' Răsarit = 08:04:59 Apus = 16:54:04 Min (°C) = 2.56 Max (°C) =9.9 Presiune = 1024 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.07 Unghiul vântului = 38 Stare = nori 50-85%']
+Rovinari: 52 \ sâmbătă \ 31:12:2022 \ 19:12:03
+[' Răsarit = 08:05:06 Apus = 16:54:53 Min (°C) = 5.45 Max (°C) =11.6 Presiune = 1029 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 0.36 Unghiul vântului = 285 Stare = nori 50-85%']
+Rovinari: 00 \ duminică \ 01:1:2023 \ 19:13:28
+[' Răsarit = 08:05:11 Apus = 16:55:44 Min (°C) = 6.72 Max (°C) =13.57 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.22 Unghiul vântului = 341 Stare = nori 25-50%']
+Rovinari: 01 \ luni \ 02:1:2023 \ 19:11:32
+[' Răsarit = 08:05:13 Apus = 16:56:37 Min (°C) = 7.62 Max (°C) =13.76 Presiune = 1027 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.23 Unghiul vântului = 332 Stare = cer senin']
+Rovinari: 01 \ marți \ 03:1:2023 \ 19:16:05
+[' Răsarit = 08:05:13 Apus = 16:57:32 Min (°C) = 7.6 Max (°C) =14.76 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 310 Stare = nori 10-25%']
+Rovinari: 01 \ miercuri \ 04:1:2023 \ 19:13:18
+[' Răsarit = 08:05:10 Apus = 16:58:29 Min (°C) = 7.09 Max (°C) =10.29 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.13 Unghiul vântului = 126 Stare = nori 85-100%']
+Rovinari: 01 \ joi \ 05:1:2023 \ 19:10:45
+[' Răsarit = 08:05:04 Apus = 16:59:28 Min (°C) = 3.79 Max (°C) =11.41 Presiune = 1016 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 258 Stare = nori 85-100%']
+Rovinari: 01 \ vineri \ 06:1:2023 \ 19:17:56
+[' Răsarit = 08:04:56 Apus = 17:00:28 Min (°C) = 5.91 Max (°C) =11.23 Presiune = 1023 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 337 Stare = nori 25-50%']
+Rovinari: 01 \ sâmbătă \ 07:1:2023 \ 19:11:05
+[' Răsarit = 08:04:45 Apus = 17:01:31 Min (°C) = 2.95 Max (°C) =9.41 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 100 Stare = nori 10-25%']
+Rovinari: 01 \ duminică \ 08:1:2023 \ 19:11:53
+[' Răsarit = 08:04:32 Apus = 17:02:35 Min (°C) = 2.59 Max (°C) =7.69 Presiune = 1022 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 38 Stare = nori 10-25%']
+Rovinari: 02 \ luni \ 09:1:2023 \ 19:12:49
+[' Răsarit = 08:04:16 Apus = 17:03:41 Min (°C) = 1.81 Max (°C) =6.93 Presiune = 1014 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 55 Stare = nori 85-100%']
+Rovinari: 02 \ marți \ 10:1:2023 \ 19:10:15
+[' Răsarit = 08:03:58 Apus = 17:04:48 Min (°C) = 5.17 Max (°C) =7.52 Presiune = 1006 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 3.85 Unghiul vântului = 325 Stare = ploaie ușoară']
+Rovinari: 02 \ miercuri \ 11:1:2023 \ 19:12:15
+[' Răsarit = 08:03:37 Apus = 17:05:57 Min (°C) = 4.79 Max (°C) =6.97 Presiune = 1021 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.82 Unghiul vântului = 343 Stare = nori 85-100%']
+Rovinari: 02 \ joi \ 12:1:2023 \ 19:11:14
+[' Răsarit = 08:03:14 Apus = 17:07:07 Min (°C) = 3.78 Max (°C) =5.63 Presiune = 1023 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 174 Stare = nori 85-100%']
+Rovinari: 02 \ vineri \ 13:1:2023 \ 19:12:48
+[' Răsarit = 08:02:48 Apus = 17:08:19 Min (°C) = 4.06 Max (°C) =5.46 Presiune = 1022 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.05 Unghiul vântului = 185 Stare = nori 85-100%']
+Rovinari: 02 \ sâmbătă \ 14:1:2023 \ 19:12:08
+[' Răsarit = 08:02:20 Apus = 17:09:31 Min (°C) = 4.54 Max (°C) =7.09 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.94 Unghiul vântului = 197 Stare = nori 85-100%']
+Rovinari: 02 \ duminică \ 15:1:2023 \ 19:13:00
+[' Răsarit = 08:01:49 Apus = 17:10:46 Min (°C) = 4.14 Max (°C) =6.34 Presiune = 1019 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 84 Stare = nori 50-85%']
+Rovinari: 03 \ luni \ 16:1:2023 \ 19:09:40
+[' Răsarit = 08:01:17 Apus = 17:12:01 Min (°C) = 2.43 Max (°C) =5.67 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 38 Stare = ploaie ușoară']
+Rovinari: 03 \ marți \ 17:1:2023 \ 19:11:20
+[' Răsarit = 08:00:41 Apus = 17:13:17 Min (°C) = 2.68 Max (°C) =5.8 Presiune = 1001 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.2 Unghiul vântului = 21 Stare = nori 85-100%']
+Rovinari: 03 \ miercuri \ 18:1:2023 \ 19:10:42
+[' Răsarit = 08:00:04 Apus = 17:14:35 Min (°C) = 6.52 Max (°C) =12.12 Presiune = 1004 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 90 Stare = nori 50-85%']
+Rovinari: 03 \ joi \ 19:1:2023 \ 19:10:36
+[' Răsarit = 07:59:24 Apus = 17:15:53 Min (°C) = 8.07 Max (°C) =12.24 Presiune = 1007 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 273 Stare = ploaie ușoară']
+Rovinari: 03 \ vineri \ 20:1:2023 \ 19:10:38
+[' Răsarit = 07:58:42 Apus = 17:17:13 Min (°C) = 5.67 Max (°C) =9.75 Presiune = 1004 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 3.88 Unghiul vântului = 248 Stare = nori 85-100%']
+Rovinari: 03 \ sâmbătă \ 21:1:2023 \ 19:10:47
+[' Răsarit = 07:57:57 Apus = 17:18:33 Min (°C) = 1.78 Max (°C) =8.63 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 44 Stare = nori 85-100%']
+Rovinari: 04 \ luni \ 23:1:2023 \ 16:59:13
+[' Răsarit = 07:56:22 Apus = 17:21:16 Min (°C) = 5.37 Max (°C) =8.67 Presiune = 1028 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.67 Unghiul vântului = 100 Stare = nori 85-100%']
+Rovinari: 04 \ marți \ 24:1:2023 \ 19:59:55
+[' Răsarit = 07:55:31 Apus = 17:22:39 Min (°C) = 1.84 Max (°C) =3.45 Presiune = 1034 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.76 Unghiul vântului = 172 Stare = nori 85-100%']
+Rovinari: 04 \ miercuri \ 25:1:2023 \ 21:48:27
+[' Răsarit = 07:54:38 Apus = 17:24:02 Min (°C) = -0.18 Max (°C) =1.95 Presiune = 1030 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 101 Stare = nori 85-100%']

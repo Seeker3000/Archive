@@ -1266,3 +1266,169 @@ Nadlac: 44 \ marți \ 01:11:2022 \ 19:02:45
 [' Răsarit = 07:17:24 Apus = 17:23:38 Min (°C) = 10.56 Max (°C) =23.02 Presiune = 1020 Umiditate (%) = 45 Index UV = 0 Viteza vântului = 2.54 Unghiul vântului = 164 Stare = nori 25-50%']
 Nadlac: 44 \ miercuri \ 02:11:2022 \ 19:03:20
 [' Răsarit = 07:18:51 Apus = 17:22:11 Min (°C) = 9.5 Max (°C) =17.33 Presiune = 1022 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 1.86 Unghiul vântului = 349 Stare = nori 25-50%']
+Nadlac: 44 \ joi \ 03:11:2022 \ 19:02:28
+[' Răsarit = 07:20:18 Apus = 17:20:44 Min (°C) = 10.07 Max (°C) =17.84 Presiune = 1018 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 113 Stare = nori 25-50%']
+Nadlac: 44 \ vineri \ 04:11:2022 \ 19:02:44
+[' Răsarit = 07:21:45 Apus = 17:19:19 Min (°C) = 9.68 Max (°C) =19.44 Presiune = 1008 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 176 Stare = ploaie ușoară']
+Nadlac: 44 \ sâmbătă \ 05:11:2022 \ 19:02:44
+[' Răsarit = 07:23:12 Apus = 17:17:56 Min (°C) = 12.02 Max (°C) =16.36 Presiune = 1012 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 317 Stare = nori 85-100%']
+Nadlac: 44 \ duminică \ 06:11:2022 \ 19:02:35
+[' Răsarit = 07:24:39 Apus = 17:16:35 Min (°C) = 8.95 Max (°C) =15.92 Presiune = 1018 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.92 Unghiul vântului = 10 Stare = nori 50-85%']
+Nadlac: 45 \ luni \ 07:11:2022 \ 19:02:37
+[' Răsarit = 07:26:06 Apus = 17:15:15 Min (°C) = 11.1 Max (°C) =14.2 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.91 Unghiul vântului = 305 Stare = ploaie ușoară']
+Nadlac: 45 \ marți \ 08:11:2022 \ 19:02:39
+[' Răsarit = 07:27:34 Apus = 17:13:57 Min (°C) = 8.26 Max (°C) =15.87 Presiune = 1021 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 124 Stare = nori 10-25%']
+Nadlac: 45 \ miercuri \ 09:11:2022 \ 19:02:27
+[' Răsarit = 07:29:01 Apus = 17:12:40 Min (°C) = 8.26 Max (°C) =17.4 Presiune = 1020 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.2 Unghiul vântului = 171 Stare = nori 25-50%']
+Nadlac: 45 \ joi \ 10:11:2022 \ 19:02:40
+[' Răsarit = 07:30:28 Apus = 17:11:26 Min (°C) = 10.05 Max (°C) =15.1 Presiune = 1027 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 319 Stare = nori 85-100%']
+Nadlac: 45 \ vineri \ 11:11:2022 \ 19:02:32
+[' Răsarit = 07:31:54 Apus = 17:10:13 Min (°C) = 8.32 Max (°C) =14.67 Presiune = 1033 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.97 Unghiul vântului = 338 Stare = nori 85-100%']
+Nadlac: 45 \ sâmbătă \ 12:11:2022 \ 19:02:50
+[' Răsarit = 07:33:21 Apus = 17:09:02 Min (°C) = 8.44 Max (°C) =14.33 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.76 Unghiul vântului = 113 Stare = cer senin']
+Nadlac: 45 \ duminică \ 13:11:2022 \ 19:02:30
+[' Răsarit = 07:34:47 Apus = 17:07:53 Min (°C) = 6.36 Max (°C) =14.57 Presiune = 1028 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 61 Stare = cer senin']
+Nadlac: 46 \ luni \ 14:11:2022 \ 19:02:26
+[' Răsarit = 07:36:13 Apus = 17:06:46 Min (°C) = 7.39 Max (°C) =15.7 Presiune = 1022 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 82 Stare = nori 50-85%']
+Nadlac: 46 \ marți \ 15:11:2022 \ 19:02:58
+[' Răsarit = 07:37:39 Apus = 17:05:41 Min (°C) = 7.54 Max (°C) =15.04 Presiune = 1014 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 186 Stare = nori 85-100%']
+Nadlac: 46 \ miercuri \ 16:11:2022 \ 19:02:28
+[' Răsarit = 07:39:04 Apus = 17:04:39 Min (°C) = 8.61 Max (°C) =11.1 Presiune = 1003 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 162 Stare = ploaie ușoară']
+Nadlac: 46 \ joi \ 17:11:2022 \ 19:02:44
+[' Răsarit = 07:40:29 Apus = 17:03:38 Min (°C) = 7.1 Max (°C) =12.76 Presiune = 1004 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 251 Stare = nori 85-100%']
+Nadlac: 46 \ vineri \ 18:11:2022 \ 19:02:41
+[' Răsarit = 07:41:53 Apus = 17:02:39 Min (°C) = 7.93 Max (°C) =10.1 Presiune = 999 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.39 Unghiul vântului = 251 Stare = nori 85-100%']
+Nadlac: 46 \ sâmbătă \ 19:11:2022 \ 19:02:30
+[' Răsarit = 07:43:17 Apus = 17:01:42 Min (°C) = 6.21 Max (°C) =9.33 Presiune = 1012 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.27 Unghiul vântului = 56 Stare = nori 85-100%']
+Nadlac: 46 \ duminică \ 20:11:2022 \ 19:02:33
+[' Răsarit = 07:44:40 Apus = 17:00:48 Min (°C) = 4.56 Max (°C) =7.1 Presiune = 1012 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 357 Stare = nori 85-100%']
+Nadlac: 47 \ luni \ 21:11:2022 \ 19:03:00
+[' Răsarit = 07:46:02 Apus = 16:59:56 Min (°C) = 3.44 Max (°C) =7.84 Presiune = 1010 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 268 Stare = nori 85-100%']
+Nadlac: 47 \ marți \ 22:11:2022 \ 19:02:33
+[' Răsarit = 07:47:24 Apus = 16:59:06 Min (°C) = 3.03 Max (°C) =10.01 Presiune = 1002 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 7.07 Unghiul vântului = 93 Stare = ploaie ușoară']
+Nadlac: 47 \ miercuri \ 23:11:2022 \ 19:02:46
+[' Răsarit = 07:48:45 Apus = 16:58:19 Min (°C) = 6.33 Max (°C) =11.03 Presiune = 1004 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.35 Unghiul vântului = 213 Stare = nori 85-100%']
+Nadlac: 47 \ joi \ 24:11:2022 \ 19:02:38
+[' Răsarit = 07:50:05 Apus = 16:57:33 Min (°C) = 4.6 Max (°C) =6.4 Presiune = 1013 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.34 Unghiul vântului = 292 Stare = nori 85-100%']
+Nadlac: 47 \ vineri \ 25:11:2022 \ 19:02:44
+[' Răsarit = 07:51:23 Apus = 16:56:50 Min (°C) = 2.62 Max (°C) =7.56 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 1.27 Unghiul vântului = 137 Stare = cer senin']
+Nadlac: 47 \ sâmbătă \ 26:11:2022 \ 19:02:34
+[' Răsarit = 07:52:41 Apus = 16:56:10 Min (°C) = 2.61 Max (°C) =7 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 313 Stare = nori 85-100%']
+Nadlac: 47 \ duminică \ 27:11:2022 \ 19:02:47
+[' Răsarit = 07:53:58 Apus = 16:55:32 Min (°C) = 3.43 Max (°C) =7.85 Presiune = 1027 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.49 Unghiul vântului = 46 Stare = nori 10-25%']
+Nadlac: 48 \ luni \ 28:11:2022 \ 19:02:44
+[' Răsarit = 07:55:14 Apus = 16:54:56 Min (°C) = 1.23 Max (°C) =6.94 Presiune = 1022 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 97 Stare = cer senin']
+Nadlac: 48 \ marți \ 29:11:2022 \ 19:02:29
+[' Răsarit = 07:56:28 Apus = 16:54:23 Min (°C) = 0.47 Max (°C) =6.72 Presiune = 1022 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.11 Unghiul vântului = 49 Stare = nori 50-85%']
+Nadlac: 48 \ miercuri \ 30:11:2022 \ 19:02:42
+[' Răsarit = 07:57:42 Apus = 16:53:53 Min (°C) = 3.12 Max (°C) =7.52 Presiune = 1022 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.12 Unghiul vântului = 50 Stare = nori 85-100%']
+Nadlac: 48 \ joi \ 01:12:2022 \ 19:02:35
+[' Răsarit = 07:58:54 Apus = 16:53:25 Min (°C) = 2.1 Max (°C) =7.11 Presiune = 1021 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 20 Stare = nori 85-100%']
+Nadlac: 48 \ vineri \ 02:12:2022 \ 19:02:30
+[' Răsarit = 08:00:04 Apus = 16:52:59 Min (°C) = 2.85 Max (°C) =5.1 Presiune = 1024 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.51 Unghiul vântului = 121 Stare = nori 85-100%']
+Nadlac: 48 \ sâmbătă \ 03:12:2022 \ 19:02:48
+[' Răsarit = 08:01:13 Apus = 16:52:36 Min (°C) = 2.87 Max (°C) =8.93 Presiune = 1023 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 108 Stare = nori 85-100%']
+Nadlac: 48 \ duminică \ 04:12:2022 \ 19:02:20
+[' Răsarit = 08:02:20 Apus = 16:52:16 Min (°C) = 3.51 Max (°C) =9.94 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.33 Unghiul vântului = 151 Stare = nori 85-100%']
+Nadlac: 49 \ luni \ 05:12:2022 \ 19:05:38
+[' Răsarit = 08:03:26 Apus = 16:51:59 Min (°C) = 5.29 Max (°C) =9.6 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 158 Stare = nori 50-85%']
+Nadlac: 49 \ marți \ 06:12:2022 \ 19:02:50
+[' Răsarit = 08:04:30 Apus = 16:51:44 Min (°C) = 3.85 Max (°C) =8.01 Presiune = 1018 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 287 Stare = nori 85-100%']
+Nadlac: 49 \ miercuri \ 07:12:2022 \ 19:02:28
+[' Răsarit = 08:05:33 Apus = 16:51:31 Min (°C) = 2.27 Max (°C) =6.47 Presiune = 1016 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.43 Unghiul vântului = 15 Stare = nori 85-100%']
+Nadlac: 49 \ joi \ 08:12:2022 \ 19:02:58
+[' Răsarit = 08:06:33 Apus = 16:51:22 Min (°C) = 1.16 Max (°C) =6.93 Presiune = 1012 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 158 Stare = ploaie ușoară']
+Nadlac: 49 \ vineri \ 09:12:2022 \ 19:02:17
+[' Răsarit = 08:07:32 Apus = 16:51:15 Min (°C) = 4.75 Max (°C) =11.31 Presiune = 1004 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 8.67 Unghiul vântului = 173 Stare = ploaie ușoară']
+Nadlac: 49 \ sâmbătă \ 10:12:2022 \ 19:02:36
+[' Răsarit = 08:08:29 Apus = 16:51:11 Min (°C) = 10.66 Max (°C) =14 Presiune = 996 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 70 Stare = nori 85-100%']
+Nadlac: 49 \ duminică \ 11:12:2022 \ 19:02:19
+[' Răsarit = 08:09:24 Apus = 16:51:09 Min (°C) = 2.28 Max (°C) =10.72 Presiune = 1003 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.64 Unghiul vântului = 272 Stare = nori 85-100%']
+Nadlac: 50 \ luni \ 12:12:2022 \ 19:02:42
+[' Răsarit = 08:10:16 Apus = 16:51:11 Min (°C) = -0.9 Max (°C) =1.81 Presiune = 1012 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.89 Unghiul vântului = 247 Stare = nori 25-50%']
+Nadlac: 50 \ marți \ 13:12:2022 \ 19:02:29
+[' Răsarit = 08:11:07 Apus = 16:51:15 Min (°C) = -1.95 Max (°C) =1.43 Presiune = 1015 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 128 Stare = cer senin']
+Nadlac: 50 \ miercuri \ 14:12:2022 \ 19:03:26
+[' Răsarit = 08:11:55 Apus = 16:51:21 Min (°C) = -1.62 Max (°C) =3.16 Presiune = 1007 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.54 Unghiul vântului = 117 Stare = nori 85-100%']
+Nadlac: 50 \ joi \ 15:12:2022 \ 19:02:47
+[' Răsarit = 08:12:42 Apus = 16:51:31 Min (°C) = 0.84 Max (°C) =6.1 Presiune = 1011 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.61 Unghiul vântului = 125 Stare = nori 50-85%']
+Nadlac: 50 \ vineri \ 16:12:2022 \ 19:02:35
+[' Răsarit = 08:13:26 Apus = 16:51:43 Min (°C) = 5.02 Max (°C) =13.1 Presiune = 1007 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 4.27 Unghiul vântului = 164 Stare = nori 85-100%']
+Nadlac: 50 \ sâmbătă \ 17:12:2022 \ 19:02:23
+[' Răsarit = 08:14:08 Apus = 16:51:58 Min (°C) = 0.06 Max (°C) =9.9 Presiune = 1024 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.24 Unghiul vântului = 285 Stare = nori 25-50%']
+Nadlac: 50 \ duminică \ 18:12:2022 \ 19:02:21
+[' Răsarit = 08:14:47 Apus = 16:52:16 Min (°C) = -0.97 Max (°C) =2.32 Presiune = 1038 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 39 Stare = cer senin']
+Nadlac: 51 \ luni \ 19:12:2022 \ 19:02:33
+[' Răsarit = 08:15:24 Apus = 16:52:36 Min (°C) = -1.57 Max (°C) =2.86 Presiune = 1037 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 121 Stare = nori 10-25%']
+Nadlac: 51 \ marți \ 20:12:2022 \ 19:02:42
+[' Răsarit = 08:15:58 Apus = 16:52:59 Min (°C) = -1.21 Max (°C) =3.52 Presiune = 1029 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.17 Unghiul vântului = 130 Stare = nori 50-85%']
+Nadlac: 51 \ miercuri \ 21:12:2022 \ 19:02:55
+[' Răsarit = 08:16:30 Apus = 16:53:24 Min (°C) = -0.36 Max (°C) =5.43 Presiune = 1020 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 171 Stare = nori 85-100%']
+Nadlac: 51 \ joi \ 22:12:2022 \ 19:02:47
+[' Răsarit = 08:17:00 Apus = 16:53:53 Min (°C) = 2.8 Max (°C) =5.23 Presiune = 1017 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 0.66 Unghiul vântului = 115 Stare = nori 85-100%']
+Nadlac: 51 \ vineri \ 23:12:2022 \ 19:02:38
+[' Răsarit = 08:17:27 Apus = 16:54:23 Min (°C) = 4.09 Max (°C) =10.07 Presiune = 1014 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.82 Unghiul vântului = 184 Stare = nori 50-85%']
+Nadlac: 51 \ sâmbătă \ 24:12:2022 \ 19:02:28
+[' Răsarit = 08:17:52 Apus = 16:54:57 Min (°C) = 7.1 Max (°C) =11.19 Presiune = 1018 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 275 Stare = nori 50-85%']
+Nadlac: 51 \ duminică \ 25:12:2022 \ 19:02:26
+[' Răsarit = 08:18:13 Apus = 16:55:32 Min (°C) = 4.1 Max (°C) =9.83 Presiune = 1026 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.46 Unghiul vântului = 158 Stare = nori 25-50%']
+Nadlac: 52 \ luni \ 26:12:2022 \ 19:02:31
+[' Răsarit = 08:18:33 Apus = 16:56:11 Min (°C) = 5.61 Max (°C) =12.13 Presiune = 1022 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 3.84 Unghiul vântului = 195 Stare = nori 85-100%']
+Nadlac: 52 \ marți \ 27:12:2022 \ 19:02:46
+[' Răsarit = 08:18:49 Apus = 16:56:51 Min (°C) = 4.64 Max (°C) =11.32 Presiune = 1029 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.65 Unghiul vântului = 289 Stare = nori 85-100%']
+Nadlac: 52 \ miercuri \ 28:12:2022 \ 19:02:28
+[' Răsarit = 08:19:03 Apus = 16:57:35 Min (°C) = 1.5 Max (°C) =6.38 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 148 Stare = nori 50-85%']
+Nadlac: 52 \ joi \ 29:12:2022 \ 19:02:40
+[' Răsarit = 08:19:15 Apus = 16:58:20 Min (°C) = 1.55 Max (°C) =9.16 Presiune = 1022 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.04 Unghiul vântului = 180 Stare = nori 85-100%']
+Nadlac: 52 \ vineri \ 30:12:2022 \ 19:02:28
+[' Răsarit = 08:19:23 Apus = 16:59:08 Min (°C) = 8.21 Max (°C) =10.28 Presiune = 1023 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.33 Unghiul vântului = 221 Stare = nori 85-100%']
+Nadlac: 52 \ sâmbătă \ 31:12:2022 \ 19:02:24
+[' Răsarit = 08:19:29 Apus = 16:59:58 Min (°C) = 6.91 Max (°C) =12.1 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.48 Unghiul vântului = 186 Stare = nori 85-100%']
+Nadlac: 00 \ duminică \ 01:1:2023 \ 19:02:37
+[' Răsarit = 08:19:33 Apus = 17:00:50 Min (°C) = 7.43 Max (°C) =13.59 Presiune = 1029 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 172 Stare = nori 85-100%']
+Nadlac: 01 \ luni \ 02:1:2023 \ 19:02:43
+[' Răsarit = 08:19:33 Apus = 17:01:45 Min (°C) = 7.49 Max (°C) =13.47 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 180 Stare = nori 85-100%']
+Nadlac: 01 \ marți \ 03:1:2023 \ 19:02:41
+[' Răsarit = 08:19:31 Apus = 17:02:41 Min (°C) = 6.91 Max (°C) =10.99 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 341 Stare = nori 50-85%']
+Nadlac: 01 \ miercuri \ 04:1:2023 \ 19:02:36
+[' Răsarit = 08:19:27 Apus = 17:03:40 Min (°C) = 5.1 Max (°C) =9.61 Presiune = 1029 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 233 Stare = nori 10-25%']
+Nadlac: 01 \ joi \ 05:1:2023 \ 19:02:40
+[' Răsarit = 08:19:19 Apus = 17:04:41 Min (°C) = 4.7 Max (°C) =10.8 Presiune = 1019 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 5.54 Unghiul vântului = 276 Stare = nori 85-100%']
+Nadlac: 01 \ vineri \ 06:1:2023 \ 19:07:22
+[' Răsarit = 08:19:09 Apus = 17:05:43 Min (°C) = 6.1 Max (°C) =9.97 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.43 Unghiul vântului = 174 Stare = nori 50-85%']
+Nadlac: 01 \ sâmbătă \ 07:1:2023 \ 19:02:37
+[' Răsarit = 08:18:57 Apus = 17:06:48 Min (°C) = 4.97 Max (°C) =11.15 Presiune = 1021 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 137 Stare = nori 10-25%']
+Nadlac: 01 \ duminică \ 08:1:2023 \ 19:02:48
+[' Răsarit = 08:18:41 Apus = 17:07:54 Min (°C) = 4.53 Max (°C) =10.79 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.23 Unghiul vântului = 171 Stare = nori 25-50%']
+Nadlac: 02 \ luni \ 09:1:2023 \ 19:02:37
+[' Răsarit = 08:18:23 Apus = 17:09:02 Min (°C) = 5.93 Max (°C) =9.1 Presiune = 1006 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 7.63 Unghiul vântului = 165 Stare = ploaie moderată']
+Nadlac: 02 \ marți \ 10:1:2023 \ 19:02:13
+[' Răsarit = 08:18:03 Apus = 17:10:11 Min (°C) = 5.95 Max (°C) =8.83 Presiune = 1012 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.74 Unghiul vântului = 18 Stare = nori 85-100%']
+Nadlac: 02 \ miercuri \ 11:1:2023 \ 19:02:10
+[' Răsarit = 08:17:39 Apus = 17:11:22 Min (°C) = 5.1 Max (°C) =7.13 Presiune = 1020 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 273 Stare = nori 85-100%']
+Nadlac: 02 \ joi \ 12:1:2023 \ 19:02:35
+[' Răsarit = 08:17:14 Apus = 17:12:35 Min (°C) = 3.41 Max (°C) =6.68 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.21 Unghiul vântului = 253 Stare = nori 50-85%']
+Nadlac: 02 \ vineri \ 13:1:2023 \ 19:03:05
+[' Răsarit = 08:16:45 Apus = 17:13:49 Min (°C) = 2.19 Max (°C) =7.76 Presiune = 1020 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 154 Stare = nori 85-100%']
+Nadlac: 02 \ sâmbătă \ 14:1:2023 \ 19:02:37
+[' Răsarit = 08:16:15 Apus = 17:15:05 Min (°C) = 4.01 Max (°C) =7.06 Presiune = 1023 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 160 Stare = nori 25-50%']
+Nadlac: 02 \ duminică \ 15:1:2023 \ 19:02:24
+[' Răsarit = 08:15:41 Apus = 17:16:22 Min (°C) = 1.78 Max (°C) =8.67 Presiune = 1014 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 6.15 Unghiul vântului = 174 Stare = nori 50-85%']
+Nadlac: 03 \ luni \ 16:1:2023 \ 19:02:05
+[' Răsarit = 08:15:06 Apus = 17:17:40 Min (°C) = 4.75 Max (°C) =7.88 Presiune = 1000 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 7.95 Unghiul vântului = 188 Stare = ploaie ușoară']
+Nadlac: 03 \ marți \ 17:1:2023 \ 19:02:33
+[' Răsarit = 08:14:28 Apus = 17:18:59 Min (°C) = 6.1 Max (°C) =10.61 Presiune = 991 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 8.88 Unghiul vântului = 136 Stare = ploaie ușoară']
+Nadlac: 03 \ miercuri \ 18:1:2023 \ 19:02:20
+[' Răsarit = 08:13:47 Apus = 17:20:20 Min (°C) = 8.82 Max (°C) =11.72 Presiune = 1000 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 105 Stare = nori 25-50%']
+Nadlac: 03 \ joi \ 19:1:2023 \ 19:02:11
+[' Răsarit = 08:13:04 Apus = 17:21:42 Min (°C) = 4.11 Max (°C) =10.81 Presiune = 1007 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.54 Unghiul vântului = 268 Stare = nori 85-100%']
+Nadlac: 03 \ vineri \ 20:1:2023 \ 19:02:43
+[' Răsarit = 08:12:19 Apus = 17:23:04 Min (°C) = 0.3 Max (°C) =3.18 Presiune = 1009 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 4.06 Unghiul vântului = 309 Stare = nori 85-100%']
+Nadlac: 03 \ sâmbătă \ 21:1:2023 \ 19:02:26
+[' Răsarit = 08:11:31 Apus = 17:24:28 Min (°C) = 0.48 Max (°C) =4.3 Presiune = 1013 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.45 Unghiul vântului = 37 Stare = nori 85-100%']
+Nadlac: 04 \ luni \ 23:1:2023 \ 16:50:57
+[' Răsarit = 08:09:49 Apus = 17:27:17 Min (°C) = 5.19 Max (°C) =12.1 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 21 Stare = nori 85-100%']
+Nadlac: 04 \ marți \ 24:1:2023 \ 19:51:11
+[' Răsarit = 08:08:55 Apus = 17:28:43 Min (°C) = 4.1 Max (°C) =7.98 Presiune = 1031 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 254 Stare = nori 85-100%']
+Nadlac: 04 \ miercuri \ 25:1:2023 \ 21:37:07
+[' Răsarit = 08:07:58 Apus = 17:30:10 Min (°C) = 1.51 Max (°C) =5.18 Presiune = 1026 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 168 Stare = nori 85-100%']

@@ -1266,3 +1266,169 @@ Barlad: 44 \ marți \ 01:11:2022 \ 19:23:12
 [' Răsarit = 06:49:51 Apus = 16:55:52 Min (°C) = 8.83 Max (°C) =18.9 Presiune = 1021 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 162 Stare = nori 10-25%']
 Barlad: 44 \ miercuri \ 02:11:2022 \ 19:23:55
 [' Răsarit = 06:51:18 Apus = 16:54:24 Min (°C) = 11.35 Max (°C) =20.73 Presiune = 1019 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 347 Stare = nori 50-85%']
+Barlad: 44 \ joi \ 03:11:2022 \ 19:24:29
+[' Răsarit = 06:52:45 Apus = 16:52:57 Min (°C) = 9.35 Max (°C) =16.93 Presiune = 1021 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 37 Stare = nori 50-85%']
+Barlad: 44 \ vineri \ 04:11:2022 \ 19:28:46
+[' Răsarit = 06:54:12 Apus = 16:51:32 Min (°C) = 6.47 Max (°C) =16.92 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.7 Unghiul vântului = 133 Stare = nori 85-100%']
+Barlad: 44 \ sâmbătă \ 05:11:2022 \ 19:26:18
+[' Răsarit = 06:55:40 Apus = 16:50:08 Min (°C) = 9.24 Max (°C) =18.73 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 6.16 Unghiul vântului = 117 Stare = nori 85-100%']
+Barlad: 44 \ duminică \ 06:11:2022 \ 19:19:48
+[' Răsarit = 06:57:07 Apus = 16:48:47 Min (°C) = 11.37 Max (°C) =14.86 Presiune = 1022 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 5.57 Unghiul vântului = 121 Stare = nori 85-100%']
+Barlad: 45 \ luni \ 07:11:2022 \ 19:19:47
+[' Răsarit = 06:58:34 Apus = 16:47:27 Min (°C) = 6.96 Max (°C) =15.17 Presiune = 1021 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 2.43 Unghiul vântului = 130 Stare = cer senin']
+Barlad: 45 \ marți \ 08:11:2022 \ 19:19:46
+[' Răsarit = 07:00:02 Apus = 16:46:08 Min (°C) = 5.77 Max (°C) =14.02 Presiune = 1023 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 146 Stare = nori 10-25%']
+Barlad: 45 \ miercuri \ 09:11:2022 \ 19:24:07
+[' Răsarit = 07:01:29 Apus = 16:44:52 Min (°C) = 6.51 Max (°C) =16.01 Presiune = 1023 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 144 Stare = cer senin']
+Barlad: 45 \ joi \ 10:11:2022 \ 19:23:10
+[' Răsarit = 07:02:56 Apus = 16:43:37 Min (°C) = 6.31 Max (°C) =16.27 Presiune = 1025 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 2.53 Unghiul vântului = 159 Stare = cer senin']
+Barlad: 45 \ vineri \ 11:11:2022 \ 19:23:59
+[' Răsarit = 07:04:23 Apus = 16:42:24 Min (°C) = 9.89 Max (°C) =13.56 Presiune = 1031 Umiditate (%) = 50 Index UV = 0 Viteza vântului = 4.71 Unghiul vântului = 357 Stare = nori 85-100%']
+Barlad: 45 \ sâmbătă \ 12:11:2022 \ 19:22:06
+[' Răsarit = 07:05:50 Apus = 16:41:13 Min (°C) = 6.99 Max (°C) =13.85 Presiune = 1032 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.62 Unghiul vântului = 200 Stare = nori 85-100%']
+Barlad: 45 \ duminică \ 13:11:2022 \ 19:26:09
+[' Răsarit = 07:07:17 Apus = 16:40:04 Min (°C) = 6.22 Max (°C) =15.24 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 357 Stare = nori 10-25%']
+Barlad: 46 \ luni \ 14:11:2022 \ 19:24:00
+[' Răsarit = 07:08:43 Apus = 16:38:56 Min (°C) = 5.56 Max (°C) =12.68 Presiune = 1026 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 76 Stare = nori 10-25%']
+Barlad: 46 \ marți \ 15:11:2022 \ 19:27:03
+[' Răsarit = 07:10:09 Apus = 16:37:51 Min (°C) = 4.11 Max (°C) =12.07 Presiune = 1015 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.27 Unghiul vântului = 175 Stare = nori 50-85%']
+Barlad: 46 \ miercuri \ 16:11:2022 \ 19:21:48
+[' Răsarit = 07:11:34 Apus = 16:36:48 Min (°C) = 3.72 Max (°C) =12.55 Presiune = 1004 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 202 Stare = nori 50-85%']
+Barlad: 46 \ joi \ 17:11:2022 \ 19:19:54
+[' Răsarit = 07:12:59 Apus = 16:35:47 Min (°C) = 5.62 Max (°C) =10.04 Presiune = 1001 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 6.44 Unghiul vântului = 326 Stare = nori 85-100%']
+Barlad: 46 \ vineri \ 18:11:2022 \ 19:22:25
+[' Răsarit = 07:14:24 Apus = 16:34:48 Min (°C) = 2.25 Max (°C) =10.77 Presiune = 1002 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.69 Unghiul vântului = 133 Stare = nori 85-100%']
+Barlad: 46 \ sâmbătă \ 19:11:2022 \ 19:28:18
+[' Răsarit = 07:15:47 Apus = 16:33:51 Min (°C) = 4.78 Max (°C) =10.34 Presiune = 1016 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 77 Stare = nori 85-100%']
+Barlad: 46 \ duminică \ 20:11:2022 \ 19:19:51
+[' Răsarit = 07:17:11 Apus = 16:32:57 Min (°C) = 3.39 Max (°C) =5.38 Presiune = 1011 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.77 Unghiul vântului = 31 Stare = nori 85-100%']
+Barlad: 47 \ luni \ 21:11:2022 \ 19:22:20
+[' Răsarit = 07:18:33 Apus = 16:32:04 Min (°C) = 3.22 Max (°C) =5.3 Presiune = 1006 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.44 Unghiul vântului = 326 Stare = nori 85-100%']
+Barlad: 47 \ marți \ 22:11:2022 \ 19:22:51
+[' Răsarit = 07:19:55 Apus = 16:31:14 Min (°C) = 1.57 Max (°C) =8.03 Presiune = 1012 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 1.5 Unghiul vântului = 102 Stare = cer senin']
+Barlad: 47 \ miercuri \ 23:11:2022 \ 19:26:30
+[' Răsarit = 07:21:16 Apus = 16:30:27 Min (°C) = 3.58 Max (°C) =9.45 Presiune = 1003 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.04 Unghiul vântului = 279 Stare = nori 85-100%']
+Barlad: 47 \ joi \ 24:11:2022 \ 19:24:02
+[' Răsarit = 07:22:36 Apus = 16:29:41 Min (°C) = 5.24 Max (°C) =9.35 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.19 Unghiul vântului = 341 Stare = nori 85-100%']
+Barlad: 47 \ vineri \ 25:11:2022 \ 19:23:25
+[' Răsarit = 07:23:55 Apus = 16:28:58 Min (°C) = 3.04 Max (°C) =7.15 Presiune = 1019 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 6.21 Unghiul vântului = 334 Stare = nori 85-100%']
+Barlad: 47 \ sâmbătă \ 26:11:2022 \ 19:19:30
+[' Răsarit = 07:25:13 Apus = 16:28:17 Min (°C) = 1.29 Max (°C) =6.48 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 3.95 Unghiul vântului = 328 Stare = nori 50-85%']
+Barlad: 47 \ duminică \ 27:11:2022 \ 19:25:18
+[' Răsarit = 07:26:30 Apus = 16:27:39 Min (°C) = 3.84 Max (°C) =6.44 Presiune = 1028 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.9 Unghiul vântului = 3 Stare = nori 85-100%']
+Barlad: 48 \ luni \ 28:11:2022 \ 19:19:53
+[' Răsarit = 07:27:46 Apus = 16:27:03 Min (°C) = 2.7 Max (°C) =4.76 Presiune = 1026 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.02 Unghiul vântului = 32 Stare = nori 85-100%']
+Barlad: 48 \ marți \ 29:11:2022 \ 19:19:29
+[' Răsarit = 07:29:01 Apus = 16:26:30 Min (°C) = 1.76 Max (°C) =3.94 Presiune = 1025 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.19 Unghiul vântului = 1 Stare = nori 85-100%']
+Barlad: 48 \ miercuri \ 30:11:2022 \ 19:24:01
+[' Răsarit = 07:30:14 Apus = 16:25:59 Min (°C) = 2.64 Max (°C) =4.7 Presiune = 1027 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.86 Unghiul vântului = 31 Stare = nori 85-100%']
+Barlad: 48 \ joi \ 01:12:2022 \ 19:19:36
+[' Răsarit = 07:31:26 Apus = 16:25:31 Min (°C) = -0.47 Max (°C) =3.46 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.18 Unghiul vântului = 5 Stare = nori 85-100%']
+Barlad: 48 \ vineri \ 02:12:2022 \ 19:25:31
+[' Răsarit = 07:32:37 Apus = 16:25:05 Min (°C) = 0.42 Max (°C) =2.98 Presiune = 1027 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.35 Unghiul vântului = 32 Stare = nori 85-100%']
+Barlad: 48 \ sâmbătă \ 03:12:2022 \ 19:23:49
+[' Răsarit = 07:33:46 Apus = 16:24:42 Min (°C) = 1.04 Max (°C) =4.49 Presiune = 1031 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 84 Stare = nori 85-100%']
+Barlad: 48 \ duminică \ 04:12:2022 \ 19:22:59
+[' Răsarit = 07:34:54 Apus = 16:24:22 Min (°C) = 1.57 Max (°C) =2.69 Presiune = 1033 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 4.79 Unghiul vântului = 98 Stare = nori 85-100%']
+Barlad: 49 \ luni \ 05:12:2022 \ 19:24:39
+[' Răsarit = 07:36:00 Apus = 16:24:04 Min (°C) = 0.63 Max (°C) =2.49 Presiune = 1029 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 4.58 Unghiul vântului = 112 Stare = nori 85-100%']
+Barlad: 49 \ marți \ 06:12:2022 \ 19:23:46
+[' Răsarit = 07:37:04 Apus = 16:23:49 Min (°C) = 1.22 Max (°C) =4.42 Presiune = 1020 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.86 Unghiul vântului = 143 Stare = nori 85-100%']
+Barlad: 49 \ miercuri \ 07:12:2022 \ 19:21:02
+[' Răsarit = 07:38:06 Apus = 16:23:37 Min (°C) = 3.97 Max (°C) =8.51 Presiune = 1014 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.11 Unghiul vântului = 168 Stare = nori 85-100%']
+Barlad: 49 \ joi \ 08:12:2022 \ 19:25:40
+[' Răsarit = 07:39:07 Apus = 16:23:27 Min (°C) = 3.85 Max (°C) =8.18 Presiune = 1016 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.73 Unghiul vântului = 129 Stare = nori 50-85%']
+Barlad: 49 \ vineri \ 09:12:2022 \ 19:31:53
+[' Răsarit = 07:40:06 Apus = 16:23:20 Min (°C) = 3.2 Max (°C) =10.51 Presiune = 1012 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.03 Unghiul vântului = 157 Stare = nori 85-100%']
+Barlad: 49 \ sâmbătă \ 10:12:2022 \ 19:22:50
+[' Răsarit = 07:41:03 Apus = 16:23:16 Min (°C) = 6.51 Max (°C) =13.36 Presiune = 1003 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 146 Stare = nori 50-85%']
+Barlad: 49 \ duminică \ 11:12:2022 \ 19:23:31
+[' Răsarit = 07:41:58 Apus = 16:23:14 Min (°C) = 8.24 Max (°C) =15.51 Presiune = 996 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 3.4 Unghiul vântului = 256 Stare = nori 85-100%']
+Barlad: 50 \ luni \ 12:12:2022 \ 19:20:53
+[' Răsarit = 07:42:51 Apus = 16:23:15 Min (°C) = 2.71 Max (°C) =7.73 Presiune = 1007 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.28 Unghiul vântului = 147 Stare = nori 85-100%']
+Barlad: 50 \ marți \ 13:12:2022 \ 19:22:39
+[' Răsarit = 07:43:41 Apus = 16:23:19 Min (°C) = -0.8 Max (°C) =3.43 Presiune = 1016 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 345 Stare = cer senin']
+Barlad: 50 \ miercuri \ 14:12:2022 \ 19:27:34
+[' Răsarit = 07:44:30 Apus = 16:23:26 Min (°C) = -2.59 Max (°C) =3.2 Presiune = 1016 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 135 Stare = nori 50-85%']
+Barlad: 50 \ joi \ 15:12:2022 \ 19:29:48
+[' Răsarit = 07:45:16 Apus = 16:23:35 Min (°C) = 3.64 Max (°C) =7.46 Presiune = 1015 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 110 Stare = nori 10-25%']
+Barlad: 50 \ vineri \ 16:12:2022 \ 19:22:43
+[' Răsarit = 07:46:00 Apus = 16:23:47 Min (°C) = 3.57 Max (°C) =9.1 Presiune = 1011 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.72 Unghiul vântului = 173 Stare = nori 85-100%']
+Barlad: 50 \ sâmbătă \ 17:12:2022 \ 19:22:55
+[' Răsarit = 07:46:42 Apus = 16:24:02 Min (°C) = 5.86 Max (°C) =14.72 Presiune = 1016 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.28 Unghiul vântului = 349 Stare = nori 85-100%']
+Barlad: 50 \ duminică \ 18:12:2022 \ 19:22:07
+[' Răsarit = 07:47:22 Apus = 16:24:20 Min (°C) = -1.44 Max (°C) =4.12 Presiune = 1037 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 4.39 Unghiul vântului = 346 Stare = nori 25-50%']
+Barlad: 51 \ luni \ 19:12:2022 \ 19:24:50
+[' Răsarit = 07:47:59 Apus = 16:24:40 Min (°C) = -4.34 Max (°C) =0.5 Presiune = 1043 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 1.02 Unghiul vântului = 33 Stare = cer senin']
+Barlad: 51 \ marți \ 20:12:2022 \ 19:20:20
+[' Răsarit = 07:48:33 Apus = 16:25:03 Min (°C) = -4.76 Max (°C) =2.05 Presiune = 1028 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 5.95 Unghiul vântului = 185 Stare = nori 50-85%']
+Barlad: 51 \ miercuri \ 21:12:2022 \ 19:20:02
+[' Răsarit = 07:49:05 Apus = 16:25:28 Min (°C) = -1.69 Max (°C) =5.28 Presiune = 1020 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 3.76 Unghiul vântului = 170 Stare = nori 10-25%']
+Barlad: 51 \ joi \ 22:12:2022 \ 19:22:00
+[' Răsarit = 07:49:35 Apus = 16:25:56 Min (°C) = 0.03 Max (°C) =5.06 Presiune = 1015 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 177 Stare = nori 85-100%']
+Barlad: 51 \ vineri \ 23:12:2022 \ 19:21:46
+[' Răsarit = 07:50:02 Apus = 16:26:27 Min (°C) = 0.84 Max (°C) =6.23 Presiune = 1014 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.63 Unghiul vântului = 159 Stare = nori 50-85%']
+Barlad: 51 \ sâmbătă \ 24:12:2022 \ 19:23:50
+[' Răsarit = 07:50:27 Apus = 16:27:00 Min (°C) = 1.67 Max (°C) =7.13 Presiune = 1012 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 258 Stare = nori 85-100%']
+Barlad: 51 \ duminică \ 25:12:2022 \ 19:24:55
+[' Răsarit = 07:50:49 Apus = 16:27:36 Min (°C) = 4.32 Max (°C) =7.92 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 6.16 Unghiul vântului = 347 Stare = nori 50-85%']
+Barlad: 52 \ luni \ 26:12:2022 \ 19:25:37
+[' Răsarit = 07:51:08 Apus = 16:28:14 Min (°C) = 1.3 Max (°C) =6.94 Presiune = 1023 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 3.88 Unghiul vântului = 178 Stare = nori 85-100%']
+Barlad: 52 \ marți \ 27:12:2022 \ 19:27:28
+[' Răsarit = 07:51:25 Apus = 16:28:55 Min (°C) = 3.83 Max (°C) =10.21 Presiune = 1022 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 7.23 Unghiul vântului = 341 Stare = nori 50-85%']
+Barlad: 52 \ miercuri \ 28:12:2022 \ 19:22:59
+[' Răsarit = 07:51:39 Apus = 16:29:38 Min (°C) = 1.16 Max (°C) =6.62 Presiune = 1029 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.83 Unghiul vântului = 171 Stare = cer senin']
+Barlad: 52 \ joi \ 29:12:2022 \ 19:25:30
+[' Răsarit = 07:51:50 Apus = 16:30:24 Min (°C) = -0.71 Max (°C) =7.06 Presiune = 1022 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.41 Unghiul vântului = 186 Stare = nori 50-85%']
+Barlad: 52 \ vineri \ 30:12:2022 \ 19:19:52
+[' Răsarit = 07:51:59 Apus = 16:31:12 Min (°C) = 2.23 Max (°C) =12.06 Presiune = 1023 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.98 Unghiul vântului = 280 Stare = nori 25-50%']
+Barlad: 52 \ sâmbătă \ 31:12:2022 \ 19:25:49
+[' Răsarit = 07:52:05 Apus = 16:32:02 Min (°C) = 5.31 Max (°C) =12.73 Presiune = 1027 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 202 Stare = nori 25-50%']
+Barlad: 00 \ duminică \ 01:1:2023 \ 19:26:42
+[' Răsarit = 07:52:08 Apus = 16:32:54 Min (°C) = 6.68 Max (°C) =13.88 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 208 Stare = nori 25-50%']
+Barlad: 01 \ luni \ 02:1:2023 \ 19:27:10
+[' Răsarit = 07:52:09 Apus = 16:33:49 Min (°C) = 6.98 Max (°C) =13.97 Presiune = 1025 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.83 Unghiul vântului = 180 Stare = cer senin']
+Barlad: 01 \ marți \ 03:1:2023 \ 19:29:32
+[' Răsarit = 07:52:06 Apus = 16:34:45 Min (°C) = 7.33 Max (°C) =14.54 Presiune = 1026 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 337 Stare = nori 85-100%']
+Barlad: 01 \ miercuri \ 04:1:2023 \ 19:26:13
+[' Răsarit = 07:52:02 Apus = 16:35:44 Min (°C) = 3.97 Max (°C) =9.7 Presiune = 1028 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 1.26 Unghiul vântului = 179 Stare = nori 10-25%']
+Barlad: 01 \ joi \ 05:1:2023 \ 19:27:26
+[' Răsarit = 07:51:54 Apus = 16:36:45 Min (°C) = 2.57 Max (°C) =10.52 Presiune = 1011 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 4.97 Unghiul vântului = 264 Stare = nori 85-100%']
+Barlad: 01 \ vineri \ 06:1:2023 \ 19:35:35
+[' Răsarit = 07:51:44 Apus = 16:37:47 Min (°C) = 2.7 Max (°C) =7.76 Presiune = 1025 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 3.16 Unghiul vântului = 344 Stare = nori 50-85%']
+Barlad: 01 \ sâmbătă \ 07:1:2023 \ 19:21:50
+[' Răsarit = 07:51:31 Apus = 16:38:52 Min (°C) = 0.6 Max (°C) =5.05 Presiune = 1025 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 123 Stare = nori 50-85%']
+Barlad: 01 \ duminică \ 08:1:2023 \ 19:25:50
+[' Răsarit = 07:51:16 Apus = 16:39:58 Min (°C) = 1.93 Max (°C) =3.23 Presiune = 1024 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 6.55 Unghiul vântului = 128 Stare = nori 85-100%']
+Barlad: 02 \ luni \ 09:1:2023 \ 19:25:07
+[' Răsarit = 07:50:58 Apus = 16:41:06 Min (°C) = 4.25 Max (°C) =8.21 Presiune = 1017 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 8.84 Unghiul vântului = 153 Stare = nori 85-100%']
+Barlad: 02 \ marți \ 10:1:2023 \ 19:26:50
+[' Răsarit = 07:50:37 Apus = 16:42:16 Min (°C) = 5.68 Max (°C) =8.59 Presiune = 1015 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 133 Stare = ploaie ușoară']
+Barlad: 02 \ miercuri \ 11:1:2023 \ 19:27:34
+[' Răsarit = 07:50:14 Apus = 16:43:27 Min (°C) = 1.92 Max (°C) =7.58 Presiune = 1025 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.5 Unghiul vântului = 61 Stare = nori 85-100%']
+Barlad: 02 \ joi \ 12:1:2023 \ 19:24:13
+[' Răsarit = 07:49:48 Apus = 16:44:40 Min (°C) = 0.11 Max (°C) =1.86 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 74 Stare = nori 85-100%']
+Barlad: 02 \ vineri \ 13:1:2023 \ 19:29:45
+[' Răsarit = 07:49:20 Apus = 16:45:54 Min (°C) = 0.51 Max (°C) =5 Presiune = 1022 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.77 Unghiul vântului = 164 Stare = nori 50-85%']
+Barlad: 02 \ sâmbătă \ 14:1:2023 \ 19:26:09
+[' Răsarit = 07:48:49 Apus = 16:47:10 Min (°C) = 3.03 Max (°C) =4.71 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 97 Stare = nori 85-100%']
+Barlad: 02 \ duminică \ 15:1:2023 \ 19:26:39
+[' Răsarit = 07:48:16 Apus = 16:48:27 Min (°C) = 2.93 Max (°C) =6.53 Presiune = 1017 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 7.19 Unghiul vântului = 174 Stare = nori 25-50%']
+Barlad: 03 \ luni \ 16:1:2023 \ 19:23:52
+[' Răsarit = 07:47:40 Apus = 16:49:45 Min (°C) = 3.16 Max (°C) =6.89 Presiune = 1007 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 7.6 Unghiul vântului = 173 Stare = nori 85-100%']
+Barlad: 03 \ marți \ 17:1:2023 \ 19:26:01
+[' Răsarit = 07:47:02 Apus = 16:51:05 Min (°C) = 5.24 Max (°C) =10.62 Presiune = 1001 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5.47 Unghiul vântului = 176 Stare = nori 25-50%']
+Barlad: 03 \ miercuri \ 18:1:2023 \ 19:26:15
+[' Răsarit = 07:46:21 Apus = 16:52:25 Min (°C) = 7.17 Max (°C) =14.63 Presiune = 1004 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 5.83 Unghiul vântului = 206 Stare = nori 50-85%']
+Barlad: 03 \ joi \ 19:1:2023 \ 19:23:27
+[' Răsarit = 07:45:38 Apus = 16:53:47 Min (°C) = 9.36 Max (°C) =15.97 Presiune = 1006 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 7.19 Unghiul vântului = 183 Stare = nori 50-85%']
+Barlad: 03 \ vineri \ 20:1:2023 \ 19:25:39
+[' Răsarit = 07:44:52 Apus = 16:55:10 Min (°C) = 10.29 Max (°C) =15.57 Presiune = 1007 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 6.26 Unghiul vântului = 138 Stare = nori 50-85%']
+Barlad: 03 \ sâmbătă \ 21:1:2023 \ 19:23:34
+[' Răsarit = 07:44:05 Apus = 16:56:33 Min (°C) = 3.87 Max (°C) =11.62 Presiune = 1018 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 2.09 Unghiul vântului = 108 Stare = cer senin']
+Barlad: 04 \ luni \ 23:1:2023 \ 17:14:11
+[' Răsarit = 07:42:22 Apus = 16:59:23 Min (°C) = 1.5 Max (°C) =6.84 Presiune = 1032 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.95 Unghiul vântului = 23 Stare = cer senin']
+Barlad: 04 \ marți \ 24:1:2023 \ 20:11:06
+[' Răsarit = 07:41:28 Apus = 17:00:49 Min (°C) = 0.32 Max (°C) =3.25 Presiune = 1034 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 3.62 Unghiul vântului = 5 Stare = nori 85-100%']
+Barlad: 04 \ miercuri \ 25:1:2023 \ 22:01:00
+[' Răsarit = 07:40:31 Apus = 17:02:16 Min (°C) = -2.08 Max (°C) =2.31 Presiune = 1030 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.17 Unghiul vântului = 80 Stare = nori 85-100%']

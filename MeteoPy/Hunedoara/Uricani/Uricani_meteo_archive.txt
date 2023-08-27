@@ -1268,3 +1268,169 @@ Uricani: 44 \ marți \ 01:11:2022 \ 19:01:27
 [' Răsarit = 07:06:03 Apus = 17:15:46 Min (°C) = 11.63 Max (°C) =21.68 Presiune = 1023 Umiditate (%) = 54 Index UV = 0 Viteza vântului = 0.31 Unghiul vântului = 323 Stare = nori 10-25%']
 Uricani: 44 \ miercuri \ 02:11:2022 \ 19:02:03
 [' Răsarit = 07:07:27 Apus = 17:14:21 Min (°C) = 10.53 Max (°C) =19.46 Presiune = 1021 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 346 Stare = nori 50-85%']
+Uricani: 44 \ joi \ 03:11:2022 \ 19:01:15
+[' Răsarit = 07:08:52 Apus = 17:12:57 Min (°C) = 8.62 Max (°C) =14.96 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 160 Stare = nori 25-50%']
+Uricani: 44 \ vineri \ 04:11:2022 \ 19:01:26
+[' Răsarit = 07:10:16 Apus = 17:11:35 Min (°C) = 6.51 Max (°C) =13.13 Presiune = 1013 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 152 Stare = nori 85-100%']
+Uricani: 44 \ sâmbătă \ 05:11:2022 \ 19:01:32
+[' Răsarit = 07:11:41 Apus = 17:10:14 Min (°C) = 8.97 Max (°C) =16.12 Presiune = 1013 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 0.7 Unghiul vântului = 172 Stare = nori 85-100%']
+Uricani: 44 \ duminică \ 06:11:2022 \ 19:01:24
+[' Răsarit = 07:13:05 Apus = 17:08:55 Min (°C) = 8.55 Max (°C) =14.58 Presiune = 1018 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.45 Unghiul vântului = 178 Stare = nori 85-100%']
+Uricani: 45 \ luni \ 07:11:2022 \ 19:01:25
+[' Răsarit = 07:14:30 Apus = 17:07:38 Min (°C) = 8.2 Max (°C) =11.35 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 357 Stare = nori 85-100%']
+Uricani: 45 \ marți \ 08:11:2022 \ 19:01:29
+[' Răsarit = 07:15:54 Apus = 17:06:23 Min (°C) = 8.15 Max (°C) =13.69 Presiune = 1022 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.24 Unghiul vântului = 52 Stare = nori 50-85%']
+Uricani: 45 \ miercuri \ 09:11:2022 \ 19:01:14
+[' Răsarit = 07:17:19 Apus = 17:05:09 Min (°C) = 6.58 Max (°C) =13.03 Presiune = 1023 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 153 Stare = nori 50-85%']
+Uricani: 45 \ joi \ 10:11:2022 \ 19:01:30
+[' Răsarit = 07:18:43 Apus = 17:03:57 Min (°C) = 6.14 Max (°C) =15.01 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 1.65 Unghiul vântului = 341 Stare = nori 85-100%']
+Uricani: 45 \ vineri \ 11:11:2022 \ 19:01:18
+[' Răsarit = 07:20:08 Apus = 17:02:46 Min (°C) = 6.56 Max (°C) =11.64 Presiune = 1033 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 344 Stare = nori 50-85%']
+Uricani: 45 \ sâmbătă \ 12:11:2022 \ 19:01:38
+[' Răsarit = 07:21:32 Apus = 17:01:38 Min (°C) = 4.75 Max (°C) =10.41 Presiune = 1034 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 35 Stare = nori 10-25%']
+Uricani: 45 \ duminică \ 13:11:2022 \ 19:01:19
+[' Răsarit = 07:22:56 Apus = 17:00:32 Min (°C) = 4.21 Max (°C) =12.55 Presiune = 1029 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 0.33 Unghiul vântului = 183 Stare = nori 10-25%']
+Uricani: 46 \ luni \ 14:11:2022 \ 19:01:15
+[' Răsarit = 07:24:19 Apus = 16:59:27 Min (°C) = 5.79 Max (°C) =12.11 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 160 Stare = nori 85-100%']
+Uricani: 46 \ marți \ 15:11:2022 \ 19:01:47
+[' Răsarit = 07:25:42 Apus = 16:58:25 Min (°C) = 4.18 Max (°C) =11.64 Presiune = 1016 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 143 Stare = nori 50-85%']
+Uricani: 46 \ miercuri \ 16:11:2022 \ 19:01:18
+[' Răsarit = 07:27:05 Apus = 16:57:24 Min (°C) = 5.79 Max (°C) =11.95 Presiune = 1005 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.46 Unghiul vântului = 167 Stare = nori 85-100%']
+Uricani: 46 \ joi \ 17:11:2022 \ 19:01:32
+[' Răsarit = 07:28:28 Apus = 16:56:26 Min (°C) = 4.61 Max (°C) =9.28 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.1 Unghiul vântului = 358 Stare = nori 50-85%']
+Uricani: 46 \ vineri \ 18:11:2022 \ 19:01:27
+[' Răsarit = 07:29:50 Apus = 16:55:29 Min (°C) = 4.68 Max (°C) =8.65 Presiune = 1000 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 193 Stare = nori 85-100%']
+Uricani: 46 \ sâmbătă \ 19:11:2022 \ 19:01:19
+[' Răsarit = 07:31:11 Apus = 16:54:35 Min (°C) = 5.35 Max (°C) =8.75 Presiune = 1013 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.83 Unghiul vântului = 131 Stare = nori 85-100%']
+Uricani: 46 \ duminică \ 20:11:2022 \ 19:01:21
+[' Răsarit = 07:32:32 Apus = 16:53:43 Min (°C) = 4.84 Max (°C) =7.71 Presiune = 1010 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 0.93 Unghiul vântului = 168 Stare = nori 85-100%']
+Uricani: 47 \ luni \ 21:11:2022 \ 19:01:49
+[' Răsarit = 07:33:52 Apus = 16:52:53 Min (°C) = 1.55 Max (°C) =6.71 Presiune = 1009 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 345 Stare = nori 85-100%']
+Uricani: 47 \ marți \ 22:11:2022 \ 19:01:20
+[' Răsarit = 07:35:12 Apus = 16:52:05 Min (°C) = -0.07 Max (°C) =5.9 Presiune = 1010 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.92 Unghiul vântului = 158 Stare = nori 85-100%']
+Uricani: 47 \ miercuri \ 23:11:2022 \ 19:01:31
+[' Răsarit = 07:36:30 Apus = 16:51:20 Min (°C) = 3.01 Max (°C) =7.21 Presiune = 1005 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 0.72 Unghiul vântului = 156 Stare = nori 85-100%']
+Uricani: 47 \ joi \ 24:11:2022 \ 19:01:26
+[' Răsarit = 07:37:48 Apus = 16:50:36 Min (°C) = 2.06 Max (°C) =5.63 Presiune = 1012 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 2.47 Unghiul vântului = 347 Stare = nori 85-100%']
+Uricani: 47 \ vineri \ 25:11:2022 \ 19:01:26
+[' Răsarit = 07:39:05 Apus = 16:49:55 Min (°C) = -0.96 Max (°C) =4.09 Presiune = 1022 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.81 Unghiul vântului = 348 Stare = nori 50-85%']
+Uricani: 47 \ sâmbătă \ 26:11:2022 \ 19:01:25
+[' Răsarit = 07:40:21 Apus = 16:49:17 Min (°C) = -1.59 Max (°C) =5.1 Presiune = 1028 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 351 Stare = nori 50-85%']
+Uricani: 47 \ duminică \ 27:11:2022 \ 19:01:30
+[' Răsarit = 07:41:36 Apus = 16:48:41 Min (°C) = -0.51 Max (°C) =3.24 Presiune = 1028 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.48 Unghiul vântului = 127 Stare = nori 85-100%']
+Uricani: 48 \ luni \ 28:11:2022 \ 19:01:33
+[' Răsarit = 07:42:50 Apus = 16:48:07 Min (°C) = -1.96 Max (°C) =2.23 Presiune = 1025 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.68 Unghiul vântului = 173 Stare = nori 50-85%']
+Uricani: 48 \ marți \ 29:11:2022 \ 19:01:20
+[' Răsarit = 07:44:02 Apus = 16:47:36 Min (°C) = -2.21 Max (°C) =3.6 Presiune = 1024 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 0.92 Unghiul vântului = 161 Stare = nori 50-85%']
+Uricani: 48 \ miercuri \ 30:11:2022 \ 19:01:33
+[' Răsarit = 07:45:14 Apus = 16:47:07 Min (°C) = 1.44 Max (°C) =3.18 Presiune = 1025 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 162 Stare = nori 85-100%']
+Uricani: 48 \ joi \ 01:12:2022 \ 19:01:23
+[' Răsarit = 07:46:24 Apus = 16:46:41 Min (°C) = 0.56 Max (°C) =3.67 Presiune = 1023 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1 Unghiul vântului = 161 Stare = zăpadă slabă']
+Uricani: 48 \ vineri \ 02:12:2022 \ 19:01:13
+[' Răsarit = 07:47:33 Apus = 16:46:17 Min (°C) = 0.8 Max (°C) =3.29 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 161 Stare = nori 85-100%']
+Uricani: 48 \ sâmbătă \ 03:12:2022 \ 19:01:39
+[' Răsarit = 07:48:40 Apus = 16:45:55 Min (°C) = 1.92 Max (°C) =4.26 Presiune = 1028 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 157 Stare = nori 85-100%']
+Uricani: 48 \ duminică \ 04:12:2022 \ 19:01:07
+[' Răsarit = 07:49:46 Apus = 16:45:37 Min (°C) = 1.84 Max (°C) =2.95 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 165 Stare = nori 85-100%']
+Uricani: 49 \ luni \ 05:12:2022 \ 19:02:03
+[' Răsarit = 07:50:51 Apus = 16:45:20 Min (°C) = 1.07 Max (°C) =2.58 Presiune = 1026 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 162 Stare = nori 85-100%']
+Uricani: 49 \ marți \ 06:12:2022 \ 19:01:33
+[' Răsarit = 07:51:54 Apus = 16:45:07 Min (°C) = 1.84 Max (°C) =3.3 Presiune = 1019 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 167 Stare = nori 85-100%']
+Uricani: 49 \ miercuri \ 07:12:2022 \ 19:01:18
+[' Răsarit = 07:52:55 Apus = 16:44:56 Min (°C) = 1.5 Max (°C) =5.39 Presiune = 1015 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 353 Stare = ploaie ușoară']
+Uricani: 49 \ joi \ 08:12:2022 \ 19:01:36
+[' Răsarit = 07:53:54 Apus = 16:44:48 Min (°C) = 1.96 Max (°C) =4.13 Presiune = 1015 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 180 Stare = nori 85-100%']
+Uricani: 49 \ vineri \ 09:12:2022 \ 19:01:04
+[' Răsarit = 07:54:52 Apus = 16:44:42 Min (°C) = 3.13 Max (°C) =7.43 Presiune = 1011 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 147 Stare = nori 85-100%']
+Uricani: 49 \ sâmbătă \ 10:12:2022 \ 19:01:19
+[' Răsarit = 07:55:47 Apus = 16:44:39 Min (°C) = 6.02 Max (°C) =8.4 Presiune = 1002 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.69 Unghiul vântului = 155 Stare = nori 85-100%']
+Uricani: 49 \ duminică \ 11:12:2022 \ 19:01:03
+[' Răsarit = 07:56:41 Apus = 16:44:38 Min (°C) = 1.17 Max (°C) =8.64 Presiune = 1001 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.08 Unghiul vântului = 341 Stare = nori 85-100%']
+Uricani: 50 \ luni \ 12:12:2022 \ 19:01:24
+[' Răsarit = 07:57:33 Apus = 16:44:40 Min (°C) = -4.16 Max (°C) =1.79 Presiune = 1011 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.65 Unghiul vântului = 345 Stare = nori 85-100%']
+Uricani: 50 \ marți \ 13:12:2022 \ 19:01:15
+[' Răsarit = 07:58:23 Apus = 16:44:45 Min (°C) = -5.27 Max (°C) =-0.66 Presiune = 1016 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 0.32 Unghiul vântului = 141 Stare = cer senin']
+Uricani: 50 \ miercuri \ 14:12:2022 \ 19:01:56
+[' Răsarit = 07:59:11 Apus = 16:44:53 Min (°C) = -3.99 Max (°C) =-0.71 Presiune = 1014 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 159 Stare = zăpadă slabă']
+Uricani: 50 \ joi \ 15:12:2022 \ 19:01:31
+[' Răsarit = 07:59:56 Apus = 16:45:03 Min (°C) = -1.28 Max (°C) =7.71 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.16 Unghiul vântului = 1 Stare = nori 10-25%']
+Uricani: 50 \ vineri \ 16:12:2022 \ 19:01:24
+[' Răsarit = 08:00:40 Apus = 16:45:15 Min (°C) = 3.2 Max (°C) =7.38 Presiune = 1014 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 165 Stare = ploaie ușoară']
+Uricani: 50 \ sâmbătă \ 17:12:2022 \ 19:01:07
+[' Răsarit = 08:01:21 Apus = 16:45:31 Min (°C) = 3.49 Max (°C) =7.97 Presiune = 1020 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 354 Stare = nori 85-100%']
+Uricani: 50 \ duminică \ 18:12:2022 \ 19:01:07
+[' Răsarit = 08:02:00 Apus = 16:45:49 Min (°C) = -1.57 Max (°C) =3.14 Presiune = 1037 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.36 Unghiul vântului = 347 Stare = nori 50-85%']
+Uricani: 51 \ luni \ 19:12:2022 \ 19:01:18
+[' Răsarit = 08:02:37 Apus = 16:46:09 Min (°C) = -3.19 Max (°C) =-0.67 Presiune = 1041 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.95 Unghiul vântului = 165 Stare = nori 50-85%']
+Uricani: 51 \ marți \ 20:12:2022 \ 19:01:25
+[' Răsarit = 08:03:11 Apus = 16:46:32 Min (°C) = -3.7 Max (°C) =1.81 Presiune = 1031 Umiditate (%) = 40 Index UV = 0 Viteza vântului = 0.86 Unghiul vântului = 168 Stare = nori 85-100%']
+Uricani: 51 \ miercuri \ 21:12:2022 \ 19:01:42
+[' Răsarit = 08:03:43 Apus = 16:46:58 Min (°C) = 0.24 Max (°C) =7.67 Presiune = 1020 Umiditate (%) = 52 Index UV = 0 Viteza vântului = 0.1 Unghiul vântului = 333 Stare = nori 10-25%']
+Uricani: 51 \ joi \ 22:12:2022 \ 19:01:31
+[' Răsarit = 08:04:13 Apus = 16:47:26 Min (°C) = 2.94 Max (°C) =6.91 Presiune = 1017 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.8 Unghiul vântului = 341 Stare = nori 50-85%']
+Uricani: 51 \ vineri \ 23:12:2022 \ 19:01:24
+[' Răsarit = 08:04:40 Apus = 16:47:57 Min (°C) = 3.3 Max (°C) =8.29 Presiune = 1016 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 356 Stare = nori 25-50%']
+Uricani: 51 \ sâmbătă \ 24:12:2022 \ 19:01:17
+[' Răsarit = 08:05:05 Apus = 16:48:30 Min (°C) = 4.83 Max (°C) =6.75 Presiune = 1016 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.87 Unghiul vântului = 336 Stare = nori 85-100%']
+Uricani: 51 \ duminică \ 25:12:2022 \ 19:01:12
+[' Răsarit = 08:05:27 Apus = 16:49:06 Min (°C) = 2.65 Max (°C) =7.26 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.64 Unghiul vântului = 352 Stare = cer senin']
+Uricani: 52 \ luni \ 26:12:2022 \ 19:01:16
+[' Răsarit = 08:05:46 Apus = 16:49:44 Min (°C) = 3.3 Max (°C) =9.07 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.29 Unghiul vântului = 360 Stare = nori 85-100%']
+Uricani: 52 \ marți \ 27:12:2022 \ 19:01:30
+[' Răsarit = 08:06:03 Apus = 16:50:24 Min (°C) = 2.29 Max (°C) =8.33 Presiune = 1027 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.78 Unghiul vântului = 343 Stare = nori 50-85%']
+Uricani: 52 \ miercuri \ 28:12:2022 \ 19:01:13
+[' Răsarit = 08:06:18 Apus = 16:51:07 Min (°C) = 0.55 Max (°C) =4.15 Presiune = 1030 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 0.73 Unghiul vântului = 147 Stare = nori 25-50%']
+Uricani: 52 \ joi \ 29:12:2022 \ 19:01:21
+[' Răsarit = 08:06:30 Apus = 16:51:51 Min (°C) = 0.53 Max (°C) =6.84 Presiune = 1025 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 5 Stare = nori 25-50%']
+Uricani: 52 \ vineri \ 30:12:2022 \ 19:01:18
+[' Răsarit = 08:06:39 Apus = 16:52:39 Min (°C) = 3.46 Max (°C) =9.49 Presiune = 1025 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.01 Unghiul vântului = 347 Stare = nori 85-100%']
+Uricani: 52 \ sâmbătă \ 31:12:2022 \ 19:01:15
+[' Răsarit = 08:06:46 Apus = 16:53:28 Min (°C) = 5.27 Max (°C) =10.91 Presiune = 1030 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.31 Unghiul vântului = 351 Stare = nori 85-100%']
+Uricani: 00 \ duminică \ 01:1:2023 \ 19:01:21
+[' Răsarit = 08:06:50 Apus = 16:54:19 Min (°C) = 6.92 Max (°C) =14.13 Presiune = 1030 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 0.41 Unghiul vântului = 350 Stare = nori 25-50%']
+Uricani: 01 \ luni \ 02:1:2023 \ 19:01:14
+[' Răsarit = 08:06:52 Apus = 16:55:13 Min (°C) = 8.62 Max (°C) =14.85 Presiune = 1027 Umiditate (%) = 68 Index UV = 0 Viteza vântului = 0.38 Unghiul vântului = 354 Stare = nori 10-25%']
+Uricani: 01 \ marți \ 03:1:2023 \ 19:01:22
+[' Răsarit = 08:06:51 Apus = 16:56:08 Min (°C) = 6.85 Max (°C) =12.92 Presiune = 1026 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 349 Stare = nori 50-85%']
+Uricani: 01 \ miercuri \ 04:1:2023 \ 19:01:17
+[' Răsarit = 08:06:47 Apus = 16:57:06 Min (°C) = 4.16 Max (°C) =6.66 Presiune = 1029 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 244 Stare = nori 85-100%']
+Uricani: 01 \ joi \ 05:1:2023 \ 19:01:21
+[' Răsarit = 08:06:41 Apus = 16:58:05 Min (°C) = 2.21 Max (°C) =9.6 Presiune = 1016 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 3.8 Unghiul vântului = 327 Stare = ploaie ușoară']
+Uricani: 01 \ vineri \ 06:1:2023 \ 19:01:35
+[' Răsarit = 08:06:32 Apus = 16:59:07 Min (°C) = 2.21 Max (°C) =5.81 Presiune = 1025 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 348 Stare = nori 50-85%']
+Uricani: 01 \ sâmbătă \ 07:1:2023 \ 19:01:20
+[' Răsarit = 08:06:21 Apus = 17:00:10 Min (°C) = 2.2 Max (°C) =8.59 Presiune = 1023 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 358 Stare = nori 10-25%']
+Uricani: 01 \ duminică \ 08:1:2023 \ 19:01:26
+[' Răsarit = 08:06:07 Apus = 17:01:14 Min (°C) = 1.29 Max (°C) =5.96 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.22 Unghiul vântului = 154 Stare = nori 10-25%']
+Uricani: 02 \ luni \ 09:1:2023 \ 19:01:20
+[' Răsarit = 08:05:50 Apus = 17:02:21 Min (°C) = 0.77 Max (°C) =4.63 Presiune = 1014 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.96 Unghiul vântului = 162 Stare = nori 85-100%']
+Uricani: 02 \ marți \ 10:1:2023 \ 19:00:59
+[' Răsarit = 08:05:31 Apus = 17:03:29 Min (°C) = 1.84 Max (°C) =4.2 Presiune = 1009 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 2.58 Unghiul vântului = 350 Stare = ploaie ușoară']
+Uricani: 02 \ miercuri \ 11:1:2023 \ 19:00:56
+[' Răsarit = 08:05:10 Apus = 17:04:39 Min (°C) = 2.22 Max (°C) =3.3 Presiune = 1021 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.2 Unghiul vântului = 300 Stare = nori 85-100%']
+Uricani: 02 \ joi \ 12:1:2023 \ 19:01:13
+[' Răsarit = 08:04:46 Apus = 17:05:50 Min (°C) = 2.61 Max (°C) =3.61 Presiune = 1022 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 333 Stare = nori 85-100%']
+Uricani: 02 \ vineri \ 13:1:2023 \ 19:01:38
+[' Răsarit = 08:04:19 Apus = 17:07:02 Min (°C) = 2.3 Max (°C) =4.69 Presiune = 1022 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 164 Stare = nori 85-100%']
+Uricani: 02 \ sâmbătă \ 14:1:2023 \ 19:01:09
+[' Răsarit = 08:03:50 Apus = 17:08:16 Min (°C) = -0.28 Max (°C) =4.66 Presiune = 1023 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.37 Unghiul vântului = 339 Stare = nori 85-100%']
+Uricani: 02 \ duminică \ 15:1:2023 \ 19:01:08
+[' Răsarit = 08:03:19 Apus = 17:09:31 Min (°C) = 0.38 Max (°C) =3.12 Presiune = 1019 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.85 Unghiul vântului = 161 Stare = nori 50-85%']
+Uricani: 03 \ luni \ 16:1:2023 \ 19:00:55
+[' Răsarit = 08:02:45 Apus = 17:10:47 Min (°C) = 0.03 Max (°C) =3.51 Presiune = 1006 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.13 Unghiul vântului = 156 Stare = zăpadă slabă']
+Uricani: 03 \ marți \ 17:1:2023 \ 19:01:10
+[' Răsarit = 08:02:09 Apus = 17:12:05 Min (°C) = 0.85 Max (°C) =4.03 Presiune = 1001 Umiditate (%) = 96 Index UV = 0 Viteza vântului = 2.28 Unghiul vântului = 165 Stare = nori 85-100%']
+Uricani: 03 \ miercuri \ 18:1:2023 \ 19:01:06
+[' Răsarit = 08:01:30 Apus = 17:13:23 Min (°C) = 3.72 Max (°C) =7.03 Presiune = 1005 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.42 Unghiul vântului = 132 Stare = nori 50-85%']
+Uricani: 03 \ joi \ 19:1:2023 \ 19:00:56
+[' Răsarit = 08:00:49 Apus = 17:14:43 Min (°C) = 4.68 Max (°C) =7.19 Presiune = 1007 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 157 Stare = ploaie ușoară']
+Uricani: 03 \ vineri \ 20:1:2023 \ 19:01:30
+[' Răsarit = 08:00:06 Apus = 17:16:03 Min (°C) = 0.77 Max (°C) =6.05 Presiune = 1004 Umiditate (%) = 98 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 344 Stare = nori 85-100%']
+Uricani: 03 \ sâmbătă \ 21:1:2023 \ 19:01:09
+[' Răsarit = 07:59:21 Apus = 17:17:24 Min (°C) = -2 Max (°C) =5.38 Presiune = 1015 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 168 Stare = nori 50-85%']
+Uricani: 04 \ luni \ 23:1:2023 \ 16:49:41
+[' Răsarit = 07:57:43 Apus = 17:20:10 Min (°C) = 2.19 Max (°C) =5.59 Presiune = 1028 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.66 Unghiul vântului = 171 Stare = nori 85-100%']
+Uricani: 04 \ marți \ 24:1:2023 \ 19:49:49
+[' Răsarit = 07:56:51 Apus = 17:21:33 Min (°C) = -0.41 Max (°C) =1.71 Presiune = 1033 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 1.16 Unghiul vântului = 173 Stare = nori 85-100%']
+Uricani: 04 \ miercuri \ 25:1:2023 \ 21:35:51
+[' Răsarit = 07:55:57 Apus = 17:22:57 Min (°C) = -3.34 Max (°C) =0.05 Presiune = 1029 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2 Unghiul vântului = 166 Stare = nori 50-85%']

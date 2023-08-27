@@ -1270,3 +1270,169 @@ Sibiu: 44 \ marți \ 01:11:2022 \ 19:20:35
 [' Răsarit = 07:03:00 Apus = 17:10:53 Min (°C) = 7.04 Max (°C) =20.44 Presiune = 1022 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
 Sibiu: 44 \ miercuri \ 02:11:2022 \ 19:21:17
 [' Răsarit = 07:04:26 Apus = 17:09:26 Min (°C) = 9.04 Max (°C) =18.73 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 280 Stare = ceață']
+Sibiu: 44 \ joi \ 03:11:2022 \ 19:22:05
+[' Răsarit = 07:05:52 Apus = 17:08:01 Min (°C) = 5.04 Max (°C) =15.08 Presiune = 1021 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = nori 25-50%']
+Sibiu: 44 \ vineri \ 04:11:2022 \ 19:22:50
+[' Răsarit = 07:07:18 Apus = 17:06:38 Min (°C) = 6.69 Max (°C) =17.38 Presiune = 1011 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Sibiu: 44 \ sâmbătă \ 05:11:2022 \ 19:23:53
+[' Răsarit = 07:08:44 Apus = 17:05:16 Min (°C) = 9.77 Max (°C) =18.59 Presiune = 1012 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = cer senin']
+Sibiu: 44 \ duminică \ 06:11:2022 \ 19:17:20
+[' Răsarit = 07:10:10 Apus = 17:03:55 Min (°C) = 8.04 Max (°C) =17.89 Presiune = 1018 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 260 Stare = cer senin']
+Sibiu: 45 \ luni \ 07:11:2022 \ 19:17:18
+[' Răsarit = 07:11:36 Apus = 17:02:37 Min (°C) = 7.92 Max (°C) =16 Presiune = 1020 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 250 Stare = cer senin']
+Sibiu: 45 \ marți \ 08:11:2022 \ 19:17:20
+[' Răsarit = 07:13:02 Apus = 17:01:20 Min (°C) = 8.27 Max (°C) =13.26 Presiune = 1022 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 110 Stare = ceață']
+Sibiu: 45 \ miercuri \ 09:11:2022 \ 19:21:40
+[' Răsarit = 07:14:27 Apus = 17:00:04 Min (°C) = 4.04 Max (°C) =15.98 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = ceață']
+Sibiu: 45 \ joi \ 10:11:2022 \ 19:20:32
+[' Răsarit = 07:15:53 Apus = 16:58:51 Min (°C) = 6.99 Max (°C) =16.02 Presiune = 1025 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 240 Stare = nori 85-100%']
+Sibiu: 45 \ vineri \ 11:11:2022 \ 19:19:21
+[' Răsarit = 07:17:19 Apus = 16:57:39 Min (°C) = 7.75 Max (°C) =12.23 Presiune = 1032 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 140 Stare = nori 50-85%']
+Sibiu: 45 \ sâmbătă \ 12:11:2022 \ 19:17:26
+[' Răsarit = 07:18:44 Apus = 16:56:30 Min (°C) = 4.04 Max (°C) =12.22 Presiune = 1033 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 230 Stare = cer senin']
+Sibiu: 45 \ duminică \ 13:11:2022 \ 19:23:40
+[' Răsarit = 07:20:09 Apus = 16:55:22 Min (°C) = 2.04 Max (°C) =12.09 Presiune = 1029 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Sibiu: 46 \ luni \ 14:11:2022 \ 19:21:30
+[' Răsarit = 07:21:34 Apus = 16:54:16 Min (°C) = 3.04 Max (°C) =12.79 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 10-25%']
+Sibiu: 46 \ marți \ 15:11:2022 \ 19:20:15
+[' Răsarit = 07:22:59 Apus = 16:53:12 Min (°C) = 4.04 Max (°C) =13.46 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = nori 10-25%']
+Sibiu: 46 \ miercuri \ 16:11:2022 \ 19:19:20
+[' Răsarit = 07:24:23 Apus = 16:52:11 Min (°C) = 5.04 Max (°C) =11.86 Presiune = 1003 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 150 Stare = ceață']
+Sibiu: 46 \ joi \ 17:11:2022 \ 19:17:26
+[' Răsarit = 07:25:47 Apus = 16:51:11 Min (°C) = 6.04 Max (°C) =11.09 Presiune = 1003 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 270 Stare = nori 25-50%']
+Sibiu: 46 \ vineri \ 18:11:2022 \ 19:19:52
+[' Răsarit = 07:27:10 Apus = 16:50:13 Min (°C) = 5.49 Max (°C) =12.46 Presiune = 997 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 130 Stare = nori 25-50%']
+Sibiu: 46 \ sâmbătă \ 19:11:2022 \ 19:23:40
+[' Răsarit = 07:28:32 Apus = 16:49:18 Min (°C) = 6.66 Max (°C) =8.99 Presiune = 1013 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 60 Stare = nori 50-85%']
+Sibiu: 46 \ duminică \ 20:11:2022 \ 19:17:22
+[' Răsarit = 07:29:54 Apus = 16:48:24 Min (°C) = 5.68 Max (°C) =9.76 Presiune = 1009 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 300 Stare = nori 85-100%']
+Sibiu: 47 \ luni \ 21:11:2022 \ 19:19:50
+[' Răsarit = 07:31:16 Apus = 16:47:33 Min (°C) = 4.13 Max (°C) =6.69 Presiune = 1007 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 340 Stare = nori 50-85%']
+Sibiu: 47 \ marți \ 22:11:2022 \ 19:20:24
+[' Răsarit = 07:32:36 Apus = 16:46:44 Min (°C) = 1.1 Max (°C) =8.04 Presiune = 1006 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 6.17 Unghiul vântului = 140 Stare = cer senin']
+Sibiu: 47 \ miercuri \ 23:11:2022 \ 19:24:03
+[' Răsarit = 07:33:56 Apus = 16:45:58 Min (°C) = 3.04 Max (°C) =9.93 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 280 Stare = nori 10-25%']
+Sibiu: 47 \ joi \ 24:11:2022 \ 19:21:31
+[' Răsarit = 07:35:15 Apus = 16:45:13 Min (°C) = 2.92 Max (°C) =6.06 Presiune = 1010 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Sibiu: 47 \ vineri \ 25:11:2022 \ 19:20:44
+[' Răsarit = 07:36:33 Apus = 16:44:31 Min (°C) = 1.88 Max (°C) =3.39 Presiune = 1021 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = nori 85-100%']
+Sibiu: 47 \ sâmbătă \ 26:11:2022 \ 19:17:00
+[' Răsarit = 07:37:50 Apus = 16:43:52 Min (°C) = -0.02 Max (°C) =5.02 Presiune = 1027 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 150 Stare = nori 85-100%']
+Sibiu: 47 \ duminică \ 27:11:2022 \ 19:20:39
+[' Răsarit = 07:39:06 Apus = 16:43:15 Min (°C) = 0.43 Max (°C) =3.55 Presiune = 1026 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 220 Stare = nori 10-25%']
+Sibiu: 48 \ luni \ 28:11:2022 \ 19:17:23
+[' Răsarit = 07:40:21 Apus = 16:42:40 Min (°C) = 0.32 Max (°C) =5.43 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Sibiu: 48 \ marți \ 29:11:2022 \ 19:17:05
+[' Răsarit = 07:41:35 Apus = 16:42:08 Min (°C) = -0.57 Max (°C) =6.17 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Sibiu: 48 \ miercuri \ 30:11:2022 \ 19:19:27
+[' Răsarit = 07:42:47 Apus = 16:41:38 Min (°C) = 0.96 Max (°C) =5.85 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 110 Stare = cer senin']
+Sibiu: 48 \ joi \ 01:12:2022 \ 19:17:10
+[' Răsarit = 07:43:58 Apus = 16:41:11 Min (°C) = 0.53 Max (°C) =5.5 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 50-85%']
+Sibiu: 48 \ vineri \ 02:12:2022 \ 19:20:39
+[' Răsarit = 07:45:08 Apus = 16:40:46 Min (°C) = 1.51 Max (°C) =6.99 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 360 Stare = nori 25-50%']
+Sibiu: 48 \ sâmbătă \ 03:12:2022 \ 19:19:15
+[' Răsarit = 07:46:16 Apus = 16:40:24 Min (°C) = 2.08 Max (°C) =8.6 Presiune = 1025 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 110 Stare = cer senin']
+Sibiu: 48 \ duminică \ 04:12:2022 \ 19:20:23
+[' Răsarit = 07:47:23 Apus = 16:40:04 Min (°C) = 1.04 Max (°C) =7.9 Presiune = 1023 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 3.09 Unghiul vântului = 240 Stare = ceață']
+Sibiu: 49 \ luni \ 05:12:2022 \ 19:22:04
+[' Răsarit = 07:48:28 Apus = 16:39:47 Min (°C) = 2.27 Max (°C) =7.12 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 270 Stare = nori 50-85%']
+Sibiu: 49 \ marți \ 06:12:2022 \ 19:21:06
+[' Răsarit = 07:49:32 Apus = 16:39:33 Min (°C) = 3.36 Max (°C) =8.13 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 220 Stare = nori 25-50%']
+Sibiu: 49 \ miercuri \ 07:12:2022 \ 19:18:20
+[' Răsarit = 07:50:33 Apus = 16:39:21 Min (°C) = 2.95 Max (°C) =6.34 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 85-100%']
+Sibiu: 49 \ joi \ 08:12:2022 \ 19:23:03
+[' Răsarit = 07:51:33 Apus = 16:39:12 Min (°C) = 1.04 Max (°C) =6.74 Presiune = 1012 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 260 Stare = nori 85-100%']
+Sibiu: 49 \ vineri \ 09:12:2022 \ 19:26:56
+[' Răsarit = 07:52:32 Apus = 16:39:06 Min (°C) = 3.43 Max (°C) =11.04 Presiune = 1007 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 140 Stare = cer senin']
+Sibiu: 49 \ sâmbătă \ 10:12:2022 \ 19:18:07
+[' Răsarit = 07:53:28 Apus = 16:39:02 Min (°C) = 8.13 Max (°C) =12.66 Presiune = 999 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.57 Unghiul vântului = 130 Stare = nori 10-25%']
+Sibiu: 49 \ duminică \ 11:12:2022 \ 19:20:47
+[' Răsarit = 07:54:22 Apus = 16:39:01 Min (°C) = 1.94 Max (°C) =10.52 Presiune = 999 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.12 Unghiul vântului = 290 Stare = nori 50-85%']
+Sibiu: 50 \ luni \ 12:12:2022 \ 19:18:15
+[' Răsarit = 07:55:15 Apus = 16:39:03 Min (°C) = -2.31 Max (°C) =1.51 Presiune = 1007 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 300 Stare = nori 10-25%']
+Sibiu: 50 \ marți \ 13:12:2022 \ 19:20:03
+[' Răsarit = 07:56:05 Apus = 16:39:07 Min (°C) = -6.86 Max (°C) =0.01 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 250 Stare = cer senin']
+Sibiu: 50 \ miercuri \ 14:12:2022 \ 19:25:06
+[' Răsarit = 07:56:53 Apus = 16:39:14 Min (°C) = -4.21 Max (°C) =3.65 Presiune = 1008 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 260 Stare = nori 85-100%']
+Sibiu: 50 \ joi \ 15:12:2022 \ 19:24:56
+[' Răsarit = 07:57:39 Apus = 16:39:24 Min (°C) = 1.24 Max (°C) =6.15 Presiune = 1013 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 120 Stare = nori 50-85%']
+Sibiu: 50 \ vineri \ 16:12:2022 \ 19:20:08
+[' Răsarit = 07:58:23 Apus = 16:39:36 Min (°C) = 3.15 Max (°C) =15.45 Presiune = 1009 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 180 Stare = nori 25-50%']
+Sibiu: 50 \ sâmbătă \ 17:12:2022 \ 19:18:02
+[' Răsarit = 07:59:04 Apus = 16:39:52 Min (°C) = 2.74 Max (°C) =10.21 Presiune = 1019 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 160 Stare = nori 25-50%']
+Sibiu: 50 \ duminică \ 18:12:2022 \ 19:17:24
+[' Răsarit = 07:59:44 Apus = 16:40:09 Min (°C) = -1.44 Max (°C) =2.96 Presiune = 1036 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 360 Stare = nori 50-85%']
+Sibiu: 51 \ luni \ 19:12:2022 \ 19:22:13
+[' Răsarit = 08:00:20 Apus = 16:40:30 Min (°C) = -4.06 Max (°C) =0.55 Presiune = 1037 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Sibiu: 51 \ marți \ 20:12:2022 \ 19:17:48
+[' Răsarit = 08:00:55 Apus = 16:40:53 Min (°C) = -3.01 Max (°C) =3.74 Presiune = 1028 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = cer senin']
+Sibiu: 51 \ miercuri \ 21:12:2022 \ 19:17:34
+[' Răsarit = 08:01:27 Apus = 16:41:18 Min (°C) = -1.96 Max (°C) =5.53 Presiune = 1019 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 10-25%']
+Sibiu: 51 \ joi \ 22:12:2022 \ 19:19:33
+[' Răsarit = 08:01:57 Apus = 16:41:46 Min (°C) = 1.9 Max (°C) =6.47 Presiune = 1015 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 350 Stare = nori 50-85%']
+Sibiu: 51 \ vineri \ 23:12:2022 \ 19:19:21
+[' Răsarit = 08:02:24 Apus = 16:42:17 Min (°C) = 2.72 Max (°C) =6.64 Presiune = 1014 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 25-50%']
+Sibiu: 51 \ sâmbătă \ 24:12:2022 \ 19:19:00
+[' Răsarit = 08:02:48 Apus = 16:42:50 Min (°C) = 4.41 Max (°C) =9.49 Presiune = 1014 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 6.71 Unghiul vântului = 280 Stare = nori 25-50%']
+Sibiu: 51 \ duminică \ 25:12:2022 \ 19:20:02
+[' Răsarit = 08:03:10 Apus = 16:43:26 Min (°C) = 2.14 Max (°C) =8.07 Presiune = 1025 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 250 Stare = nori 10-25%']
+Sibiu: 52 \ luni \ 26:12:2022 \ 19:22:53
+[' Răsarit = 08:03:30 Apus = 16:44:04 Min (°C) = 2.42 Max (°C) =9.69 Presiune = 1022 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 230 Stare = cer senin']
+Sibiu: 52 \ marți \ 27:12:2022 \ 19:22:38
+[' Răsarit = 08:03:47 Apus = 16:44:45 Min (°C) = 3.44 Max (°C) =11.04 Presiune = 1024 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 4.63 Unghiul vântului = 280 Stare = cer senin']
+Sibiu: 52 \ miercuri \ 28:12:2022 \ 19:20:29
+[' Răsarit = 08:04:01 Apus = 16:45:28 Min (°C) = -1.96 Max (°C) =4.86 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 250 Stare = cer senin']
+Sibiu: 52 \ joi \ 29:12:2022 \ 19:22:53
+[' Răsarit = 08:04:13 Apus = 16:46:13 Min (°C) = -0.96 Max (°C) =6.75 Presiune = 1023 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 0 Stare = cer senin']
+Sibiu: 52 \ vineri \ 30:12:2022 \ 19:17:09
+[' Răsarit = 08:04:22 Apus = 16:47:00 Min (°C) = 4.04 Max (°C) =10.78 Presiune = 1024 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = nori 50-85%']
+Sibiu: 52 \ sâmbătă \ 31:12:2022 \ 19:21:15
+[' Răsarit = 08:04:28 Apus = 16:47:50 Min (°C) = 6.35 Max (°C) =13.17 Presiune = 1028 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 100 Stare = nori 25-50%']
+Sibiu: 00 \ duminică \ 01:1:2023 \ 19:23:50
+[' Răsarit = 08:04:32 Apus = 16:48:42 Min (°C) = 6.04 Max (°C) =12.98 Presiune = 1030 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 240 Stare = cer senin']
+Sibiu: 01 \ luni \ 02:1:2023 \ 19:24:13
+[' Răsarit = 08:04:33 Apus = 16:49:36 Min (°C) = 5.04 Max (°C) =13.37 Presiune = 1026 Umiditate (%) = 100 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 280 Stare = cer senin']
+Sibiu: 01 \ marți \ 03:1:2023 \ 19:26:41
+[' Răsarit = 08:04:31 Apus = 16:50:32 Min (°C) = 6.13 Max (°C) =11.9 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = nori 10-25%']
+Sibiu: 01 \ miercuri \ 04:1:2023 \ 19:21:14
+[' Răsarit = 08:04:27 Apus = 16:51:30 Min (°C) = 4.84 Max (°C) =7.02 Presiune = 1027 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 320 Stare = nori 50-85%']
+Sibiu: 01 \ joi \ 05:1:2023 \ 19:22:44
+[' Răsarit = 08:04:20 Apus = 16:52:30 Min (°C) = 3.17 Max (°C) =9.88 Presiune = 1014 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 9.39 Unghiul vântului = 290 Stare = nori 50-85%']
+Sibiu: 01 \ vineri \ 06:1:2023 \ 19:28:16
+[' Răsarit = 08:04:11 Apus = 16:53:32 Min (°C) = 2.92 Max (°C) =7.5 Presiune = 1023 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 250 Stare = nori 50-85%']
+Sibiu: 01 \ sâmbătă \ 07:1:2023 \ 19:19:01
+[' Răsarit = 08:03:59 Apus = 16:54:36 Min (°C) = 2.58 Max (°C) =7 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 120 Stare = nori 50-85%']
+Sibiu: 01 \ duminică \ 08:1:2023 \ 19:22:48
+[' Răsarit = 08:03:44 Apus = 16:55:41 Min (°C) = 1.04 Max (°C) =8.96 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 270 Stare = cer senin']
+Sibiu: 02 \ luni \ 09:1:2023 \ 19:20:18
+[' Răsarit = 08:03:27 Apus = 16:56:49 Min (°C) = 2.38 Max (°C) =9.33 Presiune = 1008 Umiditate (%) = 53 Index UV = 0 Viteza vântului = 8.23 Unghiul vântului = 150 Stare = nori 25-50%']
+Sibiu: 02 \ marți \ 10:1:2023 \ 19:19:56
+[' Răsarit = 08:03:07 Apus = 16:57:57 Min (°C) = 3.69 Max (°C) =8.44 Presiune = 1008 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 320 Stare = ceață']
+Sibiu: 02 \ miercuri \ 11:1:2023 \ 19:22:32
+[' Răsarit = 08:02:45 Apus = 16:59:08 Min (°C) = 4.09 Max (°C) =6.05 Presiune = 1018 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 300 Stare = nori 25-50%']
+Sibiu: 02 \ joi \ 12:1:2023 \ 19:19:15
+[' Răsarit = 08:02:20 Apus = 17:00:20 Min (°C) = 3.97 Max (°C) =5.22 Presiune = 1021 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 220 Stare = ploaie ușoară']
+Sibiu: 02 \ vineri \ 13:1:2023 \ 19:25:20
+[' Răsarit = 08:01:52 Apus = 17:01:33 Min (°C) = 3.87 Max (°C) =6.78 Presiune = 1020 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 120 Stare = nori 85-100%']
+Sibiu: 02 \ sâmbătă \ 14:1:2023 \ 19:20:51
+[' Răsarit = 08:01:22 Apus = 17:02:48 Min (°C) = 1.07 Max (°C) =5.79 Presiune = 1021 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 350 Stare = nori 50-85%']
+Sibiu: 02 \ duminică \ 15:1:2023 \ 19:21:36
+[' Răsarit = 08:00:50 Apus = 17:04:04 Min (°C) = 0.87 Max (°C) =7.15 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 0 Stare = cer senin']
+Sibiu: 03 \ luni \ 16:1:2023 \ 19:18:47
+[' Răsarit = 08:00:15 Apus = 17:05:21 Min (°C) = 1.54 Max (°C) =9.04 Presiune = 1001 Umiditate (%) = 49 Index UV = 0 Viteza vântului = 5.66 Unghiul vântului = 180 Stare = cer senin']
+Sibiu: 03 \ marți \ 17:1:2023 \ 19:23:20
+[' Răsarit = 07:59:38 Apus = 17:06:40 Min (°C) = 2.66 Max (°C) =9.04 Presiune = 998 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 7.2 Unghiul vântului = 140 Stare = cer senin']
+Sibiu: 03 \ miercuri \ 18:1:2023 \ 19:23:16
+[' Răsarit = 07:58:58 Apus = 17:07:59 Min (°C) = 6.13 Max (°C) =10.86 Presiune = 1004 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 170 Stare = nori 25-50%']
+Sibiu: 03 \ joi \ 19:1:2023 \ 19:18:34
+[' Răsarit = 07:58:16 Apus = 17:09:20 Min (°C) = 7.21 Max (°C) =13.14 Presiune = 1006 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 3.13 Unghiul vântului = 240 Stare = ploaie ușoară']
+Sibiu: 03 \ vineri \ 20:1:2023 \ 19:18:25
+[' Răsarit = 07:57:32 Apus = 17:10:41 Min (°C) = 3.74 Max (°C) =8.33 Presiune = 1002 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.68 Unghiul vântului = 260 Stare = ceață']
+Sibiu: 03 \ sâmbătă \ 21:1:2023 \ 19:18:38
+[' Răsarit = 07:56:45 Apus = 17:12:04 Min (°C) = 0.39 Max (°C) =4.93 Presiune = 1014 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0 Unghiul vântului = 0 Stare = cer senin']
+Sibiu: 04 \ luni \ 23:1:2023 \ 17:11:24
+[' Răsarit = 07:55:06 Apus = 17:14:51 Min (°C) = 3.72 Max (°C) =9.66 Presiune = 1027 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.92 Unghiul vântului = 110 Stare = nori 10-25%']
+Sibiu: 04 \ marți \ 24:1:2023 \ 20:08:15
+[' Răsarit = 07:54:12 Apus = 17:16:16 Min (°C) = 0.02 Max (°C) =4.78 Presiune = 1030 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.24 Unghiul vântului = 80 Stare = cer senin']
+Sibiu: 04 \ miercuri \ 25:1:2023 \ 21:58:15
+[' Răsarit = 07:53:17 Apus = 17:17:42 Min (°C) = -1.15 Max (°C) =2.74 Presiune = 1025 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 1.54 Unghiul vântului = 170 Stare = nori 50-85%']

@@ -1266,3 +1266,169 @@ Medgidia: 44 \ marți \ 01:11:2022 \ 19:08:32
 [' Răsarit = 06:43:20 Apus = 16:57:27 Min (°C) = 10.57 Max (°C) =19.42 Presiune = 1023 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.86 Unghiul vântului = 153 Stare = nori 10-25%']
 Medgidia: 44 \ miercuri \ 02:11:2022 \ 19:09:06
 [' Răsarit = 06:44:40 Apus = 16:56:05 Min (°C) = 12.2 Max (°C) =23.41 Presiune = 1018 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.72 Unghiul vântului = 82 Stare = nori 25-50%']
+Medgidia: 44 \ joi \ 03:11:2022 \ 19:08:17
+[' Răsarit = 06:46:01 Apus = 16:54:45 Min (°C) = 11.72 Max (°C) =18.74 Presiune = 1021 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 1.79 Unghiul vântului = 117 Stare = nori 25-50%']
+Medgidia: 44 \ vineri \ 04:11:2022 \ 19:10:43
+[' Răsarit = 06:47:23 Apus = 16:53:26 Min (°C) = 9.78 Max (°C) =19.16 Presiune = 1015 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 5.78 Unghiul vântului = 151 Stare = nori 85-100%']
+Medgidia: 44 \ sâmbătă \ 05:11:2022 \ 19:10:17
+[' Răsarit = 06:48:44 Apus = 16:52:08 Min (°C) = 12.83 Max (°C) =19.89 Presiune = 1014 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 4.68 Unghiul vântului = 111 Stare = nori 85-100%']
+Medgidia: 44 \ duminică \ 06:11:2022 \ 19:07:57
+[' Răsarit = 06:50:05 Apus = 16:50:53 Min (°C) = 14.02 Max (°C) =16.2 Presiune = 1019 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 7.34 Unghiul vântului = 96 Stare = nori 85-100%']
+Medgidia: 45 \ luni \ 07:11:2022 \ 19:08:00
+[' Răsarit = 06:51:26 Apus = 16:49:39 Min (°C) = 9.31 Max (°C) =16.46 Presiune = 1021 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 93 Stare = cer senin']
+Medgidia: 45 \ marți \ 08:11:2022 \ 19:08:02
+[' Răsarit = 06:52:48 Apus = 16:48:26 Min (°C) = 7.29 Max (°C) =15.44 Presiune = 1022 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.63 Unghiul vântului = 114 Stare = nori 50-85%']
+Medgidia: 45 \ miercuri \ 09:11:2022 \ 19:07:55
+[' Răsarit = 06:54:09 Apus = 16:47:16 Min (°C) = 8.12 Max (°C) =16.07 Presiune = 1024 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 3.21 Unghiul vântului = 131 Stare = cer senin']
+Medgidia: 45 \ joi \ 10:11:2022 \ 19:08:17
+[' Răsarit = 06:55:30 Apus = 16:46:07 Min (°C) = 7.93 Max (°C) =17.41 Presiune = 1026 Umiditate (%) = 75 Index UV = 0 Viteza vântului = 3.69 Unghiul vântului = 151 Stare = cer senin']
+Medgidia: 45 \ vineri \ 11:11:2022 \ 19:07:55
+[' Răsarit = 06:56:51 Apus = 16:45:00 Min (°C) = 8.91 Max (°C) =13.85 Presiune = 1030 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 4.74 Unghiul vântului = 24 Stare = nori 85-100%']
+Medgidia: 45 \ sâmbătă \ 12:11:2022 \ 19:08:12
+[' Răsarit = 06:58:12 Apus = 16:43:54 Min (°C) = 9.58 Max (°C) =14.44 Presiune = 1032 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 77 Stare = nori 85-100%']
+Medgidia: 45 \ duminică \ 13:11:2022 \ 19:07:52
+[' Răsarit = 06:59:33 Apus = 16:42:51 Min (°C) = 7.24 Max (°C) =15.61 Presiune = 1029 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 290 Stare = nori 50-85%']
+Medgidia: 46 \ luni \ 14:11:2022 \ 19:07:50
+[' Răsarit = 07:00:54 Apus = 16:41:50 Min (°C) = 6.58 Max (°C) =14.15 Presiune = 1026 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.51 Unghiul vântului = 95 Stare = nori 50-85%']
+Medgidia: 46 \ marți \ 15:11:2022 \ 19:08:31
+[' Răsarit = 07:02:14 Apus = 16:40:50 Min (°C) = 8.02 Max (°C) =14.15 Presiune = 1017 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.62 Unghiul vântului = 154 Stare = nori 85-100%']
+Medgidia: 46 \ miercuri \ 16:11:2022 \ 19:07:52
+[' Răsarit = 07:03:34 Apus = 16:39:52 Min (°C) = 5.58 Max (°C) =16.13 Presiune = 1006 Umiditate (%) = 60 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 251 Stare = nori 10-25%']
+Medgidia: 46 \ joi \ 17:11:2022 \ 19:08:07
+[' Răsarit = 07:04:53 Apus = 16:38:57 Min (°C) = 9.53 Max (°C) =17.02 Presiune = 1001 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 6.65 Unghiul vântului = 264 Stare = nori 85-100%']
+Medgidia: 46 \ vineri \ 18:11:2022 \ 19:08:12
+[' Răsarit = 07:06:12 Apus = 16:38:03 Min (°C) = 6.96 Max (°C) =16.98 Presiune = 1002 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.73 Unghiul vântului = 134 Stare = nori 85-100%']
+Medgidia: 46 \ sâmbătă \ 19:11:2022 \ 19:10:00
+[' Răsarit = 07:07:31 Apus = 16:37:12 Min (°C) = 11.58 Max (°C) =17.31 Presiune = 1015 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 71 Stare = nori 50-85%']
+Medgidia: 46 \ duminică \ 20:11:2022 \ 19:07:59
+[' Răsarit = 07:08:49 Apus = 16:36:22 Min (°C) = 8.58 Max (°C) =21.13 Presiune = 1009 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 2.88 Unghiul vântului = 304 Stare = nori 85-100%']
+Medgidia: 47 \ luni \ 21:11:2022 \ 19:08:20
+[' Răsarit = 07:10:06 Apus = 16:35:35 Min (°C) = 6.58 Max (°C) =21.3 Presiune = 1006 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 6.97 Unghiul vântului = 285 Stare = nori 85-100%']
+Medgidia: 47 \ marți \ 22:11:2022 \ 19:07:56
+[' Răsarit = 07:11:23 Apus = 16:34:50 Min (°C) = 5.58 Max (°C) =10.93 Presiune = 1013 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 3.32 Unghiul vântului = 140 Stare = nori 50-85%']
+Medgidia: 47 \ miercuri \ 23:11:2022 \ 19:08:09
+[' Răsarit = 07:12:39 Apus = 16:34:07 Min (°C) = 9.51 Max (°C) =13.57 Presiune = 1004 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.95 Unghiul vântului = 212 Stare = nori 85-100%']
+Medgidia: 47 \ joi \ 24:11:2022 \ 19:10:02
+[' Răsarit = 07:13:55 Apus = 16:33:27 Min (°C) = 7.49 Max (°C) =14.15 Presiune = 1010 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 6.71 Unghiul vântului = 277 Stare = nori 25-50%']
+Medgidia: 47 \ vineri \ 25:11:2022 \ 19:08:31
+[' Răsarit = 07:15:09 Apus = 16:32:48 Min (°C) = 5.41 Max (°C) =9.98 Presiune = 1018 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 6.24 Unghiul vântului = 329 Stare = nori 10-25%']
+Medgidia: 47 \ sâmbătă \ 26:11:2022 \ 19:07:51
+[' Răsarit = 07:16:23 Apus = 16:32:12 Min (°C) = 2.91 Max (°C) =8.1 Presiune = 1026 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 3.46 Unghiul vântului = 311 Stare = cer senin']
+Medgidia: 47 \ duminică \ 27:11:2022 \ 19:08:10
+[' Răsarit = 07:17:35 Apus = 16:31:38 Min (°C) = 2.61 Max (°C) =8 Presiune = 1027 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 3.19 Unghiul vântului = 26 Stare = nori 85-100%']
+Medgidia: 48 \ luni \ 28:11:2022 \ 19:08:05
+[' Răsarit = 07:18:47 Apus = 16:31:07 Min (°C) = 3.52 Max (°C) =6.98 Presiune = 1022 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 5.54 Unghiul vântului = 17 Stare = nori 85-100%']
+Medgidia: 48 \ marți \ 29:11:2022 \ 19:07:50
+[' Răsarit = 07:19:57 Apus = 16:30:38 Min (°C) = 5.44 Max (°C) =10.77 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.19 Unghiul vântului = 28 Stare = nori 85-100%']
+Medgidia: 48 \ miercuri \ 30:11:2022 \ 19:10:13
+[' Răsarit = 07:21:06 Apus = 16:30:11 Min (°C) = 2.58 Max (°C) =6.98 Presiune = 1024 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 5.73 Unghiul vântului = 36 Stare = nori 85-100%']
+Medgidia: 48 \ joi \ 01:12:2022 \ 19:07:58
+[' Răsarit = 07:22:15 Apus = 16:29:47 Min (°C) = 2.58 Max (°C) =5.09 Presiune = 1022 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 6.04 Unghiul vântului = 24 Stare = nori 85-100%']
+Medgidia: 48 \ vineri \ 02:12:2022 \ 19:08:20
+[' Răsarit = 07:23:21 Apus = 16:29:25 Min (°C) = 2.58 Max (°C) =4.91 Presiune = 1026 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.75 Unghiul vântului = 332 Stare = nori 85-100%']
+Medgidia: 48 \ sâmbătă \ 03:12:2022 \ 19:08:00
+[' Răsarit = 07:24:27 Apus = 16:29:05 Min (°C) = 2.58 Max (°C) =6.29 Presiune = 1029 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.38 Unghiul vântului = 39 Stare = nori 85-100%']
+Medgidia: 48 \ duminică \ 04:12:2022 \ 19:08:12
+[' Răsarit = 07:25:31 Apus = 16:28:49 Min (°C) = 2.58 Max (°C) =7.38 Presiune = 1030 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 5.01 Unghiul vântului = 57 Stare = nori 85-100%']
+Medgidia: 49 \ luni \ 05:12:2022 \ 19:12:03
+[' Răsarit = 07:26:34 Apus = 16:28:34 Min (°C) = 4.58 Max (°C) =8.05 Presiune = 1027 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 3.81 Unghiul vântului = 71 Stare = nori 85-100%']
+Medgidia: 49 \ marți \ 06:12:2022 \ 19:10:51
+[' Răsarit = 07:27:35 Apus = 16:28:22 Min (°C) = 5.58 Max (°C) =8.63 Presiune = 1020 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 4.21 Unghiul vântului = 127 Stare = nori 85-100%']
+Medgidia: 49 \ miercuri \ 07:12:2022 \ 19:08:15
+[' Răsarit = 07:28:34 Apus = 16:28:13 Min (°C) = 5.58 Max (°C) =10.68 Presiune = 1015 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 2.36 Unghiul vântului = 176 Stare = nori 85-100%']
+Medgidia: 49 \ joi \ 08:12:2022 \ 19:10:48
+[' Răsarit = 07:29:32 Apus = 16:28:06 Min (°C) = 6.58 Max (°C) =11.74 Presiune = 1016 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 165 Stare = nori 85-100%']
+Medgidia: 49 \ vineri \ 09:12:2022 \ 19:10:16
+[' Răsarit = 07:30:29 Apus = 16:28:01 Min (°C) = 6.58 Max (°C) =13.89 Presiune = 1013 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.06 Unghiul vântului = 144 Stare = nori 85-100%']
+Medgidia: 49 \ sâmbătă \ 10:12:2022 \ 19:08:08
+[' Răsarit = 07:31:23 Apus = 16:28:00 Min (°C) = 10.38 Max (°C) =17.88 Presiune = 1005 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 3.39 Unghiul vântului = 187 Stare = nori 25-50%']
+Medgidia: 49 \ duminică \ 11:12:2022 \ 19:08:06
+[' Răsarit = 07:32:16 Apus = 16:28:00 Min (°C) = 10.97 Max (°C) =18.97 Presiune = 998 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 2.76 Unghiul vântului = 201 Stare = nori 85-100%']
+Medgidia: 50 \ luni \ 12:12:2022 \ 19:08:25
+[' Răsarit = 07:33:06 Apus = 16:28:04 Min (°C) = 1.58 Max (°C) =8.64 Presiune = 1008 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.99 Unghiul vântului = 243 Stare = nori 85-100%']
+Medgidia: 50 \ marți \ 13:12:2022 \ 19:08:04
+[' Răsarit = 07:33:55 Apus = 16:28:09 Min (°C) = -0.42 Max (°C) =5.25 Presiune = 1016 Umiditate (%) = 57 Index UV = 0 Viteza vântului = 1.3 Unghiul vântului = 309 Stare = nori 50-85%']
+Medgidia: 50 \ miercuri \ 14:12:2022 \ 19:09:16
+[' Răsarit = 07:34:42 Apus = 16:28:18 Min (°C) = -0.34 Max (°C) =7.05 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 4.2 Unghiul vântului = 132 Stare = nori 50-85%']
+Medgidia: 50 \ joi \ 15:12:2022 \ 19:08:33
+[' Răsarit = 07:35:27 Apus = 16:28:28 Min (°C) = 4.51 Max (°C) =8.46 Presiune = 1015 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 4.54 Unghiul vântului = 278 Stare = nori 25-50%']
+Medgidia: 50 \ vineri \ 16:12:2022 \ 19:08:18
+[' Răsarit = 07:36:10 Apus = 16:28:42 Min (°C) = 4.19 Max (°C) =12.18 Presiune = 1014 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 3.17 Unghiul vântului = 181 Stare = nori 25-50%']
+Medgidia: 50 \ sâmbătă \ 17:12:2022 \ 19:08:04
+[' Răsarit = 07:36:51 Apus = 16:28:58 Min (°C) = 9.35 Max (°C) =19.02 Presiune = 1017 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 6.45 Unghiul vântului = 267 Stare = nori 25-50%']
+Medgidia: 50 \ duminică \ 18:12:2022 \ 19:07:50
+[' Răsarit = 07:37:29 Apus = 16:29:16 Min (°C) = 2.48 Max (°C) =9.47 Presiune = 1035 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 4.66 Unghiul vântului = 9 Stare = nori 85-100%']
+Medgidia: 51 \ luni \ 19:12:2022 \ 19:10:09
+[' Răsarit = 07:38:06 Apus = 16:29:37 Min (°C) = -3.42 Max (°C) =2.09 Presiune = 1042 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 3.06 Unghiul vântului = 1 Stare = cer senin']
+Medgidia: 51 \ marți \ 20:12:2022 \ 19:08:23
+[' Răsarit = 07:38:40 Apus = 16:30:00 Min (°C) = -3.49 Max (°C) =3.02 Presiune = 1033 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 238 Stare = nori 25-50%']
+Medgidia: 51 \ miercuri \ 21:12:2022 \ 19:08:12
+[' Răsarit = 07:39:12 Apus = 16:30:26 Min (°C) = -0.77 Max (°C) =7.71 Presiune = 1022 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.33 Unghiul vântului = 181 Stare = cer senin']
+Medgidia: 51 \ joi \ 22:12:2022 \ 19:10:19
+[' Răsarit = 07:39:41 Apus = 16:30:54 Min (°C) = -1.42 Max (°C) =10.84 Presiune = 1017 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 3.37 Unghiul vântului = 178 Stare = nori 25-50%']
+Medgidia: 51 \ vineri \ 23:12:2022 \ 19:08:02
+[' Răsarit = 07:40:08 Apus = 16:31:25 Min (°C) = 2.58 Max (°C) =8.21 Presiune = 1014 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 2.27 Unghiul vântului = 266 Stare = nori 85-100%']
+Medgidia: 51 \ sâmbătă \ 24:12:2022 \ 19:09:51
+[' Răsarit = 07:40:33 Apus = 16:31:58 Min (°C) = 3.01 Max (°C) =10.57 Presiune = 1014 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 4.8 Unghiul vântului = 274 Stare = nori 85-100%']
+Medgidia: 51 \ duminică \ 25:12:2022 \ 19:07:48
+[' Răsarit = 07:40:56 Apus = 16:32:33 Min (°C) = 5.19 Max (°C) =10.66 Presiune = 1024 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 6.31 Unghiul vântului = 329 Stare = nori 50-85%']
+Medgidia: 52 \ luni \ 26:12:2022 \ 19:10:21
+[' Răsarit = 07:41:16 Apus = 16:33:10 Min (°C) = 2.7 Max (°C) =9.13 Presiune = 1026 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 3.56 Unghiul vântului = 188 Stare = nori 85-100%']
+Medgidia: 52 \ marți \ 27:12:2022 \ 19:08:19
+[' Răsarit = 07:41:33 Apus = 16:33:50 Min (°C) = 5.57 Max (°C) =11.42 Presiune = 1021 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 4.32 Unghiul vântului = 286 Stare = nori 25-50%']
+Medgidia: 52 \ miercuri \ 28:12:2022 \ 19:08:16
+[' Răsarit = 07:41:49 Apus = 16:34:32 Min (°C) = 1.58 Max (°C) =7.25 Presiune = 1030 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 3.15 Unghiul vântului = 152 Stare = cer senin']
+Medgidia: 52 \ joi \ 29:12:2022 \ 19:08:25
+[' Răsarit = 07:42:01 Apus = 16:35:16 Min (°C) = 2.26 Max (°C) =10.47 Presiune = 1025 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.38 Unghiul vântului = 214 Stare = cer senin']
+Medgidia: 52 \ vineri \ 30:12:2022 \ 19:07:50
+[' Răsarit = 07:42:12 Apus = 16:36:03 Min (°C) = 4.59 Max (°C) =12.49 Presiune = 1024 Umiditate (%) = 76 Index UV = 0 Viteza vântului = 3.05 Unghiul vântului = 263 Stare = nori 10-25%']
+Medgidia: 52 \ sâmbătă \ 31:12:2022 \ 19:09:49
+[' Răsarit = 07:42:19 Apus = 16:36:51 Min (°C) = 5.73 Max (°C) =13.46 Presiune = 1029 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 252 Stare = cer senin']
+Medgidia: 00 \ duminică \ 01:1:2023 \ 19:10:52
+[' Răsarit = 07:42:25 Apus = 16:37:41 Min (°C) = 6.82 Max (°C) =14.99 Presiune = 1030 Umiditate (%) = 66 Index UV = 0 Viteza vântului = 2.45 Unghiul vântului = 235 Stare = nori 25-50%']
+Medgidia: 01 \ luni \ 02:1:2023 \ 19:09:01
+[' Răsarit = 07:42:27 Apus = 16:38:34 Min (°C) = 8.55 Max (°C) =16.93 Presiune = 1028 Umiditate (%) = 55 Index UV = 0 Viteza vântului = 3.63 Unghiul vântului = 187 Stare = cer senin']
+Medgidia: 01 \ marți \ 03:1:2023 \ 19:13:23
+[' Răsarit = 07:42:28 Apus = 16:39:28 Min (°C) = 8 Max (°C) =15.32 Presiune = 1024 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 321 Stare = nori 25-50%']
+Medgidia: 01 \ miercuri \ 04:1:2023 \ 19:10:43
+[' Răsarit = 07:42:26 Apus = 16:40:24 Min (°C) = 3.58 Max (°C) =9.08 Presiune = 1029 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 1.94 Unghiul vântului = 316 Stare = nori 85-100%']
+Medgidia: 01 \ joi \ 05:1:2023 \ 19:08:23
+[' Răsarit = 07:42:21 Apus = 16:41:22 Min (°C) = 4.48 Max (°C) =11.3 Presiune = 1013 Umiditate (%) = 69 Index UV = 0 Viteza vântului = 7.01 Unghiul vântului = 251 Stare = nori 85-100%']
+Medgidia: 01 \ vineri \ 06:1:2023 \ 19:15:22
+[' Răsarit = 07:42:14 Apus = 16:42:22 Min (°C) = 3.58 Max (°C) =12.07 Presiune = 1024 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.02 Unghiul vântului = 349 Stare = nori 50-85%']
+Medgidia: 01 \ sâmbătă \ 07:1:2023 \ 19:08:36
+[' Răsarit = 07:42:04 Apus = 16:43:23 Min (°C) = 2.61 Max (°C) =10.4 Presiune = 1024 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.03 Unghiul vântului = 58 Stare = nori 25-50%']
+Medgidia: 01 \ duminică \ 08:1:2023 \ 19:09:03
+[' Răsarit = 07:41:52 Apus = 16:44:26 Min (°C) = 4.58 Max (°C) =9.79 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 5.06 Unghiul vântului = 148 Stare = nori 85-100%']
+Medgidia: 02 \ luni \ 09:1:2023 \ 19:10:27
+[' Răsarit = 07:41:37 Apus = 16:45:31 Min (°C) = 5.57 Max (°C) =10.36 Presiune = 1018 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 7.61 Unghiul vântului = 142 Stare = nori 50-85%']
+Medgidia: 02 \ marți \ 10:1:2023 \ 19:07:52
+[' Răsarit = 07:41:20 Apus = 16:46:37 Min (°C) = 7.42 Max (°C) =13.43 Presiune = 1014 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 8.36 Unghiul vântului = 134 Stare = nori 85-100%']
+Medgidia: 02 \ miercuri \ 11:1:2023 \ 19:09:54
+[' Răsarit = 07:41:01 Apus = 16:47:44 Min (°C) = 5.58 Max (°C) =9.5 Presiune = 1020 Umiditate (%) = 91 Index UV = 0 Viteza vântului = 8.11 Unghiul vântului = 64 Stare = nori 85-100%']
+Medgidia: 02 \ joi \ 12:1:2023 \ 19:08:42
+[' Răsarit = 07:40:39 Apus = 16:48:53 Min (°C) = 3.58 Max (°C) =6.66 Presiune = 1021 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 4.96 Unghiul vântului = 31 Stare = nori 85-100%']
+Medgidia: 02 \ vineri \ 13:1:2023 \ 19:09:56
+[' Răsarit = 07:40:14 Apus = 16:50:04 Min (°C) = 1.58 Max (°C) =4.44 Presiune = 1023 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 1.12 Unghiul vântului = 328 Stare = nori 85-100%']
+Medgidia: 02 \ sâmbătă \ 14:1:2023 \ 19:09:21
+[' Răsarit = 07:39:48 Apus = 16:51:15 Min (°C) = 2.58 Max (°C) =6.37 Presiune = 1023 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 74 Stare = nori 85-100%']
+Medgidia: 02 \ duminică \ 15:1:2023 \ 19:08:20
+[' Răsarit = 07:39:18 Apus = 16:52:28 Min (°C) = 4.31 Max (°C) =7.07 Presiune = 1020 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 3.25 Unghiul vântului = 161 Stare = nori 85-100%']
+Medgidia: 03 \ luni \ 16:1:2023 \ 19:07:20
+[' Răsarit = 07:38:47 Apus = 16:53:42 Min (°C) = 4.95 Max (°C) =10.42 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 6.54 Unghiul vântului = 162 Stare = nori 85-100%']
+Medgidia: 03 \ marți \ 17:1:2023 \ 19:08:52
+[' Răsarit = 07:38:13 Apus = 16:54:57 Min (°C) = 7.91 Max (°C) =16.09 Presiune = 1004 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 6.14 Unghiul vântului = 203 Stare = nori 85-100%']
+Medgidia: 03 \ miercuri \ 18:1:2023 \ 19:08:15
+[' Răsarit = 07:37:37 Apus = 16:56:13 Min (°C) = 12.5 Max (°C) =18.64 Presiune = 1007 Umiditate (%) = 61 Index UV = 0 Viteza vântului = 9.25 Unghiul vântului = 210 Stare = nori 25-50%']
+Medgidia: 03 \ joi \ 19:1:2023 \ 19:08:08
+[' Răsarit = 07:36:59 Apus = 16:57:30 Min (°C) = 12.58 Max (°C) =18.37 Presiune = 1011 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 10.02 Unghiul vântului = 195 Stare = nori 25-50%']
+Medgidia: 03 \ vineri \ 20:1:2023 \ 19:08:16
+[' Răsarit = 07:36:18 Apus = 16:58:48 Min (°C) = 11.27 Max (°C) =16.59 Presiune = 1008 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 7.52 Unghiul vântului = 158 Stare = nori 50-85%']
+Medgidia: 03 \ sâmbătă \ 21:1:2023 \ 19:08:17
+[' Răsarit = 07:35:36 Apus = 17:00:06 Min (°C) = 5.68 Max (°C) =15.36 Presiune = 1018 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 5.81 Unghiul vântului = 151 Stare = nori 50-85%']
+Medgidia: 04 \ luni \ 23:1:2023 \ 16:56:47
+[' Răsarit = 07:34:04 Apus = 17:02:46 Min (°C) = 1.58 Max (°C) =7.13 Presiune = 1030 Umiditate (%) = 56 Index UV = 0 Viteza vântului = 4.34 Unghiul vântului = 63 Stare = cer senin']
+Medgidia: 04 \ marți \ 24:1:2023 \ 19:57:19
+[' Răsarit = 07:33:15 Apus = 17:04:07 Min (°C) = 0.58 Max (°C) =4.1 Presiune = 1033 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.72 Unghiul vântului = 19 Stare = nori 85-100%']
+Medgidia: 04 \ miercuri \ 25:1:2023 \ 21:45:46
+[' Răsarit = 07:32:23 Apus = 17:05:28 Min (°C) = -0.96 Max (°C) =4.38 Presiune = 1029 Umiditate (%) = 70 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 25 Stare = nori 85-100%']

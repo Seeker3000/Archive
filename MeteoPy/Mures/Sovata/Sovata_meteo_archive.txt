@@ -1270,3 +1270,169 @@ Sovata: 44 \ marți \ 01:11:2022 \ 19:14:59
 [' Răsarit = 07:01:00 Apus = 17:05:30 Min (°C) = 8.55 Max (°C) =18.29 Presiune = 1022 Umiditate (%) = 67 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 98 Stare = nori 50-85%']
 Sovata: 44 \ miercuri \ 02:11:2022 \ 19:15:40
 [' Răsarit = 07:02:28 Apus = 17:04:01 Min (°C) = 9.21 Max (°C) =15.91 Presiune = 1022 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 312 Stare = nori 85-100%']
+Sovata: 44 \ joi \ 03:11:2022 \ 19:16:41
+[' Răsarit = 07:03:57 Apus = 17:02:33 Min (°C) = 6.71 Max (°C) =13.28 Presiune = 1021 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 79 Stare = nori 10-25%']
+Sovata: 44 \ vineri \ 04:11:2022 \ 19:19:20
+[' Răsarit = 07:05:25 Apus = 17:01:07 Min (°C) = 4.76 Max (°C) =15.54 Presiune = 1012 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 2.07 Unghiul vântului = 77 Stare = nori 85-100%']
+Sovata: 44 \ sâmbătă \ 05:11:2022 \ 19:20:39
+[' Răsarit = 07:06:54 Apus = 16:59:42 Min (°C) = 8.34 Max (°C) =15.88 Presiune = 1013 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.41 Unghiul vântului = 80 Stare = nori 85-100%']
+Sovata: 44 \ duminică \ 06:11:2022 \ 19:14:00
+[' Răsarit = 07:08:22 Apus = 16:58:20 Min (°C) = 9.06 Max (°C) =17.1 Presiune = 1018 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 93 Stare = nori 85-100%']
+Sovata: 45 \ luni \ 07:11:2022 \ 19:14:01
+[' Răsarit = 07:09:51 Apus = 16:56:58 Min (°C) = 7.77 Max (°C) =15.51 Presiune = 1020 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 28 Stare = nori 50-85%']
+Sovata: 45 \ marți \ 08:11:2022 \ 19:14:04
+[' Răsarit = 07:11:19 Apus = 16:55:39 Min (°C) = 7.51 Max (°C) =12.81 Presiune = 1023 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.5 Unghiul vântului = 36 Stare = nori 50-85%']
+Sovata: 45 \ miercuri \ 09:11:2022 \ 19:16:13
+[' Răsarit = 07:12:48 Apus = 16:54:21 Min (°C) = 6.18 Max (°C) =14.8 Presiune = 1022 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 1.48 Unghiul vântului = 84 Stare = nori 10-25%']
+Sovata: 45 \ joi \ 10:11:2022 \ 19:14:50
+[' Răsarit = 07:14:16 Apus = 16:53:05 Min (°C) = 6.69 Max (°C) =14.37 Presiune = 1025 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 0.75 Unghiul vântului = 300 Stare = nori 50-85%']
+Sovata: 45 \ vineri \ 11:11:2022 \ 19:16:04
+[' Răsarit = 07:15:44 Apus = 16:51:51 Min (°C) = 6.28 Max (°C) =11.31 Presiune = 1032 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.19 Unghiul vântului = 297 Stare = nori 85-100%']
+Sovata: 45 \ sâmbătă \ 12:11:2022 \ 19:14:11
+[' Răsarit = 07:17:12 Apus = 16:50:39 Min (°C) = 5.28 Max (°C) =11.32 Presiune = 1033 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.96 Unghiul vântului = 58 Stare = nori 25-50%']
+Sovata: 45 \ duminică \ 13:11:2022 \ 19:16:04
+[' Răsarit = 07:18:39 Apus = 16:49:29 Min (°C) = 4.4 Max (°C) =13.05 Presiune = 1029 Umiditate (%) = 65 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 78 Stare = nori 25-50%']
+Sovata: 46 \ luni \ 14:11:2022 \ 19:13:51
+[' Răsarit = 07:20:07 Apus = 16:48:21 Min (°C) = 4.78 Max (°C) =13.47 Presiune = 1024 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.57 Unghiul vântului = 85 Stare = nori 50-85%']
+Sovata: 46 \ marți \ 15:11:2022 \ 19:14:40
+[' Răsarit = 07:21:34 Apus = 16:47:15 Min (°C) = 5.02 Max (°C) =12.83 Presiune = 1015 Umiditate (%) = 58 Index UV = 0 Viteza vântului = 0.81 Unghiul vântului = 79 Stare = nori 25-50%']
+Sovata: 46 \ miercuri \ 16:11:2022 \ 19:13:54
+[' Răsarit = 07:23:00 Apus = 16:46:10 Min (°C) = 5.37 Max (°C) =8.83 Presiune = 1005 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 135 Stare = nori 85-100%']
+Sovata: 46 \ joi \ 17:11:2022 \ 19:14:09
+[' Răsarit = 07:24:26 Apus = 16:45:08 Min (°C) = 6.41 Max (°C) =8.62 Presiune = 1003 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.18 Unghiul vântului = 292 Stare = nori 85-100%']
+Sovata: 46 \ vineri \ 18:11:2022 \ 19:16:29
+[' Răsarit = 07:25:52 Apus = 16:44:08 Min (°C) = 5.59 Max (°C) =11.05 Presiune = 999 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 1.34 Unghiul vântului = 62 Stare = ploaie ușoară']
+Sovata: 46 \ sâmbătă \ 19:11:2022 \ 19:18:14
+[' Răsarit = 07:27:16 Apus = 16:43:11 Min (°C) = 3.41 Max (°C) =9.25 Presiune = 1015 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.58 Unghiul vântului = 103 Stare = nori 85-100%']
+Sovata: 46 \ duminică \ 20:11:2022 \ 19:14:04
+[' Răsarit = 07:28:41 Apus = 16:42:15 Min (°C) = 4.71 Max (°C) =9.77 Presiune = 1010 Umiditate (%) = 92 Index UV = 0 Viteza vântului = 0.67 Unghiul vântului = 239 Stare = nori 85-100%']
+Sovata: 47 \ luni \ 21:11:2022 \ 19:16:33
+[' Răsarit = 07:30:04 Apus = 16:41:22 Min (°C) = 2.71 Max (°C) =6.93 Presiune = 1007 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 2.22 Unghiul vântului = 267 Stare = nori 85-100%']
+Sovata: 47 \ marți \ 22:11:2022 \ 19:16:06
+[' Răsarit = 07:31:27 Apus = 16:40:31 Min (°C) = 1.28 Max (°C) =5.89 Presiune = 1010 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 2.77 Unghiul vântului = 84 Stare = nori 50-85%']
+Sovata: 47 \ miercuri \ 23:11:2022 \ 19:16:27
+[' Răsarit = 07:32:49 Apus = 16:39:42 Min (°C) = 2.33 Max (°C) =8.43 Presiune = 1004 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.45 Unghiul vântului = 98 Stare = nori 85-100%']
+Sovata: 47 \ joi \ 24:11:2022 \ 19:16:10
+[' Răsarit = 07:34:10 Apus = 16:38:56 Min (°C) = 2.95 Max (°C) =7.3 Presiune = 1012 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.18 Unghiul vântului = 245 Stare = ploaie ușoară']
+Sovata: 47 \ vineri \ 25:11:2022 \ 19:17:12
+[' Răsarit = 07:35:30 Apus = 16:38:12 Min (°C) = 0.33 Max (°C) =3.21 Presiune = 1023 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 293 Stare = nori 85-100%']
+Sovata: 47 \ sâmbătă \ 26:11:2022 \ 19:13:47
+[' Răsarit = 07:36:49 Apus = 16:37:30 Min (°C) = -0.04 Max (°C) =2.96 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.21 Unghiul vântului = 298 Stare = nori 50-85%']
+Sovata: 47 \ duminică \ 27:11:2022 \ 19:14:12
+[' Răsarit = 07:38:06 Apus = 16:36:51 Min (°C) = -0.61 Max (°C) =3.88 Presiune = 1029 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 50 Stare = nori 85-100%']
+Sovata: 48 \ luni \ 28:11:2022 \ 19:14:03
+[' Răsarit = 07:39:23 Apus = 16:36:15 Min (°C) = 0.65 Max (°C) =5.2 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 82 Stare = nori 85-100%']
+Sovata: 48 \ marți \ 29:11:2022 \ 19:13:50
+[' Răsarit = 07:40:39 Apus = 16:35:41 Min (°C) = -0.94 Max (°C) =7.48 Presiune = 1024 Umiditate (%) = 77 Index UV = 0 Viteza vântului = 2.26 Unghiul vântului = 71 Stare = nori 10-25%']
+Sovata: 48 \ miercuri \ 30:11:2022 \ 19:16:09
+[' Răsarit = 07:41:53 Apus = 16:35:09 Min (°C) = 0.43 Max (°C) =6.58 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 2.82 Unghiul vântului = 73 Stare = nori 50-85%']
+Sovata: 48 \ joi \ 01:12:2022 \ 19:13:54
+[' Răsarit = 07:43:06 Apus = 16:34:40 Min (°C) = 0.11 Max (°C) =7.56 Presiune = 1023 Umiditate (%) = 72 Index UV = 0 Viteza vântului = 2.01 Unghiul vântului = 81 Stare = zăpadă slabă']
+Sovata: 48 \ vineri \ 02:12:2022 \ 19:14:53
+[' Răsarit = 07:44:17 Apus = 16:34:14 Min (°C) = 2.95 Max (°C) =7.15 Presiune = 1024 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.95 Unghiul vântului = 92 Stare = nori 85-100%']
+Sovata: 48 \ sâmbătă \ 03:12:2022 \ 19:16:04
+[' Răsarit = 07:45:27 Apus = 16:33:50 Min (°C) = 2.95 Max (°C) =8.69 Presiune = 1027 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 84 Stare = nori 50-85%']
+Sovata: 48 \ duminică \ 04:12:2022 \ 19:16:52
+[' Răsarit = 07:46:35 Apus = 16:33:29 Min (°C) = 1.55 Max (°C) =8.01 Presiune = 1027 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 2.8 Unghiul vântului = 86 Stare = nori 50-85%']
+Sovata: 49 \ luni \ 05:12:2022 \ 19:18:34
+[' Răsarit = 07:47:41 Apus = 16:33:11 Min (°C) = 1.3 Max (°C) =6.2 Presiune = 1025 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 0.9 Unghiul vântului = 112 Stare = nori 85-100%']
+Sovata: 49 \ marți \ 06:12:2022 \ 19:17:27
+[' Răsarit = 07:48:46 Apus = 16:32:55 Min (°C) = 4.65 Max (°C) =8.84 Presiune = 1017 Umiditate (%) = 81 Index UV = 0 Viteza vântului = 1.21 Unghiul vântului = 152 Stare = nori 85-100%']
+Sovata: 49 \ miercuri \ 07:12:2022 \ 19:14:44
+[' Răsarit = 07:49:49 Apus = 16:32:42 Min (°C) = 1.28 Max (°C) =5.5 Presiune = 1015 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 322 Stare = nori 85-100%']
+Sovata: 49 \ joi \ 08:12:2022 \ 19:17:25
+[' Răsarit = 07:50:51 Apus = 16:32:32 Min (°C) = 0.2 Max (°C) =6.62 Presiune = 1015 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.67 Unghiul vântului = 83 Stare = nori 85-100%']
+Sovata: 49 \ vineri \ 09:12:2022 \ 19:21:20
+[' Răsarit = 07:51:50 Apus = 16:32:24 Min (°C) = 3.03 Max (°C) =9.19 Presiune = 1010 Umiditate (%) = 78 Index UV = 0 Viteza vântului = 2.06 Unghiul vântului = 103 Stare = nori 85-100%']
+Sovata: 49 \ sâmbătă \ 10:12:2022 \ 19:14:40
+[' Răsarit = 07:52:47 Apus = 16:32:20 Min (°C) = 7.58 Max (°C) =11.55 Presiune = 1001 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 2.86 Unghiul vântului = 85 Stare = nori 50-85%']
+Sovata: 49 \ duminică \ 11:12:2022 \ 19:17:02
+[' Răsarit = 07:53:43 Apus = 16:32:18 Min (°C) = 1.65 Max (°C) =11.77 Presiune = 1001 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 2.67 Unghiul vântului = 320 Stare = ploaie ușoară']
+Sovata: 50 \ luni \ 12:12:2022 \ 19:14:50
+[' Răsarit = 07:54:36 Apus = 16:32:19 Min (°C) = -3.02 Max (°C) =1.18 Presiune = 1009 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 1.88 Unghiul vântului = 255 Stare = nori 85-100%']
+Sovata: 50 \ marți \ 13:12:2022 \ 19:14:19
+[' Răsarit = 07:55:27 Apus = 16:32:22 Min (°C) = -5.01 Max (°C) =-2.14 Presiune = 1017 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.87 Unghiul vântului = 79 Stare = nori 50-85%']
+Sovata: 50 \ miercuri \ 14:12:2022 \ 19:19:41
+[' Răsarit = 07:56:16 Apus = 16:32:28 Min (°C) = -5.47 Max (°C) =3.42 Presiune = 1012 Umiditate (%) = 51 Index UV = 0 Viteza vântului = 2.7 Unghiul vântului = 84 Stare = nori 50-85%']
+Sovata: 50 \ joi \ 15:12:2022 \ 19:17:08
+[' Răsarit = 07:57:02 Apus = 16:32:38 Min (°C) = -0.94 Max (°C) =3.92 Presiune = 1016 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 1.99 Unghiul vântului = 93 Stare = nori 50-85%']
+Sovata: 50 \ vineri \ 16:12:2022 \ 19:16:48
+[' Răsarit = 07:57:47 Apus = 16:32:49 Min (°C) = 1.52 Max (°C) =10.1 Presiune = 1011 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 1.03 Unghiul vântului = 89 Stare = nori 85-100%']
+Sovata: 50 \ sâmbătă \ 17:12:2022 \ 19:14:30
+[' Răsarit = 07:58:29 Apus = 16:33:04 Min (°C) = 2.91 Max (°C) =10.22 Presiune = 1020 Umiditate (%) = 95 Index UV = 0 Viteza vântului = 3.31 Unghiul vântului = 287 Stare = nori 85-100%']
+Sovata: 50 \ duminică \ 18:12:2022 \ 19:13:55
+[' Răsarit = 07:59:08 Apus = 16:33:21 Min (°C) = -1.85 Max (°C) =2.34 Presiune = 1038 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 1.47 Unghiul vântului = 288 Stare = nori 85-100%']
+Sovata: 51 \ luni \ 19:12:2022 \ 19:18:47
+[' Răsarit = 07:59:46 Apus = 16:33:41 Min (°C) = -4.83 Max (°C) =1.55 Presiune = 1041 Umiditate (%) = 62 Index UV = 0 Viteza vântului = 1.91 Unghiul vântului = 90 Stare = cer senin']
+Sovata: 51 \ marți \ 20:12:2022 \ 19:14:28
+[' Răsarit = 08:00:20 Apus = 16:34:04 Min (°C) = -3.72 Max (°C) =3.1 Presiune = 1030 Umiditate (%) = 36 Index UV = 0 Viteza vântului = 0.59 Unghiul vântului = 60 Stare = nori 50-85%']
+Sovata: 51 \ miercuri \ 21:12:2022 \ 19:14:18
+[' Răsarit = 08:00:52 Apus = 16:34:30 Min (°C) = 0.51 Max (°C) =6.66 Presiune = 1021 Umiditate (%) = 35 Index UV = 0 Viteza vântului = 0.37 Unghiul vântului = 71 Stare = nori 10-25%']
+Sovata: 51 \ joi \ 22:12:2022 \ 19:16:20
+[' Răsarit = 08:01:22 Apus = 16:34:58 Min (°C) = 1.28 Max (°C) =5.63 Presiune = 1017 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.44 Unghiul vântului = 245 Stare = nori 85-100%']
+Sovata: 51 \ vineri \ 23:12:2022 \ 19:16:10
+[' Răsarit = 08:01:49 Apus = 16:35:29 Min (°C) = 1.28 Max (°C) =5.81 Presiune = 1016 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.51 Unghiul vântului = 112 Stare = nori 85-100%']
+Sovata: 51 \ sâmbătă \ 24:12:2022 \ 19:15:45
+[' Răsarit = 08:02:13 Apus = 16:36:02 Min (°C) = 2.87 Max (°C) =4.73 Presiune = 1016 Umiditate (%) = 99 Index UV = 0 Viteza vântului = 1.38 Unghiul vântului = 259 Stare = nori 85-100%']
+Sovata: 51 \ duminică \ 25:12:2022 \ 19:16:26
+[' Răsarit = 08:02:35 Apus = 16:36:38 Min (°C) = 2.95 Max (°C) =5.58 Presiune = 1027 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 305 Stare = nori 85-100%']
+Sovata: 52 \ luni \ 26:12:2022 \ 19:19:09
+[' Răsarit = 08:02:54 Apus = 16:37:16 Min (°C) = 1.84 Max (°C) =6.08 Presiune = 1024 Umiditate (%) = 82 Index UV = 0 Viteza vântului = 0.69 Unghiul vântului = 94 Stare = nori 85-100%']
+Sovata: 52 \ marți \ 27:12:2022 \ 19:14:46
+[' Răsarit = 08:03:11 Apus = 16:37:57 Min (°C) = 2.66 Max (°C) =7.22 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 4.61 Unghiul vântului = 298 Stare = nori 50-85%']
+Sovata: 52 \ miercuri \ 28:12:2022 \ 19:14:51
+[' Răsarit = 08:03:25 Apus = 16:38:41 Min (°C) = -2.05 Max (°C) =3.47 Presiune = 1029 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 0.71 Unghiul vântului = 133 Stare = nori 25-50%']
+Sovata: 52 \ joi \ 29:12:2022 \ 19:19:20
+[' Răsarit = 08:03:36 Apus = 16:39:26 Min (°C) = -0.36 Max (°C) =5.83 Presiune = 1025 Umiditate (%) = 59 Index UV = 0 Viteza vântului = 1.11 Unghiul vântului = 121 Stare = nori 85-100%']
+Sovata: 52 \ vineri \ 30:12:2022 \ 19:13:52
+[' Răsarit = 08:03:44 Apus = 16:40:15 Min (°C) = 2.54 Max (°C) =4.63 Presiune = 1025 Umiditate (%) = 94 Index UV = 0 Viteza vântului = 1.07 Unghiul vântului = 112 Stare = ploaie ușoară']
+Sovata: 52 \ sâmbătă \ 31:12:2022 \ 19:15:49
+[' Răsarit = 08:03:50 Apus = 16:41:05 Min (°C) = 4.9 Max (°C) =9.27 Presiune = 1029 Umiditate (%) = 87 Index UV = 0 Viteza vântului = 0.74 Unghiul vântului = 155 Stare = nori 85-100%']
+Sovata: 00 \ duminică \ 01:1:2023 \ 19:17:54
+[' Răsarit = 08:03:53 Apus = 16:41:58 Min (°C) = 6.12 Max (°C) =11.92 Presiune = 1031 Umiditate (%) = 85 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 94 Stare = nori 50-85%']
+Sovata: 01 \ luni \ 02:1:2023 \ 19:18:08
+[' Răsarit = 08:03:53 Apus = 16:42:53 Min (°C) = 7.34 Max (°C) =13.04 Presiune = 1027 Umiditate (%) = 79 Index UV = 0 Viteza vântului = 0.64 Unghiul vântului = 104 Stare = nori 50-85%']
+Sovata: 01 \ marți \ 03:1:2023 \ 19:20:38
+[' Răsarit = 08:03:50 Apus = 16:43:50 Min (°C) = 5.73 Max (°C) =11.12 Presiune = 1027 Umiditate (%) = 90 Index UV = 0 Viteza vântului = 0.23 Unghiul vântului = 305 Stare = nori 50-85%']
+Sovata: 01 \ miercuri \ 04:1:2023 \ 19:17:34
+[' Răsarit = 08:03:45 Apus = 16:44:49 Min (°C) = 3.98 Max (°C) =6.53 Presiune = 1028 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 0.97 Unghiul vântului = 249 Stare = nori 85-100%']
+Sovata: 01 \ joi \ 05:1:2023 \ 19:19:07
+[' Răsarit = 08:03:37 Apus = 16:45:50 Min (°C) = 2.13 Max (°C) =6.28 Presiune = 1014 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 4.52 Unghiul vântului = 272 Stare = ploaie ușoară']
+Sovata: 01 \ vineri \ 06:1:2023 \ 19:24:27
+[' Răsarit = 08:03:26 Apus = 16:46:53 Min (°C) = 1.12 Max (°C) =5.78 Presiune = 1025 Umiditate (%) = 88 Index UV = 0 Viteza vântului = 1.71 Unghiul vântului = 285 Stare = nori 85-100%']
+Sovata: 01 \ sâmbătă \ 07:1:2023 \ 19:15:18
+[' Răsarit = 08:03:13 Apus = 16:47:58 Min (°C) = 0.97 Max (°C) =3.61 Presiune = 1024 Umiditate (%) = 97 Index UV = 0 Viteza vântului = 0.65 Unghiul vântului = 149 Stare = nori 85-100%']
+Sovata: 01 \ duminică \ 08:1:2023 \ 19:16:37
+[' Răsarit = 08:02:57 Apus = 16:49:05 Min (°C) = 1.28 Max (°C) =8.55 Presiune = 1020 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 103 Stare = cer senin']
+Sovata: 02 \ luni \ 09:1:2023 \ 19:16:50
+[' Răsarit = 08:02:38 Apus = 16:50:14 Min (°C) = 2.42 Max (°C) =8.72 Presiune = 1012 Umiditate (%) = 73 Index UV = 0 Viteza vântului = 2.71 Unghiul vântului = 99 Stare = nori 85-100%']
+Sovata: 02 \ marți \ 10:1:2023 \ 19:14:20
+[' Răsarit = 08:02:17 Apus = 16:51:24 Min (°C) = 3.32 Max (°C) =9.27 Presiune = 1010 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 2.79 Unghiul vântului = 60 Stare = ploaie ușoară']
+Sovata: 02 \ miercuri \ 11:1:2023 \ 19:16:22
+[' Răsarit = 08:01:53 Apus = 16:52:36 Min (°C) = 2.95 Max (°C) =7.91 Presiune = 1021 Umiditate (%) = 84 Index UV = 0 Viteza vântului = 1.63 Unghiul vântului = 76 Stare = nori 85-100%']
+Sovata: 02 \ joi \ 12:1:2023 \ 19:15:30
+[' Răsarit = 08:01:26 Apus = 16:53:50 Min (°C) = 3.77 Max (°C) =5.89 Presiune = 1022 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.85 Unghiul vântului = 244 Stare = nori 85-100%']
+Sovata: 02 \ vineri \ 13:1:2023 \ 19:21:00
+[' Răsarit = 08:00:57 Apus = 16:55:05 Min (°C) = 2.56 Max (°C) =5.73 Presiune = 1022 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 0.3 Unghiul vântului = 100 Stare = nori 50-85%']
+Sovata: 02 \ sâmbătă \ 14:1:2023 \ 19:16:47
+[' Răsarit = 08:00:26 Apus = 16:56:21 Min (°C) = 0.59 Max (°C) =5.55 Presiune = 1024 Umiditate (%) = 93 Index UV = 0 Viteza vântului = 0.26 Unghiul vântului = 75 Stare = nori 50-85%']
+Sovata: 02 \ duminică \ 15:1:2023 \ 19:17:53
+[' Răsarit = 07:59:51 Apus = 16:57:39 Min (°C) = 0.17 Max (°C) =6.02 Presiune = 1017 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 0.88 Unghiul vântului = 95 Stare = cer senin']
+Sovata: 03 \ luni \ 16:1:2023 \ 19:15:33
+[' Răsarit = 07:59:15 Apus = 16:58:58 Min (°C) = 1.76 Max (°C) =6.85 Presiune = 1004 Umiditate (%) = 63 Index UV = 0 Viteza vântului = 1.7 Unghiul vântului = 115 Stare = nori 85-100%']
+Sovata: 03 \ marți \ 17:1:2023 \ 19:17:37
+[' Răsarit = 07:58:36 Apus = 17:00:19 Min (°C) = 2.76 Max (°C) =6.61 Presiune = 1000 Umiditate (%) = 89 Index UV = 0 Viteza vântului = 2.59 Unghiul vântului = 90 Stare = nori 50-85%']
+Sovata: 03 \ miercuri \ 18:1:2023 \ 19:19:36
+[' Răsarit = 07:57:54 Apus = 17:01:40 Min (°C) = 5.17 Max (°C) =11.32 Presiune = 1004 Umiditate (%) = 86 Index UV = 0 Viteza vântului = 1.08 Unghiul vântului = 102 Stare = nori 50-85%']
+Sovata: 03 \ joi \ 19:1:2023 \ 19:14:54
+[' Răsarit = 07:57:10 Apus = 17:03:03 Min (°C) = 6.35 Max (°C) =14.41 Presiune = 1006 Umiditate (%) = 83 Index UV = 0 Viteza vântului = 2.89 Unghiul vântului = 277 Stare = ploaie ușoară']
+Sovata: 03 \ vineri \ 20:1:2023 \ 19:14:35
+[' Răsarit = 07:56:24 Apus = 17:04:27 Min (°C) = 5.56 Max (°C) =10.42 Presiune = 1002 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 4.85 Unghiul vântului = 126 Stare = nori 85-100%']
+Sovata: 03 \ sâmbătă \ 21:1:2023 \ 19:15:02
+[' Răsarit = 07:55:35 Apus = 17:05:51 Min (°C) = 1.28 Max (°C) =7.77 Presiune = 1016 Umiditate (%) = 80 Index UV = 0 Viteza vântului = 2.65 Unghiul vântului = 80 Stare = cer senin']
+Sovata: 04 \ luni \ 23:1:2023 \ 17:03:32
+[' Răsarit = 07:53:51 Apus = 17:08:43 Min (°C) = 2.59 Max (°C) =9.57 Presiune = 1028 Umiditate (%) = 64 Index UV = 0 Viteza vântului = 2.93 Unghiul vântului = 72 Stare = cer senin']
+Sovata: 04 \ marți \ 24:1:2023 \ 20:04:28
+[' Răsarit = 07:52:55 Apus = 17:10:10 Min (°C) = 0.1 Max (°C) =6.44 Presiune = 1033 Umiditate (%) = 71 Index UV = 0 Viteza vântului = 1.89 Unghiul vântului = 75 Stare = nori 10-25%']
+Sovata: 04 \ miercuri \ 25:1:2023 \ 21:54:51
+[' Răsarit = 07:51:58 Apus = 17:11:38 Min (°C) = -2.66 Max (°C) =2.52 Presiune = 1028 Umiditate (%) = 74 Index UV = 0 Viteza vântului = 1.23 Unghiul vântului = 99 Stare = cer senin']
